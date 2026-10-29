@@ -65,6 +65,9 @@ ENLACES = [
      "Calcula tu factura de luz", "https://kiloclarord.com", "kiloclarord.com"),
 ]
 
+# Títulos que no son noticias de verdad (se saltan)
+BASURA = r"^en vivo\b|\ben vivo -|gu[ií]a deportiva|resultados de (las )?loter|loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada"
+
 ARCHIVO = "docs/noticias.json"
 POR_FUENTE = 3        # noticias que mira de cada fuente por corrida
 MAX_GUARDADAS = 300
@@ -100,8 +103,9 @@ def resumir(titulo, texto):
         messages=[{"role": "user", "content":
             "Escribe un resumen corto (2-3 oraciones) en español, con tus propias palabras, "
             "neutral y sin inventar datos, de esta noticia. Si solo tienes el título, "
-            "resume lo que dice el título sin agregar detalles. No copies frases textuales. "
-            "Responde solo con el resumen.\n\n"
+            "escribe una o dos oraciones con lo que dice el título, sin agregar detalles. "
+            "Nunca menciones que falta información, que solo tienes el título o 'según el título'. "
+            "No copies frases textuales. Responde solo con el resumen.\n\n"
             f"Título: {titulo}\nTexto: {texto}"}])
     return msg.content[0].text.strip()
 
@@ -138,6 +142,8 @@ def buscar(guardadas):
                 link = e.get("link", "")
                 if not titulo or not link or link in vistos or titulo in vistos:
                     continue
+                if re.search(BASURA, titulo, re.I) or len(titulo.split()) < 4:
+                    continue  # en vivo, guías, loterías y títulos sin noticia
                 try:
                     resumen = resumir(titulo, limpiar(e.get("summary", "")))
                 except Exception as err:
