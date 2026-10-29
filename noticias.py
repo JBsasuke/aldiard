@@ -530,12 +530,18 @@ def generar_html(todas, consejos):
 <meta property="og:image" content="{SITIO}/img/logo-512.png">
 <meta property="og:url" content="{SITIO}">
 <meta name="theme-color" content="#002d62">
+<script>try{{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <link rel="icon" type="image/png" href="img/favicon.png">
 <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap" rel="stylesheet">
 <style>
-:root{{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff}}
+:root{{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+ --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}}
+@media (prefers-color-scheme:dark){{:root:not([data-theme=light]){{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+ --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}}}
+:root[data-theme=dark]{{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+ --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
 *{{box-sizing:border-box}}
 body{{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}}
 a{{color:inherit}}
@@ -543,28 +549,32 @@ a{{color:inherit}}
 header{{background:var(--blanco);border-bottom:1px solid var(--linea);position:sticky;top:0;z-index:10}}
 .barra{{max-width:1100px;margin:auto;padding:12px 16px;display:flex;align-items:center;gap:12px}}
 .barra img{{width:44px;height:44px;border-radius:10px}}
-.marca{{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--azul);text-decoration:none}}
+.marca{{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--enlace);text-decoration:none}}
 .marca span{{color:var(--rojo)}}
 .hoy{{margin-left:auto;color:var(--gris);font-size:14px}}
+.redes{{display:flex;gap:8px;margin-left:12px}}
+.red{{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}}
+.red:hover{{border-color:var(--enlace);color:var(--enlace)}}
+.red svg{{width:18px;height:18px}}
 nav{{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}}
 nav button{{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}}
-nav button[aria-pressed=true]{{background:var(--azul);border-color:var(--azul);color:#fff}}
+nav button[aria-pressed=true]{{background:var(--azul);border-color:var(--enlace);color:#fff}}
 main{{max-width:1100px;margin:auto;padding:20px 16px 40px}}
 .nota{{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}}
 .meta{{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}}
 .chip{{font-weight:800;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--rojo)}}
-.nota.us{{border-top-color:var(--azul)}} .us .chip{{color:var(--azul)}}
+.nota.us{{border-top-color:var(--enlace)}} .us .chip{{color:var(--enlace)}}
 .nota.pr{{border-top-color:var(--ambar)}} .pr .chip{{color:var(--ambar)}}
 .nota.vj{{border-top-color:var(--morado)}} .vj .chip{{color:var(--morado)}}
 .nota.fa{{border-top-color:var(--rosa)}} .fa .chip{{color:var(--rosa)}}
 .nota.in{{border-top-color:var(--verdeazul)}} .in .chip{{color:var(--verdeazul)}}
 .nota h2{{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}}
 .nota h2 a{{text-decoration:none}} .nota h2 a:hover{{text-decoration:underline}}
-.nota p{{margin:0;color:#353b47;line-height:1.55;font-size:15.5px}}
-.fuente{{margin-top:auto;padding-top:6px;font-weight:600;font-size:14px;color:var(--azul);text-decoration:none}}
+.nota p{{margin:0;color:var(--texto2);line-height:1.55;font-size:15.5px}}
+.fuente{{margin-top:auto;padding-top:6px;font-weight:600;font-size:14px;color:var(--enlace);text-decoration:none}}
 .fuente:hover{{text-decoration:underline}}
 .fuente.chica{{font-weight:500;font-size:12.5px;color:var(--gris);padding-top:2px}}
-.extra{{align-self:flex-start;font-size:13.5px;font-weight:600;text-decoration:none;color:#0f5132;background:#e8f5ee;border:1px solid #cde9d9;padding:6px 10px;border-radius:8px}}
+.extra{{align-self:flex-start;font-size:13.5px;font-weight:600;text-decoration:none;color:var(--extra-t);background:var(--extra-f);border:1px solid var(--extra-b);padding:6px 10px;border-radius:8px}}
 .directo{{margin-top:auto;align-self:flex-start;font-size:15px;font-weight:800;text-decoration:none;color:#fff;background:#157347;padding:10px 14px;border-radius:10px}}
 .extra:hover,.directo:hover{{text-decoration:underline}}
 .destacada{{padding:26px 28px;margin-bottom:18px}}
@@ -579,12 +589,12 @@ main{{max-width:1100px;margin:auto;padding:20px 16px 40px}}
 .rejilla{{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}}
 .oculta{{display:none}}
 .vacio{{text-align:center;color:var(--gris);padding:60px 0}}
-footer{{background:var(--azul);color:#cfd8e6;font-size:14px}}
+footer{{background:var(--pie);color:#cfd8e6;font-size:14px}}
 .pie{{max-width:1100px;margin:auto;padding:28px 16px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}}
 .pie img{{width:48px;height:48px;border-radius:10px}}
 .pie a{{color:#fff;font-weight:600}}
 .legal{{width:100%;border-top:1px solid #ffffff22;padding-top:14px;font-size:13px}}
-@media (max-width:600px){{.hoy{{display:none}}.destacada{{padding:20px}}}}
+@media (max-width:600px){{.hoy{{display:none}}.redes{{margin-left:auto}}.destacada{{padding:20px}}}}
 </style></head>
 <body>
 <div class="franja"></div>
@@ -593,6 +603,11 @@ footer{{background:var(--azul);color:#cfd8e6;font-size:14px}}
     <img src="img/logo-512.png" alt="">
     <a class="marca" href="./">Al Día <span>RD</span></a>
     <div class="hoy" id="hoy"></div>
+    <div class="redes">
+      <a class="red" href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
+      <a class="red" href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.3L5.3 21H2.2l7.2-8.3L2 3h6.4l4.4 5.8L17.8 3zm-1.1 16.2h1.7L7.4 4.7H5.6l11.1 14.5z"/></svg></a>
+      <button class="red" id="tema" aria-label="Cambiar entre modo claro y oscuro"></button>
+    </div>
   </div>
   <nav><button data-f="todas" aria-pressed="true">Todas</button>{botones_nav}</nav>
 </header>
@@ -600,13 +615,18 @@ footer{{background:var(--azul);color:#cfd8e6;font-size:14px}}
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="img/logo-512.png" alt="">
     <div>Resúmenes propios hechos a partir de las noticias de cada medio.<br>Cada noticia enlaza a su fuente original.</div></div>
-  <div>Síguenos en Instagram: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">@{INSTAGRAM}</a><br>
+  <div>Síguenos: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
     También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
   <div class="legal"><a href="quienes-somos.html">Quiénes somos</a> · <a href="contacto.html">Contacto</a> ·
     <a href="privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
 </div></footer>
 <script>
+var raiz=document.documentElement,btn=document.getElementById('tema');
+function oscuro(){{return raiz.dataset.theme?raiz.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches}}
+function icono(){{btn.innerHTML=oscuro()?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'}}
+icono(); matchMedia('(prefers-color-scheme: dark)').addEventListener('change',icono);
+btn.onclick=function(){{var t=oscuro()?'light':'dark';raiz.dataset.theme=t;try{{localStorage.setItem('tema',t)}}catch(e){{}}icono()}};
 var hoy=new Date().toLocaleDateString('es-DO',{{weekday:'long',day:'numeric',month:'long',year:'numeric'}});
 document.getElementById('hoy').textContent=hoy.charAt(0).toUpperCase()+hoy.slice(1);
 function hace(iso){{var m=Math.round((Date.now()-new Date(iso))/60000);
