@@ -21,12 +21,23 @@ FUENTES_USA = [gnews(q) for q in (
     "dominicanos Nueva York", "dominicanos New Jersey", "dominicanos Florida",
     "dominicanos Massachusetts", "dominicanos Pensilvania", "dominicanos Rhode Island",
     "comunidad dominicana Estados Unidos")]
-FUENTES_INTER = [
-    "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=US&ceid=US:es-419",
-    gnews("site:bbc.com/mundo"), gnews("site:cnnespanol.cnn.com"), gnews("noticias internacionales hoy")]
+# Internacionales: primero Estados Unidos y después los países que hablan español
+PRIORIDAD_INTER = [gnews("Estados Unidos noticias hoy en español"), gnews("inmigración Estados Unidos latinos"),
+                   gnews("site:univision.com noticias Estados Unidos"), gnews("site:telemundo.com noticias")]
+FUENTES_INTER = [gnews(q) for q in (
+    "Puerto Rico noticias hoy", "México noticias hoy", "Colombia noticias hoy", "Venezuela noticias hoy",
+    "Cuba noticias hoy", "Haití noticias hoy", "Centroamérica noticias hoy", "Panamá noticias hoy",
+    "España noticias hoy", "Argentina noticias hoy", "Chile Perú noticias hoy", "Ecuador Bolivia noticias hoy",
+    "noticias América Latina hoy")] + [
+    "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es&gl=ES&ceid=ES:es"]  # portada de España
+PRIORIDAD_FAMOSOS = [gnews(q) for q in (
+    "farándula dominicana", "artistas dominicanos", "Alofoke", "site:deultimominuto.com farándula",
+    "música urbana dominicana", "Premios Soberano")]
 FUENTES_FAMOSOS = [gnews(q) for q in (
-    "Alofoke", "site:deultimominuto.com farándula", "farándula dominicana", "artistas dominicanos", "famosos Hollywood",
-    "celebridades latinas Estados Unidos", "música urbana dominicana")]
+    "famosos Hollywood", "celebridades latinas Estados Unidos", "farándula hoy", "famosos noticias hoy",
+    "cantante reguetón", "actriz telenovela", "estreno película Hollywood", "Latin Grammy",
+    "site:hola.com famosos", "site:peopleenespanol.com", "site:infobae.com teleshow", "site:billboard.com/espanol",
+    "site:univision.com famosos", "site:telemundo.com entretenimiento")]
 FUENTES_PRECIOS = [gnews(q) for q in (
     "precios combustibles República Dominicana", "precio gasolina gasoil GLP semana MICM",
     "precio del dólar hoy República Dominicana", "precios canasta básica República Dominicana")]
@@ -44,10 +55,10 @@ SEC_PRECIOS, SEC_JUEGOS = "Precios y combustibles", "Videojuegos"
 # El programa corre cada hora: estos cupos dan como mucho 7 noticias nuevas por hora
 # (ahora son más largas y cuestan más de IA, por eso son menos).
 SECCIONES = {
-    SEC_RD:      (FUENTES_RD,      2, "rd", (206, 17, 38)),   # 2 por hora; las demás 1
-    SEC_USA:     (FUENTES_USA,     1, "us", (0, 45, 98)),
+    SEC_RD:      (FUENTES_RD,      3, "rd", (206, 17, 38)),   # primero RD
+    SEC_USA:     (FUENTES_USA,     2, "us", (0, 45, 98)),     # después EE.UU.
     SEC_INTER:   (FUENTES_INTER,   1, "in", (15, 118, 110)),
-    SEC_FAMOSOS: (FUENTES_FAMOSOS, 1, "fa", (190, 24, 93)),
+    SEC_FAMOSOS: (FUENTES_FAMOSOS, 2, "fa", (190, 24, 93)),
     SEC_PRECIOS: (FUENTES_PRECIOS, 1, "pr", (180, 83, 9)),
     SEC_JUEGOS:  (FUENTES_JUEGOS,  1, "vj", (109, 40, 217)),
 }
@@ -64,6 +75,14 @@ laopinion.com elmundo.es elpais.com efe.com swissinfo.ch bbc.com cnn.com cnnespa
 reuters.com france24.com dw.com infobae.com rtve.es europapress.es lavanguardia.com abc.es
 euronews.com elespanol.com clarin.com eltiempo.com eluniversal.com.mx
 peopleenespanol.com hola.com billboard.com quien.com nytimes.com presidencia.gob.do
+eltiempo.com semana.com elespectador.com milenio.com excelsior.com.mx elfinanciero.com.mx proceso.com.mx
+lanacion.com.ar pagina12.com.ar latercera.com emol.com biobiochile.cl elcomercio.pe larepublica.pe
+elnacional.com efectococuyo.com talcualdigital.com elnuevodia.com primerahora.com telemundopr.com
+elsalvador.com prensalibre.com laprensa.hn elheraldo.hn nacion.com prensa.com laestrella.com.pa
+confidencial.digital 14ymedio.com eluniverso.com primicias.ec elpais.com.uy elobservador.com.uy
+eldeber.com.bo abc.com.py
+20minutos.es elconfidencial.com eldiario.es lasexta.com antena3.com elperiodico.com cadenaser.com cope.es
+tvnotas.com.mx eonline.com rollingstone.com lecturas.com
 sportingnews.com laprensagrafica.com es.gizmodo.com gizmodo.com fayerwayer.com pokemon.com 3djuegos.com.mx
 ign.com latam.ign.com 3djuegos.com vandal.elespanol.com vandal.net hobbyconsolas.com xataka.com
 as.com levelup.com eurogamer.es gamespot.com nintendo.com playstation.com xbox.com
@@ -315,8 +334,11 @@ publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas regl
 - Español claro y neutral, frases cortas, para dominicanos en RD y en EE.UU.
 - No digas "el artículo", "el texto", "la nota" ni "según el título". Nunca escribas notas o comentarios para mí.
 - Di a qué SECCION pertenece, escogiendo una de estas:
-  República Dominicana (lo que pasa en el país) · Dominicanos en EE.UU. (dominicanos o su comunidad en Estados Unidos) ·
-  Internacionales (otros países) · Precios y combustibles (precios, combustibles, dólar, canasta básica) ·
+  República Dominicana (lo que pasa en el país) ·
+  Dominicanos en EE.UU. (SOLO si la noticia trata de dominicanos o de la comunidad dominicana que vive en Estados
+  Unidos; una noticia de la política o la vida de EE.UU. donde no salen dominicanos va en Internacionales) ·
+  Internacionales (Estados Unidos y los países que hablan español; de otros países solo lo muy importante,
+  como guerras, catástrofes o grandes noticias mundiales) · Precios y combustibles (precios, combustibles, dólar, canasta básica) ·
   Videojuegos (juegos, consolas, estudios de videojuegos) ·
   Famosos (SOLO personas famosas: artistas, cantantes, actores, cine, series, Hollywood, farándula, influencers y
   personalidades conocidas, por su vida, su carrera o sus polémicas; si una persona famosa, como el dueño de una gran
@@ -408,6 +430,14 @@ def seccion_de_ia(texto):
             return nombre
     return ""
 
+def verificar_seccion(seccion, texto):
+    """Revisión final, sin IA: en 'Dominicanos en EE.UU.' tiene que hablarse de dominicanos."""
+    dominicano = (r"dominican|quisqueyan|\brd\b|rep[uú]blica dominicana|fuerza del pueblo|\bfp\b|\bprm\b|\bpld\b"
+                  r"|\bjce\b|junta central electoral|c[eé]dula|cedulaci[oó]n|consulado|di[aá]spora|abinader|banreservas")
+    if seccion == SEC_USA and not re.search(dominicano, texto, re.I):
+        return SEC_INTER
+    return seccion
+
 def similares(a, b, minimo=2):
     return len(_palabras(a) & _palabras(b)) >= minimo
 
@@ -445,10 +475,11 @@ def buscar(guardadas):
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
         cupo = cupo * 2 if llenar else cupo
         de_esta, intentos = 0, 0
-        orden = (PRIORIDAD_RD + rotar(fuentes)) if seccion == SEC_RD else rotar(fuentes)
+        prioridad = {SEC_RD: PRIORIDAD_RD, SEC_INTER: PRIORIDAD_INTER, SEC_FAMOSOS: PRIORIDAD_FAMOSOS}.get(seccion, [])
+        orden = prioridad + rotar(fuentes)
         for url in orden:
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
-                if de_esta >= cupo or intentos >= cupo * 2:
+                if de_esta >= cupo or intentos >= cupo * 3:
                     break
                 fuente = nombre_medio(e, dominio(e))
                 titulo = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
@@ -513,6 +544,7 @@ def buscar(guardadas):
                     CUENTA["cambiadas de sección"] += 1
                     print(f"Cambiada de sección: {seccion} -> {sec_ia}: {titulo}")
                     sec_final = sec_ia
+                sec_final = verificar_seccion(sec_final, r["titulo"] + " " + " ".join(r["parrafos"]))
                 CUENTA["medios juntados"] += len(versiones) - 1
                 if not es_larga(r):
                     CUENTA["ocultas (cortas)"] += 1
@@ -533,7 +565,8 @@ def buscar(guardadas):
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
                                "seccion": sec_final, "fecha": ahora().isoformat()})
                 recientes.append(titulo)
-                de_esta += 1
+                if sec_final == seccion:  # si se fue a otra sección, no gasta el cupo de esta
+                    de_esta += 1
     return nuevas
 
 def es_larga(n):
@@ -733,7 +766,8 @@ def elegir_para_instagram(todas):
             and not re.search(BASURA, n["titulo"], re.I)]
     if not pool:
         return None
-    pool.sort(key=lambda n: (n.get("tendencia", 1), n["fecha"]), reverse=True)
+    peso = {SEC_RD: 2, SEC_USA: 1}  # RD primero, después EE.UU., después lo demás
+    pool.sort(key=lambda n: (n.get("tendencia", 1) + peso.get(n["seccion"], 0), n["fecha"]), reverse=True)
     publicadas = sorted((n for n in todas if n.get("ig_fecha")), key=lambda n: n["ig_fecha"])
     ultima_sec = publicadas[-1]["seccion"] if publicadas else None
     mejor = pool[0]
@@ -1044,8 +1078,11 @@ def generar_portada(todas, consejos):
 </aside>"""
     lista = visibles(todas)[:120]
     if lista:
-        cuerpo = (tarjeta(lista[0], True) + bloque_consejo + '<div class="rejilla">'
-                  + "".join(tarjeta(n) for n in lista[1:]) + "</div>")
+        # arriba, grande: la noticia de RD más reciente (si hay); después todas por orden de llegada
+        top = next((n for n in lista[:15] if n["seccion"] == SEC_RD), lista[0])
+        resto = [n for n in lista if n is not top]
+        cuerpo = (tarjeta(top, True) + bloque_consejo + '<div class="rejilla">'
+                  + "".join(tarjeta(n) for n in resto) + "</div>")
     else:
         cuerpo = bloque_consejo + "<p class='vacio'>Pronto tendremos noticias aquí.</p>"
     nav = ('\n  <nav><button data-f="todas" aria-pressed="true">Todas</button>' + "".join(
@@ -1165,6 +1202,11 @@ def principal():
     todas = [n for n in todas if not re.search(BASURA, n["titulo"], re.I)]  # saca las viejas tipo "En Vivo"
     for n in todas:
         n["resumen"] = quitar_relleno(n["resumen"])
+        antes = n["seccion"]
+        if n.get("parrafos"):  # solo las largas: las viejas cortas no tienen texto para decidir
+            n["seccion"] = verificar_seccion(antes, n["titulo"] + " " + " ".join(n["parrafos"]))
+        if n["seccion"] != antes:
+            print(f"Corregida de sección: {antes} -> {n['seccion']}: {n['titulo']}")
         if not n.get("id"):  # las más viejas no tenían número; lo necesitan para su página
             n["id"] = hashlib.md5(n["link"].encode()).hexdigest()[:10]
     calcular_tendencia(todas)
