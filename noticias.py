@@ -9,6 +9,11 @@ INSTAGRAM = "aldiardnews"
 MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 HORA_RD = timezone(timedelta(hours=-4))   # República Dominicana (no cambia de hora)
 
+def gnews_en(q):
+    """Google News en inglés (para páginas oficiales de EE.UU. o de videojuegos que publican en inglés)."""
+    return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:2d")
+            + "&hl=en-US&gl=US&ceid=US:en")
+
 def gnews(q):
     return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:1d")
             + "&hl=es-419&gl=US&ceid=US:es-419")
@@ -22,7 +27,9 @@ FUENTES_USA = [gnews(q) for q in (
     "dominicanos Massachusetts", "dominicanos Pensilvania", "dominicanos Rhode Island",
     "comunidad dominicana Estados Unidos")]
 # Internacionales: primero Estados Unidos y después los países que hablan español
-PRIORIDAD_INTER = [gnews("Estados Unidos noticias hoy en español"), gnews("inmigración Estados Unidos latinos"),
+PRIORIDAD_INTER = [gnews_en("site:whitehouse.gov"), gnews_en("site:state.gov"), gnews("site:gov"),
+                   gnews("site:gob.mx OR site:lamoncloa.gob.es OR site:gov.co OR site:pr.gov"),
+                   gnews("Estados Unidos noticias hoy en español"), gnews("inmigración Estados Unidos latinos"),
                    gnews("site:univision.com noticias Estados Unidos"), gnews("site:telemundo.com noticias")]
 FUENTES_INTER = [gnews(q) for q in (
     "Puerto Rico noticias hoy", "México noticias hoy", "Colombia noticias hoy", "Venezuela noticias hoy",
@@ -45,7 +52,12 @@ FUENTES_JUEGOS = [gnews(q) for q in (
     "GTA 6", "videojuegos lanzamiento", "PlayStation 5 juegos", "Nintendo Switch 2", "Xbox juegos")]
 
 # Se revisan primero en cada corrida, antes que los demás (De Último Minuto, directo y por Google News)
-PRIORIDAD_RD = ["https://deultimominuto.com/feed/", gnews("site:deultimominuto.com")]
+PRIORIDAD_RD = [gnews("site:presidencia.gob.do"), gnews("site:gob.do"), gnews("site:gov.do"),
+                "https://deultimominuto.com/feed/", gnews("site:deultimominuto.com")]
+PRIORIDAD_USA = [gnews("dominicanos site:gov"), gnews("dominicanos site:gob.do"), gnews_en("Dominican site:gov")]
+PRIORIDAD_PRECIOS = [gnews("site:micm.gob.do"), gnews("site:bancentral.gov.do"), gnews("site:proconsumidor.gob.do")]
+PRIORIDAD_JUEGOS = [gnews_en("site:nintendo.com"), gnews_en("site:blog.playstation.com"), gnews_en("site:news.xbox.com"),
+                    gnews_en("site:rockstargames.com"), gnews("site:nintendo.com")]
 NOMBRES_MEDIOS = {"deultimominuto.com": "De Último Minuto", "deultimominuto.net": "De Último Minuto"}
 
 SEC_RD, SEC_USA = "República Dominicana", "Dominicanos en EE.UU."
@@ -234,8 +246,22 @@ def dominio(e):
 def nombre_medio(e, dom):
     return (e.get("source") or {}).get("title") or NOMBRES_MEDIOS.get(dom) or dom
 
+# Fuentes oficiales: gobiernos (.gob/.gov de RD, EE.UU. y cualquier país), organismos internacionales
+# y las páginas oficiales de las compañías de videojuegos. Siempre se prefieren antes que un periódico.
+OFICIALES = """
+un.org who.int paho.org oas.org iadb.org imf.org worldbank.org
+edenorte.com.do edesur.com.do edeeste.com.do
+nintendo.com playstation.com blog.playstation.com xbox.com news.xbox.com rockstargames.com ea.com
+ubisoft.com news.ubisoft.com pokemon.com bethesda.net blizzard.com epicgames.com capcom.com square-enix.com
+""".split()
+
+def es_oficial(dom):
+    return bool(dom) and (bool(re.search(r"(^|\.)(gob|gov)(\.[a-z]{2})?$", dom))
+                          or any(dom == c or dom.endswith("." + c) for c in OFICIALES))
+
 def es_confiable(dom):
-    return bool(dom) and ("alofoke" in dom or any(dom == c or dom.endswith("." + c) for c in CONFIABLES))
+    return bool(dom) and ("alofoke" in dom or es_oficial(dom)
+                          or any(dom == c or dom.endswith("." + c) for c in CONFIABLES))
 
 NAVEGADOR = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -473,13 +499,26 @@ def verificar_seccion(seccion, texto):
 def similares(a, b, minimo=2):
     return len(_palabras(a) & _palabras(b)) >= minimo
 
-def otras_versiones(titulo, dom_principal, vistos):
-    """Busca la misma noticia en otros medios confiables (Google News por el titular)."""
+SITIOS_OFICIALES = {
+    SEC_RD: "site:gob.do OR site:gov.do", SEC_PRECIOS: "site:gob.do OR site:gov.do",
+    SEC_USA: "site:gov OR site:gob.do OR site:gov.do",
+    SEC_INTER: "site:gov OR site:gob.mx OR site:gob.es OR site:gov.co OR site:pr.gov OR site:un.org OR site:who.int",
+    SEC_JUEGOS: "site:nintendo.com OR site:playstation.com OR site:xbox.com OR site:rockstargames.com OR site:ea.com OR site:ubisoft.com",
+}
+
+def otras_versiones(titulo, dom_principal, vistos, seccion=None):
+    """Busca la misma noticia primero en las fuentes oficiales y después en otros medios confiables."""
     claves = sorted(_palabras(titulo), key=len, reverse=True)[:6]
     if len(claves) < 2:
         return []
     salida, doms = [], {dom_principal}
-    for e in feedparser.parse(gnews(" ".join(claves))).entries[:12]:
+    busquedas = []
+    if seccion in SITIOS_OFICIALES:
+        consulta = " ".join(claves) + " (" + SITIOS_OFICIALES[seccion] + ")"
+        busquedas += [gnews(consulta), gnews_en(consulta)] if seccion in (SEC_INTER, SEC_JUEGOS, SEC_USA) else [gnews(consulta)]
+    busquedas.append(gnews(" ".join(claves)))
+    entradas = [e for b in busquedas for e in feedparser.parse(b).entries[:12]]
+    for e in entradas:
         dom = dominio(e)
         fuente = e.get("source", {}).get("title", "Fuente")
         t = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
@@ -487,12 +526,13 @@ def otras_versiones(titulo, dom_principal, vistos):
             continue
         doms.add(dom)
         salida.append((e, dom, fuente, t))
-        if len(salida) >= MAX_MEDIOS - 1:
+        if len(salida) >= MAX_MEDIOS:
             break
-    return salida
+    salida.sort(key=lambda x: not es_oficial(x[1]))  # las oficiales primero
+    return salida[:MAX_MEDIOS - 1] if not any(es_oficial(x[1]) for x in salida) else salida[:MAX_MEDIOS]
 
 CUENTA = {"tasa/combustibles (usamos datos propios)": 0, "ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
-          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
+          "sin texto": 0, "medios juntados": 0, "con fuente oficial": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -507,7 +547,9 @@ def buscar(guardadas):
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
         cupo = cupo * 2 if llenar else cupo
         de_esta, intentos = 0, 0
-        prioridad = {SEC_RD: PRIORIDAD_RD, SEC_INTER: PRIORIDAD_INTER, SEC_FAMOSOS: PRIORIDAD_FAMOSOS}.get(seccion, [])
+        prioridad = {SEC_RD: PRIORIDAD_RD, SEC_USA: PRIORIDAD_USA, SEC_INTER: PRIORIDAD_INTER,
+                     SEC_FAMOSOS: PRIORIDAD_FAMOSOS, SEC_PRECIOS: PRIORIDAD_PRECIOS,
+                     SEC_JUEGOS: PRIORIDAD_JUEGOS}.get(seccion, [])
         orden = prioridad + rotar(fuentes)
         for url in orden:
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
@@ -535,7 +577,7 @@ def buscar(guardadas):
                     print("Fuente no confiable, se salta:", dom or fuente)
                     continue
                 intentos += 1
-                grupo = [(e, dom, fuente, titulo)] + otras_versiones(titulo, dom, vistos)
+                grupo = [(e, dom, fuente, titulo)] + otras_versiones(titulo, dom, vistos, seccion)
                 versiones = []
                 for ent, d, f, t in grupo:
                     vistos.update((ent.get("link", ""), t))
@@ -560,6 +602,11 @@ def buscar(guardadas):
                     print("No se pudo leer el artículo; no se publica para no salir corta:", titulo)
                     oculta("sin texto")
                     continue
+                oficiales = [v for v in versiones if es_oficial(v["dominio"]) and len(v["texto"]) >= 500]
+                if oficiales:
+                    print("Fuente oficial encontrada; se usa solo esa:", ", ".join(v["fuente"] for v in oficiales))
+                    CUENTA["con fuente oficial"] += 1
+                    versiones = oficiales
                 try:
                     r = redactar(versiones)
                 except Exception as err:
@@ -590,7 +637,8 @@ def buscar(guardadas):
                     oculta("corta")
                     continue
                 CUENTA["largas"] += 1
-                principal = max(versiones, key=lambda v: len(v["texto"]))  # la más completa va de primera
+                # de primera: la oficial (si hay) y si no, la más completa
+                principal = max(versiones, key=lambda v: (es_oficial(v["dominio"]), len(v["texto"])))
                 versiones.sort(key=lambda v: v is not principal)
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
                                "titulo": r["titulo"], "titulo_original": titulo,
@@ -599,6 +647,7 @@ def buscar(guardadas):
                                "link": link, "url": principal["url"],
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
+                               "institucional": all(es_oficial(v["dominio"]) for v in versiones),
                                "seccion": sec_final, "fecha": ahora().isoformat()})
                 recientes.append(titulo)
                 if sec_final == seccion:  # si se fue a otra sección, no gasta el cupo de esta
@@ -1194,6 +1243,7 @@ T = {
            "volver": "← Todas las noticias", "claves": "En pocas palabras", "importa": "¿Por qué te importa?",
            "credito1": "Redactada por Al Día RD a partir de lo publicado por",
            "credito_datos": "Redactada por Al Día RD con datos de",
+           "credito_inst": "Redactada por Al Día RD con información oficial de",
            "credito2": "Redactada por Al Día RD a partir de lo publicado por estos medios",
            "wa": "Compartir en WhatsApp", "x": "Compartir en X", "fb": "Compartir en Facebook", "mas": "Más de",
            "titulo": "Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
@@ -1209,6 +1259,7 @@ T = {
            "volver": "← All news", "claves": "Key points", "importa": "Why it matters",
            "credito1": "Written by Al Día RD based on reporting by",
            "credito_datos": "Written by Al Día RD using data from",
+           "credito_inst": "Written by Al Día RD using official information from",
            "credito2": "Written by Al Día RD based on reporting by these outlets",
            "wa": "Share on WhatsApp", "x": "Share on X", "fb": "Share on Facebook", "mas": "More from",
            "titulo": "Al Día RD · News from the Dominican Republic, Dominicans in the U.S. and the world",
@@ -1435,7 +1486,7 @@ def generar_notas(todas, lang="es"):
   <h1>{html.escape(titulo)}</h1>
   <div class="cuerpo">{cuerpo}</div>
   {botones_propios(n, lang)}
-  <div class="credito">{t['credito_datos'] if n.get('oficial') else (t['credito2'] if varias else t['credito1'])}:
+  <div class="credito">{t['credito_datos'] if n.get('oficial') else t['credito_inst'] if n.get('institucional') else (t['credito2'] if varias else t['credito1'])}:
     {fuentes_html}</div>
   <div class="compartir">
     <a href="https://wa.me/?text={q(titulo + ' ' + url)}" target="_blank" rel="noopener">{t['wa']}</a>
