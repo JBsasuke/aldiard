@@ -63,7 +63,8 @@ telemundoboston.com telemundonuevainglaterra.com telemundo51.com nbcnews.com apn
 laopinion.com elmundo.es elpais.com efe.com swissinfo.ch bbc.com cnn.com cnnespanol.cnn.com
 reuters.com france24.com dw.com infobae.com rtve.es europapress.es lavanguardia.com abc.es
 euronews.com elespanol.com clarin.com eltiempo.com eluniversal.com.mx
-peopleenespanol.com hola.com billboard.com quien.com
+peopleenespanol.com hola.com billboard.com quien.com nytimes.com presidencia.gob.do
+sportingnews.com laprensagrafica.com es.gizmodo.com gizmodo.com fayerwayer.com pokemon.com 3djuegos.com.mx
 ign.com latam.ign.com 3djuegos.com vandal.elespanol.com vandal.net hobbyconsolas.com xataka.com
 as.com levelup.com eurogamer.es gamespot.com nintendo.com playstation.com xbox.com
 """.split()
@@ -277,7 +278,23 @@ def leer_articulo(link):
 
 def texto_respuesta(msg):
     """Junta todo el texto que devolvió la IA (puede venir en varios bloques)."""
-    return "".join(getattr(b, "text", "") for b in msg.content).strip()
+    return "".join(getattr(b, "text", "") or "" for b in msg.content
+                   if getattr(b, "type", "text") == "text").strip()
+
+def pedir_ia(pedido, max_tokens):
+    """Le pide algo a la IA sin el modo de 'pensar' (que se comía todo el espacio y dejaba la respuesta vacía)."""
+    args = dict(model=MODELO, max_tokens=max_tokens, messages=[{"role": "user", "content": pedido}])
+    try:
+        msg = cliente().messages.create(thinking={"type": "disabled"}, **args)
+    except Exception as err:
+        if "thinking" not in str(err).lower():
+            raise
+        msg = cliente().messages.create(**args)  # este modelo no acepta esa opción: se pide normal
+    t = texto_respuesta(msg)
+    if not t:
+        tipos = ",".join(getattr(b, "type", "?") for b in msg.content)
+        raise ValueError(f"la IA no devolvió texto (motivo: {getattr(msg, 'stop_reason', '?')}, bloques: {tipos or 'ninguno'})")
+    return t
 
 INSTRUCCIONES = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso VERSIONES de una misma noticia
 publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas reglas:
@@ -375,10 +392,8 @@ def redactar(versiones):
     pedido = INSTRUCCIONES.replace("LARGO_AQUI", largo) + "\n\n" + datos
     ultimo = None
     for _ in range(2):  # si la primera respuesta viene mal, se intenta una vez más
-        msg = cliente().messages.create(model=MODELO, max_tokens=1200,
-                                        messages=[{"role": "user", "content": pedido}])
         try:
-            return leer_formato(texto_respuesta(msg))
+            return leer_formato(pedir_ia(pedido, 4000))
         except ValueError as err:
             ultimo = err
     raise ultimo
@@ -783,15 +798,12 @@ def escribir_consejo(tema, titulares):
     sobre = ("cómo cuidar el dinero: cambiar dólares, mandar o recibir remesas pagando menos, "
              "seguir la tasa del dólar, los precios de los combustibles o la bolsa"
              if tema == "divisas" else "cómo ahorrar luz y bajar la factura eléctrica en la casa")
-    msg = cliente().messages.create(
-        model=MODELO, max_tokens=300,
-        messages=[{"role": "user", "content":
+    t = pedir_ia(
             f"Escribe UN consejo práctico para la gente de República Dominicana y los dominicanos en EE.UU. sobre {sobre}. "
             "Puedes inspirarte en los temas de estos titulares de hoy, sin repetirlos:\n- " + "\n- ".join(titulares[:6]) +
             "\n\nNo inventes cifras, tasas ni precios. Tono cercano y claro. "
             "Título de máximo 6 palabras. Texto de 2 oraciones, máximo 220 caracteres. "
-            'Responde solo con JSON: {"titulo": "...", "texto": "..."}'}])
-    t = msg.content[0].text
+            'Responde solo con JSON: {"titulo": "...", "texto": "..."}', 1000)
     datos = json.loads(t[t.find("{"): t.rfind("}") + 1])
     return datos["titulo"].strip(), datos["texto"].strip()
 
