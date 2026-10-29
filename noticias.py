@@ -33,6 +33,10 @@ FUENTES_PRECIOS = [gnews(q) for q in (
 FUENTES_JUEGOS = [gnews(q) for q in (
     "GTA 6", "videojuegos lanzamiento", "PlayStation 5 juegos", "Nintendo Switch 2", "Xbox juegos")]
 
+# Se revisan primero en cada corrida, antes que los demás (De Último Minuto, directo y por Google News)
+PRIORIDAD_RD = ["https://deultimominuto.com/feed/", gnews("site:deultimominuto.com")]
+NOMBRES_MEDIOS = {"deultimominuto.com": "De Último Minuto", "deultimominuto.net": "De Último Minuto"}
+
 SEC_RD, SEC_USA = "República Dominicana", "Dominicanos en EE.UU."
 SEC_INTER, SEC_FAMOSOS = "Internacionales", "Famosos"
 SEC_PRECIOS, SEC_JUEGOS = "Precios y combustibles", "Videojuegos"
@@ -196,8 +200,15 @@ def rotar(lista):
     return lista[k:] + lista[:k]
 
 def dominio(e):
-    d = urllib.parse.urlparse((e.get("source") or {}).get("href", "")).netloc.lower()
+    """El periódico de la noticia: lo dice Google News, o el propio enlace si es el feed directo del medio."""
+    href = (e.get("source") or {}).get("href", "")
+    if not href and "news.google.com" not in e.get("link", ""):
+        href = e.get("link", "")
+    d = urllib.parse.urlparse(href).netloc.lower()
     return d[4:] if d.startswith("www.") else d
+
+def nombre_medio(e, dom):
+    return (e.get("source") or {}).get("title") or NOMBRES_MEDIOS.get(dom) or dom
 
 def es_confiable(dom):
     return bool(dom) and ("alofoke" in dom or any(dom == c or dom.endswith("." + c) for c in CONFIABLES))
@@ -276,11 +287,20 @@ publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas regl
 - LARGO: LARGO_AQUI
 - Español claro y neutral, frases cortas, para dominicanos en RD y en EE.UU.
 - No digas "el artículo", "el texto", "la nota" ni "según el título". Nunca escribas notas o comentarios para mí.
+- Di a qué SECCION pertenece, escogiendo una de estas:
+  República Dominicana (lo que pasa en el país) · Dominicanos en EE.UU. (dominicanos o su comunidad en Estados Unidos) ·
+  Internacionales (otros países) · Precios y combustibles (precios, combustibles, dólar, canasta básica) ·
+  Videojuegos (juegos, consolas, estudios de videojuegos) ·
+  Famosos (SOLO personas famosas: artistas, cantantes, actores, cine, series, Hollywood, farándula, influencers y
+  personalidades conocidas, por su vida, su carrera o sus polémicas; si una persona famosa, como el dueño de una gran
+  empresa, sale por algo personal, sí es Famosos; pero si la noticia trata de una empresa, un producto, la política
+  o los negocios, NO es Famosos) · Ninguna (si no encaja en ninguna).
 - Responde CONFIABLE: no si no es una noticia concreta (por ejemplo la portada de un sitio), si es publicidad,
   un rumor sin fuente o una columna de opinión.
 
 Responde EXACTAMENTE en este formato, sin nada antes ni después:
 CONFIABLE: sí
+SECCION: (una de la lista)
 TITULO: (titular propio, distinto de los originales, máximo 14 palabras)
 RESUMEN: (2 oraciones, máximo 260 caracteres)
 TEXTO:
@@ -299,7 +319,7 @@ def leer_formato(t):
     titulo, resumen = campo("TITULO"), campo("RESUMEN")
     if not titulo or not (resumen or parrafos):
         raise ValueError("respuesta sin el formato esperado: " + t[:200])
-    return {"confiable": not campo("CONFIABLE").lower().startswith("no"),
+    return {"confiable": not campo("CONFIABLE").lower().startswith("no"), "seccion": campo("SECCION"),
             "titulo": titulo.strip('"“” '), "resumen": resumen or parrafos[0][:260], "parrafos": parrafos}
 
 def redactar(versiones):
@@ -324,6 +344,16 @@ def redactar(versiones):
             ultimo = err
     raise ultimo
 
+def seccion_de_ia(texto):
+    """Pasa lo que dijo la IA ('famosos', 'Precios...') al nombre exacto de la sección. '' si no se entiende."""
+    t = _palabras(texto) | {w.lower() for w in re.findall(r"\w+", texto)}
+    if "ninguna" in t:
+        return "Ninguna"
+    for nombre in SECCIONES:
+        if _palabras(nombre) & t or nombre.lower() == texto.lower().strip():
+            return nombre
+    return ""
+
 def similares(a, b, minimo=2):
     return len(_palabras(a) & _palabras(b)) >= minimo
 
@@ -346,7 +376,7 @@ def otras_versiones(titulo, dom_principal, vistos):
     return salida
 
 CUENTA = {"ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
-          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "largas": 0, "cortas": 0}
+          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "cortas": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -356,11 +386,12 @@ def buscar(guardadas):
     nuevas = []
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
         de_esta, intentos = 0, 0
-        for url in rotar(fuentes):
+        orden = (PRIORIDAD_RD + rotar(fuentes)) if seccion == SEC_RD else rotar(fuentes)
+        for url in orden:
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
                 if de_esta >= cupo or intentos >= cupo * 2:
                     break
-                fuente = e.get("source", {}).get("title", "Fuente")
+                fuente = nombre_medio(e, dominio(e))
                 titulo = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
                 link = e.get("link", "")
                 if not titulo or not link or link in vistos or titulo in vistos:
@@ -403,6 +434,16 @@ def buscar(guardadas):
                     CUENTA["descartadas por la IA"] += 1
                     print("La IA la descartó (no es noticia, rumor, opinión o publicidad):", titulo)
                     continue
+                sec_final = seccion
+                sec_ia = seccion_de_ia(r.get("seccion", ""))
+                if sec_ia == "Ninguna":
+                    CUENTA["descartadas por la IA"] += 1
+                    print("No encaja en ninguna sección, se salta:", titulo)
+                    continue
+                if sec_ia and sec_ia != seccion:
+                    CUENTA["cambiadas de sección"] += 1
+                    print(f"Cambiada de sección: {seccion} -> {sec_ia}: {titulo}")
+                    sec_final = sec_ia
                 CUENTA["medios juntados"] += len(versiones) - 1
                 CUENTA["largas" if len(r["parrafos"]) >= 3 else "cortas"] += 1
                 principal = max(versiones, key=lambda v: len(v["texto"]))  # la más completa va de primera
@@ -413,7 +454,7 @@ def buscar(guardadas):
                                "link": link, "url": principal["url"],
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
-                               "seccion": seccion, "fecha": ahora().isoformat()})
+                               "seccion": sec_final, "fecha": ahora().isoformat()})
                 recientes.append(titulo)
                 de_esta += 1
     return nuevas
