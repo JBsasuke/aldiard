@@ -8,7 +8,14 @@ API = "https://graph.instagram.com/v23.0"
 TOKEN = os.environ.get("IG_TOKEN", "").strip()
 USUARIO = os.environ.get("IG_USER_ID", "").strip() or "me"
 MAX_INTENTOS = 3
-HASHTAGS = "#AlDíaRD #RepúblicaDominicana #Dominicanos #NoticiasRD #DominicanosEnUSA"
+from noticias import extras, SEC_USA, SEC_PRECIOS, SEC_JUEGOS
+
+HASHTAGS = {
+    SEC_USA: "#AlDíaRD #Dominicanos #DominicanosEnUSA #NoticiasRD",
+    SEC_PRECIOS: "#AlDíaRD #PreciosRD #Combustibles #RepúblicaDominicana",
+    SEC_JUEGOS: "#AlDíaRD #Videojuegos #Gaming #GTA6 #PlayStation",
+}
+HASHTAGS_RD = "#AlDíaRD #RepúblicaDominicana #Dominicanos #NoticiasRD"
 
 def pedir(url, datos=None):
     cuerpo = urllib.parse.urlencode(datos).encode() if datos else None
@@ -33,7 +40,9 @@ def esperar_imagen(url, minutos=10):
 
 def texto(n):
     t = f"{n['titulo']}\n\n{n['resumen']}\n\nFuente: {n['fuente']}\n"
-    t += "Más noticias en aldiard.com (enlace en la bio)\n\n" + HASHTAGS
+    for e in extras(n):
+        t += f"👉 {e['texto']}: {e['sitio']}\n"
+    t += "Más noticias en aldiard.com (enlace en la bio)\n\n" + HASHTAGS.get(n["seccion"], HASHTAGS_RD)
     return t[:2200]
 
 def publicar(n):
