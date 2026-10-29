@@ -358,7 +358,19 @@ CLAVES:
 - (dato clave)
 IMPORTA: (1 o 2 oraciones, o "-")
 TEXTO:
-(los párrafos, separados por una línea en blanco)"""
+(los párrafos, separados por una línea en blanco)
+
+Después escribe la MISMA noticia en inglés para lectores en EE.UU.: traducción natural y fluida, no palabra
+por palabra, con los mismos hechos, cifras y nombres (las instituciones dominicanas pueden quedar en español):
+TITLE_EN: (headline)
+HOOK_EN: (1 o 2 frases)
+KEYS_EN:
+- (key fact)
+- (key fact)
+- (key fact)
+WHY_EN: (1 o 2 oraciones, o "-")
+TEXT_EN:
+(los mismos párrafos en inglés, separados por una línea en blanco)"""
 
 def partir_parrafos(cuerpo):
     """Separa el texto en párrafos aunque la IA no deje una línea en blanco entre ellos."""
@@ -376,29 +388,49 @@ def partir_parrafos(cuerpo):
             ps = [" ".join(oraciones[i:i + tam]) for i in range(0, len(oraciones), tam)]
     return ps
 
+ETIQUETAS = ["CONFIABLE", "SECCION", "TITULO", "GANCHO", "RESUMEN", "CLAVES", "IMPORTA", "TEXTO",
+             "TITLE_EN", "HOOK_EN", "KEYS_EN", "WHY_EN", "TEXT_EN"]
+
+def bloques(t):
+    """Parte la respuesta por etiquetas (TITULO:, TEXTO:, TITLE_EN:...). Tolera ** y espacios."""
+    t = t.replace("**", "").replace("__", "")
+    patron = re.compile(r"^[ \t#>*-]*(" + "|".join(ETIQUETAS) + r")[ \t]*:", re.I | re.M)
+    ms = list(patron.finditer(t))
+    salida = {}
+    for k, m in enumerate(ms):
+        fin = ms[k + 1].start() if k + 1 < len(ms) else len(t)
+        salida.setdefault(m.group(1).upper(), t[m.end():fin].strip())
+    return salida
+
+def _linea(b, nombre):
+    return (b.get(nombre, "").splitlines() or [""])[0].strip().strip('"“” ')
+
+def _lista(b, nombre):
+    items = [re.sub(r"^[-•*\d.)\s]+", "", c).strip() for c in b.get(nombre, "").splitlines()]
+    return [c for c in items if len(c) > 8][:4]
+
+def _importa(texto):
+    texto = " ".join(texto.split())
+    return "" if texto.strip(" -–—.") == "" or len(texto) < 25 else texto
+
 def leer_formato(t):
-    """Lee la respuesta CONFIABLE/TITULO/RESUMEN/TEXTO. Tolera adornos como ** o espacios."""
-    t = t.replace("**", "").strip()
-    def campo(nombre):
-        m = re.search(rf"^\s*{nombre}\s*:\s*(.+)$", t, re.I | re.M)
-        return m.group(1).strip() if m else ""
-    m = re.search(r"^\s*TEXTO\s*:\s*(.*)$", t, re.I | re.M | re.S)
-    cuerpo = m.group(1) if m else ""
-    parrafos = partir_parrafos(cuerpo)
-    titulo = campo("TITULO")
-    gancho = campo("GANCHO") or campo("RESUMEN")
-    mc = re.search(r"^\s*CLAVES\s*:\s*(.*?)^\s*(IMPORTA|TEXTO)\s*:", t, re.I | re.M | re.S)
-    claves = [re.sub(r"^[-•*\d.)\s]+", "", c).strip() for c in (mc.group(1).splitlines() if mc else [])]
-    claves = [c for c in claves if len(c) > 8][:4]
-    importa = campo("IMPORTA")
-    if importa.strip(" -–—.") == "" or len(importa) < 25:
-        importa = ""
+    """Lee la respuesta de la IA (español y, si viene, inglés)."""
+    b = bloques(t)
+    titulo, parrafos = _linea(b, "TITULO"), partir_parrafos(b.get("TEXTO", ""))
+    gancho = " ".join((b.get("GANCHO") or b.get("RESUMEN") or "").split()).strip('"“” ')
     if not titulo or not (gancho or parrafos):
         raise ValueError("respuesta sin el formato esperado: " + t[:200])
-    gancho = gancho.strip('"“” ') or parrafos[0][:170]
-    return {"confiable": not campo("CONFIABLE").lower().startswith("no"), "seccion": campo("SECCION"),
-            "titulo": titulo.strip('"“” '), "resumen": gancho, "gancho": gancho, "claves": claves,
-            "importa": importa, "parrafos": parrafos}
+    gancho = gancho or parrafos[0][:170]
+    r = {"confiable": not _linea(b, "CONFIABLE").lower().startswith("no"), "seccion": _linea(b, "SECCION"),
+         "titulo": titulo, "resumen": gancho, "gancho": gancho, "claves": _lista(b, "CLAVES"),
+         "importa": _importa(b.get("IMPORTA", "")), "parrafos": parrafos, "en": None}
+    en_parrafos = partir_parrafos(b.get("TEXT_EN", ""))
+    if _linea(b, "TITLE_EN") and len(en_parrafos) >= 2:
+        r["en"] = {"titulo": _linea(b, "TITLE_EN"),
+                   "gancho": " ".join(b.get("HOOK_EN", "").split()).strip('"“” ') or en_parrafos[0][:170],
+                   "claves": _lista(b, "KEYS_EN"), "importa": _importa(b.get("WHY_EN", "")),
+                   "parrafos": en_parrafos}
+    return r
 
 def redactar(versiones):
     """versiones: lista de {fuente, titulo, descripcion, texto}. Devuelve la noticia nuestra."""
@@ -559,7 +591,7 @@ def buscar(guardadas):
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
                                "titulo": r["titulo"], "titulo_original": titulo,
                                "resumen": r["resumen"], "gancho": r["gancho"], "parrafos": r["parrafos"],
-                               "claves": r["claves"], "importa": r["importa"],
+                               "claves": r["claves"], "importa": r["importa"], "en": r["en"],
                                "link": link, "url": principal["url"],
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
@@ -837,9 +869,11 @@ def escribir_consejo(tema, titulares):
             "Puedes inspirarte en los temas de estos titulares de hoy, sin repetirlos:\n- " + "\n- ".join(titulares[:6]) +
             "\n\nNo inventes cifras, tasas ni precios. Tono cercano y claro. "
             "Título de máximo 6 palabras. Texto de 2 oraciones, máximo 220 caracteres. "
-            'Responde solo con JSON: {"titulo": "...", "texto": "..."}', 1000)
+            'Agrega también la traducción natural al inglés. '
+            'Responde solo con JSON: {"titulo": "...", "texto": "...", "titulo_en": "...", "texto_en": "..."}', 1000)
     datos = json.loads(t[t.find("{"): t.rfind("}") + 1])
-    return datos["titulo"].strip(), datos["texto"].strip()
+    return (datos["titulo"].strip(), datos["texto"].strip(),
+            (datos.get("titulo_en") or "").strip(), (datos.get("texto_en") or "").strip())
 
 def consejo_del_dia(todas, consejos):
     ahora_rd = ahora().astimezone(HORA_RD)
@@ -850,13 +884,15 @@ def consejo_del_dia(todas, consejos):
     patron = TEMA_DIVISAS if tema == "divisas" else TEMA_LUZ
     titulares = [n["titulo"] for n in del_dia if re.search(patron, texto_de(n))] or [n["titulo"] for n in del_dia]
     try:
-        titulo, texto = escribir_consejo(tema, titulares)
+        titulo, texto, titulo_en, texto_en = escribir_consejo(tema, titulares)
     except Exception as err:
         print("Consejo de respaldo:", err)
         lista = CONSEJOS_RESPALDO[tema]
         titulo, texto = lista[ahora_rd.toordinal() % len(lista)]
+        titulo_en = texto_en = ""
     url, sitio = DIVISAS if tema == "divisas" else KILOCLARO
     c = {"fecha": hoy, "tema": tema, "titulo": titulo, "texto": texto, "url": url, "sitio": sitio,
+         "titulo_en": titulo_en, "texto_en": texto_en,
          "boton": "Mira la tasa en vivo" if tema == "divisas" else "Calcula tu factura"}
     os.makedirs("docs/ig", exist_ok=True)
     try:
@@ -958,11 +994,12 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .importa{background:var(--extra-f);border:1px solid var(--extra-b)}
 .importa h2{color:var(--extra-t)}
 .articulo .cuerpo .importa p{margin:0;font-size:16.5px}
+.idioma{font:800 13px Inter,system-ui,sans-serif;letter-spacing:.02em}
+.solo-es{font-size:11px;font-weight:700;color:var(--gris);border:1px solid var(--linea);border-radius:999px;padding:1px 8px}
 """
 
 REDES_HTML = """      <a class="red" href="https://instagram.com/§IG§" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
       <a class="red" href="https://x.com/§IG§" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.3L5.3 21H2.2l7.2-8.3L2 3h6.4l4.4 5.8L17.8 3zm-1.1 16.2h1.7L7.4 4.7H5.6l11.1 14.5z"/></svg></a>
-      <button class="red" id="tema" aria-label="Cambiar entre modo claro y oscuro"></button>
 """.replace("§IG§", INSTAGRAM)
 
 JS_TEMA = r"""var raiz=document.documentElement,btn=document.getElementById('tema');
@@ -970,11 +1007,15 @@ function oscuro(){return raiz.dataset.theme?raiz.dataset.theme==='dark':matchMed
 function icono(){btn.innerHTML=oscuro()?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'}
 icono(); matchMedia('(prefers-color-scheme: dark)').addEventListener('change',icono);
 btn.onclick=function(){var t=oscuro()?'light':'dark';raiz.dataset.theme=t;try{localStorage.setItem('tema',t)}catch(e){}icono()};
+document.querySelectorAll('.idioma').forEach(function(a){a.onclick=function(){try{localStorage.setItem('idioma',a.dataset.lang)}catch(e){}}});
 """
 
-JS_PORTADA = r"""var hoy=new Date().toLocaleDateString('es-DO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+JS_PORTADA = r"""var EN=document.documentElement.lang==='en';
+var hoy=new Date().toLocaleDateString(EN?'en-US':'es-DO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 document.getElementById('hoy').textContent=hoy.charAt(0).toUpperCase()+hoy.slice(1);
 function hace(iso){var m=Math.round((Date.now()-new Date(iso))/60000);
+ if(EN){if(m<1)return'just now';if(m<60)return m+' min ago';var h=Math.round(m/60);
+  if(h<24)return h+(h==1?' hour ago':' hours ago');var d=Math.round(h/24);return d+(d==1?' day ago':' days ago');}
  if(m<1)return'ahora';if(m<60)return'hace '+m+' min';var h=Math.round(m/60);
  if(h<24)return'hace '+h+(h==1?' hora':' horas');var d=Math.round(h/24);return'hace '+d+(d==1?' día':' días');}
 document.querySelectorAll('.hora').forEach(function(e){e.textContent='· '+hace(e.dataset.fecha)});
@@ -985,17 +1026,88 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
 }});
 """
 
-def cabeza(titulo, descripcion, url, imagen, extra=""):
+# ---- Textos de la página en los dos idiomas ----
+SECCIONES_EN = {SEC_RD: "Dominican Republic", SEC_USA: "Dominicans in the U.S.", SEC_INTER: "International",
+                SEC_FAMOSOS: "Celebrities", SEC_PRECIOS: "Prices & Fuel", SEC_JUEGOS: "Video Games"}
+BOTONES_EN = {"Mira la tasa del dólar en vivo": "See the live dollar rate",
+              "Mira los precios de combustibles": "See today's fuel prices",
+              "Calcula tu factura de luz": "Calculate your power bill",
+              "Precios de combustibles": "Fuel prices", "Tasa del dólar hoy": "Today's dollar rate",
+              "Mira la tasa en vivo": "See the live rate", "Calcula tu factura": "Calculate your bill"}
+T = {
+    "es": {"todas": "Todas", "leer": "Leer la noticia completa", "fuente": "Fuente", "fuentes": "Fuentes",
+           "en": "en", "consejo": "💡 Consejo del día", "vacio": "Pronto tendremos noticias aquí.",
+           "volver": "← Todas las noticias", "claves": "En pocas palabras", "importa": "¿Por qué te importa?",
+           "credito1": "Redactada por Al Día RD a partir de lo publicado por",
+           "credito2": "Redactada por Al Día RD a partir de lo publicado por estos medios",
+           "wa": "Compartir en WhatsApp", "x": "Compartir en X", "fb": "Compartir en Facebook", "mas": "Más de",
+           "titulo": "Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
+           "desc": "Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, "
+                   "famosos, precios y videojuegos, contadas de forma clara y con su fuente.",
+           "pie1": "Noticias contadas con nuestras propias palabras a partir de medios confiables.",
+           "pie2": "Cada noticia lleva el crédito y el enlace a su fuente original.",
+           "siguenos": "Síguenos", "tambien": "También", "quienes": "Quiénes somos", "contacto": "Contacto",
+           "privacidad": "Política de privacidad", "cambiar": "Read in English", "otro": "EN",
+           "tema": "Cambiar entre modo claro y oscuro", "solo_es": ""},
+    "en": {"todas": "All", "leer": "Read the full story", "fuente": "Source", "fuentes": "Sources",
+           "en": "at", "consejo": "💡 Tip of the day", "vacio": "English news coming soon.",
+           "volver": "← All news", "claves": "Key points", "importa": "Why it matters",
+           "credito1": "Written by Al Día RD based on reporting by",
+           "credito2": "Written by Al Día RD based on reporting by these outlets",
+           "wa": "Share on WhatsApp", "x": "Share on X", "fb": "Share on Facebook", "mas": "More from",
+           "titulo": "Al Día RD · News from the Dominican Republic, Dominicans in the U.S. and the world",
+           "desc": "News from the Dominican Republic, Dominicans in the United States, Latin America, celebrities, "
+                   "prices and video games, told clearly and with their sources.",
+           "pie1": "News written in our own words from trusted outlets.",
+           "pie2": "Every story credits and links to its original sources.",
+           "siguenos": "Follow us", "tambien": "Also", "quienes": "About us", "contacto": "Contact",
+           "privacidad": "Privacy policy", "cambiar": "Leer en español", "otro": "ES",
+           "tema": "Switch between light and dark mode", "solo_es": "In Spanish"},
+}
+
+def tiene_en(n):
+    return bool((n.get("en") or {}).get("parrafos"))
+
+def dato(n, clave, lang):
+    """El texto de la noticia en el idioma pedido (si no hay versión en inglés, queda el español)."""
+    if lang == "en" and tiene_en(n):
+        return n["en"].get(clave) or n.get(clave)
+    return n.get(clave)
+
+def nombre_seccion(seccion, lang):
+    return SECCIONES_EN.get(seccion, seccion) if lang == "en" else seccion
+
+def pagina_nota(n, lang="es"):
+    return ("/en" if lang == "en" else "") + f"/n/{n['id']}.html"
+
+def cabeza(titulo, descripcion, url, imagen, lang="es", alterna=None, extra=""):
+    """alterna = dirección de la misma página en el otro idioma (o None si no existe)."""
+    otra_es, otra_en = (alterna, url) if lang == "en" else (url, alterna)
+    hreflang = ""
+    if alterna:
+        hreflang = (f'\n<link rel="alternate" hreflang="es" href="{otra_es}">'
+                    f'\n<link rel="alternate" hreflang="en" href="{otra_en}">')
+    # idioma automático: si el teléfono está en inglés abre la versión en inglés (y respeta lo que escoja la persona)
+    auto = ""
+    if alterna:
+        destino_auto = alterna.replace(SITIO, "")
+        if lang == "es":
+            auto = ("<script>try{var p=localStorage.getItem('idioma'),bot=/bot|crawl|spider|slurp|google|bing/i.test(navigator.userAgent);"
+                    f"if(p==='en'||(!p&&!bot&&(navigator.language||'').toLowerCase().indexOf('en')===0))location.replace('{destino_auto}')}}catch(e){{}}</script>")
+        else:
+            auto = f"<script>try{{if(localStorage.getItem('idioma')==='es')location.replace('{destino_auto}')}}catch(e){{}}</script>"
     return f"""<!DOCTYPE html>
-<html lang="es"><head><meta charset="utf-8">
+<html lang="{lang}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{auto}
 <title>{html.escape(titulo)}</title>
 <meta name="description" content="{html.escape(descripcion)}">
-<link rel="canonical" href="{url}">
+<link rel="canonical" href="{url}">{hreflang}
 <meta property="og:title" content="{html.escape(titulo)}">
 <meta property="og:description" content="{html.escape(descripcion)}">
 <meta property="og:image" content="{imagen}">
 <meta property="og:url" content="{url}">
+<meta property="og:locale" content="{'en_US' if lang == 'en' else 'es_DO'}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#002d62">
 <script>try{{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
@@ -1007,164 +1119,196 @@ def cabeza(titulo, descripcion, url, imagen, extra=""):
 <body>
 <div class="franja"></div>"""
 
-def encabezado(nav=""):
+def encabezado(lang="es", alterna=None, nav=""):
+    t = T[lang]
+    otro = "en" if lang == "es" else "es"
+    destino_idioma = (alterna or (SITIO + ("/en/" if lang == "es" else "/"))).replace(SITIO, "")
+    boton_idioma = (f'<a class="red idioma" href="{destino_idioma}" data-lang="{otro}" hreflang="{otro}" '
+                    f'aria-label="{t["cambiar"]}" title="{t["cambiar"]}">{t["otro"]}</a>')
     return f"""
 <header>
   <div class="barra">
     <img src="/img/logo-512.png" alt="">
-    <a class="marca" href="/">Al Día <span>RD</span></a>
+    <a class="marca" href="{'/en/' if lang == 'en' else '/'}">Al Día <span>RD</span></a>
     <div class="hoy" id="hoy"></div>
     <div class="redes">
-{REDES_HTML}    </div>
+{REDES_HTML}      {boton_idioma}
+      <button class="red" id="tema" aria-label="{t['tema']}"></button>
+    </div>
   </div>{nav}
 </header>"""
 
-def pie():
+def pie(lang="es"):
+    t = T[lang]
     return f"""
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
-    <div>Noticias contadas con nuestras propias palabras a partir de medios confiables.<br>Cada noticia lleva el crédito y el enlace a su fuente original.</div></div>
-  <div>Síguenos: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
-    También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
+    <div>{t['pie1']}<br>{t['pie2']}</div></div>
+  <div>{t['siguenos']}: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
+    {t['tambien']}: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
-  <div class="legal"><a href="/quienes-somos.html">Quiénes somos</a> · <a href="/contacto.html">Contacto</a> ·
-    <a href="/privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
+  <div class="legal"><a href="/quienes-somos.html">{t['quienes']}</a> · <a href="/contacto.html">{t['contacto']}</a> ·
+    <a href="/privacidad.html">{t['privacidad']}</a> · aldiardnoticias@gmail.com</div>
 </div></footer>"""
 
-def pagina_nota(n):
-    return f"/n/{n['id']}.html"
+def _boton(texto, lang):
+    return BOTONES_EN.get(texto, texto) if lang == "en" else texto
 
-def botones_propios(n):
+def botones_propios(n, lang="es"):
+    en = T[lang]["en"]
     dst = destino(n)
     if dst:
         return (f'<a class="directo" href="{dst["url"]}" target="_blank" rel="noopener">'
-                f'{html.escape(dst["texto"])} en {dst["sitio"]} →</a>')
+                f'{html.escape(_boton(dst["texto"], lang))} {en} {dst["sitio"]} →</a>')
     return "".join(f'<a class="extra" href="{e["url"]}" target="_blank" rel="noopener">'
-                   f'{html.escape(e["texto"])} en {e["sitio"]} →</a>' for e in extras(n))
+                   f'{html.escape(_boton(e["texto"], lang))} {en} {e["sitio"]} →</a>' for e in extras(n))
 
-def texto_tarjeta(n):
+def texto_tarjeta(n, lang="es"):
     """Lo que se ve en la portada: el gancho, o el comienzo del resumen viejo cortado con '…'."""
-    if n.get("gancho"):
-        return n["gancho"]
+    g = dato(n, "gancho", lang)
+    if g:
+        return g
     t = re.split(r"(?<=[.!?])\s+", n["resumen"].strip())[0]
     return t if len(t) <= 130 else t[:125].rsplit(" ", 1)[0] + "…"
 
-def tarjeta(n, grande=False):
+def tarjeta(n, lang="es", grande=False):
     """Todas las tarjetas abren nuestra propia página de la noticia."""
+    t = T[lang]
+    propio = lang == "es" or tiene_en(n)          # ¿existe la noticia en este idioma?
+    lang_n = lang if propio else "es"
     c = clase(n["seccion"])
-    enlace = pagina_nota(n)
-    etiqueta = "Fuentes" if len(lista_fuentes(n)) > 1 else "Fuente"
+    enlace = pagina_nota(n, lang_n)
+    etiqueta = t["fuentes"] if len(lista_fuentes(n)) > 1 else t["fuente"]
+    aviso = "" if propio else f' <span class="solo-es">{t["solo_es"]}</span>'
     return f"""
 <article class="nota {c}{' destacada' if grande else ''}" data-sec="{c}">
-  <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
-    <span class="hora" data-fecha="{n['fecha']}"></span></div>
-  <h2><a href="{enlace}">{html.escape(n['titulo'])}</a></h2>
-  <p>{html.escape(texto_tarjeta(n))}</p>
-  {botones_propios(n)}<a class="leer" href="{enlace}">{'Leer la noticia completa' if n.get('parrafos') else 'Leer más'} →</a>
+  <div class="meta"><span class="chip">{html.escape(nombre_seccion(n['seccion'], lang))}</span>
+    <span class="hora" data-fecha="{n['fecha']}"></span>{aviso}</div>
+  <h2><a href="{enlace}"{'' if propio else ' hreflang="es"'}>{html.escape(dato(n, 'titulo', lang_n))}</a></h2>
+  <p>{html.escape(texto_tarjeta(n, lang_n))}</p>
+  {botones_propios(n, lang)}<a class="leer" href="{enlace}">{t['leer']} →</a>
   <span class="fuente chica">{etiqueta}: {html.escape(nombres_fuentes(n))}</span>
 </article>"""
 
-def generar_portada(todas, consejos):
+def generar_portada(todas, consejos, lang="es"):
+    t = T[lang]
     hoy = ahora().astimezone(HORA_RD).date().isoformat()
     con = next((c for c in reversed(consejos) if c["fecha"] == hoy), None)
     bloque_consejo = ""
-    if con:
+    if con and (lang == "es" or con.get("titulo_en")):
+        ct = con.get("titulo_en") if lang == "en" else con["titulo"]
+        cx = con.get("texto_en") if lang == "en" else con["texto"]
         bloque_consejo = f"""
 <aside class="consejo {con['tema']}">
-  <div class="cetq">💡 Consejo del día</div>
-  <h2>{html.escape(con['titulo'])}</h2>
-  <p>{html.escape(con['texto'])}</p>
-  <a href="{con['url']}" target="_blank" rel="noopener">{html.escape(con['boton'])} en {con['sitio']} →</a>
+  <div class="cetq">{t['consejo']}</div>
+  <h2>{html.escape(ct)}</h2>
+  <p>{html.escape(cx)}</p>
+  <a href="{con['url']}" target="_blank" rel="noopener">{html.escape(_boton(con['boton'], lang))} {t['en']} {con['sitio']} →</a>
 </aside>"""
-    lista = visibles(todas)[:120]
+    lista = visibles(todas)
+    if lang == "en":
+        # primero las que ya están en inglés; si son pocas, se completan con las de español (marcadas)
+        en_ingles = [n for n in lista if tiene_en(n)]
+        lista = en_ingles if len(en_ingles) >= 12 else en_ingles + [n for n in lista if not tiene_en(n)]
+    lista = lista[:120]
     if lista:
         # arriba, grande: la noticia de RD más reciente (si hay); después todas por orden de llegada
         top = next((n for n in lista[:15] if n["seccion"] == SEC_RD), lista[0])
         resto = [n for n in lista if n is not top]
-        cuerpo = (tarjeta(top, True) + bloque_consejo + '<div class="rejilla">'
-                  + "".join(tarjeta(n) for n in resto) + "</div>")
+        cuerpo = (tarjeta(top, lang, True) + bloque_consejo + '<div class="rejilla">'
+                  + "".join(tarjeta(n, lang) for n in resto) + "</div>")
     else:
-        cuerpo = bloque_consejo + "<p class='vacio'>Pronto tendremos noticias aquí.</p>"
-    nav = ('\n  <nav><button data-f="todas" aria-pressed="true">Todas</button>' + "".join(
-        f'<button data-f="{cl}" aria-pressed="false">{html.escape(nombre)}</button>'
+        cuerpo = bloque_consejo + f"<p class='vacio'>{t['vacio']}</p>"
+    nav = (f'\n  <nav><button data-f="todas" aria-pressed="true">{t["todas"]}</button>' + "".join(
+        f'<button data-f="{cl}" aria-pressed="false">{html.escape(nombre_seccion(nombre, lang))}</button>'
         for nombre, (_, _, cl, _) in SECCIONES.items()) + "</nav>")
-    pagina = (cabeza("Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
-                     "Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, "
-                     "famosos, precios y videojuegos, contadas de forma clara y con su fuente.",
-                     SITIO + "/", SITIO + "/img/logo-512.png")
-              + encabezado(nav) + f"\n<main>{cuerpo}</main>" + pie()
+    url = SITIO + ("/en/" if lang == "en" else "/")
+    alterna = SITIO + ("/" if lang == "en" else "/en/")
+    pagina = (cabeza(t["titulo"], t["desc"], url, SITIO + "/img/logo-512.png", lang, alterna)
+              + encabezado(lang, alterna, nav) + f"\n<main>{cuerpo}</main>" + pie(lang)
               + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
-    with open("docs/index.html", "w", encoding="utf-8") as f:
+    carpeta = "docs/en" if lang == "en" else "docs"
+    os.makedirs(carpeta, exist_ok=True)
+    with open(f"{carpeta}/index.html", "w", encoding="utf-8") as f:
         f.write(pagina)
 
-def generar_notas(todas):
-    """Una página propia para cada noticia larga: docs/n/<id>.html"""
-    os.makedirs("docs/n", exist_ok=True)
-    con_pagina = visibles(todas)  # solo las largas tienen página; las cortas quedan ocultas
+def generar_notas(todas, lang="es"):
+    """Una página propia para cada noticia larga: docs/n/<id>.html y, en inglés, docs/en/n/<id>.html"""
+    t = T[lang]
+    carpeta = "docs/en/n" if lang == "en" else "docs/n"
+    os.makedirs(carpeta, exist_ok=True)
+    con_pagina = [n for n in visibles(todas) if lang == "es" or tiene_en(n)]
     for n in con_pagina:
         c = clase(n["seccion"])
-        url = SITIO + pagina_nota(n)
+        url = SITIO + pagina_nota(n, lang)
+        otro = "en" if lang == "es" else "es"
+        alterna = SITIO + pagina_nota(n, otro) if (otro == "es" or tiene_en(n)) else None
         img = SITIO + "/" + n["ig_img"] if n.get("ig_img") else SITIO + "/img/logo-512.png"
+        titulo, gancho = dato(n, "titulo", lang), dato(n, "gancho", lang)
+        claves, importa = dato(n, "claves", lang), dato(n, "importa", lang)
         cuerpo = ""
-        if n.get("gancho"):
-            cuerpo += f'<p class="entrada">{html.escape(n["gancho"])}</p>'
-        if n.get("claves"):
-            cuerpo += ('<div class="claves"><h2>En pocas palabras</h2><ul>'
-                       + "".join(f"<li>{html.escape(c)}</li>" for c in n["claves"]) + "</ul></div>")
-        cuerpo += "".join(f"<p>{html.escape(p)}</p>" for p in (n.get("parrafos") or [n["resumen"]]))
-        if n.get("importa"):
-            cuerpo += f'<div class="importa"><h2>¿Por qué te importa?</h2><p>{html.escape(n["importa"])}</p></div>'
+        if gancho:
+            cuerpo += f'<p class="entrada">{html.escape(gancho)}</p>'
+        if claves:
+            cuerpo += (f'<div class="claves"><h2>{t["claves"]}</h2><ul>'
+                       + "".join(f"<li>{html.escape(x)}</li>" for x in claves) + "</ul></div>")
+        cuerpo += "".join(f"<p>{html.escape(p)}</p>" for p in (dato(n, "parrafos", lang) or [n["resumen"]]))
+        if importa:
+            cuerpo += f'<div class="importa"><h2>{t["importa"]}</h2><p>{html.escape(importa)}</p></div>'
         fuentes_html = " · ".join(
             f'<a href="{html.escape(f["url"])}" target="_blank" rel="noopener nofollow">{html.escape(f["nombre"])}</a>'
             for f in lista_fuentes(n))
         varias = len(lista_fuentes(n)) > 1
         relacionadas = [m for m in con_pagina if m is not n and m["seccion"] == n["seccion"]][:5]
-        rel = "".join(f'<a href="{pagina_nota(m)}">{html.escape(m["titulo"])}</a>' for m in relacionadas)
+        rel = "".join(f'<a href="{pagina_nota(m, lang)}">{html.escape(dato(m, "titulo", lang))}</a>'
+                      for m in relacionadas)
         q = urllib.parse.quote
-        ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": n["titulo"][:110],
-                         "datePublished": n["fecha"], "image": [img], "mainEntityOfPage": url,
+        ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": titulo[:110],
+                         "inLanguage": lang, "datePublished": n["fecha"], "image": [img], "mainEntityOfPage": url,
                          "publisher": {"@type": "Organization", "name": "Al Día RD",
                                        "logo": {"@type": "ImageObject", "url": SITIO + "/img/logo-512.png"}}},
                         ensure_ascii=False)
-        pagina = (cabeza(n["titulo"] + " · Al Día RD", n["resumen"], url, img,
+        pagina = (cabeza(titulo + " · Al Día RD", gancho or n["resumen"], url, img, lang, alterna,
                          f'\n<script type="application/ld+json">{ld}</script>')
-                  + encabezado() + f"""
+                  + encabezado(lang, alterna) + f"""
 <main>
-<a class="volver" href="/">← Todas las noticias</a>
+<a class="volver" href="{'/en/' if lang == 'en' else '/'}">{t['volver']}</a>
 <article class="articulo {c}">
-  <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
+  <div class="meta"><span class="chip">{html.escape(nombre_seccion(n['seccion'], lang))}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span></div>
-  <h1>{html.escape(n['titulo'])}</h1>
+  <h1>{html.escape(titulo)}</h1>
   <div class="cuerpo">{cuerpo}</div>
-  {botones_propios(n)}
-  <div class="credito">{'Redactada por Al Día RD a partir de lo publicado por estos medios' if varias else 'Redactada por Al Día RD a partir de lo publicado por'}:
+  {botones_propios(n, lang)}
+  <div class="credito">{t['credito2'] if varias else t['credito1']}:
     {fuentes_html}</div>
   <div class="compartir">
-    <a href="https://wa.me/?text={q(n['titulo'] + ' ' + url)}" target="_blank" rel="noopener">Compartir en WhatsApp</a>
-    <a href="https://x.com/intent/post?text={q(n['titulo'])}&url={q(url)}" target="_blank" rel="noopener">Compartir en X</a>
-    <a href="https://www.facebook.com/sharer/sharer.php?u={q(url)}" target="_blank" rel="noopener">Compartir en Facebook</a>
+    <a href="https://wa.me/?text={q(titulo + ' ' + url)}" target="_blank" rel="noopener">{t['wa']}</a>
+    <a href="https://x.com/intent/post?text={q(titulo)}&url={q(url)}" target="_blank" rel="noopener">{t['x']}</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={q(url)}" target="_blank" rel="noopener">{t['fb']}</a>
   </div>
 </article>
-{('<section class="relacionadas"><h3>Más de ' + html.escape(n['seccion']) + '</h3>' + rel + '</section>') if rel else ''}
-</main>""" + pie() + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
-        with open(f"docs/n/{n['id']}.html", "w", encoding="utf-8") as f:
+{('<section class="relacionadas"><h3>' + t['mas'] + ' ' + html.escape(nombre_seccion(n['seccion'], lang)) + '</h3>' + rel + '</section>') if rel else ''}
+</main>""" + pie(lang) + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
+        with open(f"{carpeta}/{n['id']}.html", "w", encoding="utf-8") as f:
             f.write(pagina)
     vigentes = {f"{n['id']}.html" for n in con_pagina}
-    for archivo in os.listdir("docs/n"):
+    for archivo in os.listdir(carpeta):
         if archivo not in vigentes:
-            os.remove(os.path.join("docs/n", archivo))
+            os.remove(os.path.join(carpeta, archivo))
 
 def generar_sitemap(todas):
-    urls = [SITIO + "/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
+    urls = [SITIO + "/", SITIO + "/en/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
     urls += [SITIO + pagina_nota(n) for n in visibles(todas)]
+    urls += [SITIO + pagina_nota(n, "en") for n in visibles(todas) if tiene_en(n)]
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         f.write("".join(f"  <url><loc>{u}</loc></url>\n" for u in urls))
         f.write("</urlset>\n")
 
 def generar_html(todas, consejos):
-    generar_portada(todas, consejos)
-    generar_notas(todas)
+    for lang in ("es", "en"):
+        generar_portada(todas, consejos, lang)
+        generar_notas(todas, lang)
     generar_sitemap(todas)
 
 # ================= Principal =================
