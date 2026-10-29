@@ -1,5 +1,52 @@
 [
  {
+  "id": "fe8bc404bc",
+  "titulo": "Muere «El Guachi» en presunto enfrentamiento con agentes de la Policía",
+  "titulo_original": "Policía abate a «El Guachi» durante presunto enfrentamiento",
+  "resumen": "La Policía Nacional informó que Welbin Ariel Castro Moreno, conocido como «El Guachi», murió en un presunto intercambio de disparos con agentes. Era buscado por el Dicrim por su supuesta relación con un robo y tenía orden de arresto.",
+  "parrafos": [
+   "La Policía Nacional informó que Welbin Ariel Castro Moreno, de 28 años, conocido como «El Guachi», murió durante un presunto intercambio de disparos con sus agentes.",
+   "Castro Moreno era buscado por la Dirección Central de Investigación (Dicrim). Las autoridades lo señalaban como presunto responsable de un robo cometido en perjuicio de Héctor Alcibíades Sosa Linares. Contra él existía una orden judicial de arresto, identificada con el número 530-2023-EMES-02890.",
+   "Por ahora no se han dado detalles sobre el lugar exacto del hecho ni sobre cómo ocurrió el enfrentamiento. Las autoridades indicaron que ampliarán la información y que se realizarán las investigaciones correspondientes."
+  ],
+  "link": "https://deultimominuto.com/nacionales/policia-abate-a-el-guachi/",
+  "url": "https://deultimominuto.com/nacionales/policia-abate-a-el-guachi/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/policia-abate-a-el-guachi/"
+   }
+  ],
+  "seccion": "República Dominicana",
+  "fecha": "2026-10-29T22:06:47.059795+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "b5148d3d21",
+  "titulo": "Integrantes de Soy Luna llegan a RD para su concierto del 31 de octubre",
+  "titulo_original": "¡Vuelve la magia de Soy Luna! Sus integrantes llegan a RD para reencontrarse con sus fans",
+  "resumen": "Los integrantes de Soy Luna ya están en República Dominicana para un concierto este sábado 31 de octubre en Santo Domingo. El show se hará en el Óvalo de la Feria Ganadera.",
+  "parrafos": [
+   "Los actores de la serie juvenil Soy Luna ya se encuentran en República Dominicana. Este sábado 31 de octubre se reunirán con sus seguidores dominicanos en un concierto llamado \"Soy Luna Tour: El Último Show\".",
+   "El espectáculo se presentará en el Óvalo de la Feria Ganadera, en Santo Domingo. En el escenario estarán Karol Sevilla, Michael Ronda, Ruggero Pasquarelli, Malena Ratner, Caro Kopelioff y Gastón Vietto. Ellos estarán acompañados por un"
+  ],
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDVuY08yb0lSR1lnNmkzdTFQT3dOeHRCY2JWNENJNXZ1eG9pN2REWF95NDc3bjEwejhubFlpdENNa2JSNWNfenVvdEg4eVNGZ25OVDBvMDNqMVM2VEhENmhOSkFDNEJ6dzR6dzdwNkZqVXctZFhscFFGRDM4R3ZTdUh6bzloYkUwSGhOcUNoM1JXaTF0QVc4ellxdm41UFhoRlRnUlFKSTdsQlVhN2FNRHNLVkktYmpmUkNDTXg3a9IBvwFBVV95cUxOSDVuY08yb0lSR1lnNmkzdTFQT3dOeHRCY2JWNENJNXZ1eG9pN2REWF95NDc3bjEwejhubFlpdENNa2JSNWNfenVvdEg4eVNGZ25OVDBvMDNqMVM2VEhENmhOSkFDNEJ6dzR6dzdwNkZqVXctZFhscFFGRDM4R3ZTdUh6bzloYkUwSGhOcUNoM1JXaTF0QVc4ellxdm41UFhoRlRnUlFKSTdsQlVhN2FNRHNLVkktYmpmUkNDTXg3aw?oc=5",
+  "url": "https://elnacional.com.do/fama-y-vida/farandula/vuelve-magia-luna-integrantes-llegan-rd-reencontrarse-fans_584860_amp.html",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/fama-y-vida/farandula/vuelve-magia-luna-integrantes-llegan-rd-reencontrarse-fans_584860_amp.html"
+   }
+  ],
+  "seccion": "Famosos",
+  "fecha": "2026-10-29T22:08:05.989501+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "5300cd46e0",
   "titulo": "Wall Street cierra en rojo lastrado por Alphabet, matriz de Google,",
   "titulo_original": "Wall Street cierra en rojo lastrado por Alphabet, matriz de Google,",
@@ -616,7 +663,11 @@
   "fuente": "CDN",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:52:15.694604+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/5fba65f1db.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/5fba65f1db-h.jpg"
  },
  {
   "id": "d359306c78",
