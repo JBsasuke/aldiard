@@ -51,7 +51,8 @@ def texto_noticia(n):
     for e in extras(n):
         t += f"👉 {e['texto']}: {e['sitio']}\n"
     fuentes = [f["nombre"] for f in (n.get("fuentes") or [{"nombre": n["fuente"]}])]
-    t += "📲 Lee la noticia completa en aldiard.com (enlace en la bio)\n"
+    t += f"📲 Léela completa en español e inglés en nuestra web: aldiard.com/n/{n['id']}\n"
+    t += "(el enlace a aldiard.com está en la bio)\n"
     t += ("Fuentes: " if len(fuentes) > 1 else "Fuente: ") + ", ".join(fuentes) + "\n\n"
     return (t + HASHTAGS.get(n["seccion"], HASHTAGS_RD))[:2200]
 

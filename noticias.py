@@ -491,7 +491,7 @@ def otras_versiones(titulo, dom_principal, vistos):
             break
     return salida
 
-CUENTA = {"ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
+CUENTA = {"tasa/combustibles (usamos datos propios)": 0, "ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
           "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
 
 def buscar(guardadas):
@@ -520,6 +520,10 @@ def buscar(guardadas):
                     CUENTA["ya vistas"] += 1
                     continue
                 if re.search(BASURA, titulo, re.I) or len(titulo.split()) < 4:
+                    continue
+                if es_tasa_o_precios_de_periodico(titulo):
+                    CUENTA["tasa/combustibles (usamos datos propios)"] += 1
+                    vistos.update((link, titulo))
                     continue
                 if any(similares(titulo, r, 3) for r in recientes):
                     CUENTA["ya cubiertas"] += 1  # ya publicamos esa misma noticia
@@ -620,6 +624,155 @@ def lista_fuentes(n):
 def nombres_fuentes(n):
     nombres = [f["nombre"] for f in lista_fuentes(n)]
     return nombres[0] if len(nombres) == 1 else ", ".join(nombres[:-1]) + " y " + nombres[-1]
+
+# ================= Noticias con datos propios (tasa del dólar y combustibles) =================
+# Estas noticias NO salen de periódicos: se escriben con los datos del servidor de Divisas RD,
+# que toma las tasas de cada banco o agente y los combustibles oficiales del MICM.
+DATOS_URL = "https://divisas-rd.juanbatista88.workers.dev"
+ARCHIVO_DATOS = "docs/datos.json"
+HORA_TASA = 9   # a partir de las 9 a. m. (hora RD) se publica la tasa del día
+
+# Titulares de periódicos sobre la tasa del día o los precios de la semana: esos ya no se usan
+TASA_O_PRECIOS_DE_PERIODICO = (
+    r"(tasa|precio|cotizaci[oó]n) del d[oó]lar|d[oó]lar (hoy|cierra|abre|amanece|se cotiza|se vende|se compra)"
+    r"|tasa de cambio (hoy|del d[ií]a)|a c[oó]mo est[aá] el d[oó]lar"
+    r"|precios? de (los )?combustibles|combustibles? (se mantienen|seguir[aá]n|suben|bajan|congelad|sin cambio)"
+    r"|precios? de la gasolina|(gasolina|gasoil|glp).{0,40}(se mantiene|sube|baja|congela|semana)")
+NO_ES_SOLO_PRECIO = (r"protest|huelga|\bparo\b|marcha|\bley\b|proyecto|congreso|diputad|senad|tribunal|"
+                     r"destitu|renunci|cancelad|arrest|denuncia|cuestiona|critica|reclama|partido")
+
+def es_tasa_o_precios_de_periodico(titulo):
+    t = titulo.lower()
+    return bool(re.search(TASA_O_PRECIOS_DE_PERIODICO, t)) and not re.search(NO_ES_SOLO_PRECIO, t)
+
+def bajar_json(ruta):
+    import urllib.request
+    pedido = urllib.request.Request(DATOS_URL + ruta, headers={"User-Agent": "AlDiaRD/1.0"})
+    with urllib.request.urlopen(pedido, timeout=25) as r:
+        return json.load(r)
+
+INSTRUCCIONES_DATOS = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso DATOS (no una noticia de otro medio).
+Escribe una noticia propia, útil y clara para dominicanos en RD y en EE.UU., usando SOLO estos números, exactos.
+- QUE_ES
+- No inventes cifras, causas ni pronósticos. Si un dato no viene, no lo menciones.
+- Explica qué subió, qué bajó y qué se mantuvo (si hay comparación), y qué significa para el bolsillo.
+- El GANCHO dice de qué va sin dar todos los números, para que den ganas de entrar.
+- LARGO: entre 3 y 5 párrafos (de 150 a 300 palabras).
+- No digas "según los datos que me pasaste" ni hables de ti.
+
+Responde EXACTAMENTE en este formato:
+CONFIABLE: sí
+SECCION: Precios y combustibles
+TITULO: (titular, máximo 14 palabras)
+GANCHO: (1 o 2 frases cortas)
+CLAVES:
+- (dato clave)
+- (dato clave)
+- (dato clave)
+IMPORTA: (1 o 2 oraciones)
+TEXTO:
+(los párrafos, separados por una línea en blanco)
+
+Después la MISMA noticia en inglés natural para lectores en EE.UU.:
+TITLE_EN: (headline)
+HOOK_EN: (1 o 2 frases)
+KEYS_EN:
+- (key fact)
+- (key fact)
+- (key fact)
+WHY_EN: (1 o 2 oraciones)
+TEXT_EN:
+(los párrafos en inglés, separados por una línea en blanco)"""
+
+def redactar_datos(que_es, datos):
+    pedido = (INSTRUCCIONES_DATOS.replace("QUE_ES", que_es) + "\n\nDATOS (JSON):\n"
+              + json.dumps(datos, ensure_ascii=False, indent=1))
+    ultimo = None
+    for _ in range(2):
+        try:
+            return leer_formato(pedir_ia(pedido, 4000))
+        except ValueError as err:
+            ultimo = err
+    raise ultimo
+
+def nota_de_datos(clave, r, fuente_nombre, fuente_url, link):
+    return {"id": hashlib.md5(clave.encode()).hexdigest()[:10], "titulo": r["titulo"], "titulo_original": clave,
+            "resumen": r["resumen"], "gancho": r["gancho"], "parrafos": r["parrafos"], "claves": r["claves"],
+            "importa": r["importa"], "en": r["en"], "link": link, "url": fuente_url, "fuente": fuente_nombre,
+            "dominio": urllib.parse.urlparse(fuente_url).netloc, "seccion": SEC_PRECIOS, "oficial": True,
+            "fuentes": [{"nombre": fuente_nombre, "url": fuente_url}], "fecha": ahora().isoformat()}
+
+def _promedio(valores):
+    v = [x for x in valores if isinstance(x, (int, float))]
+    return round(sum(v) / len(v), 2) if v else None
+
+def nota_tasa(datos_previos):
+    """Una vez al día: la tasa del dólar con los datos de Divisas RD, comparada con ayer."""
+    ahora_rd = ahora().astimezone(HORA_RD)
+    hoy = ahora_rd.date().isoformat()
+    if ahora_rd.hour < HORA_TASA or datos_previos.get("tasa", {}).get("fecha") == hoy:
+        return None
+    t = bajar_json("/tasas")
+    ents = [e for e in t.get("entidades", []) if e.get("compra") or e.get("venta")]
+    bancos = [e for e in ents if e.get("tipo") == "banco"]
+    if len(ents) < 3:
+        return None
+    resumen = {
+        "fecha": hoy,
+        "promedio_bancos": {"compra": _promedio(e.get("compra") for e in bancos),
+                            "venta": _promedio(e.get("venta") for e in bancos)},
+        "quien_paga_mas_por_tus_dolares": max((e for e in ents if e.get("compra")), key=lambda e: e["compra"]),
+        "quien_vende_mas_barato": min((e for e in ents if e.get("venta")), key=lambda e: e["venta"]),
+        "entidades": [{k: e.get(k) for k in ("nombre", "tipo", "compra", "venta")} for e in ents],
+    }
+    anterior = datos_previos.get("tasa")
+    if anterior:
+        resumen["ayer_promedio_bancos"] = anterior.get("promedio_bancos")
+    r = redactar_datos("Es la tasa del dólar de hoy en República Dominicana: compra (lo que te pagan por cada "
+                       "dólar) y venta (lo que cuesta comprar un dólar) en bancos, agentes de cambio y remesadoras. "
+                       "Di dónde conviene cambiar.", resumen)
+    datos_previos["tasa"] = {"fecha": hoy, "promedio_bancos": resumen["promedio_bancos"]}
+    return nota_de_datos("tasa-" + hoy, r, "DivisasRD.com (tasas de cada banco y agente)",
+                         "https://divisasrd.com", "https://divisasrd.com/#bancos?d=" + hoy)
+
+def nota_combustibles(datos_previos):
+    """Cada semana, cuando el MICM publica los precios nuevos: comparación con la semana anterior."""
+    c = bajar_json("/combustibles").get("rd") or {}
+    semana, precios = c.get("semana"), c.get("precios") or []
+    if not semana or not precios or datos_previos.get("combustibles", {}).get("semana") == semana:
+        return None
+    antes = datos_previos.get("combustibles", {}).get("precios", {})
+    tabla = []
+    for p in precios:
+        fila = {"producto": p["nombre"], "unidad": p.get("unidad"), "precio_RD$": p.get("precio")}
+        if p["clave"] in antes and isinstance(p.get("precio"), (int, float)):
+            fila["semana_anterior_RD$"] = antes[p["clave"]]
+            fila["cambio_RD$"] = round(p["precio"] - antes[p["clave"]], 2)
+        tabla.append(fila)
+    r = redactar_datos("Son los precios oficiales de los combustibles en República Dominicana para la semana "
+                       f"del {semana}, fijados por el Ministerio de Industria, Comercio y Mipymes (MICM). "
+                       "Si viene la semana anterior, compara.", {"semana": semana, "precios": tabla})
+    datos_previos["combustibles"] = {"semana": semana, "precios": {p["clave"]: p.get("precio") for p in precios}}
+    return nota_de_datos("combustibles-" + semana, r, "Ministerio de Industria, Comercio y Mipymes (MICM)",
+                         "https://micm.gob.do", "https://divisasrd.com/#combustibles?s=" + urllib.parse.quote(semana))
+
+def noticias_de_datos(guardadas):
+    """Las noticias propias con datos. Si el servidor no responde, se salta sin problema."""
+    datos = cargar(ARCHIVO_DATOS) or {}
+    if isinstance(datos, list):
+        datos = {}
+    vistos = {n["link"] for n in guardadas}
+    nuevas = []
+    for hacer in (nota_tasa, nota_combustibles):
+        try:
+            n = hacer(datos)
+            if n and n["link"] not in vistos and es_larga(n):
+                nuevas.append(n)
+                print("Noticia con datos propios:", n["titulo"])
+        except Exception as err:
+            print(f"No se pudo hacer la noticia de {hacer.__name__}:", repr(err)[:300])
+    guardar(ARCHIVO_DATOS, datos)
+    return nuevas
 
 # ================= Tendencia =================
 VACIAS = set("""sobre entre desde hasta tras para por con sin los las del una unos unas este esta estos
@@ -799,7 +952,8 @@ def elegir_para_instagram(todas):
     if not pool:
         return None
     peso = {SEC_RD: 2, SEC_USA: 1}  # RD primero, después EE.UU., después lo demás
-    pool.sort(key=lambda n: (n.get("tendencia", 1) + peso.get(n["seccion"], 0), n["fecha"]), reverse=True)
+    pool.sort(key=lambda n: (n.get("tendencia", 1) + peso.get(n["seccion"], 0) + (4 if n.get("oficial") else 0),
+                             n["fecha"]), reverse=True)
     publicadas = sorted((n for n in todas if n.get("ig_fecha")), key=lambda n: n["ig_fecha"])
     ultima_sec = publicadas[-1]["seccion"] if publicadas else None
     mejor = pool[0]
@@ -1039,6 +1193,7 @@ T = {
            "en": "en", "consejo": "💡 Consejo del día", "vacio": "Pronto tendremos noticias aquí.",
            "volver": "← Todas las noticias", "claves": "En pocas palabras", "importa": "¿Por qué te importa?",
            "credito1": "Redactada por Al Día RD a partir de lo publicado por",
+           "credito_datos": "Redactada por Al Día RD con datos de",
            "credito2": "Redactada por Al Día RD a partir de lo publicado por estos medios",
            "wa": "Compartir en WhatsApp", "x": "Compartir en X", "fb": "Compartir en Facebook", "mas": "Más de",
            "titulo": "Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
@@ -1053,6 +1208,7 @@ T = {
            "en": "at", "consejo": "💡 Tip of the day", "vacio": "English news coming soon.",
            "volver": "← All news", "claves": "Key points", "importa": "Why it matters",
            "credito1": "Written by Al Día RD based on reporting by",
+           "credito_datos": "Written by Al Día RD using data from",
            "credito2": "Written by Al Día RD based on reporting by these outlets",
            "wa": "Share on WhatsApp", "x": "Share on X", "fb": "Share on Facebook", "mas": "More from",
            "titulo": "Al Día RD · News from the Dominican Republic, Dominicans in the U.S. and the world",
@@ -1279,7 +1435,7 @@ def generar_notas(todas, lang="es"):
   <h1>{html.escape(titulo)}</h1>
   <div class="cuerpo">{cuerpo}</div>
   {botones_propios(n, lang)}
-  <div class="credito">{t['credito2'] if varias else t['credito1']}:
+  <div class="credito">{t['credito_datos'] if n.get('oficial') else (t['credito2'] if varias else t['credito1'])}:
     {fuentes_html}</div>
   <div class="compartir">
     <a href="https://wa.me/?text={q(titulo + ' ' + url)}" target="_blank" rel="noopener">{t['wa']}</a>
@@ -1341,7 +1497,7 @@ def principal():
     # las que se ocultaron por "cortas" con el error de los párrafos pegados se vuelven a intentar una vez
     guardadas = [n for n in guardadas if not (n.get("oculta") == "corta" and not n.get("v"))]
     consejos = cargar(ARCHIVO_CONSEJOS)
-    nuevas = buscar(guardadas)
+    nuevas = noticias_de_datos(guardadas) + buscar(guardadas)
     todas = (nuevas + guardadas)[:MAX_GUARDADAS]
     todas = [n for n in todas if not re.search(BASURA, n["titulo"], re.I)]  # saca las viejas tipo "En Vivo"
     for n in todas:
@@ -1351,6 +1507,10 @@ def principal():
             n["seccion"] = verificar_seccion(antes, n["titulo"] + " " + " ".join(n["parrafos"]))
         if n["seccion"] != antes:
             print(f"Corregida de sección: {antes} -> {n['seccion']}: {n['titulo']}")
+        if (not n.get("oficial") and not n.get("oculta")
+                and es_tasa_o_precios_de_periodico(n.get("titulo_original") or n["titulo"])):
+            n["oculta"] = "datos propios"  # la tasa y los combustibles ahora salen con nuestros datos
+            print("Se oculta (ahora usamos datos propios):", n["titulo"])
         if not n.get("id"):  # las más viejas no tenían número; lo necesitan para su página
             n["id"] = hashlib.md5(n["link"].encode()).hexdigest()[:10]
     calcular_tendencia(todas)
