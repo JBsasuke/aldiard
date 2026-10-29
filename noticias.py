@@ -80,6 +80,9 @@ ARCHIVO_CONSEJOS = "docs/consejos.json"
 BASURA = (r"^en vivo\b|\ben vivo -|gu[ií]a deportiva|resultados de (las )?loter|"
           r"loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada|\(opini[oó]n\)|\| noticias de|^noticias de ")
 MAX_MEDIOS = 3          # una noticia junta hasta 3 medios que cuentan lo mismo
+MIN_PARRAFOS = 3        # solo se publican las noticias con al menos 3 párrafos (las cortas se ocultan)
+MIN_PALABRAS = 90         # la de "El Guachi" tiene 101 y sirve de ejemplo
+LLENAR_HASTA = 15       # mientras haya menos noticias largas que esto, se busca el doble por hora
 
 # ---- Noticias que van DIRECTO a tus páginas (en vez del periódico) ----
 DIVISAS = ("https://divisasrd.com", "divisasrd.com")
@@ -181,12 +184,12 @@ def guardar(ruta, datos):
         json.dump(datos, f, ensure_ascii=False, indent=1)
 
 RELLENO = (r"t[ií]tulo|texto disponible|informaci[oó]n disponible|m[aá]s detalles|no se (ofrecen|detallan|incluyen|especifican|conocen|dan)"
-           r"|no (ofrece|incluye|informa|detalla|especifica|da)|^nota:|respuesta anterior|tus instrucciones|sin (dar )?m[aá]s (detalles|contexto)|seg[uú]n (informa|indica) (la noticia|la nota)")
+           r"|no (ofrece|incluye|informa|detalla|especifica|da)|^nota:|respuesta anterior|tus instrucciones|no precisa|no permite|contenido disponible|sin (dar )?m[aá]s (detalles|contexto)|seg[uú]n (informa|indica) (la noticia|la nota)")
 
 def quitar_relleno(resumen):
     """Quita las frases tipo 'el título no da más detalles' de los resúmenes viejos."""
     resumen = re.sub(r"\s*\((sin|no hay) [^)]*\)", "", resumen)
-    coletilla = r",? seg[uú]n (informa|indica|se[nñ]ala) (la noticia|la nota|el t[ií]tulo|el titular)"
+    coletilla = r",? seg[uú]n (informa|indica|se[nñ]ala|se desprende de) (la noticia|la nota|el t[ií]tulo|el titular)"
     frases = [re.sub(coletilla, "", f, flags=re.I)
               for f in re.split(r"(?<=[.!?])\s+", resumen.strip())]
     frases = [re.sub(r"^seg[uú]n el t[ií]tulo,\s*(\w)", lambda m: m.group(1).upper(), f, flags=re.I) for f in frases]
@@ -285,6 +288,12 @@ publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas regl
 - Solo hechos que estén en los textos. No inventes, no supongas, no opines, no exageres.
   Copia exactos los nombres, cifras y fechas.
 - LARGO: LARGO_AQUI
+- El GANCHO es lo que se ve en la portada y en Instagram: dice qué pasó, pero se guarda los detalles, las cifras,
+  las reacciones y el desenlace para el TEXTO, de forma que den ganas de entrar a leer. Debe ser verdadero:
+  nada de exageraciones ni frases como "no lo vas a creer". El TEXTO no empieza repitiendo el GANCHO: lo amplía.
+- CLAVES son 3 o 4 datos concretos de la noticia, uno por línea, empezando con "- ".
+- IMPORTA explica en 1 o 2 oraciones qué significa esto para un dominicano en RD o en EE.UU. (su bolsillo, su
+  seguridad, su comunidad, su país). Solo si se desprende de los hechos; si no tiene relación, escribe solo "-".
 - Español claro y neutral, frases cortas, para dominicanos en RD y en EE.UU.
 - No digas "el artículo", "el texto", "la nota" ni "según el título". Nunca escribas notas o comentarios para mí.
 - Di a qué SECCION pertenece, escogiendo una de estas:
@@ -302,7 +311,12 @@ Responde EXACTAMENTE en este formato, sin nada antes ni después:
 CONFIABLE: sí
 SECCION: (una de la lista)
 TITULO: (titular propio, distinto de los originales, máximo 14 palabras)
-RESUMEN: (2 oraciones, máximo 260 caracteres)
+GANCHO: (1 o 2 frases cortas, máximo 170 caracteres)
+CLAVES:
+- (dato clave)
+- (dato clave)
+- (dato clave)
+IMPORTA: (1 o 2 oraciones, o "-")
 TEXTO:
 (los párrafos, separados por una línea en blanco)"""
 
@@ -316,11 +330,20 @@ def leer_formato(t):
     cuerpo = m.group(1) if m else ""
     parrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n", cuerpo)]
     parrafos = [p for p in parrafos if len(p) > 25 and not re.match(r"(nota|aclaraci[oó]n)\s*:", p, re.I)]
-    titulo, resumen = campo("TITULO"), campo("RESUMEN")
-    if not titulo or not (resumen or parrafos):
+    titulo = campo("TITULO")
+    gancho = campo("GANCHO") or campo("RESUMEN")
+    mc = re.search(r"^\s*CLAVES\s*:\s*(.*?)^\s*(IMPORTA|TEXTO)\s*:", t, re.I | re.M | re.S)
+    claves = [re.sub(r"^[-•*\d.)\s]+", "", c).strip() for c in (mc.group(1).splitlines() if mc else [])]
+    claves = [c for c in claves if len(c) > 8][:4]
+    importa = campo("IMPORTA")
+    if importa.strip(" -–—.") == "" or len(importa) < 25:
+        importa = ""
+    if not titulo or not (gancho or parrafos):
         raise ValueError("respuesta sin el formato esperado: " + t[:200])
+    gancho = gancho.strip('"“” ') or parrafos[0][:170]
     return {"confiable": not campo("CONFIABLE").lower().startswith("no"), "seccion": campo("SECCION"),
-            "titulo": titulo.strip('"“” '), "resumen": resumen or parrafos[0][:260], "parrafos": parrafos}
+            "titulo": titulo.strip('"“” '), "resumen": gancho, "gancho": gancho, "claves": claves,
+            "importa": importa, "parrafos": parrafos}
 
 def redactar(versiones):
     """versiones: lista de {fuente, titulo, descripcion, texto}. Devuelve la noticia nuestra."""
@@ -376,7 +399,7 @@ def otras_versiones(titulo, dom_principal, vistos):
     return salida
 
 CUENTA = {"ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
-          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "cortas": 0}
+          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -384,7 +407,11 @@ def buscar(guardadas):
     recientes = [n.get("titulo_original") or n["titulo"] for n in guardadas
                  if fecha(n) > ahora() - timedelta(hours=30)]
     nuevas = []
+    llenar = len(visibles(guardadas)) < LLENAR_HASTA
+    if llenar:
+        print(f"Modo llenado: hay menos de {LLENAR_HASTA} noticias largas, se busca el doble esta hora.")
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
+        cupo = cupo * 2 if llenar else cupo
         de_esta, intentos = 0, 0
         orden = (PRIORIDAD_RD + rotar(fuentes)) if seccion == SEC_RD else rotar(fuentes)
         for url in orden:
@@ -424,6 +451,16 @@ def buscar(guardadas):
                     CUENTA["opinión"] += 1
                     print("Es opinión o editorial, se salta:", titulo)
                     continue
+                def oculta(motivo):  # se guarda escondida para no volver a gastar IA en ella
+                    nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10], "titulo": titulo,
+                                   "titulo_original": titulo, "resumen": "", "parrafos": [], "link": link,
+                                   "fuente": fuente, "dominio": dom, "seccion": seccion, "oculta": motivo,
+                                   "fecha": ahora().isoformat()})
+                if sum(len(v["texto"]) for v in versiones) < 500:
+                    CUENTA["ocultas (cortas)"] += 1
+                    print("No se pudo leer el artículo; no se publica para no salir corta:", titulo)
+                    oculta("sin texto")
+                    continue
                 try:
                     r = redactar(versiones)
                 except Exception as err:
@@ -445,12 +482,18 @@ def buscar(guardadas):
                     print(f"Cambiada de sección: {seccion} -> {sec_ia}: {titulo}")
                     sec_final = sec_ia
                 CUENTA["medios juntados"] += len(versiones) - 1
-                CUENTA["largas" if len(r["parrafos"]) >= 3 else "cortas"] += 1
+                if not es_larga(r):
+                    CUENTA["ocultas (cortas)"] += 1
+                    print(f"Salió corta ({len(r['parrafos'])} párrafos); se oculta:", titulo)
+                    oculta("corta")
+                    continue
+                CUENTA["largas"] += 1
                 principal = max(versiones, key=lambda v: len(v["texto"]))  # la más completa va de primera
                 versiones.sort(key=lambda v: v is not principal)
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
                                "titulo": r["titulo"], "titulo_original": titulo,
-                               "resumen": r["resumen"], "parrafos": r["parrafos"],
+                               "resumen": r["resumen"], "gancho": r["gancho"], "parrafos": r["parrafos"],
+                               "claves": r["claves"], "importa": r["importa"],
                                "link": link, "url": principal["url"],
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
@@ -458,6 +501,14 @@ def buscar(guardadas):
                 recientes.append(titulo)
                 de_esta += 1
     return nuevas
+
+def es_larga(n):
+    """Una noticia con contenido de verdad: la única que se muestra en la página y en Instagram."""
+    ps = n.get("parrafos") or []
+    return not n.get("oculta") and len(ps) >= MIN_PARRAFOS and sum(len(p.split()) for p in ps) >= MIN_PALABRAS
+
+def visibles(todas):
+    return [n for n in todas if es_larga(n)]
 
 def enlace_fuente(n):
     return n.get("url") or n["link"]
@@ -482,7 +533,7 @@ def _palabras(t):
 
 def calcular_tendencia(todas):
     """Cuántos medios distintos están hablando del mismo tema en las últimas 36 horas."""
-    recientes = [n for n in todas if fecha(n) > ahora() - timedelta(hours=36)]
+    recientes = [n for n in todas if fecha(n) > ahora() - timedelta(hours=36) and not n.get("oculta")]
     pal = {id(n): _palabras(n.get("titulo_original") or n["titulo"]) for n in recientes}
     for n in recientes:
         medios = {n["fuente"]}
@@ -641,7 +692,7 @@ def elegir_para_instagram(todas):
         if n.get("ig") == "pendiente":
             n["ig"] = None
     limite = ahora() - timedelta(hours=HORAS_IG)
-    pool = [n for n in todas if n.get("ig") in (None, "") and n.get("id")
+    pool = [n for n in visibles(todas) if n.get("ig") in (None, "") and n.get("id")
             and fecha(n) > limite and n.get("ig_intentos", 0) < 3
             and not re.search(BASURA, n["titulo"], re.I)]
     if not pool:
@@ -831,6 +882,15 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .relacionadas h3{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--gris)}
 .relacionadas a{display:block;padding:12px 0;border-bottom:1px solid var(--linea);text-decoration:none;font-weight:700}
 .relacionadas a:hover{color:var(--enlace)}
+.articulo .cuerpo p.entrada{font-size:20px;line-height:1.55;font-weight:600;color:var(--tinta)}
+.claves,.importa{border-radius:12px;padding:16px 20px;margin:4px 0 20px}
+.claves{background:var(--fondo);border:1px solid var(--linea)}
+.claves h2,.importa h2{margin:0 0 8px;font-size:13px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:var(--enlace)}
+.claves ul{margin:0;padding-left:20px}
+.claves li{margin:6px 0;line-height:1.5;color:var(--texto2);font-size:16px}
+.importa{background:var(--extra-f);border:1px solid var(--extra-b)}
+.importa h2{color:var(--extra-t)}
+.articulo .cuerpo .importa p{margin:0;font-size:16.5px}
 """
 
 REDES_HTML = """      <a class="red" href="https://instagram.com/§IG§" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
@@ -915,6 +975,13 @@ def botones_propios(n):
     return "".join(f'<a class="extra" href="{e["url"]}" target="_blank" rel="noopener">'
                    f'{html.escape(e["texto"])} en {e["sitio"]} →</a>' for e in extras(n))
 
+def texto_tarjeta(n):
+    """Lo que se ve en la portada: el gancho, o el comienzo del resumen viejo cortado con '…'."""
+    if n.get("gancho"):
+        return n["gancho"]
+    t = re.split(r"(?<=[.!?])\s+", n["resumen"].strip())[0]
+    return t if len(t) <= 130 else t[:125].rsplit(" ", 1)[0] + "…"
+
 def tarjeta(n, grande=False):
     """Todas las tarjetas abren nuestra propia página de la noticia."""
     c = clase(n["seccion"])
@@ -925,8 +992,8 @@ def tarjeta(n, grande=False):
   <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span></div>
   <h2><a href="{enlace}">{html.escape(n['titulo'])}</a></h2>
-  <p>{html.escape(n['resumen'])}</p>
-  {botones_propios(n)}<a class="leer" href="{enlace}">Leer la noticia completa →</a>
+  <p>{html.escape(texto_tarjeta(n))}</p>
+  {botones_propios(n)}<a class="leer" href="{enlace}">{'Leer la noticia completa' if n.get('parrafos') else 'Leer más'} →</a>
   <span class="fuente chica">{etiqueta}: {html.escape(nombres_fuentes(n))}</span>
 </article>"""
 
@@ -942,7 +1009,7 @@ def generar_portada(todas, consejos):
   <p>{html.escape(con['texto'])}</p>
   <a href="{con['url']}" target="_blank" rel="noopener">{html.escape(con['boton'])} en {con['sitio']} →</a>
 </aside>"""
-    lista = todas[:120]
+    lista = visibles(todas)[:120]
     if lista:
         cuerpo = (tarjeta(lista[0], True) + bloque_consejo + '<div class="rejilla">'
                   + "".join(tarjeta(n) for n in lista[1:]) + "</div>")
@@ -963,12 +1030,20 @@ def generar_portada(todas, consejos):
 def generar_notas(todas):
     """Una página propia para cada noticia larga: docs/n/<id>.html"""
     os.makedirs("docs/n", exist_ok=True)
-    con_pagina = todas  # todas tienen su página; las viejas muestran su resumen
+    con_pagina = visibles(todas)  # solo las largas tienen página; las cortas quedan ocultas
     for n in con_pagina:
         c = clase(n["seccion"])
         url = SITIO + pagina_nota(n)
         img = SITIO + "/" + n["ig_img"] if n.get("ig_img") else SITIO + "/img/logo-512.png"
-        cuerpo = "".join(f"<p>{html.escape(p)}</p>" for p in (n.get("parrafos") or [n["resumen"]]))
+        cuerpo = ""
+        if n.get("gancho"):
+            cuerpo += f'<p class="entrada">{html.escape(n["gancho"])}</p>'
+        if n.get("claves"):
+            cuerpo += ('<div class="claves"><h2>En pocas palabras</h2><ul>'
+                       + "".join(f"<li>{html.escape(c)}</li>" for c in n["claves"]) + "</ul></div>")
+        cuerpo += "".join(f"<p>{html.escape(p)}</p>" for p in (n.get("parrafos") or [n["resumen"]]))
+        if n.get("importa"):
+            cuerpo += f'<div class="importa"><h2>¿Por qué te importa?</h2><p>{html.escape(n["importa"])}</p></div>'
         fuentes_html = " · ".join(
             f'<a href="{html.escape(f["url"])}" target="_blank" rel="noopener nofollow">{html.escape(f["nombre"])}</a>'
             for f in lista_fuentes(n))
@@ -1011,7 +1086,7 @@ def generar_notas(todas):
 
 def generar_sitemap(todas):
     urls = [SITIO + "/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
-    urls += [SITIO + pagina_nota(n) for n in todas if n.get("parrafos")]  # solo las largas, que son las de valor
+    urls += [SITIO + pagina_nota(n) for n in visibles(todas)]
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         f.write("".join(f"  <url><loc>{u}</loc></url>\n" for u in urls))
