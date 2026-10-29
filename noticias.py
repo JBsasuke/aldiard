@@ -226,6 +226,15 @@ def leer_articulo(link):
         texto = ""
     return url, texto[:7000]
 
+def resumir(titulo, texto):
+    msg = cliente().messages.create(
+        model=MODELO, max_tokens=300,
+        messages=[{"role": "user", "content":
+            "Escribe un resumen corto (1-2 oraciones) en español, con tus propias palabras, neutral y sin "
+            "inventar datos, de esta noticia. Nunca menciones que falta información ni digas 'según el título'. "
+            "Responde solo con el resumen.\n\n" f"Título: {titulo}\nTexto: {texto}"}])
+    return msg.content[0].text.strip()
+
 INSTRUCCIONES = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso una noticia publicada por otro medio.
 Escríbela de nuevo para nuestros lectores siguiendo estas reglas:
 - Usa tus propias palabras y tu propia estructura. No sigas el orden del original ni cambies palabras frase por frase:
@@ -255,9 +264,16 @@ def redactar(titulo, descripcion, articulo):
         model=MODELO, max_tokens=900,
         messages=[{"role": "user", "content": INSTRUCCIONES.replace('"PARRAFOS"', parrafos) + "\n\n" + datos}])
     t = msg.content[0].text
-    r = json.loads(t[t.find("{"): t.rfind("}") + 1])
+    bruto = t[t.find("{"): t.rfind("}") + 1]
+    try:
+        r = json.loads(bruto)
+    except json.JSONDecodeError:
+        r = json.loads(re.sub(r"[\x00-\x1f]", " ", bruto))  # saltos de línea dentro del texto
     r["parrafos"] = [p.strip() for p in (r.get("parrafos") or []) if p.strip()] if largo else []
     return r
+
+CUENTA = {"ya vistas": 0, "no confiables": 0, "sin enlace real": 0, "sin texto del artículo": 0,
+          "error IA (larga)": 0, "error IA (corta)": 0, "descartadas por la IA": 0, "largas": 0, "cortas": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -273,24 +289,40 @@ def buscar(guardadas):
                 titulo = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
                 link = e.get("link", "")
                 if not titulo or not link or link in vistos or titulo in vistos:
+                    CUENTA["ya vistas"] += 1
                     continue
                 if re.search(BASURA, titulo, re.I) or len(titulo.split()) < 4:
                     continue
                 dom = dominio(e)
                 if not es_confiable(dom):
+                    CUENTA["no confiables"] += 1
                     print("Fuente no confiable, se salta:", dom or fuente)
                     continue
                 vistos.update((link, titulo))
                 intentos += 1
                 url_real, articulo = leer_articulo(link)
+                if not url_real:
+                    CUENTA["sin enlace real"] += 1
+                elif len(articulo) < 600:
+                    CUENTA["sin texto del artículo"] += 1
+                print(f"[{seccion}] {fuente}: texto leído {len(articulo)} letras -> {url_real or 'sin enlace'}")
                 try:
                     r = redactar(titulo, limpiar(e.get("summary", "")), articulo)
                 except Exception as err:
-                    print("Error IA:", err)
-                    continue
+                    CUENTA["error IA (larga)"] += 1
+                    print("Error IA al escribir la versión larga:", repr(err)[:300])
+                    try:  # plan B: la noticia sale corta, como antes, para no perderla
+                        r = {"confiable": True, "titulo": titulo, "parrafos": [],
+                             "resumen": resumir(titulo, limpiar(e.get("summary", "")))}
+                    except Exception as err2:
+                        CUENTA["error IA (corta)"] += 1
+                        print("Error IA también en la corta:", repr(err2)[:300])
+                        continue
                 if not r.get("confiable", True):
+                    CUENTA["descartadas por la IA"] += 1
                     print("La IA la descartó (rumor, opinión o publicidad):", titulo)
                     continue
+                CUENTA["largas" if r["parrafos"] else "cortas"] += 1
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
                                "titulo": (r.get("titulo") or titulo).strip(), "titulo_original": titulo,
                                "resumen": (r.get("resumen") or "").strip() or titulo,
@@ -877,6 +909,7 @@ def main():
     guardar(ARCHIVO_CONSEJOS, consejos)
     generar_html(todas, consejos)
     print(f"{len(nuevas)} noticias nuevas, {len(todas)} en total")
+    print("RESUMEN DE LA CORRIDA:", " · ".join(f"{k}: {v}" for k, v in CUENTA.items()))
     if elegida:
         print(f"Para Instagram (tendencia {elegida.get('tendencia', 1)}): {elegida['titulo']}")
 
