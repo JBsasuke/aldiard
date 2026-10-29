@@ -1,37 +1,38 @@
-AL DÍA RD – Cómo ponerlo en marcha
-==================================
+AL DÍA RD – Logo, diseño nuevo e Instagram
+==========================================
 
-1. SUBIR LOS ARCHIVOS
-   En tu repo "aldiard" de GitHub: Add file -> Upload files.
-   Arrastra TODO lo que está dentro de esta carpeta (noticias.py, requirements.txt,
-   la carpeta docs y la carpeta .github) y dale a "Commit changes".
+QUÉ TRAE ESTA CARPETA
+  noticias.py        -> busca noticias, hace los resúmenes, arma la página nueva y las imágenes de Instagram
+  instagram.py       -> publica en @aldiardnews (3 noticias cada 3 horas = 24 al día)
+  logo.py            -> el programa que hizo el logo (no hay que correrlo otra vez)
+  requirements.txt   -> ahora incluye "pillow" para hacer las imágenes
+  fuentes/           -> la letra Inter que usan el logo y las imágenes
+  docs/img/          -> el logo, el favicon y la foto de perfil de Instagram
+  .github/workflows/noticias.yml -> ahora también publica en Instagram
 
-   OJO: la carpeta ".github" empieza con punto y a veces la computadora la esconde.
-   Si después de subir no ves la carpeta .github en el repo, créala a mano:
-   Add file -> Create new file -> en el nombre escribe:
-       .github/workflows/noticias.yml
-   y pega adentro el contenido del archivo noticias.yml.
+1. SUBIR
+   En el repo aldiard: Add file -> Upload files -> arrastra todo lo de esta carpeta
+   -> Commit changes. Te va a reemplazar noticias.py y requirements.txt; eso está bien.
+   NO borres docs/noticias.json: ahí están las noticias que ya tienes.
 
-2. CLAVE DE LA IA
-   Saca una API key en console.anthropic.com (se paga aparte del plan Pro;
-   con ~15 resúmenes cada 3 horas son pocos dólares al mes).
-   En el repo: Settings -> Secrets and variables -> Actions -> New repository secret
-       Nombre: ANTHROPIC_API_KEY
-       Valor:  tu clave
+   La carpeta .github no se sube bien arrastrando. Abre en GitHub el archivo
+   .github/workflows/noticias.yml que ya tienes, dale al lapicito (Edit),
+   borra todo, pega el contenido nuevo de noticias.yml y dale a Commit changes.
 
-3. ACTIVAR LA PÁGINA
-   Settings -> Pages -> Source: "Deploy from a branch" -> rama main, carpeta /docs -> Save.
-   Custom domain: aldiard.com -> Save.
+2. FOTO DE PERFIL DE INSTAGRAM
+   Usa docs/img/perfil-instagram.png. Bio sugerida:
+   "Noticias de RD y de los dominicanos en EE.UU. 🇩🇴🇺🇸" + enlace aldiard.com
 
-4. DOMINIO (donde compraste aldiard.com)
-   Registros A para "@":  185.199.108.153  185.199.109.153  185.199.110.153  185.199.111.153
-   Registro CNAME "www" -> JBsasuke.github.io
-   (Puede tardar unas horas en funcionar. Luego marca "Enforce HTTPS" en Settings -> Pages.)
+3. PROBAR
+   Actions -> Publicar noticias -> Run workflow.
+   Tarda unos 5 minutos, porque espera que GitHub publique las imágenes antes de mandarlas a Instagram.
+   Si sale en verde, revisa @aldiardnews.
+   Si sale en rojo, abre el paso que falló y copia el error para arreglarlo.
 
-5. PRIMERA PRUEBA
-   Pestaña Actions -> "Publicar noticias" -> Run workflow.
-   Si sale en verde, ya está. De ahí en adelante corre solo cada 3 horas.
+AJUSTES (en noticias.py)
+   IG_POR_CORRIDA = cuántas noticias van a Instagram cada 3 horas (Instagram permite hasta 100 al día).
+   MAX_NUEVAS     = cuántas noticias nuevas busca por corrida (más = más gasto de IA).
 
-Ajustes en noticias.py:
-   MAX_NUEVAS = cuántas noticias nuevas por corrida (más = más gasto de IA).
-   FUENTES_RD / FUENTES_USA = los periódicos y búsquedas que vigila.
+OJO CON EL TOKEN DE INSTAGRAM
+   Dura 60 días. El programa intenta renovarlo solo en cada corrida.
+   Si un día Instagram deja de publicar, saca un token nuevo en Meta y cámbialo en el secreto IG_TOKEN.
