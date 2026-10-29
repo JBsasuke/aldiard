@@ -15,7 +15,7 @@ def gnews(q):
 
 FUENTES_RD = [gnews("site:" + s) for s in (
     "listindiario.com", "diariolibre.com", "elnuevodiario.com.do", "hoy.com.do",
-    "eldia.com.do", "noticiassin.com", "cdn.com.do", "deultimominuto.net",
+    "eldia.com.do", "noticiassin.com", "cdn.com.do", "deultimominuto.com", "deultimominuto.net",
     "elcaribe.com.do", "acento.com.do", "n.com.do", "eldinero.com.do")]
 FUENTES_USA = [gnews(q) for q in (
     "dominicanos Nueva York", "dominicanos New Jersey", "dominicanos Florida",
@@ -25,7 +25,7 @@ FUENTES_INTER = [
     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=US&ceid=US:es-419",
     gnews("site:bbc.com/mundo"), gnews("site:cnnespanol.cnn.com"), gnews("noticias internacionales hoy")]
 FUENTES_FAMOSOS = [gnews(q) for q in (
-    "Alofoke", "farándula dominicana", "artistas dominicanos", "famosos Hollywood",
+    "Alofoke", "site:deultimominuto.com farándula", "farándula dominicana", "artistas dominicanos", "famosos Hollywood",
     "celebridades latinas Estados Unidos", "música urbana dominicana")]
 FUENTES_PRECIOS = [gnews(q) for q in (
     "precios combustibles República Dominicana", "precio gasolina gasoil GLP semana MICM",
@@ -52,7 +52,7 @@ POR_FUENTE = 3          # noticias que mira de cada fuente
 # Solo se publican noticias de estos medios (y de Alofoke). Lo demás se descarta.
 CONFIABLES = """
 listindiario.com diariolibre.com elnuevodiario.com.do hoy.com.do eldia.com.do noticiassin.com
-cdn.com.do deultimominuto.net elcaribe.com.do acento.com.do n.com.do eldinero.com.do
+cdn.com.do deultimominuto.com deultimominuto.net elcaribe.com.do acento.com.do n.com.do eldinero.com.do
 elnacional.com.do almomento.net z101digital.com ensegundos.do telemicro.com.do
 eldiariony.com ny1.com elnuevoherald.com univision.com telemundo.com telemundo47.com
 telemundoboston.com telemundonuevainglaterra.com telemundo51.com nbcnews.com apnews.com
