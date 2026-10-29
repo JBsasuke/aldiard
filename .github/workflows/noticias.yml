@@ -1,7 +1,7 @@
 name: Publicar noticias
 on:
   schedule:
-    - cron: "0 */3 * * *"   # cada 3 horas
+    - cron: "17 * * * *"    # cada hora (al minuto 17, que GitHub está menos lleno)
   workflow_dispatch:        # botón para correrlo a mano
 permissions:
   contents: write
