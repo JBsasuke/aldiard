@@ -14,24 +14,10 @@
   "tendencia": 1
  },
  {
-  "id": "fb73f937dd",
-  "titulo": "Noticias de Mercados de predicción convierten a Washington en un casino",
-  "titulo_original": "Noticias de Mercados de predicción convierten a Washington en un casino",
-  "resumen": "Los mercados de predicción, plataformas donde se apuesta sobre resultados de eventos futuros, están generando polémica en Washington por su creciente presencia, que algunos comparan con la de un casino. Wait—I must not mention missing information. Let me correct. Los mercados de predicción, plataformas donde se apuesta sobre el resultado de eventos futuros, han generado críticas en Washington, donde se les compara con un casino.",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVd3dHZtZVdqMUVsTzJySVEwX3JrMUxoRERLejQ5cFpSMDQ2RHJCN0UzN2p0YmVLQ05OS0NvS3RvcV9wdUlwV2dGR2VCb19mYmNHeEtabEtfVkx1SDNSWXBGUkg3ZVBFeDZwS21UUllvdmtmUG9hSFMwZWtyd1hBdlpLck9RUnIyNmhmT1FJOExaTUtvaVE?oc=5",
-  "url": "https://acento.com.do/tags/?tag=mercados-de-prediccion-convierten-a-washington-en-un-casino",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "seccion": "República Dominicana",
-  "fecha": "2026-10-29T21:41:04.867543+00:00",
-  "tendencia": 1
- },
- {
   "id": "a843b0b0ad",
   "titulo": "¿Quiénes se robarán el show? Premios Soberano abre debate sobre los presentadores",
   "titulo_original": "¿Quiénes se robarán el show? Premios Soberano abre debate sobre los presentadores",
-  "resumen": "Los Premios Soberano han generado debate por la elección de sus presentadores, según se desprende de la noticia. Nota: la respuesta anterior incluye una frase que no cumple tus instrucciones, así que aquí va la versión correcta:\n\nLos Premios Soberano han generado debate en torno a quiénes serán sus presentadores.",
+  "resumen": "Los Premios Soberano han generado debate por la elección de sus presentadores, según se desprende de la noticia.",
   "parrafos": [],
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWtvVVFpOXRBZ19XbHY5aUhsRUczVHotRU12cTNkejQySTNJMGxhX08yWGFIMndrdEU4S2lQYXRuUHlzcUVDbV9wNFBOVFBWSHVmanhQcDJLYXQzbDVNLXg4VlByZnNNYWFjdU5SbHNfWElueUdmUVZjUnFhWkI0Wk9meU5pbWc4OHBXNDh6QWp6a1A5cEx1dVZoMHpjak0wMWMxUHZsWDJwWjZl?oc=5",
   "url": "https://n.com.do/2026/10/29/quienes-se-robaran-el-show-premios-soberano-abre-debate-sobre-los-presentadores/",
@@ -53,20 +39,6 @@
   "dominio": "cnnespanol.cnn.com",
   "seccion": "Internacionales",
   "fecha": "2026-10-29T21:41:34.227217+00:00",
-  "tendencia": 1
- },
- {
-  "id": "34d4054a81",
-  "titulo": "De Último Minuto | Noticias de República Dominicana",
-  "titulo_original": "De Último Minuto | Noticias de República Dominicana",
-  "resumen": "El sitio De Último Minuto ofrece noticias de República Dominicana, aunque el texto proporcionado no incluye ninguna noticia concreta para resumir.",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE4wbFRfY0tfalRaOERvQWVJSTN5RUFmM0d1cndvUnRsU0pQbXUtbkViYnhBd3I2aFZwRS1GLU9zTzM?oc=5",
-  "url": "https://deultimominuto.com/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "seccion": "Famosos",
-  "fecha": "2026-10-29T21:41:44.528097+00:00",
   "tendencia": 1
  },
  {
@@ -94,7 +66,7 @@
   "id": "7616f07127",
   "titulo": "Concienciar contra el lavado de activos",
   "titulo_original": "Concienciar contra el lavado de activos",
-  "resumen": "Una nota de elcaribe.com.do llama a concienciar a la población sobre el lavado de activos. El contenido disponible no permite detallar acciones, cifras ni responsables concretos. Nota: el texto proporcionado es muy breve, por lo que el resumen se limita a lo que indica el titular.",
+  "resumen": "Una nota de elcaribe.com.do llama a concienciar a la población sobre el lavado de activos. El contenido disponible no permite detallar acciones, cifras ni responsables concretos.",
   "parrafos": [],
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOE8ydWpDWjRnQWdfYjhCbzFrRDF3Um9kY1JsMjhYSlZKZUxFZHhSXzUzMnBpMS1OS3B1Mkw3WmpNOXpSQ1BUVGhKN0lhcmtwZmphWkd5dkFoLTZUa2oxSGdPN2ZGdU0tWXozdzBIbFFXWjl6d2VuOGRUajN4bXdEeEpNem1ycm5pLUZjTUt2bnlsUQ?oc=5",
   "url": "https://www.elcaribe.com.do/opiniones/editorial/concienciar-contra-el-lavado-de-activos/",
@@ -367,7 +339,11 @@
   "fuente": "Conexión Migrante",
   "seccion": "Precios y combustibles",
   "fecha": "2026-10-29T18:00:20.393904+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/be8e6500ca.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/be8e6500ca-h.jpg"
  },
  {
   "id": "892256b4e6",
@@ -722,7 +698,8 @@
   "fuente": "Listín Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:35.406686+00:00",
-  "tendencia": 2
+  "tendencia": 2,
+  "id": "52757e15a6"
  },
  {
   "titulo": "Muere el juez Alvin Hellerstein, quien presidía el caso contra Nicolás Maduro",
@@ -731,7 +708,8 @@
   "fuente": "Listín Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:36.208701+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "65e40f4ac2"
  },
  {
   "titulo": "Interrupción eléctrica en el Robert Reid afectó facturación, consultas y toma de muestra",
@@ -740,7 +718,8 @@
   "fuente": "Listín Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:37.186422+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "bd3504e854"
  },
  {
   "titulo": "Corte de Apelación condena a tres años de prisión suspendida a Wander Franco",
@@ -749,7 +728,8 @@
   "fuente": "Diario Libre",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:39.106879+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "ac7fa47a90"
  },
  {
   "titulo": "El Salvador despliega más de 2,000 militares en Haití",
@@ -758,7 +738,8 @@
   "fuente": "Diario Libre",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:40.013338+00:00",
-  "tendencia": 2
+  "tendencia": 2,
+  "id": "aa2f042b47"
  },
  {
   "titulo": "Rosalba Ramos afirma que, como abogada, entiende que no hay dolo eventual en el caso Jet Set",
@@ -767,7 +748,8 @@
   "fuente": "Diario Libre",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:41.860048+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "846bb28195"
  },
  {
   "titulo": "Petróleo de Texas sube casi un 3 % y supera los 102 dólares por tensiones en Oriente Medio",
@@ -776,7 +758,8 @@
   "fuente": "El Nuevo Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:43.426630+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "id": "f79331f4e3"
  },
  {
   "titulo": "Inefi reconoce labor de docentes con \"Medalla al Mérito Magisterial en Educación Física 2026\"",
@@ -785,7 +768,8 @@
   "fuente": "El Nuevo Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:44.415075+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "33be4d7c0d"
  },
  {
   "titulo": "Mel Rojas Jr. conecta jonrón y el Licey blanquea a las Estrellas",
@@ -794,7 +778,8 @@
   "fuente": "El Nuevo Diario",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:45.277360+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "f2f8abc267"
  },
  {
   "titulo": "Para proteger la frontera, miembros de reservas ERD, Armada y Policía, están dispuestos a servir",
@@ -803,7 +788,8 @@
   "fuente": "Hoy Digital",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:46.789456+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "b8642ce88c"
  },
  {
   "titulo": "Choque de trenes en España: ¿qué falló para que ocurriera la tragedia?",
@@ -812,7 +798,8 @@
   "fuente": "Hoy Digital",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:48.062788+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "id": "e4cf4cbd4f"
  },
  {
   "titulo": "España: ¿Cómo es posible que nada ni nadie evitase la tragedia ferroviaria?",
@@ -821,7 +808,8 @@
   "fuente": "Hoy Digital",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:49.138834+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "edbf3bf0a1"
  },
  {
   "titulo": "Delcy Rodríguez baila \"Dame hombro\" de Bulin 47 junto al gobernador Rafael Lacava",
@@ -830,7 +818,8 @@
   "fuente": "El Dia.com.do",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:50.563481+00:00",
-  "tendencia": 2
+  "tendencia": 2,
+  "id": "3cf4c06739"
  },
  {
   "titulo": "“La amenaza de Haití para RD no está allá, la amenaza está aquí”, advierte general Soto Jiménez",
@@ -839,7 +828,8 @@
   "fuente": "El Dia.com.do",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:51.388749+00:00",
-  "tendencia": 1
+  "tendencia": 1,
+  "id": "c6a2fcbb8b"
  },
  {
   "titulo": "Lluvias dejan 534 viviendas afectadas y 32 comunidades incomunicadas en el país",
@@ -848,6 +838,7 @@
   "fuente": "El Dia.com.do",
   "seccion": "República Dominicana",
   "fecha": "2026-10-29T16:05:52.513201+00:00",
-  "tendencia": 2
+  "tendencia": 2,
+  "id": "6719935331"
  }
 ]
