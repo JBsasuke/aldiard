@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Al Día RD · Noticias de RD y de los dominicanos en EE.UU.</title>
-<meta name="description" content="Resúmenes de noticias de República Dominicana, de los dominicanos en Estados Unidos y del mundo, con enlace a la fuente original.">
-<meta property="og:title" content="Al Día RD">
-<meta property="og:description" content="Noticias de República Dominicana y de los dominicanos en EE.UU.">
+<title>Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo</title>
+<meta name="description" content="Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, famosos, precios y videojuegos, contadas de forma clara y con su fuente.">
+<link rel="canonical" href="https://aldiard.com/">
+<meta property="og:title" content="Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo">
+<meta property="og:description" content="Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, famosos, precios y videojuegos, contadas de forma clara y con su fuente.">
 <meta property="og:image" content="https://aldiard.com/img/logo-512.png">
-<meta property="og:url" content="https://aldiard.com">
+<meta property="og:url" content="https://aldiard.com/">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#002d62">
 <script>try{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
-<link rel="icon" type="image/png" href="img/favicon.png">
-<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/img/favicon.png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap" rel="stylesheet">
-<style>
-:root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>:root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
  --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]){--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
@@ -73,13 +74,31 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .pie a{color:#fff;font-weight:600}
 .legal{width:100%;border-top:1px solid #ffffff22;padding-top:14px;font-size:13px}
 @media (max-width:600px){.hoy{display:none}.redes{margin-left:auto}.destacada{padding:20px}}
+.leer{margin-top:auto;padding-top:6px;font-weight:700;font-size:14px;color:var(--enlace);text-decoration:none}
+.leer:hover{text-decoration:underline}
+.articulo{max-width:760px;margin:auto;background:var(--blanco);border:1px solid var(--linea);border-radius:16px;padding:28px 30px;border-top:5px solid var(--rojo)}
+.articulo.us{border-top-color:var(--enlace)} .articulo.pr{border-top-color:var(--ambar)} .articulo.vj{border-top-color:var(--morado)}
+.articulo.fa{border-top-color:var(--rosa)} .articulo.in{border-top-color:var(--verdeazul)}
+.articulo .us .chip,.articulo.us .chip{color:var(--enlace)} .articulo.pr .chip{color:var(--ambar)} .articulo.vj .chip{color:var(--morado)}
+.articulo.fa .chip{color:var(--rosa)} .articulo.in .chip{color:var(--verdeazul)}
+.articulo h1{font-size:clamp(26px,4vw,36px);line-height:1.15;font-weight:900;letter-spacing:-.02em;margin:10px 0 16px}
+.articulo .cuerpo p{font-size:18px;line-height:1.7;color:var(--texto2);margin:0 0 16px}
+.credito{margin-top:22px;padding-top:16px;border-top:1px solid var(--linea);font-size:14.5px;color:var(--gris)}
+.credito a{color:var(--enlace);font-weight:700}
+.compartir{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.compartir a{font-size:13.5px;font-weight:700;text-decoration:none;padding:8px 12px;border-radius:999px;border:1px solid var(--linea);color:var(--tinta)}
+.volver{display:inline-block;margin:0 0 14px;font-weight:600;color:var(--enlace);text-decoration:none}
+.relacionadas{max-width:760px;margin:26px auto 0}
+.relacionadas h3{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--gris)}
+.relacionadas a{display:block;padding:12px 0;border-bottom:1px solid var(--linea);text-decoration:none;font-weight:700}
+.relacionadas a:hover{color:var(--enlace)}
 </style></head>
 <body>
 <div class="franja"></div>
 <header>
   <div class="barra">
-    <img src="img/logo-512.png" alt="">
-    <a class="marca" href="./">Al Día <span>RD</span></a>
+    <img src="/img/logo-512.png" alt="">
+    <a class="marca" href="/">Al Día <span>RD</span></a>
     <div class="hoy" id="hoy"></div>
     <div class="redes">
       <a class="red" href="https://instagram.com/aldiardnews" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
@@ -530,13 +549,13 @@ El dólar inició la jornada del 29 de octubre en República Dominicana con su c
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEZIelN1UXNyMTUxVHNOYnJ2UW45X1VhOW5rZ3ItM2NiNVg5UU01QjB6UnIwZURFUExKLW9NR0FnRnU0U3JnSmhsS0RhSDRUSWowUm5wdWdMY2pTZTVjUzEwV0tYNU5BNGtteWxneGNMVFBZV2lDR3Z6RjdSUUdYSE5mczlhQzRzWm9uT0JXbXVFMEVDSWFYUUs1UENPeDFBbmJR?oc=5" target="_blank" rel="noopener">Leer en El Dia.com.do <span aria-hidden="true">→</span></a>
 </article></div></main>
 <footer><div class="pie">
-  <div style="display:flex;gap:12px;align-items:center"><img src="img/logo-512.png" alt="">
-    <div>Resúmenes propios hechos a partir de las noticias de cada medio.<br>Cada noticia enlaza a su fuente original.</div></div>
+  <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
+    <div>Noticias contadas con nuestras propias palabras a partir de medios confiables.<br>Cada noticia lleva el crédito y el enlace a su fuente original.</div></div>
   <div>Síguenos: <a href="https://instagram.com/aldiardnews" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/aldiardnews" target="_blank" rel="noopener">X</a> @aldiardnews<br>
     También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
-  <div class="legal"><a href="quienes-somos.html">Quiénes somos</a> · <a href="contacto.html">Contacto</a> ·
-    <a href="privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
+  <div class="legal"><a href="/quienes-somos.html">Quiénes somos</a> · <a href="/contacto.html">Contacto</a> ·
+    <a href="/privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
 </div></footer>
 <script>
 var raiz=document.documentElement,btn=document.getElementById('tema');
