@@ -13,7 +13,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap" rel="stylesheet">
 <style>
-:root{--azul:#002d62;--rojo:#ce1126;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff}
+:root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff}
 *{box-sizing:border-box}
 body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}
 a{color:inherit}
@@ -30,6 +30,10 @@ nav button[aria-pressed=true]{background:var(--azul);border-color:var(--azul);co
 main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}
 .nota.us{border-top-color:var(--azul)}
+.nota.pr{border-top-color:var(--ambar)} .pr .chip{color:var(--ambar)}
+.nota.vj{border-top-color:var(--morado)} .vj .chip{color:var(--morado)}
+.extra{align-self:flex-start;font-size:13.5px;font-weight:600;text-decoration:none;color:#0f5132;background:#e8f5ee;border:1px solid #cde9d9;padding:6px 10px;border-radius:8px}
+.extra:hover{text-decoration:underline}
 .meta{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}
 .chip{font-weight:800;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--rojo)}
 .us .chip{color:var(--azul)}
@@ -62,21 +66,81 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <button data-f="todas" aria-pressed="true">Todas</button>
     <button data-f="rd" aria-pressed="false">República Dominicana</button>
     <button data-f="us" aria-pressed="false">Dominicanos en EE.UU.</button>
+    <button data-f="pr" aria-pressed="false">Precios y combustibles</button>
+    <button data-f="vj" aria-pressed="false">Videojuegos</button>
   </nav>
 </header>
 <main>
-<article class="nota rd destacada" data-sec="rd">
+<article class="nota pr destacada" data-sec="pr">
+  <div class="meta"><span class="chip">Precios y combustibles</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:24.982818+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2t3Q01rNGw2YTFDbWR6QlNudXFFV0IxVkQzQ2RkRDU2aWk5QmVvZ2N2V0J2ckIwdm82eDdSYXJwanRfYk5LNHZjaFBKbVdBSWV3ZkhsYzJzYXlUMXAxcDNJYjZVemxSdzBWQVRZN0l5VDJQQUZkS3RWSjdhNExjelhJMkpUU0NCS0F2Ym1NRGQ3dEFyMXFV?oc=5" target="_blank" rel="noopener">FP cuestiona aumento del marbete en medio de alzas de los combustibles</a></h2>
+  <p>El Partido Florido (FP) critica el incremento del marbete, un tributo vehicular, en un momento en que los precios de los combustibles también están subiendo. La organización pone en duda la conveniencia de esa medida en este contexto.</p>
+  <a class="extra" href="https://divisasrd.com" target="_blank" rel="noopener">Precios de combustibles en divisasrd.com →</a>
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQb2t3Q01rNGw2YTFDbWR6QlNudXFFV0IxVkQzQ2RkRDU2aWk5QmVvZ2N2V0J2ckIwdm82eDdSYXJwanRfYk5LNHZjaFBKbVdBSWV3ZkhsYzJzYXlUMXAxcDNJYjZVemxSdzBWQVRZN0l5VDJQQUZkS3RWSjdhNExjelhJMkpUU0NCS0F2Ym1NRGQ3dEFyMXFV?oc=5" target="_blank" rel="noopener">Leer en El Dia.com.do <span aria-hidden="true">→</span></a>
+</article><div class="rejilla">
+<article class="nota pr" data-sec="pr">
+  <div class="meta"><span class="chip">Precios y combustibles</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:25.943521+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2Z5eXBTQlkwbnBmYzJGczZUMVFzZTByRkZHeG0tZFlkLTBBZTEtNTM2M0RabmY4Nk9maWdxTEFINTRxeUUxOXZEb1hmdC1vNHdoaXZzRnBuZGU2dno2ZURUdkRFQWdBLUdXV2Y4R1pXOHhsQUlBUmNzTUZfZGVBbkNwN1FoRzdFTkVfNkMzWXZhR3Vvb0dCRUlicFg1Z0dMSDdjWlhJX240RXRLQlRGd0p5UzZQYmJld2VBNjhSa1JzSGhVVzVkOFZUbDU5X3loRUNvT0M1UENDUWZn0gHcAUFVX3lxTE83Znl5cFNCWTBucGZjMkZzNlQxUXNlMHJGRkd4bS1kWWQtMEFlMS01MzYzRFpuZjg2T2ZpZ3FMQUg1NHF5RTE5dkRvWGZ0LW80d2hpdnNGcG5kZTZ2ejZlRFR2REVBZ0EtR1dXZjhHWlc4eGxBSUFSY3NNRl9kZUFuQ3A3UWhHN0VORV82QzNZdmFHdW9vR0JFSWJwWDVnR0xIN2NaWElfbjRFdEtCVEZ3SnlTNlBiYmV3ZUE2OFJrUnNIaFVXNWQ4VlRsNTlfeWhFQ29PQzVQQ0NRZmc?oc=5" target="_blank" rel="noopener">Bolivia se prepara para importar gas tras décadas como potencia exportadora</a></h2>
+  <p>Bolivia se alista para comprar gas del exterior, algo inusual para un país que durante décadas fue un importante exportador de este recurso. El cambio refleja la caída de su producción energética, según reporta Bloomberg Línea.</p>
+  
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN2Z5eXBTQlkwbnBmYzJGczZUMVFzZTByRkZHeG0tZFlkLTBBZTEtNTM2M0RabmY4Nk9maWdxTEFINTRxeUUxOXZEb1hmdC1vNHdoaXZzRnBuZGU2dno2ZURUdkRFQWdBLUdXV2Y4R1pXOHhsQUlBUmNzTUZfZGVBbkNwN1FoRzdFTkVfNkMzWXZhR3Vvb0dCRUlicFg1Z0dMSDdjWlhJX240RXRLQlRGd0p5UzZQYmJld2VBNjhSa1JzSGhVVzVkOFZUbDU5X3loRUNvT0M1UENDUWZn0gHcAUFVX3lxTE83Znl5cFNCWTBucGZjMkZzNlQxUXNlMHJGRkd4bS1kWWQtMEFlMS01MzYzRFpuZjg2T2ZpZ3FMQUg1NHF5RTE5dkRvWGZ0LW80d2hpdnNGcG5kZTZ2ejZlRFR2REVBZ0EtR1dXZjhHWlc4eGxBSUFSY3NNRl9kZUFuQ3A3UWhHN0VORV82QzNZdmFHdW9vR0JFSWJwWDVnR0xIN2NaWElfbjRFdEtCVEZ3SnlTNlBiYmV3ZUE2OFJrUnNIaFVXNWQ4VlRsNTlfeWhFQ29PQzVQQ0NRZmc?oc=5" target="_blank" rel="noopener">Leer en Bloomberg Línea <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota pr" data-sec="pr">
+  <div class="meta"><span class="chip">Precios y combustibles</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:27.345684+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnRCOUJ4cjQ0WEFrZzhFTDkyTWwtcTR3Qk51WDdOeUxPQUM1TFdFdUd5MW40NnJnTkNxbVgwN21PSmwxQjBXTFd6N0RrZ3FwczN2a3RiT01sSU5kS0ZNWWZZdlpTT3NYQmlVUWNiLUVBTklqSTdxWktwX0ZYREJITUVfMHQ2T1ViS0pUN3hLVFE1S0NsVnp4b2oxTGdLUkhmeVJhTXNIdlRvU2h2Vjl1NGpGWm14TEVvX3JGRnY3VWhWbngw0gHEAUFVX3lxTE02dEI5QnhyNDRYQWtnOEVMOTJNbC1xNHdCTnVYN055TE9BQzVMV0V1R3kxbjQ2cmdOQ3FtWDA3bU9KbDFCMFdMV3o3RGtncXBzM3ZrdGJPTWxJTmRLRk1ZZll2WlNPc1hCaVVRY2ItRUFOSWpJN3FaS3BfRlhEQkhNRV8wdDZPVWJLSlQ3eEtUUTVLQ2xWenhvajFMZ0tSSGZ5UmFNc0h2VG9TaHZWOXU0akZabXhMRW9fckZGdjdVaFZueDA?oc=5" target="_blank" rel="noopener">Precio del dólar hoy en República Dominicana, ¿a cómo está este jueves 29 de octubre?</a></h2>
+  <p>El precio del dólar en República Dominicana se consulta para el jueves 29 de octubre. La nota busca informar a cuánto se cotiza la moneda estadounidense en ese día.</p>
+  <a class="extra" href="https://divisasrd.com" target="_blank" rel="noopener">Tasa del dólar hoy en divisasrd.com →</a>
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnRCOUJ4cjQ0WEFrZzhFTDkyTWwtcTR3Qk51WDdOeUxPQUM1TFdFdUd5MW40NnJnTkNxbVgwN21PSmwxQjBXTFd6N0RrZ3FwczN2a3RiT01sSU5kS0ZNWWZZdlpTT3NYQmlVUWNiLUVBTklqSTdxWktwX0ZYREJITUVfMHQ2T1ViS0pUN3hLVFE1S0NsVnp4b2oxTGdLUkhmeVJhTXNIdlRvU2h2Vjl1NGpGWm14TEVvX3JGRnY3VWhWbngw0gHEAUFVX3lxTE02dEI5QnhyNDRYQWtnOEVMOTJNbC1xNHdCTnVYN055TE9BQzVMV0V1R3kxbjQ2cmdOQ3FtWDA3bU9KbDFCMFdMV3o3RGtncXBzM3ZrdGJPTWxJTmRLRk1ZZll2WlNPc1hCaVVRY2ItRUFOSWpJN3FaS3BfRlhEQkhNRV8wdDZPVWJLSlQ3eEtUUTVLQ2xWenhvajFMZ0tSSGZ5UmFNc0h2VG9TaHZWOXU0akZabXhMRW9fckZGdjdVaFZueDA?oc=5" target="_blank" rel="noopener">Leer en Acento <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota vj" data-sec="vj">
+  <div class="meta"><span class="chip">Videojuegos</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:31.395586+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhReUxsRWFBcENJc19BZTVLcm83c3NkNklkdVNHTmt5QXdjOTNySk5BNUJKVU15bHlNMFZoS3BJVzFlOElrN09EX3lmeEpkQ0NlRTFMMzdhU0ZuREN2UXFUQ3RIb255dDAyV2FqcFNONnhRS0RjX0s1LXN1cm16Z3QzOTBVQlZrQ0tIVXJaS2VQUk9GR3VMZFlNcVBvNWt5WnQ3MFhERUxMVnFJSS1IZUowWDZyRkQ0NkJPNlJiSHQ0VUU0TzJ5MtIBzgFBVV95cUxNd3k1R0FCdDlXd1ZUNncwcURQS3ZJRm5DTXNpdmhvUVd3akxaSTFGTk1Od2Nhbk5vOHhfU3JNNm5CMnc5NjNEY1Y2V21mSUFJb0o1YVhERnB4UzdKVzhlUUUxcTRJMldNU0YyLUlDRE43a3ctX2k0UUczcjFmVzNlSmZzMHZiTjZ3bVFpWnpMX0cxWGxTck9aYkhYOWZXNmNDMWV1UWkxYlhVbWZ2UHdVQXh4OFQ3VHdGNEFrX2ZzbFIydktFNEdkME5tU1NKZw?oc=5" target="_blank" rel="noopener">Nuevos detalles e imágenes de GTA 6 este jueves: Edge publicará un artículo especial del juego de Rockstar el 29 de octubre</a></h2>
+  <p>La revista Edge publicará un artículo especial sobre GTA 6 el 29 de octubre, con nuevos detalles e imágenes del juego de Rockstar. La noticia anuncia esa cobertura para el próximo jueves.</p>
+  
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQnhReUxsRWFBcENJc19BZTVLcm83c3NkNklkdVNHTmt5QXdjOTNySk5BNUJKVU15bHlNMFZoS3BJVzFlOElrN09EX3lmeEpkQ0NlRTFMMzdhU0ZuREN2UXFUQ3RIb255dDAyV2FqcFNONnhRS0RjX0s1LXN1cm16Z3QzOTBVQlZrQ0tIVXJaS2VQUk9GR3VMZFlNcVBvNWt5WnQ3MFhERUxMVnFJSS1IZUowWDZyRkQ0NkJPNlJiSHQ0VUU0TzJ5MtIBzgFBVV95cUxNd3k1R0FCdDlXd1ZUNncwcURQS3ZJRm5DTXNpdmhvUVd3akxaSTFGTk1Od2Nhbk5vOHhfU3JNNm5CMnc5NjNEY1Y2V21mSUFJb0o1YVhERnB4UzdKVzhlUUUxcTRJMldNU0YyLUlDRE43a3ctX2k0UUczcjFmVzNlSmZzMHZiTjZ3bVFpWnpMX0cxWGxTck9aYkhYOWZXNmNDMWV1UWkxYlhVbWZ2UHdVQXh4OFQ3VHdGNEFrX2ZzbFIydktFNEdkME5tU1NKZw?oc=5" target="_blank" rel="noopener">Leer en Vandal <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota vj" data-sec="vj">
+  <div class="meta"><span class="chip">Videojuegos</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:32.864329+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBnc1B4WkNId29JNkY2QmE1T1hBZkZuU1lFQWVKUncxUGhUaHpIUldEbXI4enBfOHNPaXA3OVVJd1YwSFlwRy1XbTdNaWN0TVFPTFlacVI3NFUxTGpMT0pBYUFfM3ZQSjNvc0NlbVlsRTA?oc=5" target="_blank" rel="noopener">GTA 6 tendrá su propio café: cafetería de Miami lanza blend inspirado en Vice City por US$23</a></h2>
+  <p>Una cafetería de Miami lanzó un blend de café inspirado en Vice City, el escenario de GTA 6, a un precio de US$23. El producto se presenta como una propuesta temática para los seguidores de la saga.</p>
+  
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBnc1B4WkNId29JNkY2QmE1T1hBZkZuU1lFQWVKUncxUGhUaHpIUldEbXI4enBfOHNPaXA3OVVJd1YwSFlwRy1XbTdNaWN0TVFPTFlacVI3NFUxTGpMT0pBYUFfM3ZQSjNvc0NlbVlsRTA?oc=5" target="_blank" rel="noopener">Leer en Mercado Negro <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota vj" data-sec="vj">
+  <div class="meta"><span class="chip">Videojuegos</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:36.169238+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkxhcEZ6Q3V2QnZYMXphZmtQSUY1ZFJuZUFNLXRGeTdqdHN5eVBrcXllcFg4MkprZ0Rha2ZDekdHOFUxbHFtTW55QUNWTThsSTltR0lGM0JTUFVvQ1UxX19QOC1wVTc2?oc=5" target="_blank" rel="noopener">Digimon Alysion abre su prerregistro para móviles con lanzamiento previsto en 2026</a></h2>
+  <p>Digimon Alysion ya tiene habilitado el prerregistro para dispositivos móviles, con un lanzamiento previsto para 2026.</p>
+  
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRkxhcEZ6Q3V2QnZYMXphZmtQSUY1ZFJuZUFNLXRGeTdqdHN5eVBrcXllcFg4MkprZ0Rha2ZDekdHOFUxbHFtTW55QUNWTThsSTltR0lGM0JTUFVvQ1UxX19QOC1wVTc2?oc=5" target="_blank" rel="noopener">Leer en https://fomoera.com/ <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota vj" data-sec="vj">
+  <div class="meta"><span class="chip">Videojuegos</span>
+    <span class="hora" data-fecha="2026-10-29T17:03:37.632430+00:00"></span></div>
+  <h2><a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVGZIVy1zQTVKUExyUENmT0EyT1RqYkp6ejdRV2F5c1ZfRUtvZnJzZ1VKZXRUN05pSnRQa2tIVm1oY3diNm9VM2dKOXNFUXlUNktUeVpGU1l5ZmdIb29tWUJoWVZCUWtBRlR1dlVNM0ZiRWR3ZWZnTHE2UWFoR1lrUEs3bTlIblJxYTlIc0djQklMSmk4MjNIZWNfNGRHQXBuY09XaW04T1FzUFIzQ0haU05YaHBVVFdORUlxWjl1WGNDZlRYckEzN3dzdXlha1B5VjZyOU1EYTJQRVBUZm9UOW5B0gH8AUFVX3lxTE1nbWtBTi1zTzFFMk5vZXlhOXFHZklRTVZ2RGRuakhrSW9XQjJ5c1daaHpzYTNPZTZfQUZvMnA4VW9yeWpPbC1zWXJHQW9ZSFdzYldpZl9FTlB4bTBhcHVEUTVJT29xcC1NT3dfZzdHOGdMRC13UHdPTTlwMWo4ZUdhVjN3cng5NlRXalROQ2FtalE5V0lDLUFpc1RqTkZIeHhyNnYwZ0dkNF91Nm1uUTBCX2U1S2ZNN2JzZU4tQVBvYlRrVl9sZVc3eFFHc1ktSkh1aTByLVB4WXEwU250LVdsc3gtaWZYT2hxZktEWWVnOFF0eElXTEx4UkhLLQ?oc=5" target="_blank" rel="noopener">Mientras GTA 6 prepara su lanzamiento, trabajadores de Rockstar deciden si obtienen representación sindical</a></h2>
+  <p>Mientras se preparan para el lanzamiento de GTA 6, los empleados de Rockstar votan si quieren contar con representación sindical. La decisión se toma en paralelo al próximo estreno del juego.</p>
+  
+  <a class="fuente" href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVGZIVy1zQTVKUExyUENmT0EyT1RqYkp6ejdRV2F5c1ZfRUtvZnJzZ1VKZXRUN05pSnRQa2tIVm1oY3diNm9VM2dKOXNFUXlUNktUeVpGU1l5ZmdIb29tWUJoWVZCUWtBRlR1dlVNM0ZiRWR3ZWZnTHE2UWFoR1lrUEs3bTlIblJxYTlIc0djQklMSmk4MjNIZWNfNGRHQXBuY09XaW04T1FzUFIzQ0haU05YaHBVVFdORUlxWjl1WGNDZlRYckEzN3dzdXlha1B5VjZyOU1EYTJQRVBUZm9UOW5B0gH8AUFVX3lxTE1nbWtBTi1zTzFFMk5vZXlhOXFHZklRTVZ2RGRuakhrSW9XQjJ5c1daaHpzYTNPZTZfQUZvMnA4VW9yeWpPbC1zWXJHQW9ZSFdzYldpZl9FTlB4bTBhcHVEUTVJT29xcC1NT3dfZzdHOGdMRC13UHdPTTlwMWo4ZUdhVjN3cng5NlRXalROQ2FtalE5V0lDLUFpc1RqTkZIeHhyNnYwZ0dkNF91Nm1uUTBCX2U1S2ZNN2JzZU4tQVBvYlRrVl9sZVc3eFFHc1ktSkh1aTByLVB4WXEwU250LVdsc3gtaWZYT2hxZktEWWVnOFF0eElXTEx4UkhLLQ?oc=5" target="_blank" rel="noopener">Leer en Infobae <span aria-hidden="true">→</span></a>
+</article>
+<article class="nota rd" data-sec="rd">
   <div class="meta"><span class="chip">República Dominicana</span>
     <span class="hora" data-fecha="2026-10-29T16:56:54.457038+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzhpby1udkhXS1ljRVh0RldXQTlOamFhUFpjdGNXd1ItQlZaZXUtUEhlR2U1VWVfWjZZSjlZUnNoTks3MmRYTGM3c2FrOU5PRzJxVFh0VXpiUjBuTDIxZDVVRGZQSFFGN1dMeTNpMUxjM1A1MzVhR2c5cDMzVFcySmpobmY5LWVWNXVvVVJoeGlCc0xUaXFjMjVpNnhhc3JlUWxQS25uNm5uUlR5NFBhakg4eTJfU0FfZUlwM1o1SFlsWjh1bnfSAcsBQVVfeXFMTU5QR0dvT0lGOTd6MW5BdUFOa3BjWjVreFZVRzFpOVUzbWdDdlJFN1R0TzQweVFwRWxNZVp1Z3p3YWZ6Z3Rkcm5sVVpUbVM5QU54VW5nYkY2b0c2TkN2bV9OUkM1d3llUjA1b2x5T2xSU3k1a0J4VzRkaTNraFBVQXg3R2EyQkpPRThocnVNcGxvc09GN3dCSEJzaXhlTFNiSHhXQnVIWFdpTjVzejVEaFpXMXFvNk9NZDdZNEg0Zms5MDludEg0WTJLMFU?oc=5" target="_blank" rel="noopener">Trevor Bauer: “Pregunten a Manfred por qué no me permite jugar en Grandes Ligas”</a></h2>
   <p>El lanzador Trevor Bauer pidió que se le pregunte al comisionado de las Grandes Ligas, Rob Manfred, por qué no le permite jugar en el circuito. La declaración refleja su inconformidad con la situación que le impide volver a competir en la liga.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzhpby1udkhXS1ljRVh0RldXQTlOamFhUFpjdGNXd1ItQlZaZXUtUEhlR2U1VWVfWjZZSjlZUnNoTks3MmRYTGM3c2FrOU5PRzJxVFh0VXpiUjBuTDIxZDVVRGZQSFFGN1dMeTNpMUxjM1A1MzVhR2c5cDMzVFcySmpobmY5LWVWNXVvVVJoeGlCc0xUaXFjMjVpNnhhc3JlUWxQS25uNm5uUlR5NFBhakg4eTJfU0FfZUlwM1o1SFlsWjh1bnfSAcsBQVVfeXFMTU5QR0dvT0lGOTd6MW5BdUFOa3BjWjVreFZVRzFpOVUzbWdDdlJFN1R0TzQweVFwRWxNZVp1Z3p3YWZ6Z3Rkcm5sVVpUbVM5QU54VW5nYkY2b0c2TkN2bV9OUkM1d3llUjA1b2x5T2xSU3k1a0J4VzRkaTNraFBVQXg3R2EyQkpPRThocnVNcGxvc09GN3dCSEJzaXhlTFNiSHhXQnVIWFdpTjVzejVEaFpXMXFvNk9NZDdZNEg0Zms5MDludEg0WTJLMFU?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
-</article><div class="rejilla">
+</article>
 <article class="nota us" data-sec="us">
   <div class="meta"><span class="chip">Dominicanos en EE.UU.</span>
     <span class="hora" data-fecha="2026-10-29T16:56:58.261859+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPV2ZsV3hBeTZ2U1ZHWEFrbjg5R1JySVdDSzhCVFZ0NS1FQWpBVW5KYVVuU28xME9OaWZVNDFUV0UzWXJVbDRzSjlTSklENUQ4OUwwbV9sQ01jNERNeW5qMUtiYUhZWXMxNTl4dE5CN3I4WnlSZHFpZTFHTHpIS1hPeEViTXowa0VVRFkxNTcxYVhid1gzNVg5eUJsRmVPSmpCVHVrRzN3ZEpkXzRadDhZOWptTnVHZFJwS2NGVnF4dEgtWTE50gHKAUFVX3lxTE9Zamp6dENWNG9IOU4wN1RqLVlBSG9LdzdXRnczdS1sR3Z4QkxNNmV6R3FCUkZrMmcwR3J5WDhMeHhRWXpwX3A3T1NwVnlfMFI0MGY5Y3hyREcyZGhHeDdPd0Q2S01lc0R4aExJV2wwbHEtc3BtaVJsb05ybVpNSjgtUzItaEM1ME1oNVVWd29KX1NCNWVHYzZkdlJVUDJuVFZPLXd0Wm5YWTViVlJKWnlVbzEzTF9ES1NXZjNwUnpvR0xGa3BDNVdrcFE?oc=5" target="_blank" rel="noopener">Dominicanos en NYC buscan reelección en elecciones 3 de noviembre y otros aspiran por primera vez</a></h2>
   <p>Dominicanos que viven en Nueva York se postulan en los comicios del 3 de noviembre: algunos buscan reelegirse en sus cargos, mientras que otros lo harán por primera vez. El titular solo informa de esta situación y no incluye más detalles sobre los candidatos ni sobre los cargos en disputa.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPV2ZsV3hBeTZ2U1ZHWEFrbjg5R1JySVdDSzhCVFZ0NS1FQWpBVW5KYVVuU28xME9OaWZVNDFUV0UzWXJVbDRzSjlTSklENUQ4OUwwbV9sQ01jNERNeW5qMUtiYUhZWXMxNTl4dE5CN3I4WnlSZHFpZTFHTHpIS1hPeEViTXowa0VVRFkxNTcxYVhid1gzNVg5eUJsRmVPSmpCVHVrRzN3ZEpkXzRadDhZOWptTnVHZFJwS2NGVnF4dEgtWTE50gHKAUFVX3lxTE9Zamp6dENWNG9IOU4wN1RqLVlBSG9LdzdXRnczdS1sR3Z4QkxNNmV6R3FCUkZrMmcwR3J5WDhMeHhRWXpwX3A3T1NwVnlfMFI0MGY5Y3hyREcyZGhHeDdPd0Q2S01lc0R4aExJV2wwbHEtc3BtaVJsb05ybVpNSjgtUzItaEM1ME1oNVVWd29KX1NCNWVHYzZkdlJVUDJuVFZPLXd0Wm5YWTViVlJKWnlVbzEzTF9ES1NXZjNwUnpvR0xGa3BDNVdrcFE?oc=5" target="_blank" rel="noopener">Leer en El Nacional — La voz de todos <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -84,6 +148,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:57:03.037383+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNHJEaDAxcVJjeURwbkhXaEFiNl9PWFJ4cTR2akVaS3RLeEVjVnJkRmFUSHNpeTBGemVxU3Y0VjQ5Sks4VXQ4dHMyQW5aOXFCSy1kLXFYMjNtdGR3TDJNMll4RmVOTHR4YVAtbzJkX0VSQjN0bFNjMmpjQk1NZndLM0Vza0RxdEF0R1JQTklubU1xTUhaelpBWFZaaGJKT1dpeDQxM0stVVYydV9zQ1pLeFJxd0QxVm1kVldCbW1JcUc1MEZiUTc1TFQwcU1CVkROMEFlTExwV2dGVWx5cVdvS01tS2tFcmpqZTZXb3FINjjSAYsCQVVfeXFMTU02ZmQ4UXhJQ2NZZ2NsbGlZeTM5dmZIQVB1dkNja0REWDdxMWVyZG5DaDMzR192V3dQdjBkOFJ3bDMtVGV4Wmg2cUZEdC1ORlVuYlJqSTRpd2Y2Qk5paTgzbEhnVXRFV0oyRmI3Tmo0VkMtbk1aOE9GajUtTTQ2WDY2dDNQTDJsekJGdXl3ZGpjTEZmekh4bk8yRHhmSXJCX3ljZkdBTXhZamQ5V25YX1ozUG43SlMtUGNsZkdPVTZnQWJWT3AxelpuRk9oenpDYlBMdjF6bGVfODl5djB5QU9tV2Yyc1lrbWVPbnBfVl9oa3otejV2a2ZKUWVIV0drc1RDNzRITDVJbWk0?oc=5" target="_blank" rel="noopener">República Dominicana acogió la Conferencia de la Coalición de las Américas contra el crimen organizado</a></h2>
   <p>República Dominicana fue sede de la Conferencia de la Coalición de las Américas contra el crimen organizado. La noticia solo informa de la realización del encuentro, sin ofrecer más detalles.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNHJEaDAxcVJjeURwbkhXaEFiNl9PWFJ4cTR2akVaS3RLeEVjVnJkRmFUSHNpeTBGemVxU3Y0VjQ5Sks4VXQ4dHMyQW5aOXFCSy1kLXFYMjNtdGR3TDJNMll4RmVOTHR4YVAtbzJkX0VSQjN0bFNjMmpjQk1NZndLM0Vza0RxdEF0R1JQTklubU1xTUhaelpBWFZaaGJKT1dpeDQxM0stVVYydV9zQ1pLeFJxd0QxVm1kVldCbW1JcUc1MEZiUTc1TFQwcU1CVkROMEFlTExwV2dGVWx5cVdvS01tS2tFcmpqZTZXb3FINjjSAYsCQVVfeXFMTU02ZmQ4UXhJQ2NZZ2NsbGlZeTM5dmZIQVB1dkNja0REWDdxMWVyZG5DaDMzR192V3dQdjBkOFJ3bDMtVGV4Wmg2cUZEdC1ORlVuYlJqSTRpd2Y2Qk5paTgzbEhnVXRFV0oyRmI3Tmo0VkMtbk1aOE9GajUtTTQ2WDY2dDNQTDJsekJGdXl3ZGpjTEZmekh4bk8yRHhmSXJCX3ljZkdBTXhZamQ5V25YX1ozUG43SlMtUGNsZkdPVTZnQWJWT3AxelpuRk9oenpDYlBMdjF6bGVfODl5djB5QU9tV2Yyc1lrbWVPbnBfVl9oa3otejV2a2ZKUWVIV0drc1RDNzRITDVJbWk0?oc=5" target="_blank" rel="noopener">Leer en Infobae <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -91,6 +156,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:05.692092+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQX29OYmYtWGZwZ2pQbF9DR080cDBRdnVsNGR0di1pUFg3WUJQSWxhbzNucF9KOU10TEZ4bWVMb1M3U1ZsMGdDTmwyN01RZWlKdWxSQnFHeXpheDhHQ2E3MFBVX3JsZzZRMi11dDZxbUozNEdqMjdCaklsdi1TWGdiS3kxLUFkV1p1MUpoR3ZaTFRsWC1YRDJqYnVlREk?oc=5" target="_blank" rel="noopener">Guía Deportiva 29-10-2026</a></h2>
   <p>Listín Diario publicó su Guía Deportiva correspondiente al 29 de octubre de 2026. Según el título, la edición reúne información sobre eventos deportivos de ese día. No se incluyen más detalles en el texto disponible.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQX29OYmYtWGZwZ2pQbF9DR080cDBRdnVsNGR0di1pUFg3WUJQSWxhbzNucF9KOU10TEZ4bWVMb1M3U1ZsMGdDTmwyN01RZWlKdWxSQnFHeXpheDhHQ2E3MFBVX3JsZzZRMi11dDZxbUozNEdqMjdCaklsdi1TWGdiS3kxLUFkV1p1MUpoR3ZaTFRsWC1YRDJqYnVlREk?oc=5" target="_blank" rel="noopener">Leer en Listín Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -98,6 +164,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:09.687350+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3A3TnB3eWZiYzJDblZudnJpQmxCVENGQXNxMm5OYmxtUHZFNkROS3VaX01ZZGV4U1hjSlZRRGwteEVEemRJT3Y4bTdlVFhOZTd0bG5rcVdPOWp2cnBheGI2QXhBT0xvaTQ2dDFNRXNCNVBGNUlIRHpKVjk5d3dUZ2RmNlF2WmVwQUIwVFdHZ3JRZFNyZm01blhvOUNRRWVNcnltQkg4UVRoS2ZsTkktZm43ckZUbE5nN2RVY19Ma9IBxwFBVV95cUxQblhNN3FQTUQ5N3NsQjM4RkJuc3NMVVRhRG90SzNMZWlwbjRrQmxad3JqX2tRYlJmd2h0aEZSVWtiai03MkUxQno5UURGc25IZWNjazFpRzV0QWtraFp5SU14MEw3S3N0bHJEMDdqR1RWQV9QU0lVVmVVQTNiM2twRWdiWmVLaTBERXVvNURTU0dTeDEwUEZWWEtrcm1adXNXeUxUc3ZRQXBEdkliU05MT2xpcUFxUFJnbzcyQlNGT2NSSXlpQVFB?oc=5" target="_blank" rel="noopener">Avión procedente de El Salvador aterriza en República Dominicana</a></h2>
   <p>Un avión que venía desde El Salvador aterrizó en República Dominicana, según informa la noticia. El texto disponible es solo el título y una línea sin más detalles, por lo que no se conocen las causas del aterrizaje ni otros aspectos del suceso.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQb3A3TnB3eWZiYzJDblZudnJpQmxCVENGQXNxMm5OYmxtUHZFNkROS3VaX01ZZGV4U1hjSlZRRGwteEVEemRJT3Y4bTdlVFhOZTd0bG5rcVdPOWp2cnBheGI2QXhBT0xvaTQ2dDFNRXNCNVBGNUlIRHpKVjk5d3dUZ2RmNlF2WmVwQUIwVFdHZ3JRZFNyZm01blhvOUNRRWVNcnltQkg4UVRoS2ZsTkktZm43ckZUbE5nN2RVY19Ma9IBxwFBVV95cUxQblhNN3FQTUQ5N3NsQjM4RkJuc3NMVVRhRG90SzNMZWlwbjRrQmxad3JqX2tRYlJmd2h0aEZSVWtiai03MkUxQno5UURGc25IZWNjazFpRzV0QWtraFp5SU14MEw3S3N0bHJEMDdqR1RWQV9QU0lVVmVVQTNiM2twRWdiWmVLaTBERXVvNURTU0dTeDEwUEZWWEtrcm1adXNXeUxUc3ZRQXBEdkliU05MT2xpcUFxUFJnbzcyQlNGT2NSSXlpQVFB?oc=5" target="_blank" rel="noopener">Leer en Noticias SIN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -105,6 +172,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:11.127085+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOVi1Gc0pIWVFmNWoxWDJZSUYzOE56OWROWmhER2RlTnFCWHZBTlRQWVV3dzJSQmM2dWpoeXU5dzRBYUd3RTRXd2JzemhXS1gtOWZmZmtXVWhFRWNNUjlMVXVyS1A2M1B5V0xEZC1mQWpEQ1RHMERpU2xQb1hYVUJxWkFrTWtZU2VSbFlpMU5sVmlzZFNRUktCT1BITTZyY2gzMmNVQWZ6clB0U1dLc042YdIBuAFBVV95cUxQUVg1Zzk3VW1mSjN2ai1VSldaWnZlNTBKZlByTlNwTG5QdGxjd0h5QW91djFxdElWdXFaMzhXUnZDc19sT01LNVR6bXB3UktsZ1dLTlRwN1loOEhERTRrOTRKQmhSa2QycnByZGVDaEpTU0pjNXNtQ1RPNTJ2OUF5LWJLeHgwdUI3U3BNdGpJeDZ1Y2tuRWQ0Tm9tTWJ0RjJNbDliZTU5akVTNlFWT1pkOURkeTkxSEVu?oc=5" target="_blank" rel="noopener">Eusebio Suero conquista el premio de Jugador Más Valioso del 50 TBS Distrito 2026</a></h2>
   <p>Eusebio Suero fue distinguido como Jugador Más Valioso del 50 TBS Distrito 2026, según informa la nota. El texto disponible no incluye más detalles sobre el torneo ni sobre el reconocimiento.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOVi1Gc0pIWVFmNWoxWDJZSUYzOE56OWROWmhER2RlTnFCWHZBTlRQWVV3dzJSQmM2dWpoeXU5dzRBYUd3RTRXd2JzemhXS1gtOWZmZmtXVWhFRWNNUjlMVXVyS1A2M1B5V0xEZC1mQWpEQ1RHMERpU2xQb1hYVUJxWkFrTWtZU2VSbFlpMU5sVmlzZFNRUktCT1BITTZyY2gzMmNVQWZ6clB0U1dLc042YdIBuAFBVV95cUxQUVg1Zzk3VW1mSjN2ai1VSldaWnZlNTBKZlByTlNwTG5QdGxjd0h5QW91djFxdElWdXFaMzhXUnZDc19sT01LNVR6bXB3UktsZ1dLTlRwN1loOEhERTRrOTRKQmhSa2QycnByZGVDaEpTU0pjNXNtQ1RPNTJ2OUF5LWJLeHgwdUI3U3BNdGpJeDZ1Y2tuRWQ0Tm9tTWJ0RjJNbDliZTU5akVTNlFWT1pkOURkeTkxSEVu?oc=5" target="_blank" rel="noopener">Leer en Noticias SIN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -112,6 +180,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:12.321277+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yTmo1QUpmX09aY2Z4TXA1LXNUWUdlSGhCcmgwdkZPVUptWEQwemt2d3ZuMElaRC1oemZYYzBYb1owYU51MXgw0gFPQVVfeXFMTXYxZ3I2NTN2SHByYmJRUHVleHl4UzhPSnQzRVdhS2NDLTI3WnRaZGI1MTRMMzNIbF8ydUxZQzliRVlpeG1nZklyRXJ1dkxWcw?oc=5" target="_blank" rel="noopener">En Vivo - Noticias SIN</a></h2>
   <p>El título indica que se trata de una transmisión en vivo de noticias del canal o medio SIN, pero el texto no ofrece información sobre hechos concretos. No es posible saber qué temas se están cubriendo.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yTmo1QUpmX09aY2Z4TXA1LXNUWUdlSGhCcmgwdkZPVUptWEQwemt2d3ZuMElaRC1oemZYYzBYb1owYU51MXgw0gFPQVVfeXFMTXYxZ3I2NTN2SHByYmJRUHVleHl4UzhPSnQzRVdhS2NDLTI3WnRaZGI1MTRMMzNIbF8ydUxZQzliRVlpeG1nZklyRXJ1dkxWcw?oc=5" target="_blank" rel="noopener">Leer en Noticias SIN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -119,6 +188,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:13.587087+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVNtYUhhb3psdDAtUkRaMnVKa19qeDlScEpkakY3WldqTlVYMUFCTG5ETlRiU19HellyMGU1d01sdkp4YkxzNXI2WlpSWUo2M0dTX2h5dTl1d0VwWEtzeC1od2owd3Y3eDQ5Q1llMkNocUJFS0Y0T1Y3TkVRTHI4TEJidVhjTWhVZC1Ka2g5RGF6UzFSLU5kME9GZC13M1otVHBnMQ?oc=5" target="_blank" rel="noopener">Haití aplaza de nuevo las elecciones presidenciales y legislativas</a></h2>
   <p>Haití volvió a posponer sus elecciones presidenciales y legislativas. La noticia solo indica el nuevo aplazamiento, sin dar más detalles sobre fechas o motivos.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOdVNtYUhhb3psdDAtUkRaMnVKa19qeDlScEpkakY3WldqTlVYMUFCTG5ETlRiU19HellyMGU1d01sdkp4YkxzNXI2WlpSWUo2M0dTX2h5dTl1d0VwWEtzeC1od2owd3Y3eDQ5Q1llMkNocUJFS0Y0T1Y3TkVRTHI4TEJidVhjTWhVZC1Ka2g5RGF6UzFSLU5kME9GZC13M1otVHBnMQ?oc=5" target="_blank" rel="noopener">Leer en CDN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -126,6 +196,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:14.662492+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmMxS3pSQ25zZVM2VUtPZ2NfN3plZ3lBa092SVVmQWk3X0xaZ1ZoRzNGWE51SmQ3eW5SNlJmZmV0SWVSQ3dpNW5MMFQtV2V5WUNIQkNQRV9kYzJpV0R1NjdBbXV4WFNNMHJ0Mjg1YjJkNm4wZnRGRzRKY0xsbmlPcjl2a04zeXlFa19uU19TV2tKVUNfOXhOYUR4TU5WVU5DSnRQQU96QQ?oc=5" target="_blank" rel="noopener">Saldo de muertos sube 68 y 77 heridos tras choque de trenes en España</a></h2>
   <p>Un choque de trenes en España dejó 68 personas muertas y 77 heridas, según el balance de víctimas que aumentó en las últimas horas. La información disponible se limita al título y al texto breve de la noticia, por lo que no se detallan causas ni circunstancias del accidente.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmMxS3pSQ25zZVM2VUtPZ2NfN3plZ3lBa092SVVmQWk3X0xaZ1ZoRzNGWE51SmQ3eW5SNlJmZmV0SWVSQ3dpNW5MMFQtV2V5WUNIQkNQRV9kYzJpV0R1NjdBbXV4WFNNMHJ0Mjg1YjJkNm4wZnRGRzRKY0xsbmlPcjl2a04zeXlFa19uU19TV2tKVUNfOXhOYUR4TU5WVU5DSnRQQU96QQ?oc=5" target="_blank" rel="noopener">Leer en CDN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -133,6 +204,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:15.694604+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzNjNW1nbVp4U2dZak1jZFRqbmZpdWxVNXRCNmcxakVxTFBEOTR1cnVwLXFNdFFmUGIxTmZRMkxkUUVPOExGX2hwWUZKUVFZeUItRkJNM3JHUGV2UW96M0g5YUk3SG1tVjJlVHNEeWhiUm1TQ2tvcXhkZWxmSzhqdjYzTXI1bkJ3R1l2REVPVm9SSXFod0p5Ny1yeEpKOFZWR1lDbTRMcVBsb2tE?oc=5" target="_blank" rel="noopener">Muertos por choque de trenes en España ya son 69; viajaban 42 extranjeros</a></h2>
   <p>Un choque de trenes en España ha dejado 69 muertos, y entre los pasajeros había 42 extranjeros.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzNjNW1nbVp4U2dZak1jZFRqbmZpdWxVNXRCNmcxakVxTFBEOTR1cnVwLXFNdFFmUGIxTmZRMkxkUUVPOExGX2hwWUZKUVFZeUItRkJNM3JHUGV2UW96M0g5YUk3SG1tVjJlVHNEeWhiUm1TQ2tvcXhkZWxmSzhqdjYzTXI1bkJ3R1l2REVPVm9SSXFod0p5Ny1yeEpKOFZWR1lDbTRMcVBsb2tE?oc=5" target="_blank" rel="noopener">Leer en CDN <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -140,6 +212,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:19.655476+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdnVrLTFHZEw3UFN0MmxlRmpXdlAzNXFIa1VCMWRYOE9uVlBUMjhmQjJBbk9KV1lNWVFaUHhkcnFYOG5wR2I1c1dkUk9IelB2MXRRUHpfaGRZc3V0eEZLczlBQmVfRjB2UjFpdF9LSnBxTGpFV2J1UnpJaXVIOGJNXzJ6VUZ5WnlzT04zb3dyVGVWeGtOTGdLUWNfalRkYk1fVmFsTndTQmpMUUozMEpFYVRXSlRsUlQ0QjRIMkNaT01QbHRicmc4UDR2UTgzbXh6M1BnMjhNeWduMlZzYlJmZl9tMnBrdzI3QnlHazltM1RqSHVSdTFGcUlR?oc=5" target="_blank" rel="noopener">Sector Externo Ultramar David 2028 recorrerá diferentes ciudades de Estados Unidos para organizar y designar sus directivas</a></h2>
   <p>Según el título, el sector externo &quot;Ultramar David 2028&quot; visitará varias ciudades de Estados Unidos para organizarse y nombrar a sus directivos. El texto no ofrece más detalles sobre el alcance ni los plazos de esa gira.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdnVrLTFHZEw3UFN0MmxlRmpXdlAzNXFIa1VCMWRYOE9uVlBUMjhmQjJBbk9KV1lNWVFaUHhkcnFYOG5wR2I1c1dkUk9IelB2MXRRUHpfaGRZc3V0eEZLczlBQmVfRjB2UjFpdF9LSnBxTGpFV2J1UnpJaXVIOGJNXzJ6VUZ5WnlzT04zb3dyVGVWeGtOTGdLUWNfalRkYk1fVmFsTndTQmpMUUozMEpFYVRXSlRsUlQ0QjRIMkNaT01QbHRicmc4UDR2UTgzbXh6M1BnMjhNeWduMlZzYlJmZl9tMnBrdzI3QnlHazltM1RqSHVSdTFGcUlR?oc=5" target="_blank" rel="noopener">Leer en Últimas Noticias de la República Dominicana <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -147,6 +220,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:22.294719+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmhUZWtXYXlWc1NWODRGVGFUVVlqZGVCTGNxQWNST1N6ZnFSVmRyRmFsYTUxVlZmS0M2ekM3dDR2OUotOEw5SjJ3NDFtY2Joc0Z0RTZmS3RlWmN6cjFxMWVnQkgzRExtcEQwc0l0MkhsbzRDazhxdVRlMTkwQklMV0ZPaTkyVTljMDF2RTRGRHVWTTJQTFJDZEJWWjdlZmRQQm1jYmJNMTF4ZXRGUmZJcEhzajV0dzFqN3ZXdDVUM25XUdIBxwFBVV95cUxNTkYzTHFFbk94UVpxcXBlZVBERGkyU185cUVBOW1sN0pmMHJjUDYtS01Udk1YbVNJMmxhRFl3TXUtRTZKdDdnTVFEcjQ3OFlaV2pienQyT0hfRVBPMGluVEVjaDYxb205UTBhZGx4QTE5eXVaeU4xTzBaZ3lOa3ZUVFZxaUhrRDNQVFgzREltalRvZ3lfb3JoeGhqTFM5aW85TXpuZVp2SkZQMWNBRGlpLUU2RTA4MHhKRHZzU0FxQ2JTOWdsWjFz?oc=5" target="_blank" rel="noopener">Condenan a entre 4 y 12 años de prisión a policía que mató a portero dominicano en Nueva York</a></h2>
   <p>Un tribunal de Nueva York condenó a un policía a una pena de entre 4 y 12 años de prisión por la muerte de un portero de origen dominicano. El título no informa de otros detalles del caso.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmhUZWtXYXlWc1NWODRGVGFUVVlqZGVCTGNxQWNST1N6ZnFSVmRyRmFsYTUxVlZmS0M2ekM3dDR2OUotOEw5SjJ3NDFtY2Joc0Z0RTZmS3RlWmN6cjFxMWVnQkgzRExtcEQwc0l0MkhsbzRDazhxdVRlMTkwQklMV0ZPaTkyVTljMDF2RTRGRHVWTTJQTFJDZEJWWjdlZmRQQm1jYmJNMTF4ZXRGUmZJcEhzajV0dzFqN3ZXdDVUM25XUdIBxwFBVV95cUxNTkYzTHFFbk94UVpxcXBlZVBERGkyU185cUVBOW1sN0pmMHJjUDYtS01Udk1YbVNJMmxhRFl3TXUtRTZKdDdnTVFEcjQ3OFlaV2pienQyT0hfRVBPMGluVEVjaDYxb205UTBhZGx4QTE5eXVaeU4xTzBaZ3lOa3ZUVFZxaUhrRDNQVFgzREltalRvZ3lfb3JoeGhqTFM5aW85TXpuZVp2SkZQMWNBRGlpLUU2RTA4MHhKRHZzU0FxQ2JTOWdsWjFz?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -154,6 +228,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:23.577275+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWR5WnN6YlN4ZnpsdWxuTkZNbjdFbXN1Tk1KU0FPNExQZHlEWUVxN0pIeFo5ajI0WnVxaDF2ci0xb2xmS21uU1Uydm9fU01rVzRkRUx3dlQ4MjI3ZGt0VEJmdEZCWjFOcEtGaEp5NDNoTXl6Tzkyb2xZOEtXYm5LZQ?oc=5" target="_blank" rel="noopener">PENSILVANIA: FP reclama operativos móviles cedulación</a></h2>
   <p>Según el título, el partido FP (sin más contexto en la noticia) pide que se realicen operativos móviles para la cedulación en Pensilvania. El texto disponible no ofrece más detalles sobre el reclamo ni sobre sus motivos.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWR5WnN6YlN4ZnpsdWxuTkZNbjdFbXN1Tk1KU0FPNExQZHlEWUVxN0pIeFo5ajI0WnVxaDF2ci0xb2xmS21uU1Uydm9fU01rVzRkRUx3dlQ4MjI3ZGt0VEJmdEZCWjFOcEtGaEp5NDNoTXl6Tzkyb2xZOEtXYm5LZQ?oc=5" target="_blank" rel="noopener">Leer en AlMomento.net <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -161,6 +236,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:24.763604+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVOQjlCSlRZUHVTYk1OVlA5RWxvR0RKNnBIWlVWUi04LUhmQ3UxMXNGYm5Yc1pUczBwNVhqZE9TaDd0YzY3SXBTOFJLbWRBMFhHVThzT2JnMzlJWHFQS1k0NFU0X3JhVl9lYmpGb05zcEwyZ2k3TW9SczM0bmRyenFVOHA2SnBwVFdxRFRHdXhPbE1welF3UG1GNnplSTBQbkN4cTBCOUdLTTNDTlNqSmpMcTg?oc=5" target="_blank" rel="noopener">Resultados de las loterías del 28 de octubre de 2026 en República Dominicana</a></h2>
   <p>Se publicaron los resultados de las loterías de República Dominicana correspondientes al 28 de octubre de 2026. La información aparece en una nota de la Revista Mercado, aunque el texto disponible no incluye los números ganadores ni otros detalles.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHVOQjlCSlRZUHVTYk1OVlA5RWxvR0RKNnBIWlVWUi04LUhmQ3UxMXNGYm5Yc1pUczBwNVhqZE9TaDd0YzY3SXBTOFJLbWRBMFhHVThzT2JnMzlJWHFQS1k0NFU0X3JhVl9lYmpGb05zcEwyZ2k3TW9SczM0bmRyenFVOHA2SnBwVFdxRFRHdXhPbE1welF3UG1GNnplSTBQbkN4cTBCOUdLTTNDTlNqSmpMcTg?oc=5" target="_blank" rel="noopener">Leer en Revista Mercado <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -168,6 +244,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:26.143141+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxORlplcDdYdlJlRWctcGlWYU1zeFZvY1NldUZxcUJNY2F2VE5rREtkMG1aNmJpRWpydFlKMDJ2Y29lcktuYmx4bE14a0dIc2Q3RWx3OHFoOHB4dDFWdGxOR0dlOTRQVEJQZnp1SnAxVjFYTXFKaUo5al9Dc25id0JjampJUWJjejlSQWlUVg?oc=5" target="_blank" rel="noopener">ORLANDO: Cámara Comercio Dominicana celebra primer aniversario</a></h2>
   <p>La Cámara de Comercio Dominicana de Orlando conmemora su primer año de funcionamiento. La información disponible se limita al título y a la fuente, por lo que no se especifican actividades ni detalles del evento.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxORlplcDdYdlJlRWctcGlWYU1zeFZvY1NldUZxcUJNY2F2VE5rREtkMG1aNmJpRWpydFlKMDJ2Y29lcktuYmx4bE14a0dIc2Q3RWx3OHFoOHB4dDFWdGxOR0dlOTRQVEJQZnp1SnAxVjFYTXFKaUo5al9Dc25id0JjampJUWJjejlSQWlUVg?oc=5" target="_blank" rel="noopener">Leer en AlMomento.net <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -175,6 +252,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:29.523382+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1NQSnpRLXJEcTVUUlc4am5qV1dDZDZvRjItMmZQM0kzUndBZU1PYW1xYmhlNE9LRzI4ekduU2p3WUZxSlQzb1BjMkM1VWY4Z0dvR3kzWUZCdXlCbTRUajBONmVnN3NTNzlseHNmcmJHbDExRTZyZ2doZjJCY2hkaTNabk0yaHJkZS1KT011eG1aZmdHS1Q3cTEwaENGdXdLeHpaZy1XUVV2VWs4Vm9NZnprOTMwRWVxMlN6aVJ5blpvazBkQjln0gHMAUFVX3lxTFA1aU11Q283RXFOT0dMUG9yVEZZRkJoekkwU00zaG1URG1wSF9pZHk5OVhtQjYyTjNoNGFDWnJReG1pWHFJVUR3blRBQWtYQTdYaWhseG1uOEhBQkxqNFRESXpUYVB0aVk2cUZiM2dfazlXZ0NCMkhsZElxMW1pUmloZEpZYUhMOTVqajRjbUFsdkk3aEFPWGV2dFRZQkZiT0FMS1hWWmFrTUhzTzBRcHBieFpsbVd2WVJYWHVwbExxSkl4VzZjMjUwajQwXw?oc=5" target="_blank" rel="noopener">ICE arresta en Massachusetts a dominicano deportado tres veces de EE. UU.</a></h2>
   <p>Según el título, agentes de ICE arrestaron en Massachusetts a un ciudadano dominicano que ya había sido deportado de Estados Unidos en tres ocasiones. La información proviene del medio Diario Libre, pero no se dan más detalles en el texto disponible.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1NQSnpRLXJEcTVUUlc4am5qV1dDZDZvRjItMmZQM0kzUndBZU1PYW1xYmhlNE9LRzI4ekduU2p3WUZxSlQzb1BjMkM1VWY4Z0dvR3kzWUZCdXlCbTRUajBONmVnN3NTNzlseHNmcmJHbDExRTZyZ2doZjJCY2hkaTNabk0yaHJkZS1KT011eG1aZmdHS1Q3cTEwaENGdXdLeHpaZy1XUVV2VWs4Vm9NZnprOTMwRWVxMlN6aVJ5blpvazBkQjln0gHMAUFVX3lxTFA1aU11Q283RXFOT0dMUG9yVEZZRkJoekkwU00zaG1URG1wSF9pZHk5OVhtQjYyTjNoNGFDWnJReG1pWHFJVUR3blRBQWtYQTdYaWhseG1uOEhBQkxqNFRESXpUYVB0aVk2cUZiM2dfazlXZ0NCMkhsZElxMW1pUmloZEpZYUhMOTVqajRjbUFsdkk3aEFPWGV2dFRZQkZiT0FMS1hWWmFrTUhzTzBRcHBieFpsbVd2WVJYWHVwbExxSkl4VzZjMjUwajQwXw?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -182,6 +260,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:30.679957+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmJTUi1Hd0E4QS1zM3ZITHA4WlNRa09fNHMtRUw2aDdfQUdEZGg1VUNwWTdjb3JDNWNuajBYYkI5V0F0Wl9TZGhmU3JQSWctb2ZoSjFjZGg5cmgzcmVMR1JUZVVmM3p6clUxa0tPNUd3blczb2cxSWF5a0x2c2xyeHo5b2VFNGZMeS1LTU5QQ3hiNkl0bUxDWVBSQQ?oc=5" target="_blank" rel="noopener">Pensilvania reporta 1,398 casos de sarampión en 44 condados</a></h2>
   <p>Pensilvania ha registrado 1,398 casos de sarampión distribuidos en 44 de sus condados. La cifra, según indica el título, corresponde al estado en su conjunto.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmJTUi1Hd0E4QS1zM3ZITHA4WlNRa09fNHMtRUw2aDdfQUdEZGg1VUNwWTdjb3JDNWNuajBYYkI5V0F0Wl9TZGhmU3JQSWctb2ZoSjFjZGg5cmgzcmVMR1JUZVVmM3p6clUxa0tPNUd3blczb2cxSWF5a0x2c2xyeHo5b2VFNGZMeS1LTU5QQ3hiNkl0bUxDWVBSQQ?oc=5" target="_blank" rel="noopener">Leer en Impacto Media <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota us" data-sec="us">
@@ -189,6 +268,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:52:32.175314+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlua1hIRU44OWM2cGdmTmtDZzNlNWZ3M1pJeDNCam05dnZ1eUFmc25jNXdfT2VkSlM5dlc2cFVMbF9sY21jZGY0QTFMbzJKd3JBeHdNMFVGaW1SUVNlR1FVT3Ewc0dYaUpoMXZKOHpKNHo0SDZCcDN0eU1DbGtBRFVqdkliMVJEc1N1SVhaTnF2dWxRVmlLUkt5VlEzNzNnVV9pcnRRMXJXb01sUE5iYVRB?oc=5" target="_blank" rel="noopener">Fuerza del Pueblo en Rhode Island realiza jornada de crecimiento y afiliación</a></h2>
   <p>El partido Fuerza del Pueblo organizó en Rhode Island una jornada enfocada en ampliar su base de miembros y en la afiliación de nuevos simpatizantes. La información disponible solo se basa en el título y no incluye detalles sobre fechas, asistentes o resultados.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWlua1hIRU44OWM2cGdmTmtDZzNlNWZ3M1pJeDNCam05dnZ1eUFmc25jNXdfT2VkSlM5dlc2cFVMbF9sY21jZGY0QTFMbzJKd3JBeHdNMFVGaW1SUVNlR1FVT3Ewc0dYaUpoMXZKOHpKNHo0SDZCcDN0eU1DbGtBRFVqdkliMVJEc1N1SVhaTnF2dWxRVmlLUkt5VlEzNzNnVV9pcnRRMXJXb01sUE5iYVRB?oc=5" target="_blank" rel="noopener">Leer en proceso.com.do <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -196,6 +276,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:35.406686+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUtESGlEQlhyTUpZSldPN2swYmFEdi1nck0tT1RVc3dqd0lMRVdENjQxc3kyWHhmWFVLaW52ZGJNdElpYk1SdzZiQjZJQ2IybzRfa3d6SXpSUHU5aHR5RmJiQ2tUMzdjTmhSV1BXUTByWUlwSk1GUXhhX2NDZlFlVjRpVkFTaVlsRGRFdjVYcWJqQzdEOXlWbkxkd2ZqLXFmTm1BWUZXWF9ncXIxX2F2X1o5bW1MQUI1ZzJ3RlNR0gHDAUFVX3lxTE5jQkVVOGpSLVZRWGhwb2ZuZVNldTg2X3ZNc0NzRktOdkVrMGpIZlJnMkJyXy12TmZ4REVJRzlpLVB6enpQNXdyZ0prcEhQZ1AxSmZmdFRnUUdJODNDNUk2OFk1MGtqN29vRDVHV3pha2JRT3VvZXk5NEdpVlFCUVA1NHNtQWNadGl0TGpxRmVqZHl3aFVWZG9JYWFtbGxTSEtQT1dfckVXOWotM0JWd3JZLVhnZEs0MzJ6c2g0dWx2UHFncw?oc=5" target="_blank" rel="noopener">Vaguada deja 534 viviendas afectadas, 2670 desplazados y 28 comunidades aisladas</a></h2>
   <p>Una vaguada ha provocado daños en 534 viviendas, obligado a desplazarse a 2670 personas y dejado incomunicadas 28 comunidades. La información proviene solo del titular, por lo que no se conocen la ubicación exacta ni las causas o detalles adicionales del suceso.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOMUtESGlEQlhyTUpZSldPN2swYmFEdi1nck0tT1RVc3dqd0lMRVdENjQxc3kyWHhmWFVLaW52ZGJNdElpYk1SdzZiQjZJQ2IybzRfa3d6SXpSUHU5aHR5RmJiQ2tUMzdjTmhSV1BXUTByWUlwSk1GUXhhX2NDZlFlVjRpVkFTaVlsRGRFdjVYcWJqQzdEOXlWbkxkd2ZqLXFmTm1BWUZXWF9ncXIxX2F2X1o5bW1MQUI1ZzJ3RlNR0gHDAUFVX3lxTE5jQkVVOGpSLVZRWGhwb2ZuZVNldTg2X3ZNc0NzRktOdkVrMGpIZlJnMkJyXy12TmZ4REVJRzlpLVB6enpQNXdyZ0prcEhQZ1AxSmZmdFRnUUdJODNDNUk2OFk1MGtqN29vRDVHV3pha2JRT3VvZXk5NEdpVlFCUVA1NHNtQWNadGl0TGpxRmVqZHl3aFVWZG9JYWFtbGxTSEtQT1dfckVXOWotM0JWd3JZLVhnZEs0MzJ6c2g0dWx2UHFncw?oc=5" target="_blank" rel="noopener">Leer en Listín Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -203,6 +284,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:36.208701+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1ZaR1JiMl9MeEw1R1dSSF9JU2lFck52T0VuNHZ0Ujh3Q3N3c2NJOGlHZ2JMeUFYZE8tTTBTdjNBalJuZVFIMHRrbUJ2amZELTRwUzdTdmpBQnVLcXFndVcxbmZ1UnYwaHNEaHQxaXRsOXZqMUJSQWhyT1lhMkQ5RVdQY2E3Vnc3bnhsNVk4bmF3eTBHcTctcVdaSkJCTWU1bW5zcnlwZ3hZU3Vram1TN1VHRlVEaHEtNnM1MmRuZ2NDbjBlRjF0NHVVaTg4UdIB0wFBVV95cUxNbzYxRm1JakVmSm1LY3RlMloxRngtMlBNeEtvYWhzaUxOS2xvWEU2d3p0TXpheFdTQnpqVk44S3VMWEdYYjY1RjdiREJMWEkyWWQ4bjUybl9iOGZYQUM1RF83RmlwcGFBZkZIYklyVGpEZ1NoaHNJZ0s4TG01Z01US2NWM3NkSFBFSG0wM0xBODhGdmpILTJUR3QzMVpyTlB2TkM1MDhFRHZ3TEwtdnBTMk9rQ0ZJd2lHalVsajNqWURaWmxwRTdKVl83V2pYYmtObHZR?oc=5" target="_blank" rel="noopener">Muere el juez Alvin Hellerstein, quien presidía el caso contra Nicolás Maduro</a></h2>
   <p>El juez Alvin Hellerstein falleció; él era quien presidía el proceso judicial contra Nicolás Maduro. La noticia se limita a informar sobre su muerte, sin más detalles disponibles en el texto.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1ZaR1JiMl9MeEw1R1dSSF9JU2lFck52T0VuNHZ0Ujh3Q3N3c2NJOGlHZ2JMeUFYZE8tTTBTdjNBalJuZVFIMHRrbUJ2amZELTRwUzdTdmpBQnVLcXFndVcxbmZ1UnYwaHNEaHQxaXRsOXZqMUJSQWhyT1lhMkQ5RVdQY2E3Vnc3bnhsNVk4bmF3eTBHcTctcVdaSkJCTWU1bW5zcnlwZ3hZU3Vram1TN1VHRlVEaHEtNnM1MmRuZ2NDbjBlRjF0NHVVaTg4UdIB0wFBVV95cUxNbzYxRm1JakVmSm1LY3RlMloxRngtMlBNeEtvYWhzaUxOS2xvWEU2d3p0TXpheFdTQnpqVk44S3VMWEdYYjY1RjdiREJMWEkyWWQ4bjUybl9iOGZYQUM1RF83RmlwcGFBZkZIYklyVGpEZ1NoaHNJZ0s4TG01Z01US2NWM3NkSFBFSG0wM0xBODhGdmpILTJUR3QzMVpyTlB2TkM1MDhFRHZ3TEwtdnBTMk9rQ0ZJd2lHalVsajNqWURaWmxwRTdKVl83V2pYYmtObHZR?oc=5" target="_blank" rel="noopener">Leer en Listín Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -210,6 +292,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:37.186422+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlh6eV8zWE51ZTNsUVd2blNDVllPbFM0eHRkVXE2Vlh4aGctZ0RzaVVQbGh2dk8yTEszWFQ1Q1ZlTHFkeHBxYkhkVU5SVURlNWZwaTFFZmsyTURLRTFJcGRXU2dPcUFaTzdETXFvWnlyczBuQXNEcnJpaGlPQWdDbjNac1J0X2pHM0tybkpSbTd2bHBlQjYwdTVDbHRSTzdrcko3Ti10ZHBxQkY4ZGtCUlhZOXZvZkZpdGlIQ9IBwgFBVV95cUxPOGZCdlE1N3ZvTUw5cGw5NHRhVHdFdkFZTkY1VXB4ZENGbUpfamg2MDN5RnRoTmFJZ2N5QU44b0JDTnIzVGpWNk1MWjJkTVVTdVkyQTQzUlZCdTA4QllXWUJseHY1Ul83REVRT05yMkFhR2IwWmRlbXpOUkZJRXJYVmlVcndPTGdTWV9KVXNmcWpWdGRsQXh1bFMyQmxPeUlXb3NMQzdJbzBLMm53VS12UkZuOFRNTWs3VUsyR1lPd1Fadw?oc=5" target="_blank" rel="noopener">Interrupción eléctrica en el Robert Reid afectó facturación, consultas y toma de muestra</a></h2>
   <p>Un corte de energía en el hospital Robert Reid alteró los servicios de facturación, consultas y toma de muestras. La información disponible se limita al título, por lo que no se detallan causas, duración ni medidas adoptadas.</p>
+  <a class="extra" href="https://kiloclarord.com" target="_blank" rel="noopener">Calcula tu factura de luz en kiloclarord.com →</a>
   <a class="fuente" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlh6eV8zWE51ZTNsUVd2blNDVllPbFM0eHRkVXE2Vlh4aGctZ0RzaVVQbGh2dk8yTEszWFQ1Q1ZlTHFkeHBxYkhkVU5SVURlNWZwaTFFZmsyTURLRTFJcGRXU2dPcUFaTzdETXFvWnlyczBuQXNEcnJpaGlPQWdDbjNac1J0X2pHM0tybkpSbTd2bHBlQjYwdTVDbHRSTzdrcko3Ti10ZHBxQkY4ZGtCUlhZOXZvZkZpdGlIQ9IBwgFBVV95cUxPOGZCdlE1N3ZvTUw5cGw5NHRhVHdFdkFZTkY1VXB4ZENGbUpfamg2MDN5RnRoTmFJZ2N5QU44b0JDTnIzVGpWNk1MWjJkTVVTdVkyQTQzUlZCdTA4QllXWUJseHY1Ul83REVRT05yMkFhR2IwWmRlbXpOUkZJRXJYVmlVcndPTGdTWV9KVXNmcWpWdGRsQXh1bFMyQmxPeUlXb3NMQzdJbzBLMm53VS12UkZuOFRNTWs3VUsyR1lPd1Fadw?oc=5" target="_blank" rel="noopener">Leer en Listín Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -217,6 +300,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:39.106879+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZjRwUjJjbjlaSW5Pd2d1djZoeEs1Vno1ZVdvZXdSb2FXMlJ2Mi01cmNjYjA0WEhZMzl5OXpOSFAxeFdkWGJMc3cwX25rcTZ0WDY2cUZKX2JFQUxqVUM3ZDNmaDQ5Z2pQb182YURua1dhbkZ1RVc1SUFBU1hSb216TVFQeGgxSWd5MlllbncyUWVJNnhiOEw4aktLVmliSzA4OFBOYm10R0duWFI3SUlid0NoRlNZSndjRHJ0NE8zQjM5Z9IBxwFBVV95cUxObnRMWi13cUlIbHRBTFdLNi1aYjVPTzgzU1loRVhyRkR0VGtJRTVfOUFKMlRrWWR5Zjhsdi1oaXFiUVJnakY3MGliTDNTQ2pNbVZ3aGV2V2pDUTA5YVY1V3lBeWxzYmFhUVJ6dk91aDgwdEJxV1FBYjdDRHZZdjlCZF9xVTF2bm85X2pvTnQwSFVVM2tDQi04RlBqSXgyekdjWXNMaWgyb3M1RmdIdUpNXzRJQVB2Q1IzeVNNd292WTN6MFg3ZjVv?oc=5" target="_blank" rel="noopener">Corte de Apelación condena a tres años de prisión suspendida a Wander Franco</a></h2>
   <p>Un tribunal de apelación impuso a Wander Franco una condena de tres años de prisión, con suspensión de la pena. La noticia se limita a informar de esta decisión judicial, sin aportar más detalles sobre el caso.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZjRwUjJjbjlaSW5Pd2d1djZoeEs1Vno1ZVdvZXdSb2FXMlJ2Mi01cmNjYjA0WEhZMzl5OXpOSFAxeFdkWGJMc3cwX25rcTZ0WDY2cUZKX2JFQUxqVUM3ZDNmaDQ5Z2pQb182YURua1dhbkZ1RVc1SUFBU1hSb216TVFQeGgxSWd5MlllbncyUWVJNnhiOEw4aktLVmliSzA4OFBOYm10R0duWFI3SUlid0NoRlNZSndjRHJ0NE8zQjM5Z9IBxwFBVV95cUxObnRMWi13cUlIbHRBTFdLNi1aYjVPTzgzU1loRVhyRkR0VGtJRTVfOUFKMlRrWWR5Zjhsdi1oaXFiUVJnakY3MGliTDNTQ2pNbVZ3aGV2V2pDUTA5YVY1V3lBeWxzYmFhUVJ6dk91aDgwdEJxV1FBYjdDRHZZdjlCZF9xVTF2bm85X2pvTnQwSFVVM2tDQi04RlBqSXgyekdjWXNMaWgyb3M1RmdIdUpNXzRJQVB2Q1IzeVNNd292WTN6MFg3ZjVv?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -224,6 +308,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:40.013338+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVJMdGVIazExVC1wc3lYMjhCMHNUT2o3WUJBU2dFWEVkVkdieUhrZjBpdFpSem5rckdBY2JmUVFvZHBPaC12WDBmQ2ZZUW5neGZHcHhQem9BMTh2NWQxUXFKNFRJSEtkTlZLaG43M0xWM1ZQVlN1WnRGX2pob0N3aUdNajdGVF83VXlnVDJ3ejk3M0toM0hOaDUwc3BOS1YtWEd0WWdVd055QjhvLUt2eE5yeWFLaWfSAbwBQVVfeXFMT3ZUcExSR3dqdkkwNlBVVEp1dWdlSGhyekFfMm0xTXFXalFYTDVOMHpHVUFoVjlSYXBacDNydlYwZFdRMXBNa09xSFNmUWs2UGhjNTJ6VU4tSkhUNUR2dVVnbG5Zc1otREdVM0lFaU9GQVdwbnJ0SDB1bG4xb2FZeENzbDhMb0FrOU9zQ3NpV0NtY2d4Q0tZMmZfOGhjNE83clY4elR4UFE2ZWpOUEJ2Sk02dHBCMjJ1SVBHWkw?oc=5" target="_blank" rel="noopener">El Salvador despliega más de 2,000 militares en Haití</a></h2>
   <p>El Salvador enviará a Haití un contingente de más de 2.000 militares, según informa el título de la noticia. No se incluyen más detalles sobre la misión ni su alcance.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVJMdGVIazExVC1wc3lYMjhCMHNUT2o3WUJBU2dFWEVkVkdieUhrZjBpdFpSem5rckdBY2JmUVFvZHBPaC12WDBmQ2ZZUW5neGZHcHhQem9BMTh2NWQxUXFKNFRJSEtkTlZLaG43M0xWM1ZQVlN1WnRGX2pob0N3aUdNajdGVF83VXlnVDJ3ejk3M0toM0hOaDUwc3BOS1YtWEd0WWdVd055QjhvLUt2eE5yeWFLaWfSAbwBQVVfeXFMT3ZUcExSR3dqdkkwNlBVVEp1dWdlSGhyekFfMm0xTXFXalFYTDVOMHpHVUFoVjlSYXBacDNydlYwZFdRMXBNa09xSFNmUWs2UGhjNTJ6VU4tSkhUNUR2dVVnbG5Zc1otREdVM0lFaU9GQVdwbnJ0SDB1bG4xb2FZeENzbDhMb0FrOU9zQ3NpV0NtY2d4Q0tZMmZfOGhjNE83clY4elR4UFE2ZWpOUEJ2Sk02dHBCMjJ1SVBHWkw?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -231,6 +316,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:41.860048+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVR3aG9mVTFsdGJWenM0ZE5TakJfZmZYY3pxa2pURHpMYndiZTdtNGJnMWFPdy1RTEh1cThCUmFzRW4zaDJMRzI2eDlnd2JLbnhOSTcyRlUzR2pjRk4yMDUxekllVTgyTUk2LUpuUFBEN3kwal9oWF9pZXkxYXhzWGh4WkVrQmZSZkE4WHRkUVhBclZXT1pHRmhPWUxzZVBibGpCaXNTS2Z6SC1fWW9GMV9LM1ZJM3PSAbwBQVVfeXFMTjlSU3k4bUpwd3pBeVdHSHEtTDRuU2lMNmRlNTAtSGNiangyNG95S0RuUTEtS2Voemk1WUNJek9vNFhPSlFJZmVlVE50SzVOM3BRRWNWMTRRZWlOS1J5VmxhQ1BiajIyR3p5X2xhNFhrSXlBOGV1U092cm1pbkFPRkhfSU9xNWV3dC10MTFVcTlRYVJ1Zml6Z3J4X3FsX2x3R0ViZWR1TzBVeFhqMDRlY1ZIdV9mLVBtQ29iVDE?oc=5" target="_blank" rel="noopener">Rosalba Ramos afirma que, como abogada, entiende que no hay dolo eventual en el caso Jet Set</a></h2>
   <p>Rosalba Ramos sostiene, desde su perspectiva como abogada, que en el caso Jet Set no se configura el dolo eventual. La información disponible se limita al título y a una línea del texto, por lo que no se detallan los fundamentos de su postura.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQaVR3aG9mVTFsdGJWenM0ZE5TakJfZmZYY3pxa2pURHpMYndiZTdtNGJnMWFPdy1RTEh1cThCUmFzRW4zaDJMRzI2eDlnd2JLbnhOSTcyRlUzR2pjRk4yMDUxekllVTgyTUk2LUpuUFBEN3kwal9oWF9pZXkxYXhzWGh4WkVrQmZSZkE4WHRkUVhBclZXT1pHRmhPWUxzZVBibGpCaXNTS2Z6SC1fWW9GMV9LM1ZJM3PSAbwBQVVfeXFMTjlSU3k4bUpwd3pBeVdHSHEtTDRuU2lMNmRlNTAtSGNiangyNG95S0RuUTEtS2Voemk1WUNJek9vNFhPSlFJZmVlVE50SzVOM3BRRWNWMTRRZWlOS1J5VmxhQ1BiajIyR3p5X2xhNFhrSXlBOGV1U092cm1pbkFPRkhfSU9xNWV3dC10MTFVcTlRYVJ1Zml6Z3J4X3FsX2x3R0ViZWR1TzBVeFhqMDRlY1ZIdV9mLVBtQ29iVDE?oc=5" target="_blank" rel="noopener">Leer en Diario Libre <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -238,6 +324,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:43.426630+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhnMjQwdDBNMkNWV0l5YkpHV04zem11WVhRc09GcjdVUW9INFg3Zno1SDd3UExvUzNLblZZbzhrbWUzNnJHbjhIWFBZUHRHZVlsRFNwV05WdGFhVzFoV0YxWFV0WnFMenF5c3BiRWFpSGNiVE9USHZvYnBMaGttUWlSOWg4ak5SWTFQNFVTcEJLS2VYaEFIa2k2akVjRWloN3FqcUQ2cUxRVzg0ZnprdjJrbU1kcy1hUEE?oc=5" target="_blank" rel="noopener">Petróleo de Texas sube casi un 3 % y supera los 102 dólares por tensiones en Oriente Medio</a></h2>
   <p>El precio del petróleo de Texas subió casi un 3 % y superó los 102 dólares, en un contexto de tensiones en Oriente Medio. La información disponible se limita al titular, por lo que no se detallan causas ni consecuencias adicionales.</p>
+  <a class="extra" href="https://divisasrd.com" target="_blank" rel="noopener">Tasa del dólar hoy en divisasrd.com →</a>
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhnMjQwdDBNMkNWV0l5YkpHV04zem11WVhRc09GcjdVUW9INFg3Zno1SDd3UExvUzNLblZZbzhrbWUzNnJHbjhIWFBZUHRHZVlsRFNwV05WdGFhVzFoV0YxWFV0WnFMenF5c3BiRWFpSGNiVE9USHZvYnBMaGttUWlSOWg4ak5SWTFQNFVTcEJLS2VYaEFIa2k2akVjRWloN3FqcUQ2cUxRVzg0ZnprdjJrbU1kcy1hUEE?oc=5" target="_blank" rel="noopener">Leer en El Nuevo Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -245,6 +332,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:44.415075+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2k4VTFkNmNpck9HZTlTdGJfZDBzU01fdFRuMU4tQkw5MzF1SW9hSEplekE2aDVjek5IMzQ2VWxQU2FQQzd3a2NfaUNraWZYN3JILXpHNFVDTGYzV3FLcl9zUUFWNkRJa014aENSQ2FxR2NiTXJmbDIxdzRTZmVhazA5c1RjcFpsaDlVRDN3WUFXOVlmYVlkQjdnTGoxanN0cDJjNTlhblZGNFVXQTFuUVA0S2ZmUExDTy1UY1hn?oc=5" target="_blank" rel="noopener">Inefi reconoce labor de docentes con &quot;Medalla al Mérito Magisterial en Educación Física 2026&quot;</a></h2>
   <p>El Instituto Nacional de Educación Física (Inefi) otorgó la &quot;Medalla al Mérito Magisterial en Educación Física 2026&quot; para destacar el trabajo de docentes del área. La noticia solo informa sobre este reconocimiento, sin más detalles disponibles.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2k4VTFkNmNpck9HZTlTdGJfZDBzU01fdFRuMU4tQkw5MzF1SW9hSEplekE2aDVjek5IMzQ2VWxQU2FQQzd3a2NfaUNraWZYN3JILXpHNFVDTGYzV3FLcl9zUUFWNkRJa014aENSQ2FxR2NiTXJmbDIxdzRTZmVhazA5c1RjcFpsaDlVRDN3WUFXOVlmYVlkQjdnTGoxanN0cDJjNTlhblZGNFVXQTFuUVA0S2ZmUExDTy1UY1hn?oc=5" target="_blank" rel="noopener">Leer en El Nuevo Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -252,6 +340,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:45.277360+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE5obldCb1pLeHAtaWZzcm9hRldqZll5ZlpYaHJtZVBudmdkdXBGb3l5bVU0bG1VY2w1VGk0RFZOZ3RReWM1Mm1qb3RmZ3EyMnpI?oc=5" target="_blank" rel="noopener">Mel Rojas Jr. conecta jonrón y el Licey blanquea a las Estrellas</a></h2>
   <p>Mel Rojas Jr. dio un jonrón y el Licey logró una victoria sin carreras sobre las Estrellas. El texto disponible es solo el título, así que no se incluyen más detalles del partido.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE5obldCb1pLeHAtaWZzcm9hRldqZll5ZlpYaHJtZVBudmdkdXBGb3l5bVU0bG1VY2w1VGk0RFZOZ3RReWM1Mm1qb3RmZ3EyMnpI?oc=5" target="_blank" rel="noopener">Leer en El Nuevo Diario <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -259,6 +348,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:46.789456+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDEza1FlTVluTjVNWmVfeVU5OUlmb2hRUWFQRTVyVDdGTmFKSk11X01ta0ZQdW1NNEZDNENPcW5jaWQyX1d0dHdVTldhMUxScm96SEtsTmtud2F5S2s0QUxvb2plQXpFX3pWeWczd2NxZlpUTmtldEhTSC10QXBwMEhVSUJzbUkta0ZWSmotVm13VklKQWg2TDlvNlAweWs5ZVk0bmNCNDRzUC1OM0Y4R1Q2QVRncW1kaXfSAb8BQVVfeXFMUEwzMk01OUNGX0JsTFdtM0k4V1hQb0tQTzdVYWJWRFI2WjRncGRTWHo1TWNTOG5PNlFDN1dYbHZUNHQxZjBFMFlGN1BDaTUyRGJmM2NOM084anVDWWNCTTdzbkp1aDJGckhNNm5TOFZJWG0zWlV1RmZ6WlN0a0ZGbUZMMGVObEplbzRNelNwQXlNR05hRUdiVld0TjFyX1pjZFcxTXNyMU43TGRySmc5V1VoMTFXU0gtUWFqWUYyUlE?oc=5" target="_blank" rel="noopener">Para proteger la frontera, miembros de reservas ERD, Armada y Policía, están dispuestos a servir</a></h2>
   <p>Miembros de las reservas del Ejército, la Armada y la Policía de la República Dominicana (ERD) han manifestado disposición a prestar servicio para reforzar la protección de la frontera. La información disponible se limita al título y a un texto breve, por lo que no se especifican detalles sobre la forma ni el alcance de dicho apoyo.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPZDEza1FlTVluTjVNWmVfeVU5OUlmb2hRUWFQRTVyVDdGTmFKSk11X01ta0ZQdW1NNEZDNENPcW5jaWQyX1d0dHdVTldhMUxScm96SEtsTmtud2F5S2s0QUxvb2plQXpFX3pWeWczd2NxZlpUTmtldEhTSC10QXBwMEhVSUJzbUkta0ZWSmotVm13VklKQWg2TDlvNlAweWs5ZVk0bmNCNDRzUC1OM0Y4R1Q2QVRncW1kaXfSAb8BQVVfeXFMUEwzMk01OUNGX0JsTFdtM0k4V1hQb0tQTzdVYWJWRFI2WjRncGRTWHo1TWNTOG5PNlFDN1dYbHZUNHQxZjBFMFlGN1BDaTUyRGJmM2NOM084anVDWWNCTTdzbkp1aDJGckhNNm5TOFZJWG0zWlV1RmZ6WlN0a0ZGbUZMMGVObEplbzRNelNwQXlNR05hRUdiVld0TjFyX1pjZFcxTXNyMU43TGRySmc5V1VoMTFXU0gtUWFqWUYyUlE?oc=5" target="_blank" rel="noopener">Leer en Hoy Digital <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -266,6 +356,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:48.062788+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ROdTMxcXh4bWwwanMtUk95VENpaC12T1haZkdhb3REV0NCalZ0eFpjcUQzYmNYOW1iVWw3M2hlaTVHd1F0NU1OUmd3a3VwUjJmSE9tSTM0R3d6c09iZUxJTGNUN3kyRlZ0bm5RdmZZNVhSVF82aDc2REx5T25fRFdtRXpmZ2VlNmJEU3dOSFQzTkdEUFhPV9IBngFBVV95cUxQMEhPcnoyQWlrR0x1MGd4OUI3ZHRoR0tJaVkzVndoanVORWlobDJUV2g2SEVaTTRaNm9CTnlFNm5SZjU4T0dmSmRockotM1haNUJYYUNTQVFKNEZ2NVY4MC1LWVNldFNVQ0IydEF6VmQ4NnhqMXlpQ2RJRHBIZjdHYThKZXlnVm1YRVlmWk1zcU1SLUhEeXZydS1wRHJNQQ?oc=5" target="_blank" rel="noopener">Choque de trenes en España: ¿qué falló para que ocurriera la tragedia?</a></h2>
   <p>Un choque de trenes en España dejó víctimas y plantea la pregunta de qué fallos provocaron el accidente. El título indica que el asunto se centra en identificar las causas de la tragedia, aunque no aporta más detalles sobre lo ocurrido.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0ROdTMxcXh4bWwwanMtUk95VENpaC12T1haZkdhb3REV0NCalZ0eFpjcUQzYmNYOW1iVWw3M2hlaTVHd1F0NU1OUmd3a3VwUjJmSE9tSTM0R3d6c09iZUxJTGNUN3kyRlZ0bm5RdmZZNVhSVF82aDc2REx5T25fRFdtRXpmZ2VlNmJEU3dOSFQzTkdEUFhPV9IBngFBVV95cUxQMEhPcnoyQWlrR0x1MGd4OUI3ZHRoR0tJaVkzVndoanVORWlobDJUV2g2SEVaTTRaNm9CTnlFNm5SZjU4T0dmSmRockotM1haNUJYYUNTQVFKNEZ2NVY4MC1LWVNldFNVQ0IydEF6VmQ4NnhqMXlpQ2RJRHBIZjdHYThKZXlnVm1YRVlmWk1zcU1SLUhEeXZydS1wRHJNQQ?oc=5" target="_blank" rel="noopener">Leer en Hoy Digital <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -273,6 +364,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:49.138834+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPT2luR2tCbl9ib1lpWnNkR3JSWFptZVpPOHNDQUQ4MVd2T0pKZHMySDhocHdsbmJIMmpaMDlRX01samo3U0ZzSlU0Sjhsa3RKc3B6YUtrVFVwUWlvQTVhNDB4QVVXR2dqN0htNFM3WUhwNEF3S0ZVR0FYNlpaVEEtMEJQUTJLY0JfTEg0cVNJVlNPblRfVkY3OEkwU1RSZ9IBowFBVV95cUxPZE8wSm4zZXh5ZUtHRENPbTdUYmE5T2xPU2RnOHoyeW1OeWxyMC13OW9ObGdGZ3B2cEctTlFKdVJxUXFZSFl6Nm8tZzEtc3ZDWWVnYTJtVmhnU08ySDhnNUZRSWdsSnk1THNhODVMd0ZnY0YzUEkyc1V2Y2xac3ozd2RmNHc4S3NTMk45WDRQQ2d4Si1OT0ZTZDBfcGtjQlJ6bmtN?oc=5" target="_blank" rel="noopener">España: ¿Cómo es posible que nada ni nadie evitase la tragedia ferroviaria?</a></h2>
   <p>Se pregunta cómo pudo ocurrir una tragedia ferroviaria en España sin que ninguna medida o persona la impidiera. El título plantea la duda sobre las causas de lo sucedido, pero no aporta más detalles sobre el suceso.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMingFBVV95cUxPT2luR2tCbl9ib1lpWnNkR3JSWFptZVpPOHNDQUQ4MVd2T0pKZHMySDhocHdsbmJIMmpaMDlRX01samo3U0ZzSlU0Sjhsa3RKc3B6YUtrVFVwUWlvQTVhNDB4QVVXR2dqN0htNFM3WUhwNEF3S0ZVR0FYNlpaVEEtMEJQUTJLY0JfTEg0cVNJVlNPblRfVkY3OEkwU1RSZ9IBowFBVV95cUxPZE8wSm4zZXh5ZUtHRENPbTdUYmE5T2xPU2RnOHoyeW1OeWxyMC13OW9ObGdGZ3B2cEctTlFKdVJxUXFZSFl6Nm8tZzEtc3ZDWWVnYTJtVmhnU08ySDhnNUZRSWdsSnk1THNhODVMd0ZnY0YzUEkyc1V2Y2xac3ozd2RmNHc4S3NTMk45WDRQQ2d4Si1OT0ZTZDBfcGtjQlJ6bmtN?oc=5" target="_blank" rel="noopener">Leer en Hoy Digital <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -280,6 +372,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:50.563481+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHRJTXIyVGcyWTNOTVNvTmN2UnhrXzFvM2pjNEpVZnRTcEpRUzRRSU9pMkprRXVwVXVkdVFVTWEySlhZNWVZN2tLYkYzTGdZN2ZPOUVLQ2dLSmxkMnpmbzRIdzJUdlNXVlZocFh3ZFAxVlFodTE4SnB4WjlCNDdKYkhXUjN2d3dGdVd2X1dkcnJIQXNyU0tKZXl1d2JhMnhQUXVJ?oc=5" target="_blank" rel="noopener">Delcy Rodríguez baila &quot;Dame hombro&quot; de Bulin 47 junto al gobernador Rafael Lacava</a></h2>
   <p>Delcy Rodríguez apareció bailando la canción &quot;Dame hombro&quot;, de Bulin 47, junto al gobernador Rafael Lacava. La noticia solo informa de esta escena, sin más detalles sobre el contexto del evento.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHRJTXIyVGcyWTNOTVNvTmN2UnhrXzFvM2pjNEpVZnRTcEpRUzRRSU9pMkprRXVwVXVkdVFVTWEySlhZNWVZN2tLYkYzTGdZN2ZPOUVLQ2dLSmxkMnpmbzRIdzJUdlNXVlZocFh3ZFAxVlFodTE4SnB4WjlCNDdKYkhXUjN2d3dGdVd2X1dkcnJIQXNyU0tKZXl1d2JhMnhQUXVJ?oc=5" target="_blank" rel="noopener">Leer en El Dia.com.do <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -287,6 +380,7 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:51.388749+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmk3REppbHhHUmg0cHZ6RXJLOW9DeFZKdm1makU1eG4zT2ttZFRST2piLVpJRk90Ny1LdTJVM1V4bDRNdHVfdm9vRG5neHBSOVBMWnJ3UWRDUUNmX290dHJSWjBoUTZwaUpVRWlYRXloaGJkcDN4UVRVNDB2Y1ZBMWxvQ2hWZFJBaEg5QzlEbVBCWHRYZHhsZGNOUThqaS1iUkl1V3VKREJGOUIxV0hFVGNBYw?oc=5" target="_blank" rel="noopener">“La amenaza de Haití para RD no está allá, la amenaza está aquí”, advierte general Soto Jiménez</a></h2>
   <p>El general Soto Jiménez sostiene que el principal peligro para República Dominicana no se encuentra en Haití, sino dentro del propio país. La noticia se basa únicamente en el título, por lo que no se ofrecen más detalles sobre el contexto o las razones de esa afirmación.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmk3REppbHhHUmg0cHZ6RXJLOW9DeFZKdm1makU1eG4zT2ttZFRST2piLVpJRk90Ny1LdTJVM1V4bDRNdHVfdm9vRG5neHBSOVBMWnJ3UWRDUUNmX290dHJSWjBoUTZwaUpVRWlYRXloaGJkcDN4UVRVNDB2Y1ZBMWxvQ2hWZFJBaEg5QzlEbVBCWHRYZHhsZGNOUThqaS1iUkl1V3VKREJGOUIxV0hFVGNBYw?oc=5" target="_blank" rel="noopener">Leer en El Dia.com.do <span aria-hidden="true">→</span></a>
 </article>
 <article class="nota rd" data-sec="rd">
@@ -294,12 +388,15 @@ footer{background:var(--azul);color:#cfd8e6;font-size:14px}
     <span class="hora" data-fecha="2026-10-29T16:05:52.513201+00:00"></span></div>
   <h2><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEZIelN1UXNyMTUxVHNOYnJ2UW45X1VhOW5rZ3ItM2NiNVg5UU01QjB6UnIwZURFUExKLW9NR0FnRnU0U3JnSmhsS0RhSDRUSWowUm5wdWdMY2pTZTVjUzEwV0tYNU5BNGtteWxneGNMVFBZV2lDR3Z6RjdSUUdYSE5mczlhQzRzWm9uT0JXbXVFMEVDSWFYUUs1UENPeDFBbmJR?oc=5" target="_blank" rel="noopener">Lluvias dejan 534 viviendas afectadas y 32 comunidades incomunicadas en el país</a></h2>
   <p>Las lluvias han afectado 534 viviendas y dejado incomunicadas 32 comunidades en el país, según informa la noticia. El texto disponible solo incluye el titular y la referencia a la fuente, por lo que no se detallan causas, ubicaciones ni daños adicionales.</p>
+  
   <a class="fuente" href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEZIelN1UXNyMTUxVHNOYnJ2UW45X1VhOW5rZ3ItM2NiNVg5UU01QjB6UnIwZURFUExKLW9NR0FnRnU0U3JnSmhsS0RhSDRUSWowUm5wdWdMY2pTZTVjUzEwV0tYNU5BNGtteWxneGNMVFBZV2lDR3Z6RjdSUUdYSE5mczlhQzRzWm9uT0JXbXVFMEVDSWFYUUs1UENPeDFBbmJR?oc=5" target="_blank" rel="noopener">Leer en El Dia.com.do <span aria-hidden="true">→</span></a>
 </article></div></main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="img/logo-512.png" alt="">
     <div>Resúmenes propios hechos a partir de las noticias de cada medio.<br>Cada noticia enlaza a su fuente original.</div></div>
-  <div>Síguenos en Instagram: <a href="https://instagram.com/aldiardnews" target="_blank" rel="noopener">@aldiardnews</a></div>
+  <div>Síguenos en Instagram: <a href="https://instagram.com/aldiardnews" target="_blank" rel="noopener">@aldiardnews</a><br>
+    También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
+    <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
 </div></footer>
 <script>
 var hoy=new Date().toLocaleDateString('es-DO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
