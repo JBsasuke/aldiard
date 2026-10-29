@@ -50,10 +50,9 @@ def texto_noticia(n):
         t += f"👉 {dst['texto']}: {dst['sitio']}\n"
     for e in extras(n):
         t += f"👉 {e['texto']}: {e['sitio']}\n"
-    if n.get("parrafos"):
-        t += f"📲 Lee la noticia completa en aldiard.com (enlace en la bio)\nFuente: {n['fuente']}\n\n"
-    else:
-        t += f"Fuente: {n['fuente']}\nMás noticias en aldiard.com (enlace en la bio)\n\n"
+    fuentes = [f["nombre"] for f in (n.get("fuentes") or [{"nombre": n["fuente"]}])]
+    t += "📲 Lee la noticia completa en aldiard.com (enlace en la bio)\n"
+    t += ("Fuentes: " if len(fuentes) > 1 else "Fuente: ") + ", ".join(fuentes) + "\n\n"
     return (t + HASHTAGS.get(n["seccion"], HASHTAGS_RD))[:2200]
 
 def texto_consejo(c):

@@ -40,7 +40,7 @@ SEC_PRECIOS, SEC_JUEGOS = "Precios y combustibles", "Videojuegos"
 # El programa corre cada hora: estos cupos dan como mucho 7 noticias nuevas por hora
 # (ahora son más largas y cuestan más de IA, por eso son menos).
 SECCIONES = {
-    SEC_RD:      (FUENTES_RD,      2, "rd", (206, 17, 38)),
+    SEC_RD:      (FUENTES_RD,      2, "rd", (206, 17, 38)),   # 2 por hora; las demás 1
     SEC_USA:     (FUENTES_USA,     1, "us", (0, 45, 98)),
     SEC_INTER:   (FUENTES_INTER,   1, "in", (15, 118, 110)),
     SEC_FAMOSOS: (FUENTES_FAMOSOS, 1, "fa", (190, 24, 93)),
@@ -74,7 +74,8 @@ ARCHIVO_CONSEJOS = "docs/consejos.json"
 
 # Títulos que no son noticias de verdad (se saltan)
 BASURA = (r"^en vivo\b|\ben vivo -|gu[ií]a deportiva|resultados de (las )?loter|"
-          r"loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada|\(opini[oó]n\)")
+          r"loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada|\(opini[oó]n\)|\| noticias de|^noticias de ")
+MAX_MEDIOS = 3          # una noticia junta hasta 3 medios que cuentan lo mismo
 
 # ---- Noticias que van DIRECTO a tus páginas (en vez del periódico) ----
 DIVISAS = ("https://divisasrd.com", "divisasrd.com")
@@ -176,7 +177,7 @@ def guardar(ruta, datos):
         json.dump(datos, f, ensure_ascii=False, indent=1)
 
 RELLENO = (r"t[ií]tulo|texto disponible|informaci[oó]n disponible|m[aá]s detalles|no se (ofrecen|detallan|incluyen|especifican|conocen|dan)"
-           r"|no (ofrece|incluye|informa|detalla|especifica|da)|sin (dar )?m[aá]s (detalles|contexto)|seg[uú]n (informa|indica) (la noticia|la nota)")
+           r"|no (ofrece|incluye|informa|detalla|especifica|da)|^nota:|respuesta anterior|tus instrucciones|sin (dar )?m[aá]s (detalles|contexto)|seg[uú]n (informa|indica) (la noticia|la nota)")
 
 def quitar_relleno(resumen):
     """Quita las frases tipo 'el título no da más detalles' de los resúmenes viejos."""
@@ -259,58 +260,99 @@ def leer_articulo(link):
             texto = max(texto, parrafos_simples(pagina), key=len)
     return url, texto[:7000]
 
-def resumir(titulo, texto):
-    msg = cliente().messages.create(
-        model=MODELO, max_tokens=300,
-        messages=[{"role": "user", "content":
-            "Escribe un resumen corto (1-2 oraciones) en español, con tus propias palabras, neutral y sin "
-            "inventar datos, de esta noticia. Nunca menciones que falta información ni digas 'según el título'. "
-            "Responde solo con el resumen.\n\n" f"Título: {titulo}\nTexto: {texto}"}])
-    return msg.content[0].text.strip()
+def texto_respuesta(msg):
+    """Junta todo el texto que devolvió la IA (puede venir en varios bloques)."""
+    return "".join(getattr(b, "text", "") for b in msg.content).strip()
 
-INSTRUCCIONES = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso una noticia publicada por otro medio.
-Escríbela de nuevo para nuestros lectores siguiendo estas reglas:
-- Usa tus propias palabras y tu propia estructura. No sigas el orden del original ni cambies palabras frase por frase:
-  cuéntala como se la contarías a alguien, primero lo esencial (qué pasó, quién, cuándo, dónde) y después el contexto.
-- Solo hechos que estén en el texto. No inventes, no supongas, no opines, no exageres.
+INSTRUCCIONES = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso VERSIONES de una misma noticia
+publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas reglas:
+- Usa tus propias palabras y tu propia estructura. No sigas el orden de ningún original ni cambies palabras
+  frase por frase. Primero lo esencial (qué pasó, quién, cuándo, dónde), después el contexto y los detalles,
+  y al final lo que viene, si los textos lo dicen.
+- Si hay varios medios, junta lo que aporta cada uno. Si se contradicen en un dato, dilo claramente
+  (por ejemplo: "Diario Libre informa X, mientras que Listín Diario indica Y"). Si coinciden, no hace falta nombrarlos.
+- Solo hechos que estén en los textos. No inventes, no supongas, no opines, no exageres.
   Copia exactos los nombres, cifras y fechas.
-- Español claro y neutral, frases cortas, para público dominicano en RD y en EE.UU.
-- No menciones al medio original ni digas "según el artículo", "el texto" o "la nota".
-- Marca "confiable": false si es publicidad o contenido patrocinado, un rumor sin fuente, una columna de opinión
-  o algo sin hechos claros.
-Devuelve SOLO este JSON:
-{"confiable": true,
- "titulo": "titular propio, distinto del original, máximo 14 palabras",
- "resumen": "2 oraciones, máximo 260 caracteres",
- "parrafos": ["PARRAFOS"]}"""
+- LARGO: LARGO_AQUI
+- Español claro y neutral, frases cortas, para dominicanos en RD y en EE.UU.
+- No digas "el artículo", "el texto", "la nota" ni "según el título". Nunca escribas notas o comentarios para mí.
+- Responde CONFIABLE: no si no es una noticia concreta (por ejemplo la portada de un sitio), si es publicidad,
+  un rumor sin fuente o una columna de opinión.
 
-def redactar(titulo, descripcion, articulo):
-    largo = len(articulo) >= 500
-    if largo:
-        parrafos = "3 o 4 párrafos que sumen entre 150 y 230 palabras"
-        datos = f"Titular original: {titulo}\nDescripción: {descripcion}\n\nTexto del artículo:\n{articulo}"
+Responde EXACTAMENTE en este formato, sin nada antes ni después:
+CONFIABLE: sí
+TITULO: (titular propio, distinto de los originales, máximo 14 palabras)
+RESUMEN: (2 oraciones, máximo 260 caracteres)
+TEXTO:
+(los párrafos, separados por una línea en blanco)"""
+
+def leer_formato(t):
+    """Lee la respuesta CONFIABLE/TITULO/RESUMEN/TEXTO. Tolera adornos como ** o espacios."""
+    t = t.replace("**", "").strip()
+    def campo(nombre):
+        m = re.search(rf"^\s*{nombre}\s*:\s*(.+)$", t, re.I | re.M)
+        return m.group(1).strip() if m else ""
+    m = re.search(r"^\s*TEXTO\s*:\s*(.*)$", t, re.I | re.M | re.S)
+    cuerpo = m.group(1) if m else ""
+    parrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n", cuerpo)]
+    parrafos = [p for p in parrafos if len(p) > 25 and not re.match(r"(nota|aclaraci[oó]n)\s*:", p, re.I)]
+    titulo, resumen = campo("TITULO"), campo("RESUMEN")
+    if not titulo or not (resumen or parrafos):
+        raise ValueError("respuesta sin el formato esperado: " + t[:200])
+    return {"confiable": not campo("CONFIABLE").lower().startswith("no"),
+            "titulo": titulo.strip('"“” '), "resumen": resumen or parrafos[0][:260], "parrafos": parrafos}
+
+def redactar(versiones):
+    """versiones: lista de {fuente, titulo, descripcion, texto}. Devuelve la noticia nuestra."""
+    total = sum(len(v["texto"]) for v in versiones)
+    if total >= 500:
+        largo = "entre 4 y 6 párrafos (de 200 a 350 palabras en total) si hay información suficiente; si no alcanza, escribe menos, pero nunca rellenes ni inventes"
     else:
-        parrafos = ("deja esta lista vacía: [], porque solo tienes el titular. En 'resumen' escribe 1 o 2 "
-                    "oraciones con lo que dice el titular, sin agregar nada, y nunca digas que falta información")
-        datos = f"Titular original: {titulo}\nDescripción: {descripcion}"
-    msg = cliente().messages.create(
-        model=MODELO, max_tokens=900,
-        messages=[{"role": "user", "content": INSTRUCCIONES.replace('"PARRAFOS"', parrafos) + "\n\n" + datos}])
-    t = msg.content[0].text
-    bruto = t[t.find("{"): t.rfind("}") + 1]
-    try:
-        r = json.loads(bruto)
-    except json.JSONDecodeError:
-        r = json.loads(re.sub(r"[\x00-\x1f]", " ", bruto))  # saltos de línea dentro del texto
-    r["parrafos"] = [p.strip() for p in (r.get("parrafos") or []) if p.strip()] if largo else []
-    return r
+        largo = "solo tienes titulares y descripciones cortas: escribe 1 o 2 párrafos cortos con lo que dicen, sin agregar nada"
+    datos = "\n\n".join(
+        f"=== VERSIÓN {i + 1} — {v['fuente']} ===\nTitular: {v['titulo']}\nDescripción: {v['descripcion']}\n"
+        + (f"Texto:\n{v['texto'][:3500]}" if v["texto"] else "")
+        for i, v in enumerate(versiones))
+    pedido = INSTRUCCIONES.replace("LARGO_AQUI", largo) + "\n\n" + datos
+    ultimo = None
+    for _ in range(2):  # si la primera respuesta viene mal, se intenta una vez más
+        msg = cliente().messages.create(model=MODELO, max_tokens=1200,
+                                        messages=[{"role": "user", "content": pedido}])
+        try:
+            return leer_formato(texto_respuesta(msg))
+        except ValueError as err:
+            ultimo = err
+    raise ultimo
 
-CUENTA = {"ya vistas": 0, "no confiables": 0, "sin enlace real": 0, "sin texto del artículo": 0,
-          "error IA (larga)": 0, "error IA (corta)": 0, "descartadas por la IA": 0, "largas": 0, "cortas": 0}
+def similares(a, b, minimo=2):
+    return len(_palabras(a) & _palabras(b)) >= minimo
+
+def otras_versiones(titulo, dom_principal, vistos):
+    """Busca la misma noticia en otros medios confiables (Google News por el titular)."""
+    claves = sorted(_palabras(titulo), key=len, reverse=True)[:6]
+    if len(claves) < 2:
+        return []
+    salida, doms = [], {dom_principal}
+    for e in feedparser.parse(gnews(" ".join(claves))).entries[:12]:
+        dom = dominio(e)
+        fuente = e.get("source", {}).get("title", "Fuente")
+        t = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
+        if dom in doms or not es_confiable(dom) or e.get("link") in vistos or not similares(titulo, t, 3):
+            continue
+        doms.add(dom)
+        salida.append((e, dom, fuente, t))
+        if len(salida) >= MAX_MEDIOS - 1:
+            break
+    return salida
+
+CUENTA = {"ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
+          "sin texto": 0, "medios juntados": 0, "error IA": 0, "descartadas por la IA": 0, "largas": 0, "cortas": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
               | {n.get("titulo_original", "") for n in guardadas})
+    recientes = [n.get("titulo_original") or n["titulo"] for n in guardadas
+                 if fecha(n) > ahora() - timedelta(hours=30)]
     nuevas = []
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
         de_esta, intentos = 0, 0
@@ -326,51 +368,65 @@ def buscar(guardadas):
                     continue
                 if re.search(BASURA, titulo, re.I) or len(titulo.split()) < 4:
                     continue
+                if any(similares(titulo, r, 3) for r in recientes):
+                    CUENTA["ya cubiertas"] += 1  # ya publicamos esa misma noticia
+                    vistos.update((link, titulo))
+                    continue
                 dom = dominio(e)
                 if not es_confiable(dom):
                     CUENTA["no confiables"] += 1
                     print("Fuente no confiable, se salta:", dom or fuente)
                     continue
-                vistos.update((link, titulo))
                 intentos += 1
-                url_real, articulo = leer_articulo(link)
-                if not url_real:
-                    CUENTA["sin enlace real"] += 1
-                elif len(articulo) < 500:
-                    CUENTA["sin texto del artículo"] += 1
-                print(f"[{seccion}] {fuente}: texto leído {len(articulo)} letras -> {url_real or 'sin enlace'}")
-                if url_real and re.search(OPINION, url_real, re.I):
-                    CUENTA["descartadas por la IA"] += 1
-                    print("Es opinión o editorial, se salta:", url_real)
+                grupo = [(e, dom, fuente, titulo)] + otras_versiones(titulo, dom, vistos)
+                versiones = []
+                for ent, d, f, t in grupo:
+                    vistos.update((ent.get("link", ""), t))
+                    url_real, texto = leer_articulo(ent.get("link", ""))
+                    if url_real and re.search(OPINION, url_real, re.I):
+                        continue
+                    print(f"[{seccion}] {f}: texto leído {len(texto)} letras -> {url_real or 'sin enlace'}")
+                    CUENTA["con texto leído" if len(texto) >= 500 else "sin texto"] += 1
+                    versiones.append({"fuente": f, "dominio": d, "titulo": t, "url": url_real or ent.get("link", ""),
+                                      "descripcion": limpiar(ent.get("summary", "")), "texto": texto})
+                if not versiones:
+                    CUENTA["opinión"] += 1
+                    print("Es opinión o editorial, se salta:", titulo)
                     continue
                 try:
-                    r = redactar(titulo, limpiar(e.get("summary", "")), articulo)
+                    r = redactar(versiones)
                 except Exception as err:
-                    CUENTA["error IA (larga)"] += 1
-                    print("Error IA al escribir la versión larga:", repr(err)[:300])
-                    try:  # plan B: la noticia sale corta, como antes, para no perderla
-                        r = {"confiable": True, "titulo": titulo, "parrafos": [],
-                             "resumen": resumir(titulo, limpiar(e.get("summary", "")))}
-                    except Exception as err2:
-                        CUENTA["error IA (corta)"] += 1
-                        print("Error IA también en la corta:", repr(err2)[:300])
-                        continue
-                if not r.get("confiable", True):
-                    CUENTA["descartadas por la IA"] += 1
-                    print("La IA la descartó (rumor, opinión o publicidad):", titulo)
+                    CUENTA["error IA"] += 1
+                    print("Error IA:", repr(err)[:400])
                     continue
-                CUENTA["largas" if r["parrafos"] else "cortas"] += 1
+                if not r["confiable"]:
+                    CUENTA["descartadas por la IA"] += 1
+                    print("La IA la descartó (no es noticia, rumor, opinión o publicidad):", titulo)
+                    continue
+                CUENTA["medios juntados"] += len(versiones) - 1
+                CUENTA["largas" if len(r["parrafos"]) >= 3 else "cortas"] += 1
+                principal = max(versiones, key=lambda v: len(v["texto"]))  # la más completa va de primera
+                versiones.sort(key=lambda v: v is not principal)
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
-                               "titulo": (r.get("titulo") or titulo).strip(), "titulo_original": titulo,
-                               "resumen": (r.get("resumen") or "").strip() or titulo,
-                               "parrafos": r["parrafos"], "link": link, "url": url_real,
-                               "fuente": fuente, "dominio": dom, "seccion": seccion,
-                               "fecha": ahora().isoformat()})
+                               "titulo": r["titulo"], "titulo_original": titulo,
+                               "resumen": r["resumen"], "parrafos": r["parrafos"],
+                               "link": link, "url": principal["url"],
+                               "fuente": principal["fuente"], "dominio": principal["dominio"],
+                               "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
+                               "seccion": seccion, "fecha": ahora().isoformat()})
+                recientes.append(titulo)
                 de_esta += 1
     return nuevas
 
 def enlace_fuente(n):
     return n.get("url") or n["link"]
+
+def lista_fuentes(n):
+    return n.get("fuentes") or [{"nombre": n["fuente"], "url": enlace_fuente(n)}]
+
+def nombres_fuentes(n):
+    nombres = [f["nombre"] for f in lista_fuentes(n)]
+    return nombres[0] if len(nombres) == 1 else ", ".join(nombres[:-1]) + " y " + nombres[-1]
 
 # ================= Tendencia =================
 VACIAS = set("""sobre entre desde hasta tras para por con sin los las del una unos unas este esta estos
@@ -392,7 +448,7 @@ def calcular_tendencia(todas):
         for m in recientes:
             if m is not n and len(pal[id(n)] & pal[id(m)]) >= 2:
                 medios.add(m["fuente"])
-        n["tendencia"] = len(medios)
+        n["tendencia"] = max(len(medios), len(n.get("fuentes") or []))
 
 # ================= Imágenes para Instagram =================
 def _envolver(d, texto, fuente, ancho):
@@ -456,7 +512,10 @@ def imagen_instagram(n, ruta):
     d.rectangle((margen, y + 24, margen + 120, y + 36), fill=ROJO)
     f_pie = ImageFont.truetype(FUENTE_MEDIA, 32)
     d.line((margen, 1140, W - margen, 1140), fill=(220, 224, 232), width=3)
-    d.text((margen, 1166), "Fuente: " + n["fuente"], font=f_pie, fill=(90, 98, 112))
+    pie_f = ("Fuentes: " if len(lista_fuentes(n)) > 1 else "Fuente: ") + nombres_fuentes(n)
+    while d.textlength(pie_f, font=f_pie) > 640 and len(pie_f) > 20:
+        pie_f = pie_f[:-5].rstrip(" ,y") + "…"
+    d.text((margen, 1166), pie_f, font=f_pie, fill=(90, 98, 112))
     f_web = ImageFont.truetype(FUENTE_FUERTE, 34)
     web = sitio_propio(n)
     d.text((W - margen - d.textlength(web, font=f_web), 1164), web, font=f_web, fill=AZUL)
@@ -816,27 +875,18 @@ def botones_propios(n):
                    f'{html.escape(e["texto"])} en {e["sitio"]} →</a>' for e in extras(n))
 
 def tarjeta(n, grande=False):
+    """Todas las tarjetas abren nuestra propia página de la noticia."""
     c = clase(n["seccion"])
-    dst = destino(n)
-    fuente = html.escape(enlace_fuente(n))
-    if n.get("parrafos"):  # tiene su propia página en aldiard.com
-        enlace, nueva = pagina_nota(n), ""
-        cierre = (f'<a class="leer" href="{enlace}">Leer la noticia completa →</a>'
-                  f'<a class="fuente chica" href="{fuente}" target="_blank" rel="noopener">Fuente: {html.escape(n["fuente"])}</a>')
-    elif dst:
-        enlace, nueva = dst["url"], ' target="_blank" rel="noopener"'
-        cierre = f'<a class="fuente chica" href="{fuente}" target="_blank" rel="noopener">Fuente: {html.escape(n["fuente"])}</a>'
-    else:
-        enlace, nueva = enlace_fuente(n), ' target="_blank" rel="noopener"'
-        cierre = (f'<a class="fuente" href="{fuente}" target="_blank" rel="noopener">'
-                  f'Leer en {html.escape(n["fuente"])} <span aria-hidden="true">→</span></a>')
+    enlace = pagina_nota(n)
+    etiqueta = "Fuentes" if len(lista_fuentes(n)) > 1 else "Fuente"
     return f"""
 <article class="nota {c}{' destacada' if grande else ''}" data-sec="{c}">
   <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span></div>
-  <h2><a href="{html.escape(enlace)}"{nueva}>{html.escape(n['titulo'])}</a></h2>
+  <h2><a href="{enlace}">{html.escape(n['titulo'])}</a></h2>
   <p>{html.escape(n['resumen'])}</p>
-  {botones_propios(n)}{cierre}
+  {botones_propios(n)}<a class="leer" href="{enlace}">Leer la noticia completa →</a>
+  <span class="fuente chica">{etiqueta}: {html.escape(nombres_fuentes(n))}</span>
 </article>"""
 
 def generar_portada(todas, consejos):
@@ -872,12 +922,16 @@ def generar_portada(todas, consejos):
 def generar_notas(todas):
     """Una página propia para cada noticia larga: docs/n/<id>.html"""
     os.makedirs("docs/n", exist_ok=True)
-    con_pagina = [n for n in todas if n.get("parrafos")]
+    con_pagina = todas  # todas tienen su página; las viejas muestran su resumen
     for n in con_pagina:
         c = clase(n["seccion"])
         url = SITIO + pagina_nota(n)
         img = SITIO + "/" + n["ig_img"] if n.get("ig_img") else SITIO + "/img/logo-512.png"
-        cuerpo = "".join(f"<p>{html.escape(p)}</p>" for p in n["parrafos"])
+        cuerpo = "".join(f"<p>{html.escape(p)}</p>" for p in (n.get("parrafos") or [n["resumen"]]))
+        fuentes_html = " · ".join(
+            f'<a href="{html.escape(f["url"])}" target="_blank" rel="noopener nofollow">{html.escape(f["nombre"])}</a>'
+            for f in lista_fuentes(n))
+        varias = len(lista_fuentes(n)) > 1
         relacionadas = [m for m in con_pagina if m is not n and m["seccion"] == n["seccion"]][:5]
         rel = "".join(f'<a href="{pagina_nota(m)}">{html.escape(m["titulo"])}</a>' for m in relacionadas)
         q = urllib.parse.quote
@@ -897,8 +951,8 @@ def generar_notas(todas):
   <h1>{html.escape(n['titulo'])}</h1>
   <div class="cuerpo">{cuerpo}</div>
   {botones_propios(n)}
-  <div class="credito">Fuente: {html.escape(n['fuente'])} ·
-    <a href="{html.escape(enlace_fuente(n))}" target="_blank" rel="noopener">Lee la noticia original →</a></div>
+  <div class="credito">{'Redactada por Al Día RD a partir de lo publicado por estos medios' if varias else 'Redactada por Al Día RD a partir de lo publicado por'}:
+    {fuentes_html}</div>
   <div class="compartir">
     <a href="https://wa.me/?text={q(n['titulo'] + ' ' + url)}" target="_blank" rel="noopener">Compartir en WhatsApp</a>
     <a href="https://x.com/intent/post?text={q(n['titulo'])}&url={q(url)}" target="_blank" rel="noopener">Compartir en X</a>
@@ -916,7 +970,7 @@ def generar_notas(todas):
 
 def generar_sitemap(todas):
     urls = [SITIO + "/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
-    urls += [SITIO + pagina_nota(n) for n in todas if n.get("parrafos")]
+    urls += [SITIO + pagina_nota(n) for n in todas if n.get("parrafos")]  # solo las largas, que son las de valor
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
         f.write("".join(f"  <url><loc>{u}</loc></url>\n" for u in urls))
@@ -937,6 +991,8 @@ def main():
     todas = [n for n in todas if not re.search(BASURA, n["titulo"], re.I)]  # saca las viejas tipo "En Vivo"
     for n in todas:
         n["resumen"] = quitar_relleno(n["resumen"])
+        if not n.get("id"):  # las más viejas no tenían número; lo necesitan para su página
+            n["id"] = hashlib.md5(n["link"].encode()).hexdigest()[:10]
     calcular_tendencia(todas)
     elegida = elegir_para_instagram(todas)
     consejo_del_dia(todas, consejos)
