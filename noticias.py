@@ -201,6 +201,30 @@ def dominio(e):
 def es_confiable(dom):
     return bool(dom) and ("alofoke" in dom or any(dom == c or dom.endswith("." + c) for c in CONFIABLES))
 
+NAVEGADOR = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/130.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-DO,es;q=0.9,en;q=0.8",
+}
+OPINION = r"/opini[oó]n|/opiniones|/editorial|/columnas?/|/blogs?/"
+
+def bajar_pagina(url):
+    """Baja la página como si fuera un navegador normal (muchos periódicos bloquean a los programas)."""
+    import urllib.request
+    pedido = urllib.request.Request(url, headers=NAVEGADOR)
+    with urllib.request.urlopen(pedido, timeout=20) as r:
+        crudo = r.read(3_000_000)
+        juego = r.headers.get_content_charset() or "utf-8"
+    return crudo.decode(juego, errors="replace")
+
+def parrafos_simples(pagina):
+    """Plan B: junta los párrafos <p> largos de la página."""
+    pagina = re.sub(r"(?is)<(script|style|nav|footer|header|aside|form)[^>]*>.*?</\1>", " ", pagina)
+    ps = [limpiar(p) for p in re.findall(r"(?is)<p[^>]*>(.*?)</p>", pagina)]
+    ps = [p for p in ps if len(p) > 80 and not re.search(r"cookies|suscr[ií]bete|derechos reservados|newsletter", p, re.I)]
+    return "\n".join(ps)
+
 def leer_articulo(link):
     """Saca la dirección real de la noticia (Google News la esconde) y el texto del artículo."""
     url = link
@@ -214,16 +238,25 @@ def leer_articulo(link):
             url = None
     if not url:
         return None, ""
+    texto, pagina = "", ""
     try:
-        import trafilatura
-        bajado = trafilatura.fetch_url(url)
-        texto = ""
-        if bajado:
-            texto = trafilatura.extract(bajado, include_comments=False, include_tables=False,
-                                        favor_precision=True) or ""
+        pagina = bajar_pagina(url)
     except Exception as err:
-        print("No se pudo leer el artículo:", err)
-        texto = ""
+        print("No se pudo bajar la página:", repr(err)[:150])
+    if not pagina:
+        try:  # segundo intento con el bajador propio de trafilatura
+            import trafilatura
+            pagina = trafilatura.fetch_url(url) or ""
+        except Exception:
+            pagina = ""
+    if pagina:
+        try:
+            import trafilatura
+            texto = trafilatura.extract(pagina, include_comments=False, include_tables=False) or ""
+        except Exception as err:
+            print("trafilatura no pudo:", repr(err)[:150])
+        if len(texto) < 500:
+            texto = max(texto, parrafos_simples(pagina), key=len)
     return url, texto[:7000]
 
 def resumir(titulo, texto):
@@ -252,7 +285,7 @@ Devuelve SOLO este JSON:
  "parrafos": ["PARRAFOS"]}"""
 
 def redactar(titulo, descripcion, articulo):
-    largo = len(articulo) >= 600
+    largo = len(articulo) >= 500
     if largo:
         parrafos = "3 o 4 párrafos que sumen entre 150 y 230 palabras"
         datos = f"Titular original: {titulo}\nDescripción: {descripcion}\n\nTexto del artículo:\n{articulo}"
@@ -303,9 +336,13 @@ def buscar(guardadas):
                 url_real, articulo = leer_articulo(link)
                 if not url_real:
                     CUENTA["sin enlace real"] += 1
-                elif len(articulo) < 600:
+                elif len(articulo) < 500:
                     CUENTA["sin texto del artículo"] += 1
                 print(f"[{seccion}] {fuente}: texto leído {len(articulo)} letras -> {url_real or 'sin enlace'}")
+                if url_real and re.search(OPINION, url_real, re.I):
+                    CUENTA["descartadas por la IA"] += 1
+                    print("Es opinión o editorial, se salta:", url_real)
+                    continue
                 try:
                     r = redactar(titulo, limpiar(e.get("summary", "")), articulo)
                 except Exception as err:
