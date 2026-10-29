@@ -1,0 +1,37 @@
+AL DÍA RD – Cómo ponerlo en marcha
+==================================
+
+1. SUBIR LOS ARCHIVOS
+   En tu repo "aldiard" de GitHub: Add file -> Upload files.
+   Arrastra TODO lo que está dentro de esta carpeta (noticias.py, requirements.txt,
+   la carpeta docs y la carpeta .github) y dale a "Commit changes".
+
+   OJO: la carpeta ".github" empieza con punto y a veces la computadora la esconde.
+   Si después de subir no ves la carpeta .github en el repo, créala a mano:
+   Add file -> Create new file -> en el nombre escribe:
+       .github/workflows/noticias.yml
+   y pega adentro el contenido del archivo noticias.yml.
+
+2. CLAVE DE LA IA
+   Saca una API key en console.anthropic.com (se paga aparte del plan Pro;
+   con ~15 resúmenes cada 3 horas son pocos dólares al mes).
+   En el repo: Settings -> Secrets and variables -> Actions -> New repository secret
+       Nombre: ANTHROPIC_API_KEY
+       Valor:  tu clave
+
+3. ACTIVAR LA PÁGINA
+   Settings -> Pages -> Source: "Deploy from a branch" -> rama main, carpeta /docs -> Save.
+   Custom domain: aldiard.com -> Save.
+
+4. DOMINIO (donde compraste aldiard.com)
+   Registros A para "@":  185.199.108.153  185.199.109.153  185.199.110.153  185.199.111.153
+   Registro CNAME "www" -> JBsasuke.github.io
+   (Puede tardar unas horas en funcionar. Luego marca "Enforce HTTPS" en Settings -> Pages.)
+
+5. PRIMERA PRUEBA
+   Pestaña Actions -> "Publicar noticias" -> Run workflow.
+   Si sale en verde, ya está. De ahí en adelante corre solo cada 3 horas.
+
+Ajustes en noticias.py:
+   MAX_NUEVAS = cuántas noticias nuevas por corrida (más = más gasto de IA).
+   FUENTES_RD / FUENTES_USA = los periódicos y búsquedas que vigila.
