@@ -82,7 +82,7 @@ BASURA = (r"^en vivo\b|\ben vivo -|gu[ií]a deportiva|resultados de (las )?loter
           r"^agenda del d[ií]a|^[uú]ltimas noticias|^lo m[aá]s le[ií]do|^titulares (de|del)|^resumen (de noticias|semanal)")
 MAX_MEDIOS = 3          # una noticia junta hasta 3 medios que cuentan lo mismo
 MIN_PARRAFOS = 3        # solo se publican las noticias con al menos 3 párrafos (las cortas se ocultan)
-MIN_PALABRAS = 90         # la de "El Guachi" tiene 101 y sirve de ejemplo
+MIN_PALABRAS = 100        # palabras en total en la página (la de "El Guachi" pasa)
 LLENAR_HASTA = 15       # mientras haya menos noticias largas que esto, se busca el doble por hora
 
 # ---- Noticias que van DIRECTO a tus páginas (en vez del periódico) ----
@@ -321,6 +321,22 @@ IMPORTA: (1 o 2 oraciones, o "-")
 TEXTO:
 (los párrafos, separados por una línea en blanco)"""
 
+def partir_parrafos(cuerpo):
+    """Separa el texto en párrafos aunque la IA no deje una línea en blanco entre ellos."""
+    limpio = lambda ps: [p for p in (re.sub(r"\s+", " ", x).strip() for x in ps)
+                         if len(p) > 25 and not re.match(r"(nota|aclaraci[oó]n)\s*:", p, re.I)]
+    ps = limpio(re.split(r"\n\s*\n", cuerpo))
+    if len(ps) < 3:
+        ps = limpio(cuerpo.splitlines())  # párrafos separados con un solo salto de línea
+    if len(ps) < 3 and sum(len(p.split()) for p in ps) >= 110:
+        # un solo bloque largo: se reparte por oraciones en 3 o 4 párrafos
+        oraciones = re.split(r"(?<=[.!?»”])\s+(?=[A-ZÁÉÍÓÚÑ¿¡«“])", " ".join(ps))
+        k = 4 if len(oraciones) >= 8 else 3
+        if len(oraciones) >= k:
+            tam = -(-len(oraciones) // k)
+            ps = [" ".join(oraciones[i:i + tam]) for i in range(0, len(oraciones), tam)]
+    return ps
+
 def leer_formato(t):
     """Lee la respuesta CONFIABLE/TITULO/RESUMEN/TEXTO. Tolera adornos como ** o espacios."""
     t = t.replace("**", "").strip()
@@ -329,8 +345,7 @@ def leer_formato(t):
         return m.group(1).strip() if m else ""
     m = re.search(r"^\s*TEXTO\s*:\s*(.*)$", t, re.I | re.M | re.S)
     cuerpo = m.group(1) if m else ""
-    parrafos = [re.sub(r"\s+", " ", p).strip() for p in re.split(r"\n\s*\n", cuerpo)]
-    parrafos = [p for p in parrafos if len(p) > 25 and not re.match(r"(nota|aclaraci[oó]n)\s*:", p, re.I)]
+    parrafos = partir_parrafos(cuerpo)
     titulo = campo("TITULO")
     gancho = campo("GANCHO") or campo("RESUMEN")
     mc = re.search(r"^\s*CLAVES\s*:\s*(.*?)^\s*(IMPORTA|TEXTO)\s*:", t, re.I | re.M | re.S)
@@ -456,7 +471,7 @@ def buscar(guardadas):
                 def oculta(motivo):  # se guarda escondida para no volver a gastar IA en ella
                     nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10], "titulo": titulo,
                                    "titulo_original": titulo, "resumen": "", "parrafos": [], "link": link,
-                                   "fuente": fuente, "dominio": dom, "seccion": seccion, "oculta": motivo,
+                                   "fuente": fuente, "dominio": dom, "seccion": seccion, "oculta": motivo, "v": 2,
                                    "fecha": ahora().isoformat()})
                 if sum(len(v["texto"]) for v in versiones) < 500:
                     CUENTA["ocultas (cortas)"] += 1
@@ -486,7 +501,9 @@ def buscar(guardadas):
                 CUENTA["medios juntados"] += len(versiones) - 1
                 if not es_larga(r):
                     CUENTA["ocultas (cortas)"] += 1
-                    print(f"Salió corta ({len(r['parrafos'])} párrafos); se oculta:", titulo)
+                    palabras = sum(len(p.split()) for p in r["parrafos"])
+                    print(f"Salió corta ({len(r['parrafos'])} párrafos, {palabras} palabras, "
+                          f"{sum(len(v['texto']) for v in versiones)} letras leídas); se oculta:", titulo)
                     oculta("corta")
                     continue
                 CUENTA["largas"] += 1
@@ -507,7 +524,9 @@ def buscar(guardadas):
 def es_larga(n):
     """Una noticia con contenido de verdad: la única que se muestra en la página y en Instagram."""
     ps = n.get("parrafos") or []
-    return not n.get("oculta") and len(ps) >= MIN_PARRAFOS and sum(len(p.split()) for p in ps) >= MIN_PALABRAS
+    # cuenta todo lo que se lee en la página: párrafos + "En pocas palabras" + "¿Por qué te importa?"
+    total = sum(len(x.split()) for x in ps + (n.get("claves") or []) + [n.get("importa") or ""])
+    return not n.get("oculta") and len(ps) >= MIN_PARRAFOS and total >= MIN_PALABRAS
 
 def visibles(todas):
     return [n for n in todas if es_larga(n)]
@@ -1100,9 +1119,34 @@ def generar_html(todas, consejos):
     generar_sitemap(todas)
 
 # ================= Principal =================
+class Registro:
+    """Copia todo lo que el programa escribe en pantalla a docs/registro.txt, para revisarlo después."""
+    def __init__(self, pantalla):
+        self.pantalla, self.lineas = pantalla, []
+    def write(self, t):
+        self.pantalla.write(t)
+        self.lineas.append(t)
+    def flush(self):
+        self.pantalla.flush()
+
 def main():
+    import sys
+    reg = Registro(sys.stdout)
+    sys.stdout = reg
+    try:
+        print("Corrida:", ahora().astimezone(HORA_RD).strftime("%Y-%m-%d %I:%M %p"), "(hora RD)")
+        principal()
+    finally:
+        sys.stdout = reg.pantalla
+        os.makedirs("docs", exist_ok=True)
+        with open("docs/registro.txt", "w", encoding="utf-8") as f:
+            f.write("".join(reg.lineas)[-60000:])
+
+def principal():
     os.makedirs("docs/ig", exist_ok=True)
     guardadas = cargar(ARCHIVO)
+    # las que se ocultaron por "cortas" con el error de los párrafos pegados se vuelven a intentar una vez
+    guardadas = [n for n in guardadas if not (n.get("oculta") == "corta" and not n.get("v"))]
     consejos = cargar(ARCHIVO_CONSEJOS)
     nuevas = buscar(guardadas)
     todas = (nuevas + guardadas)[:MAX_GUARDADAS]
