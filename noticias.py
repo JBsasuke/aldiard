@@ -49,6 +49,8 @@ POR_FUENTE = 3          # noticias que mira de cada fuente
 MAX_GUARDADAS = 400
 HORAS_IG = 12           # una noticia más vieja que esto ya no se sube a Instagram
 HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el consejo del día
+TENDENCIA_HISTORIA = 3  # si 3 medios o más hablan de la noticia, también va a historias
+MAX_HISTORIAS_DIA = 8   # tope de historias de noticias por día
 
 ARCHIVO = "docs/noticias.json"
 ARCHIVO_CONSEJOS = "docs/consejos.json"
@@ -327,6 +329,33 @@ def imagen_consejo(c, ruta):
     d.text((margen + 30, 1176), txt, font=f_bot, fill=fondo_c)
     img.save(ruta, "JPEG", quality=88)
 
+def imagen_historia(origen, ruta, etiqueta, pie):
+    """Versión vertical 1080x1920 para historias: la tarjeta en el medio, etiqueta arriba y aviso abajo."""
+    from PIL import Image, ImageDraw, ImageFont
+    W, H = 1080, 1920
+    img = Image.new("RGB", (W, H), (0, 22, 50))  # azul más oscuro para que resalte la tarjeta
+    d = ImageDraw.Draw(img)
+    tarjeta = Image.open(origen).convert("RGB").resize((960, 1200), Image.LANCZOS)
+    m = Image.new("L", tarjeta.size, 0)
+    ImageDraw.Draw(m).rounded_rectangle((0, 0, 960, 1200), radius=36, fill=255)
+    img.paste(tarjeta, (60, 330), m)
+    f_et = ImageFont.truetype(FUENTE_NEGRA, 52)
+    ew = d.textlength(etiqueta, font=f_et)
+    d.rounded_rectangle(((W - ew) / 2 - 36, 170, (W + ew) / 2 + 36, 262), radius=46, fill=ROJO)
+    d.text(((W - ew) / 2, 186), etiqueta, font=f_et, fill=BLANCO)
+    f_pie = ImageFont.truetype(FUENTE_FUERTE, 50)
+    pw = d.textlength(pie, font=f_pie)
+    d.text(((W - pw) / 2, 1640), pie, font=f_pie, fill=BLANCO)
+    f_sub = ImageFont.truetype(FUENTE_MEDIA, 38)
+    sub = "Enlace en nuestro perfil"
+    d.text(((W - d.textlength(sub, font=f_sub)) / 2, 1720), sub, font=f_sub, fill=(190, 205, 225))
+    img.save(ruta, "JPEG", quality=88)
+
+def historias_de_hoy(todas, consejos):
+    hoy = ahora().astimezone(HORA_RD).date()
+    return sum(1 for n in todas if n.get("historia_fecha")
+               and datetime.fromisoformat(n["historia_fecha"]).astimezone(HORA_RD).date() == hoy)
+
 # ================= Instagram: qué se sube esta hora =================
 def elegir_para_instagram(todas):
     """Una sola noticia por corrida: la que más medios están publicando,
@@ -356,6 +385,14 @@ def elegir_para_instagram(todas):
         print("Error imagen:", err)
         return None
     mejor["ig"], mejor["ig_img"] = "pendiente", f"ig/{mejor['id']}.jpg"
+    # si está en tendencia, también va a historias (con tope diario)
+    if (mejor.get("tendencia", 1) >= TENDENCIA_HISTORIA and not mejor.get("historia")
+            and historias_de_hoy(todas, []) < MAX_HISTORIAS_DIA):
+        try:
+            imagen_historia(ruta, f"docs/ig/{mejor['id']}-h.jpg", "EN TENDENCIA", "Lee más en aldiard.com")
+            mejor["historia"], mejor["historia_img"] = "pendiente", f"ig/{mejor['id']}-h.jpg"
+        except Exception as err:
+            print("Error imagen historia:", err)
     return mejor
 
 def limpiar_imagenes(todas, consejos):
@@ -363,7 +400,9 @@ def limpiar_imagenes(todas, consejos):
     limite = ahora() - timedelta(days=2)
     se_quedan = {n.get("ig_img") for n in todas
                  if n.get("ig_img") and (fecha(n) > limite or n.get("ig") == "pendiente")}
-    se_quedan |= {c.get("ig_img") for c in consejos[-3:]}
+    se_quedan |= {n.get("historia_img") for n in todas
+                  if n.get("historia_img") and (fecha(n) > limite or n.get("historia") == "pendiente")}
+    se_quedan |= {c.get("ig_img") for c in consejos[-3:]} | {c.get("historia_img") for c in consejos[-3:]}
     for archivo in os.listdir("docs/ig"):
         if "ig/" + archivo not in se_quedan:
             os.remove(os.path.join("docs/ig", archivo))
@@ -428,6 +467,9 @@ def consejo_del_dia(todas, consejos):
     try:
         imagen_consejo(c, f"docs/ig/consejo-{hoy}.jpg")
         c["ig"], c["ig_img"] = "pendiente", f"ig/consejo-{hoy}.jpg"
+        imagen_historia(f"docs/ig/consejo-{hoy}.jpg", f"docs/ig/consejo-{hoy}-h.jpg",
+                        "CONSEJO DEL DÍA", "Visita " + c["sitio"])
+        c["historia"], c["historia_img"] = "pendiente", f"ig/consejo-{hoy}-h.jpg"
     except Exception as err:
         print("Error imagen consejo:", err)
     consejos.append(c)

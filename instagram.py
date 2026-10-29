@@ -58,12 +58,16 @@ def texto_consejo(c):
     t += "#AlDíaRD #ConsejoDelDía " + ("#AhorraLuz #KiloClaro" if c["tema"] == "kiloclaro" else "#DivisasRD #Dólar #Remesas")
     return t
 
-def publicar(ig_img, clave, caption):
+def publicar(ig_img, clave, caption, historia=False):
     img = f"{SITIO}/{ig_img}?v={clave}"
     if not esperar_imagen(img):
         raise RuntimeError("la imagen no apareció en la página a tiempo")
-    cid = pedir(f"{API}/{USUARIO}/media",
-                {"image_url": img, "caption": caption, "access_token": TOKEN})["id"]
+    datos = {"image_url": img, "access_token": TOKEN}
+    if historia:
+        datos["media_type"] = "STORIES"  # las historias no llevan texto
+    else:
+        datos["caption"] = caption
+    cid = pedir(f"{API}/{USUARIO}/media", datos)["id"]
     for _ in range(10):  # espera a que Instagram procese la imagen
         estado = pedir(f"{API}/{cid}?" + urllib.parse.urlencode(
             {"fields": "status_code", "access_token": TOKEN})).get("status_code")
@@ -86,6 +90,16 @@ def intentar(item, ig_img, clave, caption):
         if item["ig_intentos"] >= MAX_INTENTOS:
             item["ig"] = "error"
         print("Error Instagram:", item["titulo"], "->", err)
+        return
+    if item.get("historia") == "pendiente":  # está en tendencia (o es el consejo): también a historias
+        try:
+            publicar(item["historia_img"], clave + "h", "", historia=True)
+            item["historia"] = "publicado"
+            item["historia_fecha"] = datetime.now(timezone.utc).isoformat()
+            print("Historia publicada:", item["titulo"])
+        except Exception as err:
+            item["historia"] = "error"
+            print("Error historia:", item["titulo"], "->", err)
 
 def renovar_token():
     """Alarga la vida del token (dura 60 días). Se intenta una vez al día."""
