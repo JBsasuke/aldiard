@@ -156,6 +156,19 @@ def guardar(ruta, datos):
     with open(ruta, "w", encoding="utf-8") as f:
         json.dump(datos, f, ensure_ascii=False, indent=1)
 
+RELLENO = (r"t[ií]tulo|texto disponible|informaci[oó]n disponible|m[aá]s detalles|no se (ofrecen|detallan|incluyen|especifican|conocen|dan)"
+           r"|no (ofrece|incluye|informa|detalla|especifica|da)|sin (dar )?m[aá]s (detalles|contexto)|seg[uú]n (informa|indica) (la noticia|la nota)")
+
+def quitar_relleno(resumen):
+    """Quita las frases tipo 'el título no da más detalles' de los resúmenes viejos."""
+    resumen = re.sub(r"\s*\((sin|no hay) [^)]*\)", "", resumen)
+    coletilla = r",? seg[uú]n (informa|indica|se[nñ]ala) (la noticia|la nota|el t[ií]tulo|el titular)"
+    frases = [re.sub(coletilla, "", f, flags=re.I)
+              for f in re.split(r"(?<=[.!?])\s+", resumen.strip())]
+    frases = [re.sub(r"^seg[uú]n el t[ií]tulo,\s*(\w)", lambda m: m.group(1).upper(), f, flags=re.I) for f in frases]
+    buenas = [f for f in frases if not re.search(RELLENO, f, re.I)]
+    return " ".join(buenas or frases[:1])
+
 # ================= Buscar noticias =================
 def resumir(titulo, texto):
     msg = cliente().messages.create(
@@ -528,6 +541,7 @@ footer{{background:var(--azul);color:#cfd8e6;font-size:14px}}
 .pie{{max-width:1100px;margin:auto;padding:28px 16px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}}
 .pie img{{width:48px;height:48px;border-radius:10px}}
 .pie a{{color:#fff;font-weight:600}}
+.legal{{width:100%;border-top:1px solid #ffffff22;padding-top:14px;font-size:13px}}
 @media (max-width:600px){{.hoy{{display:none}}.destacada{{padding:20px}}}}
 </style></head>
 <body>
@@ -547,6 +561,8 @@ footer{{background:var(--azul);color:#cfd8e6;font-size:14px}}
   <div>Síguenos en Instagram: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">@{INSTAGRAM}</a><br>
     También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
+  <div class="legal"><a href="quienes-somos.html">Quiénes somos</a> · <a href="contacto.html">Contacto</a> ·
+    <a href="privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
 </div></footer>
 <script>
 var hoy=new Date().toLocaleDateString('es-DO',{{weekday:'long',day:'numeric',month:'long',year:'numeric'}});
@@ -572,6 +588,9 @@ def main():
     consejos = cargar(ARCHIVO_CONSEJOS)
     nuevas = buscar(guardadas)
     todas = (nuevas + guardadas)[:MAX_GUARDADAS]
+    todas = [n for n in todas if not re.search(BASURA, n["titulo"], re.I)]  # saca las viejas tipo "En Vivo"
+    for n in todas:
+        n["resumen"] = quitar_relleno(n["resumen"])
     calcular_tendencia(todas)
     elegida = elegir_para_instagram(todas)
     consejo_del_dia(todas, consejos)
