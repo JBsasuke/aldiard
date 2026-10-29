@@ -15,7 +15,8 @@ def gnews(q):
 
 FUENTES_RD = [gnews("site:" + s) for s in (
     "listindiario.com", "diariolibre.com", "elnuevodiario.com.do", "hoy.com.do",
-    "eldia.com.do", "noticiassin.com", "cdn.com.do")]
+    "eldia.com.do", "noticiassin.com", "cdn.com.do", "deultimominuto.net",
+    "elcaribe.com.do", "acento.com.do", "n.com.do", "eldinero.com.do")]
 FUENTES_USA = [gnews(q) for q in (
     "dominicanos Nueva York", "dominicanos New Jersey", "dominicanos Florida",
     "dominicanos Massachusetts", "dominicanos Pensilvania", "dominicanos Rhode Island",
@@ -24,7 +25,7 @@ FUENTES_INTER = [
     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=US&ceid=US:es-419",
     gnews("site:bbc.com/mundo"), gnews("site:cnnespanol.cnn.com"), gnews("noticias internacionales hoy")]
 FUENTES_FAMOSOS = [gnews(q) for q in (
-    "farándula dominicana", "artistas dominicanos", "famosos Hollywood",
+    "Alofoke", "farándula dominicana", "artistas dominicanos", "famosos Hollywood",
     "celebridades latinas Estados Unidos", "música urbana dominicana")]
 FUENTES_PRECIOS = [gnews(q) for q in (
     "precios combustibles República Dominicana", "precio gasolina gasoil GLP semana MICM",
@@ -36,16 +37,32 @@ SEC_RD, SEC_USA = "República Dominicana", "Dominicanos en EE.UU."
 SEC_INTER, SEC_FAMOSOS = "Internacionales", "Famosos"
 SEC_PRECIOS, SEC_JUEGOS = "Precios y combustibles", "Videojuegos"
 # sección: (fuentes, máximo de noticias nuevas por corrida, clase, color)
-# El programa corre cada hora: estos cupos dan como mucho 10 resúmenes por hora.
+# El programa corre cada hora: estos cupos dan como mucho 7 noticias nuevas por hora
+# (ahora son más largas y cuestan más de IA, por eso son menos).
 SECCIONES = {
-    SEC_RD:      (FUENTES_RD,      3, "rd", (206, 17, 38)),
-    SEC_USA:     (FUENTES_USA,     2, "us", (0, 45, 98)),
-    SEC_INTER:   (FUENTES_INTER,   2, "in", (15, 118, 110)),
+    SEC_RD:      (FUENTES_RD,      2, "rd", (206, 17, 38)),
+    SEC_USA:     (FUENTES_USA,     1, "us", (0, 45, 98)),
+    SEC_INTER:   (FUENTES_INTER,   1, "in", (15, 118, 110)),
     SEC_FAMOSOS: (FUENTES_FAMOSOS, 1, "fa", (190, 24, 93)),
     SEC_PRECIOS: (FUENTES_PRECIOS, 1, "pr", (180, 83, 9)),
     SEC_JUEGOS:  (FUENTES_JUEGOS,  1, "vj", (109, 40, 217)),
 }
 POR_FUENTE = 3          # noticias que mira de cada fuente
+
+# Solo se publican noticias de estos medios (y de Alofoke). Lo demás se descarta.
+CONFIABLES = """
+listindiario.com diariolibre.com elnuevodiario.com.do hoy.com.do eldia.com.do noticiassin.com
+cdn.com.do deultimominuto.net elcaribe.com.do acento.com.do n.com.do eldinero.com.do
+elnacional.com.do almomento.net z101digital.com ensegundos.do telemicro.com.do
+eldiariony.com ny1.com elnuevoherald.com univision.com telemundo.com telemundo47.com
+telemundoboston.com telemundonuevainglaterra.com telemundo51.com nbcnews.com apnews.com
+laopinion.com elmundo.es elpais.com efe.com swissinfo.ch bbc.com cnn.com cnnespanol.cnn.com
+reuters.com france24.com dw.com infobae.com rtve.es europapress.es lavanguardia.com abc.es
+euronews.com elespanol.com clarin.com eltiempo.com eluniversal.com.mx
+peopleenespanol.com hola.com billboard.com quien.com
+ign.com latam.ign.com 3djuegos.com vandal.elespanol.com vandal.net hobbyconsolas.com xataka.com
+as.com levelup.com eurogamer.es gamespot.com nintendo.com playstation.com xbox.com
+""".split()
 MAX_GUARDADAS = 400
 HORAS_IG = 12           # una noticia más vieja que esto ya no se sube a Instagram
 HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el consejo del día
@@ -172,26 +189,85 @@ def quitar_relleno(resumen):
     return " ".join(buenas or frases[:1])
 
 # ================= Buscar noticias =================
-def resumir(titulo, texto):
+def rotar(lista):
+    """Cada hora empieza por un medio distinto, para que no salga siempre el mismo."""
+    k = ahora().hour % len(lista)
+    return lista[k:] + lista[:k]
+
+def dominio(e):
+    d = urllib.parse.urlparse((e.get("source") or {}).get("href", "")).netloc.lower()
+    return d[4:] if d.startswith("www.") else d
+
+def es_confiable(dom):
+    return bool(dom) and ("alofoke" in dom or any(dom == c or dom.endswith("." + c) for c in CONFIABLES))
+
+def leer_articulo(link):
+    """Saca la dirección real de la noticia (Google News la esconde) y el texto del artículo."""
+    url = link
+    if "news.google.com" in link:
+        try:
+            from googlenewsdecoder import gnewsdecoder
+            r = gnewsdecoder(link, interval=1)
+            url = r.get("decoded_url") if r.get("success") else None
+        except Exception as err:
+            print("No se pudo sacar el enlace real:", err)
+            url = None
+    if not url:
+        return None, ""
+    try:
+        import trafilatura
+        bajado = trafilatura.fetch_url(url)
+        texto = ""
+        if bajado:
+            texto = trafilatura.extract(bajado, include_comments=False, include_tables=False,
+                                        favor_precision=True) or ""
+    except Exception as err:
+        print("No se pudo leer el artículo:", err)
+        texto = ""
+    return url, texto[:7000]
+
+INSTRUCCIONES = """Eres redactor de Al Día RD, un medio digital dominicano. Te paso una noticia publicada por otro medio.
+Escríbela de nuevo para nuestros lectores siguiendo estas reglas:
+- Usa tus propias palabras y tu propia estructura. No sigas el orden del original ni cambies palabras frase por frase:
+  cuéntala como se la contarías a alguien, primero lo esencial (qué pasó, quién, cuándo, dónde) y después el contexto.
+- Solo hechos que estén en el texto. No inventes, no supongas, no opines, no exageres.
+  Copia exactos los nombres, cifras y fechas.
+- Español claro y neutral, frases cortas, para público dominicano en RD y en EE.UU.
+- No menciones al medio original ni digas "según el artículo", "el texto" o "la nota".
+- Marca "confiable": false si es publicidad o contenido patrocinado, un rumor sin fuente, una columna de opinión
+  o algo sin hechos claros.
+Devuelve SOLO este JSON:
+{"confiable": true,
+ "titulo": "titular propio, distinto del original, máximo 14 palabras",
+ "resumen": "2 oraciones, máximo 260 caracteres",
+ "parrafos": ["PARRAFOS"]}"""
+
+def redactar(titulo, descripcion, articulo):
+    largo = len(articulo) >= 600
+    if largo:
+        parrafos = "3 o 4 párrafos que sumen entre 150 y 230 palabras"
+        datos = f"Titular original: {titulo}\nDescripción: {descripcion}\n\nTexto del artículo:\n{articulo}"
+    else:
+        parrafos = ("deja esta lista vacía: [], porque solo tienes el titular. En 'resumen' escribe 1 o 2 "
+                    "oraciones con lo que dice el titular, sin agregar nada, y nunca digas que falta información")
+        datos = f"Titular original: {titulo}\nDescripción: {descripcion}"
     msg = cliente().messages.create(
-        model=MODELO, max_tokens=300,
-        messages=[{"role": "user", "content":
-            "Escribe un resumen corto (2-3 oraciones) en español, con tus propias palabras, "
-            "neutral y sin inventar datos, de esta noticia. Si solo tienes el título, "
-            "escribe una o dos oraciones con lo que dice el título, sin agregar detalles. "
-            "Nunca menciones que falta información, que solo tienes el título o 'según el título'. "
-            "No copies frases textuales. Responde solo con el resumen.\n\n"
-            f"Título: {titulo}\nTexto: {texto}"}])
-    return msg.content[0].text.strip()
+        model=MODELO, max_tokens=900,
+        messages=[{"role": "user", "content": INSTRUCCIONES.replace('"PARRAFOS"', parrafos) + "\n\n" + datos}])
+    t = msg.content[0].text
+    r = json.loads(t[t.find("{"): t.rfind("}") + 1])
+    r["parrafos"] = [p.strip() for p in (r.get("parrafos") or []) if p.strip()] if largo else []
+    return r
 
 def buscar(guardadas):
-    vistos = {n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
+    vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
+              | {n.get("titulo_original", "") for n in guardadas})
     nuevas = []
     for seccion, (fuentes, cupo, _, _) in SECCIONES.items():
-        de_esta = 0
-        for url in fuentes:
+        de_esta, intentos = 0, 0
+        for url in rotar(fuentes):
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
-                if de_esta >= cupo:
+                if de_esta >= cupo or intentos >= cupo * 2:
                     break
                 fuente = e.get("source", {}).get("title", "Fuente")
                 titulo = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
@@ -200,18 +276,32 @@ def buscar(guardadas):
                     continue
                 if re.search(BASURA, titulo, re.I) or len(titulo.split()) < 4:
                     continue
+                dom = dominio(e)
+                if not es_confiable(dom):
+                    print("Fuente no confiable, se salta:", dom or fuente)
+                    continue
+                vistos.update((link, titulo))
+                intentos += 1
+                url_real, articulo = leer_articulo(link)
                 try:
-                    resumen = resumir(titulo, limpiar(e.get("summary", "")))
+                    r = redactar(titulo, limpiar(e.get("summary", "")), articulo)
                 except Exception as err:
                     print("Error IA:", err)
                     continue
+                if not r.get("confiable", True):
+                    print("La IA la descartó (rumor, opinión o publicidad):", titulo)
+                    continue
                 nuevas.append({"id": hashlib.md5(link.encode()).hexdigest()[:10],
-                               "titulo": titulo, "resumen": resumen, "link": link,
-                               "fuente": fuente, "seccion": seccion,
+                               "titulo": (r.get("titulo") or titulo).strip(), "titulo_original": titulo,
+                               "resumen": (r.get("resumen") or "").strip() or titulo,
+                               "parrafos": r["parrafos"], "link": link, "url": url_real,
+                               "fuente": fuente, "dominio": dom, "seccion": seccion,
                                "fecha": ahora().isoformat()})
-                vistos.update((link, titulo))
                 de_esta += 1
     return nuevas
+
+def enlace_fuente(n):
+    return n.get("url") or n["link"]
 
 # ================= Tendencia =================
 VACIAS = set("""sobre entre desde hasta tras para por con sin los las del una unos unas este esta estos
@@ -227,7 +317,7 @@ def _palabras(t):
 def calcular_tendencia(todas):
     """Cuántos medios distintos están hablando del mismo tema en las últimas 36 horas."""
     recientes = [n for n in todas if fecha(n) > ahora() - timedelta(hours=36)]
-    pal = {id(n): _palabras(n["titulo"]) for n in recientes}
+    pal = {id(n): _palabras(n.get("titulo_original") or n["titulo"]) for n in recientes}
     for n in recientes:
         medios = {n["fuente"]}
         for m in recientes:
@@ -250,6 +340,18 @@ def _envolver(d, texto, fuente, ancho):
         lineas.append(actual)
     return lineas
 
+def _redes(d, x, y, tam, color, fuente):
+    """Dibuja los íconos de Instagram y X y el usuario @aldiardnews."""
+    g = max(3, tam // 11)
+    d.rounded_rectangle((x, y, x + tam, y + tam), radius=int(tam * 0.3), outline=color, width=g)
+    c, r = tam / 2, tam * 0.22
+    d.ellipse((x + c - r, y + c - r, x + c + r, y + c + r), outline=color, width=g)
+    d.ellipse((x + tam * 0.70, y + tam * 0.16, x + tam * 0.84, y + tam * 0.30), fill=color)
+    x2 = x + tam + 18
+    d.line((x2 + 2, y + 2, x2 + tam - 2, y + tam - 2), fill=color, width=max(4, tam // 7))
+    d.line((x2 + tam - 4, y + 2, x2 + 4, y + tam - 2), fill=color, width=max(2, tam // 16))
+    d.text((x2 + tam + 18, y + tam / 2), "@" + INSTAGRAM, font=fuente, fill=color, anchor="lm")
+
 def _cabecera(img, d, etiqueta, color_etiqueta):
     from PIL import ImageFont
     from logo import marca
@@ -271,7 +373,7 @@ def imagen_instagram(n, ruta):
     d = ImageDraw.Draw(img)
     c = color(n["seccion"])
     _cabecera(img, d, n["seccion"].upper(), ROJO if c == AZUL else c)
-    margen, top, fondo = 70, 300, 1120
+    margen, top, fondo = 70, 290, 1090
     for tam in range(104, 40, -4):
         f_tit = ImageFont.truetype(FUENTE_NEGRA, tam)
         lineas = _envolver(d, n["titulo"], f_tit, W - 2 * margen)
@@ -283,12 +385,17 @@ def imagen_instagram(n, ruta):
         d.text((margen, y), ln, font=f_tit, fill=(20, 24, 33))
         y += alto
     d.rectangle((margen, y + 24, margen + 120, y + 36), fill=ROJO)
-    f_pie = ImageFont.truetype(FUENTE_MEDIA, 34)
-    d.line((margen, 1180, W - margen, 1180), fill=(220, 224, 232), width=3)
-    d.text((margen, 1215), "Fuente: " + n["fuente"], font=f_pie, fill=(90, 98, 112))
+    f_pie = ImageFont.truetype(FUENTE_MEDIA, 32)
+    d.line((margen, 1140, W - margen, 1140), fill=(220, 224, 232), width=3)
+    d.text((margen, 1166), "Fuente: " + n["fuente"], font=f_pie, fill=(90, 98, 112))
     f_web = ImageFont.truetype(FUENTE_FUERTE, 34)
     web = sitio_propio(n)
-    d.text((W - margen - d.textlength(web, font=f_web), 1215), web, font=f_web, fill=AZUL)
+    d.text((W - margen - d.textlength(web, font=f_web), 1164), web, font=f_web, fill=AZUL)
+    d.rectangle((0, 1240, W, H), fill=AZUL)  # franja de redes
+    _redes(d, margen, 1272, 46, BLANCO, ImageFont.truetype(FUENTE_FUERTE, 34))
+    f_seg = ImageFont.truetype(FUENTE_MEDIA, 30)
+    seg = "Síguenos"
+    d.text((W - margen - d.textlength(seg, font=f_seg), 1279), seg, font=f_seg, fill=(190, 205, 225))
     img.save(ruta, "JPEG", quality=88)
 
 def imagen_consejo(c, ruta):
@@ -325,8 +432,9 @@ def imagen_consejo(c, ruta):
     if tw > W - 2 * margen - 60:
         txt = c["sitio"]
         tw = d.textlength(txt, font=f_bot)
-    d.rounded_rectangle((margen, 1150, margen + tw + 60, 1250), radius=50, fill=BLANCO)
-    d.text((margen + 30, 1176), txt, font=f_bot, fill=fondo_c)
+    d.rounded_rectangle((margen, 1110, margen + tw + 60, 1206), radius=48, fill=BLANCO)
+    d.text((margen + 30, 1134), txt, font=f_bot, fill=fondo_c)
+    _redes(d, margen, 1258, 42, BLANCO, ImageFont.truetype(FUENTE_FUERTE, 32))
     img.save(ruta, "JPEG", quality=88)
 
 def imagen_historia(origen, ruta, etiqueta, pie):
@@ -477,29 +585,192 @@ def consejo_del_dia(todas, consejos):
     return c
 
 # ================= Página web =================
-def generar_html(todas, consejos):
-    def tarjeta(n, grande=False):
-        c = clase(n["seccion"])
-        dst = destino(n)
-        enlace = dst["url"] if dst else n["link"]
-        if dst:
-            botones = (f'<a class="directo" href="{dst["url"]}" target="_blank" rel="noopener">'
-                       f'{html.escape(dst["texto"])} en {dst["sitio"]} →</a>'
-                       f'<a class="fuente chica" href="{html.escape(n["link"])}" target="_blank" rel="noopener">'
-                       f'Fuente: {html.escape(n["fuente"])}</a>')
-        else:
-            botones = "".join(f'<a class="extra" href="{e["url"]}" target="_blank" rel="noopener">'
-                              f'{html.escape(e["texto"])} en {e["sitio"]} →</a>' for e in extras(n))
-            botones += (f'<a class="fuente" href="{html.escape(n["link"])}" target="_blank" rel="noopener">'
-                        f'Leer en {html.escape(n["fuente"])} <span aria-hidden="true">→</span></a>')
-        return f"""
+CSS = r""":root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+ --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+ --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
+:root[data-theme=dark]{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+ --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}
+a{color:inherit}
+.franja{height:5px;background:linear-gradient(90deg,var(--azul) 0 50%,var(--rojo) 50% 100%)}
+header{background:var(--blanco);border-bottom:1px solid var(--linea);position:sticky;top:0;z-index:10}
+.barra{max-width:1100px;margin:auto;padding:12px 16px;display:flex;align-items:center;gap:12px}
+.barra img{width:44px;height:44px;border-radius:10px}
+.marca{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--enlace);text-decoration:none}
+.marca span{color:var(--rojo)}
+.hoy{margin-left:auto;color:var(--gris);font-size:14px}
+.redes{display:flex;gap:8px;margin-left:12px}
+.red{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}
+.red:hover{border-color:var(--enlace);color:var(--enlace)}
+.red svg{width:18px;height:18px}
+nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
+nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
+main{max-width:1100px;margin:auto;padding:20px 16px 40px}
+.nota{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}
+.meta{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}
+.chip{font-weight:800;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--rojo)}
+.nota.us{border-top-color:var(--enlace)} .us .chip{color:var(--enlace)}
+.nota.pr{border-top-color:var(--ambar)} .pr .chip{color:var(--ambar)}
+.nota.vj{border-top-color:var(--morado)} .vj .chip{color:var(--morado)}
+.nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
+.nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
+.nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
+.nota h2 a{text-decoration:none} .nota h2 a:hover{text-decoration:underline}
+.nota p{margin:0;color:var(--texto2);line-height:1.55;font-size:15.5px}
+.fuente{margin-top:auto;padding-top:6px;font-weight:600;font-size:14px;color:var(--enlace);text-decoration:none}
+.fuente:hover{text-decoration:underline}
+.fuente.chica{font-weight:500;font-size:12.5px;color:var(--gris);padding-top:2px}
+.extra{align-self:flex-start;font-size:13.5px;font-weight:600;text-decoration:none;color:var(--extra-t);background:var(--extra-f);border:1px solid var(--extra-b);padding:6px 10px;border-radius:8px}
+.directo{margin-top:auto;align-self:flex-start;font-size:15px;font-weight:800;text-decoration:none;color:#fff;background:#157347;padding:10px 14px;border-radius:10px}
+.extra:hover,.directo:hover{text-decoration:underline}
+.destacada{padding:26px 28px;margin-bottom:18px}
+.destacada h2{font-size:clamp(24px,3.4vw,34px);font-weight:900;line-height:1.15}
+.destacada p{font-size:17px;max-width:760px}
+.consejo{border-radius:14px;padding:20px 24px;margin:0 0 18px;color:#fff;background:#0c4a6e}
+.consejo.kiloclaro{background:#146e3c}
+.cetq{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#fde68a}
+.consejo h2{margin:6px 0 4px;font-size:22px;font-weight:900}
+.consejo p{margin:0 0 12px;line-height:1.5;color:#e6f0ec;max-width:760px}
+.consejo a{display:inline-block;background:#fff;color:#0f2b20;font-weight:800;text-decoration:none;padding:9px 14px;border-radius:999px;font-size:14px}
+.rejilla{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.oculta{display:none}
+.vacio{text-align:center;color:var(--gris);padding:60px 0}
+footer{background:var(--pie);color:#cfd8e6;font-size:14px}
+.pie{max-width:1100px;margin:auto;padding:28px 16px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}
+.pie img{width:48px;height:48px;border-radius:10px}
+.pie a{color:#fff;font-weight:600}
+.legal{width:100%;border-top:1px solid #ffffff22;padding-top:14px;font-size:13px}
+@media (max-width:600px){.hoy{display:none}.redes{margin-left:auto}.destacada{padding:20px}}
+.leer{margin-top:auto;padding-top:6px;font-weight:700;font-size:14px;color:var(--enlace);text-decoration:none}
+.leer:hover{text-decoration:underline}
+.articulo{max-width:760px;margin:auto;background:var(--blanco);border:1px solid var(--linea);border-radius:16px;padding:28px 30px;border-top:5px solid var(--rojo)}
+.articulo.us{border-top-color:var(--enlace)} .articulo.pr{border-top-color:var(--ambar)} .articulo.vj{border-top-color:var(--morado)}
+.articulo.fa{border-top-color:var(--rosa)} .articulo.in{border-top-color:var(--verdeazul)}
+.articulo .us .chip,.articulo.us .chip{color:var(--enlace)} .articulo.pr .chip{color:var(--ambar)} .articulo.vj .chip{color:var(--morado)}
+.articulo.fa .chip{color:var(--rosa)} .articulo.in .chip{color:var(--verdeazul)}
+.articulo h1{font-size:clamp(26px,4vw,36px);line-height:1.15;font-weight:900;letter-spacing:-.02em;margin:10px 0 16px}
+.articulo .cuerpo p{font-size:18px;line-height:1.7;color:var(--texto2);margin:0 0 16px}
+.credito{margin-top:22px;padding-top:16px;border-top:1px solid var(--linea);font-size:14.5px;color:var(--gris)}
+.credito a{color:var(--enlace);font-weight:700}
+.compartir{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.compartir a{font-size:13.5px;font-weight:700;text-decoration:none;padding:8px 12px;border-radius:999px;border:1px solid var(--linea);color:var(--tinta)}
+.volver{display:inline-block;margin:0 0 14px;font-weight:600;color:var(--enlace);text-decoration:none}
+.relacionadas{max-width:760px;margin:26px auto 0}
+.relacionadas h3{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--gris)}
+.relacionadas a{display:block;padding:12px 0;border-bottom:1px solid var(--linea);text-decoration:none;font-weight:700}
+.relacionadas a:hover{color:var(--enlace)}
+"""
+
+REDES_HTML = """      <a class="red" href="https://instagram.com/§IG§" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
+      <a class="red" href="https://x.com/§IG§" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.3L5.3 21H2.2l7.2-8.3L2 3h6.4l4.4 5.8L17.8 3zm-1.1 16.2h1.7L7.4 4.7H5.6l11.1 14.5z"/></svg></a>
+      <button class="red" id="tema" aria-label="Cambiar entre modo claro y oscuro"></button>
+""".replace("§IG§", INSTAGRAM)
+
+JS_TEMA = r"""var raiz=document.documentElement,btn=document.getElementById('tema');
+function oscuro(){return raiz.dataset.theme?raiz.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches}
+function icono(){btn.innerHTML=oscuro()?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'}
+icono(); matchMedia('(prefers-color-scheme: dark)').addEventListener('change',icono);
+btn.onclick=function(){var t=oscuro()?'light':'dark';raiz.dataset.theme=t;try{localStorage.setItem('tema',t)}catch(e){}icono()};
+"""
+
+JS_PORTADA = r"""var hoy=new Date().toLocaleDateString('es-DO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+document.getElementById('hoy').textContent=hoy.charAt(0).toUpperCase()+hoy.slice(1);
+function hace(iso){var m=Math.round((Date.now()-new Date(iso))/60000);
+ if(m<1)return'ahora';if(m<60)return'hace '+m+' min';var h=Math.round(m/60);
+ if(h<24)return'hace '+h+(h==1?' hora':' horas');var d=Math.round(h/24);return'hace '+d+(d==1?' día':' días');}
+document.querySelectorAll('.hora').forEach(function(e){e.textContent='· '+hace(e.dataset.fecha)});
+document.querySelectorAll('nav button').forEach(function(b){b.onclick=function(){
+ document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
+ document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
+ var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+}});
+"""
+
+def cabeza(titulo, descripcion, url, imagen, extra=""):
+    return f"""<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(titulo)}</title>
+<meta name="description" content="{html.escape(descripcion)}">
+<link rel="canonical" href="{url}">
+<meta property="og:title" content="{html.escape(titulo)}">
+<meta property="og:description" content="{html.escape(descripcion)}">
+<meta property="og:image" content="{imagen}">
+<meta property="og:url" content="{url}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#002d62">
+<script>try{{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
+<link rel="icon" type="image/png" href="/img/favicon.png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>{CSS}</style>{extra}</head>
+<body>
+<div class="franja"></div>"""
+
+def encabezado(nav=""):
+    return f"""
+<header>
+  <div class="barra">
+    <img src="/img/logo-512.png" alt="">
+    <a class="marca" href="/">Al Día <span>RD</span></a>
+    <div class="hoy" id="hoy"></div>
+    <div class="redes">
+{REDES_HTML}    </div>
+  </div>{nav}
+</header>"""
+
+def pie():
+    return f"""
+<footer><div class="pie">
+  <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
+    <div>Noticias contadas con nuestras propias palabras a partir de medios confiables.<br>Cada noticia lleva el crédito y el enlace a su fuente original.</div></div>
+  <div>Síguenos: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
+    También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
+    <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
+  <div class="legal"><a href="/quienes-somos.html">Quiénes somos</a> · <a href="/contacto.html">Contacto</a> ·
+    <a href="/privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
+</div></footer>"""
+
+def pagina_nota(n):
+    return f"/n/{n['id']}.html"
+
+def botones_propios(n):
+    dst = destino(n)
+    if dst:
+        return (f'<a class="directo" href="{dst["url"]}" target="_blank" rel="noopener">'
+                f'{html.escape(dst["texto"])} en {dst["sitio"]} →</a>')
+    return "".join(f'<a class="extra" href="{e["url"]}" target="_blank" rel="noopener">'
+                   f'{html.escape(e["texto"])} en {e["sitio"]} →</a>' for e in extras(n))
+
+def tarjeta(n, grande=False):
+    c = clase(n["seccion"])
+    dst = destino(n)
+    fuente = html.escape(enlace_fuente(n))
+    if n.get("parrafos"):  # tiene su propia página en aldiard.com
+        enlace, nueva = pagina_nota(n), ""
+        cierre = (f'<a class="leer" href="{enlace}">Leer la noticia completa →</a>'
+                  f'<a class="fuente chica" href="{fuente}" target="_blank" rel="noopener">Fuente: {html.escape(n["fuente"])}</a>')
+    elif dst:
+        enlace, nueva = dst["url"], ' target="_blank" rel="noopener"'
+        cierre = f'<a class="fuente chica" href="{fuente}" target="_blank" rel="noopener">Fuente: {html.escape(n["fuente"])}</a>'
+    else:
+        enlace, nueva = enlace_fuente(n), ' target="_blank" rel="noopener"'
+        cierre = (f'<a class="fuente" href="{fuente}" target="_blank" rel="noopener">'
+                  f'Leer en {html.escape(n["fuente"])} <span aria-hidden="true">→</span></a>')
+    return f"""
 <article class="nota {c}{' destacada' if grande else ''}" data-sec="{c}">
   <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span></div>
-  <h2><a href="{html.escape(enlace)}" target="_blank" rel="noopener">{html.escape(n['titulo'])}</a></h2>
+  <h2><a href="{html.escape(enlace)}"{nueva}>{html.escape(n['titulo'])}</a></h2>
   <p>{html.escape(n['resumen'])}</p>
-  {botones}
+  {botones_propios(n)}{cierre}
 </article>"""
+
+def generar_portada(todas, consejos):
     hoy = ahora().astimezone(HORA_RD).date().isoformat()
     con = next((c for c in reversed(consejos) if c["fecha"] == hoy), None)
     bloque_consejo = ""
@@ -517,131 +788,75 @@ def generar_html(todas, consejos):
                   + "".join(tarjeta(n) for n in lista[1:]) + "</div>")
     else:
         cuerpo = bloque_consejo + "<p class='vacio'>Pronto tendremos noticias aquí.</p>"
-    botones_nav = "".join(
+    nav = ('\n  <nav><button data-f="todas" aria-pressed="true">Todas</button>' + "".join(
         f'<button data-f="{cl}" aria-pressed="false">{html.escape(nombre)}</button>'
-        for nombre, (_, _, cl, _) in SECCIONES.items())
-    pagina = f"""<!DOCTYPE html>
-<html lang="es"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Al Día RD · Noticias de RD y de los dominicanos en EE.UU.</title>
-<meta name="description" content="Resúmenes de noticias de República Dominicana, de los dominicanos en Estados Unidos y del mundo, con enlace a la fuente original.">
-<meta property="og:title" content="Al Día RD">
-<meta property="og:description" content="Noticias de República Dominicana y de los dominicanos en EE.UU.">
-<meta property="og:image" content="{SITIO}/img/logo-512.png">
-<meta property="og:url" content="{SITIO}">
-<meta name="theme-color" content="#002d62">
-<script>try{{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
-<link rel="icon" type="image/png" href="img/favicon.png">
-<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap" rel="stylesheet">
-<style>
-:root{{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
- --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}}
-@media (prefers-color-scheme:dark){{:root:not([data-theme=light]){{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
- --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}}}
-:root[data-theme=dark]{{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
- --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
-*{{box-sizing:border-box}}
-body{{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}}
-a{{color:inherit}}
-.franja{{height:5px;background:linear-gradient(90deg,var(--azul) 0 50%,var(--rojo) 50% 100%)}}
-header{{background:var(--blanco);border-bottom:1px solid var(--linea);position:sticky;top:0;z-index:10}}
-.barra{{max-width:1100px;margin:auto;padding:12px 16px;display:flex;align-items:center;gap:12px}}
-.barra img{{width:44px;height:44px;border-radius:10px}}
-.marca{{font-weight:900;font-size:22px;letter-spacing:-.02em;color:var(--enlace);text-decoration:none}}
-.marca span{{color:var(--rojo)}}
-.hoy{{margin-left:auto;color:var(--gris);font-size:14px}}
-.redes{{display:flex;gap:8px;margin-left:12px}}
-.red{{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}}
-.red:hover{{border-color:var(--enlace);color:var(--enlace)}}
-.red svg{{width:18px;height:18px}}
-nav{{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}}
-nav button{{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}}
-nav button[aria-pressed=true]{{background:var(--azul);border-color:var(--enlace);color:#fff}}
-main{{max-width:1100px;margin:auto;padding:20px 16px 40px}}
-.nota{{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}}
-.meta{{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}}
-.chip{{font-weight:800;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--rojo)}}
-.nota.us{{border-top-color:var(--enlace)}} .us .chip{{color:var(--enlace)}}
-.nota.pr{{border-top-color:var(--ambar)}} .pr .chip{{color:var(--ambar)}}
-.nota.vj{{border-top-color:var(--morado)}} .vj .chip{{color:var(--morado)}}
-.nota.fa{{border-top-color:var(--rosa)}} .fa .chip{{color:var(--rosa)}}
-.nota.in{{border-top-color:var(--verdeazul)}} .in .chip{{color:var(--verdeazul)}}
-.nota h2{{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}}
-.nota h2 a{{text-decoration:none}} .nota h2 a:hover{{text-decoration:underline}}
-.nota p{{margin:0;color:var(--texto2);line-height:1.55;font-size:15.5px}}
-.fuente{{margin-top:auto;padding-top:6px;font-weight:600;font-size:14px;color:var(--enlace);text-decoration:none}}
-.fuente:hover{{text-decoration:underline}}
-.fuente.chica{{font-weight:500;font-size:12.5px;color:var(--gris);padding-top:2px}}
-.extra{{align-self:flex-start;font-size:13.5px;font-weight:600;text-decoration:none;color:var(--extra-t);background:var(--extra-f);border:1px solid var(--extra-b);padding:6px 10px;border-radius:8px}}
-.directo{{margin-top:auto;align-self:flex-start;font-size:15px;font-weight:800;text-decoration:none;color:#fff;background:#157347;padding:10px 14px;border-radius:10px}}
-.extra:hover,.directo:hover{{text-decoration:underline}}
-.destacada{{padding:26px 28px;margin-bottom:18px}}
-.destacada h2{{font-size:clamp(24px,3.4vw,34px);font-weight:900;line-height:1.15}}
-.destacada p{{font-size:17px;max-width:760px}}
-.consejo{{border-radius:14px;padding:20px 24px;margin:0 0 18px;color:#fff;background:#0c4a6e}}
-.consejo.kiloclaro{{background:#146e3c}}
-.cetq{{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#fde68a}}
-.consejo h2{{margin:6px 0 4px;font-size:22px;font-weight:900}}
-.consejo p{{margin:0 0 12px;line-height:1.5;color:#e6f0ec;max-width:760px}}
-.consejo a{{display:inline-block;background:#fff;color:#0f2b20;font-weight:800;text-decoration:none;padding:9px 14px;border-radius:999px;font-size:14px}}
-.rejilla{{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}}
-.oculta{{display:none}}
-.vacio{{text-align:center;color:var(--gris);padding:60px 0}}
-footer{{background:var(--pie);color:#cfd8e6;font-size:14px}}
-.pie{{max-width:1100px;margin:auto;padding:28px 16px;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:space-between}}
-.pie img{{width:48px;height:48px;border-radius:10px}}
-.pie a{{color:#fff;font-weight:600}}
-.legal{{width:100%;border-top:1px solid #ffffff22;padding-top:14px;font-size:13px}}
-@media (max-width:600px){{.hoy{{display:none}}.redes{{margin-left:auto}}.destacada{{padding:20px}}}}
-</style></head>
-<body>
-<div class="franja"></div>
-<header>
-  <div class="barra">
-    <img src="img/logo-512.png" alt="">
-    <a class="marca" href="./">Al Día <span>RD</span></a>
-    <div class="hoy" id="hoy"></div>
-    <div class="redes">
-      <a class="red" href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg></a>
-      <a class="red" href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.8 3h3.1l-6.8 7.7L22 21h-6.2l-4.9-6.3L5.3 21H2.2l7.2-8.3L2 3h6.4l4.4 5.8L17.8 3zm-1.1 16.2h1.7L7.4 4.7H5.6l11.1 14.5z"/></svg></a>
-      <button class="red" id="tema" aria-label="Cambiar entre modo claro y oscuro"></button>
-    </div>
-  </div>
-  <nav><button data-f="todas" aria-pressed="true">Todas</button>{botones_nav}</nav>
-</header>
-<main>{cuerpo}</main>
-<footer><div class="pie">
-  <div style="display:flex;gap:12px;align-items:center"><img src="img/logo-512.png" alt="">
-    <div>Resúmenes propios hechos a partir de las noticias de cada medio.<br>Cada noticia enlaza a su fuente original.</div></div>
-  <div>Síguenos: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
-    También: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
-    <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
-  <div class="legal"><a href="quienes-somos.html">Quiénes somos</a> · <a href="contacto.html">Contacto</a> ·
-    <a href="privacidad.html">Política de privacidad</a> · aldiardnoticias@gmail.com</div>
-</div></footer>
-<script>
-var raiz=document.documentElement,btn=document.getElementById('tema');
-function oscuro(){{return raiz.dataset.theme?raiz.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches}}
-function icono(){{btn.innerHTML=oscuro()?'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>':'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'}}
-icono(); matchMedia('(prefers-color-scheme: dark)').addEventListener('change',icono);
-btn.onclick=function(){{var t=oscuro()?'light':'dark';raiz.dataset.theme=t;try{{localStorage.setItem('tema',t)}}catch(e){{}}icono()}};
-var hoy=new Date().toLocaleDateString('es-DO',{{weekday:'long',day:'numeric',month:'long',year:'numeric'}});
-document.getElementById('hoy').textContent=hoy.charAt(0).toUpperCase()+hoy.slice(1);
-function hace(iso){{var m=Math.round((Date.now()-new Date(iso))/60000);
- if(m<1)return'ahora';if(m<60)return'hace '+m+' min';var h=Math.round(m/60);
- if(h<24)return'hace '+h+(h==1?' hora':' horas');var d=Math.round(h/24);return'hace '+d+(d==1?' día':' días');}}
-document.querySelectorAll('.hora').forEach(function(e){{e.textContent='· '+hace(e.dataset.fecha)}});
-document.querySelectorAll('nav button').forEach(function(b){{b.onclick=function(){{
- document.querySelectorAll('nav button').forEach(function(x){{x.setAttribute('aria-pressed',x===b)}});
- document.querySelectorAll('.nota').forEach(function(n){{n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)}});
- var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
-}}}});
-</script>
-</body></html>"""
+        for nombre, (_, _, cl, _) in SECCIONES.items()) + "</nav>")
+    pagina = (cabeza("Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
+                     "Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, "
+                     "famosos, precios y videojuegos, contadas de forma clara y con su fuente.",
+                     SITIO + "/", SITIO + "/img/logo-512.png")
+              + encabezado(nav) + f"\n<main>{cuerpo}</main>" + pie()
+              + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(pagina)
+
+def generar_notas(todas):
+    """Una página propia para cada noticia larga: docs/n/<id>.html"""
+    os.makedirs("docs/n", exist_ok=True)
+    con_pagina = [n for n in todas if n.get("parrafos")]
+    for n in con_pagina:
+        c = clase(n["seccion"])
+        url = SITIO + pagina_nota(n)
+        img = SITIO + "/" + n["ig_img"] if n.get("ig_img") else SITIO + "/img/logo-512.png"
+        cuerpo = "".join(f"<p>{html.escape(p)}</p>" for p in n["parrafos"])
+        relacionadas = [m for m in con_pagina if m is not n and m["seccion"] == n["seccion"]][:5]
+        rel = "".join(f'<a href="{pagina_nota(m)}">{html.escape(m["titulo"])}</a>' for m in relacionadas)
+        q = urllib.parse.quote
+        ld = json.dumps({"@context": "https://schema.org", "@type": "NewsArticle", "headline": n["titulo"][:110],
+                         "datePublished": n["fecha"], "image": [img], "mainEntityOfPage": url,
+                         "publisher": {"@type": "Organization", "name": "Al Día RD",
+                                       "logo": {"@type": "ImageObject", "url": SITIO + "/img/logo-512.png"}}},
+                        ensure_ascii=False)
+        pagina = (cabeza(n["titulo"] + " · Al Día RD", n["resumen"], url, img,
+                         f'\n<script type="application/ld+json">{ld}</script>')
+                  + encabezado() + f"""
+<main>
+<a class="volver" href="/">← Todas las noticias</a>
+<article class="articulo {c}">
+  <div class="meta"><span class="chip">{html.escape(n['seccion'])}</span>
+    <span class="hora" data-fecha="{n['fecha']}"></span></div>
+  <h1>{html.escape(n['titulo'])}</h1>
+  <div class="cuerpo">{cuerpo}</div>
+  {botones_propios(n)}
+  <div class="credito">Fuente: {html.escape(n['fuente'])} ·
+    <a href="{html.escape(enlace_fuente(n))}" target="_blank" rel="noopener">Lee la noticia original →</a></div>
+  <div class="compartir">
+    <a href="https://wa.me/?text={q(n['titulo'] + ' ' + url)}" target="_blank" rel="noopener">Compartir en WhatsApp</a>
+    <a href="https://x.com/intent/post?text={q(n['titulo'])}&url={q(url)}" target="_blank" rel="noopener">Compartir en X</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u={q(url)}" target="_blank" rel="noopener">Compartir en Facebook</a>
+  </div>
+</article>
+{('<section class="relacionadas"><h3>Más de ' + html.escape(n['seccion']) + '</h3>' + rel + '</section>') if rel else ''}
+</main>""" + pie() + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
+        with open(f"docs/n/{n['id']}.html", "w", encoding="utf-8") as f:
+            f.write(pagina)
+    vigentes = {f"{n['id']}.html" for n in con_pagina}
+    for archivo in os.listdir("docs/n"):
+        if archivo not in vigentes:
+            os.remove(os.path.join("docs/n", archivo))
+
+def generar_sitemap(todas):
+    urls = [SITIO + "/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
+    urls += [SITIO + pagina_nota(n) for n in todas if n.get("parrafos")]
+    with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
+        f.write("".join(f"  <url><loc>{u}</loc></url>\n" for u in urls))
+        f.write("</urlset>\n")
+
+def generar_html(todas, consejos):
+    generar_portada(todas, consejos)
+    generar_notas(todas)
+    generar_sitemap(todas)
 
 # ================= Principal =================
 def main():

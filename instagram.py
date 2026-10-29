@@ -50,12 +50,15 @@ def texto_noticia(n):
         t += f"👉 {dst['texto']}: {dst['sitio']}\n"
     for e in extras(n):
         t += f"👉 {e['texto']}: {e['sitio']}\n"
-    t += f"Fuente: {n['fuente']}\nMás noticias en aldiard.com (enlace en la bio)\n\n"
+    if n.get("parrafos"):
+        t += f"📲 Lee la noticia completa en aldiard.com (enlace en la bio)\nFuente: {n['fuente']}\n\n"
+    else:
+        t += f"Fuente: {n['fuente']}\nMás noticias en aldiard.com (enlace en la bio)\n\n"
     return (t + HASHTAGS.get(n["seccion"], HASHTAGS_RD))[:2200]
 
 def texto_consejo(c):
     t = f"💡 Consejo del día: {c['titulo']}\n\n{c['texto']}\n\n👉 {c['boton']} en {c['sitio']}\n\n"
-    t += "#AlDíaRD #ConsejoDelDía " + ("#AhorraLuz #KiloClaro" if c["tema"] == "kiloclaro" else "#DivisasRD #Dólar #Remesas")
+    t += "Síguenos en Instagram y X: @aldiardnews\n\n#AlDíaRD #ConsejoDelDía " + ("#AhorraLuz #KiloClaro" if c["tema"] == "kiloclaro" else "#DivisasRD #Dólar #Remesas")
     return t
 
 def publicar(ig_img, clave, caption, historia=False):
