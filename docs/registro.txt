@@ -1,110 +1,58 @@
-Corrida: 2026-10-29 07:04 PM (hora RD)
+Corrida: 2026-10-29 07:14 PM (hora RD)
 Modo llenado: hay menos de 15 noticias largas, se busca el doble esta hora.
 [República Dominicana] De Último Minuto: texto leído 1912 letras -> https://deultimominuto.com/internacionales/panama-se-ofrece-para-albergar/
-[República Dominicana] EFE - Agencia de noticias: texto leído 1767 letras -> https://efe.com/mundo/2026-10-29/panama-estados-unidos-cuba-dialogo/
-Error IA: ValueError('respuesta sin el formato esperado: ')
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] EFE - Agencia de noticias: texto leído 0 letras -> https://efe.com/mundo/2026-10-29/panama-estados-unidos-cuba-dialogo/
+Cambiada de sección: República Dominicana -> Internacionales: Panamá se ofrece para albergar un diálogo entre Estados Unidos y Cuba
 [República Dominicana] De Último Minuto: texto leído 2138 letras -> https://deultimominuto.com/deportes/beisbol/cerveceros-celebraran-su-historico-campeonato-con-desfile-este-viernes-en-milwaukee/
-Error IA: ValueError('respuesta sin el formato esperado: ')
+Cambiada de sección: República Dominicana -> Internacionales: Cerveceros celebrarán su histórico campeonato con desfile este viernes
 [República Dominicana] De Último Minuto: texto leído 2974 letras -> https://deultimominuto.com/nacionales/abodom-fertilizantes-apoya-tabaco/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ABODOM Fertilizantes patrocina los sectores de tabaco y café en los premios de la ADHA
 [República Dominicana] De Último Minuto: texto leído 2299 letras -> https://deultimominuto.com/internacionales/kamala-harris-pide-votar-contra/
-Error IA: ValueError('respuesta sin el formato esperado: ')
+Cambiada de sección: República Dominicana -> Dominicanos en EE.UU.: Kamala Harris pide votar contra la «tiranía» de Trump en la recta final de la campaña
 [República Dominicana] De Último Minuto: texto leído 2028 letras -> https://deultimominuto.com/nacionales/combustibles-ilegales-sfm/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[República Dominicana] De Último Minuto: texto leído 1705 letras -> https://deultimominuto.com/nacionales/derechos-humanos-2/
-[República Dominicana] El Nuevo Diario: texto leído 1418 letras -> https://elnuevodiario.com.do/presidente-cndh-rd-respalda-querella-contra-director-pn-por-presuntas-ejecuciones/
-[República Dominicana] Noticias SIN: texto leído 2947 letras -> https://noticiassin.com/pais/nacional/2026/10/29/comision-de-derechos-humanos-respalda-querella-contra-director-de-la-policia-por-presuntas-ejecuciones-extrajudiciales-2157951/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[República Dominicana] De Último Minuto: texto leído 2148 letras -> https://deultimominuto.com/entretenimiento/el-conjunto-quisqueya-4/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[República Dominicana] De Último Minuto: texto leído 1584 letras -> https://deultimominuto.com/nacionales/jarabacoa-reconoce-trayectoria/
-Salió corta (2 párrafos, 66 palabras, 1584 letras leídas); se oculta: Jarabacoa reconoce trayectoria del locutor Luis Manuel Abreu
+Cambiada de sección: República Dominicana -> Precios y combustibles: Autoridades desmantelan centro clandestino de combustibles en San Francisco de Macorís
 [Dominicanos en EE.UU.] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/usa/actualidad/2026/10/29/candidatos-dominicanos-en-elecciones-de-estados-unidos/3704864
-Error IA: ValueError('respuesta sin el formato esperado: ')
 Fuente no confiable, se salta: primicias.net
-Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 3658 letras -> https://almomento.net/ny-pide-gobierno-facilite-a-jce-recursos-garanticen-cedulacion/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: elsoldelaflorida.com
-Fuente no confiable, se salta: cubainformacion.tv
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 5337 letras -> https://elnuevodiario.com.do/esto-es-un-hito-un-antes-y-un-despues-dominicano-crea-en-el-bronx-el-mural-mas-alto-de-ee-uu/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/beisbol/grandes-ligas/estados-unidos-vence-a-puerto-rico-y-rd-cae-ante-venezuela/
-No se pudo leer el artículo; no se publica para no salir corta: Estados Unidos vence a Puerto Rico y RD cae ante Venezuela
 Fuente no confiable, se salta: nmas.com.mx
 Fuente no confiable, se salta: heraldodemexico.com.mx
 Fuente no confiable, se salta: noticiasrcn.com
 Fuente no confiable, se salta: retodiario.com
 Fuente no confiable, se salta: es-us.noticias.yahoo.com
-Fuente no confiable, se salta: sportingnews.com
+Fuente no confiable, se salta: teletica.com
 Fuente no confiable, se salta: unotv.com
 Fuente no confiable, se salta: diariobitcoin.com
-Fuente no confiable, se salta: nytimes.com
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Internacionales] The New York Times: texto leído 0 letras -> https://www.nytimes.com/es/2026/10/29/espanol/america-latina/lula-brasil-elecciones-whatsapp.html
+[Internacionales] Clarin.com: texto leído 7000 letras -> https://www.clarin.com/new-york-times-international-weekly/congresista-lidero-ejercito-digital-ayudo-triunfo-lula_0_56auh7msDP.html
+Fuente no confiable, se salta: cibercuba.com
 Fuente no confiable, se salta: cibercuba.com
 [Internacionales] Infobae: texto leído 4528 letras -> https://www.infobae.com/america/mundo/2026/10/28/pagaron-para-vivir-viajando-por-el-mundo-pero-quedaron-varados-en-camboya-cuando-el-crucero-se-quedo-sin-dinero-para-el-combustible/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: cibercuba.com
-[Internacionales] CNN en Español: texto leído 7000 letras -> https://cnnespanol.cnn.com/2026/10/28/mundo/viajar-sin-tomar-aviones-trax
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[Internacionales] CNN en Español: texto leído 3998 letras -> https://cnnespanol.cnn.com/2026/10/29/venezuela/delcy-rodriguez-maria-corina-machado-discursos-venezuela-orix
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: latribuna.hn
-[Internacionales] BBC: texto leído 6929 letras -> https://www.bbc.com/mundo/articles/cj62y4eq3d26o
-Error IA: ValueError('respuesta sin el formato esperado: ')
+[Internacionales] El Tiempo: texto leído 2633 letras -> https://www.eltiempo.com/amp/mundo/mas-de-200-pasajeros-de-un-crucero-de-lujo-quedaron-varados-en-camboya-por-el-aumento-del-precio-del-combustible-3597244
 Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: laprensagrafica.com
-Fuente no confiable, se salta: elsiglo.com.pa
-Fuente no confiable, se salta: extra.ec
-[Famosos] Diario Libre: texto leído 1919 letras -> https://www.diariolibre.com/revista/cultura/2026/10/29/miriam-cruz-presenta-licor-morir-sonando-con-chocolate-pistacho/3704867
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Miriam Cruz presenta su licor Morir Soñando con sabor a chocolate y pistacho
+[Famosos] Diario Libre: texto leído 2465 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/29/llevan-a-jimani-cinco-helicopteros-fuerza-aerea-salvadorena/3705175
+Cambiada de sección: Famosos -> República Dominicana: Llevan a Jimaní los cinco helicópteros de combate salvadores que usarán en operación en Haití
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/farandula/actriz-nominada-al-oscar-pone-fin-a-su-vida-mediante-muerte-asistida-a-los-95-anos-20261029-0024.html
+No se pudo leer el artículo; no se publica para no salir corta: Actriz nominada al Óscar pone fin a su vida mediante muerte asistida a los 95 años
 [Famosos] Diario Libre: texto leído 3530 letras -> https://www.diariolibre.com/revista/sociales/2026/10/29/q-prro-wey-llega-al-pais/3705077
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El mercado del estilismo dominicano se expande con nuevas propuestas
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: baijing.cn
-[Famosos] El Nuevo Diario: texto leído 1951 letras -> https://elnuevodiario.com.do/gloria-trevi-sera-la-artista-oro-de-heat-latin-music-awards-al-estilo-jalisco/
-[Famosos] Billboard: texto leído 3083 letras -> https://www.billboard.com/espanol/noticias/gloria-trevi-artista-oro-premios-heat-2026-1236370296/
-[Famosos] Diario Libre: texto leído 2932 letras -> https://www.diariolibre.com/revista/musica/2026/10/29/gloria-trevi-es-nombrada-artista-oro-en-los-heat-latin-music-awards/3704994
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[Famosos] Acento: texto leído 3289 letras -> https://acento.com.do/cultura/banreservas-otorga-becas-de-residencia-artistica-en-paris-a-dos-creadores-dominicanos-9780374.html
-Cambiada de sección: Famosos -> República Dominicana: Banreservas otorga becas de residencia artística en París a dos creadores dominicanos
-Salió corta (0 párrafos, 0 palabras, 3289 letras leídas); se oculta: Banreservas otorga becas de residencia artística en París a dos creadores dominicanos
-Fuente no confiable, se salta: presidencia.gob.do
+[Famosos] Diario Libre: texto leído 3009 letras -> https://www.diariolibre.com/actualidad/justicia/2026/10/29/republica-dominicana-ante-transformacion-tecnologica-significativa/3704554
+Cambiada de sección: Famosos -> República Dominicana: Raquel Peña: RD está a las puertas de una transformación tecnológica sin precedentes
+[Precios y combustibles] Presidencia de la República Dominicana: texto leído 4552 letras -> https://presidencia.gob.do/noticias/presidente-de-la-asociacion-dominicana-de-hacendados-y-agricultores-destaca
+[Precios y combustibles] El Nuevo Diario: texto leído 3062 letras -> https://elnuevodiario.com.do/hacendados-destacan-financiamientos-por-mas-de-rd25000-millones-al-sector-agropecuario-en-2025/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Presidente de la Asociación Dominicana de Hacendados y Agricultores destaca financiamientos del Gobierno por más de RD 25,000 millones a favor de más de 19,000 productores en 2025
 [Precios y combustibles] Ensegundos.do: texto leído 1762 letras -> https://ensegundos.do/2026/10/29/pro-consumidor-sobre-los-pollos-en-navidad/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: ecosistemastartup.com
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 2361 letras -> https://elnacional.com.do/economia/evangelicos-piden-dgii-revisar-aumento-marbete-impacto-economias-familiares_584834.html
-[Precios y combustibles] Z Digital: texto leído 2054 letras -> https://z101digital.com/codue-pide-a-la-dgii-revisar-aumento-del-marbete-por-impacto-en-el-bolsillo-de-las-familias/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-[Precios y combustibles] Hoy Digital: texto leído 931 letras -> https://hoy.com.do/economia/dolar-hoy-29-10-2026-republica-dominicana-tasa-compra-venta_1107096.html
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: pokemon.com
+[Videojuegos] Pokemon.com: texto leído 1577 letras -> https://www.pokemon.com/es/noticias/leyendas-pokemon-z-a-nintendo-switch-2-edition-megadimension-ya-disponible
 Fuente no confiable, se salta: nintenderos.com
 Fuente no confiable, se salta: nintenduo.com
 [Videojuegos] Infobae: texto leído 3848 letras -> https://www.infobae.com/malditos-nerds/2026/10/29/fromsoftware-retrasa-the-duskbloods-para-nintendo-switch-2-hasta-2027/
 [Videojuegos] LEVELUP: texto leído 4002 letras -> https://www.levelup.com/noticias/uno-de-los-exclusivos-mas-esperados-para-switch-2-se-retrasa-a-ultima-hora-y-los-jugadores-de-nintendo-deberan-esperar-hasta-2027-para-disfrutarlo/
 [Videojuegos] Vandal: texto leído 0 letras -> https://vandal.elespanol.com/noticia-amp/2026302025/se-confirma-el-retraso-en-the-duskbloods-el-nuevo-juego-de-fromsfotware-para-switch-2-no-llegara-este-ano/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: notebookcheck.org
-Fuente no confiable, se salta: fomoera.com
-Fuente no confiable, se salta: fayerwayer.com
-Fuente no confiable, se salta: ixbt.games
-[Videojuegos] Infobae: texto leído 5112 letras -> https://www.infobae.com/tecno/2026/10/29/xbox-cae-un-14-en-ventas-de-consolas-y-pierde-ingresos-por-game-pass-resultados-financieros/
-[Videojuegos] Vandal: texto leído 2378 letras -> https://vandal.elespanol.com/noticia/2026302004/malos-resultados-para-xbox-las-ventas-de-consolas-siguen-cayendo-y-game-pass-tambien-pierde-ingresos/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: 3djuegos.com.mx
-Fuente no confiable, se salta: hardwarepremium.com
-Fuente no confiable, se salta: microsoft.com
-[Videojuegos] LEVELUP: texto leído 4337 letras -> https://www.levelup.com/noticias/fans-de-xbox-estan-contentos-con-la-exclusividad-de-gears-of-war-e-day-pero-analista-afirma-que-no-ha-tenido-un-impacto-positivo-y-pone-en-duda-el-futuro-de-la-marca/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-Fuente no confiable, se salta: cadenapolitica.com
-Fuente no confiable, se salta: reporteindigo.com
-Fuente no confiable, se salta: youtu.be
-Fuente no confiable, se salta: es.gizmodo.com
-[Videojuegos] Vandal: texto leído 2435 letras -> https://vandal.elespanol.com/noticia/2026302038/nuevo-gameplay-de-gta-6-el-enorme-mapa-de-leonida-y-cuanto-tardaras-en-descargarlo-todo-en-nuestro-video/
-Error IA: ValueError('respuesta sin el formato esperado: ')
-3 noticias nuevas, 77 en total
-RESUMEN DE LA CORRIDA: ya vistas: 33 · ya cubiertas: 15 · no confiables: 41 · opinión: 0 · con texto leído: 34 · sin texto: 2 · medios juntados: 0 · error IA: 21 · descartadas por la IA: 3 · cambiadas de sección: 1 · largas: 0 · ocultas (cortas): 3
+15 noticias nuevas, 92 en total
+RESUMEN DE LA CORRIDA: ya vistas: 10 · ya cubiertas: 5 · no confiables: 17 · opinión: 0 · con texto leído: 19 · sin texto: 4 · medios juntados: 6 · error IA: 0 · descartadas por la IA: 2 · cambiadas de sección: 7 · largas: 14 · ocultas (cortas): 1
+Para Instagram (tendencia 4): FromSoftware retrasa The Duskbloods para Switch 2 hasta 2027
