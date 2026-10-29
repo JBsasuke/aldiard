@@ -51,7 +51,7 @@ SECCIONES = {
     SEC_PRECIOS: (FUENTES_PRECIOS, 1, "pr", (180, 83, 9)),
     SEC_JUEGOS:  (FUENTES_JUEGOS,  1, "vj", (109, 40, 217)),
 }
-POR_FUENTE = 3          # noticias que mira de cada fuente
+POR_FUENTE = 10         # noticias que mira de cada fuente (mirar no cuesta IA; solo las escogidas)
 
 # Solo se publican noticias de estos medios (y de Alofoke). Lo demás se descarta.
 CONFIABLES = """
@@ -78,7 +78,8 @@ ARCHIVO_CONSEJOS = "docs/consejos.json"
 
 # Títulos que no son noticias de verdad (se saltan)
 BASURA = (r"^en vivo\b|\ben vivo -|gu[ií]a deportiva|resultados de (las )?loter|"
-          r"loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada|\(opini[oó]n\)|\| noticias de|^noticias de ")
+          r"loter[ií]as? (de|del) hoy|^hor[oó]scopo|^portada|\(opini[oó]n\)|\|\s*noticias\b|^noticias de |"
+          r"^agenda del d[ií]a|^[uú]ltimas noticias|^lo m[aá]s le[ií]do|^titulares (de|del)|^resumen (de noticias|semanal)")
 MAX_MEDIOS = 3          # una noticia junta hasta 3 medios que cuentan lo mismo
 MIN_PARRAFOS = 3        # solo se publican las noticias con al menos 3 párrafos (las cortas se ocultan)
 MIN_PALABRAS = 90         # la de "El Guachi" tiene 101 y sirve de ejemplo
@@ -404,8 +405,9 @@ CUENTA = {"ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
               | {n.get("titulo_original", "") for n in guardadas})
+    # noticias ya publicadas (no cuentan las ocultas: si un periódico no dejó leerla, se intenta con otro)
     recientes = [n.get("titulo_original") or n["titulo"] for n in guardadas
-                 if fecha(n) > ahora() - timedelta(hours=30)]
+                 if fecha(n) > ahora() - timedelta(hours=30) and not n.get("oculta")]
     nuevas = []
     llenar = len(visibles(guardadas)) < LLENAR_HASTA
     if llenar:
