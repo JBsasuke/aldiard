@@ -1,73 +1,84 @@
-Corrida: 2026-10-29 08:16 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2861 letras -> https://presidencia.gob.do/noticias/indomet-pronostica-aguaceros-tormentas-electricas-y-rafagas-de-viento-en-varias-regiones
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/indomet-pronostica-aguaceros-y-tormentas-electricas-en-varias-provincias/
-[República Dominicana] Infobae: texto leído 4156 letras -> https://www.infobae.com/republica-dominicana/2026/10/29/instituto-dominicano-de-meteorologia-preve-aguaceros-fuertes-y-tormentas-en-varias-regiones/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Infobae
-Revisión: corregida (eliminé la frase "el tiempo seguirá favorable" por ser redundante con las condiciones descritas, quité la atr
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2600 letras -> https://presidencia.gob.do/noticias/ministerio-de-deportes-inicia-construccion-de-moderno-estadio-de-beisbol-en-consuelo
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "Esperado por años, la obra ya tiene fecha de arranque" del gancho porque la fuente no menciona fecha
+Corrida: 2026-10-29 10:40 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2643 letras -> https://presidencia.gob.do/en
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
-[República Dominicana] centralnoticias.gob.do: texto leído 3877 letras -> https://centralnoticias.gob.do/senador-franklin-romero-somete-proyecto-ley-para-proteccion-y-fomento-produccion-de-arroz/
-[República Dominicana] Hoy Digital: texto leído 3973 letras -> https://hoy.com.do/el-pais/senador-somete-proyecto-ley-proteccion-fomento-produccion-nacional-arroz_1107100.html
-[República Dominicana] El Nuevo Diario: texto leído 2194 letras -> https://elnuevodiario.com.do/franklin-romero-somete-proyecto-de-ley-para-proteger-la-produccion-nacional-de-arroz/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: Hoy Digital
-Revisión: corregida (quité la atribución "Según los reportes" que no aparece en las fuentes y corregí "sometió ante el Senado" a "
+[República Dominicana] Servicio Nacional de Salud – SNS: texto leído 1731 letras -> https://sns.gob.do/
+Fuente oficial encontrada: Servicio Nacional de Salud – SNS 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Inicio - Servicio Nacional de Salud
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/tribunal-condena-conductor-causo-accidente-que-provoco-cinco-muertes-en-autopista-6-de-noviembre/
+[República Dominicana] AlMomento.net: texto leído 2282 letras -> https://almomento.net/condenan-conductor-provoco-accidente-dejo-cinco-muertos/
+[República Dominicana] Listin Diario: texto leído 3203 letras -> https://listindiario.com/la-republica/justicia/20261029/tres-anos-prision-conductor-camion-accidente-dejo-cinco-muertos_928104/amp.html
+Revisión: corregida (corregí el gancho que decía "cinco motocicletas" y "cinco muertos" como si las motos fueran víctimas no conta
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/el-inacif-destaca-su-contribucion-a-la-justicia/
+No se pudo leer el artículo; no se publica para no salir corta: El Inacif destaca su contribución a la justicia
+[República Dominicana] DGII: texto leído 2031 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/falta-de-respuesta-de-la-dgii-paso-6-de-certificacin-ecf-postulacin-93220/6ae3a417f6e45cdae8000b2b
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Falta de respuesta de la DGII – Paso 6 de certificación e-CF – Postulación 93220
+[República Dominicana] DGII: texto leído 1213 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/nota-de-crdito-electrnica/6ae366fa1aacc89e4f267bf2
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nota de Crédito Electrónica
+[República Dominicana] DGII: texto leído 135 letras -> https://dgii.gov.do/rst/indexrst.aspx
+No se pudo leer el artículo; no se publica para no salir corta: Régimen Simplificado de Tributación (RST)
+[República Dominicana] DGII: texto leído 3775 letras -> http://dgii.gov.do/noticias/Paginas/DGII-anuncia-ajuste-tarifas-marbete-inicio-periodo-renovacion.aspx
+Fuente oficial encontrada: DGII 
+Revisión: corregida (eliminé la frase "Si tienes un vehículo en RD o en EE.UU. que circula en el país" por no estar en las fuentes
+[República Dominicana] DGII: texto leído 1127 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/informaicon-sobres-las-iglesias/6ae3a0c9f6e45cdae8ffd5a8
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): informaicon sobres las iglesias
 [Dominicanos en EE.UU.] Instituto Postal Dominicano - INPOSDOM: texto leído 3314 letras -> https://inposdom.gob.do/
 Fuente oficial encontrada: Instituto Postal Dominicano - INPOSDOM 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Postal Dominicano - INPOSDOM
+No se pudo bajar la página: <HTTPError 503: 'Service Unavailable'>
 [Dominicanos en EE.UU.] Distrito Municipal Palmarejo Villa Linda: texto leído 4736 letras -> https://www.distritomunicipalpalmarejovillalinda.gob.do/
 Fuente oficial encontrada: Distrito Municipal Palmarejo Villa Linda 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia con el material que me has pasado. La versión que aparece como FUENTE OFICIAL es una página institucional de la Junta del Distrito Municipal Palmarejo Villa L')
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Homeland Security (.gov): texto leído 7000 letras -> https://www.dhs.gov/news/2026/10/28/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] ICE | U.S. Immigration and Customs Enforcement (.gov): texto leído 3751 letras -> https://www.ice.gov/news/releases/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown
-Fuente oficial encontrada: Homeland Security (.gov), ICE | U.S. Immigration and Customs Enforcement (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Dozens of Illegal Aliens Arrested In Nationwide Voter Fraud Crackdown
-Revisión: corregida (el borrador decía "Algunas votaron en elecciones de 1992..." y que "en varios casos los extranjeros admitiero
-[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ct/pr/nine-charged-result-homeland-security-task-force-investigation-southeastern-connecticut
-No se pudo leer el artículo; no se publica para no salir corta: Nine Charged as a Result of Homeland Security Task Force Investigation into Southeastern Connecticut Cocaine Trafficking
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta del Distrito Municipal Palmarejo Villa Linda
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 7000 letras -> https://www.justice.gov/opa/pr/justice-department-charges-18-more-north-carolina-illegally-voting-2024-election
+Fuente oficial encontrada: Department of Justice (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Office of Public Affairs | Justice Department Charges 18 More in North Carolina with Illegally Voting in 2024 Election
+Revisión: corregida (eliminé "2025" del gancho en inglés porque las fuentes dan 2024 como año electoral; corregí "2025" en HOOK_EN
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2407 letras -> https://it.usembassy.gov/demonstration-alert-u-s-embassy-rome-italy-october-29-30-2026/
 [Dominicanos en EE.UU.] US Embassy in Spain: texto leído 1453 letras -> https://es.usembassy.gov/demonstration-alert-update-on-protests-throughout-spain-u-s-embassy-madrid-spain-october-28-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Tanzania (.gov): texto leído 1010 letras -> https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-october-28-2026/
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Germany (.gov): texto leído 1456 letras -> https://de.usembassy.gov/demonstration-alert-u-s-embassy-berlin-germany-october-31-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), US Embassy in Spain, U.S. Embassy in Tanzania (.gov), U.S. Embassy & Consulates in Germany (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert: U.S. Embassy Rome, Italy, October 29-30, 2026
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Mexico (.gov): texto leído 980 letras -> https://mx.usembassy.gov/security-alert-active-law-enforcement-activity-in-the-city-of-matamoros/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Mexico (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: Active Law Enforcement Activity in the City of Matamoros
-Revisión: corregida (eliminé "es importante señalar"-tipo relleno; reescribí el gancho y "Importa" para atribuir correctamente; co
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 6036 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-october-28-2026/
+[Dominicanos en EE.UU.] U.S. Embassy and Consulate in Nigeria (.gov): texto leído 2321 letras -> https://ng.usembassy.gov/security-alert-october-28-2026-mission-nigeria/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Embassy and Consulate in Nigeria (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo que tengo que decir primero: las dos versiones que me pasaste son alertas de seguridad oficiales del Departamento de Estado de EE.UU. publicadas en sitios .gov de sus embajadas en Arabia Saudita y ')
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2308 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-vietnams-signing-of-the-artemis-accords/
+[Dominicanos en EE.UU.] NASA (.gov): texto leído 2751 letras -> https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/
+Fuente oficial encontrada: U.S. Department of State (.gov), NASA (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: United States Welcomes Vietnam’s Signing of the Artemis Accords
+Revisión: corregida (se cambió "El año pasado" por "Earlier this year" según la fuente de NASA; el resto coincide con las fuentes,
 [Internacionales] The White House (.gov): texto leído 5922 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Returns to Ohio With a Record of Results
-[Internacionales] The White House (.gov): texto leído 2324 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/
+[Internacionales] The White House (.gov): texto leído 3481 letras -> https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/
 Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (se quitó "según informó la Casa Blanca en su sitio oficial" del gancho/texto donde ya estaba atribuido; se co
-[Famosos] Diario Libre: texto leído 3530 letras -> https://www.diariolibre.com/revista/sociales/2026/10/29/q-prro-wey-llega-al-pais/3705077
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El mercado del estilismo dominicano se expande con nuevas propuestas
-[Famosos] Diario Libre: texto leído 3579 letras -> https://www.diariolibre.com/revista/sociales/2026/10/29/caffe-vergnano-1882-abre-su-primer-coffee-shop/3705107
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Caffè Vergnano 1882 abre su primer Coffee Shop en República Dominicana
-[Famosos] Diario Libre: texto leído 2669 letras -> https://www.diariolibre.com/revista/cine/2026/10/29/peliculas-de-accion-fantasia-y-romance-en-un-documental/3705023
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé la frase de relleno "Los detalles, aquí." del gancho y "Los textos no deta
+Revisión: corregida (eliminé la frase de relleno "Los detalles, aquí." del gancho y "Los textos no detallan impactos concretos" se
+Fuente no confiable, se salta: elsiglo.com.pa
+[Famosos] Diario Libre: texto leído 1919 letras -> https://www.diariolibre.com/revista/cultura/2026/10/29/miriam-cruz-presenta-licor-morir-sonando-con-chocolate-pistacho/3704867
+Revisión: corregida (se corrigió "Morir Soñando liqueur" a "Morir Soñando cream liqueur" en el título inglés para coincidir con "l
+[Famosos] El Nacional — La voz de todos: texto leído 3710 letras -> https://elnacional.com.do/fama-y-vida/entidad-bancaria-impulsa-talento-dominicano-residencias-artisticas-paris_584869.html
+Cambiada de sección: Famosos -> Internacionales: Entidad bancaria impulsa el talento dominicano con residencias artísticas en París
+Revisión: corregida (quité "en París" del titular/gancho ya que el texto dice "en la Cité"... en realidad el texto sí dice París; 
 Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: baijing.cn
-[Famosos] N Digital: texto leído 7000 letras -> https://n.com.do/2026/10/29/las-mujeres-que-han-dejado-su-huella-en-los-escenarios-dominicanos/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Las mujeres que han dejado su huella en los escenarios dominicanos
-Fuente no confiable, se salta: reddenoticias.online
+Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: metro.pr
+Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: metro.pr
 [Famosos] De Último Minuto: texto leído 1923 letras -> https://deultimominuto.com/entretenimiento/misaelporque-manana-es-tarde/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Porque mañana es tarde! Misael Lao y Karen Quero apuestan por conquistar las mañanas de la televisión dominicana
-[Famosos] Hoy Digital: texto leído 1182 letras -> https://hoy.com.do/vivir/alegria/musica/yoli-presenta-primer-album-apuesta-propuesta-propia-musica-urbana-dominicana_1107097.html
-Revisión: corregida (el borrador afirma "lanza... un álbum" y "Vol.1" como hecho; las fuentes dicen que presenta "La Yoli Vol.1" c
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 2155 letras -> https://www.bancentral.gov.do/a/d/2711-notas-del-banco-central
-Fuente oficial encontrada: Banco Central de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única fuente que me pasaste es la página de navegación del sitio del Banco Central de la República Dominicana: no contiene ningún hecho noticioso concreto')
+[Famosos] El Nuevo Diario: texto leído 872 letras -> https://elnuevodiario.com.do/cantante-moreno-negron-esta-de-regreso-en-la-musica/
+Revisión: corregida (se cambió "El Nuevo Diario" sin cambios de fondo; se corrigió "Holanda" a "Países Bajos" no fue necesario; ca
+[Precios y combustibles] Acento: texto leído 2952 letras -> https://acento.com.do/economia/adha-destaca-financiamiento-de-rd-25000-millones-al-campo-y-pide-proteger-la-produccion-de-arroz-9780295.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: ADHA destaca financiamiento de RD$ 25,000 millones al campo y pide proteger la producción de arroz
+Revisión: corregida (eliminé "récord" del titular y gancho porque las fuentes no lo mencionan; reescribí el gancho y el título de 
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: ecosistemastartup.com
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
@@ -75,10 +86,10 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
 [Videojuegos] Nintendo: texto leído 1756 letras -> https://www.nintendo.com/us/store/products/witchbrook-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook for Nintendo Switch 2
-[Videojuegos] Nintendo: texto leído 1783 letras -> https://www.nintendo.com/us/store/products/petal-runner-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Petal Runner for Nintendo Switch 2
-8 noticias nuevas, 119 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 38 · ya cubiertas: 8 · no confiables: 8 · opinión: 0 · con texto leído: 28 · sin texto: 2 · medios juntados: 3 · con fuente oficial: 15 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 5 · error IA: 3 · descartadas por la IA: 11 · cambiadas de sección: 2 · largas: 7 · ocultas (cortas): 1
-Para Instagram (tendencia 1): Dólar hoy en RD: dónde conviene cambiar y dónde pagan más por tus dólares
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es la ficha de producto de Nintendo para el juego Witchbrook, en Nintendo Switch 2. No es una noticia: describe características del juego, pero no informa de ningún hecho nuevo (anuncio, f')
+[Videojuegos] Nintendo careers: texto leído 3698 letras -> https://careers.nintendo.com/jobs/4472147009/
+Fuente oficial encontrada: Nintendo careers 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+11 noticias nuevas, 130 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 46 · ya cubiertas: 11 · no confiables: 9 · opinión: 0 · con texto leído: 29 · sin texto: 3 · medios juntados: 3 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 11 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 2
+Para Instagram (tendencia 3): ADHA respalda medidas del Gobierno para proteger el arroz y el campo dominicano
