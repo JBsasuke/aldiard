@@ -1,10 +1,15 @@
-Corrida: 2026-10-30 01:08 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2643 letras -> https://presidencia.gob.do/en
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
-[República Dominicana] Servicio Nacional de Salud – SNS: texto leído 1731 letras -> https://sns.gob.do/
-Fuente oficial encontrada: Servicio Nacional de Salud – SNS 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Inicio - Servicio Nacional de Salud
+Corrida: 2026-10-30 06:11 AM (hora RD)
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)
+[República Dominicana] Inafocam: texto leído 2677 letras -> https://inafocam.gob.do/sistema-educativo-fortalece-su-respuesta-a-la-inclusion-inafocam-y-unibe-forman-a-213-maestros-en-educacion-inclusiva/
+Fuente oficial encontrada: Inafocam 
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité "Corina Montero, encargada" → "encargada" ya estaba bien; ajusté "las sesion
+Revisión: corregida (quité "Corina Montero, encargada" → "encargada" ya estaba bien; ajusté "las sesiones de trabajo académico" y 
+[República Dominicana] SISMAP: texto leído 356 letras -> https://www.sismap.gob.do/SaludCiudadana/CargaEvidencia/VerListado?cargaEvidenciaID=7373&logueado=No&departamentoID=0&politicas=False
+No se pudo leer el artículo; no se publica para no salir corta: 01.06.01 Plan Mantenimiento año en curso - SISMAP
+[República Dominicana] Ministerio de Obras Públicas y Comunicaciones | MOPC: texto leído 0 letras -> https://mopc.gob.do/publicaciones/reglamentos.aspx
+No se pudo leer el artículo; no se publica para no salir corta: Esta es una web oficial del Gobierno de la República Dominicana
+[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639287937916112041-Justificacin-de-aplicacin-de-los-fondos-segn-ley..pdf
+No se pudo leer el artículo; no se publica para no salir corta: INFORME DE RESULTADO DEL ANALISIS REALIZADO A LA EJECUCIÓN PRESUPUESTARIA CORRESPONDIENTE AL 3ER. TRIMESTRE 2026. AYUNTAMIENTO
 [República Dominicana] DGII: texto leído 2031 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/falta-de-respuesta-de-la-dgii-paso-6-de-certificacin-ecf-postulacin-93220/6ae3a417f6e45cdae8000b2b
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Falta de respuesta de la DGII – Paso 6 de certificación e-CF – Postulación 93220
@@ -14,18 +19,19 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Nota de Crédi
 [República Dominicana] DGII: texto leído 1127 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/informaicon-sobres-las-iglesias/6ae3a0c9f6e45cdae8ffd5a8
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): informaicon sobres las iglesias
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3403706
-No se pudo leer el artículo; no se publica para no salir corta: - 117 - Dec. núm. 449-25 que concede el beneficio de una pensión del Estado por el monto de diez mil pesos dominicanos con 00/
-[República Dominicana] DGII: texto leído 168 letras -> https://ayuda.dgii.gov.do/conversations/marbete/ca5455-qu-debo-hacer-para-renovar-el-marbete-cuando-el-sistema-indica-que-fue-renovado-sin-ser-cierto/6ae3667b1aacc89e4f2670f5
-No se pudo leer el artículo; no se publica para no salir corta: CA5455 ¿Qué debo hacer para renovar el marbete cuando el sistema indica que fue renovado sin ser cierto?
-[República Dominicana] DGII: texto leído 351 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/vendi-un-vehiculo-hace-tiempo/6ae3b4e1230c589f3d77811f
-No se pudo leer el artículo; no se publica para no salir corta: VENDI UN VEHICULO HACE TIEMPO
-[República Dominicana] De Último Minuto: texto leído 2323 letras -> https://deultimominuto.com/deportes/beisbol/florial-y-alcantara-conectan-jonrones-y-licey-vence-a-los-toros-en-el-quisqueya/
-[República Dominicana] Diario Libre: texto leído 2733 letras -> https://www.diariolibre.com/deportes/beisbol/2026/10/29/kevin-alcantara-remolca-tres-licey-gana/3705314
-No encaja en ninguna sección, se salta: Florial y Alcántara conectan jonrones y Licey vence a los Toros en el Quisqueya
+[República Dominicana] De Último Minuto: texto leído 2523 letras -> https://deultimominuto.com/deportes/beisbol/aguilas-vencen-5-2-a-las-estrellas-en-11-entradas-tras-permitir-apenas-un-imparable/
+Revisión: corregida (se quitó "dramática" del texto original no aplica; cambios: "Águilas" con tilde en el título inglés, se corri
+[República Dominicana] De Último Minuto: texto leído 7000 letras -> https://deultimominuto.com/estilo/efemerides/efemerides-del-30-de-octubre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Efemérides del 30 de octubre
 [Dominicanos en EE.UU.] Instituto Postal Dominicano - INPOSDOM: texto leído 3314 letras -> https://inposdom.gob.do/
 Fuente oficial encontrada: Instituto Postal Dominicano - INPOSDOM 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Postal Dominicano - INPOSDOM
+[Dominicanos en EE.UU.] Ministerio de la Juventud: texto leído 3915 letras -> https://juventud.gob.do/programas-de-interes/generacion-steam-2-0/
+Fuente oficial encontrada: Ministerio de la Juventud 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Qué es Generación STEAM 2.0?
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2076 letras -> https://fr.usembassy.gov/security-alert-u-s-embassy-paris-france-october-29-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in France (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert – U.S. Embassy Paris, France – October 29, 2026
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2407 letras -> https://it.usembassy.gov/demonstration-alert-u-s-embassy-rome-italy-october-29-30-2026/
 [Dominicanos en EE.UU.] US Embassy in Spain: texto leído 1453 letras -> https://es.usembassy.gov/demonstration-alert-update-on-protests-throughout-spain-u-s-embassy-madrid-spain-october-28-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Tanzania (.gov): texto leído 1010 letras -> https://tz.usembassy.gov/security-alert-u-s-embassy-dar-es-salaam-october-28-2026/
@@ -34,36 +40,44 @@ Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), US Embassy
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert: U.S. Embassy Rome, Italy, October 29-30, 2026
 [Dominicanos en EE.UU.] U.S. Embassy and Consulate in Ecuador (.gov): texto leído 1883 letras -> https://ec.usembassy.gov/security-alert-upcoming-curfew-in-five-ecuadorian-provinces/
 Fuente oficial encontrada: U.S. Embassy and Consulate in Ecuador (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto es un aviso de seguridad de la Embajada de EE.UU. dirigido a sus ciudadanos, no una noticia periodística sobre un hecho ocurrido; además, trata de un toque de queda en ')
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 1219 letras -> https://almomento.net/n-jersey-empresaria-gigi-nunez-representa-a-rd-en-desfile-de-essex/
-Revisión: corregida (se agregó la atribución a AlMomento.net en el gancho y en el título inglés no cambió; se eliminó "ambos" y se
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: Upcoming Curfew in Five Ecuadorian Provinces
+Fuente no confiable, se salta: labazuca.com
 Fuente no confiable, se salta: el-carabobeno.com
 Fuente no confiable, se salta: prensa-latina.cu
 Fuente no confiable, se salta: cubainformacion.tv
-[Dominicanos en EE.UU.] El Nuevo Día: texto leído 4677 letras -> https://www.elnuevodia.com/noticias/locales/notas/miguel-romero-pide-explicaciones-a-jefa-de-hsi-por-operativos-migratorios-en-san-juan/
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Miguel Romero pide explicaciones a jefa de HSI por operativos migratorios en San Juan
-Revisión: corregida (se corrigió el título y el texto en español para quitar la afirmación de que los detenidos "eran" de nacional
-[Dominicanos en EE.UU.] Diario Libre: texto leído 2499 letras -> https://www.diariolibre.com/usa/actualidad/2026/10/29/dominicano-buscado-en-pr-por-fraude-en-ayudas-por-desempleo/3705165
-Revisión: corregida (quité "Dominicanos que viven en Estados Unidos y en Puerto Rico pueden verse afectados por la atención que re
-[Internacionales] The White House (.gov): texto leído 5922 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/
+[Dominicanos en EE.UU.] Diario Libre: texto leído 3365 letras -> https://www.diariolibre.com/amp/usa/actualidad/2026/10/29/tres-muertos-en-accidente-de-helicopteros-en-oregon/3705349
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "según informó la agencia AP" del sheriff y del Departamento de Transporte
+Revisión: corregida (eliminé "según informó la agencia AP" del sheriff y del Departamento de Transporte no hubo cambio; corregí "d
+[Internacionales] The White House (.gov): texto leído 1483 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Returns to Ohio With a Record of Results
-[Internacionales] The White House (.gov): texto leído 2987 letras -> https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Economic Benefits of Permitting Reform
-[Internacionales] The White House (.gov): texto leído 5234 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Put Money Back in Your Pockets—Radical Democrats Want It Back and More
-[Famosos] El Dia.com.do: texto leído 1436 letras -> https://eldia.com.do/martox-esta-entre-el-bolero-pop-y-regueton/
-[Famosos] Listín Diario: texto leído 2396 letras -> https://listindiario.com/entretenimiento/musica/20261030/martox-duo-dominicano-baila-bolero-pop-regueton_928127.html
-Revisión: corregida (el borrador atribuye a Martox frases que dice el Listín, quita "según el grupo"/"según explican" que no están
+Revisión: corregida (el borrador atribuye a la Casa Blanca un anuncio sobre "petróleo venezolano" y un acuerdo con Venezuela que l
 [Famosos] Diario Libre: texto leído 3362 letras -> https://www.diariolibre.com/revista/buena-vida/2026/10/30/gastronomia-saludable-en-restaurantes-dominicanos/3704927
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuatro destinos para saborear nuestra gran gastronomía
+[Famosos] Acento: texto leído 5239 letras -> https://acento.com.do/cultura/lucia-castillo-es-premio-nacional-de-las-artes-escenicas-2026-categoria-teatro-9780450.html
+Cambiada de sección: Famosos -> República Dominicana: Lucía Castillo es Premio Nacional de las Artes Escénicas 2026, categoría Teatro
+Revisión: corregida (eliminé "Ministerio de Cultura seleccionó" → mantuve; corregí "Escuela Nacional de Arte Dramático de Bellas A
 Fuente no confiable, se salta: robertocavada.com
-[Famosos] N Digital: texto leído 5736 letras -> https://n.com.do/2026/10/29/laura-alcantara-ahora-es-que-todo-empieza-para-una-actriz-que-decidio-hacer-del-teatro-su-camino/
-Revisión: corregida (Fuente dice "13 años de trayectoria" y "Nueva York" no aparece en el borrador; corregí la cita de Anne Frank 
+Fuente no confiable, se salta: metro.pr
+[Famosos] El Dia.com.do: texto leído 2604 letras -> https://eldia.com.do/el-valor-moral-del-triunfo-de-lula/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El valor moral del triunfo de Lula
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: metro.pr
+[Famosos] De Último Minuto: texto leído 1923 letras -> https://deultimominuto.com/entretenimiento/misaelporque-manana-es-tarde/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Porque mañana es tarde! Misael Lao y Karen Quero apuestan por conquistar las mañanas de la televisión dominicana
+Fuente no confiable, se salta: elpais.com.co
+Fuente no confiable, se salta: diaadia.com.pa
+[Famosos] El Nuevo Diario: texto leído 565 letras -> https://elnuevodiario.com.do/nfasis-arremete-contra-quimico-ultra-mega-y-califica-su-tiradera-de-basica-y-predecible/
+Revisión: corregida (se corrigió el título en español: "tiradera" entre comillas sin cerrar; se ajustó el título en inglés para qu
+Fuente no confiable, se salta: robertocavada.com
+[Famosos] De Último Minuto: texto leído 2907 letras -> https://deultimominuto.com/entretenimiento/nahiony-juan-carlos-pichardo-4/
+Revisión: corregida (eliminé la afirmación de que Pichardo "lleva tiempo siendo propuesto... como candidato ideal" por no tener ba
 Fuente no confiable, se salta: revistamercado.do
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/codue-advierte-que-alza-del-marbete-presiona-economia-de-los-hogares/
+No se pudo leer el artículo; no se publica para no salir corta: CODUE advierte que alza del marbete presiona economía de los hogares
 Fuente no confiable, se salta: ecosistemastartup.com
+Fuente no confiable, se salta: revelacion.pe
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
@@ -72,7 +86,7 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook for Nintendo Switch 2
 [Videojuegos] Nintendo careers: texto leído 3698 letras -> https://careers.nintendo.com/jobs/4472147009/
 Fuente oficial encontrada: Nintendo careers 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una oferta de pasantía publicada en el sitio de empleos de Nintendo, no una noticia. No hay hechos noticiosos que reportar, así que no se redacta la nota.')
-8 noticias nuevas, 147 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 55 · ya cubiertas: 12 · no confiables: 6 · opinión: 0 · con texto leído: 26 · sin texto: 3 · medios juntados: 1 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 2 · descartadas por la IA: 14 · cambiadas de sección: 1 · largas: 5 · ocultas (cortas): 3
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Connectivity (NTD)
+11 noticias nuevas, 158 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 59 · ya cubiertas: 19 · no confiables: 15 · opinión: 0 · con texto leído: 25 · sin texto: 4 · medios juntados: 0 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 2 · error IA: 0 · descartadas por la IA: 15 · cambiadas de sección: 1 · largas: 7 · ocultas (cortas): 4
 Para Instagram (tendencia 4): Nintendo presenta nuevos juegos indie para Switch 2 y Switch hasta 2027
