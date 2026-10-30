@@ -392,6 +392,10 @@ publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas regl
 - Usa tus propias palabras y tu propia estructura. No sigas el orden de ningún original ni cambies palabras
   frase por frase. Primero lo esencial (qué pasó, quién, cuándo, dónde), después el contexto y los detalles,
   y al final lo que viene, si los textos lo dicen.
+- Si una versión dice (FUENTE OFICIAL), esa es la base de la noticia. Las versiones (PERIÓDICO) solo sirven para
+  aclarar o completar lo que la fuente oficial no explica bien (por ejemplo, declaraciones en una entrevista).
+  Todo lo que salga SOLO de un periódico se atribuye a ese periódico (por ejemplo: "En entrevista con Listín Diario,
+  el ministro explicó que..."). Nunca pongas en boca de la institución algo que ella no dijo.
 - Si hay varios medios, junta lo que aporta cada uno. Si se contradicen en un dato, dilo claramente
   (por ejemplo: "Diario Libre informa X, mientras que Listín Diario indica Y"). Si coinciden, no hace falta nombrarlos.
 - Solo hechos que estén en los textos. No inventes, no supongas, no opines, no exageres.
@@ -512,7 +516,8 @@ def redactar(versiones):
     else:
         largo = "solo tienes titulares y descripciones cortas: escribe 1 o 2 párrafos cortos con lo que dicen, sin agregar nada"
     datos = "\n\n".join(
-        f"=== VERSIÓN {i + 1} — {v['fuente']} ===\nTitular: {v['titulo']}\nDescripción: {v['descripcion']}\n"
+        f"=== VERSIÓN {i + 1} — {v['fuente']} {'(FUENTE OFICIAL)' if es_oficial(v.get('dominio', '')) else '(PERIÓDICO)'} ===\n"
+        f"Titular: {v['titulo']}\nDescripción: {v['descripcion']}\n"
         + (f"Texto:\n{v['texto'][:3500]}" if v["texto"] else "")
         for i, v in enumerate(versiones))
     pedido = INSTRUCCIONES.replace("LARGO_AQUI", largo) + "\n\n" + datos
@@ -541,6 +546,102 @@ def verificar_seccion(seccion, texto):
     if seccion == SEC_USA and not re.search(dominicano, texto, re.I):
         return SEC_INTER
     return seccion
+
+# ================= Revisión antes de publicar =================
+INSTRUCCIONES_REVISION = """Eres el editor de Al Día RD. Revisa este BORRADOR antes de publicarlo, comparándolo con las FUENTES.
+1. Cada cifra, fecha, nombre de persona, cargo, lugar e institución del borrador tiene que estar en las fuentes y decir
+   lo mismo. Si algo no está o está distinto, corrígelo según las fuentes o quítalo.
+2. Lo que solo dice un periódico tiene que estar atribuido a ese periódico. Nada que la institución no dijo puede
+   quedar atribuido a ella.
+3. Quita las frases de relleno o que suenan a texto hecho por IA, por ejemplo: "cabe destacar", "es importante
+   señalar", "en un mundo cada vez más", "sin lugar a dudas", "en definitiva", "juega un papel crucial", "no cabe
+   duda"; en inglés "it is worth noting", "in today's world", "delve", "plays a crucial role", "in conclusion".
+   Que suene natural, como un periodista dominicano.
+4. Corrige la ortografía y revisa que el inglés diga exactamente lo mismo que el español.
+5. No agregues información nueva ni opiniones.
+Si el borrador tiene un error grave que no se puede arreglar con las fuentes (por ejemplo, el hecho principal no
+coincide), responde solo una línea: RECHAZADA: (motivo).
+Si no, responde con la versión final COMPLETA, con las mismas etiquetas del borrador (español e inglés), y antes de
+todo una línea: REVISION: aprobada   o   REVISION: corregida (qué cambiaste, en pocas palabras)."""
+
+FRASES_IA = (r"(?i)\b(cabe (destacar|mencionar|se[nñ]alar)|es importante (destacar|se[nñ]alar|mencionar)|"
+             r"vale la pena (destacar|mencionar)) que\s+|\b(it is|it's) (worth noting|important to note) that\s+")
+
+class Rechazada(Exception):
+    pass
+
+def como_borrador(r):
+    """Pone la noticia en el mismo formato de etiquetas, para que el editor la revise."""
+    t = (f"CONFIABLE: {'sí' if r.get('confiable', True) else 'no'}\nSECCION: {r.get('seccion', '')}\n"
+         f"TITULO: {r['titulo']}\nGANCHO: {r['gancho']}\nCLAVES:\n" + "".join(f"- {c}\n" for c in r["claves"])
+         + f"IMPORTA: {r['importa'] or '-'}\nTEXTO:\n" + "\n\n".join(r["parrafos"]))
+    en = r.get("en")
+    if en:
+        t += (f"\n\nTITLE_EN: {en['titulo']}\nHOOK_EN: {en['gancho']}\nKEYS_EN:\n" + "".join(f"- {c}\n" for c in en["claves"])
+              + f"WHY_EN: {en['importa'] or '-'}\nTEXT_EN:\n" + "\n\n".join(en["parrafos"]))
+    return t
+
+def _numeros(texto):
+    """Cifras 'importantes' de un texto, sin puntos ni comas (así 1,398 y 1.398 son lo mismo)."""
+    salida = set()
+    for m in re.finditer(r"\d[\d.,]*\d|\d", texto):
+        crudo = m.group(0)
+        limpio = re.sub(r"[.,]", "", crudo)
+        if len(limpio) >= 3 or re.search(r"[.,]\d", crudo) or texto[m.end():m.end() + 2].strip().startswith("%"):
+            salida.add(limpio.lstrip("0") or "0")
+    return salida
+
+def cifras_sin_respaldo(r, fuentes_texto):
+    """Cifras del texto final que no aparecen en ninguna fuente (los años cercanos se permiten)."""
+    en = r.get("en") or {}
+    final = " ".join([r["titulo"], r["gancho"], r["importa"] or ""] + r["claves"] + r["parrafos"]
+                     + [en.get("titulo", ""), en.get("gancho", ""), en.get("importa") or ""]
+                     + (en.get("claves") or []) + (en.get("parrafos") or []))
+    en_fuentes = _numeros(fuentes_texto)
+    anio = ahora().year
+    return sorted(x for x in _numeros(final) - en_fuentes
+                  if not (len(x) == 4 and anio - 1 <= int(x) <= anio + 1))
+
+def quitar_frases_ia(r):
+    def arreglar(t):
+        t = re.sub(FRASES_IA, "", t)
+        return re.sub(r"(^|[.!?]\s+)([a-záéíóúñ])", lambda m: m.group(1) + m.group(2).upper(), t)
+    r["parrafos"] = [arreglar(p) for p in r["parrafos"]]
+    if r.get("en"):
+        r["en"]["parrafos"] = [arreglar(p) for p in r["en"]["parrafos"]]
+    return r
+
+def revisar(r, fuentes_texto):
+    """Segundo paso: un 'editor' compara la noticia con las fuentes, corrige y quita frases de IA.
+    Después, sin IA, se comprueba que no quede ninguna cifra que no esté en las fuentes."""
+    pedido = (INSTRUCCIONES_REVISION + "\n\n=== FUENTES ===\n" + fuentes_texto[:14000]
+              + "\n\n=== BORRADOR ===\n" + como_borrador(r))
+    nota = "sin revisión de IA"
+    try:
+        t = pedir_ia(pedido, 4500)
+        limpio = t.replace("**", "").strip()
+        if re.match(r"(?i)^\s*rechazada", limpio):
+            raise Rechazada(limpio[:200])
+        m = re.search(r"(?im)^\s*REVISION\s*:\s*(.+)$", limpio)
+        nota = m.group(1).strip() if m else "revisada"
+        final = leer_formato(limpio)
+        if not final.get("en") and r.get("en"):
+            final["en"] = r["en"]  # si el editor no devolvió el inglés, se queda el que había
+        final["confiable"], final["seccion"] = r["confiable"], r.get("seccion", "")
+        r = final
+    except Rechazada:
+        raise
+    except Exception as err:
+        print("La revisión no respondió bien; se sigue con la comprobación de cifras:", repr(err)[:150])
+    r = quitar_frases_ia(r)
+    sueltas = cifras_sin_respaldo(r, fuentes_texto)
+    if sueltas:
+        raise Rechazada("cifras que no aparecen en las fuentes: " + ", ".join(sueltas[:6]))
+    r["revision"] = nota
+    return r
+
+def texto_de_fuentes(versiones):
+    return "\n\n".join(f"--- {v['fuente']} ---\n{v['titulo']}\n{v['descripcion']}\n{v['texto']}" for v in versiones)
 
 def similares(a, b, minimo=2):
     return len(_palabras(a) & _palabras(b)) >= minimo
@@ -578,7 +679,8 @@ def otras_versiones(titulo, dom_principal, vistos, seccion=None):
     return salida[:MAX_MEDIOS - 1] if not any(es_oficial(x[1]) for x in salida) else salida[:MAX_MEDIOS]
 
 CUENTA = {"tasa/combustibles (usamos datos propios)": 0, "ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
-          "sin texto": 0, "medios juntados": 0, "con fuente oficial": 0, "con video": 0, "con foto oficial": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
+          "sin texto": 0, "medios juntados": 0, "con fuente oficial": 0, "aprobadas por la revisión": 0, "corregidas por la revisión": 0,
+          "rechazadas por la revisión": 0, "con video": 0, "con foto oficial": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -649,10 +751,16 @@ def buscar(guardadas):
                     oculta("sin texto")
                     continue
                 oficiales = [v for v in versiones if es_oficial(v["dominio"]) and len(v["texto"]) >= 500]
+                complemento = []
                 if oficiales:
-                    print("Fuente oficial encontrada; se usa solo esa:", ", ".join(v["fuente"] for v in oficiales))
+                    # la oficial es la base; se deja UN periódico confiable para aclarar lo que la oficial no explique
+                    periodicos = sorted((v for v in versiones if not es_oficial(v["dominio"]) and len(v["texto"]) >= 500),
+                                        key=lambda v: len(v["texto"]), reverse=True)
+                    complemento = periodicos[:1]
+                    print("Fuente oficial encontrada:", ", ".join(v["fuente"] for v in oficiales),
+                          ("| para completar: " + complemento[0]["fuente"]) if complemento else "")
                     CUENTA["con fuente oficial"] += 1
-                    versiones = oficiales
+                    versiones = oficiales + complemento
                 try:
                     r = redactar(versiones)
                 except Exception as err:
@@ -674,6 +782,14 @@ def buscar(guardadas):
                     print(f"Cambiada de sección: {seccion} -> {sec_ia}: {titulo}")
                     sec_final = sec_ia
                 sec_final = verificar_seccion(sec_final, r["titulo"] + " " + " ".join(r["parrafos"]))
+                try:
+                    r = revisar(r, texto_de_fuentes(versiones))
+                    CUENTA["corregidas por la revisión" if r["revision"].lower().startswith("corregida") else "aprobadas por la revisión"] += 1
+                    print("Revisión:", r["revision"][:120])
+                except Rechazada as motivo:
+                    CUENTA["rechazadas por la revisión"] += 1
+                    print("Rechazada por la revisión:", titulo, "->", str(motivo)[:200])
+                    continue
                 CUENTA["medios juntados"] += len(versiones) - 1
                 if not es_larga(r):
                     CUENTA["ocultas (cortas)"] += 1
@@ -699,8 +815,10 @@ def buscar(guardadas):
                                "link": link, "url": principal["url"],
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
-                               "institucional": all(es_oficial(v["dominio"]) for v in versiones),
-                               "video": video, "foto": foto,
+                               "institucional": any(es_oficial(v["dominio"]) for v in versiones),
+                               "complemento": [v["fuente"] for v in versiones if not es_oficial(v["dominio"])]
+                                              if any(es_oficial(v["dominio"]) for v in versiones) else [],
+                               "video": video, "foto": foto, "revision": r.get("revision"),
                                "seccion": sec_final, "fecha": ahora().isoformat()})
                 recientes.append(titulo)
                 if sec_final == seccion:  # si se fue a otra sección, no gasta el cupo de esta
@@ -792,10 +910,13 @@ def redactar_datos(que_es, datos):
     ultimo = None
     for _ in range(2):
         try:
-            return leer_formato(pedir_ia(pedido, 4000))
+            r = leer_formato(pedir_ia(pedido, 4000))
+            break
         except ValueError as err:
             ultimo = err
-    raise ultimo
+    else:
+        raise ultimo
+    return revisar(r, json.dumps(datos, ensure_ascii=False))  # se revisa contra los mismos datos
 
 def nota_de_datos(clave, r, fuente_nombre, fuente_url, link):
     return {"id": hashlib.md5(clave.encode()).hexdigest()[:10], "titulo": r["titulo"], "titulo_original": clave,
@@ -1347,6 +1468,7 @@ T = {
            "credito1": "Redactada por Al Día RD a partir de lo publicado por",
            "credito_datos": "Redactada por Al Día RD con datos de",
            "credito_inst": "Redactada por Al Día RD con información oficial de",
+           "complementada": "Complementada con",
            "credito2": "Redactada por Al Día RD a partir de lo publicado por estos medios",
            "wa": "Compartir en WhatsApp", "x": "Compartir en X", "fb": "Compartir en Facebook", "mas": "Más de",
            "titulo": "Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
@@ -1363,6 +1485,7 @@ T = {
            "credito1": "Written by Al Día RD based on reporting by",
            "credito_datos": "Written by Al Día RD using data from",
            "credito_inst": "Written by Al Día RD using official information from",
+           "complementada": "With additional reporting from",
            "credito2": "Written by Al Día RD based on reporting by these outlets",
            "wa": "Share on WhatsApp", "x": "Share on X", "fb": "Share on Facebook", "mas": "More from",
            "titulo": "Al Día RD · News from the Dominican Republic, Dominicans in the U.S. and the world",
@@ -1595,9 +1718,13 @@ def generar_notas(todas, lang="es"):
         cuerpo += "".join(f"<p>{html.escape(p)}</p>" for p in (dato(n, "parrafos", lang) or [n["resumen"]]))
         if importa:
             cuerpo += f'<div class="importa"><h2>{t["importa"]}</h2><p>{html.escape(importa)}</p></div>'
-        fuentes_html = " · ".join(
-            f'<a href="{html.escape(f["url"])}" target="_blank" rel="noopener nofollow">{html.escape(f["nombre"])}</a>'
-            for f in lista_fuentes(n))
+        enlace_f = lambda f: (f'<a href="{html.escape(f["url"])}" target="_blank" rel="noopener nofollow">'
+                              f'{html.escape(f["nombre"])}</a>')
+        comp = set(n.get("complemento") or [])
+        fuentes_html = " · ".join(enlace_f(f) for f in lista_fuentes(n) if f["nombre"] not in comp)
+        if comp:
+            fuentes_html += (f'<br>{t["complementada"]}: '
+                             + " · ".join(enlace_f(f) for f in lista_fuentes(n) if f["nombre"] in comp))
         varias = len(lista_fuentes(n)) > 1
         relacionadas = [m for m in con_pagina if m is not n and m["seccion"] == n["seccion"]][:5]
         rel = "".join(f'<a href="{pagina_nota(m, lang)}">{html.escape(dato(m, "titulo", lang))}</a>'
