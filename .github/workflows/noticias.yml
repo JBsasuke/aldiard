@@ -28,21 +28,20 @@ jobs:
           git config user.name "aldiard-bot"
           git config user.email "bot@aldiard.com"
           git add docs
-          git commit -m "Noticias $(date -u +%F_%H%M) [CF-Pages-Skip]" || echo "sin cambios"
+          git commit -m "Noticias $(date -u +%F_%H%M)" || echo "sin cambios"
           git push
-      - name: Crear el proyecto en Cloudflare (solo la primera vez)
-        continue-on-error: true   # si ya existe, da error y se sigue normal
-        uses: cloudflare/wrangler-action@v3
+      - uses: actions/setup-node@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages project create ${{ env.PROYECTO_CF }} --production-branch=main
+          node-version: "22"
       - name: Subir la página directo a Cloudflare
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy docs --project-name=${{ env.PROYECTO_CF }} --branch=main --commit-dirty=true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          echo "Token: $([ -n "$CLOUDFLARE_API_TOKEN" ] && echo encontrado || echo NO ENCONTRADO) · Cuenta: $([ -n "$CLOUDFLARE_ACCOUNT_ID" ] && echo encontrada || echo NO ENCONTRADA)"
+          # la primera vez crea el proyecto; si ya existe, avisa y se sigue
+          npx --yes wrangler@4 pages project create "$PROYECTO_CF" --production-branch=main || echo "(el proyecto ya existe o no se pudo crear; se intenta subir igual)"
+          npx --yes wrangler@4 pages deploy docs --project-name="$PROYECTO_CF" --branch=main --commit-dirty=true
       - name: Publicar en Instagram
         run: python instagram.py
         env:
