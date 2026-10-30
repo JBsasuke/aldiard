@@ -22,6 +22,33 @@ HASHTAGS = {
 }
 HASHTAGS_RD = "#AlDíaRD #RepúblicaDominicana #Dominicanos #NoticiasRD"
 
+import re
+# Videojuegos: los hashtags van con la consola de la noticia (si es solo de Nintendo, solo Nintendo)
+CONSOLAS = [
+    (r"switch 2", "#NintendoSwitch2"), (r"nintendo|\bswitch\b", "#Nintendo"),
+    (r"playstation|\bps5\b|\bps4\b", "#PlayStation"), (r"\bps5\b", "#PS5"),
+    (r"xbox", "#Xbox"), (r"\bpc\b|steam", "#PCGaming"),
+]
+JUEGOS = [(r"\bgta\b|grand theft auto", "#GTA6"), (r"pok[eé]mon", "#Pokemon"), (r"zelda", "#Zelda"),
+          (r"\bmario\b", "#Mario"), (r"call of duty", "#CallOfDuty"), (r"fortnite", "#Fortnite"),
+          (r"minecraft", "#Minecraft"), (r"\bfc ?2\d\b|ea sports fc", "#EASportsFC")]
+MULTI = r"multiplataforma|todas las (consolas|plataformas)|all platforms"
+
+def hashtags_juegos(n):
+    # se mira el titular, el gancho y los datos clave (no todo el texto, que a veces compara con otras consolas)
+    t = " ".join([n["titulo"], n.get("gancho") or n["resumen"]] + (n.get("claves") or [])).lower()
+    tags = ["#AlDíaRD", "#Videojuegos"]
+    if re.search(MULTI, t):
+        tags += ["#Nintendo", "#PlayStation", "#Xbox"]
+    if re.search(r"pok[eé]mon|zelda|\bmario\b|kirby|metroid|donkey kong|animal crossing|splatoon", t):
+        tags.append("#Nintendo")  # juegos que solo salen en Nintendo
+    for patron, tag in CONSOLAS + JUEGOS:
+        if re.search(patron, t) and tag not in tags:
+            tags.append(tag)
+    if len(tags) == 2:
+        tags.append("#Gaming")
+    return " ".join(tags)
+
 def pedir(url, datos=None):
     cuerpo = urllib.parse.urlencode(datos).encode() if datos else None
     try:
@@ -54,7 +81,8 @@ def texto_noticia(n):
     t += f"📲 Léela completa en español e inglés en nuestra web: aldiard.com/n/{n['id']}\n"
     t += "(el enlace a aldiard.com está en la bio)\n"
     t += ("Fuentes: " if len(fuentes) > 1 else "Fuente: ") + ", ".join(fuentes) + "\n\n"
-    return (t + HASHTAGS.get(n["seccion"], HASHTAGS_RD))[:2200]
+    etiquetas = hashtags_juegos(n) if n["seccion"] == SEC_JUEGOS else HASHTAGS.get(n["seccion"], HASHTAGS_RD)
+    return (t + etiquetas)[:2200]
 
 def texto_consejo(c):
     t = f"💡 Consejo del día: {c['titulo']}\n\n{c['texto']}\n\n👉 {c['boton']} en {c['sitio']}\n\n"

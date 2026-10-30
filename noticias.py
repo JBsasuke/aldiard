@@ -1474,7 +1474,7 @@ T = {
            "titulo": "Al Día RD · Noticias de RD, de los dominicanos en EE.UU. y del mundo",
            "desc": "Noticias de República Dominicana, de los dominicanos en Estados Unidos, internacionales, "
                    "famosos, precios y videojuegos, contadas de forma clara y con su fuente.",
-           "pie1": "Noticias contadas con nuestras propias palabras a partir de medios confiables.",
+           "pie1": "Noticias completas de RD, de los dominicanos en EE.UU. y del mundo.",
            "pie2": "Cada noticia lleva el crédito y el enlace a su fuente original.",
            "siguenos": "Síguenos", "tambien": "También", "quienes": "Quiénes somos", "contacto": "Contacto",
            "privacidad": "Política de privacidad", "cambiar": "Read in English", "otro": "EN",
@@ -1491,7 +1491,7 @@ T = {
            "titulo": "Al Día RD · News from the Dominican Republic, Dominicans in the U.S. and the world",
            "desc": "News from the Dominican Republic, Dominicans in the United States, Latin America, celebrities, "
                    "prices and video games, told clearly and with their sources.",
-           "pie1": "News written in our own words from trusted outlets.",
+           "pie1": "Complete news from the DR, Dominicans in the U.S. and the world.",
            "pie2": "Every story credits and links to its original sources.",
            "siguenos": "Follow us", "tambien": "Also", "quienes": "About us", "contacto": "Contact",
            "privacidad": "Privacy policy", "cambiar": "Leer en español", "otro": "ES",
@@ -1580,8 +1580,8 @@ def pie(lang="es"):
   <div>{t['siguenos']}: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
     {t['tambien']}: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
-  <div class="legal"><a href="/quienes-somos.html">{t['quienes']}</a> · <a href="/contacto.html">{t['contacto']}</a> ·
-    <a href="/privacidad.html">{t['privacidad']}</a> · aldiardnoticias@gmail.com</div>
+  <div class="legal"><a href="{'/en' if lang == 'en' else ''}/quienes-somos.html">{t['quienes']}</a> · <a href="{'/en' if lang == 'en' else ''}/contacto.html">{t['contacto']}</a> ·
+    <a href="{'/en' if lang == 'en' else ''}/privacidad.html">{t['privacidad']}</a> · aldiardnoticias@gmail.com</div>
 </div></footer>"""
 
 def _boton(texto, lang):
@@ -1765,7 +1765,8 @@ def generar_notas(todas, lang="es"):
             os.remove(os.path.join(carpeta, archivo))
 
 def generar_sitemap(todas):
-    urls = [SITIO + "/", SITIO + "/en/"] + [SITIO + "/" + p for p in ("quienes-somos.html", "contacto.html", "privacidad.html")]
+    fijas = ("quienes-somos.html", "contacto.html", "privacidad.html")
+    urls = [SITIO + "/", SITIO + "/en/"] + [SITIO + "/" + p for p in fijas] + [SITIO + "/en/" + p for p in fijas]
     urls += [SITIO + pagina_nota(n) for n in visibles(todas)]
     urls += [SITIO + pagina_nota(n, "en") for n in visibles(todas) if tiene_en(n)]
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
