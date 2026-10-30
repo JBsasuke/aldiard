@@ -1,38 +1,42 @@
-Corrida: 2026-10-29 07:47 PM (hora RD)
-Noticia con datos propios: Dólar hoy en RD: dónde conviene cambiar y dónde pagan más por tus dólares
-Noticia con datos propios: Precios de combustibles para la semana del 24 al 30 de octubre
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3507 letras -> https://presidencia.gob.do/noticias/infotep-vincula-la-retencion-del-talento-humano-con-la-competitividad-empresarial
+Corrida: 2026-10-29 08:06 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2775 letras -> https://www.presidencia.gob.do/noticias/sns-celebra-primer-encuentro-nacional-sobre-registro-en-linea-del-certificado-de-nacido
+[República Dominicana] Noticias SIN: texto leído 1429 letras -> https://noticiassin.com/salud/2026/10/29/sns-busca-100-de-registro-en-linea-de-nacimientos-en-2026-2157361/
 Fuente oficial encontrada; se usa solo esa: Presidencia de la República Dominicana
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2162 letras -> https://presidencia.gob.do/noticias/coraasan-supervisa-avances-en-la-construccion-de-nueva-linea-de-agua-potable-en-la-avenida
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://www.presidencia.gob.do/noticias/roberto-santana-destaca-que-el-gobierno-construye-nueve-centros-penitenciarios-de-manera
+[República Dominicana] El Dia.com.do: texto leído 7000 letras -> https://eldia.com.do/gobierno-construye-nueve-centros-penitenciarios-a-la-vez-higuey-y-barahona-ya-estan-listos/
+[República Dominicana] Z Digital: texto leído 3941 letras -> https://z101digital.com/gobierno-construye-nueve-centros-penitenciarios-los-de-higuey-y-barahona-estan-listos/
 Fuente oficial encontrada; se usa solo esa: Presidencia de la República Dominicana
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3224 letras -> https://presidencia.gob.do/noticias/mescyt-y-dgjp-acuerdan-impulsar-la-formacion-academica-de-servidores-publicos
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4011 letras -> https://presidencia.gob.do/noticias/autoridad-portuaria-informa-que-port-samana-estara-lista-para-noviembre-y-proyecta-un
+[República Dominicana] Acento: texto leído 2493 letras -> https://acento.com.do/turismo/port-samana-proyecta-recibir-un-millon-de-cruceristas-al-ano-para-2030-9780055.html
 Fuente oficial encontrada; se usa solo esa: Presidencia de la República Dominicana
-[Dominicanos en EE.UU.] DGCINE: texto leído 1964 letras -> https://dgcine.gob.do/mas-alla-del-humo-una-historia-de-legado-e-identidad-llega-a-los-cines-dominicanos/
-Fuente oficial encontrada; se usa solo esa: DGCINE
 [Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 2643 letras -> https://presidencia.gob.do/
 Fuente oficial encontrada; se usa solo esa: Presidencia de la República Dominicana
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] simv.gob.do: texto leído 0 letras -> https://simv.gob.do/
+No se pudo leer el artículo; no se publica para no salir corta: Superintendencia del Mercado de Valores de la República Dominicana – Portal Institucional
 [Dominicanos en EE.UU.] Instituto Postal Dominicano - INPOSDOM: texto leído 3314 letras -> https://inposdom.gob.do/
 Fuente oficial encontrada; se usa solo esa: Instituto Postal Dominicano - INPOSDOM
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Postal Dominicano - INPOSDOM
-[Dominicanos en EE.UU.] Direccion General de Aduanas: texto leído 0 letras -> https://www.aduanas.gob.do/media/ilhpkpbb/requisitos-y-solicitud-mudanzas-importadas-con-base-en-la-ley-146-00.pdf
-No se pudo leer el artículo; no se publica para no salir corta: PERFILES ELEGIBLES, REQUISITOS Y DOCUMENTACIÓN A PRESENTAR PARA EXONERACIÓN DE AJUARES DEL HOGAR Y EFECTOS PERSONALES
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)
-[Dominicanos en EE.UU.] Dirección General de Contrataciones Públicas: texto leído 546 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/ChangePagingStyle?mkey=fd5e1150_8d2c_4ffe_99b2_b9aa67aec7f8
-Fuente oficial encontrada; se usa solo esa: Dirección General de Contrataciones Públicas
-La IA la descartó (no es noticia, rumor, opinión o publicidad): - Dirección General de Contrataciones Públicas
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] Homeland Security (.gov): texto leído 7000 letras -> https://www.dhs.gov/news/2026/10/28/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] ICE | U.S. Immigration and Customs Enforcement (.gov): texto leído 3751 letras -> https://www.ice.gov/news/releases/dozens-illegal-aliens-arrested-nationwide-voter-fraud-crackdown
 Fuente oficial encontrada; se usa solo esa: Homeland Security (.gov), ICE | U.S. Immigration and Customs Enforcement (.gov)
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia tal como está planteada, porque los dos textos que me pasas son comunicados oficiales del gobierno de EE.UU. (DHS e ICE) que solo muestran la versión de las autoridades.')
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-finland-regarding-the-technology-prosperity-deal/
-[Internacionales] U.S. Department of State (.gov): texto leído 4195 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-finnish-foreign-minister-elina-valtonen-at-a-memorandum-of-understanding-signing-ceremony-on-a-critical-minerals-framework-and-a-technology-prosperity-deal/
-Fuente oficial encontrada; se usa solo esa: The White House (.gov), U.S. Department of State (.gov)
-Fuente no confiable, se salta: instagram.com
-[Famosos] El Dia.com.do: texto leído 1325 letras -> https://eldia.com.do/juan-carlos-pichardo-encabezara-nueva-noche-de-humor-en-cabarete/
-[Famosos] Diario Libre: texto leído 1458 letras -> https://www.diariolibre.com/revista/cultura/2026/10/29/humorista-juan-carlos-pichardo-en-cabarete/3704824
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia con los textos que me pasaste. Los dos originales son comunicados oficiales de DHS e ICE que describen a personas por su nacionalidad y su condición migratori')
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ednc/pr/justice-department-charges-18-more-north-carolina-illegally-voting-2024-election-doj
+No se pudo leer el artículo; no se publica para no salir corta: Justice Department Charges 18 More in North Carolina with Illegally Voting in 2024 Election - DOJ Has Charged 30 People in North Carolina this Year for Illegally Voting
+[Dominicanos en EE.UU.] Attorney General (.gov): texto leído 0 letras -> https://www.texasattorneygeneral.gov/sites/default/files/images/press/HC%20Filing.pdf
+No se pudo leer el artículo; no se publica para no salir corta: Plaintiff, § § v. § § § TENESHIA HUDSPETH,in her Official Capacity as Harris County Clerk
+[Internacionales] The White House (.gov): texto leído 5922 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/
+Fuente oficial encontrada; se usa solo esa: The White House (.gov)
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Returns to Ohio With a Record of Results
+[Internacionales] The White House (.gov): texto leído 2324 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/
+Fuente oficial encontrada; se usa solo esa: The White House (.gov)
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High
+[Internacionales] The White House (.gov): texto leído 2987 letras -> https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/
+Fuente oficial encontrada; se usa solo esa: The White House (.gov)
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nSe trata de un documento de análisis de la Casa Blanca (The White House, .gov) con proyecciones económicas sobre reforma de permisos ambientales. No es una noticia sobre un hecho concre')
 [Famosos] Diario Libre: texto leído 3530 letras -> https://www.diariolibre.com/revista/sociales/2026/10/29/q-prro-wey-llega-al-pais/3705077
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El mercado del estilismo dominicano se expande con nuevas propuestas
 [Famosos] Diario Libre: texto leído 3579 letras -> https://www.diariolibre.com/revista/sociales/2026/10/29/caffe-vergnano-1882-abre-su-primer-coffee-shop/3705107
@@ -41,29 +45,31 @@ No encaja en ninguna sección, se salta: Caffè Vergnano 1882 abre su primer Cof
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuatro películas llegan a los cines dominicanos
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: baijing.cn
-[Famosos] El Nuevo Diario: texto leído 1951 letras -> https://elnuevodiario.com.do/gloria-trevi-sera-la-artista-oro-de-heat-latin-music-awards-al-estilo-jalisco/
-[Famosos] Billboard: texto leído 3083 letras -> https://www.billboard.com/espanol/noticias/gloria-trevi-artista-oro-premios-heat-2026-1236370296/
-[Famosos] Diario Libre: texto leído 2932 letras -> https://www.diariolibre.com/revista/musica/2026/10/29/gloria-trevi-es-nombrada-artista-oro-en-los-heat-latin-music-awards/3704994
+[Famosos] N Digital: texto leído 7000 letras -> https://n.com.do/2026/10/29/las-mujeres-que-han-dejado-su-huella-en-los-escenarios-dominicanos/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] El Nuevo Diario: texto leído 5337 letras -> https://elnuevodiario.com.do/esto-es-un-hito-un-antes-y-un-despues-dominicano-crea-en-el-bronx-el-mural-mas-alto-de-ee-uu/
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: «Esto es un hito, un antes y un después»: dominicano crea en el Bronx el mural más alto de EE. UU.
+Fuente no confiable, se salta: reddenoticias.online
+Fuente no confiable, se salta: metro.pr
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: metro.pr
+[Famosos] De Último Minuto: texto leído 1923 letras -> https://deultimominuto.com/entretenimiento/misaelporque-manana-es-tarde/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Porque mañana es tarde! Misael Lao y Karen Quero apuestan por conquistar las mañanas de la televisión dominicana
 [Precios y combustibles] Banco Central de la República Dominicana: texto leído 2155 letras -> https://www.bancentral.gov.do/a/d/2711-notas-del-banco-central
 Fuente oficial encontrada; se usa solo esa: Banco Central de la República Dominicana
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Notas del Banco Central
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: ecosistemastartup.com
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 2361 letras -> https://elnacional.com.do/economia/evangelicos-piden-dgii-revisar-aumento-marbete-impacto-economias-familiares_584834.html
-[Precios y combustibles] Z Digital: texto leído 2054 letras -> https://z101digital.com/codue-pide-a-la-dgii-revisar-aumento-del-marbete-por-impacto-en-el-bolsillo-de-las-familias/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Evangélicos piden a la DGII revisar aumento del marbete por su impacto en las economías familiares
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada; se usa solo esa: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
 [Videojuegos] Nintendo: texto leído 1756 letras -> https://www.nintendo.com/us/store/products/witchbrook-switch-2/
 Fuente oficial encontrada; se usa solo esa: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook for Nintendo Switch 2
-[Videojuegos] Nintendo: texto leído 7000 letras -> https://www.nintendo.com/us/whatsnew/new-indie-world-showcase-features-cozy-and-chaotic-fun-for-nintendo-switch-2-and-nintendo-switch/
+[Videojuegos] Nintendo: texto leído 1783 letras -> https://www.nintendo.com/us/store/products/petal-runner-switch-2/
 Fuente oficial encontrada; se usa solo esa: Nintendo
-Corregida de sección: Dominicanos en EE.UU. -> Internacionales: Harris pide votar contra la «tiranía» de Trump antes de las legislativas
-Se oculta (ahora usamos datos propios): Dólar hoy en República Dominicana: cotización de apertura del 29 de octubre
-Se oculta (ahora usamos datos propios): Precio del dólar hoy 29 de octubre de 2026
-Se oculta (ahora usamos datos propios): Precio del dólar hoy en República Dominicana, ¿a cómo está este jueves 29 de octubre?
-12 noticias nuevas, 104 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 19 · ya cubiertas: 5 · no confiables: 5 · opinión: 0 · con texto leído: 25 · sin texto: 1 · medios juntados: 5 · con fuente oficial: 13 · error IA: 1 · descartadas por la IA: 9 · cambiadas de sección: 1 · largas: 9 · ocultas (cortas): 1
-Para Instagram (tendencia 1): Precios de combustibles para la semana del 24 al 30 de octubre
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Petal Runner for Nintendo Switch 2
+Traducidas al inglés: 15 (quedan 0 por traducir)
+7 noticias nuevas, 111 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 30 · ya cubiertas: 8 · no confiables: 8 · opinión: 0 · con texto leído: 24 · sin texto: 3 · medios juntados: 0 · con fuente oficial: 13 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 12 · cambiadas de sección: 1 · largas: 4 · ocultas (cortas): 3
+Para Instagram (tendencia 2): SNS fija meta de 100% en registro en línea de nacidos vivos para 2026
