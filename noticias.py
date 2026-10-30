@@ -823,6 +823,47 @@ def noticias_de_datos(guardadas):
     guardar(ARCHIVO_DATOS, datos)
     return nuevas
 
+# ================= Traducir al inglés las noticias que no lo tienen =================
+TRADUCIR_POR_CORRIDA = 20  # cuántas noticias viejas se traducen en cada corrida
+
+INSTRUCCIONES_TRADUCIR = """Traduce al inglés esta noticia de Al Día RD para lectores en Estados Unidos.
+Traducción natural y fluida, no palabra por palabra. Mismos hechos, cifras y nombres; las instituciones dominicanas
+pueden quedar en español. No agregues nada que no esté en el texto.
+Responde EXACTAMENTE en este formato:
+TITLE_EN: (headline)
+HOOK_EN: (1 o 2 frases)
+KEYS_EN:
+- (key fact)
+WHY_EN: (1 o 2 oraciones, o "-")
+TEXT_EN:
+(los párrafos en inglés, separados por una línea en blanco)"""
+
+def traducir(n):
+    original = (f"TITULO: {n['titulo']}\nGANCHO: {n.get('gancho') or n['resumen']}\n"
+                + ("CLAVES:\n" + "\n".join("- " + c for c in n.get("claves") or []) + "\n")
+                + f"IMPORTA: {n.get('importa') or '-'}\nTEXTO:\n" + "\n\n".join(n["parrafos"]))
+    b = bloques(pedir_ia(INSTRUCCIONES_TRADUCIR + "\n\n" + original, 3000))
+    parrafos = partir_parrafos(b.get("TEXT_EN", ""))
+    if not _linea(b, "TITLE_EN") or len(parrafos) < 2:
+        raise ValueError("traducción incompleta")
+    return {"titulo": _linea(b, "TITLE_EN"),
+            "gancho": " ".join(b.get("HOOK_EN", "").split()).strip('"“” ') or parrafos[0][:170],
+            "claves": _lista(b, "KEYS_EN"), "importa": _importa(b.get("WHY_EN", "")), "parrafos": parrafos}
+
+def traducir_pendientes(todas):
+    """Traduce las noticias visibles que se publicaron antes de que la página fuera bilingüe."""
+    faltan = [n for n in visibles(todas) if not (n.get("en") or {}).get("parrafos") and n.get("traduccion_fallida", 0) < 2]
+    hechas = 0
+    for n in faltan[:TRADUCIR_POR_CORRIDA]:
+        try:
+            n["en"] = traducir(n)
+            hechas += 1
+        except Exception as err:
+            n["traduccion_fallida"] = n.get("traduccion_fallida", 0) + 1
+            print("No se pudo traducir:", n["titulo"], "->", repr(err)[:200])
+    if faltan:
+        print(f"Traducidas al inglés: {hechas} (quedan {len(faltan) - hechas} por traducir)")
+
 # ================= Tendencia =================
 VACIAS = set("""sobre entre desde hasta tras para por con sin los las del una unos unas este esta estos
 estas ese esa como mas pero porque cuando donde quien tiene tienen sera seran fue fueron hace hacia
@@ -1565,6 +1606,7 @@ def principal():
         if not n.get("id"):  # las más viejas no tenían número; lo necesitan para su página
             n["id"] = hashlib.md5(n["link"].encode()).hexdigest()[:10]
     calcular_tendencia(todas)
+    traducir_pendientes(todas)
     elegida = elegir_para_instagram(todas)
     consejo_del_dia(todas, consejos)
     consejos = consejos[-30:]
