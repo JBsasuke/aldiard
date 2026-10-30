@@ -287,6 +287,48 @@ def parrafos_simples(pagina):
     ps = [p for p in ps if len(p) > 80 and not re.search(r"cookies|suscr[ií]bete|derechos reservados|newsletter", p, re.I)]
     return "\n".join(ps)
 
+MEDIOS = {}  # dirección de la noticia -> {"videos": [...], "foto": ...}
+
+def medios_de_pagina(url, pagina):
+    """Busca videos de YouTube puestos dentro de la página y la foto principal (og:image)."""
+    videos = []
+    for vid in re.findall(r"youtube(?:-nocookie)?\.com/embed/([\w-]{11})", pagina):
+        if vid not in videos:
+            videos.append(vid)
+    foto = None
+    m = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', pagina, re.I) or \
+        re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image', pagina, re.I)
+    if m and m.group(1).startswith("http"):
+        foto = html.unescape(m.group(1))
+    MEDIOS[url] = {"videos": videos[:3], "foto": foto}
+
+def video_valido(vid, titulo):
+    """Confirma con YouTube (oEmbed, sin clave) que el video se puede poner en otra página y que
+    su título tiene que ver con la noticia. Devuelve el título del video o None."""
+    import urllib.request
+    try:
+        q = "https://www.youtube.com/oembed?format=json&url=" + urllib.parse.quote(f"https://www.youtube.com/watch?v={vid}")
+        with urllib.request.urlopen(urllib.request.Request(q, headers=NAVEGADOR), timeout=15) as r:
+            datos = json.load(r)
+    except Exception:
+        return None  # no existe o el dueño no deja ponerlo en otras páginas
+    t = datos.get("title", "")
+    return t if len(_palabras(t) & _palabras(titulo)) >= 2 else None
+
+def elegir_medios(versiones, titulo):
+    """Video: de cualquier fuente, si pasa la revisión. Foto: solo de páginas oficiales (con crédito)."""
+    video = foto = None
+    for v in sorted(versiones, key=lambda v: not es_oficial(v["dominio"])):
+        m = MEDIOS.get(v["url"], {})
+        for vid in m.get("videos", []):
+            if not video:
+                t = video_valido(vid, titulo)
+                if t:
+                    video = {"id": vid, "titulo": t}
+        if not foto and es_oficial(v["dominio"]) and m.get("foto"):
+            foto = {"url": m["foto"], "credito": v["fuente"]}
+    return video, foto
+
 def leer_articulo(link):
     """Saca la dirección real de la noticia (Google News la esconde) y el texto del artículo."""
     url = link
@@ -312,6 +354,10 @@ def leer_articulo(link):
         except Exception:
             pagina = ""
     if pagina:
+        try:
+            medios_de_pagina(url, pagina)
+        except Exception:
+            pass
         try:
             import trafilatura
             texto = trafilatura.extract(pagina, include_comments=False, include_tables=False) or ""
@@ -532,7 +578,7 @@ def otras_versiones(titulo, dom_principal, vistos, seccion=None):
     return salida[:MAX_MEDIOS - 1] if not any(es_oficial(x[1]) for x in salida) else salida[:MAX_MEDIOS]
 
 CUENTA = {"tasa/combustibles (usamos datos propios)": 0, "ya vistas": 0, "ya cubiertas": 0, "no confiables": 0, "opinión": 0, "con texto leído": 0,
-          "sin texto": 0, "medios juntados": 0, "con fuente oficial": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
+          "sin texto": 0, "medios juntados": 0, "con fuente oficial": 0, "con video": 0, "con foto oficial": 0, "error IA": 0, "descartadas por la IA": 0, "cambiadas de sección": 0, "largas": 0, "ocultas (cortas)": 0}
 
 def buscar(guardadas):
     vistos = ({n["link"] for n in guardadas} | {n["titulo"] for n in guardadas}
@@ -637,6 +683,12 @@ def buscar(guardadas):
                     oculta("corta")
                     continue
                 CUENTA["largas"] += 1
+                video, foto = elegir_medios(versiones, titulo)
+                if video:
+                    CUENTA["con video"] += 1
+                    print("Video de YouTube agregado:", video["titulo"])
+                if foto:
+                    CUENTA["con foto oficial"] += 1
                 # de primera: la oficial (si hay) y si no, la más completa
                 principal = max(versiones, key=lambda v: (es_oficial(v["dominio"]), len(v["texto"])))
                 versiones.sort(key=lambda v: v is not principal)
@@ -648,6 +700,7 @@ def buscar(guardadas):
                                "fuente": principal["fuente"], "dominio": principal["dominio"],
                                "fuentes": [{"nombre": v["fuente"], "url": v["url"]} for v in versiones],
                                "institucional": all(es_oficial(v["dominio"]) for v in versiones),
+                               "video": video, "foto": foto,
                                "seccion": sec_final, "fecha": ahora().isoformat()})
                 recientes.append(titulo)
                 if sec_final == seccion:  # si se fue a otra sección, no gasta el cupo de esta
@@ -1239,6 +1292,15 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .importa h2{color:var(--extra-t)}
 .articulo .cuerpo .importa p{margin:0;font-size:16.5px}
 .idioma{font:800 13px Inter,system-ui,sans-serif;letter-spacing:.02em}
+.mini{position:relative;display:block;margin:-18px -20px 6px;aspect-ratio:16/9;overflow:hidden;border-radius:10px 10px 0 0;background:var(--linea)}
+.destacada .mini{margin:-26px -28px 8px}
+.mini img{width:100%;height:100%;object-fit:cover;display:block}
+.play{position:absolute;inset:0;margin:auto;width:58px;height:58px;border-radius:50%;background:#000a;color:#fff;display:grid;place-items:center;font-size:22px;padding-left:4px}
+.foto{margin:0 0 18px}
+.foto img{width:100%;border-radius:12px;display:block}
+.foto figcaption{font-size:12.5px;color:var(--gris);margin-top:6px}
+.video{position:relative;aspect-ratio:16/9;margin:0 0 20px;border-radius:12px;overflow:hidden;background:#000}
+.video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .solo-es{font-size:11px;font-weight:700;color:var(--gris);border:1px solid var(--linea);border-radius:999px;padding:1px 8px}
 """
 
@@ -1419,6 +1481,34 @@ def texto_tarjeta(n, lang="es"):
     t = re.split(r"(?<=[.!?])\s+", n["resumen"].strip())[0]
     return t if len(t) <= 130 else t[:125].rsplit(" ", 1)[0] + "…"
 
+def miniatura(n, enlace):
+    """Foto oficial o la imagen del video de YouTube arriba de la tarjeta (si hay)."""
+    if n.get("foto"):
+        src = n["foto"]["url"]
+    elif n.get("video"):
+        src = f"https://i.ytimg.com/vi/{n['video']['id']}/hqdefault.jpg"
+    else:
+        return ""
+    play = '<span class="play" aria-hidden="true">▶</span>' if n.get("video") and not n.get("foto") else ""
+    return (f'<a class="mini" href="{enlace}" tabindex="-1" aria-hidden="true">'
+            f'<img src="{html.escape(src)}" alt="" loading="lazy" referrerpolicy="no-referrer" '
+            f'onerror="this.parentNode.remove()">{play}</a>')
+
+def bloque_medios(n, lang):
+    """En la página de la noticia: la foto oficial con su crédito y el video de YouTube."""
+    salida = ""
+    if n.get("foto") and not n.get("video"):  # con video, va solo el video (la foto queda para la portada)
+        etiqueta = "Photo" if lang == "en" else "Foto"
+        salida += (f'<figure class="foto"><img src="{html.escape(n["foto"]["url"])}" alt="" loading="lazy" '
+                   f'referrerpolicy="no-referrer" onerror="this.closest(\'figure\').remove()">'
+                   f'<figcaption>{etiqueta}: {html.escape(n["foto"]["credito"])}</figcaption></figure>')
+    if n.get("video"):
+        v = n["video"]
+        salida += (f'<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/{v["id"]}" '
+                   f'title="{html.escape(v["titulo"])}" loading="lazy" allowfullscreen '
+                   f'allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"></iframe></div>')
+    return salida
+
 def tarjeta(n, lang="es", grande=False):
     """Todas las tarjetas abren nuestra propia página de la noticia."""
     t = T[lang]
@@ -1430,7 +1520,7 @@ def tarjeta(n, lang="es", grande=False):
     aviso = "" if propio else f' <span class="solo-es">{t["solo_es"]}</span>'
     return f"""
 <article class="nota {c}{' destacada' if grande else ''}" data-sec="{c}">
-  <div class="meta"><span class="chip">{html.escape(nombre_seccion(n['seccion'], lang))}</span>
+  {miniatura(n, enlace)}<div class="meta"><span class="chip">{html.escape(nombre_seccion(n['seccion'], lang))}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span>{aviso}</div>
   <h2><a href="{enlace}"{'' if propio else ' hreflang="es"'}>{html.escape(dato(n, 'titulo', lang_n))}</a></h2>
   <p>{html.escape(texto_tarjeta(n, lang_n))}</p>
@@ -1491,7 +1581,9 @@ def generar_notas(todas, lang="es"):
         url = SITIO + pagina_nota(n, lang)
         otro = "en" if lang == "es" else "es"
         alterna = SITIO + pagina_nota(n, otro) if (otro == "es" or tiene_en(n)) else None
-        img = SITIO + "/" + n["ig_img"] if n.get("ig_img") else SITIO + "/img/logo-512.png"
+        img = (n["foto"]["url"] if n.get("foto") else SITIO + "/" + n["ig_img"] if n.get("ig_img")
+               else f"https://i.ytimg.com/vi/{n['video']['id']}/hqdefault.jpg" if n.get("video")
+               else SITIO + "/img/logo-512.png")
         titulo, gancho = dato(n, "titulo", lang), dato(n, "gancho", lang)
         claves, importa = dato(n, "claves", lang), dato(n, "importa", lang)
         cuerpo = ""
@@ -1525,6 +1617,7 @@ def generar_notas(todas, lang="es"):
   <div class="meta"><span class="chip">{html.escape(nombre_seccion(n['seccion'], lang))}</span>
     <span class="hora" data-fecha="{n['fecha']}"></span></div>
   <h1>{html.escape(titulo)}</h1>
+  {bloque_medios(n, lang)}
   <div class="cuerpo">{cuerpo}</div>
   {botones_propios(n, lang)}
   <div class="credito">{t['credito_datos'] if n.get('oficial') else t['credito_inst'] if n.get('institucional') else (t['credito2'] if varias else t['credito1'])}:
