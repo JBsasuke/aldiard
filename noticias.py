@@ -875,6 +875,7 @@ INSTRUCCIONES_DATOS = """Eres redactor de Al Día RD, un medio digital dominican
 Escribe una noticia propia, útil y clara para dominicanos en RD y en EE.UU., usando SOLO estos números, exactos.
 - QUE_ES
 - No inventes cifras, causas ni pronósticos. Si un dato no viene, no lo menciones.
+- No hagas cálculos de ejemplo (como "si cambias 1,000 dólares..."): usa los números tal como vienen, con 2 decimales.
 - Explica qué subió, qué bajó y qué se mantuvo (si hay comparación), y qué significa para el bolsillo.
 - El GANCHO dice de qué va sin dar todos los números, para que den ganas de entrar.
 - LARGO: entre 3 y 5 párrafos (de 150 a 300 palabras).
@@ -916,7 +917,16 @@ def redactar_datos(que_es, datos):
             ultimo = err
     else:
         raise ultimo
-    return revisar(r, json.dumps(datos, ensure_ascii=False))  # se revisa contra los mismos datos
+    # se revisa contra los mismos datos; los precios van también con 2 decimales (59.5 = 59.50)
+    def con_decimales(x):
+        if isinstance(x, float):
+            return [x, f"{x:.2f}"]
+        if isinstance(x, dict):
+            return {k: con_decimales(v) for k, v in x.items()}
+        if isinstance(x, list):
+            return [con_decimales(v) for v in x]
+        return x
+    return revisar(r, json.dumps(con_decimales(datos), ensure_ascii=False))
 
 def nota_de_datos(clave, r, fuente_nombre, fuente_url, link):
     return {"id": hashlib.md5(clave.encode()).hexdigest()[:10], "titulo": r["titulo"], "titulo_original": clave,
