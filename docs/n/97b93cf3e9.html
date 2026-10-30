@@ -42,6 +42,10 @@ header{background:var(--blanco);border-bottom:1px solid var(--linea);position:st
 nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
 nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
 nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
+#arriba{position:fixed;right:16px;bottom:20px;z-index:30;width:46px;height:46px;border-radius:50%;border:0;background:var(--azul);color:#fff;
+ box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+#arriba.ver{opacity:1;transform:none;pointer-events:auto}#arriba svg{width:22px;height:22px}
+@media (prefers-reduced-motion:reduce){#arriba{transition:none}}
 main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}
 .meta{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}
@@ -150,7 +154,7 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
     <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//aldiard.com/n/97b93cf3e9.html" target="_blank" rel="noopener">Compartir en Facebook</a>
   </div>
 </article>
-<section class="relacionadas"><h3>Más de Famosos</h3><a href="/n/4745675623.html">Soy Luna llega a RD con su último show este sábado en Santo Domingo</a><a href="/n/8d0cda2bef.html">Tulile regresa con &quot;Desahogo&quot;, una versión en merengue de Roberto Carlos</a><a href="/n/bcc296dd1d.html">Karol G y Young Miko dividen las redes con un baile sensual en Orlando</a><a href="/n/c9e9680169.html">Lil Naay llega al Coliseo Teo Cruz con su primer concierto en solitario en el país</a><a href="/n/2570f52dca.html">Nfasis critica a Químico Ultra Mega y dice que su tiradera es &quot;básica y predecible</a></section>
+<section class="relacionadas"><h3>Más de Famosos</h3><a href="/n/298aba347c.html">Michael Douglas revela cómo vive hoy Jack Nicholson lejos del cine</a><a href="/n/4745675623.html">Soy Luna llega a RD con su último show este sábado en Santo Domingo</a><a href="/n/8d0cda2bef.html">Tulile regresa con &quot;Desahogo&quot;, una versión en merengue de Roberto Carlos</a><a href="/n/bcc296dd1d.html">Karol G y Young Miko dividen las redes con un baile sensual en Orlando</a><a href="/n/c9e9680169.html">Lil Naay llega al Coliseo Teo Cruz con su primer concierto en solitario en el país</a></section>
 </main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
@@ -177,10 +181,18 @@ function hace(iso){var m=Math.round((Date.now()-new Date(iso))/60000);
  if(m<1)return'ahora';if(m<60)return'hace '+m+' min';var h=Math.round(m/60);
  if(h<24)return'hace '+h+(h==1?' hora':' horas');var d=Math.round(h/24);return'hace '+d+(d==1?' día':' días');}
 document.querySelectorAll('.hora').forEach(function(e){e.textContent='· '+hace(e.dataset.fecha)});
+var suave=matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth';
 document.querySelectorAll('nav button').forEach(function(b){b.onclick=function(){
  document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
  document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
  var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+ window.scrollTo({top:0,behavior:suave});  // al escoger una sección, se ven sus noticias desde arriba
 }});
+// Flechita para volver arriba: sale cuando bajas un poco
+(function(){var a=document.createElement('button');a.id='arriba';a.type='button';
+ a.setAttribute('aria-label',EN?'Back to top':'Volver arriba');a.title=EN?'Back to top':'Volver arriba';
+ a.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
+ a.onclick=function(){window.scrollTo({top:0,behavior:suave})};document.body.appendChild(a);
+ function mirar(){a.classList.toggle('ver',window.scrollY>500)}window.addEventListener('scroll',mirar,{passive:true});mirar();})();
 </script>
 </body></html>

@@ -9,7 +9,7 @@
 <link rel="alternate" hreflang="en" href="https://aldiard.com/en/n/967904705e.html">
 <meta property="og:title" content="Eight Dominican-origin candidates run in U.S. midterm elections · Al Día RD">
 <meta property="og:description" content="Eight candidates of Dominican origin are seeking office in the United States. One candidate could become the first Dominican-American woman in Congress.">
-<meta property="og:image" content="https://aldiard.com/img/logo-512.png">
+<meta property="og:image" content="https://aldiard.com/ig/967904705e.jpg">
 <meta property="og:url" content="https://aldiard.com/en/n/967904705e.html">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
@@ -42,6 +42,10 @@ header{background:var(--blanco);border-bottom:1px solid var(--linea);position:st
 nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
 nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
 nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
+#arriba{position:fixed;right:16px;bottom:20px;z-index:30;width:46px;height:46px;border-radius:50%;border:0;background:var(--azul);color:#fff;
+ box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+#arriba.ver{opacity:1;transform:none;pointer-events:auto}#arriba svg{width:22px;height:22px}
+@media (prefers-reduced-motion:reduce){#arriba{transition:none}}
 main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:8px;border-top:4px solid var(--rojo)}
 .meta{display:flex;align-items:center;gap:10px;font-size:13px;color:var(--gris)}
@@ -117,7 +121,7 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .solo-es{font-size:11px;font-weight:700;color:var(--gris);border:1px solid var(--linea);border-radius:999px;padding:1px 8px}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Eight Dominican-origin candidates run in U.S. midterm elections", "inLanguage": "en", "datePublished": "2026-10-30T15:15:49.314044+00:00", "image": ["https://aldiard.com/img/logo-512.png"], "mainEntityOfPage": "https://aldiard.com/en/n/967904705e.html", "publisher": {"@type": "Organization", "name": "Al Día RD", "logo": {"@type": "ImageObject", "url": "https://aldiard.com/img/logo-512.png"}}}</script></head>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Eight Dominican-origin candidates run in U.S. midterm elections", "inLanguage": "en", "datePublished": "2026-10-30T15:15:49.314044+00:00", "image": ["https://aldiard.com/ig/967904705e.jpg"], "mainEntityOfPage": "https://aldiard.com/en/n/967904705e.html", "publisher": {"@type": "Organization", "name": "Al Día RD", "logo": {"@type": "ImageObject", "url": "https://aldiard.com/img/logo-512.png"}}}</script></head>
 <body>
 <div class="franja"></div>
 <header>
@@ -150,7 +154,7 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
     <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//aldiard.com/en/n/967904705e.html" target="_blank" rel="noopener">Share on Facebook</a>
   </div>
 </article>
-<section class="relacionadas"><h3>More from Dominicans in the U.S.</h3><a href="/en/n/035dc17afc.html">U.S. Lists Dominican-Born Man Among 16 Most-Wanted Labor Fraud Fugitives</a><a href="/en/n/d0c55f3b5b.html">Former New York Sergeant Sentenced to Up to 12 Years for Crash That Killed Dominican Man</a><a href="/en/n/14a8b9ff9d.html">Panamanian Accused of Child Sex Abuse in Tennessee Arrested in Dominican Republic</a><a href="/en/n/edd3a561d2.html">Dominican-American Candidates Seek Bigger Role in Pivotal U.S. Midterms</a><a href="/en/n/24fa7baf08.html">Dominican Man Arrested in New York Over Alleged Voter Registration Fraud</a></section>
+<section class="relacionadas"><h3>More from Dominicans in the U.S.</h3><a href="/en/n/3f65c986f7.html">Yonkers Sets Curfew for Minors on Halloween Night</a><a href="/en/n/035dc17afc.html">U.S. Lists Dominican-Born Man Among 16 Most-Wanted Labor Fraud Fugitives</a><a href="/en/n/d0c55f3b5b.html">Former New York Sergeant Sentenced to Up to 12 Years for Crash That Killed Dominican Man</a><a href="/en/n/14a8b9ff9d.html">Panamanian Accused of Child Sex Abuse in Tennessee Arrested in Dominican Republic</a><a href="/en/n/edd3a561d2.html">Dominican-American Candidates Seek Bigger Role in Pivotal U.S. Midterms</a></section>
 </main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
@@ -177,10 +181,18 @@ function hace(iso){var m=Math.round((Date.now()-new Date(iso))/60000);
  if(m<1)return'ahora';if(m<60)return'hace '+m+' min';var h=Math.round(m/60);
  if(h<24)return'hace '+h+(h==1?' hora':' horas');var d=Math.round(h/24);return'hace '+d+(d==1?' día':' días');}
 document.querySelectorAll('.hora').forEach(function(e){e.textContent='· '+hace(e.dataset.fecha)});
+var suave=matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth';
 document.querySelectorAll('nav button').forEach(function(b){b.onclick=function(){
  document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
  document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
  var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+ window.scrollTo({top:0,behavior:suave});  // al escoger una sección, se ven sus noticias desde arriba
 }});
+// Flechita para volver arriba: sale cuando bajas un poco
+(function(){var a=document.createElement('button');a.id='arriba';a.type='button';
+ a.setAttribute('aria-label',EN?'Back to top':'Volver arriba');a.title=EN?'Back to top':'Volver arriba';
+ a.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
+ a.onclick=function(){window.scrollTo({top:0,behavior:suave})};document.body.appendChild(a);
+ function mirar(){a.classList.toggle('ver',window.scrollY>500)}window.addEventListener('scroll',mirar,{passive:true});mirar();})();
 </script>
 </body></html>
