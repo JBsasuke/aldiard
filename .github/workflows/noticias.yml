@@ -8,6 +8,8 @@ permissions:
 concurrency:
   group: noticias
   cancel-in-progress: false
+env:
+  PROYECTO_CF: aldiard-web  # el proyecto de Cloudflare Pages con subida directa (no gasta el límite de 500)
 jobs:
   publicar:
     runs-on: ubuntu-latest
@@ -21,13 +23,26 @@ jobs:
         run: python noticias.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      - name: Subir la página
+      - name: Guardar la página en GitHub
         run: |
           git config user.name "aldiard-bot"
           git config user.email "bot@aldiard.com"
           git add docs
-          git commit -m "Noticias $(date -u +%F_%H%M)" || echo "sin cambios"
+          git commit -m "Noticias $(date -u +%F_%H%M) [CF-Pages-Skip]" || echo "sin cambios"
           git push
+      - name: Crear el proyecto en Cloudflare (solo la primera vez)
+        continue-on-error: true   # si ya existe, da error y se sigue normal
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages project create ${{ env.PROYECTO_CF }} --production-branch=main
+      - name: Subir la página directo a Cloudflare
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy docs --project-name=${{ env.PROYECTO_CF }} --branch=main --commit-dirty=true
       - name: Publicar en Instagram
         run: python instagram.py
         env:
@@ -36,5 +51,5 @@ jobs:
       - name: Guardar lo publicado
         run: |
           git add docs
-          git commit -m "Instagram $(date -u +%F_%H%M)" || echo "sin cambios"
+          git commit -m "Instagram $(date -u +%F_%H%M) [CF-Pages-Skip]" || echo "sin cambios"
           git push
