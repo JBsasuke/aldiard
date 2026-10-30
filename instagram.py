@@ -57,17 +57,29 @@ def pedir(url, datos=None):
     except urllib.error.HTTPError as e:
         raise RuntimeError(f"{e.code}: {e.read().decode(errors='replace')[:400]}")
 
-def esperar_imagen(url, minutos=10):
-    """GitHub Pages tarda un par de minutos en publicar la imagen nueva."""
-    fin = time.time() + minutos * 60
+NAVEGADOR = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+             "(KHTML, like Gecko) Chrome/129.0 Safari/537.36")
+
+def esperar_imagen(url, minutos=15):
+    """Cloudflare Pages tarda unos minutos en publicar la imagen nueva.
+    Se pide como un navegador (Cloudflare a veces bloquea a Python) y se anota qué responde."""
+    fin, ultimo, vueltas = time.time() + minutos * 60, "", 0
     while time.time() < fin:
+        vueltas += 1
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=20) as r:
-                if r.status == 200:
+            pedido = urllib.request.Request(url, headers={"User-Agent": NAVEGADOR, "Range": "bytes=0-1023"})
+            with urllib.request.urlopen(pedido, timeout=20) as r:
+                tipo = r.headers.get("Content-Type", "")
+                if r.status in (200, 206) and tipo.startswith("image/"):
+                    print(f"Imagen lista en la página (intento {vueltas})")
                     return True
-        except Exception:
-            pass
-        time.sleep(20)
+                ultimo = f"respondió {r.status} pero no es imagen ({tipo or 'sin tipo'})"
+        except urllib.error.HTTPError as e:
+            ultimo = f"HTTP {e.code}"
+        except Exception as e:
+            ultimo = repr(e)[:150]
+        time.sleep(30)
+    print(f"La imagen no apareció en {minutos} minutos. Lo último que respondió aldiard.com: {ultimo}")
     return False
 
 def texto_noticia(n):
