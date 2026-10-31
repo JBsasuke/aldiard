@@ -1,97 +1,96 @@
-Corrida: 2026-10-31 04:02 PM (hora RD)
-Noticia con datos propios: Dólar hoy en RD: dónde cambiar para pagar más por tus dólares
+Corrida: 2026-10-31 07:27 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 3435 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-entrega-escuela-basica-maestra-altagracia-hernandez-y-la-escuela
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Presidente Luis Abinader entrega Escuela Básica Maestra Altagracia Hernández y la Escuela Primaria Profesor César Agustín González -> cifras que no aparecen en las fuentes: 193
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Presidencia de la República Dominicana: texto leído 0 letras -> https://presidencia.gob.do/admin/structure/block/manage/presidency_search?destination=/node
-No se pudo leer el artículo; no se publica para no salir corta: - Presidencia de la República Dominicana
-[República Dominicana] Ministerio de Administración Pública: texto leído 5239 letras -> https://map.gob.do/transparencia/link-de-acceso-y-registro-al-portal-311-sobre-quejas-reclmaciones-sugerencias-y-denuncias/
-Fuente oficial encontrada: Ministerio de Administración Pública 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Link de Acceso y Registro al Portal 311 sobre Quejas, Reclmaciones, Sugerencias y Denuncias
-[República Dominicana] Dirección de Prensa del Presidente: texto leído 4478 letras -> https://prensadelpresidente.gob.do/noticias/presidente-de-la-asociacion-dominicana-de-hacendados-y-agricultores-destaca-financiamientos-por-mas-de-rd25000-millones-a-favor-de-mas-de-19-mil-productores-en-2025-por-iniciativa-de-abinader-para-f/
-Fuente oficial encontrada: Dirección de Prensa del Presidente 
-Revisión: corregida (eliminé "y el presidente" faltante no aplica; corregí "para y proteger" no está en el borrador; ajusté la atr
-[República Dominicana] centralnoticias.gob.do: texto leído 1807 letras -> https://centralnoticias.gob.do/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
-[República Dominicana] El Nuevo Diario: texto leído 1812 letras -> https://elnuevodiario.com.do/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
-[República Dominicana] ABC Color: texto leído 1627 letras -> https://www.abc.com.py/internacionales/2026/10/31/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-Cambiada de sección: República Dominicana -> Internacionales: Japón exige a Rusia que libere al periodista nipón detenido por sospechas de espionaje
-Revisión: corregida (eliminé "en la isla rusa de Sajalín" → mantengo; cambié "celebrada" a "realizada"; añadí "en la isla rusa" no
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/tribunal-confirma-otra-vez-la-prision-preventiva-a-vinculado-a-red-de-corrupcion-enfrentada-con-la-operacion-cobra/
-No se pudo leer el artículo; no se publica para no salir corta: Tribunal confirma otra vez la prisión preventiva a vinculado a red de corrupción enfrentada con la Operación Cobra
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/wp-content/plugins/
-No se pudo leer el artículo; no se publica para no salir corta: - Policía Nacional de la República Dominicana
-[República Dominicana] reservas.zoodom.gov.do: texto leído 123 letras -> https://reservas.zoodom.gov.do/admin/login
-No se pudo leer el artículo; no se publica para no salir corta: Acceso - ZOODOM Reservas
-[República Dominicana] Hospital Infantil Dr. Robert Reid Cabral: texto leído 2974 letras -> https://www.hirrc.gov.do/transparencia/index.php/finanzas/balance-general/category/2892-septiembre
-Fuente oficial encontrada: Hospital Infantil Dr. Robert Reid Cabral 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Balance general - SEPTIEMBRE
+Revisión: corregida (eliminé "Also participaron" por inglés en el español, corregí "Also attending" a "Also attending" → "Also in 
+[República Dominicana] En Salud Digital: texto leído 3582 letras -> https://ensaluddigital.gob.do/maternidad-de-los-mina-reconoce-aportes-de-enfermera-y-pediatra/
+Fuente oficial encontrada: En Salud Digital 
+Revisión: corregida (se quitó "en la institución" y se ajustó "en diferentes programas" a la fuente; se eliminó la afirmación de "
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koh
+[República Dominicana] BNPHU: texto leído 1963 letras -> https://koha2.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=43093
+Fuente oficial encontrada: BNPHU 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[República Dominicana] Ayuntamiento de San Pedro de Macorís: texto leído 920 letras -> https://ayuntamientosanpedro.gob.do/transparencia/documentos/san-p-daf-cd-0037/
+Fuente oficial encontrada: Ayuntamiento de San Pedro de Macorís 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Categorias de archivos SAN P.-DAF-CD-0037
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3274599
+No se pudo leer el artículo; no se publica para no salir corta: Presidente de la Repiublica Dominicana. EL CONGRESO NACIONAL, En Nombre de la Republica. WJMERO 51. DECLAIRADA LA URlGENCIA HA D
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3264679
+No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.- 1873
+[República Dominicana] De Último Minuto: texto leído 4282 letras -> https://deultimominuto.com/nacionales/control-migratorio-1272-agentes/
+[República Dominicana] Noticias SIN: texto leído 3905 letras -> https://noticiassin.com/pais/nacional/2026/10/31/rd-refuerza-control-migratorio-con-1272-agentes-y-11-mil-soldados-en-la-frontera-2159746/
+Rechazada por la revisión: RD refuerza el control migratorio con 1,272 agentes y 11,000 soldados en la frontera -> cifras que no aparecen en las fuentes: 0
+[República Dominicana] De Último Minuto: texto leído 3244 letras -> https://deultimominuto.com/internacionales/en-halloween-policia-francesa/
+Cambiada de sección: República Dominicana -> Internacionales: Policía francesa se reorganiza para evitar actos vandálicos en la noche de Halloween
+Revisión: corregida (atribución a Listín Diario eliminada porque la fuente de las declaraciones es De Último Minuto; "Sin embargo"
+[República Dominicana] De Último Minuto: texto leído 2556 letras -> https://deultimominuto.com/internacionales/saquean-tiendas-francfort/
+Cambiada de sección: República Dominicana -> Internacionales: Violentos saquean tiendas en Fráncfort tras una protesta juvenil mayormente pacífica
+Revisión: corregida (Se cambió "Fráncfort, Alemania" por "Fráncfort" sin el país en el primer párrafo no aplica; se corrigió la at
 [Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 2721 letras -> https://usa.mirex.gob.do/agendadiplomatica6/
 Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Agenda Diplomática Núm. 6
+[Dominicanos en EE.UU.] U.S. Embassy in Honduras (.gov): texto leído 1627 letras -> https://hn.usembassy.gov/threat-alert-u-s-embassy-tegucigalpa-honduras-october-30-2026/
+Fuente oficial encontrada: U.S. Embassy in Honduras (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Threat Alert – U.S. Embassy Tegucigalpa, Honduras (October 30, 2026)
+Revisión: corregida (se cambió "Embajada de EE.UU. pide evitar" por formulación más precisa; se atribuyó el aviso de seguridad a l
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2479 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/10/ukraine-patriot-advanced-capability-3-pac-3-missiles
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles
 Rechazada por la revisión: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles -> cifras que no aparecen en las fuentes: 2100
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2582 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-plenary-session-on-geopolitical-issues/
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2433 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-japan-republic-of-korea-rok-trilateral-foreign-ministers-meeting-2/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary of State Marco Rubio at a Plenary Session on Geopolitical Issues
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 2009 letras -> https://almomento.net/embajadora-de-eeuu-agradece-acogida-de-pueblo-dominicano/
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Embajadora de EEUU agradece acogida de pueblo dominicano
-Revisión: corregida (cambié "Embajadora de EE.UU." por "Embajadora de Estados Unidos" en el titular para mantener estilo sin abrev
-[Dominicanos en EE.UU.] Hoy Digital: texto leído 2287 letras -> https://hoy.com.do/el-mundo/estados-unidos/elecciones-nueva-york-haile-rivera-insta-hispanos-votar-defender-voz_1107267_amp.html
-Revisión: corregida (eliminé "Sostuvo" y "Rivera afirmó" redundancias menores no; principalmente: corregí "territorio" en vez de "
-Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2518 letras -> https://elnuevodiario.com.do/embajada-estadounidense-lanza-una-campana-para-promover-el-consumo-de-carnes/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Embajada estadounidense lanza una campaña para promover el consumo de carnes
-Revisión: corregida (se añadió la cifra "30" en la clave española y se completó "30 winners" en la inglesa; se corrigió "Make Amer
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: United States-Japan-Republic of Korea (ROK) Trilateral Foreign Ministers’ Meeting
+Revisión: corregida (se ajustó la redacción de "signed" y se unificó el texto según las fuentes; el borrador ya era fiel, así que 
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 2375 letras -> https://almomento.net/miami-periodista-dominicano-dany-alcantara-recibe-premio/
+Revisión: corregida (se quitó "Según la información disponible" por no estar en la fuente y se eliminó "y su vinculación con el pr
+[Dominicanos en EE.UU.] Listín Diario: texto leído 4396 letras -> https://listindiario.com/las-mundiales/ee-uu/20261031/miami-fiestas-alcohol-popularizan-obligando-hosteleria-adaptarse_928254.html
+Revisión: corregida (eliminé la atribución errónea a Gallup del dato del 17 %, que en la fuente no viene de Gallup sino de la encu
 [Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. El único texto que me pasas es un mensaje oficial de la Casa Blanca sobre el Día de la Reforma, sin ningún hecho noticioso verificable de interés para la com')
+Error IA: ValueError('respuesta sin el formato esperado: Me temo que no puedo redactar esta noticia como pide el encargo, porque solo hay una fuente y es un mensaje presidencial de la Casa Blanca sobre el Día de la Reforma. Es una declaración simbólica y de')
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance
 [Internacionales] The White House (.gov): texto leído 3420 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-oct-30-2026/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Delivers Remarks, Oct. 30, 2026
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] El Nacional — La voz de todos: texto leído 1605 letras -> https://elnacional.com.do/fama-y-vida/farandula/reaviva-conflicto-amelia-alcantara-caro-brito-disputa-legal_585039_amp.html
+Revisión: corregida (se quitó "Al Pelo" y la atribución quedó como dicha por Alcántara; se corrigió "la comunicadora la acusó" sin
 [Famosos] Diario Libre: texto leído 4254 letras -> https://www.diariolibre.com/actualidad/politica/2026/10/31/leonel-fernandez-acusa-al-gobierno-de-demagogia-por-caso-del-arroz/3706837
+[Famosos] Listín Diario: texto leído 4212 letras -> https://listindiario.com/la-republica/politica/20261031/leonel-acusa-gobierno-provocar-humillacion-internacional-manejo-arroz_928276.html
 Cambiada de sección: Famosos -> República Dominicana: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta
 Rechazada por la revisión: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta -> cifras que no aparecen en las fuentes: 500000
-Fuente no confiable, se salta: proceso.hn
-[Famosos] Diario Libre: texto leído 4170 letras -> https://www.diariolibre.com/revista/sociales/2026/10/30/embajada-de-turquia-celebra-su-fiesta-nacional/3706326
-Cambiada de sección: Famosos -> Internacionales: Turquía celebra 103 años de su República
-Revisión: corregida (fecha del acto corregida de 29 de octubre de 2026 a fecha no indicada en fuentes: se quitó la fecha específic
-[Famosos] Diario Libre: texto leído 4476 letras -> https://www.diariolibre.com/revista/sociales/2026/10/30/pucmm-reconoce-plataforma-yo-soy-claro/3706220
-[Famosos] Noticias SIN: texto leído 4384 letras -> https://noticiassin.com/pais/2026/10/30/pucmm-reconoce-campana-yo-soy-claro-de-claro-dominicana-2159020/?amp=1
-La IA la descartó (no es noticia, rumor, opinión o publicidad): PUCMM reconoce Plataforma “Yo Soy Claro” como Mejor Campaña estratégica de posicionamiento de marca
-[Famosos] Diario Libre: texto leído 2848 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/codessd-destaca-potencial-de-rd-en-economia-digital-durante-foro/3706121
-Cambiada de sección: Famosos -> República Dominicana: Codessd presenta avances en innovación digital durante foro celebrado en la ONU
-Revisión: corregida (se cambió "Burocracia Cero" en el texto para atribuirlo a la fuente y se eliminó la afirmación de que el país
-Fuente no confiable, se salta: artishockrevista.com
+Fuente no confiable, se salta: meridiano.net
 Fuente no confiable, se salta: puntacana-bavaro.com
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: ciudadoriental.com
+[Famosos] N Digital: texto leído 4933 letras -> https://n.com.do/2026/10/30/como-nace-la-tradicion-de-escucharse-merengue-en-tiempos-de-navidad/
+Cambiada de sección: Famosos -> República Dominicana: Cómo nace la tradición de escucharse merengue en tiempos de Navidad
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "Trulla navideña" como señal de diciembre en el primer párrafo sin fuente 
+Rechazada por la revisión: Cómo nace la tradición de escucharse merengue en tiempos de Navidad -> cifras que no aparecen en las fuentes: 1970
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/cultura/carlos-piantini-fotos-y-memorias-4-en-el-centenario-de-su-natalicio/
-No se pudo leer el artículo; no se publica para no salir corta: Carlos Piantini: Fotos Y Memorias (4) En El Centenario De Su Natalicio (*)
-[Famosos] Acento: texto leído 4851 letras -> https://acento.com.do/cultura/dionisio-blanco-una-vida-dedicada-a-sembrar-arte-e-identidad-9781050.html
-Cambiada de sección: Famosos -> República Dominicana: Dionisio Blanco: una vida dedicada a sembrar arte
-Revisión: corregida (eliminé "de más de cinco décadas" redundante en el gancho; ajusté "trabajó" en lugar de "Trabajó" sin cambio 
-[Precios y combustibles] AlMomento.net: texto leído 2083 letras -> https://almomento.net/gobierno-busca-cambiar-forma-para-fijar-precios-combustibles/
-Revisión: corregida (eliminé "es importante"/"cabe destacar"-tipo relleno no había; corregí "Sanz Lovatón expresó su preocupación.
-Video de YouTube agregado: Gobierno busca cambiar forma de fijar precios combustibles 
+[Famosos] CDN: texto leído 0 letras -> https://cdn.com.do/entretenimiento/mas-de-30-dominicanos-tendran-presencia-en-los-premios-heat-2026/
+No se pudo leer el artículo; no se publica para no salir corta: Más de 30 dominicanos tendrán presencia en los Premios HEAT 2026
+[Famosos] De Último Minuto: texto leído 2968 letras -> https://deultimominuto.com/entretenimiento/edward-cruz-se-suma/
+Revisión: corregida (quité "Tampoco" sobrante y ajusté "a seguir" a "a los seguidores" en el lead de Yo; cambié "semanas intensas"
+[Precios y combustibles] El Nacional — La voz de todos: texto leído 2492 letras -> https://elnacional.com.do/economia/banco-central-mantiene-tasa-politica-monetaria-pese-incertidumbre-internacional_585018.html
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/bc-mantiene-tasa-politica-monetaria-en-5-50-anual/
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Precios y combustibles] AlMomento.net: texto leído 0 letras -> https://almomento.net/banco-central-mantiene-tasa-de-politica-monetaria-en-5-50/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Banco Central mantiene tasa de política monetaria pese a incertidumbre internacional
+Rechazada por la revisión: Banco Central mantiene tasa de política monetaria pese a incertidumbre internacional -> cifras que no aparecen en las fuentes: 152
+[Precios y combustibles] AlMomento.net: texto leído 1520 letras -> https://almomento.net/pld-califica-de-abusivo-aumento-del-precio-del-marbete/
+Cambiada de sección: Precios y combustibles -> República Dominicana: PLD califica de abusivo aumento del precio del marbete
+Revisión: corregida (quité "Es un incremento de RD$500" del cuerpo y dejé la cifra atribuida a la resolución; ajusté el texto a lo
+[Precios y combustibles] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/los-precios-de-los-productos-basicos-aumentaran-un-23-en-2026-en-perjuico-de-la-poblacion/
+Revisión: corregida (Corregí "tarifas energéticas" sin cambios de fondo; eliminé "cabe destacar"-tipo relleno no presente; ajusté 
+[Videojuegos] Nintendo: texto leído 509 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pikmin Day Direct 11.1
 [Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
 [Videojuegos] Nintendo careers: texto leído 3493 letras -> https://careers.nintendo.com/jobs/4473550009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Graphics (NTD)
-[Videojuegos] Nintendo: texto leído 556 letras -> https://www.nintendo.com/us/store/products/look-outside-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Look Outside for Nintendo Switch
-15 noticias nuevas, 264 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 18 · ya cubiertas: 4 · no confiables: 6 · opinión: 0 · con texto leído: 26 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 1 · con foto oficial: 2 · error IA: 1 · descartadas por la IA: 10 · cambiadas de sección: 8 · largas: 9 · ocultas (cortas): 5
-Para Instagram (tendencia 1): Dólar hoy en RD: dónde cambiar para pagar más por tus dólares
+15 noticias nuevas, 279 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 19 · ya cubiertas: 6 · no confiables: 2 · opinión: 0 · con texto leído: 28 · sin texto: 5 · medios juntados: 0 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 12 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 4 · error IA: 3 · descartadas por la IA: 6 · cambiadas de sección: 9 · largas: 12 · ocultas (cortas): 3
+Para Instagram (tendencia 3): Prisión preventiva para uno de dos dominicanos por transportar haitianos indocumentados en Barahona
