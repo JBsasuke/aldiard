@@ -1,109 +1,97 @@
-Corrida: 2026-10-31 11:24 AM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 5800')
-[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://www.presidencia.gob.do/noticias/empresarios-javier-tejada-y-yamil-isaias-agradecen-respaldo-del-presidente-luis-abinader
-[República Dominicana] Noticias SIN: texto leído 5721 letras -> https://noticiassin.com/pais/turismo/2026/10/30/yanuna-agradece-respaldo-de-abinader-al-turismo-dominicano-2158862/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
-Revisión: corregida (eliminé "Las exportaciones... superarían" del gancho y clave en español para alinear con el texto; corregí "H
-[República Dominicana] En Salud Digital: texto leído 3582 letras -> https://ensaluddigital.gob.do/maternidad-de-los-mina-reconoce-aportes-de-enfermera-y-pediatra/
-Fuente oficial encontrada: En Salud Digital 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Maternidad de Los Mina reconoce aportes de enfermera y pediatra
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koh
-[República Dominicana] BNPHU: texto leído 1963 letras -> https://koha2.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=43093
-Fuente oficial encontrada: BNPHU 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Corrida: 2026-10-31 04:02 PM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde cambiar para pagar más por tus dólares
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3435 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-entrega-escuela-basica-maestra-altagracia-hernandez-y-la-escuela
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Rechazada por la revisión: Presidente Luis Abinader entrega Escuela Básica Maestra Altagracia Hernández y la Escuela Primaria Profesor César Agustín González -> cifras que no aparecen en las fuentes: 193
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Presidencia de la República Dominicana: texto leído 0 letras -> https://presidencia.gob.do/admin/structure/block/manage/presidency_search?destination=/node
+No se pudo leer el artículo; no se publica para no salir corta: - Presidencia de la República Dominicana
 [República Dominicana] Ministerio de Administración Pública: texto leído 5239 letras -> https://map.gob.do/transparencia/link-de-acceso-y-registro-al-portal-311-sobre-quejas-reclmaciones-sugerencias-y-denuncias/
 Fuente oficial encontrada: Ministerio de Administración Pública 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Link de Acceso y Registro al Portal 311 sobre Quejas, Reclmaciones, Sugerencias y Denuncias
-[República Dominicana] Hospital Cabral y Baez: texto leído 5190 letras -> https://hospitalcabralybaez.gob.do/sin-categoria/modelo-de-atencion-del-ictus-del-cabral-y-baez-servira-de-referencia-para-su-expansion-nacional/
-Fuente oficial encontrada: Hospital Cabral y Baez 
-Revisión: corregida (se quitó la frase "Ahora su modelo podría replicarse" del gancho sin cambiar el sentido; se corrigió "cumplan
+[República Dominicana] Dirección de Prensa del Presidente: texto leído 4478 letras -> https://prensadelpresidente.gob.do/noticias/presidente-de-la-asociacion-dominicana-de-hacendados-y-agricultores-destaca-financiamientos-por-mas-de-rd25000-millones-a-favor-de-mas-de-19-mil-productores-en-2025-por-iniciativa-de-abinader-para-f/
+Fuente oficial encontrada: Dirección de Prensa del Presidente 
+Revisión: corregida (eliminé "y el presidente" faltante no aplica; corregí "para y proteger" no está en el borrador; ajusté la atr
+[República Dominicana] centralnoticias.gob.do: texto leído 1807 letras -> https://centralnoticias.gob.do/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
+[República Dominicana] El Nuevo Diario: texto leído 1812 letras -> https://elnuevodiario.com.do/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
+[República Dominicana] ABC Color: texto leído 1627 letras -> https://www.abc.com.py/internacionales/2026/10/31/japon-exige-a-rusia-que-libere-al-periodista-nipon-detenido-por-sospechas-de-espionaje/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
+Cambiada de sección: República Dominicana -> Internacionales: Japón exige a Rusia que libere al periodista nipón detenido por sospechas de espionaje
+Revisión: corregida (eliminé "en la isla rusa de Sajalín" → mantengo; cambié "celebrada" a "realizada"; añadí "en la isla rusa" no
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/tribunal-confirma-otra-vez-la-prision-preventiva-a-vinculado-a-red-de-corrupcion-enfrentada-con-la-operacion-cobra/
+No se pudo leer el artículo; no se publica para no salir corta: Tribunal confirma otra vez la prisión preventiva a vinculado a red de corrupción enfrentada con la Operación Cobra
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] BNPHU: texto leído 0 letras -> https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-search.pl?idx=an%2Cphr&q=25665&sort_by=relevance&count=20&limit=location:HD
-No se pudo leer el artículo; no se publica para no salir corta: Resultados de la búsqueda para '25665'
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3404379
-No se pudo leer el artículo; no se publica para no salir corta: - 23 - Dec. núm. 31-26 que concede el beneficio de una pensión del Estado por el monto de diez mil pesos dominicanos con 00/10
-[República Dominicana] DGII: texto leído 663 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/cual-seria-la-actividad-ciiu-correspondiente/6ae4dda8230c589f3d97602f
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): cual seria la actividad ciiu correspondiente?
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3263868
-No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.- 1897 N6m. 3725.-DECRETO del C. N. sobre Moneda' Nacionzi. Dios, Patria y Libertad.-Repbblic
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/wp-content/plugins/
+No se pudo leer el artículo; no se publica para no salir corta: - Policía Nacional de la República Dominicana
+[República Dominicana] reservas.zoodom.gov.do: texto leído 123 letras -> https://reservas.zoodom.gov.do/admin/login
+No se pudo leer el artículo; no se publica para no salir corta: Acceso - ZOODOM Reservas
+[República Dominicana] Hospital Infantil Dr. Robert Reid Cabral: texto leído 2974 letras -> https://www.hirrc.gov.do/transparencia/index.php/finanzas/balance-general/category/2892-septiembre
+Fuente oficial encontrada: Hospital Infantil Dr. Robert Reid Cabral 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Balance general - SEPTIEMBRE
 [Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 2721 letras -> https://usa.mirex.gob.do/agendadiplomatica6/
 Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Agenda Diplomática Núm. 6
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] DIRECCIÓN GENERAL DE MIGRACIÓN: texto leído 0 letras -> https://migracion.gob.do/prision-preventiva-para-uno-de-dos-dominicanos-imputados-por-transportar-haitianos-indocumentados-en-barahona/
-[Dominicanos en EE.UU.] Diario Libre: texto leído 1574 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/juzgado-impone-prision-preventiva-a-dos-por-trafico-de-haitianos/3706269
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1258 letras -> https://elnuevodiario.com.do/dictan-prision-preventiva-contra-un-hombre-por-transportar-haitianos-indocumentados-en-barahona/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Prisión preventiva para uno de dos dominicanos imputados por transportar haitianos indocumentados en Barahona
-Revisión: corregida (corregido el segundo apellido a "Recio" según las fuentes; atribuido a la DGM el hecho de que el juez dispuso
-[Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 1749 letras -> https://usun.usmission.gov/statement-on-a-u-s-drafted-un-security-council-resolution-on-the-western-sahara-vetoed-by-the-russian-federation/
-Fuente oficial encontrada: United States Mission to the United Nations (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Statement on a U.S.-Drafted UN Security Council Resolution on the Western Sahara Vetoed by the Russian Federation
-Revisión: corregida (quité "Según el embajador... Mike Waltz" sin cambios de fondo; corregí "Staffan de Mistura" a "Personal Envoy
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2479 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/10/ukraine-patriot-advanced-capability-3-pac-3-missiles
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles
 Rechazada por la revisión: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles -> cifras que no aparecen en las fuentes: 2100
-Fuente no confiable, se salta: facebook.com
-Fuente no confiable, se salta: labazuca.com
-Fuente no confiable, se salta: reddenoticias.online
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 2375 letras -> https://almomento.net/miami-periodista-dominicano-dany-alcantara-recibe-premio/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): MIAMI: Periodista dominicano Dany Alcántara recibe premio
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Dominicanos en EE.UU.] El Nuevo Herald: texto leído 0 letras -> https://www.elnuevoherald.com/deportes/beisbol/miami-marlins/article317858051.html
-No se pudo leer el artículo; no se publica para no salir corta: Los Marlins retienen al dominicano Alcántara y preparan nuevos movimientos en el róster
-[Internacionales] The White House (.gov): texto leído 3620 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-joint-base-andrews-oct-29-2026/
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2582 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-plenary-session-on-geopolitical-issues/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary of State Marco Rubio at a Plenary Session on Geopolitical Issues
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 2009 letras -> https://almomento.net/embajadora-de-eeuu-agradece-acogida-de-pueblo-dominicano/
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Embajadora de EEUU agradece acogida de pueblo dominicano
+Revisión: corregida (cambié "Embajadora de EE.UU." por "Embajadora de Estados Unidos" en el titular para mantener estilo sin abrev
+[Dominicanos en EE.UU.] Hoy Digital: texto leído 2287 letras -> https://hoy.com.do/el-mundo/estados-unidos/elecciones-nueva-york-haile-rivera-insta-hispanos-votar-defender-voz_1107267_amp.html
+Revisión: corregida (eliminé "Sostuvo" y "Rivera afirmó" redundancias menores no; principalmente: corregí "territorio" en vez de "
+Fuente no confiable, se salta: robertocavada.com
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2518 letras -> https://elnuevodiario.com.do/embajada-estadounidense-lanza-una-campana-para-promover-el-consumo-de-carnes/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Embajada estadounidense lanza una campaña para promover el consumo de carnes
+Revisión: corregida (se añadió la cifra "30" en la clave española y se completó "30 winners" en la inglesa; se corrigió "Make Amer
+[Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste material no es una noticia concreta: es una página de navegación y listado de videos de la Casa Blanca (menús, enlaces y títulos de clips como "President Trump Gaggles with Press U')
-[Internacionales] The White House (.gov): texto leído 247 letras -> https://www.whitehouse.gov/biastips
-No se pudo leer el artículo; no se publica para no salir corta: - The White House (.gov)
-[Internacionales] The White House (.gov): texto leído 0 letras -> https://www.whitehouse.gov/wp-content/uploads/2026/10/The-State-of-American-Manufacturing_Oct2026.pdf
-No se pudo leer el artículo; no se publica para no salir corta: THE STATE OF AMERICAN MANUFACTURING
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. El único texto que me pasas es un mensaje oficial de la Casa Blanca sobre el Día de la Reforma, sin ningún hecho noticioso verificable de interés para la com')
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/
+Fuente oficial encontrada: The White House (.gov) 
+No encaja en ninguna sección, se salta: WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance
+[Internacionales] The White House (.gov): texto leído 3420 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-oct-30-2026/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Delivers Remarks, Oct. 30, 2026
+[Famosos] Diario Libre: texto leído 4254 letras -> https://www.diariolibre.com/actualidad/politica/2026/10/31/leonel-fernandez-acusa-al-gobierno-de-demagogia-por-caso-del-arroz/3706837
+Cambiada de sección: Famosos -> República Dominicana: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta
+Rechazada por la revisión: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta -> cifras que no aparecen en las fuentes: 500000
 Fuente no confiable, se salta: proceso.hn
-[Famosos] Diario Libre: texto leído 4884 letras -> https://www.diariolibre.com/actualidad/justicia/2026/10/30/asi-atraen-a-dominicanos-con-ofertas-de-trabajos-en-rusia/3705758
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. La versión 1 llega cortada justo antes de la parte de la noticia que aclara quién publica los anuncios y si hay fuentes oficiales')
-[Famosos] Diario Libre: texto leído 1881 letras -> https://www.diariolibre.com/revista/musica/2026/10/30/aljadaqui-destaca-en-oktoberfest-republica-dominicana/3705995
-La IA la descartó (no es noticia, rumor, opinión o publicidad): La agrupación Aljadaqui destaca en los festivales de Oktoberfest en el país
-[Famosos] Diario Libre: texto leído 3940 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/tilory-desafia-la-crisis-con-tranquilidad-en-haiti/3706219
-Cambiada de sección: Famosos -> República Dominicana: En medio de la violencia en Haití, Tilory mantiene la calma y el comercio fronterizo
-Revisión: corregida (se quitó "Según los testimonios recogidos" y se aclaró que la descripción de enfrentamientos, secuestros y at
+[Famosos] Diario Libre: texto leído 4170 letras -> https://www.diariolibre.com/revista/sociales/2026/10/30/embajada-de-turquia-celebra-su-fiesta-nacional/3706326
+Cambiada de sección: Famosos -> Internacionales: Turquía celebra 103 años de su República
+Revisión: corregida (fecha del acto corregida de 29 de octubre de 2026 a fecha no indicada en fuentes: se quitó la fecha específic
 [Famosos] Diario Libre: texto leído 4476 letras -> https://www.diariolibre.com/revista/sociales/2026/10/30/pucmm-reconoce-plataforma-yo-soy-claro/3706220
 [Famosos] Noticias SIN: texto leído 4384 letras -> https://noticiassin.com/pais/2026/10/30/pucmm-reconoce-campana-yo-soy-claro-de-claro-dominicana-2159020/?amp=1
 La IA la descartó (no es noticia, rumor, opinión o publicidad): PUCMM reconoce Plataforma “Yo Soy Claro” como Mejor Campaña estratégica de posicionamiento de marca
+[Famosos] Diario Libre: texto leído 2848 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/codessd-destaca-potencial-de-rd-en-economia-digital-durante-foro/3706121
+Cambiada de sección: Famosos -> República Dominicana: Codessd presenta avances en innovación digital durante foro celebrado en la ONU
+Revisión: corregida (se cambió "Burocracia Cero" en el texto para atribuirlo a la fuente y se eliminó la afirmación de que el país
 Fuente no confiable, se salta: artishockrevista.com
+Fuente no confiable, se salta: puntacana-bavaro.com
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: ciudadoriental.com
-[Famosos] El Nuevo Diario: texto leído 1926 letras -> https://elnuevodiario.com.do/gabriel-pagan-inicia-la-ruta-universitaria-2026-con-presentaciones-en-distintas-universidades-del-pais/
-Revisión: corregida (ajusté "y el 4 de noviembre" a la fecha y la UTESA sin cambios de datos; corregí "concerts" por "tour perform
-[Famosos] Hoy Digital: texto leído 3507 letras -> https://hoy.com.do/vivir/banreservas-otorga-becas-artisticas-2-dominicanos_1107304_amp.html
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Banreservas otorga becas artísticas a 2 dominicanos
-Revisión: corregida (la sección "Dominicanos en EE.UU." no corresponde al contenido; se cambió a "Cultura" según el tema, y se aju
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 1582 letras -> https://www.bancentral.gov.do/a/d/6709-bcrd-mantiene-su-tasa-de-politica-monetaria-en-550--anual
-[Precios y combustibles] Acento: texto leído 5690 letras -> https://acento.com.do/economia/bcrd-mantiene-su-tasa-de-politica-monetaria-en-5-50-anual-2-9780934.html
-[Precios y combustibles] AlMomento.net: texto leído 2434 letras -> https://almomento.net/banco-central-mantiene-en-5-50-la-tasa-de-politica-monetaria/
-Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Acento
-Cambiada de sección: Precios y combustibles -> República Dominicana: BCRD mantiene su tasa de política monetaria en 5.50 % anual
-Rechazada por la revisión: BCRD mantiene su tasa de política monetaria en 5.50 % anual -> cifras que no aparecen en las fuentes: 152
-[Precios y combustibles] Infobae: texto leído 2170 letras -> https://www.infobae.com/america/agencias/2026/10/30/republica-dominicana-mantiene-en-550-su-tasa-de-politica-monetaria/?outputType=amp-type
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Precios y combustibles] AlMomento.net: texto leído 0 letras -> https://almomento.net/banco-central-mantiene-tasa-de-politica-monetaria-en-5-50/
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/economia/banco-central-mantiene-su-tasa-de-politica-monetaria-en-5-50-anual-4/
-Cambiada de sección: Precios y combustibles -> República Dominicana: República Dominicana mantiene en 5,50 % su tasa de política monetaria
-Rechazada por la revisión: República Dominicana mantiene en 5,50 % su tasa de política monetaria -> cifras que no aparecen en las fuentes: 152
-Fuente no confiable, se salta: ciudadoriental.com
-[Precios y combustibles] El Nuevo Diario: texto leído 1772 letras -> https://elnuevodiario.com.do/una-reforma-fiscal-disfrazada/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Una reforma fiscal disfrazada
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/cultura/carlos-piantini-fotos-y-memorias-4-en-el-centenario-de-su-natalicio/
+No se pudo leer el artículo; no se publica para no salir corta: Carlos Piantini: Fotos Y Memorias (4) En El Centenario De Su Natalicio (*)
+[Famosos] Acento: texto leído 4851 letras -> https://acento.com.do/cultura/dionisio-blanco-una-vida-dedicada-a-sembrar-arte-e-identidad-9781050.html
+Cambiada de sección: Famosos -> República Dominicana: Dionisio Blanco: una vida dedicada a sembrar arte
+Revisión: corregida (eliminé "de más de cinco décadas" redundante en el gancho; ajusté "trabajó" en lugar de "Trabajó" sin cambio 
+[Precios y combustibles] AlMomento.net: texto leído 2083 letras -> https://almomento.net/gobierno-busca-cambiar-forma-para-fijar-precios-combustibles/
+Revisión: corregida (eliminé "es importante"/"cabe destacar"-tipo relleno no había; corregí "Sanz Lovatón expresó su preocupación.
+Video de YouTube agregado: Gobierno busca cambiar forma de fijar precios combustibles 
 [Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
 [Videojuegos] Nintendo careers: texto leído 3493 letras -> https://careers.nintendo.com/jobs/4473550009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Graphics (NTD)
-[Videojuegos] Nintendo: texto leído 2244 letras -> https://www.nintendo.com/us/whatsnew/disguise-announces-new-yoshi-costumes-just-in-time-for-halloween/
+[Videojuegos] Nintendo: texto leído 556 letras -> https://www.nintendo.com/us/store/products/look-outside-switch/
 Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se añadió atribución a Disguise en el gancho/importa; se precisó que Amazon, Walmart Canadá/EE. UU. y Target 
-Consejo del día (divisas): Cuida cada peso y cada dólar
-14 noticias nuevas, 249 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 29 · ya cubiertas: 5 · no confiables: 8 · opinión: 0 · con texto leído: 29 · sin texto: 9 · medios juntados: 3 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 4 · error IA: 3 · descartadas por la IA: 10 · cambiadas de sección: 7 · largas: 8 · ocultas (cortas): 6
-Para Instagram (tendencia 3): Prisión preventiva para uno de dos dominicanos por transportar haitianos indocumentados en Barahona
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Look Outside for Nintendo Switch
+15 noticias nuevas, 264 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 18 · ya cubiertas: 4 · no confiables: 6 · opinión: 0 · con texto leído: 26 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 1 · con foto oficial: 2 · error IA: 1 · descartadas por la IA: 10 · cambiadas de sección: 8 · largas: 9 · ocultas (cortas): 5
+Para Instagram (tendencia 1): Dólar hoy en RD: dónde cambiar para pagar más por tus dólares
