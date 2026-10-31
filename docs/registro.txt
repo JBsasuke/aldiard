@@ -1,81 +1,91 @@
-Corrida: 2026-10-30 05:34 PM (hora RD)
-Noticia con datos propios: Precios de combustibles se mantienen sin cambios esta semana en RD
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1846 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-designa-sahiana-quezada-como-gobernadora-de-la-provincia-de-azua
-[República Dominicana] El Nacional — La voz de todos: texto leído 1966 letras -> https://elnacional.com.do/nacionales/abinader-designa-sahiana-quezada-gobernadora-azua_584944.html
-[República Dominicana] Acento: texto leído 1393 letras -> https://acento.com.do/actualidad/abinader-designa-a-sahiana-quezada-como-gobernadora-de-azua-9780994.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
-Revisión: corregida (se cambió "Quezada Melo" a "Quezada Meló" según la fuente de El Nacional; se atribuyó la trayectoria, la prec
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3106 letras -> https://presidencia.gob.do/noticias/indotel-fortalecera-competencias-digitales-del-personal-penitenciario-del-pais
-[República Dominicana] El Nuevo Diario: texto leído 2917 letras -> https://elnuevodiario.com.do/indotel-informa-fortalecera-competencias-digitales-del-personal-penitenciario/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Revisión: corregida (eliminé "de forma segura..." no, ajusté: se quitó la atribución de "declaraciones recogidas en el comunicado"
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1679 letras -> https://presidencia.gob.do/noticias/obras-publicas-anuncia-cierre-parcial-de-la-autopista-6-de-noviembre-por-montaje-de-vigas
-[República Dominicana] El Nacional — La voz de todos: texto leído 1589 letras -> https://elnacional.com.do/nacionales/ciudades/obras-publicas-anuncia-cierre-parcial-autopista-6-noviembre-montaje-vigas_584945.html
-[República Dominicana] Acento: texto leído 1278 letras -> https://acento.com.do/actualidad/obras-publicas-cerrara-parcialmente-la-autopista-6-de-noviembre-por-montaje-de-vigas-9780957.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
-Revisión: corregida (se quitó la frase "la medida responde a..." por redundancia, se ajustó "pidió disculpas" a "se disculpó" sin 
-[Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 755 letras -> https://usa.mirex.gob.do/consular/new-jersey/consul-jose-santana-encabeza-desfile-y-festival-cultural-dominicano-del-condado-de-essex/
-Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se ajustó "encabezó" a "acompañó" en el texto y se corrigió "José Santana" a "José
-Revisión: corregida (se ajustó "encabezó" a "acompañó" en el texto y se corrigió "José Santana" a "José Santana Suriel" en el ganc
-[Dominicanos en EE.UU.] Ministerio de Industria, Comercio y Mipymes: texto leído 1699 letras -> https://micm.gob.do/
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): MICM | Ministerio de Industria, Comercio y Mipymes
+Corrida: 2026-10-30 09:38 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://www.presidencia.gob.do/noticias/empresarios-javier-tejada-y-yamil-isaias-agradecen-respaldo-del-presidente-luis-abinader
+[República Dominicana] Noticias SIN: texto leído 5721 letras -> https://noticiassin.com/pais/turismo/2026/10/30/yanuna-agradece-respaldo-de-abinader-al-turismo-dominicano-2158862/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
+Rechazada por la revisión: Empresarios Javier Tejada y Yamil Isaías agradecen respaldo del presidente Luis Abinader al turismo -> cifras que no aparecen en las fuentes: 53
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2750 letras -> https://presidencia.gob.do/noticias/dgii-presenta-integrate-1234-una-solucion-que-simplifica-el-registro-y-cumplimiento
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé "Motor de Elegibilidad" → "An Tax Eligibility Engine" corregido a "A Tax Eligibility Engine" en inglé
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3627 letras -> https://presidencia.gob.do/noticias/vicepresidenta-raquel-pena-y-director-del-sns-entregan-remozado-centro-de-primer-nivel-las
+[República Dominicana] Diario Libre: texto leído 2911 letras -> https://www.diariolibre.com/politica/gobierno/2026/10/30/raquel-pena-entrega-centro-de-primer-nivel-las-cabuyas/3706178
+[República Dominicana] N Digital: texto leído 1827 letras -> https://n.com.do/2026/10/30/las-cabuyas-recibe-centro-de-salud-remozado-con-inversion-superior-a-rd13-5-millones/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+Revisión: corregida (se atribuyó a la Presidencia el dato de la inversión y se agregó que la información proviene de la Presidenci
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4941 letras -> https://presidencia.gob.do/noticias/salud-publica-realiza-jornada-mas-salud-y-bienestar-en-santo-domingo-oeste
+[República Dominicana] Diario Libre: texto leído 2401 letras -> https://www.diariolibre.com/economia/negocios/2026/10/29/afp-popular-reune-a-mas-de-700-personas-en-jornadas-de-vejez/3705193
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+Revisión: corregida (quité "dirigida" y "llevada" donde el texto dice "llevó", reforcé la atribución de la estrategia HEARTS y la 
 [Dominicanos en EE.UU.] Instituto Postal Dominicano - INPOSDOM: texto leído 3314 letras -> https://inposdom.gob.do/
 Fuente oficial encontrada: Instituto Postal Dominicano - INPOSDOM 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Postal Dominicano - INPOSDOM
 [Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 5181 letras -> https://jce.gob.do/Noticias/declaracion-publica-sobre-compra-de-cedulas-34
 Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): JCE celebra primera reunión del equipo de ética pública
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3902 letras -> https://centralnoticias.gob.do/adha-reconoce-13-productores-y-agroempresarios-del-agro-y-llama-a-transformar-las-politicas-publicas-del-sector/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: ADHA reconoce 13 productores y agroempresarios del agro y llama a transformar las políticas públicas del sector
-Revisión: corregida (se corrigió el nombre del ministro a "Francisco Oliverio Espaillat" según fuente, se eliminaron la frase "Por
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nRazón: el texto que me pasaste no es una noticia concreta. Está compuesto por la portada y listados de la JCE (menús de navegación, fechas de publicación, contadores de vistas y fragmen')
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1777 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/designation-of-libyan-judicial-police-official-for-involvement-in-torture-and-cruel-inhumane-and-degrading-treatment
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Designation of Libyan Judicial Police Official for Involvement in Torture and Cruel, Inhumane, and Degrading Treatment
+Revisión: aprobada
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 5781 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-october-30-2026/
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2076 letras -> https://fr.usembassy.gov/security-alert-u-s-embassy-paris-france-october-29-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1914 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-28-2026/
+[Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1703 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-october-30-2026/
+[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 2743 letras -> https://do.usembassy.gov/security-alert-u-s-embassy-santo-domingo-dominican-republic-october-30-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Djibouti (.gov): texto leído 937 letras -> https://dj.usembassy.gov/security-alert-shelter-warning-lifted-u-s-embassy-djibouti-october-29-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Embassy & Consulates in France (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy in Djibouti (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Mission to Saudi Arabia – October 30, 2026
+Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy in the Dominican Republic (.gov), U.S. Embassy in Djibouti (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Security Alert: U.S. Mission to Saudi Arabia – October 30, 2026
+Revisión: corregida (se quitó "Quienes conozcan" → se mantuvo; se corrigió "Policía Turística"/"POLITUR" sin cambios de fondo; se 
+Fuente no confiable, se salta: facebook.com
+Fuente no confiable, se salta: noroeste.com.mx
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1066 letras -> https://elnuevodiario.com.do/siete-judocas-dominicanos-buscan-puntos-olimpicos-en-miami/
+No encaja en ninguna sección, se salta: Siete judocas dominicanos buscan puntos olímpicos en Miami
+[Dominicanos en EE.UU.] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/noticias-que-fueron-tendencia-viernes-30-de-octubre/3705741
+Error IA: ValueError('respuesta sin el formato esperado: No hay versiones adicionales en lo que me pasaste: solo tengo la de Diario Libre, y además está cortada a mitad de la noticia sobre los militares salvadoreños. Con eso no puedo escribir la nota comple')
 [Internacionales] The White House (.gov): texto leído 5234 letras -> https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Put Money Back in Your Pockets—Radical Democrats Want It Back and More
 [Internacionales] The White House (.gov): texto leído 3620 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-departure-from-joint-base-andrews-oct-29-2026/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Gaggles with Press Upon Departure from Joint Base Andrews, Oct. 29, 2026
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNota: el texto recibido es, en su mayor parte, la navegación y los menús de la página de la Casa Blanca. El único contenido sustancial es el título de un video ("President Trump Gaggles')
 [Internacionales] The White House (.gov): texto leído 3429 letras -> https://www.whitehouse.gov/videos/the-great-american-comeback-%F0%9F%87%BA%F0%9F%87%B8/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): The great American comeback. 🇺🇸
-[Famosos] Diario Libre: texto leído 4900 letras -> https://www.diariolibre.com/actualidad/justicia/2026/10/30/asi-atraen-a-dominicanos-con-ofertas-de-trabajos-en-rusia/3705758
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste está incompleto: la Versión 1 se corta en medio de una frase ("la agenci"), y no aparece ninguna otra versión. Además, solo hay un artículo, que es de Diario Li')
-Fuente no confiable, se salta: proceso.hn
+[Famosos] Diario Libre: texto leído 4794 letras -> https://www.diariolibre.com/revista/cultura/2026/10/30/semana-dominicana-en-francia-fortalece-el-intercambio-cultural/3706159
+Cambiada de sección: Famosos -> República Dominicana: La Semana Dominicana en Francia fortalece el intercambio cultural y académico entre ambos países
+Revisión: corregida (eliminé la atribución errónea de "Business France" como anfitrión sin cambio; corregí "Business France acogió
+[Famosos] Acento: texto leído 2521 letras -> https://acento.com.do/cultura/premios-la-flor-2026-celebra-rueda-de-prensa-rumbo-a-su-quinta-gala-nacional-9781191.html
+Revisión: corregida (se corrigieron los nombres de los periodistas Yismeiry Montesdeoca y Danylsa Vargas/Norisbel Uceta? No: se aj
+[Famosos] Diario Libre: texto leído 2070 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/30/pablo-ulloa-llama-a-confiar-en-las-fuerzas-armadas-republica-dominican/3706261
+[Famosos] El Nuevo Diario: texto leído 1855 letras -> https://elnuevodiario.com.do/pablo-ulloa-llama-a-confiar-en-las-fuerzas-armadas-ante-situacion-en-haiti/
+Cambiada de sección: Famosos -> República Dominicana: Pablo Ulloa llama a confiar en las Fuerzas Armadas ante crisis en Haití
+Revisión: corregida (eliminé el "Estado fallido" y la frase sobre "operaciones" y "posibles implicaciones" sin fuente? No: ambas e
+[Famosos] Diario Libre: texto leído 4476 letras -> https://www.diariolibre.com/revista/sociales/2026/10/30/pucmm-reconoce-plataforma-yo-soy-claro/3706220
+La IA la descartó (no es noticia, rumor, opinión o publicidad): PUCMM reconoce Plataforma “Yo Soy Claro” como Mejor Campaña estratégica de posicionamiento de marca
 [Famosos] Diario Libre: texto leído 1881 letras -> https://www.diariolibre.com/revista/musica/2026/10/30/aljadaqui-destaca-en-oktoberfest-republica-dominicana/3705995
 La IA la descartó (no es noticia, rumor, opinión o publicidad): La agrupación Aljadaqui destaca en los festivales de Oktoberfest en el país
-Fuente no confiable, se salta: artishockrevista.com
-[Famosos] El Dia.com.do: texto leído 2604 letras -> https://eldia.com.do/el-valor-moral-del-triunfo-de-lula/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El valor moral del triunfo de Lula
-Fuente no confiable, se salta: bavarodigital.net
-[Famosos] De Último Minuto: texto leído 1585 letras -> https://deultimominuto.com/entretenimiento/karen-yapoort-5/
-Revisión: corregida (eliminé la frase "según sus creadores" sin atribución clara... en realidad la fuente dice "agradeciendo el re
-[Famosos] Acento: texto leído 2030 letras -> https://acento.com.do/economia/banco-popular-busca-atraer-inversionistas-europeos-hacia-turismo-y-energia-9780860.html
-Cambiada de sección: Famosos -> Precios y combustibles: Banco Popular busca atraer inversionistas europeos hacia turismo y energía
-Rechazada por la revisión: Banco Popular busca atraer inversionistas europeos hacia turismo y energía -> cifras que no aparecen en las fuentes: 16, 6581
-Fuente no confiable, se salta: diariodelnorte.net
-Fuente no confiable, se salta: elpais.com.co
-Fuente no confiable, se salta: lanaciondominicana.com
-[Famosos] Univision: texto leído 2891 letras -> https://www.univision.com/shows/latin-grammy/el-segundo-grupo-de-artistas-confirmados-para-cantar-en-latin-grammy-2026-video
-Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir una noticia a partir de este material, porque la única versión que me pasas es una página de Univision con navegación, publicidad y listas de videos, y prácticamente no contiene hech')
-[Precios y combustibles] Diario Libre: texto leído 2568 letras -> https://www.diariolibre.com/economia/energia/2026/10/30/gobierno-congela-el-precio-de-la-mayoria-de-combustibles/3706046
-Revisión: corregida (atribuí a Diario Libre el dato del precio real del GLP, el 34 % de alza internacional y el dato de la EIA/con
+[Famosos] Diario Libre: texto leído 4884 letras -> https://www.diariolibre.com/actualidad/justicia/2026/10/30/asi-atraen-a-dominicanos-con-ofertas-de-trabajos-en-rusia/3705758
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste está cortado antes de llegar a la mayor parte de la información, y solo tengo una versión (Diario Libre, sin FUENTE OFICIAL ni otras versiones). Con lo que hay pue')
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 0 letras -> https://micm.gob.do/wp-content/uploads/2026/10/AVISO-PRE.-SEM.CORTE-31-OCT-06-NOV-DE-2026.pdf
+No se pudo leer el artículo; no se publica para no salir corta: AVISO El Ministerio de Industria, Comercio y MiPymes
+[Precios y combustibles] Banco Central de la República Dominicana: texto leído 1582 letras -> https://www.bancentral.gov.do/a/d/6709-bcrd-mantiene-su-tasa-de-politica-monetaria-en-550--anual
+[Precios y combustibles] Acento: texto leído 5690 letras -> https://acento.com.do/economia/bcrd-mantiene-su-tasa-de-politica-monetaria-en-5-50-anual-2-9780934.html
+[Precios y combustibles] AlMomento.net: texto leído 2434 letras -> https://almomento.net/banco-central-mantiene-en-5-50-la-tasa-de-politica-monetaria/
+Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Acento
+Cambiada de sección: Precios y combustibles -> República Dominicana: BCRD mantiene su tasa de política monetaria en 5.50 % anual
+Rechazada por la revisión: BCRD mantiene su tasa de política monetaria en 5.50 % anual -> cifras que no aparecen en las fuentes: 152
+[Precios y combustibles] Infobae: texto leído 2170 letras -> https://www.infobae.com/america/agencias/2026/10/30/republica-dominicana-mantiene-en-550-su-tasa-de-politica-monetaria/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/economia/banco-central-mantiene-su-tasa-de-politica-monetaria-en-5-50-anual-4/
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Precios y combustibles] AlMomento.net: texto leído 0 letras -> https://almomento.net/banco-central-mantiene-tasa-de-politica-monetaria-en-5-50/
+Cambiada de sección: Precios y combustibles -> República Dominicana: República Dominicana mantiene en 5,50 % su tasa de política monetaria
+Rechazada por la revisión: República Dominicana mantiene en 5,50 % su tasa de política monetaria -> cifras que no aparecen en las fuentes: 152
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
 [Videojuegos] Nintendo: texto leído 556 letras -> https://www.nintendo.com/us/store/products/look-outside-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Look Outside for Nintendo Switch
-No se pudo bajar la página: <HTTPError 500: 'Internal Server Error'>
-[Videojuegos] Nintendo careers: texto leído 0 letras -> https://careers.nintendo.com/jobs/4469718009/
-No se pudo leer el artículo; no se publica para no salir corta: Intern - Software Engineer, Multimedia (NTD)
-9 noticias nuevas, 215 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 24 · ya cubiertas: 10 · no confiables: 6 · opinión: 0 · con texto leído: 29 · sin texto: 1 · medios juntados: 3 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 5 · error IA: 2 · descartadas por la IA: 11 · cambiadas de sección: 2 · largas: 7 · ocultas (cortas): 1
-Para Instagram (tendencia 1): Precios de combustibles se mantienen sin cambios esta semana en RD
+[Videojuegos] Nintendo careers: texto leído 3698 letras -> https://careers.nintendo.com/jobs/4472147009/
+Fuente oficial encontrada: Nintendo careers 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Connectivity (NTD)
+9 noticias nuevas, 224 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 12 · ya vistas: 21 · ya cubiertas: 12 · no confiables: 2 · opinión: 0 · con texto leído: 34 · sin texto: 3 · medios juntados: 6 · con fuente oficial: 15 · aprobadas por la revisión: 1 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 5 · error IA: 4 · descartadas por la IA: 9 · cambiadas de sección: 6 · largas: 8 · ocultas (cortas): 1
+Para Instagram (tendencia 4): Embajada de EE.UU. advierte sobre drogas y robos a turistas en RD
