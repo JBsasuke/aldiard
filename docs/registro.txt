@@ -1,75 +1,87 @@
-Corrida: 2026-11-01 10:20 AM (hora RD)
-Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4163 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-dice-que-se-estudia-convertir-el-antiguo-ingenio-de-consuelo-en
-[República Dominicana] El Nuevo Diario: texto leído 4311 letras -> https://elnuevodiario.com.do/abinader-estudia-convertir-antiguo-ingenio-de-consuelo-en-zona-franca-para-generar-empleos/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Revisión: corregida (eliminé "Museo del Pelotero Petromacorisano" no, se mantiene; corregí que la titulación en Guayacanes y el co
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] BNPHU: texto leído 0 letras -> https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-search.pl?q=ccl=an%3A40374&sort_by=relevance&count=20&limit=au:P%C3%A9rez%20Lagombra,%20Junior
-No se pudo leer el artículo; no se publica para no salir corta: Memorias de Sosúa / Junior Rafael Antonio Pérez Lagombra.
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3299028
-No se pudo leer el artículo; no se publica para no salir corta: "._ . _ \ I
-[República Dominicana] De Último Minuto: texto leído 3936 letras -> https://deultimominuto.com/entretenimiento/romeo-halloween-mexico/
-Cambiada de sección: República Dominicana -> Famosos: Romeo Santos y Prince Royce celebran Halloween en México
-Revisión: corregida (se quitó "Según el reporte" atribución ya presente en fuente única, se corrigió "Estadio Panamericano, ubicad
-[República Dominicana] De Último Minuto: texto leído 5346 letras -> https://deultimominuto.com/nacionales/conep-prorroga-codigo-penal/
-Revisión: corregida (eliminé relleno, quité la afirmación "teme que el tiempo sea insuficiente" en el texto español y su equivalen
-[República Dominicana] De Último Minuto: texto leído 3612 letras -> https://deultimominuto.com/internacionales/embarazo-infantil-colombia-2024/
-Cambiada de sección: República Dominicana -> Internacionales: Casi 3,000 niñas de entre 10 y 14 años fueron madres en 2024 en Colombia
-Rechazada por la revisión: Casi 3,000 niñas de entre 10 y 14 años fueron madres en 2024 en Colombia -> cifras que no aparecen en las fuentes: 929
-[República Dominicana] De Último Minuto: texto leído 3707 letras -> https://deultimominuto.com/nacionales/onu-califica-de-esencial/
-[República Dominicana] Ensegundos.do: texto leído 2540 letras -> https://ensegundos.do/2026/11/01/la-onu-califica-de-esencial-el-apoyo-logistico-de-republica-dominicana-a-la-fuerza-contra-pandillas-en-haiti/
-Revisión: corregida (eliminé "fundamental" en la atribución a Kroslak no, sino que cambié "armamento/armas" según fuentes, quité l
+Corrida: 2026-11-01 03:45 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4947 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-inaugura-centro-del-infotep-en-san-pedro-de-macoris
+[República Dominicana] centralnoticias.gob.do: texto leído 2678 letras -> https://centralnoticias.gob.do/presidente-luis-abinader-inaugura-centro-del-infotep-en-san-pedro-de-macoris/
+[República Dominicana] Acento: texto leído 1880 letras -> https://acento.com.do/actualidad/abinader-inaugura-centro-del-infotep-en-san-pedro-de-macoris-con-inversion-de-rd-140-millones-9781620.html
+[República Dominicana] El Nacional — La voz de todos: texto leído 3132 letras -> https://elnacional.com.do/nacionales/abinader-inaugura-centro-infotep-san-pedro-macoris-capacidad-formar-3-800-personas-ano_585040.html
+Fuente oficial encontrada: Presidencia de la República Dominicana, centralnoticias.gob.do | para completar: El Nacional — La voz de todos
+Revisión: corregida (se quitó "en esta provincia... que necesitaba", se corrigió "Sí" de "Se abrió", se agregó atribución a las au
+[República Dominicana] Ministerio de Vivienda, Hábitat y Edificaciones (MIVHED): texto leído 3516 letras -> https://mivhed.gob.do/catalogo-de-servicios/enlaces-y-recursos/direccion-de-tramitacion-tasacion-y-licencias/emision-de-licencia-de-construccion/
+Fuente oficial encontrada: Ministerio de Vivienda, Hábitat y Edificaciones (MIVHED) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Emisión de Licencia de Construcción
+[República Dominicana] En Salud Digital: texto leído 993 letras -> https://ensaluddigital.gob.do/hospital-angel-contreras-automatiza-sistema-de-turnos/
+Fuente oficial encontrada: En Salud Digital 
+Revisión: corregida (se añadió la atribución a "la información oficial" en el texto inglés para igualar el español; se cambió "que
+[República Dominicana] Hospital Pediatrico Dr. Hugo Mendoza: texto leído 0 letras -> https://hospitalhugomendoza.gob.do/tag/sns/page/4/?print=pdf-search
+No se pudo leer el artículo; no se publica para no salir corta: Hospital Hugo Mendoza obtiene segundo lugar en premiación iTICge 2021, en medición con 277 instituciones públicas,Hospital Hu
+[República Dominicana] Ministerio de Industria, Comercio y Mipymes: texto leído 981 letras -> https://micm.gob.do/transparencia/base-legal-de-la-institucion/category/resoluciones-2026/10
+Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3403184
+No se pudo leer el artículo; no se publica para no salir corta: - 96 - PÁRRAFO. La Dirección General de Jubilaciones y Pensiones a Cargo del Estado tendrá un plazo no mayor de tres (3) mese
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3345999
+No se pudo leer el artículo; no se publica para no salir corta: Art. 9" El nlinistn dz Hacienc?,-, dici ti-5 12s dis2osicioncs y medidx tecdientes a1 cxacto cumplhicnto de este de::rt\i(~
+[República Dominicana] De Último Minuto: texto leído 2255 letras -> https://deultimominuto.com/nacionales/muere-bindo-tras/
+[República Dominicana] Listín Diario: texto leído 1671 letras -> https://listindiario.com/la-republica/20261101/policia-nacional-informa-deceso-bindo-gordo-buscado-muerte-menor-edad_928358.html
+Revisión: corregida (quité "en La Vega" del titular y del primer párrafo del borrador en español por no estar en la fuente de Últi
 [Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 5181 letras -> https://jce.gob.do/Noticias/presidente-de-la-jce-cumpleaneros-de-abril-tienen-hasta-el-11-de-mayo-para-renovar-su-cedula-56
 Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): JCE celebra primera reunión del equipo de ética pública
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3454 letras -> https://centralnoticias.gob.do/formacion-en-inteligencia-artificial-la-llave-para-asegurar-el-empleo-en-rd/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD
+Rechazada por la revisión: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD -> cifras que no aparecen en las fuentes: 111, 14753, 18348, 18811, 21607, 2301
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2479 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/10/ukraine-patriot-advanced-capability-3-pac-3-missiles
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles
 Rechazada por la revisión: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles -> cifras que no aparecen en las fuentes: 2100
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: ultimasnoticias.com.do
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4280 letras -> https://elnuevodiario.com.do/hanoi-vargas-aborda-en-nueva-york-el-impacto-de-la-tecnologia-en-la-salud-mental/
-Revisión: corregida (quité la atribución "según un comunicado de prensa" no respaldada... en realidad sí está en la fuente; ajusté
-Fuente no confiable, se salta: reportur.com
-Fuente no confiable, se salta: primicias.net
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1284 letras -> https://elnuevodiario.com.do/condenan-dominicano-en-boston-por-enviar-armas-ocultas-en-un-contenedor-hacia-rd/
-Revisión: corregida (se ajustó el enunciado de la sentencia y el dato sobre los mensajes para atribuirlos a las fuentes; se quitó 
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Quad Joint Press Release on Economic Prosperity and Security
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una transcripción de declaraciones del Secretario de Estado Marco Rubio en una rueda de prensa en Atlanta, Georgia, el 31 de octubre de 2026, durante una reunión del G20 a')
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 973 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/public-schedule-october-31-2026
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – October 31, 2026
 [Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia como pide el encargo, porque solo hay una fuente: un mensaje presidencial de la Casa Blanca sobre el Día de la Reforma, que es un texto de opinión y devoción religiosa, ')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con el formato pedido. El material que me pasas es un único texto: un mensaje oficial de la Casa Blanca con motivo del Día de la Reforma. No es una notic')
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance
-[Internacionales] The White House (.gov): texto leído 3420 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-oct-30-2026/
+Rechazada por la revisión: WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance -> cifras que no aparecen en las fuentes: 5000
+[Internacionales] The White House (.gov): texto leído 3398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] Diario Libre: texto leído 1981 letras -> https://www.diariolibre.com/revista/musica/2026/11/01/gaby-puche-presenta-nuevo-album-simplemente-gaby/3707195
-Revisión: aprobada
-[Famosos] Diario Libre: texto leído 2404 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/31/dgm-detiene-2256-extranjeros-en-24-horas/3706942
-[Famosos] El Nuevo Diario: texto leído 1940 letras -> https://elnuevodiario.com.do/dgm-detiene-a-2256-extranjeros-en-condicion-migratoria-irregular/
-Cambiada de sección: Famosos -> República Dominicana: Migración detiene a 2,256 haitianos en condición irregular durante operativos en un día
-Rechazada por la revisión: Migración detiene a 2,256 haitianos en condición irregular durante operativos en un día -> cifras que no aparecen en las fuentes: 256
-[Famosos] Diario Libre: texto leído 4254 letras -> https://www.diariolibre.com/actualidad/politica/2026/10/31/leonel-fernandez-acusa-al-gobierno-de-demagogia-por-caso-del-arroz/3706837
-[Famosos] Listín Diario: texto leído 4212 letras -> https://listindiario.com/la-republica/politica/20261031/leonel-acusa-gobierno-provocar-humillacion-internacional-manejo-arroz_928276.html
-Cambiada de sección: Famosos -> República Dominicana: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta
-Rechazada por la revisión: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta -> cifras que no aparecen en las fuentes: 500000
-Fuente no confiable, se salta: meridiano.net
-Fuente no confiable, se salta: puntacana-bavaro.com
-[Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/quien-es-y-por-que-lucia-castillo-ha-ganado-el-premio-nacional-de-teatro-2026-9781729.html
-Cambiada de sección: Famosos -> República Dominicana: ¿Quién es y por qué Lucía Castillo ha ganado el Premio Nacional de Teatro 2026?
-Revisión: corregida (se cambió "Sindicato de Teatristas Dominos" a "Dominicanos" en la versión final del nombre; se atribuyó explí
-[Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/veladura-conversacion-en-ciudad-abajo-con-yuly-moncion-9781531.html
-Revisión: corregida (eliminé "según publica Acento" repetido en contexto de atribución ya clara, corregí "Sabaneta a Madrid" que n
-[Precios y combustibles] Acento: texto leído 3632 letras -> https://acento.com.do/economia/una-corona-funebre-puede-costar-mas-que-un-salario-minimo-9780791.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Una corona fúnebre puede costar más que un salario mínimo
-Revisión: corregida (se corrigió que el precio de RD$ 33,165 es de Flores Frescas, no de Flores Frescas "en la misma ruta"; se ret
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on All Saints’ Day
+[Famosos] Diario Libre: texto leído 2007 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/01/republica-dominicana-envia-equipos-a-haiti-desde-bangladesh/3707278
+Cambiada de sección: Famosos -> Internacionales: RD sirve de puente para enviar equipos de Bangladesh a Haití
+Revisión: corregida (eliminé "que se incorpora" y precisé que el cargamento sirvió de "punto logístico"; quité la atribución "segú
+[Famosos] eldia.com.do: texto leído 1851 letras -> https://eldia.com.do/el-vuelo-de-una-generacion-soy-luna-reaviva-la-magia-en-su-concierto-anoche-en-rd/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "Según el medio" del último párrafo del texto en español, quité "sin lugar
+Revisión: corregida (eliminé "Según el medio" del último párrafo del texto en español, quité "sin lugar a dudas" del original en e
+[Famosos] Diario Libre: texto leído 2746 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/01/rd-ingresa-a-plataforma-de-palermo-de-lucha-contra-el-crimen/3707446
+[Famosos] El Nacional — La voz de todos: texto leído 2407 letras -> https://elnacional.com.do/nacionales/judicial/procuradora-firma-acuerdo-efectiva-lucha-crimen-organizado-internacional_585089.html
+[Famosos] El Nuevo Diario: texto leído 2379 letras -> https://elnuevodiario.com.do/rd-ingresa-a-la-plataforma-de-palermo-contra-el-crimen-organizado-transnacional/
+Cambiada de sección: Famosos -> República Dominicana: República Dominicana ingresa a Plataforma de Palermo de lucha contra el crimen organizado
+Revisión: corregida (corregí "Geovanni Melilo" a "Giovanni Melilo" en el borrador, que no aparecía en las fuentes salvo como "Geov
+[Famosos] Diario Libre: texto leído 2661 letras -> https://www.diariolibre.com/revista/cultura/2026/11/01/nominacion-de-marinas-frias-en-premios-voces-ecuador/3707425
+Revisión: corregida (el nombre aparece como "Marina Frías" en el borrador, pero la fuente usa "Marinas Frías" en el titular y "Mar
+[Precios y combustibles] Infobae: texto leído 3923 letras -> https://www.infobae.com/nicaragua/2026/10/31/mas-del-84-de-los-nicaraguenses-enfrenta-dificultades-para-cubrir-sus-gastos-basicos/
+Cambiada de sección: Precios y combustibles -> Internacionales: Más del 84% de los nicaragüenses enfrenta dificultades para cubrir sus gastos básicos
+Revisión: corregida (se quitó la frase "un tema que también interesa..." que no está en las fuentes; se aclaró que la cifra de 84.
+Fuente no confiable, se salta: economy.com.bo
+Fuente no confiable, se salta: economy.com.bo
+Fuente no confiable, se salta: rccnoticias.com.do
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/ee-uu-atrasa-los-relojes-mientras-la-reforma-del-cambio-de-hora-sigue-frenada/
-No se pudo leer el artículo; no se publica para no salir corta: EE. UU. atrasa los relojes mientras la reforma del cambio de hora sigue frenada
+[Precios y combustibles] CDN: texto leído 0 letras -> https://cdn.com.do/nacionales/pollo-se-vende-entre-rd70-y-rd85-la-libra-en-mercados-del-gran-santo-domingo/
+No se pudo leer el artículo; no se publica para no salir corta: Pollo se vende entre RD$70 y RD$85 la libra en mercados del Gran Santo Domingo
+Fuente no confiable, se salta: prensa-latina.cu
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/rosalba-hernandez-lleva-su-cartografia-visionaria-a-italia/
-No se pudo leer el artículo; no se publica para no salir corta: Rosalba Hernández lleva su cartografía visionaria a Italia
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/actualidad/micm-ceccom-clausuran-fabrica-carton-guerra-sin-permisos/
+[Precios y combustibles] Acento: texto leído 1585 letras -> https://acento.com.do/actualidad/clausuran-fabrica-clandestina-de-carton-en-san-antonio-de-guerra-y-decomisan-combustibles-valorados-en-rd2-25-millones-9781866.html
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] CDN: texto leído 0 letras -> https://cdn.com.do/nacionales/clausuran-fabrica-carton-guerra-permisos-combustible/
+Cambiada de sección: Precios y combustibles -> República Dominicana: MICM y CECCOM clausuran fábrica de cartón en Guerra por operar sin permisos
+Revisión: corregida (quité la atribución a Acento de la contratación irregular de personal extranjero, que el MICM sí señaló según
 [Videojuegos] Nintendo: texto leído 509 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pikmin Day Direct 11.1
@@ -79,7 +91,6 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Softw
 [Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
-Consejo del día (divisas): Cuida cada dólar que envías
-15 noticias nuevas, 311 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 21 · ya cubiertas: 5 · no confiables: 6 · opinión: 0 · con texto leído: 25 · sin texto: 4 · medios juntados: 2 · con fuente oficial: 9 · aprobadas por la revisión: 1 · corregidas por la revisión: 9 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 1 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 7 · largas: 10 · ocultas (cortas): 4
-Para Instagram (tendencia 1): Dólar hoy en RD: dónde conviene comprar y vender
+13 noticias nuevas, 324 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 11 · ya cubiertas: 7 · no confiables: 4 · opinión: 0 · con texto leído: 29 · sin texto: 6 · medios juntados: 7 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 8 · cambiadas de sección: 6 · largas: 9 · ocultas (cortas): 4
+Para Instagram (tendencia 3): Clausuran fábrica de cartón en Guerra por operar sin permisos y decomisan combustibles
