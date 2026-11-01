@@ -1,88 +1,85 @@
-Corrida: 2026-11-01 02:20 AM (hora RD)
-[República Dominicana] En Salud Digital: texto leído 2161 letras -> https://ensaluddigital.gob.do/uso-correcto-del-lavado-de-manos-evita-propagacion-de-enfermedades/
-Fuente oficial encontrada: En Salud Digital 
-Revisión: corregida (se cambió "Según las estimaciones citadas" por atribución explícita a la fuente, se quitó la frase de la fuen
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'koh
-[República Dominicana] BNPHU: texto leído 294 letras -> https://koha2.bnphu.gob.do/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=13542
-No se pudo leer el artículo; no se publica para no salir corta: Vista ISBD › Biblioteca Pedro Henríquez Ureña Koha
-[República Dominicana] centralnoticias.gob.do: texto leído 4656 letras -> https://centralnoticias.gob.do/eddy-jimenez-y-camino-films-lanzan-el-trailer-oficial-de-popiwa/
-[República Dominicana] El Nuevo Diario: texto leído 4712 letras -> https://elnuevodiario.com.do/el-cineasta-eddy-jimenez-lanzan-el-trailer-oficial-de-la-comedia-dominicana-popiwa/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-Cambiada de sección: República Dominicana -> Famosos: Eddy Jiménez y Camino Films lanzan el tráiler oficial de “Popiwa”
-Revisión: corregida (ajusté el título y el gancho para que no digan "mono perdido" de forma que confunda con el hecho; eliminé "la
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3337028
-No se pudo leer el artículo; no se publica para no salir corta: DE CRE T 0:
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3400809
-No se pudo leer el artículo; no se publica para no salir corta: - 143 - 6) KIARA DIORGELIS TORRES BELTRAN 402-2610218-0 7) MADELYNE LEONOR CHAVEZ RAMIREZ 047-0213072-7 8) MICHELLE ESTRELLA V
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3264669
-No se pudo leer el artículo; no se publica para no salir corta: armados en la frontera Nor-Oeste teniendo por atrincheramiento y retirada segura el territorio de la vecina Republica, es una co
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3406226
-No se pudo leer el artículo; no se publica para no salir corta: - 110 - ARTÍCULO 2. En caso de no llegarse a un acuerdo amigable respecto al justiprecio con los propietarios de los inmuebles
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3405872
-No se pudo leer el artículo; no se publica para no salir corta: - 24 - 187 WILFREDO ANDRES DURAN PEÑA 002-0009873-9 300 188 WILVIN LEMUEL CASTRO ANTONIO 001-0826503-4 379 189 ZACARIAS PORFI
-[República Dominicana] De Último Minuto: texto leído 4046 letras -> https://deultimominuto.com/internacionales/bukele-niega-bombardeos-civiles/
+Corrida: 2026-11-01 10:20 AM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4163 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-dice-que-se-estudia-convertir-el-antiguo-ingenio-de-consuelo-en
+[República Dominicana] El Nuevo Diario: texto leído 4311 letras -> https://elnuevodiario.com.do/abinader-estudia-convertir-antiguo-ingenio-de-consuelo-en-zona-franca-para-generar-empleos/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (eliminé "Museo del Pelotero Petromacorisano" no, se mantiene; corregí que la titulación en Guayacanes y el co
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/bukele-niega-que-militares-salvadorenos-hayan-bombardeado-civiles-en-haiti/
-Cambiada de sección: República Dominicana -> Internacionales: Bukele desafía denuncia de ONG haitiana y niega bombardeos contra civiles en Haití
-Revisión: corregida (corregí "una organización de defensa" → "una organización de defensa" ya estaba bien; cambié "a advocacy grou
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 3570 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-from-the-international-contact-group-for-the-great-lakes-region-icg
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Joint Statement from the International Contact Group for the Great Lakes Region (ICG)
-Revisión: corregida (se cambió "los Acuerdos de Washington" → sin cambios de fondo; se corrigió "Front for the Refoundation of the
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 973 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/public-schedule-october-31-2026
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – October 31, 2026
+[República Dominicana] BNPHU: texto leído 0 letras -> https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-search.pl?q=ccl=an%3A40374&sort_by=relevance&count=20&limit=au:P%C3%A9rez%20Lagombra,%20Junior
+No se pudo leer el artículo; no se publica para no salir corta: Memorias de Sosúa / Junior Rafael Antonio Pérez Lagombra.
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3299028
+No se pudo leer el artículo; no se publica para no salir corta: "._ . _ \ I
+[República Dominicana] De Último Minuto: texto leído 3936 letras -> https://deultimominuto.com/entretenimiento/romeo-halloween-mexico/
+Cambiada de sección: República Dominicana -> Famosos: Romeo Santos y Prince Royce celebran Halloween en México
+Revisión: corregida (se quitó "Según el reporte" atribución ya presente en fuente única, se corrigió "Estadio Panamericano, ubicad
+[República Dominicana] De Último Minuto: texto leído 5346 letras -> https://deultimominuto.com/nacionales/conep-prorroga-codigo-penal/
+Revisión: corregida (eliminé relleno, quité la afirmación "teme que el tiempo sea insuficiente" en el texto español y su equivalen
+[República Dominicana] De Último Minuto: texto leído 3612 letras -> https://deultimominuto.com/internacionales/embarazo-infantil-colombia-2024/
+Cambiada de sección: República Dominicana -> Internacionales: Casi 3,000 niñas de entre 10 y 14 años fueron madres en 2024 en Colombia
+Rechazada por la revisión: Casi 3,000 niñas de entre 10 y 14 años fueron madres en 2024 en Colombia -> cifras que no aparecen en las fuentes: 929
+[República Dominicana] De Último Minuto: texto leído 3707 letras -> https://deultimominuto.com/nacionales/onu-califica-de-esencial/
+[República Dominicana] Ensegundos.do: texto leído 2540 letras -> https://ensegundos.do/2026/11/01/la-onu-califica-de-esencial-el-apoyo-logistico-de-republica-dominicana-a-la-fuerza-contra-pandillas-en-haiti/
+Revisión: corregida (eliminé "fundamental" en la atribución a Kroslak no, sino que cambié "armamento/armas" según fuentes, quité l
+[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 5181 letras -> https://jce.gob.do/Noticias/presidente-de-la-jce-cumpleaneros-de-abril-tienen-hasta-el-11-de-mayo-para-renovar-su-cedula-56
+Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): JCE celebra primera reunión del equipo de ética pública
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2479 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/10/ukraine-patriot-advanced-capability-3-pac-3-missiles
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles
 Rechazada por la revisión: Ukraine – PATRIOT Advanced Capability-3 (PAC-3) Missiles -> cifras que no aparecen en las fuentes: 2100
-Fuente no confiable, se salta: arecoa.com
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3719 letras -> https://elnacional.com.do/fama-y-vida/geydi-romney-guerrero-conquista-premio-emprendedora-ano-nueva-york_585047.html
-Revisión: corregida (se quitó la afirmación "Conoce su historia y su mensaje" del gancho por ser promocional y se atribuyó el prem
-[Dominicanos en EE.UU.] La República: texto leído 2602 letras -> https://larepublica.pe/mundo/2026/10/31/republica-dominicana-inicia-un-megaproyecto-turistico-de-mas-de-us1000-millones-en-playa-macao-tendra-dos-hoteles-de-lujo-548-habitaciones-y-abrira-en-2029-941346
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: República Dominicana inicia un megaproyecto turístico de más de US$1.000 millones en Playa Macao: tendrá dos hoteles de lujo, 548 habitaciones y abrirá en 2029
-Revisión: corregida (corregí el título en inglés que decía "Luxury Resort Project" en lugar de "megaproject" para mantener consist
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 6935 letras -> https://elnuevodiario.com.do/la-defensa-dominicana-afianza-la-confianza-de-sus-aliados/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): La defensa dominicana afianza la confianza de sus aliados
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: ultimasnoticias.com.do
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4280 letras -> https://elnuevodiario.com.do/hanoi-vargas-aborda-en-nueva-york-el-impacto-de-la-tecnologia-en-la-salud-mental/
+Revisión: corregida (quité la atribución "según un comunicado de prensa" no respaldada... en realidad sí está en la fuente; ajusté
+Fuente no confiable, se salta: reportur.com
+Fuente no confiable, se salta: primicias.net
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1284 letras -> https://elnuevodiario.com.do/condenan-dominicano-en-boston-por-enviar-armas-ocultas-en-un-contenedor-hacia-rd/
+Revisión: corregida (se ajustó el enunciado de la sentencia y el dato sobre los mensajes para atribuirlos a las fuentes; se quitó 
 [Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. El material que me pasas es un único texto: un mensaje presidencial de la Casa Blanca por el Día de la Reforma, en el que se habla de fe y del papel de la re')
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia como pide el encargo, porque solo hay una fuente: un mensaje presidencial de la Casa Blanca sobre el Día de la Reforma, que es un texto de opinión y devoción religiosa, ')
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/
 Fuente oficial encontrada: The White House (.gov) 
-Rechazada por la revisión: WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance -> cifras que no aparecen en las fuentes: 5000
+La IA la descartó (no es noticia, rumor, opinión o publicidad): WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance
 [Internacionales] The White House (.gov): texto leído 3420 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-oct-30-2026/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] Diario Libre: texto leído 2212 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/31/jjoo-de-la-juventud-rd-inicia-con-buen-pie-en-dakar-2026/3707069
-Cambiada de sección: Famosos -> Internacionales: Dominicana inicia con buen pie en Dakar 2026
-Revisión: corregida (quité "Según Diario Libre" donde ya estaba atribuido; corregí el orden de la ortografía en "Yu Heng Goh"/"Yi 
-[Famosos] Diario Libre: texto leído 3669 letras -> https://www.diariolibre.com/revista/musica/2026/10/31/los-heat-latin-music-awards-inician-actividades-en-jalisco/3706970
-Revisión: corregida (se corrigió el "Carlos Rivera tienen siete cada uno" a concordancia con sujeto plural "Shakira y Carlos River
+[Famosos] Diario Libre: texto leído 1981 letras -> https://www.diariolibre.com/revista/musica/2026/11/01/gaby-puche-presenta-nuevo-album-simplemente-gaby/3707195
+Revisión: aprobada
+[Famosos] Diario Libre: texto leído 2404 letras -> https://www.diariolibre.com/actualidad/nacional/2026/10/31/dgm-detiene-2256-extranjeros-en-24-horas/3706942
+[Famosos] El Nuevo Diario: texto leído 1940 letras -> https://elnuevodiario.com.do/dgm-detiene-a-2256-extranjeros-en-condicion-migratoria-irregular/
+Cambiada de sección: Famosos -> República Dominicana: Migración detiene a 2,256 haitianos en condición irregular durante operativos en un día
+Rechazada por la revisión: Migración detiene a 2,256 haitianos en condición irregular durante operativos en un día -> cifras que no aparecen en las fuentes: 256
 [Famosos] Diario Libre: texto leído 4254 letras -> https://www.diariolibre.com/actualidad/politica/2026/10/31/leonel-fernandez-acusa-al-gobierno-de-demagogia-por-caso-del-arroz/3706837
+[Famosos] Listín Diario: texto leído 4212 letras -> https://listindiario.com/la-republica/politica/20261031/leonel-acusa-gobierno-provocar-humillacion-internacional-manejo-arroz_928276.html
 Cambiada de sección: Famosos -> República Dominicana: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta
 Rechazada por la revisión: Leonel Fernández acusa al Gobierno de engañar a productores de arroz con decreto sobre el DR-Cafta -> cifras que no aparecen en las fuentes: 500000
 Fuente no confiable, se salta: meridiano.net
 Fuente no confiable, se salta: puntacana-bavaro.com
-[Famosos] De Último Minuto: texto leído 2672 letras -> https://deultimominuto.com/entretenimiento/caroline-aquino-adelanta-detalles/
-Revisión: corregida (quité "Aquino también habló..." no, sí estaba; ajusté el inglés "co-host" a "host" para igualar el español "p
+[Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/quien-es-y-por-que-lucia-castillo-ha-ganado-el-premio-nacional-de-teatro-2026-9781729.html
+Cambiada de sección: Famosos -> República Dominicana: ¿Quién es y por qué Lucía Castillo ha ganado el Premio Nacional de Teatro 2026?
+Revisión: corregida (se cambió "Sindicato de Teatristas Dominos" a "Dominicanos" en la versión final del nombre; se atribuyó explí
+[Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/veladura-conversacion-en-ciudad-abajo-con-yuly-moncion-9781531.html
+Revisión: corregida (eliminé "según publica Acento" repetido en contexto de atribución ya clara, corregí "Sabaneta a Madrid" que n
+[Precios y combustibles] Acento: texto leído 3632 letras -> https://acento.com.do/economia/una-corona-funebre-puede-costar-mas-que-un-salario-minimo-9780791.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: Una corona fúnebre puede costar más que un salario mínimo
+Revisión: corregida (se corrigió que el precio de RD$ 33,165 es de Flores Frescas, no de Flores Frescas "en la misma ruta"; se ret
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/politica/experiencia-de-dos-alianzas-municipales-un-exito-y-un-fracaso/
-No se pudo leer el artículo; no se publica para no salir corta: Experiencia de dos alianzas municipales: un éxito y un fracaso
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/ee-uu-atrasa-los-relojes-mientras-la-reforma-del-cambio-de-hora-sigue-frenada/
+No se pudo leer el artículo; no se publica para no salir corta: EE. UU. atrasa los relojes mientras la reforma del cambio de hora sigue frenada
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/ee-uu-abre-la-puertaa-negociar-los-aranceles-del-arroz-con-la-rd/
-No se pudo leer el artículo; no se publica para no salir corta: EE. UU. abre la puerta a negociar los aranceles del arroz con la RD
-[Precios y combustibles] Acento: texto leído 5212 letras -> https://acento.com.do/economia/dos-temores-decidiran-el-destino-de-la-gigantesca-salida-a-bolsa-de-anthropic-9781268.html
-Cambiada de sección: Precios y combustibles -> Internacionales: Dos temores decidirán el destino de la gigantesca salida de Anthropic
-Rechazada por la revisión: Dos temores decidirán el destino de la gigantesca salida de Anthropic -> cifras que no aparecen en las fuentes: 1411, 163
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/rosalba-hernandez-lleva-su-cartografia-visionaria-a-italia/
+No se pudo leer el artículo; no se publica para no salir corta: Rosalba Hernández lleva su cartografía visionaria a Italia
 [Videojuegos] Nintendo: texto leído 509 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una publicación promocional de Nintendo (anuncios de un juego, DLC, una transmisión y un video), no una noticia sobre hechos concretos. No hay una nota informativa que re')
-[Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
-Fuente oficial encontrada: Nintendo careers 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pikmin Day Direct 11.1
 [Videojuegos] Nintendo careers: texto leído 3493 letras -> https://careers.nintendo.com/jobs/4473550009/
 Fuente oficial encontrada: Nintendo careers 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Graphics (NTD)
-17 noticias nuevas, 296 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 16 · ya cubiertas: 6 · no confiables: 3 · opinión: 0 · con texto leído: 21 · sin texto: 9 · medios juntados: 2 · con fuente oficial: 11 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 4 · cambiadas de sección: 8 · largas: 9 · ocultas (cortas): 8
-Para Instagram (tendencia 1): Geydi Romney Guerrero recibe premio Emprendedora del Año 2026 en Nueva York
+[Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
+Fuente oficial encontrada: Nintendo careers 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
+Consejo del día (divisas): Cuida cada dólar que envías
+15 noticias nuevas, 311 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 21 · ya cubiertas: 5 · no confiables: 6 · opinión: 0 · con texto leído: 25 · sin texto: 4 · medios juntados: 2 · con fuente oficial: 9 · aprobadas por la revisión: 1 · corregidas por la revisión: 9 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 1 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 7 · largas: 10 · ocultas (cortas): 4
+Para Instagram (tendencia 1): Dólar hoy en RD: dónde conviene comprar y vender
