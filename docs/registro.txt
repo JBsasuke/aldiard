@@ -1,100 +1,74 @@
-Corrida: 2026-11-02 02:22 AM (hora RD)
-[República Dominicana] Dirección General de Pasaportes: texto leído 195 letras -> https://pasaportes.gob.do/transparencia/finanzas/informes-de-auditorias/informe-auditoria/
-No se pudo leer el artículo; no se publica para no salir corta: OGTIC y el Gabinete de Innovación
-[República Dominicana] Distrito Municipal La Cuaba: texto leído 3949 letras -> https://distritomunicipallacuaba.gob.do/
-Fuente oficial encontrada: Distrito Municipal La Cuaba 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta del Distrito Municipal La Cuaba
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/SaludCiudadana/uploads/evidencias/639253314895344304-Plan-Mejora-CAF-2027-Hosp.-Ramon-Adriano-Villalona.pdf
-No se pudo leer el artículo; no se publica para no salir corta: PLAN DE MEJORA INSTITUCIONAL CAF 2027 HOSPITAL MUNICIPAL RAMON ADRIANO VILLALONA
-[República Dominicana] Instituto de Auxilios y Viviendas | INAVI: texto leído 4216 letras -> https://inavi.gob.do/transparencia/index.php/financieros-m/category/2548-estadisticas-linea-311-tercer-trimestre
-Fuente oficial encontrada: Instituto de Auxilios y Viviendas | INAVI 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo escribir esta noticia porque la única fuente que me has pasado es una página de navegación del portal del INAVI, y no contiene ningún dato sobre la Línea 311 del tercer trimes')
-[República Dominicana] De Último Minuto: texto leído 3548 letras -> https://deultimominuto.com/nacionales/rd-moviliza-525-toneladas-haiti/
-[República Dominicana] elsalvador.com: texto leído 6552 letras -> https://www.elsalvador.com/noticias/internacional/onu-toneladas-equipo-militar-haiti/1301743/2026/
-Cambiada de sección: República Dominicana -> Internacionales: República Dominicana moviliza 525 toneladas de equipos militares de la ONU hacia Haití
-Revisión: corregida (eliminé la atribución a la Cancillería de datos que solo dio elsalvador.com y El Salvador/Bukele como fuente 
-[República Dominicana] De Último Minuto: texto leído 2557 letras -> https://deultimominuto.com/nacionales/darian-vargas-lanza-critica-adp/
-Revisión: corregida (quité "Las reacciones, en el texto" del gancho porque las fuentes no incluyen reacciones; corregí "dijo" por 
-[República Dominicana] De Último Minuto: texto leído 5405 letras -> https://deultimominuto.com/nacionales/melanio-paredes-lanza-advertencia/
-Rechazada por la revisión: Melanio Paredes lanza contundente advertencia sobre el estancamiento de la educación dominicana -> cifras que no aparecen en las fuentes: 2327
-[República Dominicana] De Último Minuto: texto leído 3458 letras -> https://deultimominuto.com/internacionales/american-airlines-vuelos-haiti-2/
-[República Dominicana] Noticias SIN: texto leído 2717 letras -> https://noticiassin.com/mundo/america/2026/11/01/american-airlines-reanuda-sus-operaciones-en-haiti-con-un-vuelo-de-miami-a-cabo-haitiano-2160162/?amp=1
-Cambiada de sección: República Dominicana -> Internacionales: American Airlines reanuda vuelos a Haití tras dos años de suspensión por la violencia
-Revisión: corregida (se quitó "Cabe destacar"-tipo relleno no presente; se atribuyó al Ministerio la información de la modernizaci
-[República Dominicana] De Último Minuto: texto leído 3305 letras -> https://deultimominuto.com/economia/expomovil-banreservas-2026-cierra/
-[República Dominicana] AlMomento.net: texto leído 2202 letras -> https://almomento.net/expomovil-banreservas-cierra-financiamientos-9985-mm/
-[República Dominicana] Noticias SIN: texto leído 3645 letras -> https://noticiassin.com/economia/2026/11/01/expomovil-banreservas-2026-cierra-con-rd9985-millones-2160187/
-Cambiada de sección: República Dominicana -> Precios y combustibles: Expomóvil Banreservas 2026 cierra con financiamientos superiores a RD$9,985 millones
-Revisión: corregida (eliminé el "un 20 % más" del gancho en inglés? no, lo corregí en el título en inglés: "Auto Expo" → "Expomóvi
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3454 letras -> https://centralnoticias.gob.do/formacion-en-inteligencia-artificial-la-llave-para-asegurar-el-empleo-en-rd/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD
-Rechazada por la revisión: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD -> cifras que no aparecen en las fuentes: 14753, 18348, 18811, 21607, 2301, 27521
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Russia (.gov): texto leído 1037 letras -> https://ru.usembassy.gov/security-alert-threat-to-tsaritysyno-museum-reserve-in-moscow-october-31-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Russia (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia como pide el encargo. Solo hay una fuente, un aviso de seguridad del Gobierno de EE.UU. publicado en su sitio .gov sobre una amenaza creíble de un evento')
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Germany (.gov): texto leído 1456 letras -> https://de.usembassy.gov/demonstration-alert-u-s-embassy-berlin-germany-october-31-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Germany (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert – U.S. Embassy Berlin, Germany (October 31, 2026)
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 6144 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: G20 Chair’s Statement G20 Foreign Ministers’ Meeting
-Revisión: corregida (se añadió atribución explícita a la Oficina del Portavoz del Departamento de Estado en el texto, se precisó q
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Quad Joint Press Release on Economic Prosperity and Security
-Revisión: corregida (corregí "decenas de miles de millones" a "decenas de miles de millones" → fuente dice "tens of billions" = "d
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Secretary of State Marco Rubio at a Press Availability
-Revisión: corregida (eliminé el "Rubio acusa"/"afirmó que el régimen… como herramienta de política" sin cambiar el sentido; aclaré
-[Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
-Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que me pasaste es un mensaje presidencial de la Casa Blanca con motivo del Día de la Reforma, que es una declaración de opinión y valor')
+Corrida: 2026-11-02 01:11 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 5800, 6000')
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2622 letras -> https://presidencia.gob.do/noticias/ministerio-de-deportes-inaugura-multiuso-en-tireo-al-medio-la-vega
+[República Dominicana] Noticias SIN: texto leído 3173 letras -> https://noticiassin.com/pais/provincias/2026/11/01/kelvin-cruz-inaugura-techado-multiuso-en-tireo-la-vega-con-inversion-de-rd22-6-millones-2160071/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
+Revisión: corregida (se atribuyó a la fuente la frase del Ministerio sobre el impacto, se cambió "Sports Minister" a "Minister of 
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2593 letras -> https://presidencia.gob.do/noticias/ministerio-de-turismo-entrega-renovado-parque-anacaona-en-constanza
+[República Dominicana] Diario Libre: texto leído 2835 letras -> https://www.diariolibre.com/politica/gobierno/2026/11/01/david-collado-entrega-renovado-parque-anacaona-en-provincia-constanza/3707784
+[República Dominicana] AlMomento.net: texto leído 2185 letras -> https://almomento.net/ministro-entrega-renovado-parque-anacaona-constanza/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+Rechazada por la revisión: Ministerio de Turismo entrega renovado parque Anacaona en Constanza -> cifras que no aparecen en las fuentes: 293
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3230 letras -> https://presidencia.gob.do/noticias/republica-dominicana-refuerza-la-seguridad-fronteriza-y-reune-19-paises-contra-los
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (quité "Los detalles, aquí." por ser relleno sin información nueva; atribuí a Abinader la afirmación de la fro
+[República Dominicana] Presidencia de la República Dominicana: texto leído 1795 letras -> https://presidencia.gob.do/noticias/sns-entrega-equipos-medicos-al-hospital-municipal-de-cutupu-por-rd-48-millones
+[República Dominicana] Infobae: texto leído 3918 letras -> https://www.infobae.com/peru/2026/11/02/56-millones-de-soles-botados-modulos-medicos-para-emergencias-llevan-cuatro-anos-abandonados-y-el-30-de-equipos-se-perdio/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Infobae
+Revisión: corregida (el borrador decía "nueve equipos" y listaba solo algunos; corregí la mención de la mesa de operaciones, que a
+[Dominicanos en EE.UU.] mt.gob.do: texto leído 7000 letras -> https://mt.gob.do/
+Fuente oficial encontrada: mt.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Ministerio de Trabajo informa días feriados correspondientes al año 2027
+Revisión: corregida (se quitó la afirmación de que el ministerio "ya tiene listo" el calendario y el gancho que lo presentaba como
+[Dominicanos en EE.UU.] US Department of State Allowances (.gov): texto leído 5549 letras -> https://aoprals.state.gov/web920/per_diem_action.asp?MenuHide=1
+Fuente oficial encontrada: US Department of State Allowances (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): U.S. Department of State
+[Dominicanos en EE.UU.] Representative Davis | (.gov): texto leído 2251 letras -> http://dondavis.house.gov/media/press-releases/reps-davis-finstad-kaptur-introduce-bipartisan-legislation-protect-us-pork
+Fuente oficial encontrada: Representative Davis | (.gov) 
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté "cabe destacar"-type relleno: no había frases de relleno evidentes, pero co
+Revisión: corregida (ajusté "cabe destacar"-type relleno: no había frases de relleno evidentes, pero corregí "Finstad, miembro del
+[Dominicanos en EE.UU.] NHC (.gov): texto leído 2821 letras -> https://www.nhc.noaa.gov/data/tcr/index.php
+Fuente oficial encontrada: NHC (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 2026 Atlantic Hurricane Season
+[Dominicanos en EE.UU.] Laconia, NH (.gov): texto leído 1002 letras -> https://www.laconianh.gov/calendar.aspx?view=list&year=2026&month=11&day=26&CID=29
+Fuente oficial encontrada: Laconia, NH (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Laconia, NH • CivicEngage
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3631 letras -> https://elnacional.com.do/mundo/valoran-nyc-iniciativa-jce-combatir-abstencion-electoral_585143.html
+[Dominicanos en EE.UU.] Hoy Digital: texto leído 3817 letras -> https://hoy.com.do/el-mundo/estados-unidos/valoran-nyc-iniciativa-jce-combatir-abstencion-electoral_1107429_amp.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: se trata de un comunicado de prensa presentado como noticia. Son los firmantes quienes valoran la iniciativa y exigen recursos al gobierno dominicano; no hay una fuente oficial ')
 [Internacionales] The White House (.gov): texto leído 3398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on All Saints’ Day
-[Internacionales] The White House (.gov): texto leído 3568 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-dubuque-ia-nov-1-2026/
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] El Nuevo Día: texto leído 1841 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-republica-dominicana-descubre-una-conexion-especial-con-puerto-rico/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered
+[Internacionales] The White House (.gov): texto leído 3546 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-at-a-halloween-party-at-mar-a-lago-oct-31-2026/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es la portada de la galería de videos de la Casa Blanca (whitehouse.gov) y no describe una noticia concreta. Solo contiene menús de navegación y una lista de videos co')
+[Famosos] El Nuevo Día: texto leído 1859 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-republica-dominicana-descubre-una-conexion-especial-con-puerto-rico/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss República Dominicana descubre una conexión especial con Puerto Rico
-Fuente no confiable, se salta: instagram.com
-[Famosos] El Dia.com.do: texto leído 2194 letras -> https://eldia.com.do/roberto-angel-salcedo-encabeza-clausura-del-ix-festival-nacional-de-teatro-2026/
-Cambiada de sección: Famosos -> República Dominicana: Roberto Ángel Salcedo encabeza clausura del IX Festival Nacional de Teatro 2026
-Revisión: corregida (faltaba la cifra de "31 espectáculos" en el texto de la clave en español; se completó el dato de la fuente en
-[Famosos] Diario Libre: texto leído 6452 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/02/botellitas-de-agua-pasan-las-pruebas-microbiologicas/3707515
-Cambiada de sección: Famosos -> República Dominicana: Botellitas de agua pasan las pruebas microbiológicas, pero son más ácidas de lo permitido
-Revisión: corregida (se cambió "Según Diario Libre" por la atribución completa a la fuente; se añadió que las cinco muestras prese
-[Famosos] El Nuevo Día: texto leído 1366 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/kim-kardashian-se-somete-a-cirugia-tras-diagnostico-relacionado-con-la-muerte-de-su-padre/
-[Famosos] Listín Diario: texto leído 1387 letras -> https://listindiario.com/entretenimiento/farandula/20261101/kim-kardashian-somete-cirugia-diagnostico-relacionado-muerte-padre_928350/amp.html
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié "se somete a cirugía" por lo que dicen las fuentes sobre la cirugía en el t
-Revisión: corregida (cambié "se somete a cirugía" por lo que dicen las fuentes sobre la cirugía en el titular y gancho: las fuente
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/expomovil-banreservas-2026-leonardo-aguilera/
-[Famosos] El Nacional — La voz de todos: texto leído 6686 letras -> https://elnacional.com.do/economia/leonardo-aguilera-entrega-vehiculos-destaca-dinamismo-expomovil-2026_585108.html
-Cambiada de sección: Famosos -> República Dominicana: Aguilera entrega vehículos a clientes al cierre de Expomóvil Banreservas 2026
-Revisión: corregida (eliminé "importante" en "dinamismo importante" del párrafo español y la frase "trabajo conjunto" se mantuvo; 
-[Famosos] El Dia.com.do: texto leído 5013 letras -> https://eldia.com.do/de-tatuar-a-figuras-urbanas-en-rd-a-levantar-su-propio-estudio-en-nueva-york/
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: De tatuar a figuras urbanas en RD a levantar su propio estudio en Nueva York
-Revisión: corregida (eliminé la frase "Los dominicanos representan una parte importante" no presente; atribuí a Banks lo que dijo;
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/estilo/paris-celebra-eltalento-y-la-identidad-dominicana/
-No se pudo leer el artículo; no se publica para no salir corta: París celebra el talento y la identidad dominicana
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/estilo/realizan-evento-cuando-el-amor-alcanza-en-favor-adultos-mayores/
-No se pudo leer el artículo; no se publica para no salir corta: Realizan evento “Cuando el amor alcanza” en favor adultos mayores
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/sociales/caffe-vergnano-1882-inaugura-su-coffee-shop/
-No se pudo leer el artículo; no se publica para no salir corta: Caffè Vergnano 1882 inaugura su Coffee Shop
-[Videojuegos] Nintendo: texto leído 509 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
+[Famosos] El Nacional — La voz de todos: texto leído 2076 letras -> https://elnacional.com.do/fama-y-vida/farandula/humor-dominicano-internacionaliza-popiwa-llegara-nuevos-mercados-4-diciembre_585180_amp.html
+Revisión: corregida (se cambió "Comedia dominicana" por "Comedia" sin cambios de fondo; se corrigió "cines" por "salas"? No; ver a
+[Famosos] El Dia.com.do: texto leído 2885 letras -> https://eldia.com.do/nahiony-reyes-y-juan-carlos-pichardo-seran-los-presentadores-del-premio-soberano-2027/
+[Famosos] N Digital: texto leído 2202 letras -> https://n.com.do/2026/11/02/por-primera-vez-nahiony-reyes-y-juan-carlos-pichardo-presentaran-premios-soberano-2027/
+[Famosos] Ensegundos.do: texto leído 2885 letras -> https://ensegundos.do/2026/11/02/nahiony-reyes-y-juan-carlos-pichardo-seran-los-presentadores-del-premio-soberano-2027/
+Revisión: corregida (el año de la ceremonia no aparece en las fuentes como 2027: dicen "miércoles 17 de marzo del próximo año" en 
+Fuente no confiable, se salta: revistamercado.do
+[Precios y combustibles] Hoy Digital: texto leído 932 letras -> https://hoy.com.do/economia/dolar-republica-dominicana-son-tasas-compra-venta-2-noviembre_1107428.html
+[Precios y combustibles] El Comercio Perú: texto leído 3916 letras -> https://elcomercio.pe/mag/respuestas/co/precio-del-dolar-en-colombia-hoy-lunes-2-de-noviembre-de-2026-trm-tipo-de-cambio-usd-a-cop-compra-y-venta-bolsa-estados-unidos-nnda-nnrt-noticia/
+[Precios y combustibles] La República: texto leído 0 letras -> https://larepublica.pe/amp/economia/precio-del-dolar/2026/11/02/precio-del-dolar-hoy-en-peru-lunes-2-noviembre-consulta-el-tipo-de-cambio-para-compra-y-venta-49296
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nRazón: los textos proporcionados no describen un hecho concreto de noticia. Son cotizaciones del tipo de cambio, en su mayoría publicaciones de servicio informativo sobre tasas diarias.')
+[Precios y combustibles] Infobae: texto leído 3649 letras -> https://www.infobae.com/noticias/2026/11/02/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-2-de-noviembre/?outputType=amp-type
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia a partir del texto que me pasaste. El contenido es principalmente una nota automatizada de cotización del euro y un resumen de perspectivas económicas de UBS,')
+[Precios y combustibles] Acento: texto leído 1722 letras -> https://acento.com.do/economia/productores-avicolas-piden-al-gobierno-verificar-representatividad-en-mesa-de-dialogo-del-sector-9781816.html
+Revisión: corregida (se quitó "Precios y combustibles" por no coincidir con la nota; se cambió "prometen" por "aseguran" para atri
+[Videojuegos] Nintendo: texto leído 7000 letras -> https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pikmin Day Direct 11.1
-[Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una entrevista de desarrollo sobre un videojuego (Ask the Developer Vol. 24), no una noticia concreta de actualidad. El texto presenta a los desarrolladores y su trayecto')
+[Videojuegos] Nintendo: texto leído 7000 letras -> https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] Rockstar Games: texto leído 0 letras -> https://signin.rockstargames.com/tpa/np/login?cid=socialclub&lang=en-US
-No se pudo leer el artículo; no se publica para no salir corta: PlayStation Network - Rockstar Games
-18 noticias nuevas, 356 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 4 · ya vistas: 18 · ya cubiertas: 1 · no confiables: 1 · opinión: 0 · con texto leído: 29 · sin texto: 7 · medios juntados: 6 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 12 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 4 · descartadas por la IA: 6 · cambiadas de sección: 11 · largas: 12 · ocultas (cortas): 6
-Para Instagram (tendencia 3): Expomóvil Banreservas 2026 cierra con más de RD$9,985 millones en financiamientos
+Revisión: corregida (eliminé la afirmación de que la información "proviene solo de la entrevista" sin atribución clara, ajusté "Th
+Consejo del día (kiloclaro): Ahorra luz sin sacrificar comodidad
+9 noticias nuevas, 365 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 4 · ya cubiertas: 0 · no confiables: 1 · opinión: 0 · con texto leído: 29 · sin texto: 1 · medios juntados: 4 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 6 · error IA: 5 · descartadas por la IA: 6 · cambiadas de sección: 1 · largas: 9 · ocultas (cortas): 0
+Para Instagram (tendencia 2): SNS entrega nueve equipos médicos al hospital municipal de Cutupú por RD$4.8 millones
