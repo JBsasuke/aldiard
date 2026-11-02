@@ -1,106 +1,100 @@
-Corrida: 2026-11-01 07:40 PM (hora RD)
-[República Dominicana] Dirección de Epidemiología: texto leído 185 letras -> https://viepi.epidemiologia.gob.do/
-No se pudo leer el artículo; no se publica para no salir corta: - Dirección de Epidemiología
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3361305
-No se pudo leer el artículo; no se publica para no salir corta: COLECC~ION DE LEYES, DECRETOS &.-1901 En us0 de las facultades que confiere a1 Poder Ejecutivo dicho Pacto Fundamental, segi
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3264677
-No se pudo leer el artículo; no se publica para no salir corta: Diciembre afio 1873, 30 de la Independencia y 11 de la Restaura- cion .-Ignacio M . Gonza1ez.-Refrendado : El Secretario en 10s
-[República Dominicana] De Último Minuto: texto leído 2816 letras -> https://deultimominuto.com/nacionales/politica/prm-supera-los-1-6-millones/
-[República Dominicana] El Nacional — La voz de todos: texto leído 2306 letras -> https://elnacional.com.do/politica/prm-supera-1-6-millones-militantes-sumar-64-mil-inscritos_585112.html
-[República Dominicana] El Nuevo Diario: texto leído 2373 letras -> https://elnuevodiario.com.do/prm-supera-el-millon-603-mil-militantes-en-segundo-dia-de-la-jornada-verificate/
-Rechazada por la revisión: PRM supera los 1.6 millones de militantes tras jornada “Verifícate” -> cifras que no aparecen en las fuentes: 1603, 1623, 64000
-[República Dominicana] De Último Minuto: texto leído 2672 letras -> https://deultimominuto.com/economia/aduanas-cierra-octubre/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] CDN: texto leído 0 letras -> https://cdn.com.do/nacionales/aduanas-alcanza-su-mayor-recaudacion-mensual-en-la-historia/
-Cambiada de sección: República Dominicana -> Precios y combustibles: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia
-Rechazada por la revisión: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia -> cifras que no aparecen en las fuentes: 12
-[República Dominicana] De Último Minuto: texto leído 2195 letras -> https://deultimominuto.com/nacionales/dicrim-mata-a-el-gordito/
-[República Dominicana] N Digital: texto leído 1880 letras -> https://n.com.do/2026/11/01/el-gordito-fallece-enfrentamiento-dicrim-santiago/
-Revisión: corregida (se cambió "Dirección Central de Investigación" a "Dirección Central de Investigación Criminal"? No: se corrig
-[República Dominicana] De Último Minuto: texto leído 2946 letras -> https://deultimominuto.com/internacionales/vuelven-playas-de-la-guaira-4/
-Cambiada de sección: República Dominicana -> Internacionales: Venezolanos vuelven a las playas de La Guaira, cuatro meses después del doble terremoto
-Revisión: corregida (se cambió "Gobernación de La Guaira" a "Gobernación de La Guaira" sin cambio… ver abajo; se corrigió la atrib
-[República Dominicana] De Último Minuto: texto leído 3045 letras -> https://deultimominuto.com/nacionales/director-nacional-de-salud/
-[República Dominicana] En Salud Digital: texto leído 4228 letras -> https://ensaluddigital.gob.do/sns-entrega-remozado-centro-clinico-y-diagnostico-de-atencion-primaria-en-dajabon-con-inversion-superior-a-los-rd30-millones/
-[República Dominicana] El Nuevo Diario: texto leído 4272 letras -> https://elnuevodiario.com.do/sns-remozo-centro-de-diagnostico-en-dajabon-con-inversion-de-rd30-millones/
-Fuente oficial encontrada: En Salud Digital | para completar: El Nuevo Diario
-Revisión: corregida (eliminé "Dajabón estrena" en el gancho por ser ambiguo sobre la fuente; corregí "Partido Municipal" a "Munici
-[República Dominicana] De Último Minuto: texto leído 1934 letras -> https://deultimominuto.com/internacionales/ecuador-detienen-a-218-personas/
-[República Dominicana] El Deber: texto leído 1729 letras -> https://eldeber.com.bo/mundo/detienen-218-personas-primera-noche-nuevo-toque-queda-ecuador_1793564788
-Cambiada de sección: República Dominicana -> Internacionales: Detienen a 218 personas durante la primera noche del nuevo toque de queda en Ecuador
-Revisión: corregida (agregué la atribución a los dos ministerios y el dato de "+ 15 minutos"? No; el cambio real: quité "Las autor
-Salió corta (1 párrafos, 16 palabras, 3663 letras leídas); se oculta: Detienen a 218 personas durante la primera noche del nuevo toque de queda en Ecuador
-[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 5181 letras -> https://jce.gob.do/Noticias/presidente-de-la-jce-cumpleaneros-de-abril-tienen-hasta-el-11-de-mayo-para-renovar-su-cedula-56
-Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: JCE celebra primera reunión del equipo de ética pública
-Revisión: corregida (ajusté "la reunión se celebró" a "celebró" sin cambios de fondo; corregí "Ethics Officer" sin cambios; reempl
+Corrida: 2026-11-02 02:22 AM (hora RD)
+[República Dominicana] Dirección General de Pasaportes: texto leído 195 letras -> https://pasaportes.gob.do/transparencia/finanzas/informes-de-auditorias/informe-auditoria/
+No se pudo leer el artículo; no se publica para no salir corta: OGTIC y el Gabinete de Innovación
+[República Dominicana] Distrito Municipal La Cuaba: texto leído 3949 letras -> https://distritomunicipallacuaba.gob.do/
+Fuente oficial encontrada: Distrito Municipal La Cuaba 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta del Distrito Municipal La Cuaba
+[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/SaludCiudadana/uploads/evidencias/639253314895344304-Plan-Mejora-CAF-2027-Hosp.-Ramon-Adriano-Villalona.pdf
+No se pudo leer el artículo; no se publica para no salir corta: PLAN DE MEJORA INSTITUCIONAL CAF 2027 HOSPITAL MUNICIPAL RAMON ADRIANO VILLALONA
+[República Dominicana] Instituto de Auxilios y Viviendas | INAVI: texto leído 4216 letras -> https://inavi.gob.do/transparencia/index.php/financieros-m/category/2548-estadisticas-linea-311-tercer-trimestre
+Fuente oficial encontrada: Instituto de Auxilios y Viviendas | INAVI 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo escribir esta noticia porque la única fuente que me has pasado es una página de navegación del portal del INAVI, y no contiene ningún dato sobre la Línea 311 del tercer trimes')
+[República Dominicana] De Último Minuto: texto leído 3548 letras -> https://deultimominuto.com/nacionales/rd-moviliza-525-toneladas-haiti/
+[República Dominicana] elsalvador.com: texto leído 6552 letras -> https://www.elsalvador.com/noticias/internacional/onu-toneladas-equipo-militar-haiti/1301743/2026/
+Cambiada de sección: República Dominicana -> Internacionales: República Dominicana moviliza 525 toneladas de equipos militares de la ONU hacia Haití
+Revisión: corregida (eliminé la atribución a la Cancillería de datos que solo dio elsalvador.com y El Salvador/Bukele como fuente 
+[República Dominicana] De Último Minuto: texto leído 2557 letras -> https://deultimominuto.com/nacionales/darian-vargas-lanza-critica-adp/
+Revisión: corregida (quité "Las reacciones, en el texto" del gancho porque las fuentes no incluyen reacciones; corregí "dijo" por 
+[República Dominicana] De Último Minuto: texto leído 5405 letras -> https://deultimominuto.com/nacionales/melanio-paredes-lanza-advertencia/
+Rechazada por la revisión: Melanio Paredes lanza contundente advertencia sobre el estancamiento de la educación dominicana -> cifras que no aparecen en las fuentes: 2327
+[República Dominicana] De Último Minuto: texto leído 3458 letras -> https://deultimominuto.com/internacionales/american-airlines-vuelos-haiti-2/
+[República Dominicana] Noticias SIN: texto leído 2717 letras -> https://noticiassin.com/mundo/america/2026/11/01/american-airlines-reanuda-sus-operaciones-en-haiti-con-un-vuelo-de-miami-a-cabo-haitiano-2160162/?amp=1
+Cambiada de sección: República Dominicana -> Internacionales: American Airlines reanuda vuelos a Haití tras dos años de suspensión por la violencia
+Revisión: corregida (se quitó "Cabe destacar"-tipo relleno no presente; se atribuyó al Ministerio la información de la modernizaci
+[República Dominicana] De Último Minuto: texto leído 3305 letras -> https://deultimominuto.com/economia/expomovil-banreservas-2026-cierra/
+[República Dominicana] AlMomento.net: texto leído 2202 letras -> https://almomento.net/expomovil-banreservas-cierra-financiamientos-9985-mm/
+[República Dominicana] Noticias SIN: texto leído 3645 letras -> https://noticiassin.com/economia/2026/11/01/expomovil-banreservas-2026-cierra-con-rd9985-millones-2160187/
+Cambiada de sección: República Dominicana -> Precios y combustibles: Expomóvil Banreservas 2026 cierra con financiamientos superiores a RD$9,985 millones
+Revisión: corregida (eliminé el "un 20 % más" del gancho en inglés? no, lo corregí en el título en inglés: "Auto Expo" → "Expomóvi
 [Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3454 letras -> https://centralnoticias.gob.do/formacion-en-inteligencia-artificial-la-llave-para-asegurar-el-empleo-en-rd/
-[Dominicanos en EE.UU.] N Digital: texto leído 3476 letras -> https://n.com.do/2026/11/01/formacion-en-inteligencia-artificial-la-llave-para-asegurar-el-empleo-en-rd/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: N Digital
+Fuente oficial encontrada: centralnoticias.gob.do 
 Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD
-Rechazada por la revisión: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD -> cifras que no aparecen en las fuentes: 111, 14753, 18348, 18811, 21607, 2301
-[Dominicanos en EE.UU.] pt.usembassy.gov: texto leído 1348 letras -> https://pt.usembassy.gov/security-alert-u-s-embassy-lisbon-portugal-november-1-2026/
-Fuente oficial encontrada: pt.usembassy.gov 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Embassy Lisbon, Portugal — November 1, 2026
-Revisión: corregida (se ajustó "Embajada de EE.UU." a "Embajada de Estados Unidos" en el texto; se eliminó la atribución implícita
-[Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
-Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es un pronóstico marítimo automatizado del Servicio Nacional de Meteorología de Estados Unidos (NWS San Juan) para las aguas de Puerto Rico y las Islas Vírgenes, con d')
-[Dominicanos en EE.UU.] U.S. Energy Information Administration (EIA) (.gov): texto leído 587 letras -> https://www.eia.gov/dnav/ng/ng_move_expc_s1_m.htm
-Fuente oficial encontrada: U.S. Energy Information Administration (EIA) (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no contiene una noticia concreta: es una tabla de datos de la EIA con notas técnicas y definiciones sobre exportaciones de gas natural, sin hechos, cifras de un suceso ni ac')
-[Dominicanos en EE.UU.] Listín Diario: texto leído 1588 letras -> https://listindiario.com/las-mundiales/ee-uu/20261101/avion-estrella-sur-florida-deja-nueve-muertos_928400.html
-[Dominicanos en EE.UU.] Univision: texto leído 1348 letras -> https://www.univision.com/local/miami-wltv/reportan-varios-muertos-jet-estrella-west-palm-beach-faa
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/internacional/avion-se-estrella-en-zona-residencial-en-florida-hay-nueve-muertos-videos-20261101-0015.html
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Un avión se estrella en el sur de Florida y deja nueve muertos
-Revisión: corregida (eliminé la atribución al Departamento de Transporte para las nueve muertes, que la fuente solo atribuye a la 
+Rechazada por la revisión: Formación en Inteligencia Artificial: la llave para asegurar el empleo en RD -> cifras que no aparecen en las fuentes: 14753, 18348, 18811, 21607, 2301, 27521
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Russia (.gov): texto leído 1037 letras -> https://ru.usembassy.gov/security-alert-threat-to-tsaritysyno-museum-reserve-in-moscow-october-31-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Russia (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia como pide el encargo. Solo hay una fuente, un aviso de seguridad del Gobierno de EE.UU. publicado en su sitio .gov sobre una amenaza creíble de un evento')
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Germany (.gov): texto leído 1456 letras -> https://de.usembassy.gov/demonstration-alert-u-s-embassy-berlin-germany-october-31-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Germany (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert – U.S. Embassy Berlin, Germany (October 31, 2026)
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 6144 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: G20 Chair’s Statement G20 Foreign Ministers’ Meeting
+Revisión: corregida (se añadió atribución explícita a la Oficina del Portavoz del Departamento de Estado en el texto, se precisó q
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Quad Joint Press Release on Economic Prosperity and Security
+Revisión: corregida (corregí "decenas de miles de millones" a "decenas de miles de millones" → fuente dice "tens of billions" = "d
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Secretary of State Marco Rubio at a Press Availability
+Revisión: corregida (eliminé el "Rubio acusa"/"afirmó que el régimen… como herramienta de política" sin cambiar el sentido; aclaré
 [Internacionales] The White House (.gov): texto leído 1887 letras -> https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esa noticia. El texto que me pasas es un mensaje presidencial de la Casa Blanca sobre el Día de la Reforma, una declaración de opinión y de postura religiosa, no un hecho ')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que me pasaste es un mensaje presidencial de la Casa Blanca con motivo del Día de la Reforma, que es una declaración de opinión y valor')
 [Internacionales] The White House (.gov): texto leído 3398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on All Saints’ Day
-[Internacionales] The White House (.gov): texto leído 3546 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-at-a-halloween-party-at-mar-a-lago-oct-31-2026/
+[Internacionales] The White House (.gov): texto leído 3568 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-dubuque-ia-nov-1-2026/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto es la página de video de la Casa Blanca con menús, enlaces y descripciones de otros videos. No contiene una noticia concreta sobre un hecho verificable con detalles de ')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] El Nuevo Día: texto leído 1841 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-republica-dominicana-descubre-una-conexion-especial-con-puerto-rico/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss República Dominicana descubre una conexión especial con Puerto Rico
 Fuente no confiable, se salta: instagram.com
-[Famosos] Diario Libre: texto leído 2112 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/01/maestra-que-se-hizo-viral-por-ensenar-cantando-se-casa-en-samana/3707416
-Revisión: corregida (quité "Así fue su boda" del gancho porque las fuentes no describen la celebración; "Familiares y allegados ac
-[Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/01/grupo-puntacana-cumple-57-anos-con-apuesta-por-el-turismo-diverso/3707556
-Cambiada de sección: Famosos -> República Dominicana: Grupo Puntacana cumple 57 años con apuesta por el turismo deportivo, el lujo y la sostenibilidad
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié "4,800 millones de impresiones mediáticas" a "4,800 millones de impresiones
-Rechazada por la revisión: Grupo Puntacana cumple 57 años con apuesta por el turismo deportivo, el lujo y la sostenibilidad -> cifras que no aparecen en las fuentes: 48
-[Famosos] Diario Libre: texto leído 1868 letras -> https://www.diariolibre.com/revista/cultura/2026/11/01/irving-alberti-y-carlos-sanchez-presentan-espectaculo-humor/3707309
-Revisión: corregida (quité "Según la información publicada" y "al medio" por atribución más precisa a Diario Libre; corregí "en la
-Fuente no confiable, se salta: economy.com.bo
-Fuente no confiable, se salta: economy.com.bo
-Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: prensa-latina.cu
-[Precios y combustibles] AlMomento.net: texto leído 3312 letras -> https://almomento.net/mercados-de-futuros-2/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Mercados de futuros (2)
-Fuente no confiable, se salta: primicias.net
-Fuente no confiable, se salta: noticia.do
+[Famosos] El Dia.com.do: texto leído 2194 letras -> https://eldia.com.do/roberto-angel-salcedo-encabeza-clausura-del-ix-festival-nacional-de-teatro-2026/
+Cambiada de sección: Famosos -> República Dominicana: Roberto Ángel Salcedo encabeza clausura del IX Festival Nacional de Teatro 2026
+Revisión: corregida (faltaba la cifra de "31 espectáculos" en el texto de la clave en español; se completó el dato de la fuente en
+[Famosos] Diario Libre: texto leído 6452 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/02/botellitas-de-agua-pasan-las-pruebas-microbiologicas/3707515
+Cambiada de sección: Famosos -> República Dominicana: Botellitas de agua pasan las pruebas microbiológicas, pero son más ácidas de lo permitido
+Revisión: corregida (se cambió "Según Diario Libre" por la atribución completa a la fuente; se añadió que las cinco muestras prese
+[Famosos] El Nuevo Día: texto leído 1366 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/kim-kardashian-se-somete-a-cirugia-tras-diagnostico-relacionado-con-la-muerte-de-su-padre/
+[Famosos] Listín Diario: texto leído 1387 letras -> https://listindiario.com/entretenimiento/farandula/20261101/kim-kardashian-somete-cirugia-diagnostico-relacionado-muerte-padre_928350/amp.html
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié "se somete a cirugía" por lo que dicen las fuentes sobre la cirugía en el t
+Revisión: corregida (cambié "se somete a cirugía" por lo que dicen las fuentes sobre la cirugía en el titular y gancho: las fuente
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/elecciones-estados-unidos-trump-latinoamerica-2026/
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Precios y combustibles] El Nuevo Herald: texto leído 0 letras -> https://www.elnuevoherald.com/noticias/estados-unidos/article317871849.html
-[Precios y combustibles] Noticias SIN: texto leído 6709 letras -> https://noticiassin.com/mundo/mundo-general/2026/11/01/elecciones-de-ee-uu-y-el-margen-de-trump-en-latinoamerica-2159896/
-Cambiada de sección: Precios y combustibles -> Internacionales: Elecciones en EE. UU. podrían limitar las políticas de Trump hacia Latinoamérica
-Revisión: corregida (corregí el título y el gancho para que no afirmen que las elecciones "frenarán" o "limitarán" directamente la
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/expomovil-banreservas-2026-leonardo-aguilera/
+[Famosos] El Nacional — La voz de todos: texto leído 6686 letras -> https://elnacional.com.do/economia/leonardo-aguilera-entrega-vehiculos-destaca-dinamismo-expomovil-2026_585108.html
+Cambiada de sección: Famosos -> República Dominicana: Aguilera entrega vehículos a clientes al cierre de Expomóvil Banreservas 2026
+Revisión: corregida (eliminé "importante" en "dinamismo importante" del párrafo español y la frase "trabajo conjunto" se mantuvo; 
+[Famosos] El Dia.com.do: texto leído 5013 letras -> https://eldia.com.do/de-tatuar-a-figuras-urbanas-en-rd-a-levantar-su-propio-estudio-en-nueva-york/
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: De tatuar a figuras urbanas en RD a levantar su propio estudio en Nueva York
+Revisión: corregida (eliminé la frase "Los dominicanos representan una parte importante" no presente; atribuí a Banks lo que dijo;
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/actualidad/primera-feria-nacional-stem-becas-empleos-jovenes/
-No se pudo leer el artículo; no se publica para no salir corta: Primera Feria Nacional STEM ofrecerá becas y oportunidades de empleo a jóvenes
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/estilo/paris-celebra-eltalento-y-la-identidad-dominicana/
+No se pudo leer el artículo; no se publica para no salir corta: París celebra el talento y la identidad dominicana
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/estilo/realizan-evento-cuando-el-amor-alcanza-en-favor-adultos-mayores/
+No se pudo leer el artículo; no se publica para no salir corta: Realizan evento “Cuando el amor alcanza” en favor adultos mayores
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/sociales/caffe-vergnano-1882-inaugura-su-coffee-shop/
+No se pudo leer el artículo; no se publica para no salir corta: Caffè Vergnano 1882 inaugura su Coffee Shop
 [Videojuegos] Nintendo: texto leído 509 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pikmin Day Direct 11.1
-[Videojuegos] Nintendo careers: texto leído 3493 letras -> https://careers.nintendo.com/jobs/4473550009/
-Fuente oficial encontrada: Nintendo careers 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Graphics (NTD)
-[Videojuegos] Nintendo careers: texto leído 3334 letras -> https://careers.nintendo.com/jobs/4473568009/
-Fuente oficial encontrada: Nintendo careers 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Intern - Software Engineer, Performance Tools (NTD)
-14 noticias nuevas, 338 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 4 · ya vistas: 17 · ya cubiertas: 5 · no confiables: 7 · opinión: 0 · con texto leído: 31 · sin texto: 8 · medios juntados: 7 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 5 · cambiadas de sección: 9 · largas: 9 · ocultas (cortas): 5
-Para Instagram (tendencia 3): RD ingresa a la Plataforma de Palermo contra el crimen organizado transnacional
+[Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
+[Videojuegos] Rockstar Games: texto leído 0 letras -> https://signin.rockstargames.com/tpa/np/login?cid=socialclub&lang=en-US
+No se pudo leer el artículo; no se publica para no salir corta: PlayStation Network - Rockstar Games
+18 noticias nuevas, 356 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 4 · ya vistas: 18 · ya cubiertas: 1 · no confiables: 1 · opinión: 0 · con texto leído: 29 · sin texto: 7 · medios juntados: 6 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 12 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 4 · descartadas por la IA: 6 · cambiadas de sección: 11 · largas: 12 · ocultas (cortas): 6
+Para Instagram (tendencia 3): Expomóvil Banreservas 2026 cierra con más de RD$9,985 millones en financiamientos
