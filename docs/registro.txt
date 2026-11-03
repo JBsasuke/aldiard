@@ -1,46 +1,45 @@
-Corrida: 2026-11-03 02:57 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4233 letras -> https://presidencia.gob.do/noticias/sns-entrega-totalmente-remozado-centro-de-primer-nivel-en-rio-limpio-elias-pina
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se cambió "Según informó la Presidencia" a la atribución correcta; se quitó el "un
-Revisión: corregida (se cambió "Según informó la Presidencia" a la atribución correcta; se quitó el "un acto de justicia social" s
+Corrida: 2026-11-03 11:17 AM (hora RD)
+Noticia con datos propios: Dólar cotiza hoy entre 57,95 y 61,45 pesos en bancos y agentes dominicanos
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4606 letras -> https://presidencia.gob.do/noticias/indotel-conecta-internet-mas-de-70-localidades-del-sur-estima-un-ahorro-de-rd-926-millones
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] AlMomento.net: texto leído 1895 letras -> https://almomento.net/indotel-conecta-71-zonas-del-sur-con-inversion-19-millones/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: AlMomento.net
+Revisión: corregida (quité "Por su parte" y frases de relleno en el ángulo del "IMPORTA"; corregí "Dominicans in the U.S." no apar
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2616 letras -> https://presidencia.gob.do/noticias/aduanas-cierra-octubre-como-el-mes-de-mayor-recaudacion-de-toda-su-historia
 [República Dominicana] Hoy Digital: texto leído 1858 letras -> https://hoy.com.do/economia/aduanas-cierra-octubre-mes-mayor-recaudacion-toda-historia_1107463.html
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Hoy Digital
 Cambiada de sección: República Dominicana -> Precios y combustibles: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia
-Rechazada por la revisión: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia -> cifras que no aparecen en las fuentes: 278
+Rechazada por la revisión: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia -> cifras que no aparecen en las fuentes: 2778
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2408 letras -> https://presidencia.gob.do/noticias/ministro-de-cultura-encabeza-la-clausura-del-ix-festival-nacional-de-teatro
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/roberto-angel-salcedo-encabeza-la-clausura-del-ix-festival-nacional-de-teatro/
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (se quitó "32 compañías" de la primera clave en español? No: se corrigió "shows" a "31 shows" y se eliminó el 
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4882 letras -> https://presidencia.gob.do/noticias/pedernales-recibe-hoy-dos-cruceros-y-afianza-su-proyeccion-como-destino-turistico-del
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste está cortado al final: la versión 1 termina a mitad de una frase ("pasando de sus pr"). Además, solo me llegó una versión, y la noticia necesita al menos la fue')
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2593 letras -> https://www.presidencia.gob.do/noticias/ministerio-de-turismo-entrega-renovado-parque-anacaona-en-constanza
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Ministerio de Turismo entrega renovado parque Anacaona en Constanza -> cifras que no aparecen en las fuentes: 292
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-apelara-sentencia-que-descarga-a-entrenador-de-futbol-procesado-por-posesion-de-pornografia-infantil/
-[República Dominicana] Hoy Digital: texto leído 3204 letras -> https://hoy.com.do/el-pais/mp-apelara-sentencia-descarga-entrenador-futbol-procesado-supuesta-posesion-pornografia-infantil_1107475.html
-[República Dominicana] Diario Libre: texto leído 3484 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/02/apelaran-sentencia-que-descargo-a-entrenador-acusado-de-abuso/3708570
-Revisión: corregida (eliminé "a menores de edad" del titular/gancho sin cambios de fondo; corregí "creación/producción/adquisición
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-participa-en-el-xi-encuentro-de-la-redtram-celebrado-en-madrid/
-No se pudo leer el artículo; no se publica para no salir corta: Ministerio Público participa en el XI Encuentro de la REDTRAM celebrado en Madrid
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/veinte-anos-de-prision-para-hombre-que-provoco-muerte-a-otro-en-las-palmas-de-herrera/
-[República Dominicana] El Nuevo Diario: texto leído 1848 letras -> https://elnuevodiario.com.do/condenan-a-20-anos-a-hombre-que-le-quito-la-vida-a-otro-en-las-palmas-de-herrera/
-Revisión: corregida (eliminé "Ambos tenían problemas personales" → "Según la acusación, ambos tenían problemas personales"; atribu
+Rechazada por la revisión: Pedernales recibe hoy dos cruceros y afianza su proyección como destino turístico del Caribe -> cifras que no aparecen en las fuentes: 5700
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5876 letras -> https://www.presidencia.gob.do/noticias/ideice-y-siuben-acuerdan-generar-datos-fortalezcan-politicas-educativas-en-familias
+[República Dominicana] El Nacional — La voz de todos: texto leído 2018 letras -> https://elnacional.com.do/nacionales/alianza-estrategica-ideice-siuben-impulsara-calidad-educativa-base-datos-sociales_585221.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
+Revisión: corregida (se quitó la afirmación de que los datos "pongan atención a la equidad" sin atribución, se atribuyó a las auto
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] USCIS (.gov): texto leído 1658 letras -> https://www.uscis.gov/es/residencia-permanente-tarjeta-verde/procesos-y-procedimientos-para-la-residencia-permanente/disponibilidad-de-visas-y-fechas-de-prioridad/tablas-del-boletin-de-visas-sobre-presentacion-de-ajuste-de-estatus
 Fuente oficial encontrada: USCIS (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tablas del Boletín de Visas sobre Presentación de Ajuste de Estatus
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Instituto Nacional de Formación Técnico Profesional (INFOTEP) -: texto leído 0 letras -> https://infotep.gob.do/noticias/abinader-inaugura-centro-tecnologico-del-infotep-para-impulsar-el-empleo-y-el-desarrollo-industrial-de-san-pedro-de-macoris/
-No se pudo leer el artículo; no se publica para no salir corta: Instituto Nacional de Formación Técnico Profesional (INFOTEP) -
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4733 letras -> https://centralnoticias.gob.do/delegaciones-de-17-paises-analizaran-en-rd-los-desafios-del-derecho-de-autor-en-la-era-de-la-inteligencia-artificial/
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 2811 letras -> https://presidencia.gob.do/noticias/indotel-lleva-musica-y-promueve-los-valores-patrios-en-san-juan-traves-de-soberania-40
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2566 letras -> https://elnuevodiario.com.do/indotel-lleva-musica-dominicana-y-promueve-los-valores-patrios-en-san-juan-a-traves-de-soberania-4-0/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Indotel lleva música y promueve los valores patrios en San Juan a través de Soberanía 4.0
+Revisión: corregida (se corrigió "Indotel lleva música y valores patrios" para mantener el sentido de las fuentes, se precisó que 
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 721 letras -> https://centralnoticias.gob.do/hilario-felix-participa-en-cierre-de-los-40-dias-de-ayuno-y-oracion-en-monte-plata/
 Fuente oficial encontrada: centralnoticias.gob.do 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Delegaciones de 17 países analizarán en RD los desafíos del derecho de autor en la era de la inteligencia artificial
-Revisión: corregida (eliminé "Según la ONDA" en el texto principal? No: lo corregí a atribución ya presente; cambié "Santo Domingo
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 5736 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-2-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission to Saudi Arabia – November 2, 2026
-Revisión: corregida (cambié "32 kilómetros" por "20 millas" según la fuente, que da 20 millas; añadí "de Estados Unidos" y ajusté 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: HILARIO FÉLIX PARTICIPA EN CIERRE DE LOS 40 DÍAS DE AYUNO Y ORACIÓN EN MONTE PLATA
+Revisión: corregida (atribuí la fuente a centralnoticias.gob.do y no a "el Gobierno" en sentido general; ajusté "encabezado" y "la
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1762 letras -> https://centralnoticias.gob.do/sns-activa-protocolo-de-respuesta-hospitalaria-ante-situacion-en-la-zona-fronteriza/
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1639 letras -> https://elnuevodiario.com.do/sns-activa-protocolo-de-respuesta-hospitalaria-ante-situacion-en-la-zona-fronteriza/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: SNS activa protocolo de respuesta hospitalaria ante situación en la zona fronteriza
+Revisión: corregida (quité "por la tensión en la frontera con Haití" del lead en español para mantener la atribución y el tono de 
 [Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 1157 letras -> https://do.usembassy.gov/tag/ask-the-consul/page/19/
 Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ask the Consul Archives
@@ -53,30 +52,52 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trum
 [Internacionales] The White House (.gov): texto leído 3398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on All Saints’ Day
-[Internacionales] The White House (.gov): texto leído 0 letras -> https://www.whitehouse.gov/wp-content/uploads/2026/11/American-Manufacturing-Renaissance-Report.pdf
-No se pudo leer el artículo; no se publica para no salir corta: American Manufacturing Renaissance Report
-[Famosos] El Nuevo Día: texto leído 1946 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-republica-dominicana-descubre-una-conexion-especial-con-puerto-rico/
-Revisión: corregida (corregí la atribución de "Miss Universe" a "Miss Universo" en el titular inglés y en el gancho: "Miss Dominic
-Fuente no confiable, se salta: cuballama.com
-[Famosos] Diario Libre: texto leído 2083 letras -> https://www.diariolibre.com/revista/cultura/2026/11/02/prime-video-amplia-sus-opciones-de-entretenimiento-en-rd/3708419
-No encaja en ninguna sección, se salta: Prime Video amplía sus opciones de entretenimiento en República Dominicana
-[Famosos] El Nacional — La voz de todos: texto leído 3093 letras -> https://elnacional.com.do/fama-y-vida/farandula/kevin-wai-disculpa-admite-famoso-dame-hombro_585229_amp.html
-Revisión: corregida (cambié "En entrevista con El Nacional" por "Según El Nacional" en el primer párrafo y atribuí la entrevista a
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 981 letras -> https://www.micm.gob.do/transparencia/base-legal-de-la-institucion/category/resoluciones-2026/11
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Resoluciones 2026 - Ministerio de Industria, Comercio y Mipymes
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 6250 letras -> https://www.bancentral.gov.do/
-Fuente oficial encontrada: Banco Central de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar la noticia con la información proporcionada. La única versión que me pasaste es la página de inicio del sitio del Banco Central de la República Dominicana: menús de n')
-Fuente no confiable, se salta: facebook.com
-Fuente no confiable, se salta: revistasumma.com
+[Internacionales] The White House (.gov): texto leído 3239 letras -> https://www.whitehouse.gov/ride-to-vote/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Rides to the Polls
+[Famosos] Diario Libre: texto leído 3867 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/03/carolina-mejia-impulsa-productos-dominicanos-en-mercado-espanol/3709239
+Cambiada de sección: Famosos -> República Dominicana: Carolina Mejía pide abrir más oportunidades para productos dominicanos en España
+Revisión: corregida (se quitó la atribución a Diario Libre en la cita de la inversión y en la frase sobre las familias, que no est
+[Famosos] El Nuevo Día: texto leído 1678 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/luren-marquez-de-la-destitucion-a-una-segunda-oportunidad-rumbo-a-miss-universe-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Luren Márquez, de la destitución a una segunda oportunidad rumbo a Miss Universe 2026
+[Famosos] El Dia.com.do: texto leído 2545 letras -> https://eldia.com.do/dalvin-la-melodia-la-nueva-cara-y-registro-de-la-bachata/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Dalvin La Melodía, la nueva cara y registro de la bachata
+Fuente no confiable, se salta: proceso.hn
+[Famosos] Diario Libre: texto leído 3102 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/03/informalidad-habitacional-y-viviendas-sin-licencia-en-rd/3708587
+Cambiada de sección: Famosos -> República Dominicana: RD construye unas 50,000 viviendas al año sin licencia
+Revisión: corregida (cambié "50,000 viviendas" en el gancho y claves a "unas 50,000" para coincidir con la fuente y el titular; co
+Fuente no confiable, se salta: proceso.hn
+[Famosos] AlMomento.net: texto leído 2876 letras -> https://almomento.net/italia-inauguran-exposicion-la-era-plasteozoica-una-distopia-ecologica/
+No encaja en ninguna sección, se salta: ITALIA: Inauguran exposición La Era Plasteozoica: Una distopía ecológica
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] AS México: texto leído 0 letras -> https://mexico.as.com/actualidad/tianguis-de-mama-lucha-hoy-en-bodega-aurrera-conoce-las-ofertas-y-promociones-al-5-de-noviembre-f202611-n/
-No se pudo leer el artículo; no se publica para no salir corta: Tianguis de Mamá Lucha hoy en Bodega Aurrera: conoce las ofertas y promociones al 5 de noviembre
-[Videojuegos] Nintendo: texto leído 519 letras -> https://www.nintendo.com/us/nintendo-direct/11-1-2026/
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/eddy-herrera-quiero-conquistar-australia-y-asia/
+No se pudo leer el artículo; no se publica para no salir corta: Eddy Herrera: “Quiero conquistar Australia y Asia”
+[Precios y combustibles] Banco Central de la República Dominicana: texto leído 0 letras -> https://cdn.bancentral.gov.do/documents/informaciones-y-servicios/compras-y-licitaciones/documents/BC03-2026-S_Aviso-licitacion.pdf?v=1793577600154
+No se pudo leer el artículo; no se publica para no salir corta: AVISO DE LICITACIÓN PÚBLICA NACIONAL
+[Precios y combustibles] Z Digital: texto leído 1963 letras -> https://z101digital.com/inespre-coloca-pollo-entre-rd33-y-rd50-la-libra/
+Rechazada por la revisión: Inespre coloca pollo entre RD$33 y RD$50 la libra -> cifras que no aparecen en las fuentes: 150000
+Fuente no confiable, se salta: facebook.com
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: revistasumma.com
+Fuente no confiable, se salta: economy.com.bo
+Fuente no confiable, se salta: ntelemicro.com
+Fuente no confiable, se salta: proceso.com.do
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: elconstituyente.com.do
+Es opinión o editorial, se salta: BID | ¿Qué energía para el futuro de Centroamérica?
+[Videojuegos] Nintendo: texto leído 2958 letras -> https://www.nintendo.com/au/news-and-articles/upcoming-games-november-2026/
 Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se cambió "Los fanáticos dominicanos" por "Los fanáticos" en IMPORTA y "Nintendo fans in the U.S." por "Ninte
-Video de YouTube agregado: Pikmin Day Direct
-12 noticias nuevas, 389 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 18 · ya cubiertas: 4 · no confiables: 3 · opinión: 0 · con texto leído: 21 · sin texto: 6 · medios juntados: 3 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 2 · con video: 1 · con foto oficial: 4 · error IA: 2 · descartadas por la IA: 7 · cambiadas de sección: 3 · largas: 8 · ocultas (cortas): 4
-Para Instagram (tendencia 3): Manerra celebra con concierto a casa llena sus dos nominaciones al Latin Grammy
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
+[Videojuegos] Nintendo: texto leído 733 letras -> https://www.nintendo.com/us/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna')
+[Videojuegos] PlayStation.Blog: texto leído 7000 letras -> https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/
+[Videojuegos] PlayStation: texto leído 7000 letras -> https://blog.es.playstation.com/2026/11/03/las-ofertas-del-black-friday-2026-de-playstation/
+[Videojuegos] PlayStation: texto leído 7000 letras -> https://blog.it.playstation.com/2026/11/03/offerte-playstation-per-il-black-friday-2026/
+[Videojuegos] Vandal: texto leído 7000 letras -> https://vandal.elespanol.com/noticia/2026307019/el-black-friday-durara-todo-el-mes-en-playstation-store-sony-anuncia-que-las-ofertas-empezaran-el-4-de-noviembre/
+Fuente oficial encontrada: PlayStation.Blog, PlayStation, PlayStation | para completar: Vandal
+Revisión: corregida (eliminé "Según anunció la compañía en su blog oficial" del párrafo de PS VR2 para no atribuir a PlayStation l
+Consejo del día (divisas): Compara antes de cambiar tus dólares
+12 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 21 · ya cubiertas: 6 · no confiables: 10 · opinión: 1 · con texto leído: 31 · sin texto: 3 · medios juntados: 7 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 7 · error IA: 1 · descartadas por la IA: 10 · cambiadas de sección: 6 · largas: 9 · ocultas (cortas): 2
+Para Instagram (tendencia 1): Dólar cotiza hoy entre 57,95 y 61,45 pesos en bancos y agentes dominicanos
