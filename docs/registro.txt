@@ -1,103 +1,82 @@
-Corrida: 2026-11-03 11:17 AM (hora RD)
-Noticia con datos propios: Dólar cotiza hoy entre 57,95 y 61,45 pesos en bancos y agentes dominicanos
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4606 letras -> https://presidencia.gob.do/noticias/indotel-conecta-internet-mas-de-70-localidades-del-sur-estima-un-ahorro-de-rd-926-millones
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[República Dominicana] AlMomento.net: texto leído 1895 letras -> https://almomento.net/indotel-conecta-71-zonas-del-sur-con-inversion-19-millones/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: AlMomento.net
-Revisión: corregida (quité "Por su parte" y frases de relleno en el ángulo del "IMPORTA"; corregí "Dominicans in the U.S." no apar
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2616 letras -> https://presidencia.gob.do/noticias/aduanas-cierra-octubre-como-el-mes-de-mayor-recaudacion-de-toda-su-historia
-[República Dominicana] Hoy Digital: texto leído 1858 letras -> https://hoy.com.do/economia/aduanas-cierra-octubre-mes-mayor-recaudacion-toda-historia_1107463.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Hoy Digital
-Cambiada de sección: República Dominicana -> Precios y combustibles: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia
-Rechazada por la revisión: Aduanas cierra octubre como el mes de mayor recaudación de toda su historia -> cifras que no aparecen en las fuentes: 2778
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2408 letras -> https://presidencia.gob.do/noticias/ministro-de-cultura-encabeza-la-clausura-del-ix-festival-nacional-de-teatro
+Corrida: 2026-11-03 05:50 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4491 letras -> https://presidencia.gob.do/noticias/inabie-lleva-servicios-de-salud-estudiantes-de-barahona
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (quité "IMPORTA" y "WHY_EN" que agregaban afirmaciones no sustentadas en la fuente sobre costo cero y "detecci
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4194 letras -> https://presidencia.gob.do/noticias/odac-amplia-su-reconocimiento-internacional-de-acreditaciones-para-impulsar-la
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé "logró" y "tanto en el país como en el exterior" sin cambiar el sentido; quité lenguaje relleno del c
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4071 letras -> https://presidencia.gob.do/noticias/fitch-ratings-eleva-la-calificacion-crediticia-de-la-republica-dominicana-bb-con
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/roberto-angel-salcedo-encabeza-la-clausura-del-ix-festival-nacional-de-teatro/
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se quitó "32 compañías" de la primera clave en español? No: se corrigió "shows" a "31 shows" y se eliminó el 
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4882 letras -> https://presidencia.gob.do/noticias/pedernales-recibe-hoy-dos-cruceros-y-afianza-su-proyeccion-como-destino-turistico-del
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Pedernales recibe hoy dos cruceros y afianza su proyección como destino turístico del Caribe -> cifras que no aparecen en las fuentes: 5700
-[República Dominicana] Presidencia de la República Dominicana: texto leído 5876 letras -> https://www.presidencia.gob.do/noticias/ideice-y-siuben-acuerdan-generar-datos-fortalezcan-politicas-educativas-en-familias
-[República Dominicana] El Nacional — La voz de todos: texto leído 2018 letras -> https://elnacional.com.do/nacionales/alianza-estrategica-ideice-siuben-impulsara-calidad-educativa-base-datos-sociales_585221.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
-Revisión: corregida (se quitó la afirmación de que los datos "pongan atención a la equidad" sin atribución, se atribuyó a las auto
+[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/economia/fitch-ratings-eleva-la-calificacion-crediticia-de-republica-dominicana-a-bb/
+[República Dominicana] Acento: texto leído 3159 letras -> https://acento.com.do/economia/fitch-ratings-eleva-calificacion-de-republica-dominicana-a-bb-9783191.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Acento
+Revisión: corregida (quité "Por esa razón" que implicaba causalidad no dicha por la fuente y ajusté "Dominican Republic" a "Domini
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] USCIS (.gov): texto leído 1658 letras -> https://www.uscis.gov/es/residencia-permanente-tarjeta-verde/procesos-y-procedimientos-para-la-residencia-permanente/disponibilidad-de-visas-y-fechas-de-prioridad/tablas-del-boletin-de-visas-sobre-presentacion-de-ajuste-de-estatus
 Fuente oficial encontrada: USCIS (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tablas del Boletín de Visas sobre Presentación de Ajuste de Estatus
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 2811 letras -> https://presidencia.gob.do/noticias/indotel-lleva-musica-y-promueve-los-valores-patrios-en-san-juan-traves-de-soberania-40
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2566 letras -> https://elnuevodiario.com.do/indotel-lleva-musica-dominicana-y-promueve-los-valores-patrios-en-san-juan-a-traves-de-soberania-4-0/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Indotel lleva música y promueve los valores patrios en San Juan a través de Soberanía 4.0
-Revisión: corregida (se corrigió "Indotel lleva música y valores patrios" para mantener el sentido de las fuentes, se precisó que 
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 721 letras -> https://centralnoticias.gob.do/hilario-felix-participa-en-cierre-de-los-40-dias-de-ayuno-y-oracion-en-monte-plata/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: HILARIO FÉLIX PARTICIPA EN CIERRE DE LOS 40 DÍAS DE AYUNO Y ORACIÓN EN MONTE PLATA
-Revisión: corregida (atribuí la fuente a centralnoticias.gob.do y no a "el Gobierno" en sentido general; ajusté "encabezado" y "la
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1762 letras -> https://centralnoticias.gob.do/sns-activa-protocolo-de-respuesta-hospitalaria-ante-situacion-en-la-zona-fronteriza/
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1639 letras -> https://elnuevodiario.com.do/sns-activa-protocolo-de-respuesta-hospitalaria-ante-situacion-en-la-zona-fronteriza/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: SNS activa protocolo de respuesta hospitalaria ante situación en la zona fronteriza
-Revisión: corregida (quité "por la tensión en la frontera con Haití" del lead en español para mantener la atribución y el tono de 
-[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 1157 letras -> https://do.usembassy.gov/tag/ask-the-consul/page/19/
-Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ask the Consul Archives
-[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 1849 letras -> https://do.usembassy.gov/beware-of-conference-scams/
-Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Beware of Conference Scams
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered
-[Internacionales] The White House (.gov): texto leído 3398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on All Saints’ Day
-[Internacionales] The White House (.gov): texto leído 3239 letras -> https://www.whitehouse.gov/ride-to-vote/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Rides to the Polls
-[Famosos] Diario Libre: texto leído 3867 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/03/carolina-mejia-impulsa-productos-dominicanos-en-mercado-espanol/3709239
-Cambiada de sección: Famosos -> República Dominicana: Carolina Mejía pide abrir más oportunidades para productos dominicanos en España
-Revisión: corregida (se quitó la atribución a Diario Libre en la cita de la inversión y en la frase sobre las familias, que no est
-[Famosos] El Nuevo Día: texto leído 1678 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/luren-marquez-de-la-destitucion-a-una-segunda-oportunidad-rumbo-a-miss-universe-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Luren Márquez, de la destitución a una segunda oportunidad rumbo a Miss Universe 2026
-[Famosos] El Dia.com.do: texto leído 2545 letras -> https://eldia.com.do/dalvin-la-melodia-la-nueva-cara-y-registro-de-la-bachata/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dalvin La Melodía, la nueva cara y registro de la bachata
-Fuente no confiable, se salta: proceso.hn
-[Famosos] Diario Libre: texto leído 3102 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/03/informalidad-habitacional-y-viviendas-sin-licencia-en-rd/3708587
-Cambiada de sección: Famosos -> República Dominicana: RD construye unas 50,000 viviendas al año sin licencia
-Revisión: corregida (cambié "50,000 viviendas" en el gancho y claves a "unas 50,000" para coincidir con la fuente y el titular; co
-Fuente no confiable, se salta: proceso.hn
-[Famosos] AlMomento.net: texto leído 2876 letras -> https://almomento.net/italia-inauguran-exposicion-la-era-plasteozoica-una-distopia-ecologica/
-No encaja en ninguna sección, se salta: ITALIA: Inauguran exposición La Era Plasteozoica: Una distopía ecológica
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 4495 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-encabeza-reconocimiento-12-dominicanos-destacados-en-europa-por
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/eddy-herrera-quiero-conquistar-australia-y-asia/
-No se pudo leer el artículo; no se publica para no salir corta: Eddy Herrera: “Quiero conquistar Australia y Asia”
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 0 letras -> https://cdn.bancentral.gov.do/documents/informaciones-y-servicios/compras-y-licitaciones/documents/BC03-2026-S_Aviso-licitacion.pdf?v=1793577600154
-No se pudo leer el artículo; no se publica para no salir corta: AVISO DE LICITACIÓN PÚBLICA NACIONAL
-[Precios y combustibles] Z Digital: texto leído 1963 letras -> https://z101digital.com/inespre-coloca-pollo-entre-rd33-y-rd50-la-libra/
-Rechazada por la revisión: Inespre coloca pollo entre RD$33 y RD$50 la libra -> cifras que no aparecen en las fuentes: 150000
-Fuente no confiable, se salta: facebook.com
+[Dominicanos en EE.UU.] www.elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/abinader-reconoce-a-12-dominicanos-destacados-en-europa-por-sus-aportes/
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (la sección cambió de "Dominicanos en EE.UU." a una sección acorde con Europa, el título pasó de "entrega" a "
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 2643 letras -> https://presidencia.gob.do/en
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
+No se pudo bajar la página: <HTTPError 470: ''>
+[Dominicanos en EE.UU.] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/condena-de-20-anos-de-prision-para-hombre-que-mato-a-un-cunado-en-monte-plata/
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1957 letras -> https://elnuevodiario.com.do/condenan-a-20-anos-a-hombre-que-mato-a-su-cunado-a-machetazos-en-monte-plata/
+[Dominicanos en EE.UU.] Noticias SIN: texto leído 2198 letras -> https://noticiassin.com/pais/justicia/2026/11/03/condenan-a-20-anos-por-asesinato-de-cunado-en-monte-plata-2161621/?amp=1
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Condena de 20 años de prisión para hombre que mató a un cuñado en Monte Plata
+Revisión: corregida (en la versión de la Procuraduría y El Nuevo Diario el título habla de "machetazos" y el borrador dice "a 20 a
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 904 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco/
+[Dominicanos en EE.UU.] U.S. Department of the Treasury (.gov): texto leído 1104 letras -> https://home.treasury.gov/news/press-releases/sb0674
+Fuente oficial encontrada: U.S. Department of State (.gov), U.S. Department of the Treasury (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Secretary Rubio’s Meeting with Venezuelan Foreign Minister Blanco
+Revisión: corregida (eliminé "en su sede en Washington" y "en el país" donde no había respaldo exacto; ajusté "Departamento de Est
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements
+Fuente oficial encontrada: Federal Register (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir esta noticia con los textos que me has pasado, porque la única versión disponible es el encabezado de la página del Federal Register (federalregister.gov) y no contiene información s')
+[Internacionales] The White House (.gov): texto leído 2943 letras -> https://www.whitehouse.gov/find-your-polling-place/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Find Your Polling Place
+[Internacionales] The White House (.gov): texto leído 2400 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Is Powering an American Manufacturing Renaissance
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Internacionales] Homeland Security (.gov): texto leído 4817 letras -> https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border
+Fuente oficial encontrada: The White House (.gov), Homeland Security (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo puedo generar esta noticia a partir de los textos proporcionados. Son documentos de propaganda oficial del gobierno de Estados Unidos (whitehouse.gov y dhs.gov) que presentan afirmac')
+Fuente no confiable, se salta: periodicocubano.com
+[Famosos] Diario Libre: texto leído 1671 letras -> https://www.diariolibre.com/revista/moda/2026/11/03/giannina-azar-disenara-vestuario-de-candidatas-de-miss-universo-2026/3709457
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/a-y-e/giannina-azar-disenara-el-vestuario-de-las-candidatas-de-miss-universo-2026/
+[Famosos] www.abc.com.py: texto leído 1115 letras -> https://www.abc.com.py/estilo-de-vida/2026/11/03/la-dominicana-giannina-azar-disenara-el-vestuario-de-las-candidatas-de-miss-universo-2026/?outputType=amp
+Revisión: corregida (eliminé la atribución "Según informó" en el párrafo 2 y la reemplacé por "Según el comunicado", ya que las fu
+[Famosos] El Dia.com.do: texto leído 2848 letras -> https://eldia.com.do/dominicanas-en-ny-esperan-estreno-pelicula-la-novia-del-atlantico-dirige-actriz-celines-toribio/
+[Famosos] El Nuevo Diario: texto leído 2870 letras -> https://elnuevodiario.com.do/dominicanas-en-ny-esperan-estreno-pelicula-la-novia-del-atlantico-dirige-actriz-celines-toribio/
+Revisión: corregida (quité "En entrevista" por no estar claro que sea entrevista directa, la cita viene de las fuentes como declar
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1593 letras -> https://micm.gob.do/ministros-yayo-y-magin-abordaran-manana-la-nueva-realidad-de-rd-ante-crisis-global/
+[Precios y combustibles] El Nuevo Diario: texto leído 1467 letras -> https://elnuevodiario.com.do/ministros-sanz-lovaton-y-diaz-abordaran-nueva-realidad-de-rd-ante-crisis-global/
+[Precios y combustibles] Periódico elDinero: texto leído 1446 letras -> https://eldinero.com.do/387180/ministros-yayo-y-magin-abordaran-este-miercoles-la-nueva-realidad-de-rd-ante-crisis-global/
+Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes | para completar: El Nuevo Diario
+Cambiada de sección: Precios y combustibles -> República Dominicana: Ministros Yayo y Magín abordarán mañana la nueva realidad de RD ante crisis global
+Revisión: corregida (se quitó "Dos ministros" y se corrigió el ministro de Industria a "Yayo Sanz Lovatón" en el título sin cambio
 Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: revistasumma.com
-Fuente no confiable, se salta: economy.com.bo
-Fuente no confiable, se salta: ntelemicro.com
-Fuente no confiable, se salta: proceso.com.do
-Fuente no confiable, se salta: elpregonerord.com
-Fuente no confiable, se salta: elconstituyente.com.do
-Es opinión o editorial, se salta: BID | ¿Qué energía para el futuro de Centroamérica?
+[Precios y combustibles] Acento: texto leído 5142 letras -> https://acento.com.do/economia/los-dominicanos-ahorran-rd-3-5-billones-el-problema-es-donde-los-guardan-9782437.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: Los dominicanos ahorran RD$ 3.5 billones; el problema es dónde los guardan
+Revisión: corregida (eliminé la atribución a Jesús Geraldo Martínez, que no aparece en el borrador; corregí "% de las captaciones"
+[Precios y combustibles] Acento: texto leído 5158 letras -> https://acento.com.do/economia/banco-popular-presenta-en-londres-oportunidades-de-inversion-en-turismo-y-energia-en-republica-dominicana-9782282.html
+[Precios y combustibles] AlMomento.net: texto leído 3826 letras -> https://almomento.net/bpd-presenta-oportunidades-de-inversion-en-r-dominicana/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Banco Popular presenta en Londres oportunidades de inversión en turismo y energía en República Dominicana
+Rechazada por la revisión: Banco Popular presenta en Londres oportunidades de inversión en turismo y energía en República Dominicana -> cifras que no aparecen en las fuentes: 16
 [Videojuegos] Nintendo: texto leído 2958 letras -> https://www.nintendo.com/au/news-and-articles/upcoming-games-november-2026/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] Nintendo: texto leído 733 letras -> https://www.nintendo.com/us/
-Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna')
-[Videojuegos] PlayStation.Blog: texto leído 7000 letras -> https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/
-[Videojuegos] PlayStation: texto leído 7000 letras -> https://blog.es.playstation.com/2026/11/03/las-ofertas-del-black-friday-2026-de-playstation/
-[Videojuegos] PlayStation: texto leído 7000 letras -> https://blog.it.playstation.com/2026/11/03/offerte-playstation-per-il-black-friday-2026/
-[Videojuegos] Vandal: texto leído 7000 letras -> https://vandal.elespanol.com/noticia/2026307019/el-black-friday-durara-todo-el-mes-en-playstation-store-sony-anuncia-que-las-ofertas-empezaran-el-4-de-noviembre/
-Fuente oficial encontrada: PlayStation.Blog, PlayStation, PlayStation | para completar: Vandal
-Revisión: corregida (eliminé "Según anunció la compañía en su blog oficial" del párrafo de PS VR2 para no atribuir a PlayStation l
-Consejo del día (divisas): Compara antes de cambiar tus dólares
-12 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 21 · ya cubiertas: 6 · no confiables: 10 · opinión: 1 · con texto leído: 31 · sin texto: 3 · medios juntados: 7 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 7 · error IA: 1 · descartadas por la IA: 10 · cambiadas de sección: 6 · largas: 9 · ocultas (cortas): 2
-Para Instagram (tendencia 1): Dólar cotiza hoy entre 57,95 y 61,45 pesos en bancos y agentes dominicanos
+[Videojuegos] PlayStation.Blog: texto leído 4394 letras -> https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/
+Fuente oficial encontrada: PlayStation.Blog 
+Revisión: corregida (eliminé "Sega anunció" en favor de atribuir a PlayStation.Blog las afirmaciones de fuente única, ajusté "segú
+11 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 11 · ya cubiertas: 9 · no confiables: 2 · opinión: 0 · con texto leído: 28 · sin texto: 4 · medios juntados: 8 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 7 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 5 · largas: 11 · ocultas (cortas): 0
+Para Instagram (tendencia 3): Condenan a 20 años de prisión a hombre que mató a su cuñado en Monte Plata
