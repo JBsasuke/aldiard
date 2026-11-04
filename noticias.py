@@ -1,11 +1,13 @@
 """Al Día RD: busca noticias, hace resúmenes con Claude, arma la página en docs/,
 escoge la noticia de Instagram de esta hora y prepara el consejo del día."""
 import feedparser, json, os, re, html, hashlib, unicodedata, urllib.parse
+from guias import GUIAS
 from datetime import datetime, timezone, timedelta
 
 # ================= Configuración =================
 SITIO = "https://aldiard.com"
 INSTAGRAM = "aldiardnews"
+ADSENSE = "ca-pub-3979135814994883"   # cuenta de Google AdSense (la misma de Divisas RD y KiloClaro)
 MODELO = os.environ.get("MODELO_IA", "claude-haiku-5-5")
 HORA_RD = timezone(timedelta(hours=-4))   # República Dominicana (no cambia de hora)
 
@@ -1417,6 +1419,18 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 .relacionadas h3{font-size:16px;text-transform:uppercase;letter-spacing:.06em;color:var(--gris)}
 .relacionadas a{display:block;padding:12px 0;border-bottom:1px solid var(--linea);text-decoration:none;font-weight:700}
 .relacionadas a:hover{color:var(--enlace)}
+.articulo .cuerpo h2{font-size:22px;margin:26px 0 8px;font-weight:800}
+.articulo .cuerpo h3{font-size:18px;margin:18px 0 6px;font-weight:700}
+.articulo .cuerpo li{font-size:17px;line-height:1.65;color:var(--texto2);margin-bottom:6px}
+.articulo .cuerpo a{color:var(--enlace);font-weight:600}
+.articulo .cuerpo .resumen{font-size:20px;line-height:1.55;font-weight:600;color:var(--tinta)}
+.articulo .cuerpo .nota{display:block;border:0;border-left:4px solid var(--enlace);border-radius:8px;padding:10px 14px;background:var(--fondo);font-size:16px}
+.lista-guias{list-style:none;padding:0;margin:0}
+.lista-guias li{border-bottom:1px solid var(--linea);padding:14px 0}
+.lista-guias a{font-weight:800;font-size:18px;text-decoration:none;color:var(--enlace)}
+.guias-portada{margin-top:24px;background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:18px 20px}
+.guias-portada h2{margin:0 0 8px;font-size:18px}
+.guias-portada a{display:block;padding:7px 0;font-weight:600;color:var(--enlace);text-decoration:none}
 .articulo .cuerpo p.entrada{font-size:20px;line-height:1.55;font-weight:600;color:var(--tinta)}
 .claves,.importa{border-radius:12px;padding:16px 20px;margin:4px 0 20px}
 .claves{background:var(--fondo);border:1px solid var(--linea)}
@@ -1500,6 +1514,7 @@ T = {
            "pie2": "Cada noticia lleva el crédito y el enlace a su fuente original.",
            "siguenos": "Síguenos", "tambien": "También", "quienes": "Quiénes somos", "contacto": "Contacto",
            "privacidad": "Política de privacidad", "cambiar": "Read in English", "otro": "EN",
+           "guias": "Guías", "guias_tit": "Guías útiles", "guias_todas": "Ver todas las guías →",
            "tema": "Cambiar entre modo claro y oscuro", "solo_es": ""},
     "en": {"todas": "All", "leer": "Read the full story", "fuente": "Source", "fuentes": "Sources",
            "en": "at", "consejo": "💡 Tip of the day", "vacio": "English news coming soon.",
@@ -1517,6 +1532,7 @@ T = {
            "pie2": "Every story credits and links to its original sources.",
            "siguenos": "Follow us", "tambien": "Also", "quienes": "About us", "contacto": "Contact",
            "privacidad": "Privacy policy", "cambiar": "Leer en español", "otro": "ES",
+           "guias": "Guides (Spanish)", "guias_tit": "Helpful guides (in Spanish)", "guias_todas": "See all guides →",
            "tema": "Switch between light and dark mode", "solo_es": "In Spanish"},
 }
 
@@ -1570,6 +1586,7 @@ def cabeza(titulo, descripcion, url, imagen, lang="es", alterna=None, extra=""):
 <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>
 <style>{CSS}</style>{extra}</head>
 <body>
 <div class="franja"></div>"""
@@ -1602,7 +1619,7 @@ def pie(lang="es"):
   <div>{t['siguenos']}: <a href="https://instagram.com/{INSTAGRAM}" target="_blank" rel="noopener">Instagram</a> · <a href="https://x.com/{INSTAGRAM}" target="_blank" rel="noopener">X</a> @{INSTAGRAM}<br>
     {t['tambien']}: <a href="https://divisasrd.com" target="_blank" rel="noopener">DivisasRD.com</a> ·
     <a href="https://kiloclarord.com" target="_blank" rel="noopener">KiloClaroRD.com</a></div>
-  <div class="legal"><a href="{'/en' if lang == 'en' else ''}/quienes-somos.html">{t['quienes']}</a> · <a href="{'/en' if lang == 'en' else ''}/contacto.html">{t['contacto']}</a> ·
+  <div class="legal"><a href="/guias/">{t['guias']}</a> · <a href="{'/en' if lang == 'en' else ''}/quienes-somos.html">{t['quienes']}</a> · <a href="{'/en' if lang == 'en' else ''}/contacto.html">{t['contacto']}</a> ·
     <a href="{'/en' if lang == 'en' else ''}/privacidad.html">{t['privacidad']}</a> · aldiardnoticias@gmail.com</div>
 </div></footer>"""
 
@@ -1702,6 +1719,9 @@ def generar_portada(todas, consejos, lang="es"):
                   + "".join(tarjeta(n, lang) for n in resto) + "</div>")
     else:
         cuerpo = bloque_consejo + f"<p class='vacio'>{t['vacio']}</p>"
+    cuerpo += (f'<section class="guias-portada"><h2>📚 {t["guias_tit"]}</h2>'
+               + "".join(f'<a href="/guias/{g["slug"]}/">{html.escape(g["titulo"])}</a>' for g in GUIAS)
+               + f'<a href="/guias/"><b>{t["guias_todas"]}</b></a></section>')
     nav = (f'\n  <nav><button data-f="todas" aria-pressed="true">{t["todas"]}</button>' + "".join(
         f'<button data-f="{cl}" aria-pressed="false">{html.escape(nombre_seccion(nombre, lang))}</button>'
         for nombre, (_, _, cl, _) in SECCIONES.items()) + "</nav>")
@@ -1786,9 +1806,47 @@ def generar_notas(todas, lang="es"):
         if archivo not in vigentes:
             os.remove(os.path.join(carpeta, archivo))
 
+def pagina_guia(titulo, descripcion, ruta, cuerpo, ld_tipo="WebPage"):
+    url = SITIO + ruta
+    ld = json.dumps({"@context": "https://schema.org", "@type": ld_tipo, "headline": titulo[:110], "inLanguage": "es",
+                     "description": descripcion, "mainEntityOfPage": url,
+                     "publisher": {"@type": "Organization", "name": "Al Día RD",
+                                   "logo": {"@type": "ImageObject", "url": SITIO + "/img/logo-512.png"}}},
+                    ensure_ascii=False)
+    return (cabeza(titulo + " · Al Día RD", descripcion, url, SITIO + "/img/logo-512.png", "es", None,
+                   f'\n<script type="application/ld+json">{ld}</script>')
+            + encabezado("es") + f"""
+<main>
+<a class="volver" href="/guias/">← Todas las guías</a>
+<article class="articulo in">
+  <div class="meta"><span class="chip">Guía</span></div>
+  <div class="cuerpo">{cuerpo}</div>
+  <div class="credito">Guía de Al Día RD. ¿Ves algo que corregir? Escríbenos a aldiardnoticias@gmail.com.</div>
+</article>
+</main>""" + pie("es") + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
+
+def generar_guias():
+    """Guías fijas (contenido propio y útil): docs/guias/ y docs/guias/<slug>/. El texto está en guias.py."""
+    for g in GUIAS:
+        os.makedirs(f"docs/guias/{g['slug']}", exist_ok=True)
+        with open(f"docs/guias/{g['slug']}/index.html", "w", encoding="utf-8") as f:
+            f.write(pagina_guia(re.sub(r"<[^>]+>", "", g["titulo"]), g["desc"], f"/guias/{g['slug']}/", g["cuerpo"], "Article"))
+    lista = "".join(f'<li><a href="/guias/{g["slug"]}/">{html.escape(g["titulo"])}</a><p>{html.escape(g["corto"])}</p></li>'
+                    for g in GUIAS)
+    intro = ("Explicaciones claras para entender mejor las noticias y protegerte: cómo reconocer noticias falsas, "
+             "términos de economía y de tribunales, temporada de huracanes y estafas.")
+    with open("docs/guias/index.html", "w", encoding="utf-8") as f:
+        f.write(pagina_guia("Guías", intro, "/guias/",
+                            f'<h1>Guías</h1><p class="resumen">{intro}</p><ul class="lista-guias">{lista}</ul>'))
+    # para que Google sepa que los anuncios de esta web son de esta cuenta
+    if not os.path.exists("docs/ads.txt"):
+        with open("docs/ads.txt", "w", encoding="utf-8") as f:
+            f.write("google.com, " + ADSENSE.replace("ca-", "") + ", DIRECT, f08c47fec0942fa0\n")
+
 def generar_sitemap(todas):
     fijas = ("quienes-somos.html", "contacto.html", "privacidad.html")
     urls = [SITIO + "/", SITIO + "/en/"] + [SITIO + "/" + p for p in fijas] + [SITIO + "/en/" + p for p in fijas]
+    urls += [SITIO + "/guias/"] + [SITIO + f"/guias/{g['slug']}/" for g in GUIAS]
     urls += [SITIO + pagina_nota(n) for n in visibles(todas)]
     urls += [SITIO + pagina_nota(n, "en") for n in visibles(todas) if tiene_en(n)]
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
@@ -1800,6 +1858,7 @@ def generar_html(todas, consejos):
     for lang in ("es", "en"):
         generar_portada(todas, consejos, lang)
         generar_notas(todas, lang)
+    generar_guias()
     generar_sitemap(todas)
 
 # ================= Principal =================
@@ -1863,4 +1922,4 @@ def principal():
         print(f"Para Instagram (tendencia {elegida.get('tendencia', 1)}): {elegida['titulo']}")
 
 if __name__ == "__main__":
-    main()
+    main()
