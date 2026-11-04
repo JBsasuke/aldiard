@@ -1,97 +1,95 @@
-Corrida: 2026-11-04 07:07 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1103 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-se-reune-con-el-expresidente-del-gobierno-espanol-jose-maria
-[República Dominicana] Diario Libre: texto leído 2009 letras -> https://www.diariolibre.com/politica/general/2026/11/03/abinader-se-reune-con-jose-maria-aznar/3709842
-[República Dominicana] El Nuevo Diario: texto leído 1040 letras -> https://elnuevodiario.com.do/abinader-se-reune-con-expresidente-de-gobierno-espanol-jose-maria-aznar-lopez/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
-Revisión: corregida (eliminé "con quien mantiene buenas relaciones" del lead redundante, quité "en Madrid" del título en español p
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)
-[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 546 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/ChangePagingStyle?mkey=e743e416_ee79_4d9d_8811_2fbd5739abc0
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-Error IA: ValueError('respuesta sin el formato esperado: No hay una noticia que redactar en la Versión 1. El texto que recibí es el pie de una página web de la Dirección General de Contrataciones Públicas: menús de navegación (Profile Settings, Log Out, Hel')
-[República Dominicana] DGCINE: texto leído 1778 letras -> https://dgcine.gob.do/category/sin-categoria-es/page/17/
-Fuente oficial encontrada: DGCINE 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo que se me entregó no es una noticia concreta. Son fragmentos de la portada de un sitio web oficial (DGCINE): avisos sobre cómo reconocer sitios .gob.do, un anuncio de un ciclo de enc')
-[República Dominicana] Junta Central Electoral de la República Dominicana: texto leído 1760 letras -> https://jce.gob.do/portaltransparencia/Compras-y-Contrataciones?EntryId=36094
-Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única fuente disponible es una página del portal de transparencia de la Junta Central Electoral: una navegación de menús con un registro de compras y')
-[República Dominicana] centralnoticias.gob.do: texto leído 1562 letras -> https://centralnoticias.gob.do/fitch-proyecta-que-la-deuda-publica-dominicana-baje-a-479-del-pib-en-2026/
-[República Dominicana] AlMomento.net: texto leído 1892 letras -> https://almomento.net/fitch-proyecta-deuda-publica-dominicana-bajara-este-2026/
-[República Dominicana] Listín Diario: texto leído 1799 letras -> https://listindiario.com/economia/finanzas/20261103/fitch-proyecta-deuda-publica-dominicana-baje-47-9-pib-2026_928698.html
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: AlMomento.net
-Cambiada de sección: República Dominicana -> Precios y combustibles: Fitch proyecta que la deuda pública dominicana baje a 47,9 % del PIB en 2026
-Revisión: corregida (cambié la sección "Precios y combustibles" por "Economía", quité "¿Qué significa esto para la economía del pa
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3263510
-No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.-1890.
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3263241
-No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.-1889. M. M. GAUTIER.
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3265980
-No se pudo leer el artículo; no se publica para no salir corta: veintisiete días del mes de Junio de mil novecientos veintisiete, años 840. de la Independencia y 640. de la
-[República Dominicana] DGII: texto leído 1070 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/errorel-archivo-contiene-errores/6aea2ed61aacc89e4fc56387
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ERROR:El Archivo Contiene Errores
+Corrida: 2026-11-04 02:40 PM (hora RD)
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió que "BHD y Banesco" pagan la compra más baja entre bancos pero Bonanza
+Noticia con datos propios: Dólar en RD: dónde conviene cambiar hoy y cuánto pagan
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4112 letras -> https://presidencia.gob.do/noticias/ministros-de-defensa-y-de-la-presidencia-recorren-principales-pasos-fronterizos-y
+[República Dominicana] El Nuevo Diario: texto leído 3736 letras -> https://elnuevodiario.com.do/ministros-de-defensa-y-de-presidencia-recorren-principales-pasos-fronterizos-constatan-normalidad/
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] USCIS (.gov): texto leído 1658 letras -> https://www.uscis.gov/es/residencia-permanente-tarjeta-verde/procesos-y-procedimientos-para-la-residencia-permanente/disponibilidad-de-visas-y-fechas-de-prioridad/tablas-del-boletin-de-visas-sobre-presentacion-de-ajuste-de-estatus
-Fuente oficial encontrada: USCIS (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Tablas del Boletín de Visas sobre Presentación de Ajuste de Estatus
-[Dominicanos en EE.UU.] Ministerio de Turismo de la República Dominicana: texto leído 0 letras -> https://www.mitur.gob.do/noticias/embajadora-britanica-destaca-aumento-de-turistas-del-reino-unido-hacia-rd
-No se pudo leer el artículo; no se publica para no salir corta: Embajadora británica destaca aumento de turistas del Reino Unido hacia RD
+[República Dominicana] CDN: texto leído 0 letras -> https://cdn.com.do/nacionales/regionales/frontera-bajo-supervision-defensa-y-presidencia-recorren-pasos-fronterizos/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (eliminé "según las autoridades" en el texto español donde no había atribución clara, reemplacé "Según las aut
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2801 letras -> https://www.presidencia.gob.do/noticias/intrant-y-rd-vial-refuerzan-seguridad-vial-con-nuevas-gruas-y-mayor-control-al-transito-de
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "promueve" → mantengo; cambié "impulsarán" sin cambio de sentido; quité "a
+Revisión: corregida (eliminé "promueve" → mantengo; cambié "impulsarán" sin cambio de sentido; quité "anden" no aplica; corregí "d
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2813 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-anuncia-para-dentro-de-15-dias-primer-picazo-construccion
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Rechazada por la revisión: Presidente Luis Abinader anuncia para dentro de 15 días primer picazo construcción autopista del Ámbar, cuyos primeros recursos se entregaron para que cuando inicien no se detengan -> cifras que no aparecen en las fuentes: 288, 578
+[República Dominicana] Presidencia de la República Dominicana: texto leído 1909 letras -> https://www.presidencia.gob.do/noticias/desarrollo-provincial-inicia-la-remodelacion-del-polideportivo-maria-auxiliadora-en-el
+[República Dominicana] El Nuevo Diario: texto leído 1643 letras -> https://elnuevodiario.com.do/desarrollo-provincial-inicia-la-remodelacion-del-polideportivo-maria-auxiliadora-dn/
+[República Dominicana] El Nacional — La voz de todos: texto leído 3094 letras -> https://elnacional.com.do/deportes/jose-andujar-da-palazos-remodelacion-clubes-maria-auxiliadora-rosa-duarte_585377_amp.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
+Rechazada por la revisión: Desarrollo Provincial inicia la remodelación del Polideportivo María Auxiliadora en el Distrito Nacional -> cifras que no aparecen en las fuentes: 122, 1228
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4140 letras -> https://www.presidencia.gob.do/noticias/tnr-y-universidad-isa-acuerdan-promover-capacitacion-e-investigacion-para-modernizar-el
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé "Según" redundante y ajusté la atribución del programa especial a TNR; corregí "Fund for the Promotio
 [Dominicanos en EE.UU.] Biblioteca Nacional Pedro Henríquez Ureña: texto leído 780 letras -> https://bd.bnphu.gob.do/items/7961182c-7648-4457-a98b-7836f20219d6
 Fuente oficial encontrada: Biblioteca Nacional Pedro Henríquez Ureña 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Grandes dominicanos: tomo VII
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4255 letras -> https://centralnoticias.gob.do/unctad-destaca-liderazgo-de-republica-dominicana-en-atraccion-de-inversiones/
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4363 letras -> https://elnuevodiario.com.do/unctad-destaca-liderazgo-de-rd-en-atraccion-de-inversiones-y-su-avance-hacia-una-economia-de-mayor-contenido-tecnologico/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: UNCTAD destaca liderazgo de República Dominicana en atracción de inversiones
-Revisión: corregida (se corrigió "un equivalente a 1.3%" y se ajustó el texto al tono natural; el hecho de la fuente de cada dato 
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1916 letras -> https://centralnoticias.gob.do/comerciante-quisqueyano-ruben-suriel-gomez-pide-a-presidente-abinader-pronunciarse-ante-denuncias-sobre-trato-de-ice-a-dominicanos-en-pr/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Revisión: corregida (cambié "Puerto Rico" en el título español, quité "mantener" y reemplacé "Empresario" por "líder empresarial" 
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1975 letras -> https://centralnoticias.gob.do/digega-entrega-mas-de-rd15-7-millones-a-porcicultores-del-cibao-afectados-por-peste-porcina/
-[Dominicanos en EE.UU.] Diario Libre: texto leído 1882 letras -> https://www.diariolibre.com/economia/agro/2026/11/03/digega-entrega-fondos-a-porcicultores-afectados-por-peste-porcina/3710178
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1999 letras -> https://elnuevodiario.com.do/digega-entrega-mas-de-rd15-7-millones-a-porcicultores-del-cibao-afectados-por-peste-porcina/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: DIGEGA entrega más de RD$15.7 millones a porcicultores del Cibao afectados por Peste Porcina
-Rechazada por la revisión: DIGEGA entrega más de RD$15.7 millones a porcicultores del Cibao afectados por Peste Porcina -> cifras que no aparecen en las fuentes: 15765740
+[Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 2624 letras -> https://mirex.gob.do/republica-dominicana-propone-ampliar-cooperacion-iberoamericana-en-seguridad-alimentaria-transformacion-digital-y-movilidad-academica/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/republica-dominicana-propone-ampliar-cooperacion-iberoamericana-clave/
+Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: República Dominicana propone ampliar cooperación iberoamericana en seguridad alimentaria, transformación digital y movilidad académica
+Revisión: corregida (ajusté "trillando" no aplica; corregí "asociación" en la cita de Bisonó: el texto fuente dice "trillando cami
+No se pudo bajar la página: <HTTPError 470: ''>
+[Dominicanos en EE.UU.] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/prision-preventiva-para-oficial-policial-imputado-por-el-homicidio-de-un-joven-que-era-perseguido-en-la-vega/
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3703 letras -> https://elnuevodiario.com.do/dictan-prision-preventiva-contra-oficial-policial-imputado-por-el-homicidio-de-un-joven-en-la-vega/
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 4096 letras -> https://elnacional.com.do/nacionales/judicial/dictan-tres-meses-prision-preventiva-oficial-policia-mato-joven-manos_585384.html
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Prisión preventiva para oficial policial imputado por el homicidio de un joven que era perseguido en La Vega
+Revisión: corregida (corregí el nombre de la pareja de la víctima a "Sulema" según El Nacional, atribuí el relato de la persecució
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 4215 letras -> https://presidencia.gob.do/noticias/el-presidente-luis-abinader-destaca-celebracion-de-asamblea-general-de-onu-turismo-en-la
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3499 letras -> https://elnuevodiario.com.do/abinader-destaca-asamblea-de-onu-turismo-en-2027-como-oportunidad-para-atraer-inversiones/
+[Dominicanos en EE.UU.] Diario Libre: texto leído 4259 letras -> https://www.diariolibre.com/economia/turismo/2026/11/04/abinader-destaca-papel-asamblea-general-onu-turismo-para-rd/3710750
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: El presidente Luis Abinader destaca celebración de Asamblea General de ONU Turismo en la República Dominicana en 2027 como oportunidad para proyectar al país y atraer nuevas inversiones
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "5 billones" a "5 mil millones" en el español y "5 billion" en inglés, por
+Revisión: corregida (corregí "5 billones" a "5 mil millones" en el español y "5 billion" en inglés, porque la fuente dice "5 billo
+No se pudo bajar la página: <HTTPError 470: ''>
+[Dominicanos en EE.UU.] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/fiscales-participan-en-curso-de-litigacion-oral-estrategica-impartido-por-docentes-de-la-universidad-de-san-diego-california/
+No se pudo leer el artículo; no se publica para no salir corta: Fiscales participan en curso de litigación oral estratégica impartido por docentes de la Universidad de San Diego, California
+[Dominicanos en EE.UU.] U.S. Bureau of Economic Analysis (BEA) (.gov): texto leído 6754 letras -> https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026
+Fuente oficial encontrada: U.S. Bureau of Economic Analysis (BEA) (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: U.S. International Trade in Goods and Services, September 2026
+Rechazada por la revisión: U.S. International Trade in Goods and Services, September 2026 -> cifras que no aparecen en las fuentes: 101200, 105, 105000, 105700, 11300, 135900
 [Internacionales] The White House (.gov): texto leído 2943 letras -> https://www.whitehouse.gov/find-your-polling-place/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Find Your Polling Place
 [Internacionales] The White House (.gov): texto leído 2400 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Is Powering an American Manufacturing Renaissance
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Internacionales] Homeland Security (.gov): texto leído 4817 letras -> https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border
-Fuente oficial encontrada: The White House (.gov), Homeland Security (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. Las versiones que me pasaste son comunicados oficiales de la Casa Blanca y del Departamento de Seguridad Nacional de EE.UU., y el material tiene un tono')
-[Famosos] El Nuevo Día: texto leído 1697 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-colombia-apuesta-a-su-experiencia-para-conquistar-miss-universe-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss Colombia: una reina que se considera “de la familia boricua” y apuesta a su experiencia para conquistar Miss Universe 2026
-[Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/revista/cultura/2026/11/04/waddys-jaquez-y-sus-proyectos-artisticos-en-la-republica-dominicana/3709661
-Revisión: corregida (corregí la ortografía de "entr" en la cita original no aplica al borrador; en el borrador quité la frase de r
-Fuente no confiable, se salta: periodicocubano.com
+[Internacionales] The White House (.gov): texto leído 574 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia periodística sobre un hecho con contexto y detalles de una fuente diversa, sino un comunicado oficial breve que solo anuncia la firma de dos leyes del Congr')
+[Famosos] Diario Libre: texto leído 3351 letras -> https://www.diariolibre.com/revista/sociales/2026/11/04/phd-dominicana-explora-el-futuro-de-los-negocios-y-la-ia/3710737
+No encaja en ninguna sección, se salta: PHD Dominicana reunió a expertos para explorar el futuro de la comunicación
+[Famosos] El Nacional — La voz de todos: texto leído 4581 letras -> https://elnacional.com.do/fama-y-vida/farandula/navidad-enciende-radio-raphy-d-oleo-regresa-panorama-navideno_585386_amp.html
+Revisión: corregida (ajusté "dirigirá y conducirá" sin cambios de fondo; quité "el oficio al que ha dedicado su vida" por redundan
+Fuente no confiable, se salta: instagram.com
 [Famosos] El Dia.com.do: texto leído 1171 letras -> https://eldia.com.do/miriam-cruz-conquista-peru-en-una-gran-gira/
 Rechazada por la revisión: Miriam Cruz conquista Perú en una gran gira -> cifras que no aparecen en las fuentes: 30000
-Fuente no confiable, se salta: instagram.com
+Fuente no confiable, se salta: proceso.hn
 Fuente no confiable, se salta: hch.tv
-[Famosos] Listín Diario: texto leído 7000 letras -> https://listindiario.com/entretenimiento/cine/20261104/ranking-historico-10-peliculas-dominicanas-mas-gente-llevado-cines_928713.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ranking histórico: las 10 películas dominicanas que más gente ha llevado a los cines
-Fuente no confiable, se salta: periodicocubano.com
-[Famosos] El Nuevo Día: texto leído 1581 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/luren-marquez-de-la-destitucion-a-una-segunda-oportunidad-rumbo-a-miss-universe-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Luren Márquez, de la destitución a una segunda oportunidad rumbo a Miss Universe 2026
-Fuente no confiable, se salta: puntacana-bavaro.com
-[Famosos] Listín Diario: texto leído 1557 letras -> https://listindiario.com/entretenimiento/farandula/20261103/luis-polonia-decide-publicar-relacion-redes-sociales-controversia_928674.html
-Revisión: corregida (cambié "exjelotero" a "exjugador" y "exjelotero"→"exbeisbolista"? No: corregí "exjelotero" a "expelotero" seg
-Fuente no confiable, se salta: sbcnoticias.com
-Fuente no confiable, se salta: tn8.ni
-[Precios y combustibles] Z Digital: texto leído 1963 letras -> https://z101digital.com/inespre-coloca-pollo-entre-rd33-y-rd50-la-libra/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Inespre coloca pollo entre RD$33 y RD$50 la libra
-Rechazada por la revisión: Inespre coloca pollo entre RD$33 y RD$50 la libra -> cifras que no aparecen en las fuentes: 150000
-Es opinión o editorial, se salta: Soluciones urgentes para el arroz
-[Precios y combustibles] El Nuevo Diario: texto leído 3454 letras -> https://elnuevodiario.com.do/asociacion-de-hacendados-destaca-financiamientos-por-rd25000-mm-a-productores-agropecuarios-en-2025/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Asociación de Hacendados destaca financiamientos por RD$25,000 MM a productores agropecuarios en 2025
-[Videojuegos] Nintendo: texto leído 556 letras -> https://www.nintendo.com/us/store/products/thief-the-dark-project-remastered-nintendo-switch-2-edition-switch-2/
-[Videojuegos] Infobae: texto leído 4999 letras -> https://www.infobae.com/malditos-nerds/2026/11/03/nightdive-fecha-thief-the-dark-project-remastered-para-consolas-y-pc/
-Fuente oficial encontrada: Nintendo | para completar: Infobae
-Revisión: corregida (eliminé "Sin lugar a dudas" no presente; quité "de la época" no... ajusté afirmaciones no respaldadas: "clási
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/farandula/laura-bozzo-sale-de-cuidados-intensivos-su-hija-dice-que-ya-esta-gritandole-a-las-enfermeras-20261104-0015.html
+[Famosos] Listín Diario: texto leído 1967 letras -> https://listindiario.com/entretenimiento/farandula/20261103/laura-bozzo-sale-cuidados-intensivos-hija-dice-esta-gritandole-enfermeras_928682.html
+Revisión: corregida (se corrigió la atribución de la entrevista a Listín Diario, que las fuentes ubican como Amor y fuego; se elim
+[Precios y combustibles] Hoy Digital: texto leído 937 letras -> https://hoy.com.do/economia/dolar-republica-dominicana-tasas-compra-venta-4-noviembre-2026_1107664.html
+[Precios y combustibles] El Comercio Perú: texto leído 3636 letras -> https://elcomercio.pe/mag/respuestas/co/precio-del-dolar-en-colombia-hoy-miercoles-4-de-noviembre-2026-trm-tipo-de-cambio-usd-a-cop-compra-y-venta-nnda-nnrt-noticia/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé la referencia a Colombia del contexto, no aplica; revisé cifras, fechas y 
+Rechazada por la revisión: Dólar en República Dominicana: tasas de compra y venta para este 4 de noviembre de 2026 -> cifras que no aparecen en las fuentes: 6042
+[Precios y combustibles] Acento: texto leído 2569 letras -> https://acento.com.do/economia/9783799-9783799.html
+[Precios y combustibles] El Dia.com.do: texto leído 2577 letras -> https://eldia.com.do/rd-participa-en-exploracion-petrolera-en-guyana-espera-reducir-la-dependencia-de-combustibles-importados-a-largo-plazo/
+Revisión: corregida (atribuí a Acento las declaraciones de Pereyra Rojas sobre la concesión y el acceso preferencial; corregí "Sam
+[Videojuegos] Nintendo: texto leído 733 letras -> https://www.nintendo.com/us/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
+[Videojuegos] PlayStation.Blog: texto leído 2628 letras -> https://blog.playstation.com/2026/11/04/playstation-store-october-2026s-top-downloads/
+Fuente oficial encontrada: PlayStation.Blog 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): PlayStation Store: October 2026’s top downloads
+[Videojuegos] PlayStation.Blog: texto leído 7000 letras -> https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted/
+Fuente oficial encontrada: PlayStation.Blog 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste está cortado a mitad de frase y solo incluye una versión, un comunicado oficial de PlayStation.Blog sobre el regreso de Jin Sakai al modo Most Wanted de Ghost of Y')
+Consejo del día (divisas): Cuida tu dinero entre dos países
 11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 22 · ya cubiertas: 11 · no confiables: 7 · opinión: 1 · con texto leído: 32 · sin texto: 4 · medios juntados: 4 · con fuente oficial: 15 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 5 · error IA: 4 · descartadas por la IA: 9 · cambiadas de sección: 4 · largas: 7 · ocultas (cortas): 4
-Para Instagram (tendencia 2): La RD, segundo destino de inversión extranjera del Caribe en 2025
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 5 · ya vistas: 14 · ya cubiertas: 6 · no confiables: 3 · opinión: 0 · con texto leído: 30 · sin texto: 5 · medios juntados: 6 · con fuente oficial: 15 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 5 · error IA: 2 · descartadas por la IA: 6 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 1
+Para Instagram (tendencia 3): Abinader destaca Asamblea de ONU Turismo en 2027 como oportunidad para atraer inversiones
