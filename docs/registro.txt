@@ -1,82 +1,93 @@
-Corrida: 2026-11-03 05:50 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4491 letras -> https://presidencia.gob.do/noticias/inabie-lleva-servicios-de-salud-estudiantes-de-barahona
+Corrida: 2026-11-03 10:25 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2885 letras -> https://www.presidencia.gob.do/noticias/director-jose-andujar-inaugura-complejo-policial-de-casi-rd-56-millones-que-reforzara-la
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (quité "IMPORTA" y "WHY_EN" que agregaban afirmaciones no sustentadas en la fuente sobre costo cero y "detecci
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4194 letras -> https://presidencia.gob.do/noticias/odac-amplia-su-reconocimiento-internacional-de-acreditaciones-para-impulsar-la
+Revisión: corregida (se cambió "Dirección de Desarrollo Provincial" a "Dirección de Desarrollo Provincial" sin cambio necesario; s
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2643 letras -> https://www.presidencia.gob.do/en
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "logró" y "tanto en el país como en el exterior" sin cambiar el sentido; quité lenguaje relleno del c
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4071 letras -> https://presidencia.gob.do/noticias/fitch-ratings-eleva-la-calificacion-crediticia-de-la-republica-dominicana-bb-con
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/economia/fitch-ratings-eleva-la-calificacion-crediticia-de-republica-dominicana-a-bb/
-[República Dominicana] Acento: texto leído 3159 letras -> https://acento.com.do/economia/fitch-ratings-eleva-calificacion-de-republica-dominicana-a-bb-9783191.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Acento
-Revisión: corregida (quité "Por esa razón" que implicaba causalidad no dicha por la fuente y ajusté "Dominican Republic" a "Domini
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 546 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/ChangePagingStyle?mkey=e743e416_ee79_4d9d_8811_2fbd5739abc0
+Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia porque la única versión que me pasaste es una página de error del portal de la Dirección General de Contrataciones Públicas. Dice que el contenido expiró')
+[República Dominicana] msp.gob.do: texto leído 3515 letras -> https://www.msp.gob.do/web/?p=21866
+Fuente oficial encontrada: msp.gob.do 
+Revisión: corregida (eliminé "destacó la importancia" → ajusté atribución de frases; corregí "1.4 millones de familias" que no fig
+[República Dominicana] centralnoticias.gob.do: texto leído 3418 letras -> https://centralnoticias.gob.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/
+[República Dominicana] El Nuevo Diario: texto leído 3439 letras -> https://elnuevodiario.com.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
+Revisión: corregida (se corrigió "Procuradora fiscal" y el orden de cargos de Rómely Blanco para ajustarse a las fuentes; se quitó
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] USCIS (.gov): texto leído 1658 letras -> https://www.uscis.gov/es/residencia-permanente-tarjeta-verde/procesos-y-procedimientos-para-la-residencia-permanente/disponibilidad-de-visas-y-fechas-de-prioridad/tablas-del-boletin-de-visas-sobre-presentacion-de-ajuste-de-estatus
 Fuente oficial encontrada: USCIS (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tablas del Boletín de Visas sobre Presentación de Ajuste de Estatus
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 4495 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-encabeza-reconocimiento-12-dominicanos-destacados-en-europa-por
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] www.elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/abinader-reconoce-a-12-dominicanos-destacados-en-europa-por-sus-aportes/
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (la sección cambió de "Dominicanos en EE.UU." a una sección acorde con Europa, el título pasó de "entrega" a "
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 2643 letras -> https://presidencia.gob.do/en
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidencia de la República Dominicana
-No se pudo bajar la página: <HTTPError 470: ''>
-[Dominicanos en EE.UU.] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/condena-de-20-anos-de-prision-para-hombre-que-mato-a-un-cunado-en-monte-plata/
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1957 letras -> https://elnuevodiario.com.do/condenan-a-20-anos-a-hombre-que-mato-a-su-cunado-a-machetazos-en-monte-plata/
-[Dominicanos en EE.UU.] Noticias SIN: texto leído 2198 letras -> https://noticiassin.com/pais/justicia/2026/11/03/condenan-a-20-anos-por-asesinato-de-cunado-en-monte-plata-2161621/?amp=1
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Condena de 20 años de prisión para hombre que mató a un cuñado en Monte Plata
-Revisión: corregida (en la versión de la Procuraduría y El Nuevo Diario el título habla de "machetazos" y el borrador dice "a 20 a
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 904 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco/
-[Dominicanos en EE.UU.] U.S. Department of the Treasury (.gov): texto leído 1104 letras -> https://home.treasury.gov/news/press-releases/sb0674
-Fuente oficial encontrada: U.S. Department of State (.gov), U.S. Department of the Treasury (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Secretary Rubio’s Meeting with Venezuelan Foreign Minister Blanco
-Revisión: corregida (eliminé "en su sede en Washington" y "en el país" donde no había respaldo exacto; ajusté "Departamento de Est
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir esta noticia con los textos que me has pasado, porque la única versión disponible es el encabezado de la página del Federal Register (federalregister.gov) y no contiene información s')
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 3707 letras -> https://www.presidencia.gob.do/noticias/el-gobierno-aprueba-el-codigo-de-etica-de-la-inteligencia-artificial-para-garantizar-un
+[Dominicanos en EE.UU.] Acento: texto leído 4483 letras -> https://acento.com.do/actualidad/gobierno-aprueba-codigo-de-etica-para-el-uso-de-inteligencia-artificial-en-instituciones-publicas-9783541.html
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4173 letras -> https://elnuevodiario.com.do/gobierno-aprueba-codigo-de-etica-para-regular-uso-de-la-inteligencia-artificial-en-el-estado/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Acento
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: El Gobierno aprueba el Código de Ética de la Inteligencia Artificial para garantizar un Estado digital más justo y transparente
+Revisión: corregida (se quitó la atribución a Ogtic/Digeig/OGP en "Según el Gobierno" → se mantuvo "Según el Gobierno" que sí dice
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-edpa/pr/five-non-citizens-charged-election-fraud-offenses
+No se pudo leer el artículo; no se publica para no salir corta: Eastern District of Pennsylvania | Five Non-Citizens Charged with Election Fraud Offenses
+[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 1157 letras -> https://do.usembassy.gov/tag/ask-the-consul/page/19/
+Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ask the Consul Archives
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ma/pr/illegal-alien-dominican-republic-charged-healthcare-benefit-fraud-and-aggravated
+No se pudo leer el artículo; no se publica para no salir corta: Illegal Alien from the Dominican Republic Charged with Healthcare Benefit Fraud and Aggravated Identity Theft
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ma/pr/illegal-alien-dominican-republic-indicted-unlawful-reentry
+No se pudo leer el artículo; no se publica para no salir corta: District of Massachusetts | Illegal Alien from Dominican Republic Indicted for Unlawful Reentry
 [Internacionales] The White House (.gov): texto leído 2943 letras -> https://www.whitehouse.gov/find-your-polling-place/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Find Your Polling Place
-[Internacionales] The White House (.gov): texto leído 2400 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Is Powering an American Manufacturing Renaissance
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Internacionales] Homeland Security (.gov): texto leído 4817 letras -> https://www.dhs.gov/news/2026/11/03/making-america-safe-again-under-president-trump-dhs-delivered-most-secure-border
 Fuente oficial encontrada: The White House (.gov), Homeland Security (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo puedo generar esta noticia a partir de los textos proporcionados. Son documentos de propaganda oficial del gobierno de Estados Unidos (whitehouse.gov y dhs.gov) que presentan afirmac')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: Los textos son comunicados del propio gobierno de Estados Unidos (Casa Blanca y Departamento de Seguridad Nacional) con lenguaje propagandístico, y no hay una noticia independie')
+[Internacionales] The White House (.gov): texto leído 3659 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/
+Fuente oficial encontrada: The White House (.gov) 
+Revisión: corregida (se cambió "Trump firmó" por la fecha y forma exactas no mencionadas, se precisó que la proclamación fue firma
 Fuente no confiable, se salta: periodicocubano.com
-[Famosos] Diario Libre: texto leído 1671 letras -> https://www.diariolibre.com/revista/moda/2026/11/03/giannina-azar-disenara-vestuario-de-candidatas-de-miss-universo-2026/3709457
+[Famosos] El Nacional — La voz de todos: texto leído 1773 letras -> https://elnacional.com.do/mundo/retiran-mercado-ee-uu-calentadores-electricos-riesgo-incendio-dominicanos-nyc-alerta_585268.html
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Retiran del mercado EE.UU. calentadores eléctricos por riesgo de incendio; dominicanos NYC en alerta
+Rechazada por la revisión: Retiran del mercado EE.UU. calentadores eléctricos por riesgo de incendio; dominicanos NYC en alerta -> cifras que no aparecen en las fuentes: 338000
+Fuente no confiable, se salta: periodicocubano.com
+Fuente no confiable, se salta: elsiglo.com.pa
+[Famosos] El Nacional — La voz de todos: texto leído 2047 letras -> https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/yailin-llevara-musica-coliseo-teo-cruz-5-diciembre_585328.html
+Revisión: corregida (eliminé "se prepara para dar" por "se prepara para protagonizar" no; en realidad cambié "Se prepara para dar 
+[Famosos] AlMomento.net: texto leído 2876 letras -> https://almomento.net/italia-inauguran-exposicion-la-era-plasteozoica-una-distopia-ecologica/
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: ITALIA: Inauguran exposición La Era Plasteozoica: Una distopía ecológica
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se quitó la cita de Tommaso Sacchi, que en el borrador quedó atribuida sin aclarar
+Revisión: corregida (se quitó la cita de Tommaso Sacchi, que en el borrador quedó atribuida sin aclarar; se corrigió "Ministerio d
+[Famosos] Acento: texto leído 3559 letras -> https://acento.com.do/actualidad/abinader-reconoce-a-12-dominicanos-residentes-en-europa-9783339.html
+[Famosos] Diario Libre: texto leído 3729 letras -> https://www.diariolibre.com/politica/gobierno/2026/11/03/abinader-reconoce-a-12-dominicanos-destacados-en-europa/3709703
+[Famosos] El Nacional — La voz de todos: texto leído 1680 letras -> https://elnacional.com.do/nacionales/abinader-reconoce-labor-dominicanos-residentes-espana-italia-reino-unido_585314.html
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Abinader reconoce a 12 dominicanos residentes en Europa
+Revisión: corregida (cambié "Abinader" por "Abinader" sin cambios de fondo; corregí la sección a "Dominicanos en el exterior" no a
+Fuente no confiable, se salta: puntacana-bavaro.com
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/a-y-e/giannina-azar-disenara-el-vestuario-de-las-candidatas-de-miss-universo-2026/
-[Famosos] www.abc.com.py: texto leído 1115 letras -> https://www.abc.com.py/estilo-de-vida/2026/11/03/la-dominicana-giannina-azar-disenara-el-vestuario-de-las-candidatas-de-miss-universo-2026/?outputType=amp
-Revisión: corregida (eliminé la atribución "Según informó" en el párrafo 2 y la reemplacé por "Según el comunicado", ya que las fu
-[Famosos] El Dia.com.do: texto leído 2848 letras -> https://eldia.com.do/dominicanas-en-ny-esperan-estreno-pelicula-la-novia-del-atlantico-dirige-actriz-celines-toribio/
-[Famosos] El Nuevo Diario: texto leído 2870 letras -> https://elnuevodiario.com.do/dominicanas-en-ny-esperan-estreno-pelicula-la-novia-del-atlantico-dirige-actriz-celines-toribio/
-Revisión: corregida (quité "En entrevista" por no estar claro que sea entrevista directa, la cita viene de las fuentes como declar
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1593 letras -> https://micm.gob.do/ministros-yayo-y-magin-abordaran-manana-la-nueva-realidad-de-rd-ante-crisis-global/
-[Precios y combustibles] El Nuevo Diario: texto leído 1467 letras -> https://elnuevodiario.com.do/ministros-sanz-lovaton-y-diaz-abordaran-nueva-realidad-de-rd-ante-crisis-global/
-[Precios y combustibles] Periódico elDinero: texto leído 1446 letras -> https://eldinero.com.do/387180/ministros-yayo-y-magin-abordaran-este-miercoles-la-nueva-realidad-de-rd-ante-crisis-global/
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes | para completar: El Nuevo Diario
-Cambiada de sección: Precios y combustibles -> República Dominicana: Ministros Yayo y Magín abordarán mañana la nueva realidad de RD ante crisis global
-Revisión: corregida (se quitó "Dos ministros" y se corrigió el ministro de Industria a "Yayo Sanz Lovatón" en el título sin cambio
-Fuente no confiable, se salta: revistamercado.do
-[Precios y combustibles] Acento: texto leído 5142 letras -> https://acento.com.do/economia/los-dominicanos-ahorran-rd-3-5-billones-el-problema-es-donde-los-guardan-9782437.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Los dominicanos ahorran RD$ 3.5 billones; el problema es dónde los guardan
-Revisión: corregida (eliminé la atribución a Jesús Geraldo Martínez, que no aparece en el borrador; corregí "% de las captaciones"
-[Precios y combustibles] Acento: texto leído 5158 letras -> https://acento.com.do/economia/banco-popular-presenta-en-londres-oportunidades-de-inversion-en-turismo-y-energia-en-republica-dominicana-9782282.html
-[Precios y combustibles] AlMomento.net: texto leído 3826 letras -> https://almomento.net/bpd-presenta-oportunidades-de-inversion-en-r-dominicana/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Banco Popular presenta en Londres oportunidades de inversión en turismo y energía en República Dominicana
-Rechazada por la revisión: Banco Popular presenta en Londres oportunidades de inversión en turismo y energía en República Dominicana -> cifras que no aparecen en las fuentes: 16
-[Videojuegos] Nintendo: texto leído 2958 letras -> https://www.nintendo.com/au/news-and-articles/upcoming-games-november-2026/
+[Famosos] CDN: texto leído 0 letras -> https://cdn.com.do/entretenimiento/artistas-denuncias-facturas-electricas-toxic-crow/
+No se pudo leer el artículo; no se publica para no salir corta: Cheddy García, Toxic Crow y otras figuras que han denunciado a Edesur
+[Famosos] Noticias SIN: texto leído 3624 letras -> https://noticiassin.com/videos/el-despertador/2026/11/03/festival-caye-gratis-llevara-arte-y-ballet-a-ciudad-nueva-2161664/?amp=1
+Cambiada de sección: Famosos -> República Dominicana: Festival CAYE llevará arte, música y ballet gratis a Ciudad Nueva este 7 y 8 de noviembre
+Revisión: corregida (se quitó "Ciudad Nueva, en el Distrito Nacional" a "Santo Domingo" en el inglés para mantener consistencia co
+Video de YouTube agregado: Ciudad Nueva celebrará tercera edición del Festival Caye
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 981 letras -> https://www.micm.gob.do/transparencia/base-legal-de-la-institucion/category/resoluciones-2026/11
+Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Resoluciones 2026 - Ministerio de Industria, Comercio y Mipymes
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/el-texas-cae-un-7-ante-la-expectativa-acuerdo-ee-uu-e-iran/
+No se pudo leer el artículo; no se publica para no salir corta: El Texas cae un 7 % ante la expectativa acuerdo EE.UU. e Irán
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/christopher-paniagua-resalta-la-estabilidad-dominicana-para-la-atraccion-de-inversion/
+No se pudo leer el artículo; no se publica para no salir corta: Christopher Paniagua resalta la estabilidad dominicana para la atracción de inversión
+[Videojuegos] Nintendo: texto leído 7000 letras -> https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-3/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] PlayStation.Blog: texto leído 4394 letras -> https://blog.playstation.com/2026/11/03/sonic-racing-crossworlds-year-two-begins-today-with-duel-mode-new-characters-gadgets-and-more/
-Fuente oficial encontrada: PlayStation.Blog 
-Revisión: corregida (eliminé "Sega anunció" en favor de atribuir a PlayStation.Blog las afirmaciones de fuente única, ajusté "segú
-11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 11 · ya cubiertas: 9 · no confiables: 2 · opinión: 0 · con texto leído: 28 · sin texto: 4 · medios juntados: 8 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 7 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 5 · largas: 11 · ocultas (cortas): 0
-Para Instagram (tendencia 3): Condenan a 20 años de prisión a hombre que mató a su cuñado en Monte Plata
+Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir esa noticia con los materiales que me enviaste, porque solo hay una versión y no contiene una noticia en sí: es una entrevista de Nintendo para su serie "Ask the Developer" sobre el ')
+[Videojuegos] Nintendo: texto leído 7000 letras -> https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-4/
+Fuente oficial encontrada: Nintendo 
+Revisión: corregida (eliminé "de los videojuegos" donde sobraba el "de"; el resto coincidía con las fuentes y no había frases de r
+16 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 20 · ya cubiertas: 5 · no confiables: 4 · opinión: 0 · con texto leído: 25 · sin texto: 7 · medios juntados: 4 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 1 · con video: 1 · con foto oficial: 5 · error IA: 3 · descartadas por la IA: 5 · cambiadas de sección: 5 · largas: 10 · ocultas (cortas): 6
+Para Instagram (tendencia 1): Dólar cotiza hoy entre 57,95 y 61,45 pesos en bancos y agentes dominicanos
