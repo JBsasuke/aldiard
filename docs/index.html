@@ -20,11 +20,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3979135814994883" crossorigin="anonymous"></script>
-<style>:root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+<style>:root{--verde:#15803d;--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
  --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}
-@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
-:root[data-theme=dark]{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+:root[data-theme=dark]{--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}
@@ -54,6 +54,24 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota.us{border-top-color:var(--enlace)} .us .chip{color:var(--enlace)}
 .nota.pr{border-top-color:var(--ambar)} .pr .chip{color:var(--ambar)}
 .nota.vj{border-top-color:var(--morado)} .vj .chip{color:var(--morado)}
+.nota.dp{border-top-color:var(--verde)} .dp .chip{color:var(--verde)} .articulo.dp{border-top-color:var(--verde)} .articulo.dp .chip{color:var(--verde)}
+.marcadores{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:14px 16px;margin:0 0 18px;border-top:4px solid var(--verde)}
+.marcadores.oculta-m{display:none}
+.mcab{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.mcab h2{margin:0;font-size:17px;font-weight:800}.mcab a{font-size:14px;font-weight:700;color:var(--enlace);text-decoration:none}
+.juegos{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.juegos.fila{display:flex;overflow-x:auto;scrollbar-width:thin;padding-bottom:4px}.juegos.fila .juego{flex:0 0 210px}
+.juego{border:1px solid var(--linea);border-radius:12px;padding:10px 12px;background:var(--fondo)}
+.juego.envivo{border-color:var(--rojo)}
+.est{font-size:12.5px;font-weight:700;color:var(--gris);margin-bottom:6px;display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.est small{font-weight:600;margin-left:auto}
+.envivo .est{color:var(--rojo)}.est i{width:8px;height:8px;border-radius:50%;background:var(--rojo);display:inline-block;animation:late 1.2s infinite}
+@keyframes late{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.est i{animation:none}}
+.eq{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:15px}.eq img{width:22px;height:22px;object-fit:contain}
+.eq span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.eq b{font-size:17px;font-variant-numeric:tabular-nums}
+.eq.gana span,.eq.gana b{font-weight:800}
+.liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
+.sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -148,10 +166,66 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
       <button class="red" id="tema" aria-label="Cambiar entre modo claro y oscuro"></button>
     </div>
   </div>
-  <nav><button data-f="todas" aria-pressed="true">Todas</button><button data-f="rd" aria-pressed="false">República Dominicana</button><button data-f="us" aria-pressed="false">Dominicanos en EE.UU.</button><button data-f="in" aria-pressed="false">Internacionales</button><button data-f="fa" aria-pressed="false">Famosos</button><button data-f="pr" aria-pressed="false">Precios y combustibles</button><button data-f="vj" aria-pressed="false">Videojuegos</button></nav>
+  <nav><button data-f="todas" aria-pressed="true">Todas</button><button data-f="rd" aria-pressed="false">República Dominicana</button><button data-f="us" aria-pressed="false">Dominicanos en EE.UU.</button><button data-f="in" aria-pressed="false">Internacionales</button><button data-f="fa" aria-pressed="false">Famosos</button><button data-f="dp" aria-pressed="false">Deportes</button><button data-f="pr" aria-pressed="false">Precios y combustibles</button><button data-f="vj" aria-pressed="false">Videojuegos</button></nav>
 </header>
 <main>
 <article class="nota rd destacada" data-sec="rd">
+  <a class="mini" href="/n/84f92376d7.html" tabindex="-1" aria-hidden="true"><img src="https://www.presidencia.gob.do/sites/default/files/news/2026-11/WhatsApp%20Image%202026-11-04%20at%2010.%20%282%29.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">República Dominicana</span>
+    <span class="hora" data-fecha="2026-11-05T04:46:28.206430+00:00"></span></div>
+  <h2><a href="/n/84f92376d7.html">Salud convoca a organismos internacionales para reducir muertes maternas e infantiles</a></h2>
+  <p>El Ministerio de Salud reúne a agencias internacionales para acelerar la reducción de la mortalidad materna, infantil y neonatal en el país.</p>
+  <a class="leer" href="/n/84f92376d7.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: Presidencia de la República Dominicana</span>
+</article><section class="marcadores oculta-m" aria-label="Marcadores en vivo"><div class="mcab"><h2>🏆 Marcadores en vivo</h2><a href="/deportes/">Todos los marcadores →</a></div><div id="marcadores"></div></section><div class="rejilla">
+<article class="nota in" data-sec="in">
+  <a class="mini" href="/n/2eb703b73c.html" tabindex="-1" aria-hidden="true"><img src="https://www.presidencia.gob.do/sites/default/files/news/2026-11/1002232684.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">Internacionales</span>
+    <span class="hora" data-fecha="2026-11-05T04:46:48.443092+00:00"></span></div>
+  <h2><a href="/n/2eb703b73c.html">Abinader participa en la XXX Cumbre Iberoamericana en Madrid</a></h2>
+  <p>El presidente Abinader inauguró en Madrid la XXX Cumbre Iberoamericana, donde los líderes llamaron a una cooperación más firme entre 22 naciones.</p>
+  <a class="leer" href="/n/2eb703b73c.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuentes: Presidencia de la República Dominicana y Infobae</span>
+</article>
+<article class="nota us" data-sec="us">
+  <div class="meta"><span class="chip">Dominicanos en EE.UU.</span>
+    <span class="hora" data-fecha="2026-11-05T04:48:37.611867+00:00"></span></div>
+  <h2><a href="/n/9759de2a0b.html">Acusan a dominicana de votar ilegalmente en elecciones de EE. UU. y a su esposo de ayudarla</a></h2>
+  <p>Una dominicana de 50 años y su esposo enfrentan cargos federales por un voto ilegal en las elecciones presidenciales de 2024 en Pensilvania.</p>
+  <a class="leer" href="/n/9759de2a0b.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: Diario Libre</span>
+</article>
+<article class="nota rd" data-sec="rd">
+  <div class="meta"><span class="chip">República Dominicana</span>
+    <span class="hora" data-fecha="2026-11-05T04:49:32.006800+00:00"></span></div>
+  <h2><a href="/n/7bb2443987.html">Policía captura a tres prófugos extranjeros y recibe a un dominicano extraditado</a></h2>
+  <p>Tres prófugos reclamados por Francia, Países Bajos y Chile fueron detenidos en República Dominicana. Uno usaba documentos falsos.</p>
+  <a class="leer" href="/n/7bb2443987.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: Diario Libre</span>
+</article>
+<article class="nota fa" data-sec="fa">
+  <div class="meta"><span class="chip">Famosos</span>
+    <span class="hora" data-fecha="2026-11-05T04:49:59.216916+00:00"></span></div>
+  <h2><a href="/n/e575116507.html">Cheddy García cuestiona caravana de Santiago Matías y la califica de peligrosa</a></h2>
+  <p>La humorista Cheddy García criticó la caravana de Santiago Matías y preguntó quién la autorizó. Dice que ha perdido amistades por sus diferencias con el influencer.</p>
+  <a class="leer" href="/n/e575116507.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: El Nacional — La voz de todos</span>
+</article>
+<article class="nota dp" data-sec="dp">
+  <div class="meta"><span class="chip">Deportes</span>
+    <span class="hora" data-fecha="2026-11-05T04:50:18.727176+00:00"></span></div>
+  <h2><a href="/n/d3bee67173.html">LIDOM estrena nuevo portal estadístico con comparador y juegos en vivo</a></h2>
+  <p>La Liga de Béisbol Profesional renovó su página de estadísticas con herramientas nuevas para seguir la temporada desde un solo lugar.</p>
+  <a class="leer" href="/n/d3bee67173.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: Lidom</span>
+</article>
+<article class="nota dp" data-sec="dp">
+  <div class="meta"><span class="chip">Deportes</span>
+    <span class="hora" data-fecha="2026-11-05T04:50:31.441754+00:00"></span></div>
+  <h2><a href="/n/6d369a8b16.html">Miguel Cairo dice que dirigir en la LIDOM es más difícil que en MLB</a></h2>
+  <p>El dirigente de los Gigantes del Cibao afirma que manejar un bullpen invernal exige más que en Grandes Ligas. Explica por qué.</p>
+  <a class="leer" href="/n/6d369a8b16.html">Leer la noticia completa →</a>
+  <span class="fuente chica">Fuente: Lidom</span>
+</article>
+<article class="nota rd" data-sec="rd">
   <a class="mini" href="/n/9db8be19a2.html" tabindex="-1" aria-hidden="true"><img src="https://presidencia.gob.do/sites/default/files/news/2026-11/IMG-20261101-WA0000%20%281%29.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">República Dominicana</span>
     <span class="hora" data-fecha="2026-11-05T00:25:23.474687+00:00"></span></div>
   <h2><a href="/n/9db8be19a2.html">Feriado del Día de la Constitución se traslada al lunes 9 de noviembre</a></h2>
@@ -159,12 +233,6 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
   <a class="leer" href="/n/9db8be19a2.html">Leer la noticia completa →</a>
   <span class="fuente chica">Fuentes: Presidencia de la República Dominicana y El Dia.com.do</span>
 </article>
-<aside class="consejo divisas">
-  <div class="cetq">💡 Consejo del día</div>
-  <h2>Cuida tu dinero entre dos países</h2>
-  <p>Compara siempre la tasa de cambio antes de convertir dólares o enviar remesas, porque una diferencia pequeña se nota mucho al final del mes. Revisa también las comisiones de las apps y bancos para pagar menos.</p>
-  <a href="https://divisasrd.com" target="_blank" rel="noopener">Mira la tasa en vivo en divisasrd.com →</a>
-</aside><div class="rejilla">
 <article class="nota rd" data-sec="rd">
   <a class="mini" href="/n/0418540bad.html" tabindex="-1" aria-hidden="true"><img src="https://www.presidencia.gob.do/sites/default/files/news/2026-11/IMG_0023.jpeg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">República Dominicana</span>
     <span class="hora" data-fecha="2026-11-05T00:25:56.379321+00:00"></span></div>
@@ -1060,62 +1128,6 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
   <p>Dos humoristas dominicanos suben juntos al escenario la noche de Navidad con un espectáculo que promete horas de risas.</p>
   <a class="leer" href="/n/c6606193a8.html">Leer la noticia completa →</a>
   <span class="fuente chica">Fuente: Diario Libre</span>
-</article>
-<article class="nota in" data-sec="in">
-  <div class="meta"><span class="chip">Internacionales</span>
-    <span class="hora" data-fecha="2026-11-01T23:49:05.011134+00:00"></span></div>
-  <h2><a href="/n/7ca7b62817.html">Elecciones de EE.UU. podrían acotar el margen de Trump en Latinoamérica</a></h2>
-  <p>Los comicios de medio mandato del 3 de noviembre podrían limitar la influencia de Trump en la región, incluida la relación con República Dominicana.</p>
-  <a class="leer" href="/n/7ca7b62817.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuentes: Noticias SIN, El Caribe y El Nuevo Herald</span>
-</article>
-<article class="nota rd" data-sec="rd">
-  <a class="mini" href="/n/6f4a4963ad.html" tabindex="-1" aria-hidden="true"><img src="https://presidencia.gob.do/sites/default/files/news/2026-10/Foto%20web_63.png" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">República Dominicana</span>
-    <span class="hora" data-fecha="2026-11-01T19:45:53.341861+00:00"></span></div>
-  <h2><a href="/n/6f4a4963ad.html">Abinader inaugura centro del Infotep en San Pedro de Macorís con capacidad para 3,800 personas al año</a></h2>
-  <p>El Gobierno inauguró en San Pedro de Macorís un centro de formación técnica que ya tiene 176 inscritos. Esto es lo que ofrece y a quién beneficia.</p>
-  <a class="leer" href="/n/6f4a4963ad.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuentes: Presidencia de la República Dominicana, centralnoticias.gob.do y El Nacional — La voz de todos</span>
-</article>
-<article class="nota rd" data-sec="rd">
-  <a class="mini" href="/n/f34d5c0ab9.html" tabindex="-1" aria-hidden="true"><img src="https://ensaluddigital.gob.do/wp-content/uploads/2020/08/2311D92E-BD16-41D4-A5E5-332432465719.jpeg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a><div class="meta"><span class="chip">República Dominicana</span>
-    <span class="hora" data-fecha="2026-11-01T19:46:12.899122+00:00"></span></div>
-  <h2><a href="/n/f34d5c0ab9.html">Hospital Ángel Contreras de Monte Plata automatiza el sistema de turnos</a></h2>
-  <p>Pacientes de Monte Plata ya no tendrán que hacer fila para facturar sus consultas en el hospital Dr. Ángel Contreras.</p>
-  <a class="leer" href="/n/f34d5c0ab9.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuente: En Salud Digital</span>
-</article>
-<article class="nota rd" data-sec="rd">
-  <div class="meta"><span class="chip">República Dominicana</span>
-    <span class="hora" data-fecha="2026-11-01T19:46:40.904307+00:00"></span></div>
-  <h2><a href="/n/362a06cff9.html">Muere «Bindo», buscado por la muerte de un adolescente en La Vega, tras enfrentarse a la DICRIM</a></h2>
-  <p>Wilfredo Antonio Rodríguez Henríquez, «Bindo», murió tras un enfrentamiento con agentes de la DICRIM en La Vega. La Policía lo vinculaba con la muerte de un adolescente.</p>
-  <a class="leer" href="/n/362a06cff9.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuentes: De Último Minuto y Listín Diario</span>
-</article>
-<article class="nota in" data-sec="in">
-  <div class="meta"><span class="chip">Internacionales</span>
-    <span class="hora" data-fecha="2026-11-01T19:48:47.908631+00:00"></span></div>
-  <h2><a href="/n/d4def8f617.html">República Dominicana sirve de puente para equipos militares hacia Haití</a></h2>
-  <p>Blindados y equipos llegados desde Alemania serán enviados por barco a Haití para apoyar el despliegue de tropas de Bangladesh.</p>
-  <a class="leer" href="/n/d4def8f617.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuente: Diario Libre</span>
-</article>
-<article class="nota fa" data-sec="fa">
-  <div class="meta"><span class="chip">Famosos</span>
-    <span class="hora" data-fecha="2026-11-01T19:49:01.741602+00:00"></span></div>
-  <h2><a href="/n/3f31cf3520.html">El elenco de Soy Luna reaviva la magia de su generación en concierto en Santo Domingo</a></h2>
-  <p>El elenco original de Soy Luna regresó a Santo Domingo y cantó con miles de fanáticos en un concierto lleno de nostalgia.</p>
-  <a class="leer" href="/n/3f31cf3520.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuente: eldia.com.do</span>
-</article>
-<article class="nota rd" data-sec="rd">
-  <div class="meta"><span class="chip">República Dominicana</span>
-    <span class="hora" data-fecha="2026-11-01T19:49:20.596971+00:00"></span></div>
-  <h2><a href="/n/f0f3489c96.html">RD ingresa a la Plataforma de Palermo contra el crimen organizado transnacional</a></h2>
-  <p>La procuradora Yeni Berenice Reynoso firmó en Lisboa el ingreso del país a una plataforma regional contra el crimen organizado. Es el primer país del Caribe y Centroamérica en lograrlo.</p>
-  <a class="leer" href="/n/f0f3489c96.html">Leer la noticia completa →</a>
-  <span class="fuente chica">Fuentes: Diario Libre, El Nacional — La voz de todos y El Nuevo Diario</span>
 </article></div><section class="guias-portada"><h2>📚 Guías útiles</h2><a href="/guias/como-reconocer-una-noticia-falsa/">Cómo reconocer una noticia falsa antes de compartirla</a><a href="/guias/como-leer-una-noticia/">Cómo leer una noticia: titular, fuentes, fecha y opinión</a><a href="/guias/terminos-de-economia-en-las-noticias/">Términos de economía que salen en las noticias, explicados fácil</a><a href="/guias/que-hacer-en-temporada-de-huracanes/">Temporada de huracanes en RD: qué significan las alertas y cómo prepararte</a><a href="/guias/como-evitar-estafas-por-telefono-y-whatsapp/">Cómo evitar estafas por teléfono, WhatsApp y redes sociales</a><a href="/guias/terminos-de-las-noticias-judiciales/">Términos de las noticias judiciales en RD: medida de coerción, prisión preventiva y más</a><a href="/guias/"><b>Ver todas las guías →</b></a></section></main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
@@ -1147,6 +1159,7 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
  document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
  document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
  var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+ var m=document.querySelector('.marcadores'); if(m)m.classList.toggle('oculta',b.dataset.f!=='todas'&&b.dataset.f!=='dp');
  window.scrollTo({top:0,behavior:suave});  // al escoger una sección, se ven sus noticias desde arriba
 }});
 // Flechita para volver arriba: sale cuando bajas un poco
@@ -1155,5 +1168,84 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
  a.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
  a.onclick=function(){window.scrollTo({top:0,behavior:suave})};document.body.appendChild(a);
  function mirar(){a.classList.toggle('ver',window.scrollY>500)}window.addEventListener('scroll',mirar,{passive:true});mirar();})();
+// ===== Marcadores en vivo (LIDOM y béisbol de MLB + NBA, NFL y fútbol de ESPN) =====
+// Se piden desde el navegador de cada visitante; se actualizan solos cada 30 s si hay juegos en vivo.
+(function(){
+var caja=document.getElementById('marcadores'); if(!caja) return;
+var EN=document.documentElement.lang==='en', COMPLETO=caja.dataset.completo==='1';
+var LIDOM=/licey|escogido|[aá]guilas|cibae|estrellas|toros|gigantes/i;
+var ESPN=[['NBA','basketball/nba'],['NFL','football/nfl'],['Champions League','soccer/uefa.champions'],
+ ['LaLiga','soccer/esp.1'],['Premier League','soccer/eng.1'],['Liga MX','soccer/mex.1'],['MLS','soccer/usa.1']];
+var ORDEN=['LIDOM','MLB','NBA','NFL','Champions League','LaLiga','Premier League','Liga MX','MLS','Ligas invernales'];
+var TX=EN?{vivo:'LIVE',final:'Final',pos:'Postponed',sus:'Suspended',med:'Halftime',alta:'Top',baja:'Bot',mit:'Mid',fin:'End',
+  nada:'No games today in these leagues.',err:'Scores could not be loaded. Trying again soon.',mlb:'MLB',inv:'Winter leagues'}
+ :{vivo:'EN VIVO',final:'Final',pos:'Pospuesto',sus:'Suspendido',med:'Medio tiempo',alta:'Alta',baja:'Baja',mit:'Mitad',fin:'Fin',
+  nada:'Hoy no hay juegos en estas ligas.',err:'No se pudieron cargar los marcadores. Se intenta de nuevo en un rato.',mlb:'Grandes Ligas',inv:'Ligas invernales'};
+function hoyRD(){return new Date().toLocaleDateString('en-CA',{timeZone:'America/Santo_Domingo'})}
+function hora(iso){return new Date(iso).toLocaleTimeString(EN?'en-US':'es-DO',{hour:'numeric',minute:'2-digit',timeZone:'America/Santo_Domingo'}).replace(/\s/g,' ')+(EN?' (DR time)':'')}
+function pedir(url){var c=new AbortController();setTimeout(function(){c.abort()},9000);
+ return fetch(url,{signal:c.signal,cache:'no-store'}).then(function(r){if(!r.ok)throw r.status;return r.json()})}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function ordinal(n){return EN?n+(n==1?'st':n==2?'nd':n==3?'rd':'th'):n+'.º'}
+
+function beisbol(){
+ return pedir('https://statsapi.mlb.com/api/v1/schedule?sportId=1,17&date='+hoyRD()+'&hydrate=linescore,team(league)').then(function(j){
+  var out=[];(j.dates||[]).forEach(function(d){(d.games||[]).forEach(function(g){
+   var h=g.teams.home,a=g.teams.away,ls=g.linescore||{},st=g.status||{},liga;
+   var ln=((h.team.league||{}).name||'')+' '+h.team.name+' '+a.team.name;
+   if(g.sportId===1||((h.team.sport||{}).id===1))liga='MLB';else if(/dominic/i.test(ln)||LIDOM.test(h.team.name)&&LIDOM.test(a.team.name))liga='LIDOM';else liga='Ligas invernales';
+   var estado,vivo=false,ds=st.detailedState||'';
+   if(st.abstractGameState==='Live'){vivo=true;var p={Top:TX.alta,Bottom:TX.baja,Middle:TX.mit,End:TX.fin}[ls.inningState]||'';
+    estado=ls.currentInning?(p+' '+ordinal(ls.currentInning)+(EN?'':' inning')):TX.vivo;}
+   else if(st.abstractGameState==='Final')estado=/postpon/i.test(ds)?TX.pos:/suspend/i.test(ds)?TX.sus:TX.final+((ls.currentInning&&ls.currentInning!==9)?' ('+ls.currentInning+')':'');
+   else estado=/postpon/i.test(ds)?TX.pos:hora(g.gameDate);
+   var r=function(t,x){return{n:t.team.shortName||t.team.teamName||t.team.name,c:(ls.teams&&ls.teams[x]&&ls.teams[x].runs!=null)?ls.teams[x].runs:(t.score!=null&&st.abstractGameState!=='Preview'?t.score:''),
+    logo:'https://www.mlbstatic.com/team-logos/'+t.team.id+'.svg'}};
+   out.push({liga:liga,vivo:vivo,fin:st.abstractGameState==='Final',fecha:g.gameDate,a:r(a,'away'),h:r(h,'home'),estado:estado});
+  })});return out;});
+}
+function espn(nombre,ruta){
+ return pedir('https://site.api.espn.com/apis/site/v2/sports/'+ruta+'/scoreboard').then(function(j){
+  return (j.events||[]).map(function(e){var c=e.competitions[0],s=c.status||e.status,ty=s.type||{};
+   var eq=function(lado){var t=c.competitors.filter(function(x){return x.homeAway===lado})[0]||{};var tm=t.team||{};
+    return{n:tm.shortDisplayName||tm.displayName||tm.name,c:ty.state==='pre'?'':(t.score||''),logo:tm.logo||''}};
+   var estado;
+   if(ty.state==='in'){
+    if(/HALFTIME/.test(ty.name||''))estado=TX.med;
+    else if(ruta.indexOf('soccer')===0)estado=s.displayClock||TX.vivo;
+    else estado=EN?(ty.shortDetail||TX.vivo):(ordinal(s.period)+' '+(ruta.indexOf('football')===0||ruta.indexOf('basketball')===0?'cuarto':'')+' · '+s.displayClock);
+   }else if(ty.state==='post')estado=/POSTPONED/.test(ty.name||'')?TX.pos:TX.final;
+   else estado=/POSTPONED/.test(ty.name||'')?TX.pos:hora(e.date);
+   return{liga:nombre,vivo:ty.state==='in',fin:ty.state==='post',fecha:e.date,a:eq('away'),h:eq('home'),estado:estado};
+  });
+ });
+}
+function equipo(t,gana){return '<div class="eq'+(gana?' gana':'')+'"><img src="'+esc(t.logo)+'" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'"><span>'+esc(t.n)+'</span><b>'+esc(t.c)+'</b></div>'}
+function juego(g){var na=parseFloat(g.a.c),nh=parseFloat(g.h.c);
+ return '<div class="juego'+(g.vivo?' envivo':'')+'"><div class="est">'+(g.vivo?'<i></i>'+TX.vivo+' · ':'')+esc(g.estado)+(COMPLETO?'':' <small>'+esc(g.liga==='MLB'?TX.mlb:g.liga==='Ligas invernales'?TX.inv:g.liga)+'</small>')+'</div>'
+  +equipo(g.a,g.fin&&na>nh)+equipo(g.h,g.fin&&nh>na)+'</div>'}
+var timer;
+function cargar(){
+ Promise.allSettled([beisbol()].concat(ESPN.map(function(x){return espn(x[0],x[1])}))).then(function(rs){
+  var todos=[],fallas=0;rs.forEach(function(r){if(r.status==='fulfilled')todos=todos.concat(r.value);else fallas++});
+  var rango=function(g){return g.vivo?0:!g.fin?1:2};
+  todos.sort(function(x,y){return rango(x)-rango(y)||ORDEN.indexOf(x.liga)-ORDEN.indexOf(y.liga)||(x.fecha<y.fecha?-1:1)});
+  var html='';
+  if(COMPLETO){
+   ORDEN.forEach(function(l){var gs=todos.filter(function(g){return g.liga===l});if(!gs.length)return;
+    html+='<h2 class="liga">'+esc(l==='MLB'?TX.mlb:l==='Ligas invernales'?TX.inv:l)+'</h2><div class="juegos">'+gs.map(juego).join('')+'</div>'});
+   if(!html)html='<p class="sinjuegos">'+(fallas===rs.length?TX.err:TX.nada)+'</p>';
+   caja.innerHTML=html;
+  }else{
+   var vis=todos.filter(function(g){return g.vivo||!g.fin||(Date.now()-new Date(g.fecha))<12*3600e3}).slice(0,10);
+   if(!vis.length){caja.closest('.marcadores').classList.add('oculta-m');}
+   else{caja.closest('.marcadores').classList.remove('oculta-m');caja.innerHTML='<div class="juegos fila">'+vis.map(juego).join('')+'</div>';}
+  }
+  clearTimeout(timer);timer=setTimeout(cargar,todos.some(function(g){return g.vivo})?30000:300000);
+ });
+}
+cargar();
+document.addEventListener('visibilitychange',function(){if(!document.hidden)cargar()});
+})();
 </script>
 </body></html>

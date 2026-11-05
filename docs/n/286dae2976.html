@@ -20,11 +20,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3979135814994883" crossorigin="anonymous"></script>
-<style>:root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+<style>:root{--verde:#15803d;--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
  --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}
-@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
-:root[data-theme=dark]{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+:root[data-theme=dark]{--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}
@@ -54,6 +54,24 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota.us{border-top-color:var(--enlace)} .us .chip{color:var(--enlace)}
 .nota.pr{border-top-color:var(--ambar)} .pr .chip{color:var(--ambar)}
 .nota.vj{border-top-color:var(--morado)} .vj .chip{color:var(--morado)}
+.nota.dp{border-top-color:var(--verde)} .dp .chip{color:var(--verde)} .articulo.dp{border-top-color:var(--verde)} .articulo.dp .chip{color:var(--verde)}
+.marcadores{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:14px 16px;margin:0 0 18px;border-top:4px solid var(--verde)}
+.marcadores.oculta-m{display:none}
+.mcab{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.mcab h2{margin:0;font-size:17px;font-weight:800}.mcab a{font-size:14px;font-weight:700;color:var(--enlace);text-decoration:none}
+.juegos{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.juegos.fila{display:flex;overflow-x:auto;scrollbar-width:thin;padding-bottom:4px}.juegos.fila .juego{flex:0 0 210px}
+.juego{border:1px solid var(--linea);border-radius:12px;padding:10px 12px;background:var(--fondo)}
+.juego.envivo{border-color:var(--rojo)}
+.est{font-size:12.5px;font-weight:700;color:var(--gris);margin-bottom:6px;display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.est small{font-weight:600;margin-left:auto}
+.envivo .est{color:var(--rojo)}.est i{width:8px;height:8px;border-radius:50%;background:var(--rojo);display:inline-block;animation:late 1.2s infinite}
+@keyframes late{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.est i{animation:none}}
+.eq{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:15px}.eq img{width:22px;height:22px;object-fit:contain}
+.eq span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.eq b{font-size:17px;font-variant-numeric:tabular-nums}
+.eq.gana span,.eq.gana b{font-weight:800}
+.liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
+.sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -167,7 +185,7 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
     <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//aldiard.com/n/286dae2976.html" target="_blank" rel="noopener">Compartir en Facebook</a>
   </div>
 </article>
-<section class="relacionadas"><h3>Más de Dominicanos en EE.UU.</h3><a href="/n/e5b07136a3.html">Líder empresarial dominicano en Puerto Rico pide a Abinader pronunciarse ante denuncias contra ICE</a><a href="/n/3404f59dcc.html">Artistas dominicanas inauguran en Milán una muestra sobre el plástico y la crisis ecológica</a><a href="/n/3c8d86749a.html">Abinader reconoce a 12 dominicanos destacados en Europa por su trayectoria</a><a href="/n/3740c43701.html">Abinader entrega reconocimiento a 12 dominicanos destacados en Europa</a><a href="/n/e7b67954bf.html">Familiares de dominicanos reclutados por Rusia piden su regreso en embajada</a></section>
+<section class="relacionadas"><h3>Más de Dominicanos en EE.UU.</h3><a href="/n/9759de2a0b.html">Acusan a dominicana de votar ilegalmente en elecciones de EE. UU. y a su esposo de ayudarla</a><a href="/n/e5b07136a3.html">Líder empresarial dominicano en Puerto Rico pide a Abinader pronunciarse ante denuncias contra ICE</a><a href="/n/3404f59dcc.html">Artistas dominicanas inauguran en Milán una muestra sobre el plástico y la crisis ecológica</a><a href="/n/3c8d86749a.html">Abinader reconoce a 12 dominicanos destacados en Europa por su trayectoria</a><a href="/n/3740c43701.html">Abinader entrega reconocimiento a 12 dominicanos destacados en Europa</a></section>
 </main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">
@@ -199,6 +217,7 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
  document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
  document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
  var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+ var m=document.querySelector('.marcadores'); if(m)m.classList.toggle('oculta',b.dataset.f!=='todas'&&b.dataset.f!=='dp');
  window.scrollTo({top:0,behavior:suave});  // al escoger una sección, se ven sus noticias desde arriba
 }});
 // Flechita para volver arriba: sale cuando bajas un poco
