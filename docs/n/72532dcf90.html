@@ -40,8 +40,9 @@ header{background:var(--blanco);border-bottom:1px solid var(--linea);position:st
 .red{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}
 .red:hover{border-color:var(--enlace);color:var(--enlace)}
 .red svg{width:18px;height:18px}
-nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
-nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+nav button{font:600 13px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:7px 11px;border-radius:999px;cursor:pointer;white-space:nowrap}
+@media (max-width:420px){nav{gap:5px;padding:0 10px 8px}nav button{font-size:12.5px;padding:6px 9px}}
 nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
 #arriba{position:fixed;right:16px;bottom:20px;z-index:30;width:46px;height:46px;border-radius:50%;border:0;background:var(--azul);color:#fff;
  box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
@@ -72,6 +73,7 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .eq.gana span,.eq.gana b{font-weight:800}
 .liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
 .sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
+.mprox{margin:0 0 8px;font-size:13px;font-weight:700;color:var(--gris)}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -185,7 +187,7 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
     <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//aldiard.com/n/72532dcf90.html" target="_blank" rel="noopener">Compartir en Facebook</a>
   </div>
 </article>
-<section class="relacionadas"><h3>Más de República Dominicana</h3><a href="/n/ff69c82e3c.html">CAID abre unidad terapéutica en Las Matas de Farfán para niños con discapacidad</a><a href="/n/da697757ac.html">Gobierno evalúa focalizar subsidios a combustibles por alza de precios internacionales</a><a href="/n/84f92376d7.html">Salud convoca a organismos internacionales para reducir muertes maternas e infantiles</a><a href="/n/7bb2443987.html">Policía captura a tres prófugos extranjeros y recibe a un dominicano extraditado</a><a href="/n/9db8be19a2.html">Feriado del Día de la Constitución se traslada al lunes 9 de noviembre</a></section>
+<section class="relacionadas"><h3>Más de República Dominicana</h3><a href="/n/08d052da7c.html">Entregan polideportivo José &quot;Chachito&quot; Carrasco remozado en Sabaneta</a><a href="/n/da0167c79d.html">Inefi entrega cancha y utilería deportiva a la Fundación Mir en La Romana</a><a href="/n/512c550737.html">Abinader propone que RD sea sede de centro iberoamericano de inteligencia artificial</a><a href="/n/ff69c82e3c.html">CAID abre unidad terapéutica en Las Matas de Farfán para niños con discapacidad</a><a href="/n/da697757ac.html">Gobierno evalúa focalizar subsidios a combustibles por alza de precios internacionales</a></section>
 </main>
 <footer><div class="pie">
   <div style="display:flex;gap:12px;align-items:center"><img src="/img/logo-512.png" alt="">

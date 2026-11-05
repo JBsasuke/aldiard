@@ -38,8 +38,9 @@ header{background:var(--blanco);border-bottom:1px solid var(--linea);position:st
 .red{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}
 .red:hover{border-color:var(--enlace);color:var(--enlace)}
 .red svg{width:18px;height:18px}
-nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
-nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+nav button{font:600 13px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:7px 11px;border-radius:999px;cursor:pointer;white-space:nowrap}
+@media (max-width:420px){nav{gap:5px;padding:0 10px 8px}nav button{font-size:12.5px;padding:6px 9px}}
 nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
 #arriba{position:fixed;right:16px;bottom:20px;z-index:30;width:46px;height:46px;border-radius:50%;border:0;background:var(--azul);color:#fff;
  box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
@@ -70,6 +71,7 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .eq.gana span,.eq.gana b{font-weight:800}
 .liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
 .sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
+.mprox{margin:0 0 8px;font-size:13px;font-weight:700;color:var(--gris)}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -170,7 +172,156 @@ footer{background:var(--pie);color:#cfd8e6;font-size:14px}
 <h1 style="margin:0 0 6px">📸 Fotos para subir a mano</h1>
 <p style="color:var(--gris);margin:0 0 16px">Todas las noticias de las últimas 48 horas, con su foto y su texto. Descarga la foto,
 copia el texto y súbela a Instagram o X. Instagram sigue publicando solo de 7:00 a. m. a 11:00 p. m.</p>
-<div class="fotoman">
+<div class="fotoman"><img src="/ig/consejo-2026-11-05-divisas.jpg" alt="" loading="lazy"><div>
+  <div class="meta"><span class="chip">Consejo del día · divisasrd.com</span></div><b>Cuida tu dinero en cada cambio</b>
+  <textarea readonly rows="4">Cuida tu dinero en cada cambio
+
+Compara casas de cambio y bancos antes de vender dólares o enviar remesas, porque la diferencia en la tasa puede cambiarte el resultado. Revisa la tasa del día y calcula cuánto recibirá tu familia en pesos antes de confirmar.
+
+👉 https://divisasrd.com
+
+#AlDiaRD #Consejos</textarea>
+  <div class="botman"><a class="directo" href="/ig/consejo-2026-11-05-divisas.jpg" download>⬇ Descargar foto</a><button type="button" class="copiar">📋 Copiar texto</button></div></div></div><div class="fotoman">
+  <img src="/fotos/5adbc37538.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Precios y combustibles</span><span class="hora" data-fecha="2026-11-05T14:16:01.221998+00:00"></span></div>
+  <b>Dólar hoy en RD: dónde cambiar y dónde conviene vender</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Dólar hoy en RD: dónde cambiar y dónde conviene vender
+
+El dólar se mantiene estable en los bancos, pero las diferencias entre entidades pueden marcar la diferencia en tu bolsillo. Te contamos dónde conviene cambiar hoy.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/5adbc37538.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/5adbc37538.jpg" download="aldiard-5adbc37538.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/08d052da7c.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-05T14:16:22.163209+00:00"></span></div>
+  <b>Entregan polideportivo José &quot;Chachito&quot; Carrasco remozado en Sabaneta</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Entregan polideportivo José &quot;Chachito&quot; Carrasco remozado en Sabaneta
+
+Una inversión de RD$24 millones devuelve a Sabaneta un polideportivo totalmente renovado.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/08d052da7c.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/08d052da7c.jpg" download="aldiard-08d052da7c.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/da0167c79d.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-05T14:16:54.808747+00:00"></span></div>
+  <b>Inefi entrega cancha y utilería deportiva a la Fundación Mir en La Romana</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Inefi entrega cancha y utilería deportiva a la Fundación Mir en La Romana
+
+El Inefi entregó una cancha nueva y utilería deportiva en La Romana, y proyecta un techado para la Escuela Batey Central.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/da0167c79d.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/da0167c79d.jpg" download="aldiard-da0167c79d.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/512c550737.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-05T14:17:13.957545+00:00"></span></div>
+  <b>Abinader propone que RD sea sede de centro iberoamericano de inteligencia artificial</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Abinader propone que RD sea sede de centro iberoamericano de inteligencia artificial
+
+El presidente Abinader ofrece al país como sede de un centro regional de inteligencia artificial y dice que la tecnología debe cerrar brechas, no ampliarlas.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/512c550737.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/512c550737.jpg" download="aldiard-512c550737.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/e220a275d3.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Dominicanos en EE.UU.</span><span class="hora" data-fecha="2026-11-05T14:17:36.343495+00:00"></span></div>
+  <b>Mived y la EOI lanzan en Madrid programa de educación financiera para dominicanos en Europa</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Mived y la EOI lanzan en Madrid programa de educación financiera para dominicanos en Europa
+
+El Gobierno dominicano presentó en Madrid un programa para que los dominicanos en Europa tomen decisiones más seguras al comprar vivienda en su país.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/e220a275d3.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/e220a275d3.jpg" download="aldiard-e220a275d3.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/b224dfabd5.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Dominicanos en EE.UU.</span><span class="hora" data-fecha="2026-11-05T14:18:47.790691+00:00"></span></div>
+  <b>Dominicanos en Nueva York condenan agresión a activista político en New Hampshire</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Dominicanos en Nueva York condenan agresión a activista político en New Hampshire
+
+Un hombre mayor golpeó a un joven voluntario de un grupo político en New Hampshire. Imágenes del ataque circulan y, según El Nacional, dominicanos en Nueva York lo repudian.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/b224dfabd5.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/b224dfabd5.jpg" download="aldiard-b224dfabd5.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/f746ffae1b.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Famosos</span><span class="hora" data-fecha="2026-11-05T14:19:39.914763+00:00"></span></div>
+  <b>Georgina Duluc extraña el respeto de la vieja televisión dominicana</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Georgina Duluc extraña el respeto de la vieja televisión dominicana
+
+Georgina Duluc vuelve a &quot;Divertido con Jochy&quot; y confiesa qué echa de menos de la TV de antes, y no descarta regresar con un proyecto propio.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/f746ffae1b.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/f746ffae1b.jpg" download="aldiard-f746ffae1b.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/2201ccd9a3.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Famosos</span><span class="hora" data-fecha="2026-11-05T14:20:03.055613+00:00"></span></div>
+  <b>Residente concluye el rodaje de &quot;Porto Rico&quot; en República Dominicana</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Residente concluye el rodaje de &quot;Porto Rico&quot; en República Dominicana
+
+Residente terminó el rodaje de su primer largometraje de ficción como director, filmado en República Dominicana tras diferencias sobre incentivos fiscales en Puerto Rico.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/2201ccd9a3.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/2201ccd9a3.jpg" download="aldiard-2201ccd9a3.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/f9cd360127.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Deportes</span><span class="hora" data-fecha="2026-11-05T14:20:25.032870+00:00"></span></div>
+  <b>Trevor Bauer relata su debut en la Lidom entre elogios y ajustes pendientes</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Trevor Bauer relata su debut en la Lidom entre elogios y ajustes pendientes
+
+El lanzador Trevor Bauer habló de su primer partido en República Dominicana, un juego con mucha intensidad y una interrupción por fallas en las luces.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/f9cd360127.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/f9cd360127.jpg" download="aldiard-f9cd360127.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
+  <img src="/fotos/5f8fa63d24.jpg" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">Deportes</span><span class="hora" data-fecha="2026-11-05T14:20:40.967305+00:00"></span></div>
+  <b>Bonifacio asume nueva etapa en el Licey y busca liderar desde el ejemplo</b><small>Aún no sale en Instagram</small>
+  <textarea readonly rows="5">Bonifacio asume nueva etapa en el Licey y busca liderar desde el ejemplo
+
+Emilio Bonifacio, capitán del Licey, asume un nuevo rol en el equipo y explica por qué no piensa retirarse con ceremonias.
+
+📲 Lee la noticia completa en aldiard.com (enlace en la bio)
+https://aldiard.com/n/5f8fa63d24.html
+
+#AlDiaRD #RepublicaDominicana #Noticias</textarea>
+  <div class="botman"><a class="directo" href="/fotos/5f8fa63d24.jpg" download="aldiard-5f8fa63d24.jpg">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div><div class="fotoman">
   <img src="/fotos/ff69c82e3c.jpg" alt="" loading="lazy">
   <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-05T07:57:46.341133+00:00"></span></div>
   <b>CAID abre unidad terapéutica en Las Matas de Farfán para niños con discapacidad</b><small>Aún no sale en Instagram</small>
@@ -869,146 +1020,6 @@ https://aldiard.com/n/86e65594c4.html
 
 #AlDiaRD #RepublicaDominicana #Noticias</textarea>
   <div class="botman"><a class="directo" href="/fotos/86e65594c4.jpg" download="aldiard-86e65594c4.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/4d1cdb83d1.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-04T02:27:10.460733+00:00"></span></div>
-  <b>Ministerio Público y Educación se unen contra el vaper en escuelas de Santiago</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Ministerio Público y Educación se unen contra el vaper en escuelas de Santiago
-
-Fiscalía, Educación y otras instituciones coordinan estrategias para frenar el uso de vaper entre estudiantes de Santiago.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/4d1cdb83d1.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/4d1cdb83d1.jpg" download="aldiard-4d1cdb83d1.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/2cc31d9a25.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-04T02:27:39.670216+00:00"></span></div>
-  <b>Gobierno aprueba Código de Ética para la inteligencia artificial en servicios públicos</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Gobierno aprueba Código de Ética para la inteligencia artificial en servicios públicos
-
-El Gobierno dominicano adopta reglas obligatorias para el uso de inteligencia artificial en el Estado, con prohibiciones y derechos para los ciudadanos.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/2cc31d9a25.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/2cc31d9a25.jpg" download="aldiard-2cc31d9a25.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/d58495082f.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">Internacionales</span><span class="hora" data-fecha="2026-11-04T02:28:17.100598+00:00"></span></div>
-  <b>Trump proclama que el espacio exterior es de toda la humanidad y anuncia metas lunares y marcianas</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Trump proclama que el espacio exterior es de toda la humanidad y anuncia metas lunares y marcianas
-
-Estados Unidos anuncia una nueva proclamación sobre el espacio: regreso a la Luna en 2028 y una misión a Marte, con un plan de presencia permanente.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/d58495082f.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/d58495082f.jpg" download="aldiard-d58495082f.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/c722958b90.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">Famosos</span><span class="hora" data-fecha="2026-11-04T02:28:55.672842+00:00"></span></div>
-  <b>Yailin llevará su música al Coliseo Teo Cruz el 5 de diciembre</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Yailin llevará su música al Coliseo Teo Cruz el 5 de diciembre
-
-Yailin &quot;La Más Viral&quot; tendrá su primer concierto en solitario en Santo Domingo. El espectáculo será el sábado 5 de diciembre.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/c722958b90.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/c722958b90.jpg" download="aldiard-c722958b90.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/3404f59dcc.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">Dominicanos en EE.UU.</span><span class="hora" data-fecha="2026-11-04T02:29:11.819308+00:00"></span></div>
-  <b>Artistas dominicanas inauguran en Milán una muestra sobre el plástico y la crisis ecológica</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Artistas dominicanas inauguran en Milán una muestra sobre el plástico y la crisis ecológica
-
-Dos artistas dominicanas llevan a Milán una distopía con animales de plástico, inspirada en la Isla Saona.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/3404f59dcc.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/3404f59dcc.jpg" download="aldiard-3404f59dcc.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/3c8d86749a.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">Dominicanos en EE.UU.</span><span class="hora" data-fecha="2026-11-04T02:29:33.425996+00:00"></span></div>
-  <b>Abinader reconoce a 12 dominicanos destacados en Europa por su trayectoria</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Abinader reconoce a 12 dominicanos destacados en Europa por su trayectoria
-
-El presidente Abinader entregó en Madrid el reconocimiento &quot;INDEX Somos Todos&quot; a 12 dominicanos residentes en España, Italia y Reino Unido.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/3c8d86749a.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/3c8d86749a.jpg" download="aldiard-3c8d86749a.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/e8a4cc8138.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-04T02:29:49.376049+00:00"></span></div>
-  <b>Festival CAYE llevará arte, música y ballet gratis a Ciudad Nueva el 7 y 8 de noviembre</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Festival CAYE llevará arte, música y ballet gratis a Ciudad Nueva el 7 y 8 de noviembre
-
-Ciudad Nueva se convertirá en un escenario de arte gratuito el 7 y 8 de noviembre, con ballet en plena calle y murales en vivo. Aquí los detalles.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/e8a4cc8138.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/e8a4cc8138.jpg" download="aldiard-e8a4cc8138.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/4ee1f1f7ad.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">Videojuegos</span><span class="hora" data-fecha="2026-11-04T02:30:24.474282+00:00"></span></div>
-  <b>Ocarina of Time llega a Switch 2 con más de 150 piezas musicales</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">Ocarina of Time llega a Switch 2 con más de 150 piezas musicales
-
-Nintendo revela cómo rehizo la música de Ocarina of Time para su nueva versión, con orquesta completa y guiños a la original.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/4ee1f1f7ad.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/4ee1f1f7ad.jpg" download="aldiard-4ee1f1f7ad.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/9c868565bf.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-03T21:50:42.016243+00:00"></span></div>
-  <b>INABIE lleva servicios de salud a más de 1,000 estudiantes de Barahona</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">INABIE lleva servicios de salud a más de 1,000 estudiantes de Barahona
-
-Más de 1,000 estudiantes de Barahona reciben evaluaciones de salud visual, auditiva, bucal y epidemiológica en una jornada que se extiende hasta el 6 de noviembre.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/9c868565bf.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/9c868565bf.jpg" download="aldiard-9c868565bf.jpg">⬇ Descargar foto</a>
-  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
-</div><div class="fotoman">
-  <img src="/fotos/64193cec7e.jpg" alt="" loading="lazy">
-  <div><div class="meta"><span class="chip">República Dominicana</span><span class="hora" data-fecha="2026-11-03T21:50:56.471187+00:00"></span></div>
-  <b>ODAC amplía reconocimiento internacional para certificar sistemas de gestión empresarial</b><small>Aún no sale en Instagram</small>
-  <textarea readonly rows="5">ODAC amplía reconocimiento internacional para certificar sistemas de gestión empresarial
-
-El Organismo Dominicano de Acreditación suma un nuevo alcance reconocido mundialmente. Las empresas del país pueden ganar más confianza al competir fuera.
-
-📲 Lee la noticia completa en aldiard.com (enlace en la bio)
-https://aldiard.com/n/64193cec7e.html
-
-#AlDiaRD #RepublicaDominicana #Noticias</textarea>
-  <div class="botman"><a class="directo" href="/fotos/64193cec7e.jpg" download="aldiard-64193cec7e.jpg">⬇ Descargar foto</a>
   <button type="button" class="copiar">📋 Copiar texto</button></div></div>
 </div>
 </main>

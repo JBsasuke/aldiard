@@ -40,8 +40,9 @@ header{background:var(--blanco);border-bottom:1px solid var(--linea);position:st
 .red{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);cursor:pointer;padding:0;text-decoration:none}
 .red:hover{border-color:var(--enlace);color:var(--enlace)}
 .red svg{width:18px;height:18px}
-nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
-nav button{font:600 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:8px 14px;border-radius:999px;cursor:pointer;white-space:nowrap}
+nav{max-width:1100px;margin:auto;padding:0 16px 10px;display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+nav button{font:600 13px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);padding:7px 11px;border-radius:999px;cursor:pointer;white-space:nowrap}
+@media (max-width:420px){nav{gap:5px;padding:0 10px 8px}nav button{font-size:12.5px;padding:6px 9px}}
 nav button[aria-pressed=true]{background:var(--azul);border-color:var(--enlace);color:#fff}
 #arriba{position:fixed;right:16px;bottom:20px;z-index:30;width:46px;height:46px;border-radius:50%;border:0;background:var(--azul);color:#fff;
  box-shadow:0 4px 14px rgba(0,0,0,.25);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
@@ -72,6 +73,7 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .eq.gana span,.eq.gana b{font-weight:800}
 .liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
 .sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
+.mprox{margin:0 0 8px;font-size:13px;font-weight:700;color:var(--gris)}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -212,8 +214,10 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
  a.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>';
  a.onclick=function(){window.scrollTo({top:0,behavior:suave})};document.body.appendChild(a);
  function mirar(){a.classList.toggle('ver',window.scrollY>500)}window.addEventListener('scroll',mirar,{passive:true});mirar();})();
-// ===== Marcadores en vivo (LIDOM y béisbol de MLB + NBA, NFL y fútbol de ESPN) =====
-// Se piden desde el navegador de cada visitante; se actualizan solos cada 30 s si hay juegos en vivo.
+// ===== Marcadores (LIDOM y béisbol de MLB + NBA, NFL y fútbol de ESPN) =====
+// 1) Se piden directo desde el navegador (en vivo, cada 30 s si hay juegos jugándose).
+// 2) Si el navegador no puede, se usa /deportes.json, que el programa deja listo cada hora.
+// LIDOM: juegos de hoy, resultados de los últimos días y calendario de los próximos días.
 (function(){
 var caja=document.getElementById('marcadores'); if(!caja) return;
 var EN=document.documentElement.lang==='en', COMPLETO=caja.dataset.completo==='1';
@@ -221,75 +225,101 @@ var LIDOM=/licey|escogido|[aá]guilas|cibae|estrellas|toros|gigantes/i;
 var ESPN=[['NBA','basketball/nba'],['NFL','football/nfl'],['Champions League','soccer/uefa.champions'],
  ['LaLiga','soccer/esp.1'],['Premier League','soccer/eng.1'],['Liga MX','soccer/mex.1'],['MLS','soccer/usa.1']];
 var ORDEN=['LIDOM','MLB','NBA','NFL','Champions League','LaLiga','Premier League','Liga MX','MLS','Ligas invernales'];
-var TX=EN?{vivo:'LIVE',final:'Final',pos:'Postponed',sus:'Suspended',med:'Halftime',alta:'Top',baja:'Bot',mit:'Mid',fin:'End',
-  nada:'No games today in these leagues.',err:'Scores could not be loaded. Trying again soon.',mlb:'MLB',inv:'Winter leagues'}
- :{vivo:'EN VIVO',final:'Final',pos:'Pospuesto',sus:'Suspendido',med:'Medio tiempo',alta:'Alta',baja:'Baja',mit:'Mitad',fin:'Fin',
-  nada:'Hoy no hay juegos en estas ligas.',err:'No se pudieron cargar los marcadores. Se intenta de nuevo en un rato.',mlb:'Grandes Ligas',inv:'Ligas invernales'};
-function hoyRD(){return new Date().toLocaleDateString('en-CA',{timeZone:'America/Santo_Domingo'})}
-function hora(iso){return new Date(iso).toLocaleTimeString(EN?'en-US':'es-DO',{hour:'numeric',minute:'2-digit',timeZone:'America/Santo_Domingo'}).replace(/\s/g,' ')+(EN?' (DR time)':'')}
+var TX=EN?{vivo:'LIVE',final:'Final',pos:'Postponed',sus:'Suspended',med:'Halftime',alta:'Top',baja:'Bot',mit:'Mid',fin:'End',hoy:'Today',
+  nada:'No games today in these leagues.',err:'Scores could not be loaded. Trying again soon.',mlb:'MLB',inv:'Other winter leagues',
+  lidomHoy:'Dominican League (LIDOM) · today',lidomRes:'LIDOM · latest results',lidomProx:'LIDOM · upcoming games',proximos:'Next LIDOM games'}
+ :{vivo:'EN VIVO',final:'Final',pos:'Pospuesto',sus:'Suspendido',med:'Medio tiempo',alta:'Alta',baja:'Baja',mit:'Mitad',fin:'Fin',hoy:'Hoy',
+  nada:'Hoy no hay juegos en estas ligas.',err:'No se pudieron cargar los marcadores. Se intenta de nuevo en un rato.',mlb:'Grandes Ligas',inv:'Otras ligas invernales',
+  lidomHoy:'Pelota invernal (LIDOM) · hoy',lidomRes:'LIDOM · últimos resultados',lidomProx:'LIDOM · próximos juegos',proximos:'Próximos juegos de LIDOM'};
+var ZONA='America/Santo_Domingo';
+function diaRD(d){return new Date(d).toLocaleDateString('en-CA',{timeZone:ZONA})}
+function sumar(dias){return diaRD(Date.now()+dias*86400000)}
+function hora(iso){return new Date(iso).toLocaleTimeString(EN?'en-US':'es-DO',{hour:'numeric',minute:'2-digit',timeZone:ZONA}).replace(/\s/g,' ')}
+function fechaCorta(iso){return new Date(iso).toLocaleDateString(EN?'en-US':'es-DO',{weekday:'short',day:'numeric',month:'short',timeZone:ZONA}).replace(/\./g,'')}
 function pedir(url){var c=new AbortController();setTimeout(function(){c.abort()},9000);
  return fetch(url,{signal:c.signal,cache:'no-store'}).then(function(r){if(!r.ok)throw r.status;return r.json()})}
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
 function ordinal(n){return EN?n+(n==1?'st':n==2?'nd':n==3?'rd':'th'):n+'.º'}
+var respaldo=null;
+function deportesJson(){return respaldo||(respaldo=pedir('/deportes.json').catch(function(){respaldo=null;return null}))}
 
-function beisbol(){
- return pedir('https://statsapi.mlb.com/api/v1/schedule?sportId=1,17&date='+hoyRD()+'&hydrate=linescore,team(league)').then(function(j){
-  var out=[];(j.dates||[]).forEach(function(d){(d.games||[]).forEach(function(g){
-   var h=g.teams.home,a=g.teams.away,ls=g.linescore||{},st=g.status||{},liga;
-   var ln=((h.team.league||{}).name||'')+' '+h.team.name+' '+a.team.name;
-   if(g.sportId===1||((h.team.sport||{}).id===1))liga='MLB';else if(/dominic/i.test(ln)||LIDOM.test(h.team.name)&&LIDOM.test(a.team.name))liga='LIDOM';else liga='Ligas invernales';
-   var estado,vivo=false,ds=st.detailedState||'';
-   if(st.abstractGameState==='Live'){vivo=true;var p={Top:TX.alta,Bottom:TX.baja,Middle:TX.mit,End:TX.fin}[ls.inningState]||'';
-    estado=ls.currentInning?(p+' '+ordinal(ls.currentInning)+(EN?'':' inning')):TX.vivo;}
-   else if(st.abstractGameState==='Final')estado=/postpon/i.test(ds)?TX.pos:/suspend/i.test(ds)?TX.sus:TX.final+((ls.currentInning&&ls.currentInning!==9)?' ('+ls.currentInning+')':'');
-   else estado=/postpon/i.test(ds)?TX.pos:hora(g.gameDate);
-   var r=function(t,x){return{n:t.team.shortName||t.team.teamName||t.team.name,c:(ls.teams&&ls.teams[x]&&ls.teams[x].runs!=null)?ls.teams[x].runs:(t.score!=null&&st.abstractGameState!=='Preview'?t.score:''),
-    logo:'https://www.mlbstatic.com/team-logos/'+t.team.id+'.svg'}};
-   out.push({liga:liga,vivo:vivo,fin:st.abstractGameState==='Final',fecha:g.gameDate,a:r(a,'away'),h:r(h,'home'),estado:estado});
-  })});return out;});
+function deMlb(j,deporte){
+ var out=[],hoy=diaRD(Date.now());(j.dates||[]).forEach(function(d){(d.games||[]).forEach(function(g){
+  if(deporte)g.sportId=deporte;
+  var h=g.teams.home,a=g.teams.away,ls=g.linescore||{},st=g.status||{},liga;
+  if(g.sportId===1)liga='MLB';else if(LIDOM.test(h.team.name||'')&&LIDOM.test(a.team.name||''))liga='LIDOM';else liga='Ligas invernales';
+  if(liga==='MLB'&&diaRD(g.gameDate)!==hoy)return;   // de Grandes Ligas solo lo de hoy
+  var estado,vivo=false,ds=st.detailedState||'',dia=diaRD(g.gameDate);
+  if(st.abstractGameState==='Live'){vivo=true;var p={Top:TX.alta,Bottom:TX.baja,Middle:TX.mit,End:TX.fin}[ls.inningState]||'';
+   estado=ls.currentInning?(p+' '+ordinal(ls.currentInning)+(EN?'':' inning')):TX.vivo;}
+  else if(st.abstractGameState==='Final')estado=/postpon/i.test(ds)?TX.pos:/suspend/i.test(ds)?TX.sus:TX.final+((ls.currentInning&&ls.currentInning!==9)?' ('+ls.currentInning+')':'');
+  else estado=/postpon/i.test(ds)?TX.pos:hora(g.gameDate);
+  if(dia!==hoy&&!vivo)estado=fechaCorta(g.gameDate)+' · '+estado;
+  var r=function(t,x){return{n:t.team.shortName||t.team.teamName||t.team.name,c:(ls.teams&&ls.teams[x]&&ls.teams[x].runs!=null)?ls.teams[x].runs:(t.score!=null&&st.abstractGameState!=='Preview'?t.score:''),
+   logo:'https://www.mlbstatic.com/team-logos/'+t.team.id+'.svg'}};
+  out.push({liga:liga,vivo:vivo,fin:st.abstractGameState==='Final',dia:dia,fecha:g.gameDate,a:r(a,'away'),h:r(h,'home'),estado:estado});
+ })});return out;
 }
-function espn(nombre,ruta){
- return pedir('https://site.api.espn.com/apis/site/v2/sports/'+ruta+'/scoreboard').then(function(j){
-  return (j.events||[]).map(function(e){var c=e.competitions[0],s=c.status||e.status,ty=s.type||{};
-   var eq=function(lado){var t=c.competitors.filter(function(x){return x.homeAway===lado})[0]||{};var tm=t.team||{};
-    return{n:tm.shortDisplayName||tm.displayName||tm.name,c:ty.state==='pre'?'':(t.score||''),logo:tm.logo||''}};
-   var estado;
-   if(ty.state==='in'){
-    if(/HALFTIME/.test(ty.name||''))estado=TX.med;
-    else if(ruta.indexOf('soccer')===0)estado=s.displayClock||TX.vivo;
-    else estado=EN?(ty.shortDetail||TX.vivo):(ordinal(s.period)+' '+(ruta.indexOf('football')===0||ruta.indexOf('basketball')===0?'cuarto':'')+' · '+s.displayClock);
-   }else if(ty.state==='post')estado=/POSTPONED/.test(ty.name||'')?TX.pos:TX.final;
-   else estado=/POSTPONED/.test(ty.name||'')?TX.pos:hora(e.date);
-   return{liga:nombre,vivo:ty.state==='in',fin:ty.state==='post',fecha:e.date,a:eq('away'),h:eq('home'),estado:estado};
-  });
+function beisbol(){
+ var base='https://statsapi.mlb.com/api/v1/schedule?hydrate=linescore&';
+ // ligas invernales (LIDOM): 3 días atrás y 5 adelante · Grandes Ligas: hoy
+ var inv=pedir(base+'sportId=17&startDate='+sumar(-3)+'&endDate='+sumar(5)).then(function(j){return deMlb(j,17)})
+  .catch(function(){return deportesJson().then(function(j){if(!j||!j.invierno)throw 'sin datos';return deMlb(j.invierno,17)})});
+ var mlb=pedir(base+'sportId=1&date='+sumar(0)).then(function(j){return deMlb(j,1)})
+  .catch(function(){return deportesJson().then(function(j){return j&&j.mlb?deMlb(j.mlb,1):[]})});
+ return Promise.allSettled([inv,mlb]).then(function(rs){var o=[],ok=false;rs.forEach(function(r){if(r.status==='fulfilled'){ok=true;o=o.concat(r.value)}});if(!ok)throw 'sin datos';return o});
+}
+function deEspn(nombre,ruta,j){
+ return (j.events||[]).map(function(e){var c=e.competitions[0],s=c.status||e.status,ty=s.type||{};
+  var eq=function(lado){var t=c.competitors.filter(function(x){return x.homeAway===lado})[0]||{};var tm=t.team||{};
+   return{n:tm.shortDisplayName||tm.displayName||tm.name,c:ty.state==='pre'?'':(t.score||''),logo:tm.logo||''}};
+  var estado;
+  if(ty.state==='in'){
+   if(/HALFTIME/.test(ty.name||''))estado=TX.med;
+   else if(ruta.indexOf('soccer')===0)estado=s.displayClock||TX.vivo;
+   else estado=EN?(ty.shortDetail||TX.vivo):(ordinal(s.period)+' cuarto · '+s.displayClock);
+  }else if(ty.state==='post')estado=/POSTPONED/.test(ty.name||'')?TX.pos:TX.final;
+  else estado=/POSTPONED/.test(ty.name||'')?TX.pos:hora(e.date);
+  return{liga:nombre,vivo:ty.state==='in',fin:ty.state==='post',dia:diaRD(e.date),fecha:e.date,a:eq('away'),h:eq('home'),estado:estado};
  });
 }
+function espn(nombre,ruta){
+ return pedir('https://site.api.espn.com/apis/site/v2/sports/'+ruta+'/scoreboard').then(function(j){return deEspn(nombre,ruta,j)})
+  .catch(function(){return deportesJson().then(function(j){var x=j&&j.espn&&j.espn[nombre];if(!x)throw 'sin datos';return deEspn(nombre,ruta,x)})});
+}
 function equipo(t,gana){return '<div class="eq'+(gana?' gana':'')+'"><img src="'+esc(t.logo)+'" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'"><span>'+esc(t.n)+'</span><b>'+esc(t.c)+'</b></div>'}
-function juego(g){var na=parseFloat(g.a.c),nh=parseFloat(g.h.c);
- return '<div class="juego'+(g.vivo?' envivo':'')+'"><div class="est">'+(g.vivo?'<i></i>'+TX.vivo+' · ':'')+esc(g.estado)+(COMPLETO?'':' <small>'+esc(g.liga==='MLB'?TX.mlb:g.liga==='Ligas invernales'?TX.inv:g.liga)+'</small>')+'</div>'
+function nombreLiga(l){return l==='MLB'?TX.mlb:l==='Ligas invernales'?TX.inv:l}
+function juego(g,conLiga){var na=parseFloat(g.a.c),nh=parseFloat(g.h.c);
+ return '<div class="juego'+(g.vivo?' envivo':'')+'"><div class="est">'+(g.vivo?'<i></i>'+TX.vivo+' · ':'')+esc(g.estado)+(conLiga?' <small>'+esc(nombreLiga(g.liga))+'</small>':'')+'</div>'
   +equipo(g.a,g.fin&&na>nh)+equipo(g.h,g.fin&&nh>na)+'</div>'}
+function grupo(titulo,gs,conLiga){return gs.length?'<h2 class="liga">'+esc(titulo)+'</h2><div class="juegos">'+gs.map(function(g){return juego(g,conLiga)}).join('')+'</div>':''}
 var timer;
 function cargar(){
  Promise.allSettled([beisbol()].concat(ESPN.map(function(x){return espn(x[0],x[1])}))).then(function(rs){
   var todos=[],fallas=0;rs.forEach(function(r){if(r.status==='fulfilled')todos=todos.concat(r.value);else fallas++});
-  var rango=function(g){return g.vivo?0:!g.fin?1:2};
+  var hoy=diaRD(Date.now()),rango=function(g){return g.vivo?0:!g.fin?1:2};
   todos.sort(function(x,y){return rango(x)-rango(y)||ORDEN.indexOf(x.liga)-ORDEN.indexOf(y.liga)||(x.fecha<y.fecha?-1:1)});
-  var html='';
+  var deHoy=todos.filter(function(g){return g.vivo||g.dia===hoy});
+  var lidom=todos.filter(function(g){return g.liga==='LIDOM'});
+  var prox=lidom.filter(function(g){return g.dia>hoy}).sort(function(x,y){return x.fecha<y.fecha?-1:1});
+  var res=lidom.filter(function(g){return g.dia<hoy&&g.fin}).sort(function(x,y){return x.fecha>y.fecha?-1:1});
   if(COMPLETO){
-   ORDEN.forEach(function(l){var gs=todos.filter(function(g){return g.liga===l});if(!gs.length)return;
-    html+='<h2 class="liga">'+esc(l==='MLB'?TX.mlb:l==='Ligas invernales'?TX.inv:l)+'</h2><div class="juegos">'+gs.map(juego).join('')+'</div>'});
-   if(!html)html='<p class="sinjuegos">'+(fallas===rs.length?TX.err:TX.nada)+'</p>';
-   caja.innerHTML=html;
+   var html=grupo(TX.lidomHoy,deHoy.filter(function(g){return g.liga==='LIDOM'}))+grupo(TX.lidomRes,res.slice(0,9))+grupo(TX.lidomProx,prox.slice(0,12));
+   ORDEN.forEach(function(l){if(l!=='LIDOM')html+=grupo(nombreLiga(l),deHoy.filter(function(g){return g.liga===l}))});
+   caja.innerHTML=html||'<p class="sinjuegos">'+(fallas===rs.length?TX.err:TX.nada)+'</p>';
   }else{
-   var vis=todos.filter(function(g){return g.vivo||!g.fin||(Date.now()-new Date(g.fecha))<12*3600e3}).slice(0,10);
-   if(!vis.length){caja.closest('.marcadores').classList.add('oculta-m');}
-   else{caja.closest('.marcadores').classList.remove('oculta-m');caja.innerHTML='<div class="juegos fila">'+vis.map(juego).join('')+'</div>';}
+   var vis=deHoy.filter(function(g){return g.vivo||!g.fin||(Date.now()-new Date(g.fecha))<12*3600e3}).slice(0,10);
+   var titulo='';
+   if(!vis.length&&prox.length){vis=prox.slice(0,4);titulo='<p class="mprox">'+esc(TX.proximos)+'</p>';}
+   var tarjeta=caja.closest('.marcadores');
+   if(!vis.length)tarjeta.classList.add('oculta-m');
+   else{tarjeta.classList.remove('oculta-m');caja.innerHTML=titulo+'<div class="juegos fila">'+vis.map(function(g){return juego(g,true)}).join('')+'</div>';}
   }
   clearTimeout(timer);timer=setTimeout(cargar,todos.some(function(g){return g.vivo})?30000:300000);
  });
 }
 cargar();
-document.addEventListener('visibilitychange',function(){if(!document.hidden)cargar()});
+document.addEventListener('visibilitychange',function(){if(!document.hidden){respaldo=null;cargar()}});
 })();
 </script>
 </body></html>

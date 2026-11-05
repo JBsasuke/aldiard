@@ -1,105 +1,77 @@
-Corrida: 2026-11-05 03:57 AM (hora RD)
+Corrida: 2026-11-05 10:15 AM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde cambiar y dónde conviene vender
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2332 letras -> https://www.presidencia.gob.do/noticias/ministro-kelvin-cruz-entrega-remozado-polideportivo-jose-chachito-carrasco-en-sabaneta
+[República Dominicana] El Nuevo Diario: texto leído 2363 letras -> https://elnuevodiario.com.do/ministro-kelvin-cruz-entrega-remozado-polideportivo-jose-chachito-carrasco-en-sabaneta/
+[República Dominicana] Listín Diario: texto leído 2390 letras -> https://listindiario.com/el-deporte/olimpismo/20261104/miderec-entrega-remozado-polideportivo-jose-chachito-carrasco-sabaneta_928930/amp.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Listín Diario
+Revisión: corregida (eliminé "Esto es lo que cambió en la instalación" del gancho en ambos idiomas por ser relleno; atribuí a List
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4566 letras -> https://www.presidencia.gob.do/noticias/sns-prioriza-la-humanizacion-en-los-servicios-de-salud-y-ofrece-mas-de-475-millones-de
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: SNS prioriza la humanización en los servicios de salud y ofrece más de 47.5 millones de asistencia -> cifras que no aparecen en las fuentes: 203735, 588248, 68
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2367 letras -> https://presidencia.gob.do/noticias/caid-inaugura-unidad-de-intervencion-terapeutica-territorial-en-las-matas-de-farfan
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "por tanto" no; cambié "promovido"... en realidad: quité la frase "para garantizar..." no, mantuve; a
-[República Dominicana] DGII: texto leído 2362 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-uso-de-certificado-de-firma-digital-e-identificacin-del-representante-para-facturacin-electrnica/6aeb6087b93d46523c7bbca6
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre uso de certificado de firma digital e identificación del representante para Facturación Electrónica
-[República Dominicana] DGII: texto leído 1280 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/asunto-retenciones-a-personas-fsicas-no-residentes-que-prestan-servicios-tcnicos-en-el-pas/6aeb61998857982fc7b73b85
-Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia: es una consulta de un contribuyente publicada en el portal de la DGII. No hay una respuesta oficial, ni anuncios, ni datos verificables de una decisión in')
-[República Dominicana] DGII: texto leído 1279 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/emisin-de-b14-o-e314/6aeb3f26d18d0dd374b79998
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): EMISIÓN DE B14 O E314
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3403986
-No se pudo leer el artículo; no se publica para no salir corta: - 45 - Fondo de Pensiones y Jubilaciones de la Ley de Presupuesto General del Estado tengan efectividad a partir de la fecha en
-[República Dominicana] DGII: texto leído 1074 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retribucin-complementaria-a-inmuebles-desocupados/6aeb3f0a0e3ed067e2a7161c
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Retribución complementaria a inmuebles desocupados
-[República Dominicana] DGII: texto leído 810 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/folios-serie-b-vencidos-se-pueden-aceptar/6aeb4a968857982fc7b55a56
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): FOLIOS SERIE B VENCIDOS ¿SE PUEDEN ACEPTAR?
-[República Dominicana] Banco Central de la República Dominicana: texto leído 1358 letras -> https://www.bancentral.gov.do/a/d/6712-flotacion-madurez-y-transparencia-formacion-de-precios-y-gestion-del-mercado-cambiario
-[República Dominicana] Periódico elDinero: texto leído 7000 letras -> https://eldinero.com.do/387298/flotacion-madurez-y-transparencia-formacion-de-precios-y-gestion-del-mercado-cambiario/
-Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Periódico elDinero
-Cambiada de sección: República Dominicana -> Precios y combustibles: Flotación, madurez y transparencia: formación de precios y gestión del mercado cambiario
-Revisión: corregida (se quitó la afirmación de que la institución "quiere que el público conozca" como intención no respaldada por
-[Dominicanos en EE.UU.] Ministerio de Educación de la República Dominicana: texto leído 1770 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/legalizacion-de-record-de-notas-de-educacion-media
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Legalización De Récord De Notas De Educación Media
+Rechazada por la revisión: SNS prioriza la humanización en los servicios de salud y ofrece más de 47.5 millones de asistencia -> cifras que no aparecen en las fuentes: 476, 588248, 68
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4883 letras -> https://presidencia.gob.do/noticias/inefi-entrega-cancha-y-utileria-deportiva-en-la-romana
+[República Dominicana] El Dia.com.do: texto leído 843 letras -> https://eldia.com.do/inefi-entrega-moderna-cancha-en-la-romana/
+[República Dominicana] El Nuevo Diario: texto leído 2142 letras -> https://elnuevodiario.com.do/inefi-entrega-cancha-de-baloncesto-y-utileria-deportiva-a-fundacion-mir-en-la-romana/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (eliminé la mención a "Monique... líder" atribuida a la Presidencia pero que el texto original no sitúa como d
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2881 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-propone-que-la-republica-dominicana-sea-sede-de-un-centro-para
+[República Dominicana] De Último Minuto: texto leído 4805 letras -> https://deultimominuto.com/internacionales/rd-sede-de-centro-iberoamericano/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: De Último Minuto
+Revisión: corregida (eliminé el "Madrid, España" como ubicación de la cumbre? No: se mantuvo; cambié "dijo que el país pone" a "se
+[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 3594 letras -> https://presidencia.gob.do/noticias/mivhed-y-escuela-de-organizacion-industrial-de-espana-impulsan-educacion-financiera-para
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3230 letras -> https://elnuevodiario.com.do/impulsan-educacion-financiera-para-proteger-la-inversion-inmobiliaria-de-dominicanos-residentes-en-europa/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (corregí el nombre del ministerio de "Mivhed" a "Mived" según las fuentes; el nombre del ministerio en el cuer
 [Dominicanos en EE.UU.] U.S. Bureau of Economic Analysis (BEA) (.gov): texto leído 6754 letras -> https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 0 letras -> https://public-inspection.federalregister.gov/2026-22532.pdf
 Fuente oficial encontrada: U.S. Bureau of Economic Analysis (BEA) (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: U.S. International Trade in Goods and Services, September 2026
-Rechazada por la revisión: U.S. International Trade in Goods and Services, September 2026 -> RECHAZADA: el borrador no contiene texto de noticia (la sección TEXTO es una nota del redactor que dice que no pudo completarlo), y el campo IMPORTA está vacío. No hay un cuerpo que revisar ni que cor
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 5745 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-3-2026/
+Rechazada por la revisión: U.S. International Trade in Goods and Services, September 2026 -> cifras que no aparecen en las fuentes: 100, 101200, 105000, 105700, 11300, 1300
+[Dominicanos en EE.UU.] U.S. Embassy in Ukraine (.gov): texto leído 1157 letras -> https://ua.usembassy.gov/demonstration-alert-u-s-embassy-kyiv-november-4-2026/
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2692 letras -> https://fr.usembassy.gov/security-alert-security-alert-u-s-embassy-paris-france-november-4-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1686 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-4-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Embassy & Consulates in France (.gov), U.S. Embassy in Ethiopia (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission to Saudi Arabia – November 3, 2026
-Revisión: corregida (corregido "32 kilómetros" a "20 millas" según la fuente, que indica 20 millas (~32 km): se mantiene la equiva
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 1887 letras -> https://www.federalregister.gov/public-inspection/current
-Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 11/04/2026 Public Inspection Issue
+Fuente oficial encontrada: U.S. Embassy in Ukraine (.gov), U.S. Embassy & Consulates in France (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert – U.S. Embassy Kyiv (November 4, 2026
+[Dominicanos en EE.UU.] SSA Office of the Inspector General (.gov): texto leído 2230 letras -> https://oig.ssa.gov/news-releases/2026-11-04-illegal-alien-from-the-dominican-republic-pleads-guilty-to-snap-fraud-and-masshealth-benefit-fraud/
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ma/pr/illegal-alien-dominican-republic-pleads-guilty-snap-fraud-and-masshealth-benefit-fraud
+[Dominicanos en EE.UU.] Office of Inspector General (.gov): texto leído 886 letras -> https://oig.hhs.gov/fraud/enforcement/illegal-alien-from-the-dominican-republic-pleads-guilty-to-snap-fraud-and-masshealth-benefit-fraud/
+Fuente oficial encontrada: SSA Office of the Inspector General (.gov), Office of Inspector General (.gov) 
+Rechazada por la revisión: Illegal Alien from the Dominican Republic Pleads Guilty to SNAP Fraud and MassHealth Benefit Fraud -> cifras que no aparecen en las fuentes: 72000
 [Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 1157 letras -> https://do.usembassy.gov/rfq-19dr8627q0002-ofv-3pl-vehicle-insurance/
 Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): RFQ 19DR8627Q0002 OFV 3PL Vehicle Insurance
-No se pudo bajar la página: <HTTPError 405: 'Not Allowed'>
-[Dominicanos en EE.UU.] OSAC (.gov): texto leído 0 letras -> https://www.osac.gov/Content/Report/c13046ca-d361-43a9-97df-2b7e2877891d
-No se pudo leer el artículo; no se publica para no salir corta: Working Together to Protect U.S. Organizations Overseas
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1837 letras -> https://elnacional.com.do/mundo/dominicanos-nyc-condenan-agresion-envejeciente-activista-politico-new-hampshire_585438.html
+Revisión: corregida (quité "Dominicanos en Nueva York" del titular y gancho por no estar en las fuentes como respuesta de la comun
 [Internacionales] The White House (.gov): texto leído 2943 letras -> https://www.whitehouse.gov/find-your-polling-place/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Find Your Polling Place
 [Internacionales] The White House (.gov): texto leído 2400 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Is Powering an American Manufacturing Renaissance
+Rechazada por la revisión: President Trump Is Powering an American Manufacturing Renaissance -> cifras que no aparecen en las fuentes: 1000, 3000, 4000
 [Internacionales] The White House (.gov): texto leído 574 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law
+[Famosos] El Nacional — La voz de todos: texto leído 3103 letras -> https://elnacional.com.do/fama-y-vida/farandula/georgina-duluc-extrano-respeto-le-debe-generacion-paso-te-imaginas_585427_amp.html
+Revisión: corregida (quité "cabe destacar"-tipo relleno no había; ajusté "mucho más que una participación" a "algo más que una par
 [Famosos] El Dia.com.do: texto leído 3246 letras -> https://eldia.com.do/premios-la-silla-2026-reconocen-diversidad-del-cine-dominicano/
 No encaja en ninguna sección, se salta: Premios La Silla 2026 reconocen diversidad del cine dominicano
-[Famosos] Listín Diario: texto leído 4540 letras -> https://listindiario.com/entretenimiento/redes-sociales/20261105/misael-bonel-tiktok-construir-camino-cine-entretenimiento-dominicano_928939.html
-Rechazada por la revisión: Misael Bonel: de TikTok a construir su camino en el cine y el entretenimiento dominicano -> cifras que no aparecen en las fuentes: 10000, 50000
 Fuente no confiable, se salta: lateja.cr
-Fuente no confiable, se salta: elaragueno.com.ve
-Fuente no confiable, se salta: proceso.hn
-[Famosos] Diario Libre: texto leído 3351 letras -> https://www.diariolibre.com/revista/sociales/2026/11/04/phd-dominicana-explora-el-futuro-de-los-negocios-y-la-ia/3710737
-La IA la descartó (no es noticia, rumor, opinión o publicidad): PHD Dominicana reunió a expertos para explorar el futuro de la comunicación
-Fuente no confiable, se salta: masvip.com.do
-[Famosos] El Nacional — La voz de todos: texto leído 3175 letras -> https://elnacional.com.do/fama-y-vida/socio-estrategico-de-youtube-impulsa-alofoke_571179.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Empresa británica respalda crecimiento orgánico de Alofoke en YouTube
-Fuente no confiable, se salta: masvip.com.do
-Fuente no confiable, se salta: masvip.com.do
-Fuente no confiable, se salta: masvip.com.do
-[Famosos] De Último Minuto: texto leído 1750 letras -> https://deultimominuto.com/nacionales/joven-se-entrega-a-la-policia-2/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es una nota de un solo medio, sin fuente oficial que confirme los hechos, y su contenido se basa en declaraciones del propio joven y en un procedimiento que el medio docume')
-Fuente no confiable, se salta: bavarodigital.net
-[Famosos] De Último Minuto: texto leído 2847 letras -> https://deultimominuto.com/entretenimiento/michael-flores-habla-de-su/
-Revisión: corregida (se quitó "confirmó" del gancho porque la fuente no dice que confirmara oficialmente; se atribuyó la informaci
-[Deportes] Lidom: texto leído 1363 letras -> https://lidom.com/aguilas-cibaenas/las-aguilas-anuncian-el-regreso-del-infielder-robert-moore-98847.html
-Revisión: corregida (Se cambió "Robert Moore... la segunda parte" en GANCHO/IMPORTA/español sin cambios de fondo; se corrigió "el 
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851564?ins=vivo&sec=boxscore
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-estrellas-vs-aguilas-251267
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Aguilas Cibaenas
-[Deportes] Lidom: texto leído 2396 letras -> https://lidom.com/leones-del-escogido/santiago-admite-preocupacion-por-los-abridores-pese-a-racha-de-nueve-triunfos-98877.html
-Revisión: corregida (eliminé "En entrevista con Lidom.com" en la línea de la conversación sobre distribución de oportunidades, que
+[Famosos] El Nuevo Día: texto leído 2830 letras -> https://www.elnuevodia.com/entretenimiento/peliculas-series/notas/residente-anuncia-el-fin-del-rodaje-de-porto-rico-en-republica-dominicana/
+Revisión: corregida (Corregí "miércoles" por "ayer"/jueves según la fuente: el rodaje culminó "ayer" y la nota es del jueves 5 de 
+[Deportes] Lidom: texto leído 2469 letras -> https://lidom.com/estrellas-orientales/trevor-bauer-describe-su-debut-en-lidom-98856.html
+Revisión: corregida (eliminé "Según sus palabras" y "cerca de lo deseado" por parafraseo sin soporte literal; ajusté "Liberato" a 
+[Deportes] Lidom: texto leído 2965 letras -> https://lidom.com/tigres-del-licey/bonifacio-asume-su-nueva-etapa-en-el-licey-sin-renunciar-al-liderazgo-98862.html
+Revisión: corregida (la fuente dice "Lidom.com" como medio de la entrevista pero en realidad la entrevista fue de Luis Tomás Rae p
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 981 letras -> https://micm.gob.do/transparencia/base-legal-de-la-institucion/category/resoluciones-2026/16
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-[Precios y combustibles] N Digital: texto leído 3671 letras -> https://n.com.do/2026/11/04/gobierno-evalua-focalizar-subsidios-combustibles-rd/
-[Precios y combustibles] AlMomento.net: texto leído 4594 letras -> https://almomento.net/gobierno-analiza-focalizar-subsidios-a-los-combustibles/
-[Precios y combustibles] Acento: texto leído 4234 letras -> https://acento.com.do/economia/gobierno-no-descarta-focalizar-subsidios-a-combustibles-ante-aumento-de-costos-de-refinacion-9784072.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno evalúa focalizar subsidios a combustibles ante presión de precios internacionales
-Revisión: corregida (Quité el relleno "La discusión sobre la focalización de los subsidios continúa abierta" y "Las versiones cons
+[Precios y combustibles] Banco Central de la República Dominicana: texto leído 75 letras -> https://www.bancentral.gov.do/a/CustomView/6048-ficha-tecnica?auxiliarParam=276
+No se pudo leer el artículo; no se publica para no salir corta: Banco Central de la República Dominicana
 Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: revistamercado.do
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] Periódico elDinero: texto leído 0 letras -> https://eldinero.com.do/387294/cuanto-costarian-los-combustibles-sin-el-subsidio-del-gobierno-dominicano/
-No se pudo leer el artículo; no se publica para no salir corta: ¿Cuánto costarían los combustibles sin subsidio en RD?
+[Precios y combustibles] Acento: texto leído 6590 letras -> https://acento.com.do/economia/el-dolar-se-mueve-mas-porque-el-mercado-ya-camina-solo-9784227.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El dólar se mueve más porque el mercado ya camina solo
+[Videojuegos] Nintendo: texto leído 965 letras -> https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-40th-anniversary-pin-set-129838/
+[Videojuegos] MARCA: texto leído 7000 letras -> https://www.marca.com/videojuegos/juegos/2026/11/04/cronologia-the-legend-of-zelda-orden-jugar-todos-juegos-saga-remake-ocarina-of-time.html
+Fuente oficial encontrada: Nintendo | para completar: MARCA
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl material de origen no es una noticia concreta: la Versión 1 es una página de producto de la tienda de Nintendo (un set de pines de edición especial, promocional) y la Versión 2 es un')
 [Videojuegos] Nintendo: texto leído 1795 letras -> https://www.nintendo.com/us/store/products/final-fantasy-xiv-evercold-digital-collectors-edition-70070000041403-switch-2/
 [Videojuegos] XBOX: texto leído 2958 letras -> https://www.xbox.com/en-GB/games/store/pre-order-final-fantasy-xiv-evercold-collectors-edition/9nv5lkx2g0qb
 [Videojuegos] PlayStation Store: texto leído 4288 letras -> https://store.playstation.com/en-tr/product/EP0082-PPSA02955_00-C0EC6SET00000000
@@ -108,14 +80,10 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): FINAL FANTASY 
 [Videojuegos] Nintendo: texto leído 1304 letras -> https://www.nintendo.com/us/store/products/boomerang-fu-street-food-dlc-70050000082081-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Boomerang Fu - Street Food DLC
-[Videojuegos] Nintendo: texto leído 1658 letras -> https://www.nintendo.com/us/store/products/godzilla-destroy-all-monsters-melee-remastered-digital-deluxe-edition-switch/
-[Videojuegos] PlayStation Store: texto leído 2263 letras -> https://store.playstation.com/es-mx/concept/10018112
-[Videojuegos] XBOX: texto leído 1171 letras -> https://www.xbox.com/en-au/games/store/godzilla-destroy-all-monsters-melee-remastered-digital-deluxe-edition/9nwprlqbj2t6
-[Videojuegos] Infobae: texto leído 4636 letras -> https://www.infobae.com/malditos-nerds/2026/11/04/atari-estrena-godzilla-destroy-all-monsters-melee-remastered-en-consolas-y-pc/
-Fuente oficial encontrada: Nintendo, PlayStation Store, XBOX | para completar: Infobae
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo generar esta noticia tal como está planteada. Las versiones que me pasaste corresponden a fichas de tienda de consolas (Nintendo, PlayStation Store, Xbox) y a un artículo de Infoba')
 Traducidas al inglés: 1 (quedan 0 por traducir)
-Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
+Consejo del día (divisas): Cuida tu dinero en cada cambio
+Marcadores: 34 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
 11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 42 · ya cubiertas: 6 · no confiables: 10 · opinión: 0 · con texto leído: 39 · sin texto: 6 · medios juntados: 5 · con fuente oficial: 20 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 16 · cambiadas de sección: 4 · largas: 7 · ocultas (cortas): 4
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 27 · ya cubiertas: 2 · no confiables: 2 · opinión: 0 · con texto leído: 34 · sin texto: 3 · medios juntados: 4 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 4 · error IA: 1 · descartadas por la IA: 9 · cambiadas de sección: 1 · largas: 9 · ocultas (cortas): 1
+Para Instagram (tendencia 1): Dólar hoy en RD: dónde cambiar y dónde conviene vender
