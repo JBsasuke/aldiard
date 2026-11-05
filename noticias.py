@@ -50,6 +50,12 @@ FUENTES_FAMOSOS = [gnews(q) for q in (
 FUENTES_PRECIOS = [gnews(q) for q in (
     "precios combustibles República Dominicana", "precio gasolina gasoil GLP semana MICM",
     "precio del dólar hoy República Dominicana", "precios canasta básica República Dominicana")]
+# Deportes: RD primero (pelota invernal, peloteros dominicanos), después lo más visto (MLB, NBA, NFL, fútbol)
+FUENTES_DEPORTES = [gnews(q) for q in (
+    "LIDOM pelota invernal", "Licey Águilas Escogido Estrellas Toros Gigantes", "peloteros dominicanos Grandes Ligas",
+    "site:listindiario.com deportes", "site:diariolibre.com deportes", "site:elcaribe.com.do deportes",
+    "Grandes Ligas MLB", "NBA noticias", "NFL noticias", "Champions League", "LaLiga Real Madrid Barcelona",
+    "selección dominicana", "site:espn.com/espn/espanol OR site:espndeportes.espn.com", "boxeo dominicano")]
 FUENTES_JUEGOS = [gnews(q) for q in (
     "GTA 6", "videojuegos lanzamiento", "PlayStation 5 juegos", "Nintendo Switch 2", "Xbox juegos")]
 
@@ -58,6 +64,9 @@ PRIORIDAD_RD = [gnews("site:presidencia.gob.do"), gnews("site:gob.do"), gnews("s
                 "https://deultimominuto.com/feed/", gnews("site:deultimominuto.com")]
 PRIORIDAD_USA = [gnews("dominicanos site:gov"), gnews("dominicanos site:gob.do"), gnews_en("Dominican site:gov")]
 PRIORIDAD_PRECIOS = [gnews("site:micm.gob.do"), gnews("site:bancentral.gov.do"), gnews("site:proconsumidor.gob.do")]
+# fuentes oficiales primero (ligas y equipos); si no hay, los periódicos de siempre
+PRIORIDAD_DEPORTES = [gnews("site:lidom.com"), gnews("site:mlb.com/es"), gnews("site:mlb.com LIDOM OR dominicano"),
+                      gnews_en("site:mlb.com"), gnews_en("site:nba.com"), gnews("site:fedofutbol.org OR site:miderec.gob.do")]
 PRIORIDAD_JUEGOS = [gnews_en("site:nintendo.com"), gnews_en("site:blog.playstation.com"), gnews_en("site:news.xbox.com"),
                     gnews_en("site:rockstargames.com"), gnews("site:nintendo.com")]
 NOMBRES_MEDIOS = {"deultimominuto.com": "De Último Minuto", "deultimominuto.net": "De Último Minuto"}
@@ -65,6 +74,7 @@ NOMBRES_MEDIOS = {"deultimominuto.com": "De Último Minuto", "deultimominuto.net
 SEC_RD, SEC_USA = "República Dominicana", "Dominicanos en EE.UU."
 SEC_INTER, SEC_FAMOSOS = "Internacionales", "Famosos"
 SEC_PRECIOS, SEC_JUEGOS = "Precios y combustibles", "Videojuegos"
+SEC_DEPORTES = "Deportes"
 # sección: (fuentes, máximo de noticias nuevas por corrida, clase, color)
 # El programa corre cada hora: estos cupos dan como mucho 7 noticias nuevas por hora
 # (ahora son más largas y cuestan más de IA, por eso son menos).
@@ -73,6 +83,7 @@ SECCIONES = {
     SEC_USA:     (FUENTES_USA,     2, "us", (0, 45, 98)),     # después EE.UU.
     SEC_INTER:   (FUENTES_INTER,   1, "in", (15, 118, 110)),
     SEC_FAMOSOS: (FUENTES_FAMOSOS, 2, "fa", (190, 24, 93)),
+    SEC_DEPORTES: (FUENTES_DEPORTES, 2, "dp", (21, 128, 61)),   # deportes todos los días
     SEC_PRECIOS: (FUENTES_PRECIOS, 1, "pr", (180, 83, 9)),
     SEC_JUEGOS:  (FUENTES_JUEGOS,  1, "vj", (109, 40, 217)),
 }
@@ -100,10 +111,14 @@ tvnotas.com.mx eonline.com rollingstone.com lecturas.com
 sportingnews.com laprensagrafica.com es.gizmodo.com gizmodo.com fayerwayer.com pokemon.com 3djuegos.com.mx
 ign.com latam.ign.com 3djuegos.com vandal.elespanol.com vandal.net hobbyconsolas.com xataka.com
 as.com levelup.com eurogamer.es gamespot.com nintendo.com playstation.com xbox.com
+espn.com espndeportes.espn.com mlb.com nba.com nfl.com lidom.com marca.com mundodeportivo.com sport.es fifa.com
+uefa.com fedofutbol.org miderec.gob.do beisbolporlaradio.com
 """.split()
 MAX_GUARDADAS = 400
 HORAS_IG = 12           # una noticia más vieja que esto ya no se sube a Instagram
-HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el consejo del día
+IG_DESDE, IG_HASTA = 7, 23   # Instagram: una publicación por hora, de 7:00 a. m. a 11:00 p. m. (hora RD)
+HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el primer consejo del día (el tema en tendencia)
+HORA_CONSEJO_2 = 15     # a las 3 p. m. sale el segundo, del otro tema: así cada día hay de Divisas RD y de KiloClaro
 TENDENCIA_HISTORIA = 3  # si 3 medios o más hablan de la noticia, también va a historias
 MAX_HISTORIAS_DIA = 8   # tope de historias de noticias por día
 
@@ -418,6 +433,8 @@ publicadas por medios distintos. Escribe UNA sola noticia nuestra con estas regl
   Internacionales (Estados Unidos y los países que hablan español; de otros países solo lo muy importante,
   como guerras, catástrofes o grandes noticias mundiales) · Precios y combustibles (precios, combustibles, dólar, canasta básica) ·
   Videojuegos (juegos, consolas, estudios de videojuegos) ·
+  Deportes (béisbol, LIDOM, Grandes Ligas, peloteros dominicanos, NBA, NFL, fútbol, boxeo, atletas dominicanos y
+  cualquier otro deporte; una noticia de un atleta va en Deportes aunque sea famoso) ·
   Famosos (SOLO personas famosas: artistas, cantantes, actores, cine, series, Hollywood, farándula, influencers y
   personalidades conocidas, por su vida, su carrera o sus polémicas; si una persona famosa, como el dueño de una gran
   empresa, sale por algo personal, sí es Famosos; pero si la noticia trata de una empresa, un producto, la política
@@ -652,6 +669,7 @@ SITIOS_OFICIALES = {
     SEC_RD: "site:gob.do OR site:gov.do", SEC_PRECIOS: "site:gob.do OR site:gov.do",
     SEC_USA: "site:gov OR site:gob.do OR site:gov.do",
     SEC_INTER: "site:gov OR site:gob.mx OR site:gob.es OR site:gov.co OR site:pr.gov OR site:un.org OR site:who.int",
+    SEC_DEPORTES: "site:lidom.com OR site:mlb.com OR site:nba.com OR site:nfl.com OR site:uefa.com OR site:fifa.com",
     SEC_JUEGOS: "site:nintendo.com OR site:playstation.com OR site:xbox.com OR site:rockstargames.com OR site:ea.com OR site:ubisoft.com",
 }
 
@@ -664,7 +682,7 @@ def otras_versiones(titulo, dom_principal, vistos, seccion=None):
     busquedas = []
     if seccion in SITIOS_OFICIALES:
         consulta = " ".join(claves) + " (" + SITIOS_OFICIALES[seccion] + ")"
-        busquedas += [gnews(consulta), gnews_en(consulta)] if seccion in (SEC_INTER, SEC_JUEGOS, SEC_USA) else [gnews(consulta)]
+        busquedas += [gnews(consulta), gnews_en(consulta)] if seccion in (SEC_INTER, SEC_JUEGOS, SEC_USA, SEC_DEPORTES) else [gnews(consulta)]
     busquedas.append(gnews(" ".join(claves)))
     entradas = [e for b in busquedas for e in feedparser.parse(b).entries[:12]]
     for e in entradas:
@@ -699,7 +717,7 @@ def buscar(guardadas):
         de_esta, intentos = 0, 0
         prioridad = {SEC_RD: PRIORIDAD_RD, SEC_USA: PRIORIDAD_USA, SEC_INTER: PRIORIDAD_INTER,
                      SEC_FAMOSOS: PRIORIDAD_FAMOSOS, SEC_PRECIOS: PRIORIDAD_PRECIOS,
-                     SEC_JUEGOS: PRIORIDAD_JUEGOS}.get(seccion, [])
+                     SEC_JUEGOS: PRIORIDAD_JUEGOS, SEC_DEPORTES: PRIORIDAD_DEPORTES}.get(seccion, [])
         orden = prioridad + rotar(fuentes)
         for url in orden:
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
@@ -1221,6 +1239,10 @@ def elegir_para_instagram(todas):
     for n in todas:  # lo que quedó pendiente vuelve a competir
         if n.get("ig") == "pendiente":
             n["ig"] = None
+    hora_rd = ahora().astimezone(HORA_RD).hour
+    if not (IG_DESDE <= hora_rd < IG_HASTA):
+        print(f"Instagram: de madrugada no se publica (solo de {IG_DESDE}:00 a {IG_HASTA}:00, hora RD).")
+        return None
     limite = ahora() - timedelta(hours=HORAS_IG)
     pool = [n for n in visibles(todas) if n.get("ig") in (None, "") and n.get("id")
             and fecha(n) > limite and n.get("ig_intentos", 0) < 3
@@ -1262,7 +1284,7 @@ def limpiar_imagenes(todas, consejos):
                  if n.get("ig_img") and (fecha(n) > limite or n.get("ig") == "pendiente")}
     se_quedan |= {n.get("historia_img") for n in todas
                   if n.get("historia_img") and (fecha(n) > limite or n.get("historia") == "pendiente")}
-    se_quedan |= {c.get("ig_img") for c in consejos[-3:]} | {c.get("historia_img") for c in consejos[-3:]}
+    se_quedan |= {c.get("ig_img") for c in consejos[-4:]} | {c.get("historia_img") for c in consejos[-4:]}
     for archivo in os.listdir("docs/ig"):
         if "ig/" + archivo not in se_quedan:
             os.remove(os.path.join("docs/ig", archivo))
@@ -1308,9 +1330,12 @@ def escribir_consejo(tema, titulares):
 def consejo_del_dia(todas, consejos):
     ahora_rd = ahora().astimezone(HORA_RD)
     hoy = ahora_rd.date().isoformat()
-    if any(c["fecha"] == hoy for c in consejos) or ahora_rd.hour < HORA_CONSEJO:
+    de_hoy = [c for c in consejos if c["fecha"] == hoy]
+    if ahora_rd.hour < HORA_CONSEJO or len(de_hoy) >= 2 or (de_hoy and ahora_rd.hour < HORA_CONSEJO_2):
         return None
     tema, del_dia = tema_del_dia(todas, consejos, hoy)
+    if de_hoy:  # el segundo del día es del otro tema
+        tema = "kiloclaro" if de_hoy[0]["tema"] == "divisas" else "divisas"
     patron = TEMA_DIVISAS if tema == "divisas" else TEMA_LUZ
     titulares = [n["titulo"] for n in del_dia if re.search(patron, texto_de(n))] or [n["titulo"] for n in del_dia]
     try:
@@ -1326,11 +1351,12 @@ def consejo_del_dia(todas, consejos):
          "boton": "Mira la tasa en vivo" if tema == "divisas" else "Calcula tu factura"}
     os.makedirs("docs/ig", exist_ok=True)
     try:
-        imagen_consejo(c, f"docs/ig/consejo-{hoy}.jpg")
-        c["ig"], c["ig_img"] = "pendiente", f"ig/consejo-{hoy}.jpg"
-        imagen_historia(f"docs/ig/consejo-{hoy}.jpg", f"docs/ig/consejo-{hoy}-h.jpg",
+        base = f"consejo-{hoy}-{tema}"
+        imagen_consejo(c, f"docs/ig/{base}.jpg")
+        c["ig"], c["ig_img"] = "pendiente", f"ig/{base}.jpg"
+        imagen_historia(f"docs/ig/{base}.jpg", f"docs/ig/{base}-h.jpg",
                         "CONSEJO DEL DÍA", "Visita " + c["sitio"])
-        c["historia"], c["historia_img"] = "pendiente", f"ig/consejo-{hoy}-h.jpg"
+        c["historia"], c["historia_img"] = "pendiente", f"ig/{base}-h.jpg"
     except Exception as err:
         print("Error imagen consejo:", err)
     consejos.append(c)
@@ -1338,11 +1364,11 @@ def consejo_del_dia(todas, consejos):
     return c
 
 # ================= Página web =================
-CSS = r""":root{--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
+CSS = r""":root{--verde:#15803d;--azul:#002d62;--rojo:#ce1126;--ambar:#b45309;--morado:#6d28d9;--rosa:#be185d;--verdeazul:#0f766e;--tinta:#141821;--gris:#5a6270;--linea:#e3e6ec;--fondo:#f5f6f8;--blanco:#fff;
  --enlace:#002d62;--texto2:#353b47;--extra-t:#0f5132;--extra-f:#e8f5ee;--extra-b:#cde9d9;--pie:#002d62;color-scheme:light}
-@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}}
-:root[data-theme=dark]{--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
+:root[data-theme=dark]{--verde:#4ade80;--rojo:#ff5c6c;--ambar:#f59e0b;--morado:#a78bfa;--rosa:#f472b6;--verdeazul:#2dd4bf;--tinta:#e7eaf0;--gris:#9aa3b2;--linea:#2a3142;--fondo:#0e1117;--blanco:#171c26;
  --enlace:#8ab4f8;--texto2:#c3c9d4;--extra-t:#86efac;--extra-f:#12301f;--extra-b:#1f4d33;--pie:#0a0f1a;color-scheme:dark}
 *{box-sizing:border-box}
 body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--fondo);color:var(--tinta);-webkit-font-smoothing:antialiased}
@@ -1372,6 +1398,24 @@ main{max-width:1100px;margin:auto;padding:20px 16px 40px}
 .nota.us{border-top-color:var(--enlace)} .us .chip{color:var(--enlace)}
 .nota.pr{border-top-color:var(--ambar)} .pr .chip{color:var(--ambar)}
 .nota.vj{border-top-color:var(--morado)} .vj .chip{color:var(--morado)}
+.nota.dp{border-top-color:var(--verde)} .dp .chip{color:var(--verde)} .articulo.dp{border-top-color:var(--verde)} .articulo.dp .chip{color:var(--verde)}
+.marcadores{background:var(--blanco);border:1px solid var(--linea);border-radius:14px;padding:14px 16px;margin:0 0 18px;border-top:4px solid var(--verde)}
+.marcadores.oculta-m{display:none}
+.mcab{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.mcab h2{margin:0;font-size:17px;font-weight:800}.mcab a{font-size:14px;font-weight:700;color:var(--enlace);text-decoration:none}
+.juegos{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.juegos.fila{display:flex;overflow-x:auto;scrollbar-width:thin;padding-bottom:4px}.juegos.fila .juego{flex:0 0 210px}
+.juego{border:1px solid var(--linea);border-radius:12px;padding:10px 12px;background:var(--fondo)}
+.juego.envivo{border-color:var(--rojo)}
+.est{font-size:12.5px;font-weight:700;color:var(--gris);margin-bottom:6px;display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.est small{font-weight:600;margin-left:auto}
+.envivo .est{color:var(--rojo)}.est i{width:8px;height:8px;border-radius:50%;background:var(--rojo);display:inline-block;animation:late 1.2s infinite}
+@keyframes late{50%{opacity:.25}}@media (prefers-reduced-motion:reduce){.est i{animation:none}}
+.eq{display:flex;align-items:center;gap:8px;padding:3px 0;font-size:15px}.eq img{width:22px;height:22px;object-fit:contain}
+.eq span{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.eq b{font-size:17px;font-variant-numeric:tabular-nums}
+.eq.gana span,.eq.gana b{font-weight:800}
+.liga{font-size:18px;margin:22px 0 10px;font-weight:800}.liga:first-child{margin-top:0}
+.sinjuegos{color:var(--gris);text-align:center;padding:30px 0}
 .nota.fa{border-top-color:var(--rosa)} .fa .chip{color:var(--rosa)}
 .nota.in{border-top-color:var(--verdeazul)} .in .chip{color:var(--verdeazul)}
 .nota h2{margin:0;font-size:19px;line-height:1.3;font-weight:800;letter-spacing:-.01em}
@@ -1465,6 +1509,87 @@ btn.onclick=function(){var t=oscuro()?'light':'dark';raiz.dataset.theme=t;try{lo
 document.querySelectorAll('.idioma').forEach(function(a){a.onclick=function(){try{localStorage.setItem('idioma',a.dataset.lang)}catch(e){}}});
 """
 
+JS_MARCADORES = r"""// ===== Marcadores en vivo (LIDOM y béisbol de MLB + NBA, NFL y fútbol de ESPN) =====
+// Se piden desde el navegador de cada visitante; se actualizan solos cada 30 s si hay juegos en vivo.
+(function(){
+var caja=document.getElementById('marcadores'); if(!caja) return;
+var EN=document.documentElement.lang==='en', COMPLETO=caja.dataset.completo==='1';
+var LIDOM=/licey|escogido|[aá]guilas|cibae|estrellas|toros|gigantes/i;
+var ESPN=[['NBA','basketball/nba'],['NFL','football/nfl'],['Champions League','soccer/uefa.champions'],
+ ['LaLiga','soccer/esp.1'],['Premier League','soccer/eng.1'],['Liga MX','soccer/mex.1'],['MLS','soccer/usa.1']];
+var ORDEN=['LIDOM','MLB','NBA','NFL','Champions League','LaLiga','Premier League','Liga MX','MLS','Ligas invernales'];
+var TX=EN?{vivo:'LIVE',final:'Final',pos:'Postponed',sus:'Suspended',med:'Halftime',alta:'Top',baja:'Bot',mit:'Mid',fin:'End',
+  nada:'No games today in these leagues.',err:'Scores could not be loaded. Trying again soon.',mlb:'MLB',inv:'Winter leagues'}
+ :{vivo:'EN VIVO',final:'Final',pos:'Pospuesto',sus:'Suspendido',med:'Medio tiempo',alta:'Alta',baja:'Baja',mit:'Mitad',fin:'Fin',
+  nada:'Hoy no hay juegos en estas ligas.',err:'No se pudieron cargar los marcadores. Se intenta de nuevo en un rato.',mlb:'Grandes Ligas',inv:'Ligas invernales'};
+function hoyRD(){return new Date().toLocaleDateString('en-CA',{timeZone:'America/Santo_Domingo'})}
+function hora(iso){return new Date(iso).toLocaleTimeString(EN?'en-US':'es-DO',{hour:'numeric',minute:'2-digit',timeZone:'America/Santo_Domingo'}).replace(/\s/g,' ')+(EN?' (DR time)':'')}
+function pedir(url){var c=new AbortController();setTimeout(function(){c.abort()},9000);
+ return fetch(url,{signal:c.signal,cache:'no-store'}).then(function(r){if(!r.ok)throw r.status;return r.json()})}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function ordinal(n){return EN?n+(n==1?'st':n==2?'nd':n==3?'rd':'th'):n+'.º'}
+
+function beisbol(){
+ return pedir('https://statsapi.mlb.com/api/v1/schedule?sportId=1,17&date='+hoyRD()+'&hydrate=linescore,team(league)').then(function(j){
+  var out=[];(j.dates||[]).forEach(function(d){(d.games||[]).forEach(function(g){
+   var h=g.teams.home,a=g.teams.away,ls=g.linescore||{},st=g.status||{},liga;
+   var ln=((h.team.league||{}).name||'')+' '+h.team.name+' '+a.team.name;
+   if(g.sportId===1||((h.team.sport||{}).id===1))liga='MLB';else if(/dominic/i.test(ln)||LIDOM.test(h.team.name)&&LIDOM.test(a.team.name))liga='LIDOM';else liga='Ligas invernales';
+   var estado,vivo=false,ds=st.detailedState||'';
+   if(st.abstractGameState==='Live'){vivo=true;var p={Top:TX.alta,Bottom:TX.baja,Middle:TX.mit,End:TX.fin}[ls.inningState]||'';
+    estado=ls.currentInning?(p+' '+ordinal(ls.currentInning)+(EN?'':' inning')):TX.vivo;}
+   else if(st.abstractGameState==='Final')estado=/postpon/i.test(ds)?TX.pos:/suspend/i.test(ds)?TX.sus:TX.final+((ls.currentInning&&ls.currentInning!==9)?' ('+ls.currentInning+')':'');
+   else estado=/postpon/i.test(ds)?TX.pos:hora(g.gameDate);
+   var r=function(t,x){return{n:t.team.shortName||t.team.teamName||t.team.name,c:(ls.teams&&ls.teams[x]&&ls.teams[x].runs!=null)?ls.teams[x].runs:(t.score!=null&&st.abstractGameState!=='Preview'?t.score:''),
+    logo:'https://www.mlbstatic.com/team-logos/'+t.team.id+'.svg'}};
+   out.push({liga:liga,vivo:vivo,fin:st.abstractGameState==='Final',fecha:g.gameDate,a:r(a,'away'),h:r(h,'home'),estado:estado});
+  })});return out;});
+}
+function espn(nombre,ruta){
+ return pedir('https://site.api.espn.com/apis/site/v2/sports/'+ruta+'/scoreboard').then(function(j){
+  return (j.events||[]).map(function(e){var c=e.competitions[0],s=c.status||e.status,ty=s.type||{};
+   var eq=function(lado){var t=c.competitors.filter(function(x){return x.homeAway===lado})[0]||{};var tm=t.team||{};
+    return{n:tm.shortDisplayName||tm.displayName||tm.name,c:ty.state==='pre'?'':(t.score||''),logo:tm.logo||''}};
+   var estado;
+   if(ty.state==='in'){
+    if(/HALFTIME/.test(ty.name||''))estado=TX.med;
+    else if(ruta.indexOf('soccer')===0)estado=s.displayClock||TX.vivo;
+    else estado=EN?(ty.shortDetail||TX.vivo):(ordinal(s.period)+' '+(ruta.indexOf('football')===0||ruta.indexOf('basketball')===0?'cuarto':'')+' · '+s.displayClock);
+   }else if(ty.state==='post')estado=/POSTPONED/.test(ty.name||'')?TX.pos:TX.final;
+   else estado=/POSTPONED/.test(ty.name||'')?TX.pos:hora(e.date);
+   return{liga:nombre,vivo:ty.state==='in',fin:ty.state==='post',fecha:e.date,a:eq('away'),h:eq('home'),estado:estado};
+  });
+ });
+}
+function equipo(t,gana){return '<div class="eq'+(gana?' gana':'')+'"><img src="'+esc(t.logo)+'" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'"><span>'+esc(t.n)+'</span><b>'+esc(t.c)+'</b></div>'}
+function juego(g){var na=parseFloat(g.a.c),nh=parseFloat(g.h.c);
+ return '<div class="juego'+(g.vivo?' envivo':'')+'"><div class="est">'+(g.vivo?'<i></i>'+TX.vivo+' · ':'')+esc(g.estado)+(COMPLETO?'':' <small>'+esc(g.liga==='MLB'?TX.mlb:g.liga==='Ligas invernales'?TX.inv:g.liga)+'</small>')+'</div>'
+  +equipo(g.a,g.fin&&na>nh)+equipo(g.h,g.fin&&nh>na)+'</div>'}
+var timer;
+function cargar(){
+ Promise.allSettled([beisbol()].concat(ESPN.map(function(x){return espn(x[0],x[1])}))).then(function(rs){
+  var todos=[],fallas=0;rs.forEach(function(r){if(r.status==='fulfilled')todos=todos.concat(r.value);else fallas++});
+  var rango=function(g){return g.vivo?0:!g.fin?1:2};
+  todos.sort(function(x,y){return rango(x)-rango(y)||ORDEN.indexOf(x.liga)-ORDEN.indexOf(y.liga)||(x.fecha<y.fecha?-1:1)});
+  var html='';
+  if(COMPLETO){
+   ORDEN.forEach(function(l){var gs=todos.filter(function(g){return g.liga===l});if(!gs.length)return;
+    html+='<h2 class="liga">'+esc(l==='MLB'?TX.mlb:l==='Ligas invernales'?TX.inv:l)+'</h2><div class="juegos">'+gs.map(juego).join('')+'</div>'});
+   if(!html)html='<p class="sinjuegos">'+(fallas===rs.length?TX.err:TX.nada)+'</p>';
+   caja.innerHTML=html;
+  }else{
+   var vis=todos.filter(function(g){return g.vivo||!g.fin||(Date.now()-new Date(g.fecha))<12*3600e3}).slice(0,10);
+   if(!vis.length){caja.closest('.marcadores').classList.add('oculta-m');}
+   else{caja.closest('.marcadores').classList.remove('oculta-m');caja.innerHTML='<div class="juegos fila">'+vis.map(juego).join('')+'</div>';}
+  }
+  clearTimeout(timer);timer=setTimeout(cargar,todos.some(function(g){return g.vivo})?30000:300000);
+ });
+}
+cargar();
+document.addEventListener('visibilitychange',function(){if(!document.hidden)cargar()});
+})();
+"""
+
 JS_PORTADA = r"""var EN=document.documentElement.lang==='en';
 var hoy=new Date().toLocaleDateString(EN?'en-US':'es-DO',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
 document.getElementById('hoy').textContent=hoy.charAt(0).toUpperCase()+hoy.slice(1);
@@ -1479,6 +1604,7 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
  document.querySelectorAll('nav button').forEach(function(x){x.setAttribute('aria-pressed',x===b)});
  document.querySelectorAll('.nota').forEach(function(n){n.classList.toggle('oculta',b.dataset.f!=='todas'&&n.dataset.sec!==b.dataset.f)});
  var c=document.querySelector('.consejo'); if(c)c.classList.toggle('oculta',b.dataset.f!=='todas');
+ var m=document.querySelector('.marcadores'); if(m)m.classList.toggle('oculta',b.dataset.f!=='todas'&&b.dataset.f!=='dp');
  window.scrollTo({top:0,behavior:suave});  // al escoger una sección, se ven sus noticias desde arriba
 }});
 // Flechita para volver arriba: sale cuando bajas un poco
@@ -1491,7 +1617,8 @@ document.querySelectorAll('nav button').forEach(function(b){b.onclick=function()
 
 # ---- Textos de la página en los dos idiomas ----
 SECCIONES_EN = {SEC_RD: "Dominican Republic", SEC_USA: "Dominicans in the U.S.", SEC_INTER: "International",
-                SEC_FAMOSOS: "Celebrities", SEC_PRECIOS: "Prices & Fuel", SEC_JUEGOS: "Video Games"}
+                SEC_FAMOSOS: "Celebrities", SEC_PRECIOS: "Prices & Fuel", SEC_JUEGOS: "Video Games",
+                SEC_DEPORTES: "Sports"}
 BOTONES_EN = {"Mira la tasa del dólar en vivo": "See the live dollar rate",
               "Mira los precios de combustibles": "See today's fuel prices",
               "Calcula tu factura de luz": "Calculate your power bill",
@@ -1515,6 +1642,9 @@ T = {
            "siguenos": "Síguenos", "tambien": "También", "quienes": "Quiénes somos", "contacto": "Contacto",
            "privacidad": "Política de privacidad", "cambiar": "Read in English", "otro": "EN",
            "guias": "Guías", "guias_tit": "Guías útiles", "guias_todas": "Ver todas las guías →",
+           "marc": "Marcadores en vivo", "marc_todos": "Todos los marcadores →", "marc_tit": "Marcadores en vivo: LIDOM, Grandes Ligas, NBA y fútbol",
+           "marc_desc": "Resultados y juegos en vivo de hoy: pelota invernal dominicana (LIDOM), Grandes Ligas, NBA, NFL y fútbol, actualizados solos.",
+           "marc_nota": "Se actualiza solo cada 30 segundos mientras hay juegos en vivo. Horas en hora de RD. Datos de MLB y ESPN.",
            "tema": "Cambiar entre modo claro y oscuro", "solo_es": ""},
     "en": {"todas": "All", "leer": "Read the full story", "fuente": "Source", "fuentes": "Sources",
            "en": "at", "consejo": "💡 Tip of the day", "vacio": "English news coming soon.",
@@ -1533,6 +1663,9 @@ T = {
            "siguenos": "Follow us", "tambien": "Also", "quienes": "About us", "contacto": "Contact",
            "privacidad": "Privacy policy", "cambiar": "Leer en español", "otro": "ES",
            "guias": "Guides (Spanish)", "guias_tit": "Helpful guides (in Spanish)", "guias_todas": "See all guides →",
+           "marc": "Live scores", "marc_todos": "All scores →", "marc_tit": "Live scores: Dominican League, MLB, NBA and soccer",
+           "marc_desc": "Today's live scores and results: Dominican winter baseball (LIDOM), MLB, NBA, NFL and soccer, updated automatically.",
+           "marc_nota": "Updates every 30 seconds while games are live. Times in Dominican Republic time. Data from MLB and ESPN.",
            "tema": "Switch between light and dark mode", "solo_es": "In Spanish"},
 }
 
@@ -1690,6 +1823,29 @@ def tarjeta(n, lang="es", grande=False):
   <span class="fuente chica">{etiqueta}: {html.escape(nombres_fuentes(n))}</span>
 </article>"""
 
+def bloque_marcadores(lang):
+    t = T[lang]
+    return (f'<section class="marcadores oculta-m" aria-label="{t["marc"]}"><div class="mcab"><h2>🏆 {t["marc"]}</h2>'
+            f'<a href="{"/en" if lang == "en" else ""}/deportes/">{t["marc_todos"]}</a></div><div id="marcadores"></div></section>')
+
+def generar_deportes(lang="es"):
+    """Página de marcadores en vivo: docs/deportes/ y docs/en/deportes/ (los datos los pide el navegador)."""
+    t = T[lang]
+    url = SITIO + ("/en" if lang == "en" else "") + "/deportes/"
+    alterna = SITIO + ("" if lang == "en" else "/en") + "/deportes/"
+    pagina = (cabeza(t["marc_tit"] + " · Al Día RD", t["marc_desc"], url, SITIO + "/img/logo-512.png", lang, alterna)
+              + encabezado(lang, alterna) + f"""
+<main>
+<a class="volver" href="{'/en/' if lang == 'en' else '/'}">{t['volver']}</a>
+<section class="marcadores"><div class="mcab"><h2 style="font-size:24px">🏆 {t['marc']}</h2></div>
+<p style="color:var(--gris);margin:0 0 14px;font-size:14px">{t['marc_nota']}</p>
+<div id="marcadores" data-completo="1"><p class="sinjuegos">…</p></div></section>
+</main>""" + pie(lang) + f"\n<script>\n{JS_TEMA}{JS_PORTADA}{JS_MARCADORES}</script>\n</body></html>")
+    carpeta = "docs/en/deportes" if lang == "en" else "docs/deportes"
+    os.makedirs(carpeta, exist_ok=True)
+    with open(f"{carpeta}/index.html", "w", encoding="utf-8") as f:
+        f.write(pagina)
+
 def generar_portada(todas, consejos, lang="es"):
     t = T[lang]
     hoy = ahora().astimezone(HORA_RD).date().isoformat()
@@ -1715,10 +1871,10 @@ def generar_portada(todas, consejos, lang="es"):
         # arriba, grande: la noticia de RD más reciente (si hay); después todas por orden de llegada
         top = next((n for n in lista[:15] if n["seccion"] == SEC_RD), lista[0])
         resto = [n for n in lista if n is not top]
-        cuerpo = (tarjeta(top, lang, True) + bloque_consejo + '<div class="rejilla">'
+        cuerpo = (tarjeta(top, lang, True) + bloque_marcadores(lang) + bloque_consejo + '<div class="rejilla">'
                   + "".join(tarjeta(n, lang) for n in resto) + "</div>")
     else:
-        cuerpo = bloque_consejo + f"<p class='vacio'>{t['vacio']}</p>"
+        cuerpo = bloque_marcadores(lang) + bloque_consejo + f"<p class='vacio'>{t['vacio']}</p>"
     cuerpo += (f'<section class="guias-portada"><h2>📚 {t["guias_tit"]}</h2>'
                + "".join(f'<a href="/guias/{g["slug"]}/">{html.escape(g["titulo"])}</a>' for g in GUIAS)
                + f'<a href="/guias/"><b>{t["guias_todas"]}</b></a></section>')
@@ -1729,7 +1885,7 @@ def generar_portada(todas, consejos, lang="es"):
     alterna = SITIO + ("/" if lang == "en" else "/en/")
     pagina = (cabeza(t["titulo"], t["desc"], url, SITIO + "/img/logo-512.png", lang, alterna)
               + encabezado(lang, alterna, nav) + f"\n<main>{cuerpo}</main>" + pie(lang)
-              + f"\n<script>\n{JS_TEMA}{JS_PORTADA}</script>\n</body></html>")
+              + f"\n<script>\n{JS_TEMA}{JS_PORTADA}{JS_MARCADORES}</script>\n</body></html>")
     carpeta = "docs/en" if lang == "en" else "docs"
     os.makedirs(carpeta, exist_ok=True)
     with open(f"{carpeta}/index.html", "w", encoding="utf-8") as f:
@@ -1843,10 +1999,78 @@ def generar_guias():
         with open("docs/ads.txt", "w", encoding="utf-8") as f:
             f.write("google.com, " + ADSENSE.replace("ca-", "") + ", DIRECT, f08c47fec0942fa0\n")
 
+FOTOS_HORAS = 48   # en aldiard.com/fotos/ salen las noticias de las últimas 48 horas
+
+def generar_fotos(todas, consejos):
+    """Página para subir a mano a Instagram o X: aldiard.com/fotos/ con la imagen de CADA noticia reciente,
+    su texto listo para copiar y botones para descargar. No sale en Google (noindex) ni en el menú.
+    Las fotos se rehacen en cada corrida y NO se guardan en GitHub (docs/fotos está en .gitignore)."""
+    os.makedirs("docs/fotos", exist_ok=True)
+    limite = ahora() - timedelta(hours=FOTOS_HORAS)
+    recientes = [n for n in visibles(todas) if n.get("id") and fecha(n) > limite][:60]
+    vigentes = set()
+    filas = []
+    for n in recientes:
+        archivo = f"{n['id']}.jpg"
+        ruta = f"docs/fotos/{archivo}"
+        if not os.path.exists(ruta):
+            try:
+                imagen_instagram(n, ruta)
+            except Exception as err:
+                print("Error foto manual:", err)
+                continue
+        vigentes.add(archivo)
+        nota = SITIO + pagina_nota(n)
+        texto = (f"{n['titulo']}\n\n{dato(n, 'gancho', 'es') or n['resumen']}\n\n"
+                 f"📲 Lee la noticia completa en aldiard.com (enlace en la bio)\n{nota}\n\n#AlDiaRD #RepublicaDominicana #Noticias")
+        estado = "✅ Ya salió en Instagram" if n.get("ig_fecha") else "Aún no sale en Instagram"
+        filas.append(f"""<div class="fotoman">
+  <img src="/fotos/{archivo}" alt="" loading="lazy">
+  <div><div class="meta"><span class="chip">{html.escape(n['seccion'])}</span><span class="hora" data-fecha="{n['fecha']}"></span></div>
+  <b>{html.escape(n['titulo'])}</b><small>{estado}</small>
+  <textarea readonly rows="5">{html.escape(texto)}</textarea>
+  <div class="botman"><a class="directo" href="/fotos/{archivo}" download="aldiard-{archivo}">⬇ Descargar foto</a>
+  <button type="button" class="copiar">📋 Copiar texto</button></div></div>
+</div>""")
+    # consejos de hoy (Divisas RD y KiloClaro), si tienen imagen
+    hoy = ahora().astimezone(HORA_RD).date().isoformat()
+    for c in consejos:
+        if c["fecha"] == hoy and c.get("ig_img") and os.path.exists("docs/" + c["ig_img"]):
+            texto = f"{c['titulo']}\n\n{c['texto']}\n\n👉 {c['url']}\n\n#AlDiaRD #Consejos"
+            filas.insert(0, f"""<div class="fotoman"><img src="/{c['ig_img']}" alt="" loading="lazy"><div>
+  <div class="meta"><span class="chip">Consejo del día · {html.escape(c['sitio'])}</span></div><b>{html.escape(c['titulo'])}</b>
+  <textarea readonly rows="4">{html.escape(texto)}</textarea>
+  <div class="botman"><a class="directo" href="/{c['ig_img']}" download>⬇ Descargar foto</a><button type="button" class="copiar">📋 Copiar texto</button></div></div></div>""")
+    for archivo in os.listdir("docs/fotos"):
+        if archivo.endswith(".jpg") and archivo not in vigentes:
+            os.remove(os.path.join("docs/fotos", archivo))
+    css = ("<style>.fotoman{display:grid;grid-template-columns:150px 1fr;gap:14px;background:var(--blanco);border:1px solid var(--linea);"
+           "border-radius:14px;padding:12px;margin-bottom:12px}.fotoman img{width:150px;border-radius:8px}.fotoman b{display:block;margin:4px 0}"
+           ".fotoman small{color:var(--gris)}.fotoman textarea{width:100%;margin-top:8px;font:13px Inter,system-ui,sans-serif;border:1px solid var(--linea);"
+           "border-radius:8px;padding:8px;background:var(--fondo);color:var(--tinta)}.botman{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}"
+           ".botman .copiar{font:700 14px Inter,system-ui,sans-serif;border:1px solid var(--linea);background:var(--blanco);color:var(--tinta);"
+           "border-radius:10px;padding:10px 14px;cursor:pointer}@media(max-width:600px){.fotoman{grid-template-columns:1fr}.fotoman img{width:100%}}</style>")
+    js = ("document.querySelectorAll('.copiar').forEach(function(b){b.onclick=function(){var t=b.closest('.fotoman').querySelector('textarea');"
+          "t.select();(navigator.clipboard?navigator.clipboard.writeText(t.value):Promise.reject()).catch(function(){document.execCommand('copy')});"
+          "b.textContent='✅ Copiado';setTimeout(function(){b.textContent='📋 Copiar texto'},1500)}});")
+    pagina = (cabeza("Fotos para redes · Al Día RD", "Fotos de las noticias para compartir.", SITIO + "/fotos/",
+                     SITIO + "/img/logo-512.png", "es", None, '\n<meta name="robots" content="noindex, nofollow">' + css)
+              + encabezado("es") + f"""
+<main style="max-width:860px">
+<h1 style="margin:0 0 6px">📸 Fotos para subir a mano</h1>
+<p style="color:var(--gris);margin:0 0 16px">Todas las noticias de las últimas {FOTOS_HORAS} horas, con su foto y su texto. Descarga la foto,
+copia el texto y súbela a Instagram o X. Instagram sigue publicando solo de {IG_DESDE}:00 a. m. a {IG_HASTA - 12}:00 p. m.</p>
+{''.join(filas) or '<p class="vacio">Todavía no hay noticias recientes.</p>'}
+</main>""" + pie("es") + f"\n<script>\n{JS_TEMA}{JS_PORTADA}{js}</script>\n</body></html>")
+    with open("docs/fotos/index.html", "w", encoding="utf-8") as f:
+        f.write(pagina)
+    print(f"Fotos para subir a mano: {len(vigentes)} en aldiard.com/fotos/")
+
 def generar_sitemap(todas):
     fijas = ("quienes-somos.html", "contacto.html", "privacidad.html")
     urls = [SITIO + "/", SITIO + "/en/"] + [SITIO + "/" + p for p in fijas] + [SITIO + "/en/" + p for p in fijas]
     urls += [SITIO + "/guias/"] + [SITIO + f"/guias/{g['slug']}/" for g in GUIAS]
+    urls += [SITIO + "/deportes/", SITIO + "/en/deportes/"]
     urls += [SITIO + pagina_nota(n) for n in visibles(todas)]
     urls += [SITIO + pagina_nota(n, "en") for n in visibles(todas) if tiene_en(n)]
     with open("docs/sitemap.xml", "w", encoding="utf-8") as f:
@@ -1858,7 +2082,12 @@ def generar_html(todas, consejos):
     for lang in ("es", "en"):
         generar_portada(todas, consejos, lang)
         generar_notas(todas, lang)
+        generar_deportes(lang)
     generar_guias()
+    try:
+        generar_fotos(todas, consejos)
+    except Exception as err:
+        print("Error en la página de fotos:", err)
     generar_sitemap(todas)
 
 # ================= Principal =================
