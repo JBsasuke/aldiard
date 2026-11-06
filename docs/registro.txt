@@ -1,97 +1,101 @@
-Corrida: 2026-11-05 06:41 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4216 letras -> https://presidencia.gob.do/noticias/prodominicana-promueve-inversiones-y-oportunidades-comerciales-de-la-republica-dominicana
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "Según el Banco Central" y "According to the Central Bank" porque la fuente de esas cifras es la Pres
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2691 letras -> https://www.presidencia.gob.do/noticias/vicepresidenta-raquel-pena-escucha-prioridades-de-escuelas-catolicas-de-santo-domingo-y
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "de su lado" por "por su parte" en redacción natural no fue necesario; cambios reales: quité "quien c
-[República Dominicana] Presidencia de la República Dominicana: texto leído 6736 letras -> https://presidencia.gob.do/noticias/sns-abre-moderna-unidad-de-laparoscopia-y-entrega-equipos-en-san-juan-con-inversion
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se añadió atribución a la institución en el párrafo de beneficios; se quitó "sin trasladarse a hospitales de 
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-[Dominicanos en EE.UU.] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-do
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 7000 letras -> https://jce.gob.do/Noticias/presidente-de-la-jce-destaca-papel-del-registro-civil-en-la-proteccion-de-la-identidad
-Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Presidente de la JCE destaca papel del registro civil en la protección de la identidad
-Revisión: corregida (se corrigió el "de noviembre" en HOOK/GANCHO para que no altere la cita; se añadió la fecha de la declaración
-[Dominicanos en EE.UU.] Senado de la República Dominicana: texto leído 4061 letras -> https://www.senadord.gob.do/senado-recibe-estudiantes-de-secundaria-de-la-provincia-duarte/
-Fuente oficial encontrada: Senado de la República Dominicana 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Senado recibe estudiantes de secundaria de la provincia Duarte
-Revisión: corregida (quité "Iniciativas como esta... algo que también interesa a las familias dominicanas en el país y en el exter
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1472 letras -> https://centralnoticias.gob.do/regresa-todo-hollywood-vol-2-una-noche-de-magia-musica-y-grandes-exitos-del-cine/
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 925 letras -> https://almomento.net/regresa-espectaculo-sinfonico-con-grandes-exitos-del-cine/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: AlMomento.net
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Regresa “Todo Hollywood Vol. 2”, una noche de magia, música y grandes éxitos del cine
-Revisión: corregida (corregido el título en inglés que tenía una comilla de apertura mal ubicada; el resto coincide con las fuente
+Corrida: 2026-11-05 11:28 PM (hora RD)
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/dintel-y-ministerio-publico-ocupan-armas-pertrechos-militares-presuntas-drogas-y-15-camaras-de-vigilancia-en-cinco-allanamientos-en-villa-mella-y-sabana-perdida/
+[República Dominicana] Noticias SIN: texto leído 1835 letras -> https://noticiassin.com/pais/nacional/2026/11/05/dintel-ocupa-armas-drogas-y-15-camaras-en-allanamientos-2164029/
+Revisión: corregida (se cambió "decomisaron" por "incautaron"/"ocupados" según fuentes donde aplica, se quitó "pertrechos militare
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/veinte-anos-de-prision-para-hombre-que-golpeo-a-una-mujer-durante-asalto-a-mano-armada/
+[República Dominicana] Noticias SIN: texto leído 2726 letras -> https://noticiassin.com/pais/justicia/2026/11/05/condenan-a-20-anos-por-asalto-a-mujer-en-jarabacoa-2164341/
+Revisión: corregida (eliminé la atribución errónea a Noticias SIN de datos que también aparecen en la Procuraduría, ajusté "animad
+[República Dominicana] DGII: texto leído 137 letras -> https://dgii.gov.do/rst/indexrst.aspx
+No se pudo leer el artículo; no se publica para no salir corta: Régimen Simplificado de Tributación (RST)
+[República Dominicana] DGII: texto leído 1143 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/si-un-profesor-contratado-cuando-el-porcentje-de-retencion-del-impuesto-sobre-la-renta-era-del-10-a-la-persona-fisica-luego-de-entrar-en-vigencia-la-ley-3026-que-establece-el-15-que-de-retencion-es-la-que-procede-despues-que-dicha-ley-entro-en-vigencia-a-sabienda-que-en-contrato-sigue-vigente/6aecb7d449dac0d96e3b3d8d
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Si un profesor contratado cuando el porcentje de retencion del Impuesto Sobre la Renta era del 10% a la persona fisica, luego de entrar en vigencia la ley 30-26 que establece el 15%, que % de retencion es la que procede despues que dicha ley entro en vig
+[República Dominicana] DGII: texto leído 382 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/facturacin-y-retencin-a-un-arquitecto/6aece49b6703485530b29236
+No se pudo leer el artículo; no se publica para no salir corta: Facturación y retención a un arquitecto
+[República Dominicana] DGII: texto leído 456 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/las-iglesias-deben-tener-implementado-la-facturacin-electrnica/6aeca53bbbb190366aa1dde3
+No se pudo leer el artículo; no se publica para no salir corta: Las Iglesias deben tener implementado la facturación electrónica
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3331666
+No se pudo leer el artículo; no se publica para no salir corta: que nambra a1 Dr. H6ctor Pereyra Arixa, EPrbajador Extraordinario y Plenipotenciario en Braril, como Rapresentante en Misidn Erp
+[República Dominicana] DGII: texto leído 542 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-cambio-de-rgimen-ordinario-a-rst-persona-jurdica/6aeca0cc49dac0d96e38decb
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre cambio de régimen ordinario a RST – Persona jurídica
+[República Dominicana] DGII: texto leído 1797 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/formulario-que-debe-llenarse-para-la-exencion-del-impuesto-de-hipoteca/6aec86a91fe14ca8ac99a692
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): FORMULARIO QUE DEBE LLENARSE PARA LA EXENCION DEL IMPUESTO DE HIPOTECA
+[Dominicanos en EE.UU.] DGCINE: texto leído 2530 letras -> https://dgcine.gob.do/la-esquina-ta-en-candela-une-generaciones-de-talentos-desde-este-jueves-en-todos-los-cines/
+Fuente oficial encontrada: DGCINE 
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: La Esquina ’Ta en Candela une generaciones de talentos desde este jueves en todos los cines
+Revisión: corregida (eliminé "es importante"/"crisis enredada" redundancias menores; ajusté "crisis enredada" a "enredo"; "Reconoc
+[Dominicanos en EE.UU.] En Salud Digital: texto leído 1578 letras -> https://ensaluddigital.gob.do/sns-e-inaipi-realizan-jornadas-de-salud-bucal-en-salcedo-y-villa-tapia/
+Fuente oficial encontrada: En Salud Digital 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: SNS e INAIPI realizan jornadas de salud bucal en Salcedo y Villa Tapia
+Revisión: corregida (se quitó "gratuitas" de IMPORTA/WHY porque las fuentes no dicen que las revisiones sean gratuitas; se cambió 
 [Dominicanos en EE.UU.] U.S. Bureau of Economic Analysis (BEA) (.gov): texto leído 6754 letras -> https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026
 Fuente oficial encontrada: U.S. Bureau of Economic Analysis (BEA) (.gov) 
 Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: U.S. International Trade in Goods and Services, September 2026
-Rechazada por la revisión: U.S. International Trade in Goods and Services, September 2026 -> cifras que no aparecen en las fuentes: 100, 101200, 105000, 105700, 11300, 135900
+Rechazada por la revisión: U.S. International Trade in Goods and Services, September 2026 -> cifras que no aparecen en las fuentes: 100, 101200, 105, 105000, 105700, 11300
 [Dominicanos en EE.UU.] U.S. Embassy and Consulate in Ecuador (.gov): texto leído 7000 letras -> https://ec.usembassy.gov/ecuadorian-politicians-business-executives-and-narcotraffickers-arrested-for-narcotics-importation-and-weapons-offenses/
 [Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-sdny/pr/ecuadorian-politicians-business-executives-and-narcotraffickers-arrested-narcotics
 Fuente oficial encontrada: U.S. Embassy and Consulate in Ecuador (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con la información que me has dado. Solo llegó una versión (la del sitio oficial de la Embajada de EE.UU. en Ecuador) y el texto está cortado justo cuand')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como está planteada. Las versiones que me pasaste son insuficientes: solo hay una fuente oficial (un comunicado de la Embajada de EE.UU. en Ecuador) ')
+[Dominicanos en EE.UU.] U.S. Embassy in Ukraine (.gov): texto leído 1157 letras -> https://ua.usembassy.gov/demonstration-alert-u-s-embassy-kyiv-november-4-2026/
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2692 letras -> https://fr.usembassy.gov/security-alert-security-alert-u-s-embassy-paris-france-november-4-2026/
+Fuente oficial encontrada: U.S. Embassy in Ukraine (.gov), U.S. Embassy & Consulates in France (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Demonstration Alert – U.S. Embassy Kyiv (November 4, 2026
+Revisión: corregida (se cambió "Se prevé una huelga... que afectaría" por "Según el aviso" ya presente; se quitó "en distintas par
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-vi/pr/federal-jury-convicts-dominican-republic-man-illegally-reentering-united-states-after
+No se pudo leer el artículo; no se publica para no salir corta: Federal Jury Convicts Dominican Republic Man of Illegally Reentering the United States after having been Deported
+[Internacionales] The White House (.gov): texto leído 3157 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Fact Sheet: President Donald J. Trump Establishes the Oval Office as a National Monument
 [Internacionales] The White House (.gov): texto leído 1744 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-will-again-defy-the-odds-the-fake-news-and-the-radical-left/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Will Again Defy the Odds, the Fake News, and the Radical Left
-[Internacionales] The White House (.gov): texto leído 1065 letras -> https://www.whitehouse.gov/early-voting/
+[Internacionales] The White House (.gov): texto leído 4703 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/establishment-of-the-oval-office-national-monument/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Vote early. Avoid the wait.
-[Internacionales] The White House (.gov): texto leído 3452 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-nov-4-2026/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Delivers Remarks, Nov. 4, 2026
-[Famosos] Diario Libre: texto leído 5582 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/05/mujeres-deben-denunciar-amenazas-de-muerte-desde-el-extranjero/3710924
-Cambiada de sección: Famosos -> República Dominicana: ¿Cómo denunciar desde República Dominicana las amenazas que una persona sufre desde EE. UU.?
-Revisión: corregida (quité la frase de relleno "Así lo recomendó" no; en realidad corregí: "Según el mismo medio" queda; eliminé "
-[Famosos] El Dia.com.do: texto leído 3554 letras -> https://eldia.com.do/angeline-monegro-figura-nominada-al-lado-de-nashla-bogaert-evelyna-rodriguez-y-judith-rodriguez/
-[Famosos] Diario Libre: texto leído 3455 letras -> https://www.diariolibre.com/amp/revista/cine/2026/11/05/angeline-monegro-nominada-a-mejor-actriz-en-premios-la-silla/3711938
-[Famosos] El Nacional — La voz de todos: texto leído 2686 letras -> https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/cine-dominicano-reconoce-talento-angeline-monegro-logra-nominacion-premios-silla-2026_585479.html
-Revisión: corregida (quité la frase sobre que vive en CDMX de la atribución a El Nacional sin fuente; corregí "Mejor Actriz de Rep
-Fuente no confiable, se salta: extra.ec
-[Famosos] Diario Libre: texto leído 1999 letras -> https://www.diariolibre.com/revista/sociales/2026/11/05/cardnet-entre-los-mayores-adquirentes-de-america/3712183
-Cambiada de sección: Famosos -> República Dominicana: CardNET alcanza el puesto 23 entre los mayores adquirentes de América Latina
-Revisión: corregida (se ajustó "se ubicó" a "se ubicó" sin cambios sustanciales; se eliminó "una firma internacional especializada
-[Famosos] Listín Diario: texto leído 4540 letras -> https://listindiario.com/entretenimiento/redes-sociales/20261105/misael-bonel-tiktok-construir-camino-cine-entretenimiento-dominicano_928939.html
-Rechazada por la revisión: Misael Bonel: de TikTok a construir su camino en el cine y el entretenimiento dominicano -> cifras que no aparecen en las fuentes: 10000, 50000
-[Famosos] El Dia.com.do: texto leído 3246 letras -> https://eldia.com.do/premios-la-silla-2026-reconocen-diversidad-del-cine-dominicano/
-No encaja en ninguna sección, se salta: Premios La Silla 2026 reconocen diversidad del cine dominicano
-[Famosos] El Nuevo Día: texto leído 1741 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-colombia-apuesta-a-su-experiencia-para-conquistar-miss-universe-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss Colombia: una reina que se considera “de la familia boricua” y apuesta a su experiencia para conquistar Miss Universe 2026
-[Deportes] Lidom: texto leído 4006 letras -> https://lidom.com/tigres-del-licey/licey-remonta-desventaja-de-cinco-carreras-y-derrota-9-5-a-los-toros-98928.html
-[Deportes] Listín Diario: texto leído 5308 letras -> https://listindiario.com/el-deporte/20261104/licey-remonta-supera-toros-emilio-bonifacio-alcanza-500-hits_928953.html
-Revisión: corregida (corregí el error de Bonifacio: su hit 500 fue en serie regular, no "en la temporada" en el sentido de la camp
-[Deportes] Lidom: texto leído 1729 letras -> https://lidom.com/novedades-mlb/pujols-y-urueta-entre-los-candidatos-para-dirigir-a-houston-98970.html
-[Deportes] De Último Minuto: texto leído 1653 letras -> https://deultimominuto.com/deportes/beisbol/astros-de-houston-tienen-a-albert-pujols-entre-sus-opciones-para-dirigir/
-Revisión: corregida (Se atribuyó a Lidom.com la afirmación de que Pujols será entrevistado y se corrigió "coach de banca de los Ya
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6713-bcrd-anuncia-una-nueva-convocatoria-para-la-competencia-academica-economistas-del-futuro-2027
-[Precios y combustibles] El Nuevo Diario: texto leído 2016 letras -> https://elnuevodiario.com.do/bcrd-anuncia-nueva-convocatoria-para-competencia-academica-economistas-del-futuro-2027/
-Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: El Nuevo Diario
-Cambiada de sección: Precios y combustibles -> República Dominicana: BCRD anuncia una nueva convocatoria para la competencia académica “Economistas del futuro” 2027
-Revisión: corregida (cambié el título en español para cerrar la comilla y ajusté "convocó" a "convoca" en la fuente; atribuí los d
-[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/economia/cuanto-cuesta-realmente-mantener-un-hogar-en-republica-dominicana-los-gastos-que-presionan-el-salario-9784111.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: ¿Cuánto cuesta realmente mantener un hogar en República Dominicana? Los gastos que presionan el salario
-Revisión: corregida (eliminé la afirmación de que la compra "equivale" al 16–28.5 % del salario sin aclarar que es un ejemplo, qui
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 4214 letras -> https://elnacional.com.do/nacionales/pld-modelo-economico-actual-ha-fallado_571105.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: PLD: El país vive un clima de incertidumbre por malas condiciones laborales y alza de alimentos
-Revisión: corregida (se ajustó "el salario mínimo más bajo ronda" a "se sitúa en" para mayor precisión; se quitó "cada vez más" y 
+Revisión: corregida (se verificó cada dato contra la proclamación; las cifras, salas, sección legal, fechas de Roosevelt y Taft y 
+[Famosos] El Nacional — La voz de todos: texto leído 2332 letras -> https://elnacional.com.do/fama-y-vida/anuncian-regreso-tradicionales-espectaculos-experiencias-navidad-dominicana_585513.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Anuncian el regreso de tradicionales espectáculos y experiencias en la Navidad dominicana
+[Famosos] Diario Libre: texto leído 1125 letras -> https://www.diariolibre.com/revista/musica/2026/11/05/heat-latin-music-awards-celebran-el-talento-latino/3712477
+Revisión: corregida (quité la atribución "Según Diario Libre" de la frase final, que era una afirmación de opinión del periodista 
+[Famosos] Listín Diario: texto leído 1014 letras -> https://listindiario.com/entretenimiento/conciertos/20261105/ash-cantara-junio-2027-republica-dominicana_929065.html
+Revisión: corregida (se quitó "según informa Listín Diario" del párrafo en español y su equivalente en inglés, porque la fuente lo
+[Deportes] Lidom: texto leído 1570 letras -> https://lidom.com/estrellas-orientales/estrellas-recontratan-al-cubano-dairon-blanco-98974.html
+Revisión: corregida (eliminé la frase de relleno "Este año, además," por un enlace más natural y añadí el año a "Round Robin"? no 
+[Deportes] Lidom: texto leído 3592 letras -> https://lidom.com/lidom/leones-suman-10-victorias-consecutivas-y-se-acercan-al-record-98960.html
+Revisión: corregida (Bruján: el triple remolcó dos, no tres, según fuentes; "bicampeones" y resto verificados; se corrigieron "el 
+[Precios y combustibles] ProConsumidor.gob.do: texto leído 2365 letras -> https://proconsumidor.gob.do/pro-consumidor-clausura-ocho-negocios-chinos-por-incumplimientos-que-afectan-a-los-consumidores/
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Precios y combustibles] El Nacional — La voz de todos: texto leído 0 letras -> https://elnacional.com.do/economia/pro-consumidor-clausura-ocho-negocios-chinos-incumplimientos-afectan-consumidores_585476.html
+Fuente oficial encontrada: ProConsumidor.gob.do 
+Cambiada de sección: Precios y combustibles -> República Dominicana: Pro Consumidor clausura ocho negocios chinos por incumplimientos que afectan a los consumidores
+Revisión: corregida (eliminé "de origen chino" en el texto español y en el inglés, cambié "Chinese-owned" por "Chinese-owned" solo
+Fuente no confiable, se salta: diariohuarpe.com
+[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/economia/gran-santo-domingo-concentra-el-42-68-de-los-pobres-del-pais-la-frontera-registra-la-mayor-incidencia-9782247.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: Gran Santo Domingo concentra el 42.68 % de los pobres del país; la frontera registra la mayor incidencia
+Revisión: corregida (en el texto español: "unas 2,017,733 personas" ya coincidía; corregí "la capital reúne más personas empobreci
+Fuente no confiable, se salta: ntelemicro.com
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: noticentro.com.do
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: revistamercado.do
+[Precios y combustibles] Periódico elDinero: texto leído 3039 letras -> https://eldinero.com.do/387527/gobierno-descarta-paquete-de-medidas-ante-alzas-externas-de-los-combustibles/
+Revisión: corregida (Se cambió "entrevista" por "explicó al responder una pregunta" para fidelidad a la fuente; "lidera" por "lide
 [Videojuegos] Nintendo: texto leído 1795 letras -> https://www.nintendo.com/us/store/products/final-fantasy-xiv-evercold-digital-collectors-edition-70070000041403-switch-2/
 [Videojuegos] XBOX: texto leído 3316 letras -> https://www.xbox.com/es-AR/games/store/pre-order-final-fantasy-xiv-evercold-collectors-edition/9plxpsgbxbvc
-[Videojuegos] PlayStation Store: texto leído 3884 letras -> https://store.playstation.com/en-us/product/UP0082-PPSA02954_00-C0EC6SET00000000
-Fuente oficial encontrada: Nintendo, XBOX, PlayStation Store 
+Fuente oficial encontrada: Nintendo, XBOX 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): FINAL FANTASY XIV: Evercold Digital Collector's Edition
-[Videojuegos] Nintendo: texto leído 1304 letras -> https://www.nintendo.com/us/store/products/boomerang-fu-street-food-dlc-70050000082081-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Boomerang Fu - Street Food DLC
-[Videojuegos] Nintendo: texto leído 556 letras -> https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/
-[Videojuegos] Vandal: texto leído 7000 letras -> https://vandal.elespanol.com/analisis/switch2/stellar-blade-complete-edition/235976
-[Videojuegos] 3DJuegos: texto leído 6196 letras -> https://www.3djuegos.com/juegos/stellar-blade/analisis/uno-juegos-espectaculares-ps5-pc-pone-a-prueba-a-nintendo-switch-2-analisis-stellar-blade
-Fuente oficial encontrada: Nintendo | para completar: Vandal
-Revisión: corregida (agregué atribución explícita a Nintendo para la resolución y el perfil gráfico, quité la frase "Es decir..." 
-Consejo del día (kiloclaro): Ahorra luz sin complicarte
+[Videojuegos] PlayStation.Blog: texto leído 3349 letras -> https://blog.playstation.com/2026/11/05/assassins-creed-valhalla-new-update-brings-new-game-upgraded-pssr-support-for-ps5-pro-today/
+[Videojuegos] XBOX Wire: texto leído 5440 letras -> https://news.xbox.com/en-us/2026/11/05/assassins-creed-valhalla-the-most-requested-update/
+[Videojuegos] Ubisoft: texto leído 7000 letras -> https://www.ubisoft.com/en-gb/game/assassins-creed/news/74wt4upd0nKmJsZDHo933S/assassins-creed-valhalla-title-update-180-the-most-requested-update
+[Videojuegos] Ubisoft: texto leído 4998 letras -> https://news.ubisoft.com/en-us/article/79bZ5I440uHPJ3p3WmUMoB/assassins-creed-valhalla-the-most-requested-update-new-game-new-content-and-progression-and-more
+Fuente oficial encontrada: PlayStation.Blog, XBOX Wire, Ubisoft, Ubisoft 
+Revisión: corregida (eliminé "Mithril" → mantuve; corregí: PC no aparece en las fuentes como plataforma de la actualización (solo 
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 34 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-15 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 22 · ya cubiertas: 3 · no confiables: 1 · opinión: 0 · con texto leído: 36 · sin texto: 1 · medios juntados: 7 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 15 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 8 · error IA: 2 · descartadas por la IA: 7 · cambiadas de sección: 9 · largas: 15 · ocultas (cortas): 0
-Para Instagram (tendencia 2): BCRD abre convocatoria 2027 para la competencia “Economistas del futuro
+19 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 26 · ya cubiertas: 7 · no confiables: 7 · opinión: 0 · con texto leído: 28 · sin texto: 9 · medios juntados: 6 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 14 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 5 · error IA: 1 · descartadas por la IA: 7 · cambiadas de sección: 6 · largas: 14 · ocultas (cortas): 5
