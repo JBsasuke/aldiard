@@ -1,24 +1,24 @@
 {
  "tasa": {
-  "fecha": "2026-11-05",
+  "fecha": "2026-11-06",
   "promedio_bancos": {
    "compra": 58.54,
    "venta": 61.41
   }
  },
  "combustibles": {
-  "semana": "31 de octubre al 06 de noviembre del 2026",
+  "semana": "07 al 13 noviembre del 2026",
   "precios": {
-   "premium": 358.1,
+   "premium": 362.1,
    "regular": 317.5,
-   "gasoilOptimo": 318.1,
+   "gasoilOptimo": 322.1,
    "gasoilRegular": 270.8,
    "glp": 135.2,
    "gasNatural": 43.97,
-   "avtur": 358.66,
-   "kerosene": 402.7,
-   "fuelOil6": 195.87,
-   "fuelOil1": 232.64
+   "avtur": null,
+   "kerosene": null,
+   "fuelOil6": null,
+   "fuelOil1": null
   }
  }
 }
