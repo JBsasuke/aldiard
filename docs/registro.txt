@@ -1,94 +1,113 @@
-Corrida: 2026-11-07 02:06 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
+Corrida: 2026-11-07 05:58 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 265, 6100')
 [República Dominicana] Supérate: texto leído 4406 letras -> https://www.superate.gob.do/noticias/superate-concluye-semana-nacional-de-los-cuidados-reafirmando-el-cuidado-como-un-derecho/
-[República Dominicana] El Nuevo Diario: texto leído 2160 letras -> https://elnuevodiario.com.do/superate-cierra-semana-nacional-de-los-cuidados-con-enfasis-en-la-proteccion-social/
-Fuente oficial encontrada: Supérate | para completar: El Nuevo Diario
-Rechazada por la revisión: Supérate concluye Semana Nacional de los Cuidados reafirmando el cuidado como un derecho -> cifras que no aparecen en las fuentes: 370, 614
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/dintel-apresa-a-dos-personas-y-ocupa-armas-de-fuego-sin-documentos-durante-allanamientos-en-santiago/
-No se pudo leer el artículo; no se publica para no salir corta: DINTEL apresa a dos personas y ocupa armas de fuego sin documentos durante allanamientos en Santiago – Inicio
-[República Dominicana] consultas.contraloria.gob.do: texto leído 34 letras -> https://consultas.contraloria.gob.do/libexternos
-No se pudo leer el artículo; no se publica para no salir corta: Bienvenido a Consulta Proveedores.
-[República Dominicana] DGII: texto leído 2443 letras -> http://dgii.gov.do/noticias/Paginas/DGII-recauda-83680-millones-octubre-2026.aspx
-[República Dominicana] Acento: texto leído 2478 letras -> https://acento.com.do/economia/dgii-recauda-rd-83680-6-millones-en-octubre-9785610.html
-Fuente oficial encontrada: DGII | para completar: Acento
-Revisión: corregida (cambié "Dominican Directorate General of Internal Revenue" por nombre oficial sin errores, quité "lo que equi
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3287431
-No se pudo leer el artículo; no se publica para no salir corta: GENERAL HEXTOR B. T a U J L W MOLINA Secretano de Estado de Guerra, Marina y Aviacih Encargaido del Poder Ejecutivo HECTOR B. TR
-[República Dominicana] De Último Minuto: texto leído 1863 letras -> https://deultimominuto.com/deportes/tenis/shelton-remonta-ante-van-assche-y-alcanza-su-primera-final-del-masters-1-000-de-paris/
-Cambiada de sección: República Dominicana -> Deportes: Shelton remonta ante Van Assche y alcanza su primera final del Masters 1.000 de París
-Revisión: corregida (se cambió "remonta a" por "remonta ante" en el titular y se ajustó "ser el tercer estadounidense" a "converti
-[República Dominicana] De Último Minuto: texto leído 1200 letras -> https://deultimominuto.com/nacionales/explosion-en-residencial/
-[República Dominicana] El Dia.com.do: texto leído 1132 letras -> https://eldia.com.do/odontologa-y-sus-dos-hijos-permanecen-graves-tras-explosion-en-apartamento-en-la-avenida-independencia/
-Revisión: corregida (eliminé "según los familiares/Según los familiares" repetido sin atribución en "Según los familiares, los tre
-[República Dominicana] De Último Minuto: texto leído 1616 letras -> https://deultimominuto.com/nacionales/dominicana-y-su-paciente-muere/
-Cambiada de sección: República Dominicana -> Dominicanos en EE.UU.: Dominicana y su paciente mueren baleados dentro de apartamento en Manhattan
-Revisión: corregida (ajusté "wrote" de "Gaylord White Houses" a "Gaylord White Houses" sin cambio; corregí "conversado" con "habla
-[República Dominicana] De Último Minuto: texto leído 2342 letras -> https://deultimominuto.com/nacionales/investigan-muerte-de-nino/
-[República Dominicana] CDN: texto leído 2069 letras -> https://cdn.com.do/nacionales/investigan-muerte-de-nino-de-4-anos-en-colegio-de-los-alcarrizos/
-Revisión: corregida (se cambió "tras sufrir un golpe" y "el golpe" por "trauma craneoencefálico" y se quitó "cómo se produjo el go
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Library of Congress (.gov): texto leído 0 letras -> https://www.loc.gov/item/hlas-bi94012659/
-No se pudo leer el artículo; no se publica para no salir corta: Escondido: mi 30 de mayo
+Fuente oficial encontrada: Supérate 
+Revisión: corregida (quité "Dirección de Desarrollo Social" como descripción de Supérate en la primera oración para usar solo lo q
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 546 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/ChangePagingStyle?mkey=03222073_ca06_4c23_a836_05813391019e
+Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
+Error IA: ValueError('respuesta sin el formato esperado: Versión 1 no contiene una noticia: es un aviso técnico de la plataforma de contrataciones públicas que indica que el contenido de la página expiró por inactividad, más datos de contacto y horario de l')
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 0 letras -> https://comunidad.comprasdominicana.gob.do/Public/Areas/Archive/RetrieveFile.aspx?key=D54B551AEC44B82B4E9806495C48392C8745B3389D7580AD3B9B6EB5ED985537&filename=Q29uc3RhbmNpYV9kZV9JbnNjcmlwY2lvbl9SUEVfNy8xMS8yMDI2XzRfMTkgYS5tLi5QZGY=&storage=Q29uc3RhbmNpYV9kZV9JbnNjcmlwY2lvbl9SUEVfNy8xMS8yMDI2XzRfMTkgYS5tLi5QZGY=
+No se pudo leer el artículo; no se publica para no salir corta: Registro de Proveedores del Estado (RPE) Constancia de inscripción
+[República Dominicana] En Salud Digital: texto leído 1203 letras -> https://ensaluddigital.gob.do/hospital-santo-socorro-reabre-unidad-de-psiquiatria-para-ninos-y-adolescentes/
+Fuente oficial encontrada: En Salud Digital 
+Revisión: corregida (se corrigió "retomó" a "reabrió/inició" según fuente, se atribuyó a directivos la afirmación de ser único cen
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] Junta Central Electoral de la República Dominicana: texto leído 0 letras -> https://jce.gob.do/portaltransparencia/Repositorio?EntryId=35026
+No se pudo leer el artículo; no se publica para no salir corta: Centro de Documentación Digital
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 0 letras -> https://comunidad.comprasdominicana.gob.do/Public/Areas/Archive/RetrieveFile.aspx?key=F65CC93ED8F85274E65B2D7F28553F1B995C80241E299CF6A728B5C7DA63F853&filename=Rm9uZG9zLnBkZg==
+No se pudo leer el artículo; no se publica para no salir corta: sNcc.D.002 CERTIFICACIÓN DE EXISTENCIA DE FONDOS Yo, Licda' Daniela 604101
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3400646
+No se pudo leer el artículo; no se publica para no salir corta: - 80 - ARTÍCULO 2. Susan Margare Cedeño Peña queda designada vicecónsul en el Consulado de la República Dominicana en Filad
+[República Dominicana] DGII: texto leído 1488 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-retencin-de-isr-e-itbis-en-factura-mixta-de-bienes-fabricados-a-la-medida-y-servicio-de-instalacin-ecf-e31/6aee4b98fff0ce398ce4d1e6
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre retención de ISR e ITBIS en factura mixta de bienes fabricados a la medida y servicio de instalación (e-CF E31)
+[República Dominicana] De Último Minuto: texto leído 2520 letras -> https://deultimominuto.com/nacionales/dncd-arresta-a-personas-e-incauta/
+[República Dominicana] El Nuevo Diario: texto leído 2151 letras -> https://elnuevodiario.com.do/policia-arresta-a-tres-personas-y-ocupa-mas-de-1826-gramos-de-drogas-durante-operativo-en-neiba/
+Rechazada por la revisión: DNCD arresta a 53 personas e incauta más de 26 mil gramos de presuntas drogas en el DN y SDE -> cifras que no aparecen en las fuentes: 26000, 26244
 [Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 2932 letras -> https://mirex.gob.do/canciller-bisono-destaca-potencial-de-republica-dominicana-como-puente-economico-entre-europa-y-las-americas/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/pais-3/canciller-destaca-el-potencial-de-la-rd-como-puente-a-europa/
 Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
 Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Canciller Bisonó destaca potencial de República Dominicana como puente económico entre Europa y las Américas
 Rechazada por la revisión: Canciller Bisonó destaca potencial de República Dominicana como puente económico entre Europa y las Américas -> cifras que no aparecen en las fuentes: 143, 757
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2802 letras -> https://centralnoticias.gob.do/estados-unidos-y-republica-dominicana-refuerzan-la-prevencion-de-la-peste-porcina-africana-ante-temporada-alta-de-viajes/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Estados Unidos y República Dominicana refuerzan la prevención de la peste porcina africana ante temporada alta de viajes
+Revisión: corregida (se quitó "Las autoridades" → "Las autoridades" se mantiene; se corrigió "Estados Unidos" a EE.UU. no necesari
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 5686 letras -> https://centralnoticias.gob.do/jean-luis-rodriguez-impulsa-compras-inmobiliarias-seguras-para-proteger-a-inversionistas-y-dominicanos-en-el-exterior/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Revisión: corregida (cambié la sección de "Dominicanos en EE.UU." a la que corresponde según la fuente, "España"/diáspora en Españ
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2001 letras -> https://fr.usembassy.gov/demonstration-alert-u-s-embassy-paris-france-november-6-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in France (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert: U.S. Embassy Paris, France – November 6, 2026
 Fuente no confiable, se salta: primicias.net
-Es opinión o editorial, se salta: Dr. Pedro Ureña Velásquez
-Fuente no confiable, se salta: elcongresista.mx
-Fuente no confiable, se salta: elpregonerord.com
+[Dominicanos en EE.UU.] N Digital: texto leído 1674 letras -> https://n.com.do/2026/11/07/reconocen-labor-de-jeannette-alfau-en-la-difusion-del-legado-de-duarte-en-madrid/
+Revisión: corregida (la sección "Dominicanos en EE.UU." no coincide con un evento en Madrid: se cambió a "Dominicanos en España"; 
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/
+[Internacionales] House.gov: texto leído 798 letras -> https://chuygarcia.house.gov/media/press-releases/congressman-jesus-chuy-garcia-s-statement-on-trump-elevating-stephen-miller-to-chief-of-staff
+Fuente oficial encontrada: The White House (.gov), House.gov 
+Revisión: corregida (eliminé "tenure" del español, precisé que "su tenure" era cita de la Casa Blanca; atribuí la acusación de "sá
+[Famosos] El Nuevo Día: texto leído 1810 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/ronald-day-reacciona-a-los-accidentes-de-miss-republica-dominicana-y-miss-bulgaria-seguimos-pendientes/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ronald Day reacciona a los accidentes de Miss República Dominicana y Miss Bulgaria: “Seguimos pendientes”
+[Famosos] El Nuevo Día: texto leído 568 letras -> https://www.elnuevodia.com/entretenimiento/farandula/videos/asi-ocurrio-el-accidente-miss-republica-dominicana-perdio-el-conocimiento-294725/
+[Famosos] N Digital: texto leído 3311 letras -> https://n.com.do/2026/11/07/magali-febles-reaparece-tras-accidente-miss-rd-quedo-golpeada-y-perdio-el-conocimiento/
+Revisión: corregida (se corrigió "antebrazo y la muñeca" a "antebrazo y muñeca" del brazo derecho sin cambio de sentido; se quitó 
+[Famosos] El Nuevo Diario: texto leído 1470 letras -> https://elnuevodiario.com.do/artistas-dominicanos-en-nueva-york-dedicaran-conversatorio-a-la-vida-y-obra-de-roque-gomez/
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Artistas dominicanos en Nueva York dedicarán conversatorio a la vida y obra de Roque Gómez
+Revisión: corregida (quité "rendirán homenaje" por "celebrarán"/"dedicarán" según la fuente, corregí "Dominicana Dominicana" no ap
 Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: primicias.net
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1648 letras -> https://elnuevodiario.com.do/sector-externo-david-collado-2028-designa-coordinadores-en-nueva-york-y-nueva-jersey/
-Revisión: aprobada
-[Dominicanos en EE.UU.] Infobae: texto leído 4052 letras -> https://www.infobae.com/republica-dominicana/2026/11/06/republica-dominicana-registra-3100-nuevos-diagnosticos-de-vih-entre-2025-y-marzo-de-2026/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: República Dominicana registra 3,100 nuevos diagnósticos de VIH entre 2025 y marzo de 2026
-Rechazada por la revisión: República Dominicana registra 3,100 nuevos diagnósticos de VIH entre 2025 y marzo de 2026 -> cifras que no aparecen en las fuentes: 0, 60000, 85000
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/
-Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es una nota de opinión y declaraciones de la propia Casa Blanca (publicada en .gov como comunicado de promoción política), con citas de analistas seleccionadas para favorec')
-[Internacionales] The White House (.gov): texto leído 3157 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-establishes-the-oval-office-as-a-national-monument/
-Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (se añadió atribución explícita a la Casa Blanca en el párrafo sobre la Oficina Oval y se precisó que la vincu
-[Famosos] El Nuevo Día: texto leído 1743 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/evaluan-cuando-sera-la-llegada-de-miss-republica-dominicana-tras-accidente-de-transito/
-Revisión: corregida (eliminé el "sin lugar a dudas"-style no; corregí "laceraciones... en el antebrazo y la muñeca" a "antebrazo" 
-[Famosos] El Nacional — La voz de todos: texto leído 3594 letras -> https://elnacional.com.do/fama-y-vida/farandula/dios-protegio-magali-febles-revela-detalles-accidente-pudo-terminar-tragedia_585638.html
-Revisión: corregida (se eliminó "milagro" del gancho en español e inglés porque la fuente no lo atribuye a Febles; se atribuyó a F
-[Deportes] Lidom: texto leído 3015 letras -> https://lidom.com/aguilas-cibaenas/j-c-escarra-remolco-cinco-carreras-y-aguilas-apabullan-11-2-a-las-estrellas-99081.html
-Revisión: corregida (eliminé "desplegaron" por redundancia, quité frases de relleno como "dominó el partido desde la primera entra
-[Deportes] Lidom: texto leído 2922 letras -> https://lidom.com/lidom/duelos-de-lanzadores-y-amenaza-climatica-marcan-la-jornada-99027.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Duelos de lanzadores y amenaza climática marcan la jornada
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851504?ins=resultado
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-escogido-vs-gigantes-251287
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Leones del Escogido vs Gigantes del Cibao
-[Deportes] Lidom: texto leído 2379 letras -> https://lidom.com/lidom/gigantes-frenan-en-10-la-racha-de-triunfos-del-escogido-99149.html
-[Deportes] MLB.com: texto leído 6816 letras -> https://www.mlb.com/es/amp/news/gigantes-frenan-en-10-la-racha-de-victorias-del-escogido-en-la-lidom.html
-[Deportes] Acento: texto leído 2524 letras -> https://acento.com.do/deportes/gigantes-frenan-racha-de-10-victorias-del-escogido-con-triunfo-5-4-en-san-francisco-de-macoris-9785808.html
-Revisión: corregida (eliminé el dato de "Brito con uno en circulación" no..., ajusté cifras y atribuciones: el jonrón de Marte en 
+Fuente no confiable, se salta: diariolasamericas.com
+Fuente no confiable, se salta: robertocavada.com
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/sociales/otorgan-becas-de-residencia-artistica-en-paris/
-No se pudo leer el artículo; no se publica para no salir corta: Otorgan becas de residencia artística en París
-[Precios y combustibles] Infobae: texto leído 3632 letras -> https://www.infobae.com/noticias/2026/11/06/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-6-de-noviembre/?outputType=amp-type
-[Precios y combustibles] El Comercio Perú: texto leído 2902 letras -> https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-viernes-6-de-noviembre-de-2026-tipo-de-cambio-usd-a-mxn-cuanto-vale-y-cotizacion-de-banxico-fix-nnda-nnrt-noticia/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en República Dominicana: cotización de cierre del 6 de noviembre
-[Precios y combustibles] Acento: texto leído 2245 letras -> https://acento.com.do/economia/importaciones-de-combustibles-y-alimentos-impulsan-compras-externas-de-rd-que-crecen-9-9-9785475.html
-Revisión: corregida (ajusté el título y el gancho a "crecen 9.9 %" y "combustibles" sin "alimentos" como causa principal, porque l
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/region-norte/presentan-proyecto-preserva-la-historia-de-la-radio-santiago/
+No se pudo leer el artículo; no se publica para no salir corta: Presentan proyecto preserva la historia de la radio Santiago
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: midiario.com
+Fuente no confiable, se salta: diaadia.com.pa
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: los40.com.co
+Fuente no confiable, se salta: diariodelcauca.com.co
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: instagram.com
+[Famosos] Hoy Digital: texto leído 2707 letras -> https://hoy.com.do/vivir/alegria/talento-rd-vibro-premios-heat_1107946_amp.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Fuente no confiable, se salta: los40.com
+Fuente no confiable, se salta: zeta.com.pa
+Fuente no confiable, se salta: amp.alerta.com.co
+Fuente no confiable, se salta: edomexaldia.com
+[Famosos] El Nuevo Diario: texto leído 1947 letras -> https://elnuevodiario.com.do/periodista-walddy-lina-polanco-es-nominada-a-reportera-digital-del-ano-2026/
+[Famosos] Diario Libre: texto leído 2636 letras -> https://www.diariolibre.com/revista/sociales/2026/11/06/walddy-lina-polanco-es-nominada-a-reportera-digital/3713690
+No encaja en ninguna sección, se salta: Periodista Walddy Lina Polanco es nominada a Reportera Digital del Año 2026
+[Deportes] Lidom: texto leído 1721 letras -> https://lidom.com/gigantes-del-cibao/noelvi-marte-atribuye-su-despertar-a-los-ajustes-en-su-mecanica-99159.html
+Revisión: corregida (corregí "su cuadrangular"→ sin cambios; ajusté la atribución de la cita sobre el rival para que solo se atrib
+[Deportes] Lidom: texto leído 1837 letras -> https://lidom.com/tigres-del-licey/licey-celebra-119-anos-de-historia-y-tradicion-en-el-beisbol-dominicano-99184.html
+Revisión: corregida (cambié "cumplen" por "celebran" en el texto ya que el gancho dice "celebran"; no hay más errores de hechos; q
+[Precios y combustibles] Noticias SIN: texto leído 1616 letras -> https://noticiassin.com/economia/2026/11/07/dolar-en-rd-hoy-cotizacion-del-7-de-noviembre-2165775/
+[Precios y combustibles] MARCA: texto leído 2590 letras -> https://www.marca.com/mx/actualidad/dinero/2026/11/07/precio-dolar-hoy-sabado-7-noviembre-2026-peso-rompe-mala-racha-8-semanas.html
+[Precios y combustibles] Clarin.com: texto leído 1755 letras -> https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-7-de-noviembre-de-2026_0_X8o6EDBbHx.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotiza el dólar este sábado 7 de noviembre en RD
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/depositos-en-moneda-extranjera-crecen-un-promedio-11-anual/
+No se pudo leer el artículo; no se publica para no salir corta: Depósitos en moneda extranjera crecen un promedio 11 % anual
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/fondos-de-inversion-duplican-en-menos-de-tres-anos-sus-activos/
+No se pudo leer el artículo; no se publica para no salir corta: Fondos de inversión duplican en menos de tres años sus activos
 [Videojuegos] Nintendo: texto leído 1927 letras -> https://www.nintendo.com/sg/news/article/6tzi9SCJLAT6RkcwcUQts6
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Switch 2 + Mario Kart World Bundle arrives on 26 November.
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] PlayStation.Blog: texto leído 1101 letras -> https://blog.playstation.com/2026/11/06/share-of-the-week-shadows-2/
-Fuente oficial encontrada: PlayStation.Blog 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Share of the Week: Shadows
+[Videojuegos] Nintendo: texto leído 1608 letras -> https://www.nintendo.com/en-ca/store/products/metaphor-refantazio-samurai-garb-7-battle-bgm-and-battle-jingle-set-70050000077091-switch-2/
+Fuente oficial encontrada: Nintendo 
+Revisión: corregida (eliminé "giro" y "relleno" en la versión en español, ajusté "a new look and sound" por fidelidad, quité "mean
+Consejo del día (kiloclaro): Cuida la luz, cuida tu bolsillo
 Marcadores: 34 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
 18 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 4 · ya vistas: 27 · ya cubiertas: 9 · no confiables: 5 · opinión: 1 · con texto leído: 29 · sin texto: 7 · medios juntados: 5 · con fuente oficial: 9 · aprobadas por la revisión: 1 · corregidas por la revisión: 11 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 1 · descartadas por la IA: 6 · cambiadas de sección: 4 · largas: 12 · ocultas (cortas): 6
-Para Instagram (tendencia 3): Gigantes detienen la racha de 10 victorias del Escogido con triunfo 5-4
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 29 · ya cubiertas: 15 · no confiables: 17 · opinión: 0 · con texto leído: 28 · sin texto: 8 · medios juntados: 2 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 6 · error IA: 2 · descartadas por la IA: 7 · cambiadas de sección: 3 · largas: 11 · ocultas (cortas): 7
+Para Instagram (tendencia 2): Investigan muerte de niño de cuatro años en colegio de Los Alcarrizos
