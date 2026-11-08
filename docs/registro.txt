@@ -1,99 +1,71 @@
-Corrida: 2026-11-08 12:02 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Presidencia de la República Dominicana: texto leído 0 letras -> https://presidencia.gob.do/admin/structure/block/manage/presidency_search/delete?destination=/node
-No se pudo leer el artículo; no se publica para no salir corta: - Presidencia de la República Dominicana
-[República Dominicana] centralnoticias.gob.do: texto leído 4864 letras -> https://centralnoticias.gob.do/dr-juan-ubaldo-sosa-almonte-presenta-blindaje-medico-legal-una-obra-sobre-los-desafios-juridicos-del-ejercicio-de-la-medicina/
-Fuente oficial encontrada: centralnoticias.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dr. Juan Ubaldo Sosa Almonte presenta “Blindaje Médico Legal”, una obra sobre los desafíos jurídicos del ejercicio de la medicina
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/GestionPublica/uploads/evidencias/639252542487903424-Informe-para-el-levantamiento-IDOPPRIL.pdf
-No se pudo leer el artículo; no se publica para no salir corta: Informe para el levantamiento de información e Identificación del personal con Discapacidad (PCD) en el Instituto Dominicano d
-[República Dominicana] DGCINE: texto leído 656 letras -> https://dgcine.gob.do/directorios/categoria/iluminacion/jefe-de-electricos/
-Fuente oficial encontrada: DGCINE 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto de la única versión disponible es una lista de personas con sus correos electrónicos, sin ningún hecho noticioso. No es una noticia concreta, y además publica datos per')
-[República Dominicana] TC.gob.do: texto leído 3700 letras -> https://biblioteca.tc.gob.do/cgi-bin/koha/opac-search.pl?q=ccl=an%3A1647&sort_by=relevance&count=20&limit=su-to:Derecho%20constitucional
-Fuente oficial encontrada: TC.gob.do 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[República Dominicana] centralnoticias.gob.do: texto leído 1806 letras -> https://centralnoticias.gob.do/gasnet-impulsa-la-transformacion-del-sector-combustible-con-la-integracion-total-de-estaciones-de-servicio-inteligentes/
-Fuente oficial encontrada: centralnoticias.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gasnet impulsa la transformación del sector combustible con la integración total de estaciones de servicio inteligentes
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3326483
-No se pudo leer el artículo; no se publica para no salir corta: Dec. No. 199-88 que ndra varios supervisores de hospitales del Estado.
-[República Dominicana] DGII: texto leído 554 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/descargo-y-traspaso-de-vehculo/6aef6889736f713db1a4857a
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Descargo y traspaso de vehículo.
-[República Dominicana] De Último Minuto: texto leído 2782 letras -> https://deultimominuto.com/nacionales/cooperativa-nuestra-senora/
-Revisión: corregida (eliminé "en un acto que marcó el inicio" → redundancia menor; ajusté "estuvo encabezado" sin cambios de fondo
-[Dominicanos en EE.UU.] U.S. Embassy In Poland (.gov): texto leído 1445 letras -> https://pl.usembassy.gov/security-alert-shooting-in-krakow-main-market-square/
-Fuente oficial encontrada: U.S. Embassy In Poland (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert – Shooting in Krakow Main Market Square
+Corrida: 2026-11-08 04:33 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 50, 6100')
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5333 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-hace-realidad-el-sueno-de-2500-familias-de-el-almirante-ii-con-la
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (se quitó "en el sector" redundante y se ajustó "Santo Domingo Este" como "municipio Santo Domingo Este"; se a
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-inaugura-33-oficinas-gubernamentales-para-acercar-los-servicios
+[República Dominicana] Diario Libre: texto leído 3189 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/08/abinader-inaugura-edificio-de-oficinas-gubernamentales-en-bonao/3714763
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+Revisión: corregida (se corrigió que las instalaciones son del antiguo hospital Pedro Emilio de Marchena y no del José Columna; se
+[República Dominicana] centralnoticias.gob.do: texto leído 1839 letras -> https://centralnoticias.gob.do/departamento-aeroportuario-entrega-estudios-de-planificacion-para-ampliacion-base-aerea-san-isidro/
+[República Dominicana] El Dia.com.do: texto leído 1825 letras -> https://eldia.com.do/departamento-aeroportuario-entrega-estudios-para-ampliar-base-aerea-san-isidro/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Dia.com.do
+Revisión: corregida (se cambió el título y el gancho en inglés de "Airport Authority" a "Airport Department", se corrigió "Brigadi
+[Dominicanos en EE.UU.] Ministerio de Educación de la República Dominicana: texto leído 1768 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/legalizacion-de-record-de-notas-de-educacion-media
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Legalización De Récord De Notas De Educación Media
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2001 letras -> https://fr.usembassy.gov/demonstration-alert-u-s-embassy-paris-france-november-6-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in France (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert: U.S. Embassy Paris, France – November 6, 2026
-[Dominicanos en EE.UU.] U.S. Embassy Jerusalem (.gov): texto leído 2975 letras -> https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-6-2026/
-Fuente oficial encontrada: U.S. Embassy Jerusalem (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: Es un aviso de seguridad oficial de la Embajada de EE.UU. en Jerusalén para ciudadanos estadounidenses, con recomendaciones de viaje y no un hecho noticioso concreto reportado p')
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 4409 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-saudi-arabia-november-7-2026/
-[Dominicanos en EE.UU.] https://ae.usembassy.gov/: texto leído 2889 letras -> https://ae.usembassy.gov/security-alert-u-s-mission-united-arab-emirates-november-7-2026/
-[Dominicanos en EE.UU.] U.S. Embassy & Consulate in Iraq (.gov): texto leído 2545 letras -> https://iq.usembassy.gov/security-alert-u-s-mission-iraq-november-6-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 4866 letras -> https://co.usembassy.gov/security-alert-cartagena-independence-day-november-11-16-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), https://ae.usembassy.gov/, U.S. Embassy & Consulate in Iraq (.gov), U.S. Embassy in Colombia (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission Saudi Arabia – November 7, 2026
-Revisión: corregida (se ajustó el inglés para que coincida con el español en "Cartagena's Independence Day celebrations" y se corr
-[Dominicanos en EE.UU.] Telemundo: texto leído 1449 letras -> https://www.telemundo.com/noticias/noticias-telemundo/shorts/joven-dominicana-busca-ganar-escano-en-el-congreso-tmvo13236644
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Joven dominicana busca ganar escaño en el Congreso
-[Dominicanos en EE.UU.] Listín Diario: texto leído 2451 letras -> https://listindiario.com/las-mundiales/20261108/papa-leon-xiv-pide-hombres-traten-respeto-esposas_929309.html
-[Dominicanos en EE.UU.] Acento: texto leído 3970 letras -> https://acento.com.do/actualidad/el-papa-leon-xiv-pide-a-los-hombres-que-traten-con-respeto-a-sus-esposas-9786306.html
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: El papa León XIV pide a los hombres que traten "con respeto" a sus esposas
-Revisión: corregida (corregí "feminicidios" a "feminicidios" ya estaba bien; principales cambios: "tratar con respeto" a "tratar c
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
+Fuente oficial encontrada: Federal Register (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los textos que me diste. La única versión disponible es el Federal Register (.gov), y su contenido es un aviso legal del propio sitio sobre el estatu')
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/lideres-de-rd-y-puerto-rico-abordan-operaciones-de-control-migratorio-de-ice/
+Revisión: corregida (eliminé la atribución de la propuesta al Gobierno dominicano y el "mientras" de la cita; corregí "Jeannette G
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 7000 letras -> https://eldia.com.do/aeropuerto-las-americas-proyecta-8654-vuelos-durante-la-temporada-de-invierno-2026-27/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Aeropuerto Las Américas proyecta 8,654 vuelos durante la temporada de invierno 2026-27
+Rechazada por la revisión: Aeropuerto Las Américas proyecta 8,654 vuelos durante la temporada de invierno 2026-27 -> cifras que no aparecen en las fuentes: 654
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3026 letras -> https://elnacional.com.do/politica/fuerza-pueblo-rhode-island-afirma-diaspora-mantiene-esperanza-leonel-fernandez_578129.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Fuerza del Pueblo en Rhode Island afirma diáspora mantiene esperanza en Leonel Fernández
+[Internacionales] The White House (.gov): texto leído 2249 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): What They Are Saying: Blowout October Jobs Report Smashes Expectations
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows
 [Internacionales] The White House (.gov): texto leído 3432 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-nov-6-2026/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Internacionales] The White House (.gov): texto leído 3160 letras -> https://www.whitehouse.gov/videos/thanks-to-president-trump-nasa-is-back-and-americans-will-pioneer-the-next-generation-of-space-%F0%9F%87%BA%F0%9F%87%B8/
+[Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. El texto que me pasaste es una página de navegación de la Casa Blanca con menús y enlaces, y el único contenido sustantivo es un titular propagandístico')
-[Famosos] El Nuevo Día: texto leído 3317 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/consternada-jennifer-barreto-con-los-accidentes-automovilisticos-de-las-candidatas-de-republica-dominicana-y-bulgaria/
-Revisión: corregida (se quitó la frase "Habló con El Nuevo Día" sin cambiar el sentido; se atribuyó a El Nuevo Día la información 
-Fuente no confiable, se salta: elsiglo.com.pa
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/farandula/anuel-habla-de-su-delgadez-producto-de-las-drogas-me-miraba-en-el-espejo-y-no-me-reconocia-20261107-0031.html
-[Famosos] El Nuevo Día: texto leído 2258 letras -> https://www.elnuevodia.com/entretenimiento/musica/notas/anuel-aa-reconoce-que-su-delgadez-era-producto-de-las-drogas-me-miraba-en-el-espejo-y-no-me-reconocia/
-Revisión: corregida (se cambió "Anuel AA revela que su delgadez fue producto de las drogas" a una formulación atribuida al artista
-[Deportes] Lidom: texto leído 1300 letras -> https://lidom.com/aguilas-cibaenas/pipe-urueta-la-pelota-es-contagiosa-tras-repunte-ofensivo-99289.html
-Revisión: corregida (Quité "en entrevista con Lidom" y "según informó Lidom" sin cambios de hecho, reescribí frases de relleno y a
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/los-leones-toman-la-delantera-99275.html
-No se pudo leer el artículo; no se publica para no salir corta: ¡LOS LEONES TOMAN LA DELANTERA!
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851475?ins=previa&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Tigres del Licey vs Leones del Escogido
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/meja-rompe-el-empate-con-triple-99281.html
-No se pudo leer el artículo; no se publica para no salir corta: Mejía rompe el empate con triple
-[Deportes] Lidom: texto leído 1581 letras -> https://lidom.com/estrellas-orientales/trevor-bauer-denuncia-condiciones-de-la-lluvia-y-destaca-la-mecanica-de-freddy-peralta-99260.html
-Revisión: corregida (quité "Bauer dice que" → sin cambios de fondo; ajusté el TEXTO para que la atribución de la negativa al mater
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1031 letras -> https://micm.gob.do/transparencia/proyectos-y-programas/sinacid-ci23-fnraecid-s00845-informe-seguimiento-2do-2026-pdf
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es un mensaje presidencial genérico de felicitación por Diwali, sin un hecho noticioso concreto (no hay acontecimiento, cifras, decisiones ni consecuencias). Por las reglas, ')
+[Famosos] Listín Diario: texto leído 1385 letras -> https://listindiario.com/entretenimiento/farandula/20261108/suspenden-despedida-miss-universo-rd-melissa-nunez-accidente-viaje-pr-sigue-pendiente_929317.html
+Revisión: corregida (quité "Según informó Listín Diario," que estaba mal ubicado, dejando la atribución clara a La Pitonisa y su v
+Fuente no confiable, se salta: midiario.com
+[Famosos] El Dia.com.do: texto leído 1866 letras -> https://eldia.com.do/la-colombiana-angel-bleu-se-deja-sentir-en-rd-con-el-sencillo-una-y-otra-vez/
+Revisión: corregida (se corrigió la comilla de cierre del título en español y en inglés, se corrigió "Una y Otra Vez" para mantene
+[Deportes] Lidom: texto leído 2952 letras -> https://lidom.com/tigres-del-licey/sergio-alcantara-lidera-ofensiva-del-fiesta-de-cumpleanos-99212.html
+Revisión: corregida (corregí el récord de Licey de 22-22 a 19-15 según fuentes, ya que el 22-22 no aparece como récord del equipo 
+[Deportes] Lidom: texto leído 3673 letras -> https://lidom.com/aguilas-cibaenas/aguilas-vencen-13-6-a-toros-y-enlazan-dos-triunfos-corridos-por-primera-vez-en-la-temporada-99223.html
+[Deportes] Listin Diario: texto leído 2074 letras -> https://listindiario.com/el-deporte/beisbol/20261107/aguilas-vencen-toros-enlazan-dos-triunfos-corridos-primera-vez-torneo_929282.html
+Revisión: corregida (corregí "4-for-3" a "4-for-3" → en realidad la fuente dice "4-3" (4 turnos, 3 imparables) en español; en ingl
 Fuente no confiable, se salta: revistamercado.do
 [Precios y combustibles] AlMomento.net: texto leído 2704 letras -> https://almomento.net/gobierno-dominicano-estudia-aplicar-ajustes-a-combustibles/
 Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno dominicano estudia aplicar ajustes a combustibles
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (el borrador atribuye a Refidomsa/Pereyra y a Díaz frases que en la fuente no son d
-Rechazada por la revisión: Gobierno dominicano estudia aplicar ajustes a combustibles -> cifras que no aparecen en las fuentes: 140000, 145000, 30000
-[Precios y combustibles] Periódico elDinero: texto leído 1877 letras -> https://eldinero.com.do/387771/pedro-brache-la-industria-debe-apostar-a-productividad-y-no-a-alza-de-precios-ante-competencia-de-nuevos-productos/
-Revisión: corregida (eliminé "con ese escenario"/relleno redundante en el párrafo 5, dejé "consumidor" sin cambio; ajusté "en el c
+Rechazada por la revisión: Gobierno dominicano estudia aplicar ajustes a combustibles -> cifras que no aparecen en las fuentes: 10, 140000, 145000, 2, 30000, 36
+Fuente no confiable, se salta: robertocavada.com
+[Precios y combustibles] AlMomento.net: texto leído 2173 letras -> https://almomento.net/petroleo-registra-fuerte-caida-semanal-por-debajo-de-us100/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "cerca de un 13 %" a "cerca de un 13 %" sin cambios de cifra; ajusté "Ambo
+Revisión: corregida (corregí "cerca de un 13 %" a "cerca de un 13 %" sin cambios de cifra; ajusté "Ambos subieron levemente" a "Am
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] Nintendo careers: texto leído 5323 letras -> https://careers.nintendo.com/jobs/4465998009/
-Fuente oficial encontrada: Nintendo careers 
-Error IA: ValueError('respuesta sin el formato esperado: No hay una noticia que redactar aquí. La única versión que me enviaste es una oferta de empleo publicada en la página de carreras de Nintendo of America para el puesto de "Sr Mgr, Business Management-')
 [Videojuegos] Nintendo: texto leído 2485 letras -> https://www.nintendo.com/au/games/nintendo-switch/witchbrook/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook - Nintendo Switch - Games
-Consejo del día (divisas): Cuida tu dinero entre dos países
+[Videojuegos] XBOX Wire: texto leído 3827 letras -> https://news.xbox.com/en-us/recent-news/page/243/
+Fuente oficial encontrada: XBOX Wire 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Recent News - Page 243 of 2007
+Consejo del día (kiloclaro): Ahorra luz sin sacrificar confort
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-14 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 17 · ya cubiertas: 5 · no confiables: 2 · opinión: 0 · con texto leído: 29 · sin texto: 7 · medios juntados: 5 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 6 · descartadas por la IA: 10 · cambiadas de sección: 3 · largas: 8 · ocultas (cortas): 6
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 10 · ya cubiertas: 9 · no confiables: 3 · opinión: 0 · con texto leído: 24 · sin texto: 0 · medios juntados: 3 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 7 · cambiadas de sección: 2 · largas: 9 · ocultas (cortas): 0
 Para Instagram (tendencia 4): Embajada de EE.UU. emite alertas de seguridad por amenazas en Medio Oriente y por festejos en Cartagena
