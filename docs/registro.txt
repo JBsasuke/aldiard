@@ -1,114 +1,121 @@
-Corrida: 2026-11-07 09:29 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-imparte-charla-sobre-prevencion-de-la-violencia-de-genero-a-estudiantes-del-politecnico-de-azua/
-No se pudo leer el artículo; no se publica para no salir corta: Ministerio Público imparte charla sobre prevención de la violencia de género a estudiantes del politécnico de Azua
-[República Dominicana] Ayuntamiento Municipal Santo Domingo Oeste: texto leído 458 letras -> https://ayuntamientosdo.gob.do/presupuesto-participativo-2027-la-voz-de-las-comunidades-cuenta/
-No se pudo leer el artículo; no se publica para no salir corta: PRESUPUESTO PARTICIPATIVO 2027: LA VOZ DE LAS COMUNIDADES CUENTA.
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/GestionPublica/uploads/evidencias/639239592254021094-Carta-aprobacin-registro-SINAC,---INAFOCAM.pdf
-No se pudo leer el artículo; no se publica para no salir corta: DAU.No.014.2026 A: Sra. Siullin Joa Instituto Nacional de Formación y Capacitación del Magisterio INAFOCAM Sra. Loammy Ál
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/wp-content/plugins/*
-No se pudo leer el artículo; no se publica para no salir corta: - Policía Nacional de la República Dominicana
+Corrida: 2026-11-08 05:07 AM (hora RD)
+[República Dominicana] TC.gob.do: texto leído 546 letras -> https://biblioteca.tc.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=182&query_desc=Provider%3ASuprema%20Corte%20de%20Justicia%20de%20la%20Naci%C3%B3n%2C%20
+Fuente oficial encontrada: TC.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Details for: Igualdad y no discriminación : condiciones de salud, religión y estado civil / › Koha online catalog
+[República Dominicana] TC.gob.do: texto leído 3700 letras -> https://biblioteca.tc.gob.do/cgi-bin/koha/opac-search.pl?q=ccl=an%3A1647&sort_by=relevance&count=20&limit=su-to:Derecho%20constitucional
+Fuente oficial encontrada: TC.gob.do 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es la página de resultados de búsqueda de un catálogo bibliográfico en línea (Koha) del Tribunal Constitucional de Perú, con listados de libros sobre libertad rel')
+[República Dominicana] Corporación de Acueducto y Alcantarillado de Santo Domingo: texto leído 801 letras -> https://portal.caasd.gob.do/servicio/suministro-de-agua-en-camiones-cisterna/comment-page-24/
+Fuente oficial encontrada: Corporación de Acueducto y Alcantarillado de Santo Domingo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Corporación de Acueducto y Alcantarillado de Santo Domingo
+[República Dominicana] centralnoticias.gob.do: texto leído 1806 letras -> https://centralnoticias.gob.do/gasnet-impulsa-la-transformacion-del-sector-combustible-con-la-integracion-total-de-estaciones-de-servicio-inteligentes/
+Fuente oficial encontrada: centralnoticias.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Gasnet impulsa la transformación del sector combustible con la integración total de estaciones de servicio inteligentes
 [República Dominicana] DGII: texto leído 554 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/descargo-y-traspaso-de-vehculo/6aef6889736f713db1a4857a
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Descargo y traspaso de vehículo.
-[República Dominicana] De Último Minuto: texto leído 3234 letras -> https://deultimominuto.com/deportes/beisbol/licey-celebra-su-aniversario-119-con-victoria-ante-los-gigantes/
-[República Dominicana] Acento: texto leído 2818 letras -> https://acento.com.do/deportes/licey-celebra-su-119-aniversario-con-victoria-8-3-sobre-gigantes-y-se-acerca-al-primer-lugar-9786138.html
-Cambiada de sección: República Dominicana -> Deportes: Licey celebra su aniversario 119 con victoria ante los Gigantes
-Revisión: corregida (corregí "3-1" y "4-2" en el inglés a "3-for-1"/"4-for-2" para que coincidan con el español; el resto se mantu
-[República Dominicana] De Último Minuto: texto leído 2884 letras -> https://deultimominuto.com/deportes/futbol/el-futbol-despide-a-jesus-de-miguel-con-un-emotivo-homenaje-multitudinario-en-el-heliodoro/
-[República Dominicana] La Vanguardia: texto leído 4069 letras -> https://www.lavanguardia.com/deportes/futbol/20261107/11678843/ultimo-homenaje-tenerife-jesus-miguel-todos-sabran-fuiste-heliodoro-estadio.html
-Cambiada de sección: República Dominicana -> Deportes: El fútbol despide a Jesús de Miguel con un emotivo homenaje multitudinario en el Heliodoro
-Revisión: corregida (Se quitó la atribución a La Vanguardia de datos que solo aparecen en Al Día; se corrigió "Betis" a "Real Beti
-[República Dominicana] De Último Minuto: texto leído 2672 letras -> https://deultimominuto.com/deportes/automovilismo/lando-norris-conquista-la-pole-en-interlagos-y-fernando-alonso-partira-octavo/
-Cambiada de sección: República Dominicana -> Deportes: Lando Norris conquista la pole en Interlagos y Fernando Alonso partirá octavo
-Rechazada por la revisión: Lando Norris conquista la pole en Interlagos y Fernando Alonso partirá octavo -> cifras que no aparecen en las fuentes: 27470
-[República Dominicana] De Último Minuto: texto leído 1552 letras -> https://deultimominuto.com/nacionales/agentes-del-dicrim-matan-a-tiros/
-Revisión: corregida (la fuente dice "impactos de bala" y "presunto delincuente" no aparece en el borrador; se ajustó el titular, l
-[Dominicanos en EE.UU.] MIREX | Ministerio de Relaciones Exteriores: texto leído 2932 letras -> https://mirex.gob.do/canciller-bisono-destaca-potencial-de-republica-dominicana-como-puente-economico-entre-europa-y-las-americas/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/pais-3/canciller-destaca-el-potencial-de-la-rd-como-puente-a-europa/
-Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Canciller Bisonó destaca potencial de República Dominicana como puente económico entre Europa y las Américas
-Rechazada por la revisión: Canciller Bisonó destaca potencial de República Dominicana como puente económico entre Europa y las Américas -> cifras que no aparecen en las fuentes: 143, 757
+[República Dominicana] De Último Minuto: texto leído 1611 letras -> https://deultimominuto.com/uncategorized/licey-celebra-sus-119-anos-aguilas-frenan-a-los-toros-y-escogido-sigue-lider/
+Cambiada de sección: República Dominicana -> Deportes: Licey celebra sus 119 años, Águilas frenan a los Toros y Escogido sigue líder
+Revisión: corregida (Corregí "Escogido superaba" no; principalmente: "Las Águilas Cibaeñas... cortando una racha de ocho triunfos 
+[República Dominicana] De Último Minuto: texto leído 2756 letras -> https://deultimominuto.com/deportes/beisbol/brujan-y-marmolejos-conectan-jonrones-en-triunfo-del-escogido-sobre-las-estrellas/
+[República Dominicana] Diario Libre: texto leído 2600 letras -> https://www.diariolibre.com/deportes/beisbol/2026/11/08/lidom-marmolejos-y-brujan-la-sacan-en-el-triunfo-del-escogido/3714455
+[República Dominicana] El Nacional — La voz de todos: texto leído 3283 letras -> https://elnacional.com.do/deportes/brujan-marmolejos-sacan-casta-jonrones-triunfo-escogido_585666.html
+Cambiada de sección: República Dominicana -> Deportes: Bruján y Marmolejos conectan jonrones en triunfo del Escogido sobre las Estrellas
+Revisión: corregida (corregí "5-for-3" y "3-for-1", que no son formatos válidos de bateo; ahora son "5-for-5"... no, las fuentes d
+[República Dominicana] De Último Minuto: texto leído 1543 letras -> https://deultimominuto.com/nacionales/odontologa-herida-en-explosion/
+Revisión: corregida (se añadió atribución a De Último Minuto en el texto y el inglés; se quitó la fecha de 'jueves' como dato no v
+[República Dominicana] De Último Minuto: texto leído 2742 letras -> https://deultimominuto.com/internacionales/trump-confirma-nuevos-ataques/
+[República Dominicana] El Nacional: texto leído 1269 letras -> https://www.elnacional.com/2026/11/trump-confirmo-nuevos-ataques-militares-selectivos-contra-la-defensa-antiaerea-de-iran/
+[República Dominicana] El Diario NY: texto leído 1727 letras -> https://eldiariony.com/2026/11/07/trump-confirma-nuevo-ataque-militar-de-ee-uu-contra-un-sistema-antiaereo-en-iran/
+Cambiada de sección: República Dominicana -> Internacionales: Trump confirma nuevos ataques de EE.UU. contra sistema de defensa iraní
+Revisión: corregida (se corrigió "Trump confirma nuevos ataques contra... defensa antiaérea iraní" sin cambios de hecho; se atribu
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2469 letras -> https://centralnoticias.gob.do/casa-oliver-obtiene-maximo-galardon-como-mejor-ron-en-el-concurso-mundial-spirits-selection-2026-de-bruselas/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> Precios y combustibles: Casa Oliver obtiene máximo galardón como Mejor Ron en el concurso mundial Spirits Selection 2026 de Bruselas
+Revisión: corregida (eliminé "Conoce los detalles." del gancho en ambos idiomas por relleno; ajusté "Según la información oficial"
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2001 letras -> https://fr.usembassy.gov/demonstration-alert-u-s-embassy-paris-france-november-6-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in France (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una alerta de seguridad del sitio oficial de la Embajada de EE.UU. en Francia para ciudadanos estadounidenses. No es una noticia periodística sobre un hecho concreto, sino')
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo escribir esta noticia con los textos que me pasaste. La única versión marcada como fuente oficial es un registro del Federal Register (.gov), y su contenido es principalmente ')
-Fuente no confiable, se salta: primicias.net
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 2711 letras -> https://elnacional.com.do/politica/manolo-pichardo-asegura-prm-quiere-despojar-voto-diaspora_585643.html
-Revisión: corregida (se quitó "parece irreversible" del gancho y la clave en inglés sin cambiar sentido; se agregó atribución expl
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4591 letras -> https://elnuevodiario.com.do/pichardo-acusa-al-prm-de-querer-eliminar-el-voto-de-la-diaspora-dominicana/
-Error IA: ValueError('respuesta sin el formato esperado: Lamento decirte que no puedo completar esta tarea tal como está planteada: solo me pasaste una versión de la noticia (la de El Nuevo Diario), y además el texto se corta antes de terminar, a mitad de l')
-Fuente no confiable, se salta: legacy.com
-Fuente no confiable, se salta: elcongresista.mx
-[Dominicanos en EE.UU.] El Nuevo Día: texto leído 3767 letras -> https://www.elnuevodia.com/noticias/locales/notas/dominicanos-convocan-vigilia-comunitaria-tras-redadas-de-ice-en-puerto-rico-el-silencio-no-es-opcion/
-Revisión: corregida (se añadió atribución al Deportation Data Project en los claves y en el gancho/claves para precisar la fuente;
-[Internacionales] The White House (.gov): texto leído 6628 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-7-2-million-fostering-the-future-endowment-fund/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nRazón: se trata de una alerta de seguridad publicada en el sitio oficial de la Embajada de EE.UU. en Francia (aviso de viaje y recomendaciones), no de una noticia periodística concreta ')
+[Dominicanos en EE.UU.] Telemundo: texto leído 1449 letras -> https://www.telemundo.com/noticias/noticias-telemundo/shorts/joven-dominicana-busca-ganar-escano-en-el-congreso-tmvo13236644
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Joven dominicana busca ganar escaño en el Congreso
+Fuente no confiable, se salta: elsoldelaflorida.com
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3003 letras -> https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/dalvin-melodia-anuncia-nuevas-fechas-ciudades-gira-estados-unidos_578120.html
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Dalvin "La Melodía" anuncia nuevas fechas y ciudades en su gira por Estados Unidos
+Revisión: corregida (se corrigió "a New York" no; se ajustó "Premier Theater at Foxwoods" y "Hard Rock Live" conservando nombres; 
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1603 letras -> https://elnacional.com.do/nacionales/asi-funcionara-red-cables-submarinos-anunciada-google-integra-republica-dominicana_578133.html
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Así funcionará la red de cables submarinos anunciada por Google a la que se integra República Dominicana
+Revisión: corregida (se quitó la atribución "según la información disponible" por ser redundante con la fuente única, se precisó q
+[Dominicanos en EE.UU.] Periódico elDinero: texto leído 1770 letras -> https://eldinero.com.do/383050/muere-el-magnate-haitiano-gilbert-bigio-dueno-de-una-empresa-de-combustibles-en-republica-dominicana/muere-el-magnate-haitiano-gilbert-bigio-dueno-de-una-empresa-de-combustibles-en-republica-dominicana/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Muere el magnate haitiano Gilbert Bigio, dueño de una empresa de combustibles en República Dominicana
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/
 Fuente oficial encontrada: The White House (.gov) 
-Cambiada de sección: Internacionales -> Dominicanos en EE.UU.: First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund
-Revisión: corregida (Se añadió atribución explícita a la Casa Blanca para las cifras de la campaña y las citas; se aclaró que la d
-[Famosos] El Nuevo Día: texto leído 1813 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/ronald-day-reacciona-a-los-accidentes-de-miss-republica-dominicana-y-miss-bulgaria-seguimos-pendientes/
-Revisión: corregida (cambié "Ronald Day sigue atento" por "Ronald Day reacciona" en el título para seguir la fuente, corregí "Miss
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es publicación oficial de la Casa Blanca con opiniones y valoraciones de parte (el texto dice que "Experts agree" y es un compilado de declaraciones a favor del gobierno), y')
+[Internacionales] The White House (.gov): texto leído 2007 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs
+[Internacionales] The White House (.gov): texto leído 247 letras -> https://www.whitehouse.gov/biastips
+No se pudo leer el artículo; no se publica para no salir corta: - The White House (.gov)
 Fuente no confiable, se salta: elsiglo.com.pa
-[Famosos] AlMomento.net: texto leído 1192 letras -> https://almomento.net/artistas-dominicanos-reciben-becas-para-crear-obras-en-paris/
-Cambiada de sección: Famosos -> República Dominicana: Artistas dominicanos reciben becas para crear obras en París
-Revisión: corregida (corregí "become" a "become"→"se convierten en" en el titular español; el titular inglés "win residencies" se 
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: diariolasamericas.com
+[Famosos] El Nacional — La voz de todos: texto leído 4776 letras -> https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/aun-queda-musica-disfrutar-conoce-conciertos-programados-rd-proximos-meses_578094.html
+Revisión: corregida (corregí "Este fin de semana" por fecha exacta, quité "Nicky Jam hará vibrar" → ok; eliminé "Prepara" no aplic
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: bavarodigital.net
 Fuente no confiable, se salta: masvip.com.do
-Fuente no confiable, se salta: midiario.com
 Fuente no confiable, se salta: diaadia.com.pa
+Fuente no confiable, se salta: midiario.com
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: diariodelcauca.com.co
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: los40.com
-[Famosos] Hoy Digital: texto leído 2707 letras -> https://hoy.com.do/vivir/alegria/talento-rd-vibro-premios-heat_1107946_amp.html
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-Fuente no confiable, se salta: amp.alerta.com.co
+Fuente no confiable, se salta: curadas.com
 Fuente no confiable, se salta: lanaciondominicana.com
-Fuente no confiable, se salta: edomexaldia.com
-Fuente no confiable, se salta: viveusa.mx
-Fuente no confiable, se salta: mundonow.com
-Fuente no confiable, se salta: debate.com.mx
-[Famosos] El Nuevo Día: texto leído 5257 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-uganda-hace-historia-con-su-llegada-a-puerto-rico-para-miss-universe/
-[Famosos] Primera Hora: texto leído 5449 letras -> https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-uganda-marca-precedente-en-puerto-rico-al-debutar-en-miss-universe/
-Revisión: corregida (cambié "domingo" de la llegada de Daka a "tarde de hoy" según fuentes —las fuentes no dan día exacto de llega
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/roldy-brito-se-va-para-la-calle-99136.html
-No se pudo leer el artículo; no se publica para no salir corta: Roldy Brito se va para la calle
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-aguilas/2026/11/07/851563/live
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Toros contra los Aguilas el 07/11/2026 gratis
-[Deportes] MLB.com: texto leído 2590 letras -> https://www.mlb.com/es/news/pete-crow-armstrong-y-cody-bellinger-ganan-los-guantes-de-platino
-Revisión: corregida (el borrador afirma que los Cachorros ganaron "por segundo año consecutivo" y que Crow-Armstrong y Bregman gan
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-estrellas/2026/11/07/851543/preview
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Leones contra los Estrellas el 07/11/2026 gratis
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872086/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina 5, Ponce 4 Resultado Final (07/11/2026)
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-tigres/2026/11/06/851455/preview
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Toros contra los Tigres el 06/11/2026 gratis
+Fuente no confiable, se salta: montrealhispano.com
+Fuente no confiable, se salta: elcongresista.mx
+Fuente no confiable, se salta: 21noticias.com
+Fuente no confiable, se salta: 7dias.com.do
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] People en Español: texto leído 2936 letras -> https://peopleenespanol.com/se-confirma-la-triste-causa-de-la-muerte-de-la-actriz-susan-saint-james-12239927
+Revisión: corregida (se quitó "ganadora del Emmy"? No: se corrigió "a causa de un cáncer" y "meses antes", se ajustó la atribución
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851563?ins=vivo&sec=boxscore
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-toros-vs-aguilas-251313
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Aguilas Cibaenas
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851526?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Estrellas Orientales
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851462?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Leones del Escogido vs Tigres del Licey
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851543?ins=previa
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-escogido-vs-estrellas-251312
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Leones del Escogido vs Estrellas Orientales
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851507?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Gigantes del Cibao
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/gigantes-vs-tigres/2026/11/07/851454/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Gigantes 3, Tigres 8 Resultado Final (07/11/2026)
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1031 letras -> https://micm.gob.do/transparencia/proyectos-y-programas/sinacid-ci23-fnraecid-s00845-informe-seguimiento-2do-2026-pdf
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 5046 letras -> https://elnacional.com.do/economia/uasd-denuncia-distorsiones-precios-combustibles-pide-auditoria_575560.html
-Revisión: corregida (se quitó "Este enfoque aumenta las posibilidades de portada" no aparece aquí; se corrigió que las fuentes dic
-[Videojuegos] Nintendo: texto leído 1927 letras -> https://www.nintendo.com/sg/news/article/6tzi9SCJLAT6RkcwcUQts6
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Switch 2 + Mario Kart World Bundle arrives on 26 November.
+[Precios y combustibles] Noticias SIN: texto leído 1616 letras -> https://noticiassin.com/economia/2026/11/07/dolar-en-rd-hoy-cotizacion-del-7-de-noviembre-2165775/
+[Precios y combustibles] MARCA: texto leído 2590 letras -> https://www.marca.com/mx/actualidad/dinero/2026/11/07/precio-dolar-hoy-sabado-7-noviembre-2026-peso-rompe-mala-racha-8-semanas.html
+[Precios y combustibles] El Comercio Perú: texto leído 1092 letras -> https://elcomercio.pe/respuestas/venezuela/bcv-actualiza-el-precio-del-dolar-para-hoy-consulta-cuanto-vale-la-divisa-en-venezuela-tdpe-noticia/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotiza el dólar este sábado 7 de noviembre en RD
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/meta-rd-2036-busca-diaspora-se-integre-al-sistema-financiero-del-pais/
+No se pudo leer el artículo; no se publica para no salir corta: Meta RD 2036 busca diáspora se integre al sistema financiero del país
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
-[Videojuegos] Nintendo: texto leído 671 letras -> https://www.nintendo.com/en-ca/store/products/super-mario-coin-collection-ornament-124752/
+[Videojuegos] Nintendo careers: texto leído 5323 letras -> https://careers.nintendo.com/jobs/4465998009/
+Fuente oficial encontrada: Nintendo careers 
+Error IA: ValueError('respuesta sin el formato esperado: No se puede redactar una noticia a partir de este material. La única versión que se entregó es una oferta de empleo de Nintendo of America para un puesto de gerente senior de gestión de negocios en Pu')
+[Videojuegos] Nintendo: texto leído 2485 letras -> https://www.nintendo.com/au/games/nintendo-switch/witchbrook/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Super Mario™ Coin Collection Ornament
-Marcadores: 34 juegos de LIDOM entre hace 3 días y dentro de 5
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook - Nintendo Switch - Games
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
+Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-20 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 29 · ya cubiertas: 15 · no confiables: 23 · opinión: 0 · con texto leído: 25 · sin texto: 10 · medios juntados: 3 · con fuente oficial: 9 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 5 · cambiadas de sección: 6 · largas: 11 · ocultas (cortas): 9
-Para Instagram (tendencia 2): Investigan muerte de niño de cuatro años en colegio de Los Alcarrizos
+17 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 5 · ya vistas: 24 · ya cubiertas: 17 · no confiables: 20 · opinión: 0 · con texto leído: 30 · sin texto: 10 · medios juntados: 4 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 11 · cambiadas de sección: 6 · largas: 9 · ocultas (cortas): 8
