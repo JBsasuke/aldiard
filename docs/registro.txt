@@ -1,71 +1,99 @@
-Corrida: 2026-11-08 04:33 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 50, 6100')
-[República Dominicana] Presidencia de la República Dominicana: texto leído 5333 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-hace-realidad-el-sueno-de-2500-familias-de-el-almirante-ii-con-la
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se quitó "en el sector" redundante y se ajustó "Santo Domingo Este" como "municipio Santo Domingo Este"; se a
-[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-inaugura-33-oficinas-gubernamentales-para-acercar-los-servicios
-[República Dominicana] Diario Libre: texto leído 3189 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/08/abinader-inaugura-edificio-de-oficinas-gubernamentales-en-bonao/3714763
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
-Revisión: corregida (se corrigió que las instalaciones son del antiguo hospital Pedro Emilio de Marchena y no del José Columna; se
-[República Dominicana] centralnoticias.gob.do: texto leído 1839 letras -> https://centralnoticias.gob.do/departamento-aeroportuario-entrega-estudios-de-planificacion-para-ampliacion-base-aerea-san-isidro/
-[República Dominicana] El Dia.com.do: texto leído 1825 letras -> https://eldia.com.do/departamento-aeroportuario-entrega-estudios-para-ampliar-base-aerea-san-isidro/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Dia.com.do
-Revisión: corregida (se cambió el título y el gancho en inglés de "Airport Authority" a "Airport Department", se corrigió "Brigadi
+Corrida: 2026-11-08 08:58 PM (hora RD)
+Noticia con datos propios: Dólar en RD hoy: dónde comprar y dónde vender conviene más
+[República Dominicana] En Salud Digital: texto leído 4767 letras -> https://ensaluddigital.gob.do/sns-entrega-equipos-al-hospital-angel-contreras-y-anuncia-remodelacion-del-hospital-de-yamasa/
+Fuente oficial encontrada: En Salud Digital 
+Rechazada por la revisión: SNS entrega equipos al Hospital Ángel Contreras y anuncia remodelación del Hospital de Yamasá -> cifras que no aparecen en las fuentes: 15
+[República Dominicana] centralnoticias.gob.do: texto leído 2233 letras -> https://centralnoticias.gob.do/codap-lamenta-fallecimiento-de-hector-ledesma-destacado-artista-visual-pintor-y-maestro/
+[República Dominicana] N Digital: texto leído 1677 letras -> https://n.com.do/2026/11/08/fallece-artista-visual-dominicano-hector-ledesma/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: N Digital
+Revisión: corregida (título EN: "58" no está en las fuentes, nacido en 1967 y fallecido en 2026 no permite confirmar la edad; quit
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1113 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3363875
+No se pudo leer el artículo; no se publica para no salir corta: Dominicana (APORDOM ). En ejercicio de 1as atribuciones que me confiere el Articulo 55 de la Constituciôn de la ARTiCULO 1.-. E
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3404856
+No se pudo leer el artículo; no se publica para no salir corta: - 59 - Dec. núm. 315-26 que concede el beneficio de la jubilación y asigna una pensión del Estado a 18 servidores del Institu
+[República Dominicana] DGII: texto leído 1120 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/ecf-y-copago-en-prestadors-de-servicios/6aef870f548a9880f82e9f2c
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): eCF y copago en prestadors de servicios
+[República Dominicana] DGII: texto leído 509 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-tratamiento-fiscal-y-reporte-de-la-propina-legal-10/6aefb38c3f6f2097813edfa9
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre tratamiento fiscal y reporte de la Propina Legal (10%)
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3297861
+No se pudo leer el artículo; no se publica para no salir corta: DECRETO: Art. 1.- El sefior Rafael Dlaz, queda designado Coordinador Regional de Desarrollo para la Region Noroeste del pais. Ar
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3399217
+No se pudo leer el artículo; no se publica para no salir corta: DADO en la ciudad de Santo Domingo de Guzmán, Distrito Nacional, capital de la República Dominicana, a los siete (7) días del
 [Dominicanos en EE.UU.] Ministerio de Educación de la República Dominicana: texto leído 1768 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/legalizacion-de-record-de-notas-de-educacion-media
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Legalización De Récord De Notas De Educación Media
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 2001 letras -> https://fr.usembassy.gov/demonstration-alert-u-s-embassy-paris-france-november-6-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in France (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Demonstration Alert: U.S. Embassy Paris, France – November 6, 2026
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment
 Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los textos que me diste. La única versión disponible es el Federal Register (.gov), y su contenido es un aviso legal del propio sitio sobre el estatu')
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/lideres-de-rd-y-puerto-rico-abordan-operaciones-de-control-migratorio-de-ice/
-Revisión: corregida (eliminé la atribución de la propuesta al Gobierno dominicano y el "mientras" de la cita; corregí "Jeannette G
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 7000 letras -> https://eldia.com.do/aeropuerto-las-americas-proyecta-8654-vuelos-durante-la-temporada-de-invierno-2026-27/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Aeropuerto Las Américas proyecta 8,654 vuelos durante la temporada de invierno 2026-27
-Rechazada por la revisión: Aeropuerto Las Américas proyecta 8,654 vuelos durante la temporada de invierno 2026-27 -> cifras que no aparecen en las fuentes: 654
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3026 letras -> https://elnacional.com.do/politica/fuerza-pueblo-rhode-island-afirma-diaspora-mantiene-esperanza-leonel-fernandez_578129.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Fuerza del Pueblo en Rhode Island afirma diáspora mantiene esperanza en Leonel Fernández
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program;
+[Dominicanos en EE.UU.] U.S. Virtual Embassy Iran (.gov): texto leído 1157 letras -> https://ir.usembassy.gov/
+Fuente oficial encontrada: U.S. Virtual Embassy Iran (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Homepage - U.S. Virtual Embassy Iran
+[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/us7000twwc
+No se pudo leer el artículo; no se publica para no salir corta: M 4.5 - 90 km NE of Punta Cana, Dominican Republic
+[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pr2026312000
+No se pudo leer el artículo; no se publica para no salir corta: M 3.7 - 124 km NNE of Punta Cana, Dominican Republic
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/documents/2026/11/09/2026-22746/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican
+Fuente oficial encontrada: Federal Register (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (“CAFTA-DR”)
 [Internacionales] The White House (.gov): texto leído 2249 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows
-[Internacionales] The White House (.gov): texto leído 3432 letras -> https://www.whitehouse.gov/videos/president-trump-delivers-remarks-nov-6-2026/
-Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es un mensaje presidencial genérico de felicitación por Diwali, sin un hecho noticioso concreto (no hay acontecimiento, cifras, decisiones ni consecuencias). Por las reglas, ')
-[Famosos] Listín Diario: texto leído 1385 letras -> https://listindiario.com/entretenimiento/farandula/20261108/suspenden-despedida-miss-universo-rd-melissa-nunez-accidente-viaje-pr-sigue-pendiente_929317.html
-Revisión: corregida (quité "Según informó Listín Diario," que estaba mal ubicado, dejando la atribución clara a La Pitonisa y su v
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un mensaje presidencial de felicitación por Diwali, sin hechos noticiosos concretos (no hay acontecimiento, cifras, decisiones ni consecuencias). Es una comunicación prot')
+[Internacionales] The White House (.gov): texto leído 3598 letras -> https://www.whitehouse.gov/videos/president-trump-gaggles-with-press-upon-arrival-at-palm-beach-fl-nov-6-2026/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Gaggles with Press Upon Arrival at Palm Beach, FL, Nov. 6, 2026
+[Famosos] Primera Hora: texto leído 1350 letras -> https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-republica-dominicana-sin-el-visto-bueno-para-venir-a-puerto-rico/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es el único texto disponible y proviene de un periódico (Primera Hora) que cita un video de un tercero, sin fuente oficial que confirme los hechos. Dado que no hay una fuen')
 Fuente no confiable, se salta: midiario.com
-[Famosos] El Dia.com.do: texto leído 1866 letras -> https://eldia.com.do/la-colombiana-angel-bleu-se-deja-sentir-en-rd-con-el-sencillo-una-y-otra-vez/
-Revisión: corregida (se corrigió la comilla de cierre del título en español y en inglés, se corrigió "Una y Otra Vez" para mantene
-[Deportes] Lidom: texto leído 2952 letras -> https://lidom.com/tigres-del-licey/sergio-alcantara-lidera-ofensiva-del-fiesta-de-cumpleanos-99212.html
-Revisión: corregida (corregí el récord de Licey de 22-22 a 19-15 según fuentes, ya que el 22-22 no aparece como récord del equipo 
-[Deportes] Lidom: texto leído 3673 letras -> https://lidom.com/aguilas-cibaenas/aguilas-vencen-13-6-a-toros-y-enlazan-dos-triunfos-corridos-por-primera-vez-en-la-temporada-99223.html
-[Deportes] Listin Diario: texto leído 2074 letras -> https://listindiario.com/el-deporte/beisbol/20261107/aguilas-vencen-toros-enlazan-dos-triunfos-corridos-primera-vez-torneo_929282.html
-Revisión: corregida (corregí "4-for-3" a "4-for-3" → en realidad la fuente dice "4-3" (4 turnos, 3 imparables) en español; en ingl
+[Famosos] El Nacional — La voz de todos: texto leído 2333 letras -> https://elnacional.com.do/fama-y-vida/farandula/gold-runway-enciende-pasarela-presenta-gallery-models-management_585689_amp.html
+No encaja en ninguna sección, se salta: Gold Runway enciende la pasarela y presenta a Gallery Models Management
+[Famosos] El Nacional — La voz de todos: texto leído 2701 letras -> https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/dominicanos-brillan-nominados-premios-billboard-musica-latina-2026_580592.html
+Revisión: corregida (quité frases de relleno en ambos idiomas, agregué la atribución a El Nacional en el hook/gancho de la versión
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: ntelemicro.com
+[Famosos] Noticias SIN: texto leído 2786 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/08/laura-rivera-brilla-en-que-canten-ellas-junto-a-maridalia-2166155/?amp=1
+Revisión: corregida (se quitó "Noticias SIN" del apoyo porque la fuente lo menciona como medio, no como respaldo afirmado en el te
+[Deportes] Lidom: texto leído 1765 letras -> https://lidom.com/toros-del-este/pedro-severino-mientras-tenga-algo-que-aportar-seguire-activo-99268.html
+Revisión: corregida (quité "medio viejito" del texto en inglés y la traducción de "old-timer" se mantuvo fiel; eliminé "En la entr
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-leones/2026/11/08/851475/live
+No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Tigres contra los Leones el 08/11/2026 gratis
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/estrellas-vs-toros/2026/11/08/851439/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Estrellas 4, Toros 5 Resultado Final (08/11/2026)
+[Deportes] MLB.com: texto leído 372 letras -> https://www.mlb.com/es/video/francisco-urbaez-amplia-ventaja-de-toros-con-jonron
+No se pudo leer el artículo; no se publica para no salir corta: Francisco Urbaez amplía ventaja de Toros con jonrón
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/870010/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones 2, Tigres 1 Resultado Final (08/11/2026)
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/amp/news/cuando-se-anuncian-los-premios-de-mlb-del-2026-jmv-cy-young-y-novato-del-ano.html
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste está cortado justo antes de terminar y no incluye la versión completa de la noticia. Además, solo tengo una versión, un artículo de MLB.com que es una guía gene')
+Fuente no confiable, se salta: rccnoticias.com.do
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/frankelvin-sanchez-de-elcaribe-nominado-al-premio-de-periodismo-digital/
+No se pudo leer el artículo; no se publica para no salir corta: Frankelvin Sánchez, de elCaribe, nominado al Premio de Periodismo Digital
 Fuente no confiable, se salta: revistamercado.do
-[Precios y combustibles] AlMomento.net: texto leído 2704 letras -> https://almomento.net/gobierno-dominicano-estudia-aplicar-ajustes-a-combustibles/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno dominicano estudia aplicar ajustes a combustibles
-Rechazada por la revisión: Gobierno dominicano estudia aplicar ajustes a combustibles -> cifras que no aparecen en las fuentes: 10, 140000, 145000, 2, 30000, 36
-Fuente no confiable, se salta: robertocavada.com
-[Precios y combustibles] AlMomento.net: texto leído 2173 letras -> https://almomento.net/petroleo-registra-fuerte-caida-semanal-por-debajo-de-us100/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "cerca de un 13 %" a "cerca de un 13 %" sin cambios de cifra; ajusté "Ambo
-Revisión: corregida (corregí "cerca de un 13 %" a "cerca de un 13 %" sin cambios de cifra; ajusté "Ambos subieron levemente" a "Am
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/en-la-politica/leonel-afirma-en-2028-se-inicia-el-relevo-politico/
+No se pudo leer el artículo; no se publica para no salir corta: Leonel afirma en 2028 se inicia el relevo político
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/rd-llama-a-fortalecer-lazos-iberoamericanos/
+No se pudo leer el artículo; no se publica para no salir corta: RD llama a fortalecer lazos iberoamericanos
 [Videojuegos] Nintendo: texto leído 3731 letras -> https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Upcoming Games – November 2026
+[Videojuegos] Nintendo: texto leído 2401 letras -> https://www.nintendo.com/en-ca/store/products/backrooms-together-survival-escape-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): BACKROOMS TOGETHER: SURVIVAL ESCAPE
 [Videojuegos] Nintendo: texto leído 2485 letras -> https://www.nintendo.com/au/games/nintendo-switch/witchbrook/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook - Nintendo Switch - Games
-[Videojuegos] XBOX Wire: texto leído 3827 letras -> https://news.xbox.com/en-us/recent-news/page/243/
-Fuente oficial encontrada: XBOX Wire 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Recent News - Page 243 of 2007
-Consejo del día (kiloclaro): Ahorra luz sin sacrificar confort
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-9 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 10 · ya cubiertas: 9 · no confiables: 3 · opinión: 0 · con texto leído: 24 · sin texto: 0 · medios juntados: 3 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 7 · cambiadas de sección: 2 · largas: 9 · ocultas (cortas): 0
-Para Instagram (tendencia 4): Embajada de EE.UU. emite alertas de seguridad por amenazas en Medio Oriente y por festejos en Cartagena
+18 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 22 · ya cubiertas: 5 · no confiables: 5 · opinión: 0 · con texto leído: 22 · sin texto: 13 · medios juntados: 1 · con fuente oficial: 15 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 13 · cambiadas de sección: 0 · largas: 4 · ocultas (cortas): 13
+Para Instagram (tendencia 1): Dólar en RD hoy: dónde comprar y dónde vender conviene más
