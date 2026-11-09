@@ -1,87 +1,93 @@
-Corrida: 2026-11-09 04:04 AM (hora RD)
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/policia-nacional-apresa-en-flagrante-delito-a-hombre-de-57-anos-por-muerte-a-tiros-de-su-pareja-sentimental-en-san-juan-de-la-maguana/
-[República Dominicana] El Dia.com.do: texto leído 1010 letras -> https://eldia.com.do/policia-nacional-apresa-a-hombre-de-57-anos-por-muerte-a-tiros-de-su-pareja-sentimental-en-san-juan-de-la-maguana/
-Revisión: corregida (se cambió "Rosendo Moya Tavares" a "Moya Tavares" en la última mención? No: el nombre correcto según las fuen
-[República Dominicana] MIREX | Ministerio de Relaciones Exteriores: texto leído 2707 letras -> https://mirex.gob.do/canciller-bisono-propone-acercar-al-gobierno-y-a-empresarios-de-supermercados-en-ee-uu-para-ampliar-oportunidades-comerciales/
-Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
-Cambiada de sección: República Dominicana -> Dominicanos en EE.UU.: Canciller Bisonó propone acercar al Gobierno y a empresarios de supermercados en EE. UU. para ampliar oportunidades comerciales
-Revisión: corregida (eliminé "es importante señalar" y "cabe destacar"; corregí la ubicación de la gala, que las fuentes sitúan en
-[República Dominicana] Dirección de Epidemiología: texto leído 185 letras -> https://central.epidemiologia.gob.do/
-No se pudo leer el artículo; no se publica para no salir corta: - Dirección de Epidemiología
-[República Dominicana] En Salud Digital: texto leído 4767 letras -> https://ensaluddigital.gob.do/sns-entrega-equipos-al-hospital-angel-contreras-y-anuncia-remodelacion-del-hospital-de-yamasa/
-Fuente oficial encontrada: En Salud Digital 
-Rechazada por la revisión: SNS entrega equipos al Hospital Ángel Contreras y anuncia remodelación del Hospital de Yamasá -> cifras que no aparecen en las fuentes: 15
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3404380
-No se pudo leer el artículo; no se publica para no salir corta: - 29 - Dec. núm. 32-26 que concede el beneficio de la jubilación y asigna una pensión del Estado por antigüedad a 134 servid
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3339450
-No se pudo leer el artículo; no se publica para no salir corta: DE CRE T 0:
-[República Dominicana] DGII: texto leído 1120 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/ecf-y-copago-en-prestadors-de-servicios/6aef870f548a9880f82e9f2c
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): eCF y copago en prestadors de servicios
-[República Dominicana] DGII: texto leído 509 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-tratamiento-fiscal-y-reporte-de-la-propina-legal-10/6aefb38c3f6f2097813edfa9
-Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: La fuente proporcionada es un mensaje de consulta (un ciudadano pregunta a la DGII cómo tratar fiscalmente la Propina Legal del 10%), no una noticia con hechos, respuesta oficial ni desenlace. No cont')
-[República Dominicana] De Último Minuto: texto leído 2814 letras -> https://deultimominuto.com/deportes/beisbol/licey-remonta-ante-el-escogido-iguala-en-la-cima-y-toma-el-primer-lugar-por-dominio-en-la-serie-particular/
-Cambiada de sección: República Dominicana -> Deportes: Licey remonta ante el Escogido, iguala en la cima y toma el primer lugar por dominio en la serie particular
-Revisión: corregida (se quitó "ya que" no; se corrigió "sacrificio" → se mantuvo; se ajustó "relevo azul logró contener" a la fuen
+Corrida: 2026-11-09 02:53 PM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender según la tasa
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/yeni-berenice-presenta-en-el-banco-mundial-las-reformas-y-los-avances-de-republica-dominicana-para-fortalecer-el-ministerio-publico-y-la-lucha-anticorrupcion/
+No se pudo leer el artículo; no se publica para no salir corta: Yeni Berenice presenta en el Banco Mundial las reformas y los avances de República Dominicana para fortalecer el Ministerio Público y la lucha anticorrupción
+[República Dominicana] DGII: texto leído 413 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/emisor-electrnico-como-persona-fsica/6af168105a94e3d87ab4d496
+No se pudo leer el artículo; no se publica para no salir corta: Emisor electrónico como persona física
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3332398
+No se pudo leer el artículo; no se publica para no salir corta: Articulo 18.- La seiiora Martina Berroa, queda autorizada a cambiar su nombre por el de Agripina Berroa. Articulo 19.- El seiior
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3331500
+No se pudo leer el artículo; no se publica para no salir corta: -76- DADO en Santo Domingo de Guzman, Distrito Nacional, Capital de la Republica Dorninicana, a 10s dieciocho (18) dias del mes
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3273475
+No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.-Ell1 celebran en memoria de 10s MBrtires de la Patria, para el dia 7 del presente mes. 10s t
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3333315
+No se pudo leer el artículo; no se publica para no salir corta: -33- D'Alessandro, Miembros de la Junta Directiva de la Direccion Nacional de Control de Drogas, en representacion de la Secreta
+[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3264629
+No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &. -1871 1 25
+[República Dominicana] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6714-bcrd-informa-que-la-variacion-del-ipc-de-octubre-fue-de-058-
+[República Dominicana] Noticias SIN: texto leído 5573 letras -> https://noticiassin.com/economia/2026/11/09/ipc-de-octubre-sube-0-58-y-la-inflacion-llega-a-5-14-2166450/
+Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Noticias SIN
+Revisión: corregida (se corrigió la inflación subyacente: la fuente dice que el IPC subyacente tuvo una variación mensual de 0.45 
+[República Dominicana] De Último Minuto: texto leído 3772 letras -> https://deultimominuto.com/nacionales/residentes-de-puerta-de-hierro/
+Revisión: corregida (eliminé "Según los afectados" redundante con atribución clara y ajusté "en los textos consultados" a "no se d
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 5295 letras -> https://centralnoticias.gob.do/fuerza-del-pueblo-rechaza-operativos-de-ice-contra-dominicanos-en-puerto-rico/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Revisión: corregida (el título y el gancho decían "denuncia" y "denunciar" de forma que atribuían a la institución; ajusté "exige 
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2089 letras -> https://centralnoticias.gob.do/aumenta-presencia-de-patrullas-militares-en-la-frontera-dominico-haitiana/
+[Dominicanos en EE.UU.] N Digital: texto leído 2438 letras -> https://n.com.do/2026/11/09/super-tucano-realizan-vuelos-de-patrullaje-sobre-la-frontera-dominico-haitiana-2/
+[Dominicanos en EE.UU.] Acento: texto leído 2064 letras -> https://acento.com.do/actualidad/aumenta-presencia-de-patrullas-militares-en-principales-puntos-de-la-frontera-con-haiti-9786414.html
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: N Digital
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Aumenta presencia de patrullas militares en la frontera dominico-haitiana
+Revisión: corregida (atribuí a N Digital los vuelos de Super Tucano, el video y la declaración del ministro sobre la desaparición 
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1602 letras -> https://centralnoticias.gob.do/alejandro-rodriguez-representara-a-republica-dominicana-en-mister-manhunt-international-en-vietnam/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Alejandro Rodríguez representará a República Dominicana en Mister Manhunt International en Vietnam
+Revisión: corregida (se atribuyó a la fuente oficial la afirmación sobre las causas promovidas y se quitó "es importante"/"cabe de
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 566 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-paraguayan-president-alliana/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with Paraguayan President Alliana
 [Dominicanos en EE.UU.] U.S. Virtual Embassy Iran (.gov): texto leído 1157 letras -> https://ir.usembassy.gov/
 Fuente oficial encontrada: U.S. Virtual Embassy Iran (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Homepage - U.S. Virtual Embassy Iran
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/09/2026-22746/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican
-Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (“CAFTA-DR”)
-[Dominicanos en EE.UU.] GovInfo (.gov): texto leído 0 letras -> https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22746.pdf
-No se pudo leer el artículo; no se publica para no salir corta: Federal Register/Vol. 91, No. 215/Monday, November 9, 2026/Notices
-[Dominicanos en EE.UU.] National Institutes of Health (NIH) | (.gov): texto leído 7000 letras -> https://pmc.ncbi.nlm.nih.gov/articles/PMC13733507/
-Fuente oficial encontrada: National Institutes of Health (NIH) | (.gov) 
-No encaja en ninguna sección, se salta: Development and validation of a dementia risk prediction model for low- and middle-income countries: the 10/66 study
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Dominicanos en EE.UU.] Laconia, NH (.gov): texto leído 1002 letras -> https://www.laconianh.gov/calendar.aspx?view=list&year=2026&month=11&day=26&CID=29
-Fuente oficial encontrada: Laconia, NH (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Laconia, NH • CivicEngage
-[Dominicanos en EE.UU.] U.S. Customs and Border Protection (.gov): texto leído 46 letras -> https://www.help.cbp.gov/s/article/Article-1319
-No se pudo leer el artículo; no se publica para no salir corta: Eligibility for Global Entry
-[Internacionales] The White House (.gov): texto leído 2249 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows
+[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pr2026313001
+No se pudo leer el artículo; no se publica para no salir corta: M 3.6 - 48 km SSW of Boca de Yuma, Dominican Republic
 [Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un mensaje presidencial de felicitación por Diwali, sin un hecho noticioso concreto (no hay acontecimiento, cifras, decisiones ni consecuencias). Es un comunicado protoco')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto es un mensaje presidencial de felicitación por Diwali, sin un hecho noticioso concreto (no hay acción, dato ni evento verificable), así que no corresponde publicarlo como notic')
 [Internacionales] The White House (.gov): texto leído 2796 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-honoring-the-american-flag/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on Honoring the American Flag
+[Internacionales] The White House (.gov): texto leído 2249 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-ag-todd-blanche-dismantles-democrats-oversight-charade-on-the-sunday-shows/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ICYMI: AG Todd Blanche Dismantles Democrats’ “Oversight” Charade on the Sunday Shows
+[Famosos] El Nuevo Día: texto leído 3601 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-republica-dominicana-llega-este-lunes-a-puerto-rico/
+Revisión: corregida (quité "Ambas ya tienen el alta médica" del gancho y del inglés porque las fuentes no dicen que Febles tenga a
 [Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/09/familias-buscan-a-personas-desaparecidas-en-republica-dominicana/3714874
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo generar esa noticia tal como la pides. Las versiones que me pasaste están incompletas: el texto se corta justo en la parte del hallazgo de los restos, y además solo tengo una ')
-[Famosos] Primera Hora: texto leído 1350 letras -> https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-republica-dominicana-sin-el-visto-bueno-para-venir-a-puerto-rico/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss República Dominicana sin el visto bueno para venir a Puerto Rico
-[Famosos] El Nuevo Día: texto leído 1453 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/incertidumbre-sobre-la-llegada-de-miss-universe-republica-dominicana-a-puerto-rico/
-Revisión: corregida (se quitó "en Santo Domingo" del inglés que no estaba en la fuente; se corrigió "Según explicó" a "explicó" si
-[Famosos] El Nacional — La voz de todos: texto leído 1194 letras -> https://elnacional.com.do/fama-y-vida/farandula/viaje-puerto-rico-miss-rd-universo-2026-pospuesto-indicaciones-medicas_585719.html
-Revisión: corregida (quité "de Melissa Núñez" no; ajusté "pospuso" a "pospone" y "Miss RD" a términos del fuente; eliminé "según e
-[Deportes] Lidom: texto leído 2469 letras -> https://lidom.com/gigantes-del-cibao/marte-jonronea-y-gigantes-blanquean-3-0-a-las-aguilas-en-partido-recortado-por-la-lluvia-99370.html
-[Deportes] Listín Diario: texto leído 2307 letras -> https://listindiario.com/el-deporte/beisbol/20261108/marte-jonronea-gigantes-blanquean-3-0-aguilas-partido-recortado-lluvia_929387.html
-[Deportes] Acento: texto leído 2047 letras -> https://acento.com.do/deportes/gigantes-blanquean-3-0-a-las-aguilas-con-jonron-de-noelvi-marte-en-partido-recortado-por-lluvia-9786489.html
-Revisión: corregida (cambié "tercer episodio" por "tercera entrada" donde aplica, corregí "cuenta" a "conteo", quité "que tuvo su 
-[Deportes] Lidom: texto leído 2627 letras -> https://lidom.com/tigres-del-licey/albert-abreu-domina-en-cinco-entradas-99396.html
-Revisión: corregida (Se corrigió "Wander Suero" y el resto coincide; se cambió "Leones" a "Escogido" en el gancho... ver abajo. Se
-[Precios y combustibles] Diario Libre: texto leído 6005 letras -> https://www.diariolibre.com/economia/energia/2026/11/09/costo-de-los-combustibles-y-su-impacto-sobre-la-economia-dominicana/3715076
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el mensaje se corta en medio de la Versión 1 de Diario Libre y no llega a las demás versiones. Solo tengo ese fragmento, así que no puedo redactar la noticia completa sin inventar dato')
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: revistamercado.do
-[Precios y combustibles] De Último Minuto: texto leído 3868 letras -> https://deultimominuto.com/economia/juan-marte-cuestiona-aumento/
-Revisión: corregida (eliminé "Según el dirigente" redundante y ajusté el orden; el resto coincide con las fuentes)
+Cambiada de sección: Famosos -> República Dominicana: Tras las pistas de los que no regresaron
+Revisión: corregida (quité "Desde que encontraron los restos" no aplica; ajusté la frase de la denuncia y la atribución de "un pat
+[Famosos] El Nacional — La voz de todos: texto leído 1512 letras -> https://elnacional.com.do/fama-y-vida/farandula/anuel-aa-agranda-familia-yailin-sorprende-reaccion_585763_amp.html
+Revisión: corregida (se eliminó "Según El Nacional" en la lista de hijos donde no hay error de atribución pero se mantuvo; se ajus
+[Deportes] Lidom: texto leído 1534 letras -> https://lidom.com/leones-del-escogido/stephen-nogosek-regresa-a-los-leones-del-escogido-99447.html
+Revisión: corregida (cambié "pitcher" por "lanzador" en la versión en español para un tono natural dominicano, y corregí el sentid
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851497?ins=resultado
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-aguilas-vs-gigantes-251325
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Aguilas Cibaenas vs Gigantes del Cibao
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851473?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Leones del Escogido
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851439?ins=vivo&sec=boxscore
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-estrellas-vs-toros-251323
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Toros del Este
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851430?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Toros del Este
+[Deportes] Lidom: texto leído 1239 letras -> https://lidom.com/noticias/miguel-cairo-destaca-el-pitcheo-y-la-ofensiva-de-noelvi-marte-en-triunfo-de-gigantes-99407.html
+Revisión: corregida (eliminé "de regreso" en CLAVES, que la fuente no dice (solo dice "contento de tener a Peralta de regreso", no
+[Precios y combustibles] Acento: texto leído 5309 letras -> https://acento.com.do/economia/bcrd-reporta-inflacion-de-0-58-en-octubre-impulsada-por-alzas-en-transporte-y-alimentos-9786655.html
+Revisión: corregida (eliminé "Trasporte" a Transporte en claves; quité "tanto en RD como en EE.UU." que no aparece en las fuentes 
 [Videojuegos] Nintendo: texto leído 2485 letras -> https://www.nintendo.com/au/games/nintendo-switch/witchbrook/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Witchbrook - Nintendo Switch - Games
-[Videojuegos] Nintendo: texto leído 581 letras -> https://www.nintendo.com/ph/news/article/5yiWFiiWijA6SGlgwVWAnk
+[Videojuegos] Nintendo: texto leído 525 letras -> https://www.nintendo.com/ph/news/article/5yiWFiiWijA6SGlgwVWAnk
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ask the Developer: The Legend of Zelda: Ocarina of Time interview
-[Videojuegos] XBOX Wire: texto leído 3785 letras -> https://news.xbox.com/en-us/recent-news/page/243/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasas no contiene una noticia concreta: es una entrevista de presentación de Nintendo sobre el juego *The Legend of Zelda: Ocarina of Time* para Nintendo Switch 2, con e')
+[Videojuegos] XBOX Wire: texto leído 3795 letras -> https://news.xbox.com/en-us/recent-news/page/824/
 Fuente oficial encontrada: XBOX Wire 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una página de índice o portada del sitio Xbox Wire (menús de navegación y listas de titulares), no una noticia concreta. No contiene hechos, fechas ni declaraciones que p')
-Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Consejo del día (divisas): Cuida tu dinero al cambiar y enviar
 Marcadores: 33 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-13 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 2 · ya vistas: 11 · ya cubiertas: 3 · no confiables: 2 · opinión: 0 · con texto leído: 26 · sin texto: 6 · medios juntados: 3 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 10 · cambiadas de sección: 2 · largas: 8 · ocultas (cortas): 5
+24 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 5 · ya vistas: 10 · ya cubiertas: 2 · no confiables: 0 · opinión: 0 · con texto leído: 22 · sin texto: 14 · medios juntados: 2 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 4 · error IA: 3 · descartadas por la IA: 5 · cambiadas de sección: 3 · largas: 11 · ocultas (cortas): 12
+Para Instagram (tendencia 2): Aumentan patrullajes militares en la frontera con Haití; los cruces siguen con normalidad
