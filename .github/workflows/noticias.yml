@@ -13,6 +13,7 @@ env:
 jobs:
   publicar:
     runs-on: ubuntu-latest
+    timeout-minutes: 20     # si algo se traba, se corta a los 20 minutos y no bloquea las siguientes
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
