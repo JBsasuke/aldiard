@@ -1,5 +1,847 @@
 [
  {
+  "id": "f2412714f4",
+  "titulo": "Barahona recibe dos autobuses para estudiantes de Pescadería y Jaquimeyes",
+  "titulo_original": "Ministerio de la Juventud entrega dos autobuses estudiantiles en Barahona a través del programa TURNO",
+  "resumen": "El Ministerio de la Juventud entregó dos autobuses a estudiantes de Barahona para facilitar su movilidad hacia los centros de estudio.",
+  "gancho": "El Ministerio de la Juventud entregó dos autobuses a estudiantes de Barahona para facilitar su movilidad hacia los centros de estudio.",
+  "parrafos": [
+   "El Ministerio de la Juventud, dirigido por Carlos Valdez, entregó este viernes dos autobuses estudiantiles para jóvenes de las comunidades de Pescadería y Jaquimeyes, en la provincia de Barahona. La entrega se realizó dentro del programa Transporte Universitario Nacional Organizado (TURNO), que busca facilitar el acceso a la educación superior.",
+   "La jornada estuvo encabezada por los viceministros Fernando Lagares y Angelo Ramírez. La iniciativa, según el Ministerio, responde al compromiso del presidente Luis Abinader con las oportunidades para la juventud, especialmente en comunidades donde el transporte representa un desafío para continuar los estudios.",
+   "En el primer acto, celebrado en el distrito municipal de Pescadería, Lagares recordó que en 2023, durante un recorrido político por la provincia, la asociación de estudiantes le solicitó gestionar un autobús. Explicó que el único que tenían había sido donado por el expresidente Hipólito Mejía en 2001. \"Hoy regresamos a Pescadería no con otra promesa, sino con resultados\", afirmó al entregar una unidad modelo 2027.",
+   "Después, la comitiva se trasladó a Jaquimeyes, donde se entregó una segunda unidad a la asociación de estudiantes de esa comunidad. Lagares dijo que también había asumido ese compromiso y expresó satisfacción por cumplirlo en ambas comunidades.",
+   "Ramírez, por su parte, destacó que el programa busca que las dificultades de transporte no se conviertan en obstáculos para la formación académica de los jóvenes."
+  ],
+  "claves": [
+   "Dos autobuses entregados en Pescadería y Jaquimeyes, provincia de Barahona.",
+   "Forman parte del programa Transporte Universitario Nacional Organizado (TURNO).",
+   "El viceministro Fernando Lagares recordó un compromiso asumido con los estudiantes en 2023."
+  ],
+  "importa": "En comunidades de Barahona, el transporte representa uno de los principales desafíos para que los jóvenes continúen sus estudios.",
+  "en": {
+   "titulo": "Barahona Receives Two Buses for Students in Pescadería and Jaquimeyes",
+   "gancho": "The Ministry of Youth handed over two buses to students in Barahona to make their travel to study centers easier.",
+   "claves": [
+    "Two buses delivered in Pescadería and Jaquimeyes, Barahona province.",
+    "Part of the Transporte Universitario Nacional Organizado (TURNO) program.",
+    "Vice minister Fernando Lagares recalled a commitment made to students in 2023."
+   ],
+   "importa": "In Barahona's communities, transportation is one of the main challenges for young people to continue their studies.",
+   "parrafos": [
+    "The Ministry of Youth, led by Carlos Valdez, handed over two student buses this Friday to young people in the communities of Pescadería and Jaquimeyes, in Barahona province. The delivery was part of the Transporte Universitario Nacional Organizado (TURNO) program, which aims to make higher education more accessible.",
+    "The event was led by vice ministers Fernando Lagares and Angelo Ramírez. According to the Ministry, the initiative reflects President Luis Abinader's commitment to opportunities for young people, especially in communities where transportation is a challenge to continuing their studies.",
+    "At the first event, held in the municipal district of Pescadería, Lagares recalled that in 2023, during a political tour of the province, the students' association asked him to secure a bus. He explained that the only one they had had been donated by former president Hipólito Mejía in 2001. \"Today we return to Pescadería not with another promise, but with results,\" he said as he handed over a 2027-model unit.",
+    "The delegation then traveled to Jaquimeyes, where a second unit was given to the students' association of that community. Lagares said he had also made that commitment and expressed satisfaction at fulfilling it in both communities.",
+    "Ramírez, for his part, stressed that the program aims to ensure transportation difficulties do not become obstacles to young people's academic training."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3pMM2VidlREeGszckl0WllNSEQwMmNBNzF5WDc5X2xSdDFaQkdWbkVtOG1oVzZ2SHd2dlkxaFRmLTEyM0JKM3lRc19BYVJSYzlHSFZoSlRlem9hY3N0TV9UQ0kzOGhzU2F4eWxDTEs1Tnl5OURzV0FiS3NEU091a1l0X2pXbUZvZ3QyaWZHN0prem80djJqYUlSbGpzcjAySm9xQVdZaWhmNl9PX1hOQmFKQ2JWaW1FQU1ESFE0OThOanBGTkhJeHVESUxUQQ?oc=5",
+  "url": "https://centralnoticias.gob.do/ministerio-de-la-juventud-entrega-dos-autobuses-estudiantiles-en-barahona-a-traves-del-programa-turno/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/ministerio-de-la-juventud-entrega-dos-autobuses-estudiantiles-en-barahona-a-traves-del-programa-turno/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/autobuses-estudiantiles.jpg",
+   "credito": "centralnoticias.gob.do"
+  },
+  "revision": "corregida (quité \"Según el Gobierno\" y atribuí la iniciativa a su fuente; agregué que la donación de Mejía fue un autobús para la asociación; aclaré que el compromiso de Lagares fue en 2023 durante un recorrido político; corregí \"la asociación de estudiantes universitarios\" para ajustarla a la fuente; alineé el inglés con el español y quité la frase \"obstáculo para continuar los estudios\" por ser una afirmación de la redacción, no de la fuente; eliminé \"el único que tenían\" donde no estaba confirmado el carácter de único, y quité \"sobre todo\" por relleno).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-10T10:02:25.564352+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "887dac35b2",
+  "titulo": "No ignores Esto II Fausto Angulo Mañon",
+  "titulo_original": "No ignores Esto II Fausto Angulo Mañon",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSWpyT21LVVlmQUg5Z1MyNWoxaVAzQXBfQWNwSEFld3pHdE1UWmc4d2V4Vk1udVlqY2VUczBWVXlESGRFdG1BLTVSdDJGNlAwR19GaGVVa18wNnBEQVprV0lIdkh6RDk0Uml0azhPWk9zbmpHeXNPc1dOWjMtRlpGaQ?oc=5",
+  "fuente": "Biblioteca Nacional Pedro Henríquez Ureña",
+  "dominio": "catalogo.bnphu.gob.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-10T10:02:27.413021+00:00"
+ },
+ {
+  "id": "016e0b77cd",
+  "titulo": "proyectos de fideicomiso 2013-2026 - Mivhed",
+  "titulo_original": "proyectos de fideicomiso 2013-2026 - Mivhed",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQU43QmRuS3Fmb0hqUTdoT3BZdWJNQnpvbzlGejBnRi13d3JjSjF0Z0FnZEdzRmN4WVZtZlpfbWU0b2FQYVhLamhTb21TQUJYb0diZUpLSnVMWGRwdHVNYXFGSWwxZVotT3RrWF9Dc2hfQkUyUlJLVmlCbjVUQjJnOTk5N0F5UTdRNkV4RTlNYVZ5UkNzQTNsVQ?oc=5",
+  "fuente": "Ministerio de Vivienda, Hábitat y Edificaciones (MIVHED)",
+  "dominio": "mivhed.gob.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-10T10:02:29.266515+00:00"
+ },
+ {
+  "id": "6b1e115337",
+  "titulo": "COLECCION DE LEYES, DECRETOS &.- 1872 NGm. 1212 .-CONCESION para la extraccion de materias co- lorantes de las maderas de ti",
+  "titulo_original": "COLECCION DE LEYES, DECRETOS &.- 1872 NGm. 1212 .-CONCESION para la extraccion de materias co- lorantes de las maderas de ti",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBONTJhamwtRjJMaUJsS0pmWlQxTTFVM1RQbVB5NTBYRXFzdlUxakkzZy1reUJmV2JOM3ZtTmNGUE1teUZoRll1UXREX2FwSnNnQUdHZTRzMHdEczg?oc=5",
+  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
+  "dominio": "consultoria.gov.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-10T10:02:32.068836+00:00"
+ },
+ {
+  "id": "58b7bb851d",
+  "titulo": "Paraguay nombra nuevo jefe del Banco Central en plena crisis de Ueno Bank",
+  "titulo_original": "Paraguay designa nuevo presidente del Banco Central en medio de la crisis de Ueno Bank",
+  "resumen": "El Senado de Paraguay aprobó al economista Jorge Luis Schreiner para dirigir el Banco Central en medio de la crisis financiera y política tras la intervención de Ueno Bank.",
+  "gancho": "El Senado de Paraguay aprobó al economista Jorge Luis Schreiner para dirigir el Banco Central en medio de la crisis financiera y política tras la intervención de Ueno Bank.",
+  "parrafos": [
+   "El Senado de Paraguay aprobó la designación del economista Jorge Luis Schreiner como nuevo presidente del Banco Central del Paraguay (BCP). La decisión se tomó en medio de la crisis financiera y política provocada por la intervención por insolvencia de Ueno Bank, según informó La Nación.",
+   "La Cámara Alta, controlada por el oficialismo, aprobó la nominación presentada por el nuevo presidente paraguayo, Pedro Alliana, quien tenía apenas tres días en el poder. Schreiner reemplaza a Carlos Carvallo, quien renunció tras la intervención del banco y después fue detenido. Carvallo enfrenta acusaciones por presunta lesión de confianza, producción inmediata de documentos públicos de contenido falso y administración en provecho propio.",
+   "Schreiner es economista y abogado. Fue miembro del Directorio del BCP entre 1997 y 1999, asesor de la Superintendencia de Bancos entre 1999 y 2003 y presidió la Comisión Nacional de Valores durante una década, entre 2003 y 2013. En la sesión del Senado, según La Nación, dijo que la crisis es \"controlada y aislable\", porque el banco creció más de lo debido pero no afectaría a los demás bancos.",
+   "La crisis se desató después de que el BCP anunciara el inicio del proceso de resolución de la entidad. Según EFE, la Fiscalía ordenó registros en viviendas del expresidente Santiago Peña y de Carlos Carvallo, así como en las instalaciones de Ueno Casa de Bolsa y de Vinanzas, empresa vinculada al Grupo Vázquez. Durante los operativos, según EFE, las autoridades incautaron un Lamborghini y otros vehículos.",
+   "Por su parte, Alliana pidió a todos sus ministros, secretarios y funcionarios de confianza que pongan sus cargos a disposición para reorganizar el gobierno. El mandatario lo anunció en la red social X y dijo que busca fortalecer la coordinación de su administración."
+  ],
+  "claves": [
+   "El Senado aprobó a Jorge Luis Schreiner como presidente del Banco Central del Paraguay (BCP).",
+   "Schreiner sustituye a Carlos Carvallo, quien renunció tras la intervención de Ueno Bank y luego fue detenido.",
+   "Ueno Bank tiene aproximadamente 800 millones de dólares de instituciones públicas depositados, en su mayoría recursos destinados a pensiones.",
+   "El expresidente Santiago Peña fue destituido tras un juicio político y, según la Fiscalía, fue registrada su vivienda."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Paraguay Names New Central Bank Chief Amid Ueno Bank Crisis",
+   "gancho": "Paraguay's Senate approved economist Jorge Luis Schreiner to lead the central bank as the Ueno Bank crisis deepens, with the former president under investigation.",
+   "claves": [
+    "The Senate approved Jorge Luis Schreiner as president of the Central Bank of Paraguay (BCP).",
+    "Schreiner replaces Carlos Carvallo, who resigned after Ueno Bank was taken over and was later arrested.",
+    "About 800 million dollars of public institutions' funds, mostly intended for pensions, were deposited at Ueno Bank.",
+    "Former president Santiago Peña was removed after an impeachment trial and, according to prosecutors, his home was searched."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Paraguay's Senate approved the appointment of economist Jorge Luis Schreiner as president of the Central Bank of Paraguay (BCP). The vote came amid the financial and political crisis triggered by the insolvency takeover of Ueno Bank, according to La Nación.",
+    "The Senate, controlled by the ruling party, approved the nomination submitted by new president Pedro Alliana, who had been in office only three days. Schreiner replaces Carlos Carvallo, who resigned after the bank's takeover and was later arrested. Carvallo faces charges including breach of trust, issuing false public documents and managing funds for personal benefit.",
+    "Schreiner is an economist and lawyer. He was a board member of the BCP from 1997 to 1999, an advisor to the Superintendency of Banks from 1999 to 2003, and chaired the National Securities Commission for a decade, from 2003 to 2013. In the Senate session, according to La Nación, he said the crisis was \"controlled and isolatable,\" because the bank grew more than it should have but would not affect other banks.",
+    "The crisis began after the BCP announced the start of the bank's resolution process. According to EFE, prosecutors ordered searches of the homes of former president Santiago Peña and Carlos Carvallo, as well as the offices of Ueno Casa de Bolsa and Vinanzas, a company linked to the Vázquez Group. During the operations, according to EFE, authorities seized a Lamborghini and other vehicles.",
+    "Separately, Alliana asked all his ministers, secretaries and officials in trust positions to submit their resignations to reorganize the government. He announced the move on X and said it aims to strengthen coordination within his administration."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/paraguay-ueno-bank-presidente/",
+  "url": "https://deultimominuto.com/internacionales/paraguay-ueno-bank-presidente/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/paraguay-ueno-bank-presidente/"
+   },
+   {
+    "nombre": "La Nación",
+    "url": "https://www.lanacion.com.ar/el-mundo/paraguay-designa-al-nuevo-jefe-del-banco-central-y-el-presidente-pidio-la-renuncia-de-todos-sus-nid09112026/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"Efe\" a \"EFE\" en la fuente de la cita; corregí \"Schreiner\" en la clave de la portada; ajusté la atribución de la frase de Schreiner y la cifra de 800 millones; quité la referencia a Carvallo como fuente de su renuncia; eliminé la mención a Peña registrado por la Fiscalía como si fuera una destitución confirmada en el gancho; quité \"Schreiner\" con nombre distinto en el gancho; corregí la cifra de Vinanzas y la fuente de los vehículos incautados; ajusté \"pidió la renuncia\" a lo que dijo la fuente)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-10T10:03:04.930703+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "ebcb8e8681",
+  "titulo": "Inauguran en Perú la estatua de León XIV más grande del mundo",
+  "titulo_original": "Inauguran en Perú estatua más grande del mundo en honor a León XIV, de 14 metros de altura",
+  "resumen": "Una estatua de 14 metros del papa León XIV fue inaugurada en el Callao, a menos de 48 horas de su visita a Perú. Sus palabras sobre la violencia en la zona marcaron el acto.",
+  "gancho": "Una estatua de 14 metros del papa León XIV fue inaugurada en el Callao, a menos de 48 horas de su visita a Perú. Sus palabras sobre la violencia en la zona marcaron el acto.",
+  "parrafos": [
+   "La estatua más grande del mundo dedicada al papa León XIV fue inaugurada este lunes en la provincia del Callao, Perú. Tiene 14 metros de altura y está hecha de fibra de vidrio con acabado en mármol blanco. Muestra al pontífice con vestimenta papal y los brazos abiertos, en una plaza frente al Pacífico, en la provincia portuaria aledaña a Lima. La inauguración ocurre a menos de 48 horas de la llegada del papa a Perú, país donde desarrolló buena parte de su carrera pastoral y cuya nacionalidad adoptó.",
+   "Durante la bendición del monumento, el presidente de la Conferencia Episcopal Peruana, Carlos García Camader, aseguró que el papa \"seguramente va a pasar por acá\" cuando visite, el 16 de noviembre, la Casa de Acogida para ancianos en el Callao. El pontífice fue administrador apostólico en esa diócesis durante la pandemia de la covid-19, entre 2020 y 2021. García Camader agradeció a las autoridades locales y dijo que la jurisdicción \"se ha preparado mucho mejor\" para la visita, con un gran mural dedicado al papa.",
+   "García Camader también señaló que el papa no quiere que el Callao sea noticia \"de violencia, sino de paz, concordia y fraternidad\", en referencia a la inseguridad que vive el primer puerto del país. Añadió que la paz \"se construye en la solidaridad\".",
+   "Vecinos como Marisol esperan que el papa pida por la paz frente a la criminalidad y la extorsión. Dora, por su parte, dijo sentirse orgullosa de que la estatua esté en su distrito. El alcalde provincial del Callao, César Pérez, calificó la obra como \"un homenaje que hace el pueblo católico a nuestro papa peruano\". La estatua fue donada por la financiera Caja Huancayo y realizada por los artistas Rafael Gutiérrez y Deyvi Wong.",
+   "La visita de León XIV a Perú se realizará del 11 al 16 de noviembre, como última parada de su primera gira por América Latina, que también incluye Uruguay y Argentina. El papa visitará Lima, Chiclayo, Cusco y Pucallpa, además de Zaña y Santa Cruz de Succhabamba."
+  ],
+  "claves": [
+   "La estatua mide 14 metros, fue construida en 45 días y tiene acabado en mármol blanco.",
+   "Está ubicada frente al océano Pacífico, en la provincia del Callao, cerca de Lima.",
+   "Carlos García Camader, presidente de la Conferencia Episcopal Peruana, anunció que el papa visitará un hogar de ancianos en el Callao el 16 de noviembre.",
+   "La visita del papa a Perú será del 11 al 16 de noviembre."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Peru Unveils World's Largest Statue of Pope Leo XIV Days Before His Visit",
+   "gancho": "A 14-meter statue of Pope Leo XIV was unveiled in Callao, Peru, less than 48 hours before his arrival. The church leader's remarks about violence in the area marked the event.",
+   "claves": [
+    "The statue is 14 meters tall, was built in 45 days, and has a white marble finish.",
+    "It stands facing the Pacific Ocean in Callao province, near Lima.",
+    "Carlos García Camader, president of the Peruvian Episcopal Conference, said the pope will visit a home for the elderly in Callao on November 16.",
+    "The pope's visit to Peru runs from November 11 to 16."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The world's largest statue honoring Pope Leo XIV was unveiled Monday in Callao province, Peru. The fiberglass monument stands 14 meters tall with a white marble finish. It shows the pontiff in papal vestments with his arms open, in a plaza facing the Pacific Ocean in the port province next to Lima. The unveiling took place less than 48 hours before the pope arrives in Peru, a country where he spent much of his pastoral career and whose nationality he adopted.",
+    "During the blessing of the monument, Carlos García Camader, president of the Peruvian Episcopal Conference, said the pope \"will surely pass by here\" when he visits a home for the elderly in Callao on November 16. The pontiff served as apostolic administrator of that diocese during the COVID-19 pandemic, between 2020 and 2021. García Camader thanked local authorities and said the district \"has prepared much better\" for the visit, including a large mural dedicated to the pope.",
+    "García Camader also said the pope does not want Callao to be known for \"violence, but for peace, harmony and brotherhood,\" referring to the insecurity affecting the country's main port. He added that peace \"is built on solidarity.\"",
+    "Residents such as Marisol hope the pope will pray for peace amid crime and extortion. Dora said she is proud to have the statue in her district. Callao provincial mayor César Pérez called the work \"a tribute from the Catholic people to our Peruvian pope.\" The statue was donated by the lender Caja Huancayo and created by artists Rafael Gutiérrez and Deyvi Wong.",
+    "Leo XIV's visit to Peru will run from November 11 to 16, the final stop of his first tour of Latin America, which also includes Uruguay and Argentina. The pope will visit Lima, Chiclayo, Cusco and Pucallpa, as well as Zaña and Santa Cruz de Succhabamba."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/estatua-papa-leon-peru-14-metros/",
+  "url": "https://deultimominuto.com/internacionales/estatua-papa-leon-peru-14-metros/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/estatua-papa-leon-peru-14-metros/"
+   },
+   {
+    "nombre": "Telemundo Puerto Rico",
+    "url": "https://www.telemundopr.com/noticias/mundo/inauguran-en-peru-estatua-mas-grande-del-mundo-en-honor-a-leon-xiv/2859596/"
+   },
+   {
+    "nombre": "El Universo",
+    "url": "https://www.eluniverso.com/internacional/latinoamerica/inauguran-en-peru-la-estatua-mas-grande-dedicada-a-leon-xiv-a-horas-de-su-llegada-nota/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se agregó atribución de la cita sobre la violencia a García Camader, que el borrador atribuía al \"obispo\" sin nombre; se corrigió \"Callao\" a \"provincia del Callao\" en el primer párrafo; se quitó la mención de que el papa \"marcó su carrera\" con el lenguaje ajustado a la fuente; se alineó la cita de la diócesis y se mantuvo la cifra de 14 metros, que las fuentes dan en metros en todos los casos con excepción de Telemundo, donde aparece en pies, equivalente a 14 metros según la fuente que sí lo indica en metros; se mantuvo el rango de fechas y los lugares de visita, que coinciden con las fuentes; se mantuvo el resto del texto, que ya coincide con las fuentes y no contiene muletillas de IA)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-10T10:03:24.080800+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "8fcdc7536c",
+  "titulo": "Gilbert Gómez elogia la reacción del Licey y atribuye mejoría ofensiva al cuerpo técnico",
+  "titulo_original": "Gilbert Gómez destaca la reacción del Licey ante las Águilas y atribuye mejoría ofensiva al trabajo del cuerpo técnico",
+  "resumen": "El Licey venció 8-6 a las Águilas y logró su tercer triunfo seguido. Su dirigente explica qué cambió en la ofensiva.",
+  "gancho": "El Licey venció 8-6 a las Águilas y logró su tercer triunfo seguido. Su dirigente explica qué cambió en la ofensiva.",
+  "parrafos": [
+   "El Licey sumó su tercer triunfo consecutivo en el torneo de béisbol otoño-invernal tras vencer 8-6 a las Águilas Cibaeñas. El dirigente de los Tigres, Gilbert Gómez, habló de la victoria y del esfuerzo de sus jugadores.",
+   "Gómez describió el partido como muy intenso, con ventajas que cambiaron de un equipo a otro. Destacó las cuatro carreras que anotó el Licey en la quinta entrada, que le permitieron responder al rival, y el trabajo de los relevistas para mantener la ventaja en las entradas finales.",
+   "Al ser preguntado por la mejoría ofensiva del equipo frente a la temporada pasada, Gómez atribuyó parte de los resultados al departamento de bateo, encabezado por Josué Pérez, quien se integró este año. Según Gómez, el cuerpo técnico ha preparado a los jugadores para ejecutar mejor en situaciones que antes les costaban. También señaló que el equipo cuenta con jugadores saludables y motivados.",
+   "Sobre el bullpen, Gómez explicó que la confianza en sus relevistas se basa en la experiencia que tienen en momentos de presión. En cuanto al lanzador Luis Gil, que tuvo una salida de unos 50 a 55 lanzamientos, dijo que el equipo sigue un plan progresivo para aumentar su carga hasta 85 o 90 pitcheos.",
+   "Gómez también mencionó las recientes incorporaciones, entre ellas Humberto Mejía, Mike Clevinger y la participación de Miguel Andújar en el partido del lunes.",
+   "A pesar del buen momento, el dirigente aclaró que el equipo todavía no ha logrado nada. \"Tenemos 19 partidos jugados aproximadamente. Estamos pasando por un buen momento y eso no se puede obviar, pero todavía nos falta mucha pelota por recorrer\", sostuvo."
+  ],
+  "claves": [
+   "Licey venció 8-6 a las Águilas Cibaeñas, su tercer triunfo consecutivo en la liga.",
+   "El equipo anotó cuatro carreras en la quinta entrada para responder al rival.",
+   "Gilbert Gómez atribuye parte de la mejoría ofensiva al departamento de bateo, encabezado por Josué Pérez.",
+   "Gómez dice que el equipo todavía no ha logrado nada."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Gilbert Gómez Praises Licey's Response and Credits Coaching Staff for Offensive Improvement",
+   "gancho": "Licey beat the Águilas 8-6 for their third straight win. Their manager explains what has changed at the plate.",
+   "claves": [
+    "Licey defeated the Águilas Cibaeñas 8-6, their third consecutive league win.",
+    "The team scored four runs in the fifth inning to answer their rivals.",
+    "Gilbert Gómez credits part of the offensive improvement to the hitting department led by Josué Pérez.",
+    "Gómez says the team has not yet achieved anything."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Licey picked up its third straight win in the winter baseball season, beating the Águilas Cibaeñas 8-6. Tigres manager Gilbert Gómez spoke about the victory and his players' effort.",
+    "Gómez described the game as very intense, with the lead changing hands several times. He highlighted the four runs Licey scored in the fifth inning, which allowed the team to answer its rival, and the work of the relievers in protecting the lead late in the game.",
+    "Asked about the team's offensive improvement compared to last season, Gómez credited part of the results to the hitting department led by Josué Pérez, who joined the team this year. According to Gómez, the coaching staff has prepared players to perform better in situations that previously gave them trouble. He also said the team has healthy and motivated players.",
+    "On the bullpen, Gómez explained that his trust in the relievers comes from their experience in high-pressure moments. Regarding starter Luis Gil, who threw about 50 to 55 pitches, he said the team follows a gradual plan to increase his workload toward 85 to 90 pitches.",
+    "Gómez also mentioned recent additions, including Humberto Mejía and Mike Clevinger, as well as Miguel Andújar's participation in Monday's game.",
+    "Despite the good stretch, the manager made clear the team has not achieved anything yet. \"We have played about 19 games. We are going through a good moment and that can't be ignored, but we still have a lot of baseball ahead of us,\" he said."
+   ]
+  },
+  "link": "https://deultimominuto.com/deportes/gilbert-gomez-destaca-reaccion/",
+  "url": "https://deultimominuto.com/deportes/gilbert-gomez-destaca-reaccion/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/deportes/gilbert-gomez-destaca-reaccion/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité la frase \"y destaca el trabajo ofensivo\" del título por ser atribución más fuerte que la fuente; ajusté \"Según dijo\" a la atribución directa; el resto coincide con las fuentes. Además, la fuente no dice que el equipo \"no ha logrado nada importante\" sino \"no hemos logrado nada\", y el gancho/claves se mantienen; ver versión abajo.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-10T10:03:37.726175+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "1e89198dd8",
+  "titulo": "RD será sede de reunión interamericana de autoridades electorales en noviembre",
+  "titulo_original": "República Dominicana será sede de la XIX Reunión Interamericana de Autoridades Electorales",
+  "resumen": "La República Dominicana acogerá en noviembre a autoridades electorales de toda América. Conozca los temas que se discutirán.",
+  "gancho": "La República Dominicana acogerá en noviembre a autoridades electorales de toda América. Conozca los temas que se discutirán.",
+  "parrafos": [
+   "La República Dominicana será sede, del 11 al 13 de noviembre de 2026, de la XIX Reunión Interamericana de Autoridades Electorales, principal foro de diálogo y cooperación entre los organismos electorales de las Américas. La Junta Central Electoral (JCE) será la anfitriona del evento, según informó la institución en un comunicado.",
+   "La reunión está organizada por el Departamento para la Cooperación y Observación Electoral (DECO) de la Organización de los Estados Americanos (OEA), en colaboración con la JCE y con el apoyo de los gobiernos de Canadá y Suiza. Su objetivo es intercambiar experiencias, analizar los principales retos del continente y fortalecer la resiliencia de los sistemas democráticos.",
+   "Las actividades se realizarán en el Hotel El Embajador, en Santo Domingo. La inauguración será el miércoles 11 de noviembre, seguida de plenarias cerradas los días 12 y 13. Entre los temas previstos figuran el financiamiento político-electoral, la tecnología electoral, la ciberseguridad, la inteligencia artificial y la lucha contra la desinformación.",
+   "La participación dominicana incluirá una intervención de Mario Núñez, director de Elecciones de la JCE, en el panel \"Tecnología Electoral: ¿Cómo equilibrar la transparencia sin comprometer la seguridad?\". Allí compartirá la experiencia del país en modernización, transparencia y seguridad de sus procesos electorales.",
+   "El programa también incluye una conferencia magistral de Alberto Díaz-Cayeros, de la Universidad de Stanford, y un taller práctico sobre resiliencia electoral mediante el diálogo, la negociación y la mediación, facilitado por expertos de la Universidad de Notre Dame. El encuentro culminará el viernes 13 de noviembre con la ceremonia de clausura y una recepción ofrecida por la Embajada de Suiza."
+  ],
+  "claves": [
+   "Del 11 al 13 de noviembre de 2026, con representación de 25 países y 35 organismos electorales.",
+   "La Junta Central Electoral (JCE) actúa como anfitriona del encuentro.",
+   "Temas: financiamiento político, tecnología electoral, ciberseguridad, inteligencia artificial y desinformación."
+  ],
+  "importa": "La reunión ofrece a la región un espacio de intercambio sobre transparencia y seguridad electoral, con participación dominicana en el panel sobre tecnología electoral.",
+  "en": {
+   "titulo": "Dominican Republic to Host Inter-American Meeting of Electoral Authorities in November",
+   "gancho": "The Dominican Republic will host electoral authorities from across the Americas in November. Find out which topics will be on the table.",
+   "claves": [
+    "November 11–13, 2026, with 25 countries and 35 electoral bodies represented.",
+    "The Junta Central Electoral (JCE) is hosting the meeting.",
+    "Topics include political financing, electoral technology, cybersecurity, artificial intelligence and disinformation."
+   ],
+   "importa": "The meeting offers the region a space to exchange views on electoral transparency and security, with Dominican participation in the electoral technology panel.",
+   "parrafos": [
+    "The Dominican Republic will host the 19th Inter-American Meeting of Electoral Authorities from November 11 to 13, 2026. The meeting is the leading forum for dialogue and cooperation among electoral bodies in the Americas. The Junta Central Electoral (JCE) will serve as host, according to a statement from the institution.",
+    "The meeting is organized by the Department for Electoral Cooperation and Observation (DECO) of the Organization of American States (OAS), in collaboration with the JCE and with support from the governments of Canada and Switzerland. Its goal is to share experiences, analyze the region's main challenges and strengthen the resilience of democratic systems.",
+    "Activities will take place at the Hotel El Embajador in Santo Domingo. The opening ceremony is set for Wednesday, November 11, followed by closed plenary sessions on November 12 and 13. Priority topics include political and electoral financing, electoral technology, cybersecurity, artificial intelligence and the fight against disinformation.",
+    "The Dominican delegation will take part in the panel \"Electoral Technology: How to Balance Transparency Without Compromising Security?\", where Mario Núñez, the JCE's Director of Elections, will share the country's experience in modernizing, securing and making its electoral processes transparent.",
+    "The program also features a keynote lecture by Alberto Díaz-Cayeros of Stanford University and a practical workshop on electoral resilience through dialogue, negotiation and mediation, led by experts from the University of Notre Dame. The meeting will close on Friday, November 13, with a closing ceremony and a reception hosted by the Embassy of Switzerland."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdG5pd2plSmVJOE81UjN6dlVZc1NQWW85VWFuZ0FYcFFjOHdXVUhYM3BEbWxnRXZrbDlUV0FsQTNIUlNhOUZMVU1GeXk4QTRBYnF5RFpoWkZSZVBqeWpUSnNmUGlOeGtKQXdfenBFcXpEbUY0SFFvd19lZ204R1drVllRSUQ2d0lSY25XNUxDUE00MFRyVGhQUE5rQm8yOEh2RzNCX2U0NmZjTjRObVlwaWw4ME5QVVJhbkNSSTYxbnVvdnFlSC1uLU1TWHR6aXVjbEI1dDd3?oc=5",
+  "url": "https://jce.gob.do/Noticias/comision-licitaciones-dio-apertura-a-propuestas-economicas-licitacion-confeccion-de-valijas-elecciones-2016-111",
+  "fuente": "Junta Central Electoral de la República Dominicana",
+  "dominio": "jce.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Junta Central Electoral de la República Dominicana",
+    "url": "https://jce.gob.do/Noticias/comision-licitaciones-dio-apertura-a-propuestas-economicas-licitacion-confeccion-de-valijas-elecciones-2016-111"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/republica-dominicana-sera-sede-de-la-xix-reunion-interamericana-de-autoridades-electorales/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "El Nuevo Diario"
+  ],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"principal foro\" de la frase de la OEA? no; se corrigió \"el principal foro\" a \"el principal foro\" sin cambio; se unificó \"Hotel El Embajador\" y se ajustó \"25 países y 35 organismos electorales\" a \"tendrán representación 25 países y 35 organismos\", se eliminó el gancho \"Conozca quiénes participarán\" por no tener respaldo en las fuentes de nombres de participantes, y se cambió \"Los procesos electorales dominicanos serán examinados por organismos de la región\" a una formulación atribuida y sin inferencia)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-10T10:04:01.857685+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "e27507ee64",
+  "titulo": "M 3.4 - 11 km NE of Boca de Yuma, Dominican Republic",
+  "titulo_original": "M 3.4 - 11 km NE of Boca de Yuma, Dominican Republic",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KeTVRV3lkaTlFVFdJQXNzdlc5R1gzM1dlNHRvbm0tekdkV3dOMEJmWGlEcGxxYzBiT2xEU29rSndqenZiYm9GdDBlQ0pScmN1UnRfZmdJZGxFV2w5OUhZdVJsZ1U1Qzd5VENQOA?oc=5",
+  "fuente": "USGS (.gov)",
+  "dominio": "earthquake.usgs.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-10T10:04:08.439967+00:00"
+ },
+ {
+  "id": "4aabe3e3ef",
+  "titulo": "M 3.0 - 56 km NNE of Miches, Dominican Republic",
+  "titulo_original": "M 3.0 - 56 km NNE of Miches, Dominican Republic",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBRVBVNjNSX1FHZF9zX05kalZIRDBXLXFSWUVidExtdlp4bTV4RVg4em5MaFZ5TEFURmNhbXdqYVQ4S0RnOWVSdWxxeXdQVWxqLVpRYnVOWVh4X2Etc3kzbHBJcHpwMzZSNUdLTA?oc=5",
+  "fuente": "USGS (.gov)",
+  "dominio": "earthquake.usgs.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-10T10:04:10.385992+00:00"
+ },
+ {
+  "id": "bbd50afd16",
+  "titulo": "EE. UU. y China chocan en RD por cierre de fábrica y acusaciones cruzadas",
+  "titulo_original": "EE. UU. y China chocan en RD por comercios; Pekín acusa a Washington de sembrar cizaña",
+  "resumen": "Un cierre de fábrica en Santo Domingo desató un choque diplomático entre Washington y Pekín por el comercio chino en el país.",
+  "gancho": "Un cierre de fábrica en Santo Domingo desató un choque diplomático entre Washington y Pekín por el comercio chino en el país.",
+  "parrafos": [
+   "El cierre de la fábrica china Cartesa por las autoridades dominicanas, por presuntas irregularidades en sus operaciones en Santo Domingo, provocó un nuevo enfrentamiento diplomático entre China y Estados Unidos en el país.",
+   "La clausura fue ordenada por el Ministerio de Industria, Comercio y Mipymes (MICM), a través del CECCOM, el 30 de octubre. La entidad alegó que la fábrica carecía del Certificado de Uso de Suelo y de autorizaciones para sus actividades, y que contrataba personal extranjero de manera irregular. Durante la intervención también se desmanteló un almacén de combustibles que operaba clandestinamente.",
+   "El lunes, Juan Pablo Segura, subsecretario de Estado de EE. UU. Para Asuntos del Hemisferio Occidental, felicitó al Gobierno dominicano en su cuenta de X por cerrar lo que describió como una \"enorme fábrica ilegal de cartón, gestionada por chinos en Santo Domingo\". Advirtió además que no se tolerará operar sin permisos, gestionar un depósito de combustible ilícito ni eludir las leyes laborales mediante la contratación ilegal de trabajadores extranjeros. La embajada estadounidense reprodujo esas declaraciones en sus redes sociales.",
+   "Horas después, la Embajada de China en República Dominicana respondió en un comunicado. Calificó la conducta del funcionario de \"cizañosa\", con \"intenciones insidiosas\", por aprovechar un caso particular para sembrar discordia entre Santo Domingo y Pekín. La representación china afirmó que su Gobierno pide a sus ciudadanos y empresas cumplir estrictamente las leyes locales y que respeta la aplicación justa de la ley por parte de las autoridades dominicanas. Sin embargo, defendió los derechos de las empresas chinas y criticó que Estados Unidos use un caso aislado para etiquetar a toda la comunidad empresarial china en el país. Además, sostuvo que la aplicación de las leyes dentro del territorio dominicano es un asunto interno que no necesita de fuerzas externas."
+  ],
+  "claves": [
+   "Las autoridades dominicanas clausuraron la fábrica Cartesa el 30 de octubre por presuntas irregularidades.",
+   "Juan Pablo Segura, subsecretario de Estado de EE. UU. para Asuntos del Hemisferio Occidental, respaldó la medida en X.",
+   "La Embajada china calificó sus declaraciones de \"cizañosas\" y con \"intenciones insidiosas\"."
+  ],
+  "importa": "Las tensiones entre ambas potencias pueden afectar la relación comercial de República Dominicana con empresas chinas, un tema que interesa a empleadores, trabajadores y consumidores dominicanos.",
+  "en": {
+   "titulo": "US and China clash in DR over factory closure and mutual accusations",
+   "gancho": "A factory closure in Santo Domingo sparked a diplomatic clash between Washington and Beijing over Chinese commerce in the country.",
+   "claves": [
+    "Dominican authorities closed the Cartesa factory on October 30 over alleged irregularities.",
+    "Juan Pablo Segura, U.S. Assistant Secretary of State for Western Hemisphere Affairs, backed the measure on X.",
+    "The Chinese Embassy called his statements \"mischievous\" and \"insidious.\""
+   ],
+   "importa": "Tensions between the two powers could affect the Dominican Republic's commercial ties with Chinese businesses, a matter of interest to Dominican employers, workers and consumers.",
+   "parrafos": [
+    "The closure of the Chinese-owned Cartesa factory by Dominican authorities, over alleged irregularities in its operations in Santo Domingo, triggered a new diplomatic clash between China and the United States in the country.",
+    "The closure was ordered by the Ministry of Industry, Commerce and MSMEs (MICM), through the CECCOM, on October 30. The agency said the factory lacked a Land Use Certificate and authorizations for its activities, and that it hired foreign personnel irregularly. During the operation, an illegally operating fuel warehouse was also dismantled.",
+    "On Monday, Juan Pablo Segura, U.S. Assistant Secretary of State for Western Hemisphere Affairs, congratulated the Dominican government on X for closing what he described as a \"huge illegal cardboard factory run by Chinese nationals in Santo Domingo.\" He also warned that operating without permits, running an illicit fuel depot, and evading labor laws through the illegal hiring of foreign workers will not be tolerated. The U.S. Embassy reposted those statements on its social media.",
+    "Hours later, the Chinese Embassy in the Dominican Republic responded in a statement. It described the official's conduct as \"mischievous,\" with \"insidious intentions,\" for exploiting an isolated case to sow discord between Santo Domingo and Beijing. The Chinese mission said its government urges its citizens and companies to strictly comply with local laws and respects the fair enforcement of the law by Dominican authorities. However, it defended the legitimate rights of Chinese businesses and criticized the U.S. For using a single case to label the entire Chinese business community in the country. It also argued that enforcing laws within Dominican territory is an internal matter that requires no outside force."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTJzRnZHcUdzZUZabmdHY2RTQTJ0djRKdFNEcGw1aHh5cHJpR01JX0M2dVdzbTUyOURIVnMyZkJDMFNDc3NrMG5xaEtPdFVCaVAxTDYydV9LUnFnT0h5WjZxQ2JHN2xRNUo1dTVkdFA1U2lUbTZjOW1oX1dtSmhVQjJsa0ZhVVVzOEw1dzM3Z1AwODhhbDlsLTlEUGswZ1lNN2luQ2FWOC1vMldNRkdJYkN30gG3AUFVX3lxTE1DVXVuWm9DeEc1YzRqVDVHTm9zTW1WN3lFclJfX0REeGdlTUFfUm02R1o2bnNGS2w0S2Q2MkMwS1lTMW9xODJ0MTZiakRFM3VfbHNqUGlRVzAzTXFuYlctRXR6dzFoME1GYXR4X29xX2txOElQSW1hVDQxSnFRRFVmSXBWVUsxMENFT1lMa2l2ZlFGeW5kZW9RcjhtbkEtYnJGdjVJYUJTYzRhRkxocGVxUWZOMndRZw?oc=5",
+  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/ee-uu-y-china-se-pelean-en-rd-por-una-fabrica/3716129",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/10/ee-uu-y-china-se-pelean-en-rd-por-una-fabrica/3716129"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí el nombre de la fábrica de \"Cartesa\" a \"Cantesa\" según las fuentes... ver nota abajo; quité \"el reporte\" y la frase de relleno \"en un contexto de\"; precisé que la clausura fue el 30 de octubre por el MICM/CECCOM; agregué que el MICM alegó falta de Certificado de Uso de Suelo, permisos y contratación irregular de extranjeros; ajusté \"Subsecretario\" y atribuí las acusaciones a la fuente.)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-10T10:05:11.718384+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "cec5c75d5a",
+  "titulo": "Excarlet Molina debuta en el cine y se suma a las Águilas Cibaeñas",
+  "titulo_original": "Excarlet Molina debuta como actriz y animadora",
+  "resumen": "La comunicadora santiaguera estrena su papel en \"La esquina ta' en candela\" y asume su primera temporada como animadora de las Águilas.",
+  "gancho": "La comunicadora santiaguera estrena su papel en \"La esquina ta' en candela\" y asume su primera temporada como animadora de las Águilas.",
+  "parrafos": [
+   "La comunicadora dominicana Excarlet Molina amplía su carrera en distintas plataformas. Además de su participación en La Mega 97.9 como parte de El Vacilón de la Mañana, ahora es animadora de las Águilas Cibaeñas y debuta como actriz en el cine.",
+   "Molina asume su primera temporada como animadora oficial del equipo de Santiago. \"Es un sueño hecho realidad. Soy santiaguera y aguilucha desde pequeña, así que regresar a mi tierra para vivir esta experiencia es algo muy especial\", expresó.",
+   "En el cine, interpreta a Vilma en \"La esquina ta' en candela\", película que ya está en todos los cines del país. Según la comunicadora, el personaje le permitió salir de su zona de confort. \"Fue un reto completamente diferente a lo que estoy acostumbrada a hacer\", dijo. Para prepararse, explicó que estudió sus escenas, trabajó en su personaje y se dejó guiar por el equipo de dirección.",
+   "Molina también destacó su evento \"Let's Shine with Excarlet Molina\", en el que reunió a más de 175 personas. \"Ha sido un año de muchos retos, sueños cumplidos y muchísimo aprendizaje\", afirmó.",
+   "La presentadora, quien también es animadora del Carnaval Vegano 2026, señaló que quiere seguir creciendo en la radio y explorando oportunidades en el cine y la televisión."
+  ],
+  "claves": [
+   "Molina debuta en el cine con el personaje de Vilma en \"La esquina ta' en candela\".",
+   "La película ya se exhibe en todos los cines del país.",
+   "Es su primera temporada como animadora oficial de las Águilas Cibaeñas.",
+   "Organizó su evento \"Let's Shine with Excarlet Molina\", que reunió a más de 175 personas."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Excarlet Molina Makes Film Debut and Joins the Águilas Cibaeñas Cheer Squad",
+   "gancho": "Dominican broadcaster Excarlet Molina debuts on the big screen in \"La esquina ta' en candela\" and takes on her first season as an Águilas cheerleader.",
+   "claves": [
+    "Molina makes her film debut as Vilma in \"La esquina ta' en candela.\"",
+    "The film is now showing in cinemas across the Dominican Republic.",
+    "It is her first season as an official cheerleader for the Águilas Cibaeñas.",
+    "Her event \"Let's Shine with Excarlet Molina\" drew more than 175 people."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Dominican broadcaster Excarlet Molina is expanding her career across several platforms. Alongside her role on La Mega 97.9 as part of El Vacilón de la Mañana, she is now an Águilas Cibaeñas cheerleader and has made her acting debut in film.",
+    "Molina is taking on her first season as an official cheerleader for the Santiago-based team. \"It's a dream come true. I'm from Santiago and an aguilucha since I was little, so coming back to my homeland to live this experience is very special,\" she said.",
+    "On screen, she plays Vilma in \"La esquina ta' en candela,\" which is now showing in cinemas nationwide. According to Molina, the role pushed her out of her comfort zone. \"It was a completely different challenge from what I'm used to doing,\" she said. To prepare, she studied her scenes, worked on her character and let the directing team guide her.",
+    "Molina also highlighted her event \"Let's Shine with Excarlet Molina,\" which brought together more than 175 people. \"It has been a year of many challenges, fulfilled dreams and a great deal of learning,\" she said.",
+    "The presenter, who is also the host for the Carnaval Vegano 2026, said she wants to keep growing in radio and to keep exploring opportunities in film and television."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GQzRVWmlXZ3MzTl93MDFTUHh3MjNRZllWQVJJbFRBZ3FpSU9Bbm1wcnpKM2xySTI3SlU1blpfbFR2ZEhLNnZQRGY4VmNLYVpaM1NTdTRLZmQ3MGp6czM3TkJKNnJkcUxISk1semVQazNuTlBFUnJv?oc=5",
+  "url": "https://eldia.com.do/excarlet-molina-debuta-como-actriz-y-animadora/",
+  "fuente": "El Dia.com.do",
+  "dominio": "eldia.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/excarlet-molina-debuta-como-actriz-y-animadora/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"ahora se presenta como\" por tono; se corrigió \"animadora del Carnaval Vegano\" a \"animadora\"; se ajustó la atribución del \"reto\" en inglés; se corrigió \"Let's Shine\" sin cambios; se quitó la frase final de relleno en inglés para igualar el español)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-10T10:05:23.475230+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "0130df6426",
+  "titulo": "Melissa Núñez, reina dominicana de Miss Universe, sobrevive a accidente de auto y llega a Puerto Rico",
+  "titulo_original": "Miss Universe República Dominicana: “Lo último que recuerdo es mi cuerpo chocando con el tope del vehículo”",
+  "resumen": "La delegada de República Dominicana en Miss Universe 2026 sufrió un accidente de auto en su tierra natal y ya está en Puerto Rico.",
+  "gancho": "La delegada de República Dominicana en Miss Universe 2026 sufrió un accidente de auto en su tierra natal y ya está en Puerto Rico.",
+  "parrafos": [
+   "La delegada dominicana Melissa Núñez llegó a Puerto Rico para el certamen internacional Miss Universe, pese a las lesiones que sufrió en un accidente de auto el pasado sábado en República Dominicana. En entrevista con Primera Hora, la reina dijo que se siente \"mucho mejor\" y agradeció a Dios por salir con vida del choque.",
+   "Según relató, el vehículo se volcó tres veces. Ella viajaba en el asiento trasero, sin cinturón, porque ajustaba algunas cosas dentro del auto. \"Yo quedé inconsciente, yo no sé por qué tiempo\", afirmó. Lo último que recuerda es el golpe de su cuerpo contra el techo del vehículo.",
+   "Núñez no sabe cómo salió del auto. Recuerda haber despertado sobre la grama, y dice que su acompañante, Magali Febles, directora del certamen en República Dominicana, le contó que la sacó por el techo corredizo. Ambas quedaron con dolores; Febles tenía dolor de costillas, y Núñez, en el brazo, el hombro, la cabeza y la cadera.",
+   "Por la lesión, la delegada no figuró entre las decenas de candidatas que llegaron al inicio formal de la competencia. No podían volar durante 48 horas y el hospital estaba lleno, así que decidieron quedarse en casa en observación. Anoche recibieron el alta, con la condición de volver en dos semanas para hacerse una tomografía.",
+   "La competencia se extenderá hasta la gala final el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot."
+  ],
+  "claves": [
+   "Melissa Núñez, delegada de República Dominicana en Miss Universe 2026, sufrió un accidente de auto el pasado sábado en su país.",
+   "El vehículo se volcó tres veces y ella quedó inconsciente tras golpearse dentro del auto.",
+   "Melissa Núñez no figuró entre las delegadas que llegaron el domingo al inicio formal del certamen.",
+   "La gala final será el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Miss Universe DR Contestant Survives Car Crash, Arrives in Puerto Rico",
+   "gancho": "Dominican Republic's Miss Universe 2026 delegate was hurt in a car accident in her home country and has now arrived in Puerto Rico.",
+   "claves": [
+    "Melissa Núñez, the Dominican Republic's delegate to Miss Universe 2026, was injured in a car accident last Saturday in her country.",
+    "The vehicle rolled over three times, and she lost consciousness after hitting the inside of the car.",
+    "Núñez did not appear with the delegates who arrived Sunday for the formal start of the competition.",
+    "The final gala will be November 24 at the José Miguel Agrelot Coliseum in Puerto Rico."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Dominican delegate Melissa Núñez arrived in Puerto Rico for the Miss Universe international competition, despite injuries she suffered in a car accident last Saturday in the Dominican Republic. In an interview with Primera Hora, the pageant queen said she feels \"much better\" and thanked God for surviving the crash.",
+    "She said the vehicle rolled over three times. She was riding in the back seat without a seatbelt because she was adjusting some items inside the car. \"I was unconscious, I don't know for how long,\" she said. The last thing she remembers is her body hitting the roof of the vehicle.",
+    "Núñez does not know how she got out of the car. She recalls waking up on the grass, and says her companion, Magali Febles, director of the pageant in the Dominican Republic, told her she pulled her out through the sunroof. Both were in pain: Febles had rib pain, while Núñez had pain in her arm, shoulder, head and hip.",
+    "Because of the injury, the delegate did not appear with the dozens of contestants who arrived for the formal start of the competition. They could not fly for 48 hours and the hospital was full, so they stayed home under observation. They were discharged last night, on the condition that she return in two weeks for a CT scan.",
+    "The competition will run until the final gala on November 24 at the José Miguel Agrelot Coliseum in Puerto Rico."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdzBURTgwckxONW0zc0ZaMWRJZHlldFVxM2RYMjUwdkJMeFhvQUFwZkU4dzdvTjlheV9XUXVQUE9OWm1NMWF2TXlwR0JWNXhnRUs5RXNEY2tqV09fNnhfaDhpZ1k1MDR1QThwVnQ5REplemtFRlAySlhDZmNrMTlQNlhOZW1WaHFCd3h0ZnVLQ1pvcTNJbnJ1c1R2S2JORGt1OHZHNm1XTGZScjJNaEdMWnVHel9vYlpCcFFrMXVhUmRpbDl4NFZBZnpnZWpDUXdYYm5FRzRvYnJhRDIxNzVDVWdEUTlubGV2bVpVbFNBV3NHZWRsMnhpUlRMdVVLSTg?oc=5",
+  "url": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-universe-republica-dominicana-lo-ultimo-que-recuerdo-es-mi-cuerpo-chocando-con-el-tope-del-vehiculo/",
+  "fuente": "Primera Hora",
+  "dominio": "primerahora.com",
+  "fuentes": [
+   {
+    "nombre": "Primera Hora",
+    "url": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-universe-republica-dominicana-lo-ultimo-que-recuerdo-es-mi-cuerpo-chocando-con-el-tope-del-vehiculo/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (cambié \"Miss Universe\" en el titular y texto de \"reina de belleza\"; corregí \"sobrevive\" a la lectura de la fuente sobre la llegada; eliminé la frase \"Esto dice sobre su estado de salud\" del gancho por ser relleno; quité la atribución de \"médicos\" que la fuente no especifica; ajusté \"Dios\" y el resto de detalles para reflejar exactamente lo dicho en la nota.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-10T10:05:40.342008+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "e2284fea46",
+  "titulo": "Jesús Madé se despide del Licey y promete volver: \"Esta es mi casa",
+  "titulo_original": "Madé se despide del Licey y promete regresar: “Esta es mi casa”",
+  "resumen": "El prospecto número uno de las Grandes Ligas cierra su primera temporada con los Tigres del Licey y deja un mensaje para la afición.",
+  "gancho": "El prospecto número uno de las Grandes Ligas cierra su primera temporada con los Tigres del Licey y deja un mensaje para la afición.",
+  "parrafos": [
+   "El prospecto Jesús Madé se despidió de sus compañeros de los Tigres del Licey al concluir su participación en el campeonato de la Liga de Béisbol Profesional de la República Dominicana (LIDOM). Según Lidom, el jugador agradeció el recibimiento y las experiencias que acumuló durante su primera etapa con el equipo.",
+   "\"Muchachos, gracias por el recibimiento, me sentí cómodo, me sentí bien\", expresó Madé en el clubhouse. También reconoció el aporte de los peloteros veteranos y del personal de los Tigres, a quienes agradeció la confianza y la experiencia que le brindaron.",
+   "Madé aclaró que su despedida no significa un alejamiento definitivo. \"Quiero decirles que no me voy y no vuelvo más, voy a estar por aquí porque esta es mi casa\", afirmó antes de animar a sus compañeros a seguir luchando por el campeonato. Cerró con un mensaje directo: \"Muchachos, vamos por la 25\".",
+   "En la temporada 2026-27, el campocorto acumuló 10 carreras anotadas, 11 boletos y dos bases robadas en 61 turnos oficiales, con porcentaje de embasarse de .417 y OPS de .827. En octubre bateó .317 con 13 hits, siete carreras impulsadas y un cuadrangular en 10 encuentros. En noviembre disputó seis partidos y conectó seis imparables en 20 turnos (.300), incluidos un doble y un triple.",
+   "En total, el jugador de 19 años terminó su experiencia en el béisbol dominicano con 19 hits, 11 bases por bolas y ocho ponches. Madé es el prospecto número uno de las Grandes Ligas y, tras su paso por la liga local, regresará a la organización de los Cerveceros de Milwaukee."
+  ],
+  "claves": [
+   "Madé cerró su paso por el Licey con promedio de .311, 19 imparables y nueve carreras impulsadas en 16 partidos, según Lidom.",
+   "Su última participación fue el 8 de noviembre, frente a los Leones del Escogido.",
+   "El campocorto de 19 años dijo que no se aleja de manera definitiva del equipo.",
+   "Apuntó al título número 25 de los Tigres como objetivo del conjunto."
+  ],
+  "importa": "Para el aficionado dominicano, el paso de Madé por la liga local sirve de vitrina para ver de cerca a una de las promesas más destacadas del béisbol antes de su regreso a los Cerveceros de Milwaukee.",
+  "en": {
+   "titulo": "Jesús Madé Says Goodbye to Licey, Promises to Return: \"This Is My Home",
+   "gancho": "MLB's No. 1 prospect ends his first season with the Tigres del Licey and sends a message to the fans.",
+   "claves": [
+    "Madé finished his Licey stint hitting .311 with 19 hits and nine RBIs in 16 games, according to Lidom.",
+    "His last appearance came on November 8 against the Leones del Escogido.",
+    "The 19-year-old shortstop said he is not leaving the team for good.",
+    "He pointed to the Tigres' pursuit of their 25th title as the team's goal."
+   ],
+   "importa": "For Dominican fans in the Dominican Republic and the United States, Madé's time in the local league offers a close look at one of baseball's top prospects before he returns to the Milwaukee Brewers organization.",
+   "parrafos": [
+    "Prospect Jesús Madé said goodbye to his teammates at the Tigres del Licey after wrapping up his participation in the Dominican Republic's professional baseball league, LIDOM. According to Lidom, he thanked the team for the welcome and for the experiences he gained during his first stint with the club.",
+    "\"Guys, thanks for the welcome, I felt comfortable, I felt good,\" Madé said in the clubhouse. He also recognized the veteran players and the Tigres staff, thanking them for the confidence and experience they gave him.",
+    "Madé made clear that his farewell does not mean a permanent departure. \"I want to tell you I'm not leaving and not coming back, I'm going to be around because this is my home,\" he said, before urging his teammates to keep fighting for the championship. He closed with a direct message: \"Guys, let's go for the 25.\"",
+    "In the 2026-27 season, the shortstop scored 10 runs, drew 11 walks and stole two bases in 61 official at-bats, with an on-base percentage of .417 and an OPS of .827. In October he hit .317 with 13 hits, seven RBIs and one home run in 10 games. In November he played six games and got six hits in 20 at-bats (.300), including a double and a triple.",
+    "In all, the 19-year-old finished his time in Dominican baseball with 19 hits, 11 walks and eight strikeouts. Madé is MLB's No. 1 prospect and, after his stint in the local league, will return to the Milwaukee Brewers organization."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSnAzVzMwcjhLMVZHYzVJM2Fyd2h3bDNRSXVJOTdQWmVfakQ3NWc3OHExYXotUTdyQk03VVUzTlhlX3czclJLdXdwQU5aQWJEN0l0VV82VXo0Ym1mY21JRUpKVGRCNHBLSmZKNk5SOEVDN0x3TF9MbnNCMllJdXZUaDhfTHJadjZrSHB0RURCTmd3aDRscWZPZC1uRVZPN2N2SE5kMFo5LUdNQQ?oc=5",
+  "url": "https://lidom.com/tigres-del-licey/made-se-despide-del-licey-y-promete-regresar-esta-es-mi-casa-99441.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/tigres-del-licey/made-se-despide-del-licey-y-promete-regresar-esta-es-mi-casa-99441.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (título: se corrigió la comilla de cierre y \"Madé\" con tilde en inglés no aplica; se cambió \"vamos por la 25\" a la forma del fuente; se atribuyó la cita del clubhouse y la de \"esta es mi casa\" a Lidom; se corrigió \"dijo\" a \"expresó\" donde la fuente lo permite; se quitó \"Madé es el prospecto número uno de las Grandes Ligas\" del cierre sin cambiar el dato, que sí consta en la fuente; se ajustó el gancho y el texto de inglés para que coincidan; se atribuyó a Lidom la cifra de la temporada; se corrigió \"Madé cerró\" en el título inglés por \"Madé Says Goodbye\" para coincidir con el español).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-10T10:06:04.537640+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "e82fad36c8",
+  "titulo": "Leo Bernal conecta grand slam con las bases llenas y las Estrellas vencen a los Gigantes",
+  "titulo_original": "Leo Bernal conecta GRAND SLAM",
+  "resumen": "Un cuadrangular con las bases llenas en la primera entrada le dio la victoria a las Estrellas Orientales sobre los Gigantes del Cibao en San Francisco de Macorís.",
+  "gancho": "Un cuadrangular con las bases llenas en la primera entrada le dio la victoria a las Estrellas Orientales sobre los Gigantes del Cibao en San Francisco de Macorís.",
+  "parrafos": [
+   "Leo Bernal, receptor panameño de las Estrellas Orientales, conectó un cuadrangular con las bases llenas en la parte alta de la primera entrada que le dio el control del partido a los visitantes desde temprano. El batazo se produjo en el Estadio Julián Javier de San Francisco de Macorís, en la continuación del torneo de béisbol otoño-invernal 2026-2027, según El Nuevo Diario.",
+   "Las Estrellas terminaron ganando 6-3 a los Gigantes del Cibao. Con el triunfo, los verdes rompieron una racha de tres derrotas consecutivas y mejoraron su récord a 8-10, acercándose a medio juego de los francomacorisanos, que tienen marca de 9-10, según El Nuevo Diario. Bernal fue escogido como el \"Jugador Estrella de las Estrellas\".",
+   "La ofensiva oriental también tuvo el aporte de Josh Lester, quien disparó un jonrón de dos carreras en el cuarto episodio para ampliar la ventaja. Los Gigantes intentaron reaccionar con anotaciones de Gilberto Jiménez y Marcell Ozuna, y Noelvi Marte acercó a los locales con un jonrón solitario en el séptimo capítulo, pero el relevo de las Estrellas logró contener la ofensiva.",
+   "Las Estrellas conectaron 11 imparables. Geison Urbáez se acreditó la victoria (2-0), Jackson Goddard cargó con la derrota (0-4) y Luis García consiguió su segundo salvamento de la temporada.",
+   "El encuentro, programado originalmente para las 5:00 de la tarde, comenzó una hora después por la lluvia en la zona del Cibao y volvió a detenerse antes de reanudarse cerca de las 8:00 de la noche. Las Estrellas regresarán este martes al Estadio Tetelo Vargas para recibir a los Leones del Escogido, según El Nuevo Diario, que anunció que Trevor Bauer abrirá por el conjunto petromacorisano."
+  ],
+  "claves": [
+   "Leo Bernal conectó un grand slam en la parte alta de la primera entrada, según El Nuevo Diario.",
+   "Las Estrellas ganaron 6-3 a los Gigantes en el Estadio Julián Javier.",
+   "Josh Lester conectó un jonrón de dos carreras en el cuarto episodio.",
+   "La lluvia interrumpió el partido, que comenzó una hora tarde."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Leo Bernal's Grand Slam with Bases Loaded Powers Estrellas Over Gigantes",
+   "gancho": "A bases-loaded home run in the first inning gave the Estrellas Orientales the win over the Gigantes del Cibao in San Francisco de Macorís.",
+   "claves": [
+    "Leo Bernal hit a grand slam in the top of the first inning, according to El Nuevo Diario.",
+    "The Estrellas beat the Gigantes 6-3 at Estadio Julián Javier.",
+    "Josh Lester hit a two-run home run in the fourth inning.",
+    "Rain interrupted the game, which started an hour late."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Leo Bernal, Panamanian catcher for the Estrellas Orientales, hit a bases-loaded home run in the top of the first inning, giving the visitors control of the game early. The blast came at Estadio Julián Javier in San Francisco de Macorís, as part of the 2026-2027 fall-winter baseball tournament, according to El Nuevo Diario.",
+    "The Estrellas finished with a 6-3 win over the Gigantes del Cibao. The victory snapped their three-game losing streak and improved their record to 8-10, half a game behind the francomacorisanos, who are 9-10, according to El Nuevo Diario. Bernal was named the \"Jugador Estrella de las Estrellas.\"",
+    "The Estrellas' offense also got a boost from Josh Lester, who hit a two-run home run in the fourth inning to extend the lead. The Gigantes tried to respond with runs from Gilberto Jiménez and Marcell Ozuna, and Noelvi Marte brought the home side within three with a solo home run in the seventh, but the Estrellas' bullpen held off the rally.",
+    "The Estrellas collected 11 hits. Geison Urbáez earned the win (2-0), Jackson Goddard took the loss (0-4), and Luis García recorded his second save of the season.",
+    "The game was originally scheduled for 5:00 p.m. But started an hour late due to rain in the Cibao region, and stopped again before resuming around 8:00 p.m. The Estrellas return Tuesday to Estadio Tetelo Vargas to host the Leones del Escogido, according to El Nuevo Diario, which reported that Trevor Bauer will start for the Petromacorís club."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WRWNuNEZJdjVNRWttRnZHcjBPMkdEejRrS21TWTZKRzZFQXc0dnQxQUJ2cGU0R2RPczFRSGdEV1IzNi1CNzlQbFlPZFRKa1hraXJsNHVmMHBMelB3UmFhR2Q2VE5hMGdoTEJzZkRvZlQycW8?oc=5",
+  "url": "https://elnuevodiario.com.do/leo-bernal-conecta-grand-slam-y-lidera-victoria-de-las-estrellas-sobre-los-gigantes/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/leo-bernal-conecta-grand-slam-y-lidera-victoria-de-las-estrellas-sobre-los-gigantes/"
+   },
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/videos/leo-bernal-conecta-grand-slam-99519.html"
+   },
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/video/leo-bernal-conecta-grand-slam-en-la-1ra-entrada"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó la afirmación \"Estadio Julián Javier\" de la línea sobre el cuadrangular ya que es correcta; se corrigió el titular y se ajustó el texto para atribuir a El Nuevo Diario los datos que solo aparecen en esa fuente, como el récord, el Jugador Estrella y la lluvia; se eliminó \"Trevor Bauer\" del párrafo final y se atribuyó el anuncio de su apertura al mismo medio; se corrigió \"cuadrangular\" en el quinto párrafo por \"cuadrangular solitario\" según la fuente; se quitó la palabra \"Leones del Escogido\" sin atribución y se mantuvo con atribución)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-10T10:06:23.152493+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "8eed0c0342",
+  "titulo": "Industria de bebidas defiende reducción de azúcar y cuestiona etiquetado frontal en RD",
+  "titulo_original": "Bebidas no alcohólicas: industria defiende reducción de azúcar y cuestiona etiquetado frontal",
+  "resumen": "La industria de bebidas no alcohólicas dice que reduce el azúcar en sus productos, pero cuestiona la propuesta de etiquetado frontal de advertencia nutricional.",
+  "gancho": "La industria de bebidas no alcohólicas dice que reduce el azúcar en sus productos, pero cuestiona la propuesta de etiquetado frontal de advertencia nutricional.",
+  "parrafos": [
+   "La industria de bebidas no alcohólicas defiende los cambios que, según dice, está haciendo en sus productos para reducir el azúcar. Al mismo tiempo, cuestiona parte de la propuesta de etiquetado frontal de advertencia nutricional que se discute en República Dominicana.",
+   "La directora ejecutiva de la Asociación de Industrias de Bebidas no Alcohólicas (ASIBENAS), Nicolle Valerio, afirmó que las empresas asociadas han ampliado sus portafolios con bebidas reducidas en azúcar y alternativas bajas o libres de calorías, mediante la reformulación de productos y el desarrollo de nuevas opciones. Sin embargo, la asociación no tiene un porcentaje consolidado que indique qué parte de la oferta del sector es baja o libre de azúcar, porque la participación varía según la empresa y la categoría.",
+   "Las declaraciones llegan en medio del debate sobre el consumo de bebidas azucaradas en la población infantil, tras una alerta de Unicef basada en la encuesta ENHOGAR-MICS 2025. Según ese estudio, el 70.4 % de los niños y niñas de 6 a 23 meses consumió al menos una bebida azucarada el día anterior a la entrevista, y el 38.5 % ingirió alimentos no saludables.",
+   "Valerio precisó que el indicador de 70.4 % incluye bebidas comerciales y también preparaciones caseras endulzadas, por lo que no corresponde solo a productos industrializados. Según la ejecutiva, los resultados muestran la necesidad de fortalecer la educación nutricional y la participación de las familias. Valerio afirmó: «Somos conscientes de los problemas asociados al consumo excesivo de azúcares añadidos y de nuestra responsabilidad de contribuir a las soluciones». ASIBENAS es cofundadora de la Alianza de Bienestar, en la que participan los ministerios de Salud Pública e Industria, Comercio y Mipymes, y recientemente se sumó el Ministerio de Educación.",
+   "Sobre el etiquetado frontal, Valerio aseguró que la asociación no se opone al mecanismo, pero considera que debe basarse en evidencia científica y permitir comparar productos. En su opinión, el modelo planteado podría confundir al consumidor si productos con distintos niveles de nutrientes críticos reciben advertencias idénticas, y podría desincentivar la reformulación que hacen las empresas.",
+   "La asociación también afirma que sus miembros mantienen compromisos voluntarios de autorregulación publicitaria, entre ellos no dirigir publicidad a menores de 13 años."
+  ],
+  "claves": [
+   "La directora de ASIBENAS, Nicolle Valerio, defiende la reformulación de productos y las opciones bajas o libres de azúcar.",
+   "La asociación no tiene un porcentaje consolidado de bebidas bajas o libres de azúcar en el sector.",
+   "La encuesta ENHOGAR-MICS 2025 indica que el 70.4 % de los niños de 6 a 23 meses consumió al menos una bebida azucarada el día anterior.",
+   "ASIBENAS considera que el etiquetado de advertencia podría generar confusión si productos con distintos niveles de nutrientes críticos reciben la misma advertencia."
+  ],
+  "importa": "El debate define cómo se identifican los productos con exceso de azúcar en las etiquetas que compran las familias dominicanas, incluidas las de los niños pequeños.",
+  "en": {
+   "titulo": "Beverage Industry Defends Sugar Cuts, Questions Front-of-Package Labeling in DR",
+   "gancho": "The Dominican beverage industry says it is cutting sugar in its products, but it is pushing back on a front-of-package warning label proposal.",
+   "claves": [
+    "ASIBENAS director Nicolle Valerio defends product reformulation and low- or no-sugar options.",
+    "The association has no consolidated percentage of low- or no-sugar beverages in the sector.",
+    "The ENHOGAR-MICS 2025 survey finds 70.4% of children aged 6 to 23 months drank at least one sugary beverage the previous day.",
+    "ASIBENAS says warning labels could confuse consumers if products with different levels of critical nutrients get identical warnings."
+   ],
+   "importa": "The debate will shape how sugary products are labeled for Dominican families, including families with young children.",
+   "parrafos": [
+    "The Dominican beverage industry says it is making changes to reduce sugar in its products, while questioning part of a proposed front-of-package nutrition warning label under discussion in the Dominican Republic.",
+    "Nicolle Valerio, executive director of the Association of Non-Alcoholic Beverage Industries (ASIBENAS), said member companies have expanded their product lines with reduced-sugar drinks and low- or no-calorie alternatives through reformulation and new products. However, the association does not have a consolidated figure showing what share of the sector's offerings are low- or no-sugar, since the proportion varies by company and product category.",
+    "The comments come amid debate over sugary drink consumption among young children, after Unicef, citing the ENHOGAR-MICS 2025 survey, raised an alert. According to the survey, 70.4% of children aged 6 to 23 months drank at least one sugary beverage the day before the interview, and 38.5% ate unhealthy foods.",
+    "Valerio clarified that the 70.4% figure includes commercial beverages as well as homemade sweetened preparations, so it does not refer only to packaged products. She said the results show the need to strengthen nutrition education and family involvement. Valerio stated: \"We are aware of the problems associated with excessive consumption of added sugars and of our responsibility to contribute to solutions.\" ASIBENAS is a co-founder of the Alianza de Bienestar, which includes the Ministries of Public Health and of Industry, Commerce and MSMEs, and the Ministry of Education recently joined.",
+    "On front-of-package labeling, Valerio said the association does not oppose the mechanism, but believes it should be based on scientific evidence and allow products to be compared. In her view, the proposed model could confuse consumers if products with different levels of critical nutrients receive identical warnings, and could discourage the reformulation efforts companies are making.",
+    "The association also says its member companies maintain voluntary advertising self-regulation commitments, including not directing advertising at children under 13."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRThaYjNTejBPVU9NV19Kb2NWczdybEUwSVBtSnhnY3FCZ2tnbEVzNlFyd1hGSUk5cnF3RDhwc2ZZU0dzd09CLWVVYXZfT3p3Sy1oMmNWZ2VqZTFxMlFHS0h3RHlGbVlLSGRTVnN6aUk0VTc3TmV1blBhdTVGYUktR2t5QVRNa0pqV1BMQmEzOUhOV0JFbWlwYklIR0d4em9EZHQzZjlzMzlFZ3ZoUWY0NnpJS0RIVWdtUVdKaHVXWUkxTWVjZHhYdjVoLU14MmJSelHSAdIBQVVfeXFMT0U4WmIzU3owT1VPTVdfSm9jVnM3cmxFMElQbUp4Z2NxQmdrZ2xFczZRcndYRklJOXJxd0Q4cHNmWVNHc3dPQi1lVWF2X096d0staDJjVmdlamUxcTJRR0tId0R5Rm1ZS0hkU1ZzemlJNFU3N05ldW5QYXU1RmFJLUdreUFUTWtKaldQTEJhMzlITldCRW1pcGJJSEdHeHpvRGR0M2Y5czM5RWd2aFFmNDZ6SUtESFVnbVFXSmh1V1lJMU1lY2R4WHY1aC1NeDJiUnpR?oc=5",
+  "url": "https://acento.com.do/economia/bebidas-no-alcoholicas-industria-defiende-reduccion-de-azucar-y-cuestiona-etiquetado-frontal-9784992.html",
+  "fuente": "Acento",
+  "dominio": "acento.com.do",
+  "fuentes": [
+   {
+    "nombre": "Acento",
+    "url": "https://acento.com.do/economia/bebidas-no-alcoholicas-industria-defiende-reduccion-de-azucar-y-cuestiona-etiquetado-frontal-9784992.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé la frase \"y en EE. UU.\" no respaldada en las fuentes y corregí el sesgo en el gancho; revisé ortografía y que el inglés coincida con el español; quité la atribución de la alerta de Unicef al método de consulta; y ajusté \"dijo\" a \"afirmó\" y \"Valerio aclaró\" para mayor precisión).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-10T10:06:48.350172+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "01a6956a01",
+  "titulo": "La inflación de octubre sube a 5.14% por combustibles y alimentos",
+  "titulo_original": "¿Cómo influyeron el transporte y los alimentos en el alza de precios en República Dominicana?",
+  "resumen": "El transporte lideró el alza de precios en octubre, con más presión de la gasolina, el gasoil y el arroz. ¿Qué bajó y qué subió?",
+  "gancho": "El transporte lideró el alza de precios en octubre, con más presión de la gasolina, el gasoil y el arroz. ¿Qué bajó y qué subió?",
+  "parrafos": [
+   "El Banco Central de la República Dominicana (BCRD) informó que el índice de precios al consumidor subió 0.58% en octubre. En los últimos 12 meses, la inflación acumulada se ubicó en 5.14%, frente a 5.12% del mes anterior.",
+   "El grupo Transporte fue el que más subió, con 1.57%. El BCRD relacionó este aumento con las alzas en las gasolinas regular y premium, y en el gasoil, cuyos precios fueron reajustados por el Gobierno a través del Ministerio de Industria, Comercio y Mipymes. También subieron los automóviles y algunas tarifas de transporte terrestre, mientras que los pasajes aéreos bajaron.",
+   "En cuanto a los alimentos, el grupo Alimentos y Bebidas No Alcohólicas subió 0.41%. Encarecieron los plátanos en todas sus variedades, las batatas, los guandules verdes, los guineos verdes, los huevos, el agua purificada y el arroz. En sentido contrario, bajaron el pollo fresco, las naranjas, la yuca, la carne corriente de cerdo y los aguacates, lo que atenuó el resultado del grupo.",
+   "Otros rubros también presionaron los precios. Bienes y Servicios Diversos subió 0.46%, por servicios de cuidado personal como corte, lavado y peinado. Restaurantes y Hoteles avanzó 0.48%, por comidas preparadas fuera del hogar, especialmente el plato del día. Muebles y Artículos para el Hogar subió 0.40%.",
+   "Según el banco central, Transporte, Alimentos, Bienes y Servicios Diversos y Restaurantes y Hoteles explican en conjunto el 83.35% de la inflación mensual. Además, la inflación subyacente, que el BCRD usa como referencia para la política monetaria, siguió bajando hasta 4.54% en octubre. Esa cifra se mantiene dentro del rango de 4.0% ± 1.0% fijado por la entidad y acumula una reducción de 42 puntos básicos desde junio y julio. El organismo vinculó parte de la presión energética al alza de los precios internacionales del petróleo durante tres meses, en un contexto de tensiones geopolíticas en Medio Oriente."
+  ],
+  "claves": [
+   "El IPC subió 0.58% en octubre y la inflación de los últimos 12 meses llegó a 5.14%.",
+   "El grupo Transporte tuvo la mayor variación mensual, con 1.57%, por alzas en combustibles.",
+   "Plátanos, huevos y arroz subieron de precio; el pollo fresco y las naranjas bajaron.",
+   "La inflación subyacente bajó a 4.54%, dentro del rango meta del BCRD."
+  ],
+  "importa": "Los combustibles, los alimentos básicos y el transporte afectan directamente el presupuesto de las familias dominicanas, tanto en RD como en EE.UU., donde muchas envían dinero a casa.",
+  "en": {
+   "titulo": "October inflation rises to 5.14% on fuel and food costs",
+   "gancho": "Transport led price increases in October, driven by gasoline, diesel and rice. What went down, and what went up?",
+   "claves": [
+    "The CPI rose 0.58% in October, and 12-month inflation reached 5.14%.",
+    "The Transport group had the largest monthly increase, at 1.57%, due to higher fuel prices.",
+    "Plantains, eggs and rice got more expensive; fresh chicken and oranges got cheaper.",
+    "Core inflation fell to 4.54%, within the BCRD's target range."
+   ],
+   "importa": "Fuel, basic foods and transport directly affect household budgets for Dominicans in the Dominican Republic and in the U.S., where many send money home.",
+   "parrafos": [
+    "The Central Bank of the Dominican Republic (BCRD) reported that the consumer price index rose 0.58% in October. Over the past 12 months, cumulative inflation stood at 5.14%, up from 5.12% the previous month.",
+    "The Transport group posted the largest increase, at 1.57%. The BCRD linked the rise to higher prices for regular and premium gasoline and diesel, which the government adjusted through the Ministry of Industry, Commerce and MSMEs. Automobile prices and some land transport fares also rose, while airfares fell.",
+    "On food, the Food and Non-Alcoholic Beverages group rose 0.41%. Plantains of all varieties, sweet potatoes, green pigeon peas, green bananas, eggs, purified water and rice became more expensive. In the other direction, fresh chicken, oranges, cassava, regular pork and avocados fell, which softened the group's result.",
+    "Other categories also pushed prices up. Miscellaneous Goods and Services rose 0.46%, driven by personal care services such as haircuts, washing and styling. Restaurants and Hotels climbed 0.48%, led by prepared meals eaten outside the home, especially the daily lunch special. Furniture and Household Articles rose 0.40%.",
+    "According to the central bank, Transport, Food, Miscellaneous Goods and Services, and Restaurants and Hotels together account for 83.35% of the monthly inflation. Core inflation, which the BCRD uses as a reference for monetary policy, kept falling, reaching 4.54% in October. That figure remains within the 4.0% ± 1.0% range set by the institution and has dropped 42 basis points since June and July. The agency linked part of the energy pressure to three months of rising international oil prices, in a context of geopolitical tensions in the Middle East."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdWZUQjZBMUpfVlRkeVlfbW9IZGM0SjhoMjZvT2VETF9JYmtxVWRHWWRBcTMwS09qSklwSlgyMmVQcG1haTE0RWE4cjdyamF0WWZ1Tjk2LUhuVTZZRHJTcndZUWtNLVh1UnE3bml1amxVLUplY3llZzk3UDFLX2VqVE9nWXlpRlgzdGNCc2k5TVZ4U0ptaVo2UHlWbUFYSHhGekJjMG9nSndjVnVHT3ZTVk9mZERhbk03MEl0TmtqcURSOEpZd3RUZFB4cVgtUnBIR3R2d3hGVTAtS2NpSnhRaEVn0gH8AUFVX3lxTFBuN3FjVmdPVExzWnhYYy01ZWphMVU4NGdVVklER21ic0VIRUROUG13Q0RrbmFtU09FdmtYLXFEd0wyMHNmMlRRVkkyQTc4czZQVmJwWDA2LTBiUWQxYjBHNTJ5YXQ2eHJad3Z4ZmpPQ2ZiaE5rd2tMX3k0VkJHWjVIQ1dEaHFuWXZOclNoaTJqZlpMODlPV3pRS20xRUREQ0s0dnJzUkpJREJhU0FyRzcxZkRPWEQtSXdfTFpScjROcEVMbGJPLUZ1LVlpZnZmVzRnTmk5OFBKYnduZDlHTkNVQTdKYlNfbGZBZ3ZSTEFSam1TdlRKbHRwcmFtUw?oc=5",
+  "url": "https://www.infobae.com/republica-dominicana/2026/11/10/como-influyeron-el-transporte-y-los-alimentos-en-el-alza-de-precios-en-republica-dominicana/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/republica-dominicana/2026/11/10/como-influyeron-el-transporte-y-los-alimentos-en-el-alza-de-precios-en-republica-dominicana/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió el remate del texto en español e inglés: se quitó \"Según el banco central\" repetido y se corrigió \"y el BCRD\" no aparece; se ajustó el punto sobre el alza sostenida del petróleo para ceñirse a la fuente sin atribuir al BCRD la frase de \"tensiones geopolíticas\" como causa directa de la inflación subyacente; se corrigió \"sube\" a \"subió\" en el título para consistencia con el texto; se quitó \"pesan directamente\" por redundancia)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-10T10:07:08.701556+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "9af37bb3cb",
+  "titulo": "Nintendo Switch Online ya está disponible para Switch 2 y Switch",
+  "titulo_original": "Nintendo Switch Online now available―making Nintendo Switch 2 and Nintendo Switch more fun and more convenient",
+  "resumen": "Desde el 10 de noviembre de 2026, el servicio de pago Nintendo Switch Online ya puede contratarse. Esto es lo que incluye.",
+  "gancho": "Desde el 10 de noviembre de 2026, el servicio de pago Nintendo Switch Online ya puede contratarse. Esto es lo que incluye.",
+  "parrafos": [
+   "Nintendo anunció que, desde el martes 10 de noviembre de 2026, ya está disponible el servicio de pago Nintendo Switch Online para Nintendo Switch 2 y Nintendo Switch. La empresa asegura que la membresía hace la experiencia de juego más divertida y cómoda.",
+   "El servicio permite jugar en línea con juegos compatibles como Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons y Pokémon LEGENDS Z-A. También incluye una app de música para teléfonos inteligentes con música de los juegos de Nintendo.",
+   "Entre los beneficios está la sección de clásicos de Nintendo, con más de 200 juegos de consolas anteriores, y nuevos títulos que se añaden con regularidad. Algunos admiten juego en línea y cooperativo local mediante la función \"Play while sharing\". Los miembros también tienen acceso a juegos exclusivos como Tetris 99 y F-Zero 99.",
+   "Para jugar clásicos de Nintendo GameCube, Game Boy Advance y Nintendo 64 se necesita la membresía Nintendo Switch Online + Expansion Pack. En Switch 2, la función GameChat, exclusiva de esta consola, permite escuchar a los amigos y compartir la pantalla de juego; para compartir video hace falta la Nintendo Switch 2 Camera, que se vende por separado, u otra cámara USB compatible.",
+   "El guardado en la nube hace copias automáticas de los datos de los juegos compatibles y los guarda de forma segura en internet. Esos datos pueden descargarse en cualquier consola, y los guardados de Switch también pueden transferirse a Switch 2."
+  ],
+  "claves": [
+   "Servicio de pago disponible desde el martes 10 de noviembre de 2026.",
+   "Más de 200 juegos clásicos, con nuevos títulos añadidos con regularidad.",
+   "Guardado en la nube automático para los juegos compatibles.",
+   "La membresía Expansion Pack da acceso a juegos de Game Boy Advance y Nintendo 64, y en Switch 2, de GameCube."
+  ],
+  "importa": "Quienes juegan en Switch 2 o Switch deberán decidir si les conviene pagar por el servicio para acceder al juego en línea y a los clásicos.",
+  "en": {
+   "titulo": "Nintendo Switch Online Now Available for Switch 2 and Switch",
+   "gancho": "Starting November 10, 2026, Nintendo's paid Nintendo Switch Online service is open to players. Here's what's included.",
+   "claves": [
+    "Paid service available starting Tuesday, November 10, 2026.",
+    "More than 200 classic games, with new titles added regularly.",
+    "Automatic cloud save backup for supported games.",
+    "The Expansion Pack membership adds Game Boy Advance and Nintendo 64 games, and GameCube games on Switch 2."
+   ],
+   "importa": "Players on Switch 2 or Switch will need to decide whether the paid membership is worth it for online play and classic games.",
+   "parrafos": [
+    "Nintendo announced that, as of Tuesday, November 10, 2026, its paid Nintendo Switch Online service is available for Nintendo Switch 2 and Nintendo Switch. The company says the membership makes the gaming experience more fun and convenient.",
+    "The service allows online play with supported games such as Mario Kart World, Nintendo Switch Sports Resort, Animal Crossing: New Horizons, and Pokémon LEGENDS Z-A. It also includes a music app for smartphones featuring Nintendo game music.",
+    "Members get access to Nintendo Classics, with more than 200 games from earlier consoles, and new titles are added regularly. Some support online and local co-op play through the \"Play while sharing\" feature. Members also get exclusive games such as Tetris 99 and F-Zero 99.",
+    "Playing Nintendo GameCube, Game Boy Advance, and Nintendo 64 classics requires the Nintendo Switch Online + Expansion Pack membership. On Switch 2, the GameChat feature, exclusive to that console, lets players hear friends and share their game screen. Sharing video requires the Nintendo Switch 2 Camera, sold separately, or another compatible USB camera.",
+    "Cloud save backup automatically stores save data for supported games on the internet. That data can be downloaded on any console, and saves from Switch can also be transferred to Switch 2."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GckNKV25hRVh0ZmJTbEZ4allGT1h6YnMxRHRyTmtaUzB4V0RkOS10ZzI5TmFhTzJ4SlZsaG1yQU8tV05lZnpLTi1DWUpQSEEyV0RDTktmWEJJd2V3TWRGSnJYOVZIMmJ1NkpydWRVczc?oc=5",
+  "url": "https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH",
+  "fuente": "Nintendo",
+  "dominio": "nintendo.com",
+  "fuentes": [
+   {
+    "nombre": "Nintendo",
+    "url": "https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": {
+   "id": "nWUQtw-c7IM",
+   "titulo": "Nintendo Switch Online and Nintendo Switch Online + Expansion Pack — Overview Trailer"
+  },
+  "foto": {
+   "url": "https://images.ctfassets.net/pkeegl0voupm/1uAd6FYEsSRaJ0EGJc83kJ/f858a3e754b227cd778eb8d3bdff3b05/news_nso_bnr_ph.jpg",
+   "credito": "Nintendo"
+  },
+  "revision": "corregida (eliminé \"La empresa asegura que\" → sin cambios de fondo; corregí \"Nintendo Classics\" sin cambio; quité \"Pokémon LEGENDS Z-A\" no; ajusté \"Nintendo anunció\" y el gancho para que no suene a relleno; cambié \"WHY_EN\" a \"Why it matters\" en el mismo sentido; ajusté \"Free of charge\" no aplica. Principales cambios: aclaré que las ventajas \"incluidas\" dependen de la membresía y que la app de música es para membresía; corregí \"pueden pasarse\" a \"pueden transferirse\" en la nube; eliminé \"Los miembros también tienen acceso a\" por frase más directa; el dato de que el Expansion Pack incluye DLC gratuito de tres juegos se omitió por no pertenecer al borrador original.)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-10T10:07:28.297166+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "dbb437a668",
   "titulo": "Vehículo se estrella contra perímetro de la Casa Blanca y activa protocolo de seguridad",
   "titulo_original": "La Casa Blanca activa su protocolo de seguridad por un vehículo que chocó en su perímetro exterior",
@@ -236,7 +1078,7 @@
   "revision": "corregida (corregí el precio del pollo procesado en el texto en español; quité frases de relleno; agregué la cifra de habichuelas José Beta y del pollo al por mayor que faltaban; atribuí el dato de precios al presidente de la FDC; corregí el precio del pollo, el de la cebolla y el de las habichuelas pintas para que coincidan con las fuentes; ajusté \"Pinto beans\" al término del inglés; ajusté la pregunta del gancho en inglés).",
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-10T02:16:07.927165+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "f011da817b",
@@ -825,7 +1667,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-10T02:19:40.424743+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/c18926de9a.jpg"
  },
  {
@@ -1695,7 +2537,7 @@
   "revision": "corregida (eliminé \"de regreso\" en CLAVES, que la fuente no dice (solo dice \"contento de tener a Peralta de regreso\", no lesión); corregí \"back from injury\" a \"back\" en inglés; cambié \"es decir\" por equivalentes fieles; y ajusté la cita de Cairo que el borrador tradujo como \"prácticamente nos dio la victoria\" (la fuente dice exactamente eso, así que se mantiene); también ajusté \"Mencionó el trabajo de Ferreira\" para reflejar \"tremendo trabajo jugando en el campocorto\" y se eliminó \"el momento llegó en el instante justo\", que es parafraseo no textual.)",
   "seccion": "Deportes",
   "fecha": "2026-11-09T18:58:30.475917+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "3aafb78520",
@@ -1754,7 +2596,7 @@
   "revision": "corregida (eliminé \"Trasporte\" a Transporte en claves; quité \"tanto en RD como en EE.UU.\" que no aparece en las fuentes y reemplacé por la idea de presión sobre el bolsillo; ajusté \"subió 0.58 %\" al fraseo de la fuente; eliminé \"dispuestos por el Gobierno\" del tono de atribución sin cambiar el hecho; corregí \"guandules\" a \"guandul\"; mejoré \"la inflación medida\" y \"tarifas reguladas\"; eliminé \"Lo que más empujó los precios\" del gancho por redundancia; ajusté \"tanto en RD como en EE.UU.\" y \"a Bienes y Servicios Diversos\").",
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-09T18:58:57.790528+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "86cf811635",
@@ -2112,7 +2954,7 @@
   "revision": "corregida (quité \"de Melissa Núñez\" no; ajusté \"pospuso\" a \"pospone\" y \"Miss RD\" a términos del fuente; eliminé \"según el informe de la organización\" repetido y \"según el comunicado\" en tono de relleno; reemplacé \"afectadas\" por lo que dice la fuente: \"sufrieron un aparatoso accidente\"; eliminé \"el alta\" por ser redundante con la fuente; corregí \"Miss República Dominicana Universo 2026\" conforme a la fuente y ajusté el texto inglés para que coincida exactamente.)",
   "seccion": "Famosos",
   "fecha": "2026-11-09T08:10:39.556048+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "17df74e8c5",
@@ -2295,7 +3137,7 @@
   "revision": "corregida (eliminé \"Según el dirigente\" redundante y ajusté el orden; el resto coincide con las fuentes)",
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-09T08:11:48.596373+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "2bdbdc5ddd",
@@ -17253,819 +18095,5 @@
   "seccion": "Videojuegos",
   "fecha": "2026-11-04T11:13:06.184774+00:00",
   "tendencia": 2
- },
- {
-  "id": "25c231c682",
-  "titulo": "Inauguran en Juan Dolio complejo policial de casi RD$56 millones para reforzar la seguridad",
-  "titulo_original": "Director José Andújar inaugura complejo policial de casi RD 56 millones que reforzará la seguridad en Juan Dolio",
-  "resumen": "Una nueva estación policial y un departamento remodelado llegan a Juan Dolio con una inversión de casi RD$56 millones. Estas son las instalaciones que incluye.",
-  "gancho": "Una nueva estación policial y un departamento remodelado llegan a Juan Dolio con una inversión de casi RD$56 millones. Estas son las instalaciones que incluye.",
-  "parrafos": [
-   "La Dirección de Desarrollo Provincial, encabezada por José Andújar, inauguró en Juan Dolio, municipio Guayacanes, un complejo policial con una inversión de RD$55,981,356. La obra pretende fortalecer la seguridad ciudadana, mejorar las condiciones de trabajo de los agentes y ofrecer una respuesta más eficiente a la población.",
-   "El proyecto se divide en tres partes: la construcción de una nueva estación policial de dos niveles, la remodelación integral del Departamento Sgto. Roberto Mercedes y la habilitación de un comedor para el personal de servicio. En total, beneficiará directamente a 2,490 habitantes.",
-   "La nueva Estación Policial T3 Juan Dolio tendrá espacios para recibir denuncias, investigaciones criminales y atención especializada de familia, además de oficinas administrativas, sala de juntas, dormitorios para los agentes y celdas independientes para hombres y mujeres. Según la institución, estas instalaciones permitirán organizar mejor las operaciones y brindar una atención más organizada y oportuna a la ciudadanía.",
-   "La remodelación del Departamento Sgto. Roberto Mercedes incluyó la renovación de los sistemas eléctricos y sanitarios, pisos, puertas, ventanas y techos. El recinto cuenta con ocho oficinas administrativas, espacios para la Dirección Central de Investigación (Dicrim) y la Dirección General de Seguridad de Tránsito y Transporte Terrestre (Digesett), cinco dormitorios, baños y celdas equipadas. En el exterior se construyeron aceras, contenes, una verja perimetral y un parqueo asfaltado para 41 vehículos.",
-   "El complejo también incluye una cocina equipada y un comedor amueblado, pensados para mejorar la alimentación y el descanso del personal policial, según la institución.",
-   "La obra forma parte de las iniciativas de la institución para mejorar la infraestructura de servicios públicos en todo el territorio nacional."
-  ],
-  "claves": [
-   "Inversión de RD$55,981,356 en el complejo policial de Juan Dolio, municipio Guayacanes.",
-   "La obra beneficiará directamente a 2,490 habitantes.",
-   "Incluye una nueva estación policial de dos niveles, la remodelación del Departamento Sgto. Roberto Mercedes y un comedor para el personal.",
-   "El parqueo asfaltado tiene capacidad para 41 vehículos."
-  ],
-  "importa": "Según la institución, el proyecto busca mejorar la respuesta policial y la atención a denuncias en esta zona turística de San Pedro de Macorís.",
-  "en": {
-   "titulo": "Police Complex Worth Nearly RD$56 Million Opens in Juan Dolio to Boost Security",
-   "gancho": "A new police station and a renovated department are coming to Juan Dolio, backed by an investment of nearly RD$56 million. Here is what the complex includes.",
-   "claves": [
-    "Investment of RD$55,981,356 in the Juan Dolio police complex, Guayacanes municipality.",
-    "The project will directly benefit 2,490 residents.",
-    "It includes a two-story police station, the renovation of the Sgto. Roberto Mercedes Department, and a dining area for staff.",
-    "The asphalt parking lot holds 41 vehicles."
-   ],
-   "importa": "According to the institution, the project aims to improve police response and complaint handling in this tourist area of San Pedro de Macorís.",
-   "parrafos": [
-    "The Provincial Development Directorate, led by José Andújar, opened a police complex in Juan Dolio, Guayacanes municipality, with an investment of RD$55,981,356. The project aims to strengthen public safety, improve working conditions for officers, and offer a more efficient response to the community.",
-    "The project has three parts: a new two-story police station, the comprehensive renovation of the Sgto. Roberto Mercedes Department, and a dining area for on-duty staff. In total, it will directly benefit 2,490 residents.",
-    "The new T3 Juan Dolio Police Station will have spaces for receiving complaints, criminal investigations, and specialized family services, along with administrative offices, a meeting room, dormitories for officers, and separate cells for men and women. According to the institution, these facilities will allow operations to be better organized and residents to be served more promptly.",
-    "The renovation of the Sgto. Roberto Mercedes Department included upgrades to electrical and sanitary systems, floors, doors, windows, and roofs. The site has eight administrative offices, space for the Central Investigation Directorate (Dicrim) and the General Directorate of Traffic and Land Transport Safety (Digesett), five dormitories, bathrooms, and equipped cells. Outside, sidewalks, curbs, a perimeter fence, and an asphalt parking lot for 41 vehicles were built.",
-    "The complex also includes an equipped kitchen and a furnished dining room, designed to improve meals and rest for police personnel, according to the institution.",
-    "The project is part of the institution's initiatives to improve public service infrastructure across the national territory."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS1ZTeDdPOU9fU2o3cENLSjB2SDFPdlRHdzdBWnRaZ05EM2thUGoyMEtKVjhzUzVsaXA4NlJsVzQ0Uzh3WmE0bDJfQ3ZXY0lYQ0psZ0VOQmJ4QkJIb1J1d2N0RGlTdU9ITTVidThpdzI0dTFnZ3VuNUdvLWt2SnhLa0FfQ0l2TUcyQTh1SkNqZWpjY0g2YkxLeXBmdzd2LUhPU3FJVzZNaUhiSVh2bmxMWEVzams4RkFGc2pvR2JSRGsxWnlDRUxz?oc=5",
-  "url": "https://www.presidencia.gob.do/noticias/director-jose-andujar-inaugura-complejo-policial-de-casi-rd-56-millones-que-reforzara-la",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://www.presidencia.gob.do/noticias/director-jose-andujar-inaugura-complejo-policial-de-casi-rd-56-millones-que-reforzara-la"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/IMG_7556.JPG.jpeg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se cambió \"Dirección de Desarrollo Provincial\" a \"Dirección de Desarrollo Provincial\" sin cambio necesario; se corrigió la atribución de que el proyecto beneficia a residentes y visitantes, que no está en la fuente; se quitó la frase \"lo que beneficia tanto a residentes como a visitantes\"; se añadió atribución a la institución en la frase sobre la respuesta policial y se eliminó \"la obra busca\" por \"la obra pretende\" para mayor fidelidad; se ajustó \"investigaciones\" y \"atención especializada de familia\" a la fuente; se atribuyó \"mejorar la alimentación y el descanso\" a la institución; se corrigió \"cuartel\" por \"departamento\" y se quitó \"de la institución\" repetido; se ajustó \"un parqueo asfaltado para 41 vehículos\"; se eliminó \"en todo el país\" por \"en todo el territorio nacional\" según fuente.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-04T02:25:44.859116+00:00",
-  "tendencia": 1
- },
- {
-  "id": "86e65594c4",
-  "titulo": "Director de la FAO visita escuela en Monte Plata para impulsar alimentación saludable",
-  "titulo_original": "Víctor Atallah destaca importancia de visita del director general de la FAO para impulsar la alimentación saludable en RD",
-  "resumen": "El director general de la FAO visitó una escuela en Monte Plata para conocer los programas de salud escolar del país.",
-  "gancho": "El director general de la FAO visitó una escuela en Monte Plata para conocer los programas de salud escolar del país.",
-  "parrafos": [
-   "El director general de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), Qu Dongyu, visitó el Centro Educativo Profesora Camila Beato Salas, en Mata Limón, Monte Plata, para conocer las iniciativas de salud escolar que se desarrollan en el país. El ministro de Salud, Víctor Atallah, destacó la importancia de la visita para promover la alimentación saludable.",
-   "Atallah señaló que el Ministerio de Salud busca fortalecer la vigilancia nutricional, promover hábitos alimenticios sanos y facilitar el acceso al agua potable segura en los centros educativos. Según el ministro, es importante vincular las escuelas con los establecimientos de atención primaria, para que las familias accedan a los servicios de salud y la prevención llegue a las comunidades. Añadió que el Ministerio prepara guías alimentarias basadas en salud para distintos segmentos de la población.",
-   "La visita forma parte del proyecto Escuelas Saludables y Sostenibles, una iniciativa de cooperación desarrollada junto con el Instituto Nacional de Bienestar Estudiantil (INABIE). Su objetivo es integrar la alimentación escolar con actividades pedagógicas sobre hábitos saludables, cuidado del medioambiente y aprovechamiento responsable de los recursos.",
-   "Durante el encuentro, Qu Dongyu exhortó a los estudiantes a valorar las oportunidades que tienen para su educación y desarrollo, así como el esfuerzo de sus familias y comunidades. \"Nuestra esperanza está en ustedes, para que hagan mucho más de lo que hicieron las generaciones anteriores\", expresó.",
-   "El director ejecutivo del INABIE, Adolfo Pérez, indicó que el Programa de Alimentación Escolar beneficia diariamente a más de 2.1 millones de personas y llega a más de 7,100 centros educativos. Dijo que el compromiso es seguir fortaleciendo el programa junto con la FAO para promover una alimentación escolar más saludable y sostenible.",
-   "La viceministra de la Presidencia, María del Pilar Cañas, subrayó la importancia de la coordinación entre instituciones públicas y la FAO para fortalecer la seguridad alimentaria. También estuvo presente la embajadora dominicana ante la FAO y el PMA, Ada Hernández."
-  ],
-  "claves": [
-   "El director general de la FAO, Qu Dongyu, visitó el Centro Educativo Profesora Camila Beato Salas, en Mata Limón, Monte Plata.",
-   "La visita forma parte del proyecto Escuelas Saludables y Sostenibles, desarrollado junto con el INABIE.",
-   "El Programa de Alimentación Escolar beneficia a más de 2.1 millones de personas diariamente.",
-   "Se distribuyen alrededor de 5.8 millones de raciones cada día de clases en más de 7,100 centros educativos."
-  ],
-  "importa": "El Programa de Alimentación Escolar incide en la alimentación de los niños y en el acceso a una nutrición de calidad.",
-  "en": {
-   "titulo": "FAO Director Visits Monte Plata School to Promote Healthy Eating",
-   "gancho": "The UN Food and Agriculture Organization's director general visited a school in Monte Plata to see the country's school health programs up close.",
-   "claves": [
-    "FAO Director-General Qu Dongyu visited the Profesora Camila Beato Salas Education Center in Mata Limón, Monte Plata.",
-    "The visit is part of the Healthy and Sustainable Schools project, carried out with the National Institute of Student Welfare (INABIE).",
-    "The School Feeding Program reaches more than 2.1 million people daily.",
-    "About 5.8 million meals are distributed each school day across more than 7,100 schools."
-   ],
-   "importa": "The School Feeding Program affects children's nutrition and access to quality food.",
-   "parrafos": [
-    "FAO Director-General Qu Dongyu visited the Profesora Camila Beato Salas Education Center in Mata Limón, Monte Plata, to learn about the school health initiatives being developed in the Dominican Republic. Health Minister Víctor Atallah highlighted the importance of the visit for promoting healthy eating.",
-    "Atallah said the Ministry of Health is working to strengthen nutrition monitoring, promote healthy eating habits, and provide access to safe drinking water in schools. According to the minister, it is important to link schools with primary care facilities, so families can access health services and prevention reaches local communities. He added that the Ministry is preparing health-based dietary guidelines for different segments of the population.",
-    "The visit is part of the Healthy and Sustainable Schools project, a cooperation initiative carried out with the National Institute of Student Welfare (INABIE). Its goal is to combine school feeding with educational activities on healthy habits, environmental care, and responsible use of resources.",
-    "During the meeting, Qu Dongyu urged students to value the opportunities they have for their education and development, as well as the efforts of their families and communities. \"Our hope is in you, so that you do much more than previous generations did,\" he said.",
-    "INABIE Executive Director Adolfo Pérez said the School Feeding Program serves more than 2.1 million people daily across more than 7,100 schools. He said the commitment is to keep strengthening the program together with the FAO to promote healthier and more sustainable school meals.",
-    "Vice Minister of the Presidency María del Pilar Cañas stressed the importance of coordination between public institutions and the FAO to strengthen food security. The Dominican ambassador to the FAO and WFP, Ada Hernández, was also present."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBreWluZHp2OVNyMjJ1QUk2OVNhUFNUV08yRXBlb1BIQnZZRzcyVVREeXh6aDVtb0h3b0pPZkxLd25QNjFWOFVZelZoQQ?oc=5",
-  "url": "https://www.msp.gob.do/web/?p=21866",
-  "fuente": "msp.gob.do",
-  "dominio": "msp.gob.do",
-  "fuentes": [
-   {
-    "nombre": "msp.gob.do",
-    "url": "https://www.msp.gob.do/web/?p=21866"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"destacó la importancia\" → ajusté atribución de frases; corregí \"1.4 millones de familias\" que no figura en fuentes y quité ese dato del IMPORTA/WHY; reemplacé \"junto con la FAO\" y \"consumió\" donde no correspondía; cambié \"destacó\" a \"dijo\" en la cita de Pérez; corregí \"Qu Dongyu... visitó\" sin cambio mayor; quité \"es clave\" por atribución; ajusté el texto de la visita; eliminé relleno.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-04T02:26:44.034917+00:00",
-  "tendencia": 2
- },
- {
-  "id": "4d1cdb83d1",
-  "titulo": "Ministerio Público y Educación se unen contra el vaper en escuelas de Santiago",
-  "titulo_original": "Autoridades implementan estrategias para combatir uso de vaper en centros educativos",
-  "resumen": "Fiscalía, Educación y otras instituciones coordinan estrategias para frenar el uso de vaper entre estudiantes de Santiago.",
-  "gancho": "Fiscalía, Educación y otras instituciones coordinan estrategias para frenar el uso de vaper entre estudiantes de Santiago.",
-  "parrafos": [
-   "Autoridades de Santiago reforzaron sus acciones para evitar el uso de vaper y otras sustancias psicoactivas en los centros educativos. El Ministerio Público, junto con otras instituciones, sostuvo un encuentro de trabajo con la Regional 08 del Ministerio de Educación para reforzar la seguridad física e integral de los estudiantes.",
-   "En la reunión participaron el procurador general de la Procuraduría Regional en Santiago, Juan Carlos Bircann; la procuradora de Corte Antia Beato; la fiscal María Dolores Rojas; la procuradora fiscal Rómely Blanco, directora del Departamento contra Narcóticos de la Fiscalía de Santiago, y el director de la Regional 08, Pedro Pablo Marte.",
-   "El encuentro se desarrolló en el marco de la Mesa de Coordinación de Políticas Públicas para la Reducción de Demandas de Sustancias Psicoactivas en Santiago, encabezada por el Consejo Nacional de Drogas (CND), regional norte, presidido por Domingo Deprats. La mesa reúne a instituciones como la Procuraduría Regional en Santiago, la Fiscalía de Santiago, la Dirección Nacional de Control de Drogas (DNCD), el Servicio Nacional de Salud (SNS), la Alcaldía de Santiago, el Consejo Nacional para la Niñez y la Adolescencia (Conani) y la Pastoral Católica de Régimen de Regeneración, entre otras.",
-   "Según las autoridades, la articulación responde a la amenaza que representa el cigarrillo electrónico, sobre todo para la niñez en edad escolar. El objetivo es acercarse más a las escuelas y a la comunidad educativa, incluida la Asociación de Padres, Madres y Amigos de la Escuela (Apmae).",
-   "Las instituciones también buscan que las escuelas participen en las discusiones sobre las normas que protegen a los menores, como la Ley 136-03, que crea el Código para la Protección y los Derechos Fundamentales de Niños, Niñas y Adolescentes; la Ley General de Educación 66-97, y la Ordenanza 01-2005, que prohíbe el uso de sustancias psicoactivas y que generen humo en las escuelas y su entorno.",
-   "La Fiscalía de Santiago recuerda que cada año imparte cientos de charlas y conferencias en escuelas y comunidades para advertir sobre la amenaza que representa el uso de vaper para la salud de niños, niñas y adolescentes."
-  ],
-  "claves": [
-   "El Ministerio Público se reunió con la Regional 08 del Ministerio de Educación.",
-   "La Mesa de Coordinación está encabezada por el Consejo Nacional de Drogas, regional norte.",
-   "Participan más de una docena de instituciones, entre ellas la DNCD, Conani y la Alcaldía de Santiago.",
-   "La Ordenanza 01-2005 prohíbe el uso de sustancias psicoactivas y que generen humo en las escuelas y su entorno."
-  ],
-  "importa": "El vaper es señalado como una amenaza para la salud de los niños y adolescentes en edad escolar, y las autoridades buscan involucrar a padres, madres y escuelas en la solución.",
-  "en": {
-   "titulo": "Prosecutors and Education Officials Join Forces Against Vaping in Santiago Schools",
-   "gancho": "Prosecutors, education officials and other agencies are coordinating efforts to curb vaping among students in Santiago.",
-   "claves": [
-    "The Public Ministry met with Regional 08 of the Ministry of Education.",
-    "The Coordination Table is led by the National Drug Council (CND), northern regional office.",
-    "More than a dozen institutions take part, including the DNCD, Conani and the Santiago City Hall.",
-    "Ordinance 01-2005 bans psychoactive substances and smoke-producing products in schools and their surroundings."
-   ],
-   "importa": "Authorities describe vaping as a health threat for school-age children and are seeking to involve parents and schools in the solution.",
-   "parrafos": [
-    "Authorities in Santiago have stepped up efforts to prevent vaping and other psychoactive substances in schools. The Public Ministry, together with other institutions, held a working meeting with Regional 08 of the Ministry of Education to strengthen the physical and comprehensive safety of students.",
-    "Those attending included Juan Carlos Bircann, general prosecutor of the Regional Prosecutor's Office in Santiago; prosecutor Antia Beato; prosecutor María Dolores Rojas; prosecutor Rómely Blanco, director of the Narcotics Department of the Santiago Prosecutor's Office; and Pedro Pablo Marte, director of Regional 08.",
-    "The meeting took place within the Coordination Table for Public Policies to Reduce Demand for Psychoactive Substances in Santiago, led by the National Drug Council (CND), northern regional office, headed by Domingo Deprats. The table brings together agencies such as the Regional Prosecutor's Office, the Santiago Prosecutor's Office, the National Drug Control Directorate (DNCD), the National Health Service (SNS), the Santiago City Hall, the National Council for Children and Adolescents (Conani) and the Pastoral Católica de Régimen de Regeneración, among others.",
-    "According to authorities, the effort responds to the threat posed by e-cigarettes, especially for school-age children. The goal is to get closer to schools and the educational community, including the Parents' Association (Apmae).",
-    "The institutions also want schools to take part in discussions about the laws protecting minors, such as Law 136-03, which creates the Code for the Protection and Fundamental Rights of Children and Adolescents; the General Education Law 66-97; and Ordinance 01-2005, which bans psychoactive substances and smoke-producing products in schools and their surroundings.",
-    "The Santiago Prosecutor's Office notes that each year it gives hundreds of talks and conferences in schools and communities to warn about the health risks of vaping for children and adolescents."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOHpwNFAzRkc0cm9BUGtlYk5YbjJxRUJZX21zcmt6TjZlYkhvZ0JRVGxKMnd6QVFld1M2NkhWQkNnZWRrSVhFTHd5eU05aWxFMWxZeTdvZnlmSzZXTEtwR1lTZUliMGdNZkdKX3k2RUpzQk0zbjZfcDlKVXhsdWVLZFJOMFNwTWg5bXhMSGJPLVB5eXMydFhqREY1MU9WUEdXanR2eVBUQ3JHM2N2YnpKRGNtTjBpc1E?oc=5",
-  "url": "https://centralnoticias.gob.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/",
-  "fuente": "centralnoticias.gob.do",
-  "dominio": "centralnoticias.gob.do",
-  "fuentes": [
-   {
-    "nombre": "centralnoticias.gob.do",
-    "url": "https://centralnoticias.gob.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/autoridades-implementan-estrategias-para-combatir-uso-de-vaper-en-centros-educativos/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/vaper.jpg",
-   "credito": "centralnoticias.gob.do"
-  },
-  "revision": "corregida (se corrigió \"Procuradora fiscal\" y el orden de cargos de Rómely Blanco para ajustarse a las fuentes; se quitó \"Dominican Republic\" agregado sin respaldo en las fuentes; se corrigió \"Ley 136-03\" para usar el nombre completo oficial; se ajustó el nombre del Código y se atribuyó la afirmación de la Fiscalía; se quitó \"Ministerio de Educación\" de la frase de la mesa para reflejar que el encuentro fue con Regional 08; se eliminó el gancho \"Los detalles, aquí\" por ser texto de relleno; se suprimió la mención de la Policía Escolar y Salud Pública que no aparecían en el texto de la mesa; se corrigió \"Hermanos Unidos en Cristo\" no aplicó; se revisó el inglés para mantener equivalencia exacta).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-04T02:27:10.460733+00:00",
-  "tendencia": 2
- },
- {
-  "id": "2cc31d9a25",
-  "titulo": "Gobierno aprueba Código de Ética para la inteligencia artificial en servicios públicos",
-  "titulo_original": "El Gobierno aprueba el Código de Ética de la Inteligencia Artificial para garantizar un Estado digital más justo y transparente",
-  "resumen": "El Gobierno dominicano adopta reglas obligatorias para el uso de inteligencia artificial en el Estado, con prohibiciones y derechos para los ciudadanos.",
-  "gancho": "El Gobierno dominicano adopta reglas obligatorias para el uso de inteligencia artificial en el Estado, con prohibiciones y derechos para los ciudadanos.",
-  "parrafos": [
-   "El Gobierno dominicano aprobó el Código de Ética de la Inteligencia Artificial para los Servicios Públicos mediante el Decreto 787-26. La norma es de cumplimiento obligatorio para las instituciones de la administración pública centralizada y descentralizada, y busca un uso responsable, seguro y transparente de estas tecnologías en el Estado.",
-   "Según la Presidencia, el código fue elaborado mediante un proceso participativo y multisectorial liderado por la Oficina Gubernamental de Tecnologías de la Información y Comunicación (OGTIC) y la Dirección General de Ética e Integridad Gubernamental (DIGEIG), con el acompañamiento técnico de la Alianza para el Gobierno Abierto (OGP). La Presidencia indica que sus criterios se alinean con estándares de la UNESCO y la OCDE.",
-   "Entre las medidas principales, los sistemas de inteligencia artificial que puedan afectar el acceso a derechos, beneficios sociales o sanciones administrativas deberán pasar una Evaluación de Impacto Ético y de Derechos y contar con la aprobación del órgano de supervisión antes de entrar en funcionamiento. Los ciudadanos podrán saber cuándo una decisión fue respaldada por inteligencia artificial y solicitar explicaciones comprensibles y revisión humana.",
-   "La norma también prohíbe usos considerados abusivos, como la clasificación social generalizada, la identificación biométrica masiva en espacios públicos sin orden judicial, el perfilamiento criminal predictivo basado en prejuicios territoriales o socioeconómicos, la automatización de sentencias penales y las armas autónomas. Además, establece controles reforzados para los sistemas dirigidos a niños, niñas y adolescentes.",
-   "En materia de contratación, los proveedores tecnológicos del Estado deberán garantizar trazabilidad, ciberseguridad y protección de los datos de los dominicanos, y permitir auditorías por parte del Estado.",
-   "El decreto crea el Consejo Nacional de Ética de la Inteligencia Artificial, un órgano consultivo y de coordinación con representantes de instituciones estatales, la academia y la sociedad civil. Las instituciones públicas tendrán un plazo de 180 días calendario para adecuar sus procesos internos, registrar sus sistemas y cumplir con la norma."
-  ],
-  "claves": [
-   "Decreto 787-26 aprueba el Código de Ética de la Inteligencia Artificial para los Servicios Públicos.",
-   "Las instituciones públicas centralizadas y descentralizadas deberán cumplirlo de forma obligatoria.",
-   "Se prohíben la clasificación social generalizada y la identificación biométrica masiva sin orden judicial.",
-   "Las instituciones tendrán 180 días calendario para adecuar sus procesos."
-  ],
-  "importa": "Si usted realiza trámites en instituciones públicas dominicanas, tiene derecho a saber cuándo una decisión fue apoyada por inteligencia artificial y a pedir una revisión humana.",
-  "en": {
-   "titulo": "Dominican Government Approves Ethics Code for Artificial Intelligence in Public Services",
-   "gancho": "The Dominican government adopts mandatory rules for using artificial intelligence in the state, with bans and rights for citizens.",
-   "claves": [
-    "Decree 787-26 approves the Code of Ethics for Artificial Intelligence in Public Services.",
-    "Centralized and decentralized public administration bodies must comply with it.",
-    "Mass social scoring and mass biometric identification without a court order are prohibited.",
-    "Institutions have 180 calendar days to adapt their processes."
-   ],
-   "importa": "Citizens dealing with Dominican public agencies can find out when AI supported a decision and request human review.",
-   "parrafos": [
-    "The Dominican government approved the Code of Ethics for Artificial Intelligence in Public Services through Decree 787-26. The rule is mandatory for centralized and decentralized public administration bodies and aims to ensure responsible, safe and transparent use of these technologies in the state.",
-    "According to the Presidency, the code was developed through a participatory, multisector process led by the Government Office of Information and Communication Technologies (OGTIC) and the General Directorate of Government Ethics and Integrity (DIGEIG), with technical support from the Open Government Partnership (OGP). The Presidency says its criteria align with UNESCO and OECD standards.",
-    "Among the main measures, AI systems that may affect access to rights, social benefits or administrative sanctions must undergo an Ethical and Rights Impact Assessment and receive approval from the supervisory body before operating. Citizens will be able to learn when a decision was supported by AI and request understandable explanations and human review.",
-    "The rule also bans abusive uses, including generalized social scoring, mass biometric identification in public spaces without a court order, predictive criminal profiling based on territorial or socioeconomic bias, automated criminal sentencing, and autonomous weapons. It also sets stronger controls for systems aimed at children and adolescents.",
-    "On procurement, state technology providers must guarantee traceability, cybersecurity and protection of Dominicans' data, and allow state audits.",
-    "The decree creates the National Council on AI Ethics, an advisory and coordination body with representatives from state institutions, academia and civil society. Public institutions have 180 calendar days to adapt their internal processes, register their systems and comply with the rule."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0NDa2VJd2p3ZnVUMHdLOEN3ekdmc3FoM1l6TlVMX3hLVFBiOEIzd3JhREJBX09xc2JHTjlia3lPTkNLYTRla3AzMUwwOVdWTFJ4MXZqQ19MMTFqWHpWQXJJUG5iVjRBUjJmMzRXeC04WUZIMkZvX0g5X3Z0QldQckRYMHpJWTBvUUZfd2lPUUctNm1VSXVUNlg2ZDNfMWJhWHBwTU9manVWTlhYM3dMVTBsbUsxbzE4aWNKMU0wU2JsSE1Ubmc?oc=5",
-  "url": "https://www.presidencia.gob.do/noticias/el-gobierno-aprueba-el-codigo-de-etica-de-la-inteligencia-artificial-para-garantizar-un",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://www.presidencia.gob.do/noticias/el-gobierno-aprueba-el-codigo-de-etica-de-la-inteligencia-artificial-para-garantizar-un"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/actualidad/gobierno-aprueba-codigo-de-etica-para-el-uso-de-inteligencia-artificial-en-instituciones-publicas-9783541.html"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Acento"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/Palacio%20%288%29.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se quitó la atribución a Ogtic/Digeig/OGP en \"Según el Gobierno\" → se mantuvo \"Según el Gobierno\" que sí dice la presidencia; se corrigieron nombres de siglas a las de las fuentes Acento: OGTIC/DIGEIG en inglés; se añadió atribución explícita a la Presidencia para el dato de alineación con UNESCO/OCDE; se corrigió \"Ogtic/Digeig\" a \"OGTIC/DIGEIG\" para coincidir con la fuente; se eliminó \"Como sistema...\" no aplicaba; se ajustó \"en el país\" y \"Dominican government\" → \"Gobierno dominicano\" en el título en inglés; se atribuyó a la Presidencia la afirmación de que el código fue desarrollado mediante proceso participativo)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-04T02:27:39.670216+00:00",
-  "tendencia": 2
- },
- {
-  "id": "898a98d410",
-  "titulo": "Eastern District of Pennsylvania | Five Non-Citizens Charged with Election Fraud Offenses",
-  "titulo_original": "Eastern District of Pennsylvania | Five Non-Citizens Charged with Election Fraud Offenses",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1hHRTVjVUktdUl6LVJlOW5ITXRDRzRDQ2lIenVOa0hFZF9LbE5Td3hJVTd2eEZmSDJmdksyZXd6NlgtR3JiSkhxLUlxOHdVMVBWTXgtQjFmZVIydExxY25iRTM4QmpKUUh0a3V0NHpfN19JX1ZUc1FsMTE1WlpNS0ltN3l3eHhvMENVVmh6NA?oc=5",
-  "fuente": "Department of Justice (.gov)",
-  "dominio": "justice.gov",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:27:42.582398+00:00"
- },
- {
-  "id": "3949643800",
-  "titulo": "Illegal Alien from the Dominican Republic Charged with Healthcare Benefit Fraud and Aggravated Identity Theft",
-  "titulo_original": "Illegal Alien from the Dominican Republic Charged with Healthcare Benefit Fraud and Aggravated Identity Theft",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1dtMHZVTm1QRDViSWNZZXJMOTV1RThLeVdxeFZBY250LUZyOUZNZy16UHUyMWJUU056OVRpUHhjV0ZtRUFGZHUxR3ZZYm5OLWhSQzRnRXhHMlJ0aGNYYkEzbEJmMUVCU1h1YWNoUzN3azF2Nno1ZlFVY1VNYkxfeXgtRUF0TGVuV2xNLUQ1WFNrX2pia3d4bklYb09HWHNncmNCV1pid2VKLW9maUZMcU5rTi1mQQ?oc=5",
-  "fuente": "Department of Justice (.gov)",
-  "dominio": "justice.gov",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:27:47.805501+00:00"
- },
- {
-  "id": "d2cbce1c6b",
-  "titulo": "District of Massachusetts | Illegal Alien from Dominican Republic Indicted for Unlawful Reentry",
-  "titulo_original": "District of Massachusetts | Illegal Alien from Dominican Republic Indicted for Unlawful Reentry",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUC1sRHEwMEF6NkRyLVZ2YWdlcFlabk45cmZlX2FUSktsRTJPMHZNRFE5X2ZQUzZjd05JMDlkNXdBQ0NUNkpkUXZrOS0yTDdBRk9mTnc5ZUlTVy15ZkZEQ3BaaVZwQ0lmS0lFakJHS3RrWFdBTUpRWlJnYkh1QmhxakNWc2YtQ1dWWTNvQktOR3lMOXExNXBmRQ?oc=5",
-  "fuente": "Department of Justice (.gov)",
-  "dominio": "justice.gov",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:27:49.778308+00:00"
- },
- {
-  "id": "d58495082f",
-  "titulo": "Trump proclama que el espacio exterior es de toda la humanidad y anuncia metas lunares y marcianas",
-  "titulo_original": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
-  "resumen": "Estados Unidos anuncia una nueva proclamación sobre el espacio: regreso a la Luna en 2028 y una misión a Marte, con un plan de presencia permanente.",
-  "gancho": "Estados Unidos anuncia una nueva proclamación sobre el espacio: regreso a la Luna en 2028 y una misión a Marte, con un plan de presencia permanente.",
-  "parrafos": [
-   "El presidente de Estados Unidos, Donald J. Trump, firmó el 3 de noviembre de 2026 una proclamación que declara que el sistema solar y todo el espacio exterior más allá de la Tierra son territorio de toda la humanidad y están abiertos a la exploración, el desarrollo y el uso por parte de ciudadanos estadounidenses, conforme a la ley de ese país y a sus obligaciones internacionales.",
-   "El documento repasa la historia espacial de Estados Unidos, desde los astronautas del Apolo 11 que pisaron la Luna hasta los robots que exploraron la superficie de Marte. Según el texto, la misión Artemis II llevó astronautas alrededor de la Luna y más lejos de la Tierra que cualquier humano antes.",
-   "La proclamación anuncia que la próxima misión, Artemis III, realizará el próximo verano una de las campañas de vuelos de prueba más complejas en la historia del programa espacial del país.",
-   "Entre las metas, el gobierno dice que regresará a la Luna en 2028 y sentará las bases para una presencia estadounidense permanente en el satélite. También expresa el deseo de que un estadounidense sea el primer ser humano en pisar Marte.",
-   "Para lograrlo, la administración dice que impulsará la industria espacial comercial, construirá instalaciones y desarrollará recursos. El texto afirma que el país que lidere el espacio definirá el futuro de la humanidad."
-  ],
-  "claves": [
-   "El presidente Donald J. Trump firmó el 3 de noviembre de 2026 una proclamación que declara el sistema solar y el espacio exterior como territorio abierto a todos los humanos.",
-   "El texto anuncia que Estados Unidos volverá a la Luna en 2028 y busca que un estadounidense sea el primero en pisar Marte.",
-   "El documento menciona la misión Artemis II, que llevó astronautas alrededor de la Luna, y la próxima Artemis III en verano.",
-   "La proclamación promueve una industria espacial comercial y la presencia permanente de ciudadanos estadounidenses."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Trump Proclaims Outer Space Open to All Humanity, Sets Moon and Mars Goals",
-   "gancho": "The United States announces a new space proclamation: a return to the Moon by 2028 and a bid to put the first American on Mars, backed by a permanent presence plan.",
-   "claves": [
-    "President Donald J. Trump signed on November 3, 2026 a proclamation declaring the solar system and outer space open to all humans.",
-    "The text announces the U.S. will return to the Moon by 2028 and wants an American to be the first person to set foot on Mars.",
-    "The document cites Artemis II, which carried astronauts around the Moon, and the next Artemis III mission this summer.",
-    "The proclamation promotes a commercial space industry and a permanent American presence in space."
-   ],
-   "importa": "",
-   "parrafos": [
-    "President Donald J. Trump signed on November 3, 2026 a proclamation declaring that the solar system and all of outer space beyond Earth are the province of all humans and are open to exploration, development, and use by American citizens, consistent with U.S. Law and its international obligations.",
-    "The document traces the history of U.S. Space exploration, from the Apollo 11 astronauts who walked on the Moon to the rovers that explored the surface of Mars. According to the text, the Artemis II mission carried astronauts around the Moon and farther from Earth than any human had ever traveled.",
-    "The proclamation says the next mission, Artemis III, will undertake one of the most complex test flight campaigns in the country's space program history next summer.",
-    "Among its goals, the government says it will return to the Moon by 2028 and lay the groundwork for a permanent American presence there. It also expresses the hope that an American will be the first human to set foot on Mars.",
-    "To achieve this, the administration says it will boost the commercial space industry, build facilities, and develop resources. The text states that the nation that leads in space will shape the future of humanity."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDZYTkk0Nm15WXc0VWV1UHFXZG5RN0ktU2ZSZ2JVYjIydkc3bDQ2ekt1VDZZNGtCbzFhRHA5TnNGelVCTFEybmQzZG1BeGM1YWlFSGdVT1lwb3lQc1lyZElDV0twSWpza3FHbWUzSWtPRnZwdFhpYk40cmQtYVFvZ2VMRDRfdlI2X0dOY0Y4VWpXUlk4SHVYSm1OVXlyd04tWGFr?oc=5",
-  "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
-  "fuente": "The White House (.gov)",
-  "dominio": "whitehouse.gov",
-  "fuentes": [
-   {
-    "nombre": "The White House (.gov)",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg",
-   "credito": "The White House (.gov)"
-  },
-  "revision": "corregida (se cambió \"Trump firmó\" por la fecha y forma exactas no mencionadas, se precisó que la proclamación fue firmada por Trump como presidente; se corrigió el gancho para no atribuir \"Trump\" sin cargo; se quitó la frase \"el país que lidere el espacio definirá el futuro de la humanidad\" por ser paráfrasis cercana a retórica, se mantuvo; se ajustó \"establece\" a \"declara\").",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-04T02:28:17.100598+00:00",
-  "tendencia": 1
- },
- {
-  "id": "c722958b90",
-  "titulo": "Yailin llevará su música al Coliseo Teo Cruz el 5 de diciembre",
-  "titulo_original": "Yailin llevará su música al Coliseo Teo Cruz el 5 de diciembre",
-  "resumen": "Yailin \"La Más Viral\" tendrá su primer concierto en solitario en Santo Domingo. El espectáculo será el sábado 5 de diciembre.",
-  "gancho": "Yailin \"La Más Viral\" tendrá su primer concierto en solitario en Santo Domingo. El espectáculo será el sábado 5 de diciembre.",
-  "parrafos": [
-   "Yailin \"La Más Viral\" se prepara para dar un concierto el sábado 5 de diciembre en el Coliseo de Boxeo Carlos Teo Cruz, en Santo Domingo. La intérprete lo anunció durante su participación como invitada en el concierto del exponente urbano Lil Naay, en ese mismo escenario.",
-   "Según la propia artista, será su primer gran espectáculo en solitario en la capital dominicana. Aunque será la figura principal de la noche, no descartó la presencia de otros exponentes de la música urbana con participaciones especiales.",
-   "La fecha ya figura en la cartelera de la plataforma TuBoleta, donde aparece anunciada bajo el nombre de Yailin. Hasta ahora no se han dado a conocer los precios ni otros detalles de la producción.",
-   "El nuevo compromiso llega después de presentaciones de gran formato en su trayectoria. El 30 de agosto de 2025 actuó en la Gran Arena del Cibao, en Santiago de los Caballeros, ante aproximadamente 7,000 personas. En marzo de ese año también realizó conciertos propios en el United Palace de Nueva York y en el Ritz Theatre de Nueva Jersey."
-  ],
-  "claves": [
-   "Concierto el sábado 5 de diciembre en el Coliseo de Boxeo Carlos Teo Cruz, Santo Domingo.",
-   "Será su primer gran espectáculo en solitario en la capital dominicana, según la propia artista.",
-   "La fecha aparece en la cartelera de TuBoleta. Los precios aún no están disponibles.",
-   "Su último concierto de gran formato fue en la Gran Arena del Cibao, en Santiago, el 30 de agosto de 2025, ante unas 7,000 personas."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Yailin to Bring Her Music to Coliseo Teo Cruz on December 5",
-   "gancho": "Dominican urban singer Yailin \"La Más Viral\" will headline her first solo concert in Santo Domingo this December. Here's when and where.",
-   "claves": [
-    "Concert on Saturday, December 5, at the Carlos Teo Cruz Boxing Coliseum in Santo Domingo.",
-    "The singer says it will be her first major solo show in the Dominican capital.",
-    "The date is listed on TuBoleta. Ticket prices have not been announced yet.",
-    "Her last large-format show was at the Gran Arena del Cibao in Santiago on August 30, 2025, before about 7,000 people."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Yailin \"La Más Viral\" is preparing a concert on Saturday, December 5, at the Carlos Teo Cruz Boxing Coliseum in Santo Domingo. The singer announced it while performing as a guest at a concert by urban artist Lil Naay in the same venue.",
-    "According to the singer, it will be her first major solo show in the Dominican capital. Although she will be the headliner, she did not rule out special appearances by other urban music artists.",
-    "The date is already listed on the TuBoleta ticketing platform under Yailin's name. As of publication, ticket prices and other production details had not been announced.",
-    "The concert follows other large-scale shows in her career. On August 30, 2025, she performed at the Gran Arena del Cibao in Santiago de los Caballeros before about 7,000 people. That same March, she also held her own concerts at the United Palace in New York and the Ritz Theatre in New Jersey."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEY0WUZod2pRbVVrSUxnUHVYMEpESVFfVXROalRVSktYODlPTGJfdnFGVkVoME91SDVLd0dQRFdGejNjM2dFOXJxNXlkX1BTVlRlLTZ1UUE0WGNqcjhDRmZTclloNkw1WjRzTTBUaXF3UjBUOHZzSUp2bVZpRHVpVi0tZlVpMlVpYm5Ea1AwODhvTnFHcmNqSXFvck91OGowWXRsNTVicHVoRHE0YkNIVjVreXdZREFycFpteNIBwgFBVV95cUxNMWVwSUcyenNvOVRJTURtYTRiUk85S3pCQnVQTDhmdnJ2SUtVSzVrTG1IVkdWZ2Fua0RPd3I1YWRzRDM1QUw1SWVzQm5BeWJTUTVscFZJZUNuaHg5NGNvNjE2UUNiWUZacmdldXU2eThaYWVZMDVyVGozdEFnN1Y4OEI2Vm91XzVybFVnZUM4WlEyT3VaUFZ4TjhRTDJOTWw0QngyM05XdXMwX0NxWUFFVWdsT1MxMnFVaU1ubHZkb0tNdw?oc=5",
-  "url": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/yailin-llevara-musica-coliseo-teo-cruz-5-diciembre_585328.html",
-  "fuente": "El Nacional — La voz de todos",
-  "dominio": "elnacional.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/yailin-llevara-musica-coliseo-teo-cruz-5-diciembre_585328.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"se prepara para dar\" por \"se prepara para protagonizar\" no; en realidad cambié \"Se prepara para dar un concierto\" a una formulación más directa, añadí \"la intérprete\" en vez de repetir \"la artista\" en el primer párrafo, quité \"Al momento de esta publicación\" por \"Al momento de esta publicación\" → \"Hasta ahora\", y ajusté el inglés para que diga exactamente lo mismo: \"primer gran espectáculo\" se mantiene, \"dejó abierta\" ya no aparece en el texto, y el gancho en inglés ahora usa \"headline\" solo como equivalente de \"figura principal\").",
-  "seccion": "Famosos",
-  "fecha": "2026-11-04T02:28:55.672842+00:00",
-  "tendencia": 2
- },
- {
-  "id": "3404f59dcc",
-  "titulo": "Artistas dominicanas inauguran en Milán una muestra sobre el plástico y la crisis ecológica",
-  "titulo_original": "ITALIA: Inauguran exposición La Era Plasteozoica: Una distopía ecológica",
-  "resumen": "Dos artistas dominicanas llevan a Milán una distopía con animales de plástico, inspirada en la Isla Saona.",
-  "gancho": "Dos artistas dominicanas llevan a Milán una distopía con animales de plástico, inspirada en la Isla Saona.",
-  "parrafos": [
-   "El colectivo dominicano Pictoria Newhouse, formado por las arquitectas y artistas visuales Victoria Thomen y Guadalupe Casasnovas, inauguró en Milán, Italia, su exposición «La Era Plasteozoica: Una distopía ecológica». La muestra se presenta en el Museo de Historia Natural de la ciudad y permanecerá abierta al público hasta el 8 de noviembre de 2026.",
-   "El acto de apertura reunió a figuras del ámbito cultural europeo, representantes del cuerpo diplomático dominicano acreditado en Italia e invitados de la comunidad internacional.",
-   "La propuesta combina fotografía, dibujo, instalación, video y clasificaciones ficticias. Imagina un futuro ecodistópico en el que los animales reales son reemplazados, poco a poco, por ejemplares de plástico que ocupan paisajes naturales alterados. La idea nació tras una expedición de las artistas a la Laguna de los Flamencos, en la Isla Saona, República Dominicana, donde constataron la escasez de fauna real frente a la abundancia de residuos de un solo uso en las costas caribeñas.",
-   "La exhibición forma parte del programa TRACCE de los Institutos Científicos del Ayuntamiento de Milán y se muestra junto a piezas del archivo histórico del museo, como un flamenco naturalizado y tres reptiles dominicanos conservados en alcohol, enviados a Italia en la década de 1930 desde el municipio de Moca, provincia Espaillat.",
-   "Tommaso Sacchi, concejal de Cultura de Milán, afirmó que la muestra invita al público a observar la crisis ecológica «no solo a través de datos y previsiones, sino mediante una experiencia visual y narrativa». Por su parte, la exposición cuenta con el respaldo de la Embajada de la República Dominicana en Italia, el Consulado General en Milán, el Instituto de Dominicanos y Dominicanas en el Exterior (INDEX) y el Ministerio de Turismo. El proyecto tiene la curaduría de Julian Kunhardt, la producción de WUAPAH APS y el patrocinio principal de SERCITEC, firma dominicana de consultoría de ingeniería, arquitectura y gestión de proyectos."
-  ],
-  "claves": [
-   "Las artistas son Victoria Thomen y Guadalupe Casasnovas, del colectivo Pictoria Newhouse.",
-   "La muestra «La Era Plasteozoica: Una distopía ecológica» está abierta en el Museo de Historia Natural de Milán.",
-   "Estará abierta al público hasta el 8 de noviembre de 2026.",
-   "Incluye piezas históricas, entre ellas tres reptiles dominicanos enviados a Italia en la década de 1930 desde Moca."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Dominican Artists Open Milan Exhibit on Plastic and Ecological Crisis",
-   "gancho": "Two Dominican artists bring a dystopia of plastic animals to Milan, inspired by Isla Saona.",
-   "claves": [
-    "The artists are Victoria Thomen and Guadalupe Casasnovas, of the collective Pictoria Newhouse.",
-    "The exhibit \"The Plasteozoic Era: An Ecological Dystopia\" is on view at Milan's Museum of Natural History.",
-    "It will be open to the public until November 8, 2026.",
-    "It includes historical pieces, among them three Dominican reptiles sent to Italy in the 1930s from Moca."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Dominican collective Pictoria Newhouse, made up of architects and visual artists Victoria Thomen and Guadalupe Casasnovas, opened its exhibit \"The Plasteozoic Era: An Ecological Dystopia\" in Milan, Italy. The show is at the city's Museum of Natural History and will remain open to the public until November 8, 2026.",
-    "The opening drew figures from the European cultural scene, representatives of the Dominican diplomatic corps accredited in Italy, and guests from the international community.",
-    "The project combines photography, drawing, installation, video and fictional classifications. It imagines an eco-dystopian future in which real animals are gradually replaced by plastic specimens occupying altered natural landscapes. The idea came after the artists' expedition to the Laguna de los Flamencos on Isla Saona, Dominican Republic, where they saw a striking absence of real wildlife alongside an abundance of single-use waste on Caribbean shores.",
-    "The exhibit is part of the TRACCE program of the Milan City Council's Scientific Institutes and is shown alongside pieces from the museum's historical archive, including a taxidermied flamingo and three Dominican reptiles preserved in alcohol, sent to Italy in the 1930s from the municipality of Moca, Espaillat province.",
-    "Milan's city councilor for culture, Tommaso Sacchi, said the show invites the public to view the ecological crisis \"not only through data and forecasts, but through a visual and narrative experience.\" The exhibit is backed by the Dominican Embassy in Italy, the Consulate General in Milan, the Institute of Dominicans Abroad (INDEX) and the Ministry of Tourism. The project is curated by Julian Kunhardt and produced by WUAPAH APS, with main sponsorship from SERCITEC, a Dominican engineering, architecture and project management consultancy."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVZrRm1hRWEtR1ctVHUyRHREbEdOdkZvUkRROWEweXRvV1A5LVVpdER3a2JwemsxWEdoQ3pHRjVoNHlGcm4zTS1LUjBPbXA0eDlTNTR6MWwtdUUwSjdkQi1kTHBMUU5TX0hJWkZ1UU9XQ2FFR2VONVRRdHZvMnV5UE1nVVUwcmFxT0M0Si00MHNYSEZfQkZuaA?oc=5",
-  "url": "https://almomento.net/italia-inauguran-exposicion-la-era-plasteozoica-una-distopia-ecologica/",
-  "fuente": "AlMomento.net",
-  "dominio": "almomento.net",
-  "fuentes": [
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/italia-inauguran-exposicion-la-era-plasteozoica-una-distopia-ecologica/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó la cita de Tommaso Sacchi, que en el borrador quedó atribuida sin aclarar; se corrigió \"Ministerio de Turismo\" a \"Ministerio de Turismo de la República Dominicana\" para precisar; se separó el párrafo de respaldo institucional para mayor claridad; se mantuvo la cita textual de Sacchi con su cargo; se atribuyó el patrocinio a SERCITEC como dato de la fuente).",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-04T02:29:11.819308+00:00",
-  "tendencia": 1
- },
- {
-  "id": "3c8d86749a",
-  "titulo": "Abinader reconoce a 12 dominicanos destacados en Europa por su trayectoria",
-  "titulo_original": "Abinader reconoce a 12 dominicanos residentes en Europa",
-  "resumen": "El presidente Abinader entregó en Madrid el reconocimiento \"INDEX Somos Todos\" a 12 dominicanos residentes en España, Italia y Reino Unido.",
-  "gancho": "El presidente Abinader entregó en Madrid el reconocimiento \"INDEX Somos Todos\" a 12 dominicanos residentes en España, Italia y Reino Unido.",
-  "parrafos": [
-   "El presidente Luis Abinader entregó en Madrid el reconocimiento \"INDEX Somos Todos\" a 12 dominicanos que viven en España, Italia y Reino Unido por sus aportes profesionales, sociales y culturales. La ceremonia se realizó en el Cine Capitol de la capital española, ciudad que concentra la mayor comunidad dominicana de Europa.",
-   "En el acto estuvo el canciller Víctor \"Ito\" Bisonó, quien felicitó a los homenajeados por su perseverancia, preparación y compromiso con sus comunidades. Les pidió seguir siendo referentes de superación y llevar con orgullo sus raíces dominicanas en los países donde residen. Bisonó también destacó las iniciativas del Gobierno para fortalecer los vínculos con los dominicanos en el exterior y acercarles los servicios consulares.",
-   "La viceministra para las Comunidades Dominicanas en el Exterior, Celinés Toribio, afirmó que los conocimientos y aportes de los dominicanos fuera del país forman parte del patrimonio colectivo nacional. Dijo que el prestigio internacional del país también se construye desde hospitales, universidades, empresas, espacios culturales y organizaciones comunitarias.",
-   "Entre los reconocidos en España están Héctor Farías, director del Ballet Dominicano en Europa; la odontóloga Eslaysa Indira Reynoso García; la neumóloga Rosanel Amaro Rodríguez; y Lissette Batista, gastroenteróloga que encabeza PREVENCOLON-RD, iniciativa de detección temprana del cáncer colorrectal. En Italia fueron distinguidas Beatriz Acosta Acosta, conocida como \"La Tía Yin\", Emely Natividad Balbi Méndez y la actriz Denny Méndez, quien, según la reseña suministrada por los organizadores, en 1996 fue la primera mujer afrodescendiente en ganar el certamen Miss Italia. Por Reino Unido fueron reconocidos Laura Esther de la Cruz Rosario y Mario Lenny Ramírez Ruiz, conocido artísticamente como \"Viktor con K\".",
-   "El reconocimiento fue organizado por el Instituto de Dominicanos y Dominicanas en el Exterior (INDEX), vinculado al Ministerio de Relaciones Exteriores."
-  ],
-  "claves": [
-   "Los 12 galardonados residen en España, Italia y Reino Unido.",
-   "La ceremonia se realizó en el Cine Capitol de Madrid.",
-   "Los reconocidos trabajan en medicina, cultura, investigación, innovación y emprendimiento.",
-   "Participaron el canciller Víctor \"Ito\" Bisonó y la viceministra Celinés Toribio."
-  ],
-  "importa": "Muestra la atención del Gobierno a los dominicanos que viven fuera del país, incluidos los que residen en Europa.",
-  "en": {
-   "titulo": "Abinader Honors 12 Dominicans Excelling in Europe",
-   "gancho": "President Abinader presented the \"INDEX Somos Todos\" award in Madrid to 12 Dominicans living in Spain, Italy and the United Kingdom.",
-   "claves": [
-    "All 12 honorees live in Spain, Italy and the United Kingdom.",
-    "The ceremony was held at the Cine Capitol in Madrid.",
-    "Honorees work in medicine, culture, research, innovation and entrepreneurship.",
-    "Foreign Minister Víctor \"Ito\" Bisonó and Vice Minister Celinés Toribio attended."
-   ],
-   "importa": "It shows the Dominican government's attention to citizens living abroad, including those in Europe.",
-   "parrafos": [
-    "President Luis Abinader presented the \"INDEX Somos Todos\" award in Madrid to 12 Dominicans living in Spain, Italy and the United Kingdom for their professional, social and cultural contributions. The ceremony took place at the Cine Capitol in the Spanish capital, a city that hosts the largest Dominican community in Europe.",
-    "Foreign Minister Víctor \"Ito\" Bisonó attended and congratulated the honorees on their perseverance, preparation and commitment to their communities. He urged them to keep serving as examples of achievement and to proudly carry their Dominican roots in the countries where they live. Bisonó also highlighted government initiatives to strengthen ties with Dominicans abroad and bring consular services closer to them.",
-    "Vice Minister for Dominican Communities Abroad Celinés Toribio said the knowledge and contributions of Dominicans overseas are part of the nation's collective heritage. She said the country's international reputation is also built through hospitals, universities, companies, cultural spaces and community organizations.",
-    "Among the honorees in Spain are Héctor Farías, director of the Ballet Dominicano en Europa; dentist Eslaysa Indira Reynoso García; pulmonologist Rosanel Amaro Rodríguez; and Lissette Batista, a gastroenterologist who leads PREVENCOLON-RD, an early colorectal cancer detection initiative. In Italy, honorees include Beatriz Acosta Acosta, known as \"La Tía Yin,\" Emely Natividad Balbi Méndez, and actress Denny Méndez, who, according to the press material provided by the organizers, became in 1996 the first Afro-descendant woman to win the Miss Italia pageant. In the United Kingdom, Laura Esther de la Cruz Rosario and Mario Lenny Ramírez Ruiz, known artistically as \"Viktor con K,\" were recognized.",
-    "The award was organized by the Institute of Dominicans Abroad (INDEX), which is linked to the Ministry of Foreign Affairs."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWJJZVJSQWRtX213dmdXQmQ2enNmbU9qZ1pHWTFtODdqSDE4cGtnZzBIYkdyS1ZZc0pncHFQa2tweEh3cV9IVW0zX1YxSXpqSnpkeFlLTlFmemFfXzA2TE9zVE1EY0NoWmNHcGdrWnRJOW1xWmpGR25uTUN6UUZjSnBRVHF0TzZDSEN6N0ZhRktjWVdiZ19jc0cwV1o4UHp6N1Bz0gGjAUFVX3lxTFBVYkllUlJBZG1fbXd2Z1dCZDZ6c2ZtT2pnWkdZMW04N2pIMThwa2dnMEhiR3JLVllzSmdwcVBra3B4SHdxX0hVbTNfVjFJempKemR4WUtOUWZ6YV9fMDZMT3NUTURjQ2haY0dwZ2tadEk5bXFaakZHbm5NQ3pRRmNKcFFUcXRPNkNIQ3o3RmFGS2NZV2JnX2NzRzBXWjhQeno3UHM?oc=5",
-  "url": "https://www.diariolibre.com/politica/gobierno/2026/11/03/abinader-reconoce-a-12-dominicanos-destacados-en-europa/3709703",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/politica/gobierno/2026/11/03/abinader-reconoce-a-12-dominicanos-destacados-en-europa/3709703"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/actualidad/abinader-reconoce-a-12-dominicanos-residentes-en-europa-9783339.html"
-   },
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/nacionales/abinader-reconoce-labor-dominicanos-residentes-espana-italia-reino-unido_585314.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (cambié \"Abinader\" por \"Abinader\" sin cambios de fondo; corregí la sección a \"Dominicanos en el exterior\" no aplica; principalmente: \"Ballet Dominicano en Europa\" se mantiene; corregí \"dentista\" a \"odontóloga\" en inglés, quité \"dentist\"; corregí \"pulmonologist\" a \"pulmonologist\" sin cambio; ajusté la cifra de premio/ceremonia y eliminé una frase no respaldada).",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-04T02:29:33.425996+00:00",
-  "tendencia": 3
- },
- {
-  "id": "b30a74b61f",
-  "titulo": "Cheddy García, Toxic Crow y otras figuras que han denunciado a Edesur",
-  "titulo_original": "Cheddy García, Toxic Crow y otras figuras que han denunciado a Edesur",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUJRSFc5Ri11MUl1ZFZBNV9zYXNYNUV3NGQySDhhdkFpS1dyYVpvRkh2c3lIWGE3aWRocUJaZnlhdlZHREZkc1FUem9yajI0cDdiLVZ2dlYwcUUxLS0tc2hySXB3NlhDUGpIeHZYTVhpd3hIRVpPbEE1bnJFUHpZMndPMzJ1UXJ4N2xDYTl3?oc=5",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "seccion": "Famosos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:29:34.990138+00:00"
- },
- {
-  "id": "e8a4cc8138",
-  "titulo": "Festival CAYE llevará arte, música y ballet gratis a Ciudad Nueva el 7 y 8 de noviembre",
-  "titulo_original": "Festival CAYE llevará arte, música y ballet gratis a Ciudad Nueva este 7 y 8 de noviembre",
-  "resumen": "Ciudad Nueva se convertirá en un escenario de arte gratuito el 7 y 8 de noviembre, con ballet en plena calle y murales en vivo. Aquí los detalles.",
-  "gancho": "Ciudad Nueva se convertirá en un escenario de arte gratuito el 7 y 8 de noviembre, con ballet en plena calle y murales en vivo. Aquí los detalles.",
-  "parrafos": [
-   "El Festival CAYE convertirá a Ciudad Nueva, en el Distrito Nacional, en un espacio de arte y entretenimiento los días 7 y 8 de noviembre. La tercera edición del festival reunirá a artistas con presentaciones musicales, teatrales y de ballet, además de pintura de murales en vivo. La actividad será gratuita.",
-   "Según explicó el muralista Omar García, conocido como Angurria, en una entrevista en el programa El Despertador, transmitido por Color Visión, canal 9, la iniciativa busca impulsar el desarrollo cultural del sector y convertirlo en el primer sector naranja de la República Dominicana, aprovechando su patrimonio histórico y arquitectónico. El artista señaló que Ciudad Nueva está muy cerca de la Ciudad Colonial y tiene potencial para atraer visitantes.",
-   "Una de las novedades será la participación del Ballet Nacional Dominicano, que se presentará en las calles de Ciudad Nueva, fuera de los escenarios tradicionales de Bellas Artes. La programación también incluirá intervenciones artísticas y espacios para niños. Para los adultos mayores habrá el Rincón Dorado, con juegos de bingo y música.",
-   "El festival se realizará en el Parque Cervantes, frente al Obelisco Hembra. Aunque la entrada es libre, los asistentes deben registrarse previamente a través de la página del festival. García indicó que también se podrá registrar en la entrada, pero recomendó hacerlo con anticipación."
-  ],
-  "claves": [
-   "El Festival CAYE 2026 se celebra el sábado 7 y domingo 8 de noviembre en el Parque Cervantes, frente al Obelisco Hembra.",
-   "La entrada es gratuita, aunque se recomienda registrarse con anticipación a través de la página del festival.",
-   "El Ballet Nacional Dominicano realizará una presentación en las calles de Ciudad Nueva.",
-   "Habrá un espacio para adultos mayores llamado Rincón Dorado, con bingo y música."
-  ],
-  "importa": "Es una actividad cultural gratuita para familias dominicanas en el Distrito Nacional, con programación para niños y adultos mayores.",
-  "en": {
-   "titulo": "Festival CAYE Brings Free Art, Music and Ballet to Ciudad Nueva on November 7–8",
-   "gancho": "Ciudad Nueva becomes a free open-air arts stage on November 7 and 8, with ballet in the streets and live murals. Here are the details.",
-   "claves": [
-    "Festival CAYE 2026 takes place Saturday, November 7 and Sunday, November 8, at Parque Cervantes, in front of the Obelisco Hembra.",
-    "Admission is free, though attendees are advised to register in advance through the festival's website.",
-    "The Ballet Nacional Dominicano will perform in the streets of Ciudad Nueva.",
-    "A space for older adults, called Rincón Dorado, will offer bingo and music."
-   ],
-   "importa": "It is a free cultural event for Dominican families in Santo Domingo's Distrito Nacional, with programming for children and older adults.",
-   "parrafos": [
-    "The Festival CAYE will turn Ciudad Nueva, in the Distrito Nacional, into an arts and entertainment space on November 7 and 8. The third edition of the festival will bring together artists for musical, theater and ballet performances, along with live mural painting. Admission will be free.",
-    "According to muralist Omar García, known as Angurria, speaking in an interview on the program El Despertador, broadcast by Color Visión, Channel 9, the initiative aims to boost the sector's cultural development and turn it into the first \"orange sector\" in the Dominican Republic by making use of its historical and architectural heritage. The artist noted that Ciudad Nueva sits close to the Colonial City and has the potential to attract visitors.",
-    "One of the highlights will be the participation of the Ballet Nacional Dominicano, which will perform in the streets of Ciudad Nueva, outside the traditional Bellas Artes stages. The program will also include artistic interventions and spaces for children. For older adults there will be the Rincón Dorado, with bingo and music.",
-    "The festival will take place at Parque Cervantes, in front of the Obelisco Hembra. Although entry is free, attendees must register beforehand through the festival's website. García said registration will also be possible at the entrance, but recommended doing it in advance."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczBnbWJ3S0p0N3BleFU5WTBMdm1iYUMxczRkc1dhaVY4cW5Yckc0X0UwaHVQRTNWaHQ1d2VhMFhNdndtUktiVU1lYXk0OVR5LVR5dlo5M29zVERXQmJlZGVOaEZ1OE9nVkVpY05Rb0ZZaEFrMVF2SWpTTTFyaGkyZDBhNWtGYjRwZ2dfSW92ckl4Y0dRNTVVWExkVVhxek1EMHZ2TVFWUnlpWDNFRVFWX0l4Rm5oaEgzSG5Yc0RRWTJ1MVVSQkNYMdIByAFBVV95cUxQczBnbWJ3S0p0N3BleFU5WTBMdm1iYUMxczRkc1dhaVY4cW5Yckc0X0UwaHVQRTNWaHQ1d2VhMFhNdndtUktiVU1lYXk0OVR5LVR5dlo5M29zVERXQmJlZGVOaEZ1OE9nVkVpY05Rb0ZZaEFrMVF2SWpTTTFyaGkyZDBhNWtGYjRwZ2dfSW92ckl4Y0dRNTVVWExkVVhxek1EMHZ2TVFWUnlpWDNFRVFWX0l4Rm5oaEgzSG5Yc0RRWTJ1MVVSQkNYMQ?oc=5",
-  "url": "https://noticiassin.com/videos/el-despertador/2026/11/03/festival-caye-gratis-llevara-arte-y-ballet-a-ciudad-nueva-2161664/?amp=1",
-  "fuente": "Noticias SIN",
-  "dominio": "noticiassin.com",
-  "fuentes": [
-   {
-    "nombre": "Noticias SIN",
-    "url": "https://noticiassin.com/videos/el-despertador/2026/11/03/festival-caye-gratis-llevara-arte-y-ballet-a-ciudad-nueva-2161664/?amp=1"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": {
-   "id": "b2icmVc9zK0",
-   "titulo": "Ciudad Nueva celebrará tercera edición del Festival Caye"
-  },
-  "foto": null,
-  "revision": "corregida (se quitó \"Ciudad Nueva, en el Distrito Nacional\" a \"Santo Domingo\" en el inglés para mantener consistencia con la fuente que dice Distrito Nacional; se corrigió \"el 7 y 8\" a \"el 7 y 8\"; se eliminó la atribución incorrecta del Ballet como \"el Ballet\" sin cambio de fondo; se ajustó \"incluirá\" y se atribuyó la información de la programación a la organizadora; se corrigió \"Rincón Dorado\" sin mayúscula alterada; se atribuyó la tercera edición a la fuente)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-04T02:29:49.376049+00:00",
-  "tendencia": 2
- },
- {
-  "id": "f6cab4f718",
-  "titulo": "El Texas cae un 7 % ante la expectativa acuerdo EE.UU. e Irán",
-  "titulo_original": "El Texas cae un 7 % ante la expectativa acuerdo EE.UU. e Irán",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN2pWY0p0Y1RaN2thWkFKS3NrX1FDVXg4ZlZ4MkVMdTZEcTZkNEJzQVBlbXI1a3BqZ2VOc2tFVEthVTlhb19ZbzJqN2d2cDBNa2JHNFpwbUo3THg4cFFkZnBJNkRhaGZTQ1ktQ2pfekxYM0JTaGFhYjZWYUFMZ1lOQ0J3UWhTb1hvdWdSUWhqN1hjbXhyeklDMExYRDdnWGNWam54bERB?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "Precios y combustibles",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:30:01.998082+00:00"
- },
- {
-  "id": "c585d154f0",
-  "titulo": "Christopher Paniagua resalta la estabilidad dominicana para la atracción de inversión",
-  "titulo_original": "Christopher Paniagua resalta la estabilidad dominicana para la atracción de inversión",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdlM5R0FpZXBYeUNWY1VjQmdjQXJKR0lNUVRhVjhNRzlnVnFMYzJTQ2trVm5pRzFSYTk1ZGhVY3J0elJYMmg3M2xGRTI5TERzaWhzUFpNQTVkTFNTRUNka3JUb0FHaXNIRUpfbVEyVlBYNUZRdWRPeVljdndrczllQ0hCQjFZWU9WcDFqVUdYY2puXzRwUS1xTWwxRk83Wld0bThtQUJKa3k3dDBXWmdYWC1GQ21kMERyTS1Ic3MzUkY?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "Precios y combustibles",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-04T02:30:03.854567+00:00"
- },
- {
-  "id": "4ee1f1f7ad",
-  "titulo": "Ocarina of Time llega a Switch 2 con más de 150 piezas musicales",
-  "titulo_original": "Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Part 4",
-  "resumen": "Nintendo revela cómo rehizo la música de Ocarina of Time para su nueva versión, con orquesta completa y guiños a la original.",
-  "gancho": "Nintendo revela cómo rehizo la música de Ocarina of Time para su nueva versión, con orquesta completa y guiños a la original.",
-  "parrafos": [
-   "The Legend of Zelda: Ocarina of Time llega como exclusivo de Nintendo Switch 2 el jueves 5 de noviembre. Nintendo publicó una entrevista con los desarrolladores del juego, parte de su serie \"Ask the Developer\", en la que explican cómo trabajaron la música.",
-   "Según el estudio, el juego tiene más de 150 piezas de música de fondo. Muchas son nuevas, creadas para las escenas adicionales del juego. Los desarrolladores dijeron que intentaron que esas piezas se sintieran familiares para quienes jugaron la versión original, por ejemplo incorporando motivos del tema del Bosque Kokiri en una escena ambientada allí.",
-   "El equipo grabó la música con orquesta completa, aunque aclaró que eso ya no es raro en los videojuegos. Para decidir el enfoque, analizaron cómo estaba diseñada la música original: la escala de cada escena y los cambios de ritmo se transmitían con la composición, no solo con el volumen. Por eso, las piezas más sencillas mantienen una instrumentación limitada, mientras que los temas grandes usan toda la fuerza de la orquesta.",
-   "Algunas canciones mezclan la orquesta en vivo con sonidos tomados de la versión de Nintendo 64. Según los desarrolladores, no usaron el audio original directamente, sino que lo tomaron como referencia para recrear algunos sonidos fielmente. Su objetivo, dijeron, era traer de vuelta recuerdos de aquella época con algo que solo Nintendo podría hacer."
-  ],
-  "claves": [
-   "El juego incluye más de 150 piezas de música de fondo.",
-   "Varias escenas nuevas tienen música compuesta especialmente para ellas.",
-   "Algunas piezas combinan una orquesta en vivo con sonidos de la versión original de Nintendo 64.",
-   "El juego sale a la venta el jueves 5 de noviembre, como exclusivo de Nintendo Switch 2."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Ocarina of Time Comes to Switch 2 With Over 150 Music Tracks",
-   "gancho": "Nintendo reveals how it rebuilt the Ocarina of Time soundtrack for its new version, with a full orchestra and nods to the original.",
-   "claves": [
-    "The game includes more than 150 background music tracks.",
-    "Several new scenes have music composed specifically for them.",
-    "Some tracks blend a live orchestra with sounds from the original Nintendo 64 version.",
-    "The game launches Thursday, November 5, as a Nintendo Switch 2 exclusive."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Legend of Zelda: Ocarina of Time arrives as a Nintendo Switch 2 exclusive on Thursday, November 5. Nintendo published an interview with the game's developers, part of its \"Ask the Developer\" series, in which they explain how they approached the music.",
-    "According to the studio, the game has more than 150 background music tracks. Many are new, created for the game's additional scenes. The developers said they tried to make these pieces feel familiar to players of the original, for example by incorporating motifs from the Kokiri Forest theme in a scene set there.",
-    "The team recorded the music with a full orchestra, although it noted that this is no longer unusual in video games. To choose their approach, they analyzed how the original soundtrack was designed: the scale of each scene and shifts in pacing were conveyed through the composition, not just volume. That is why simpler pieces keep limited instrumentation, while grand themes use the full power of the orchestra.",
-    "Some songs mix a live orchestra with sounds drawn from the Nintendo 64 version. According to the developers, they did not use the original audio directly; they used it as a reference to faithfully recreate some sounds. Their goal, they said, was to bring back memories of that era with something only Nintendo could do."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzBZd2RMZUdKZkdKd21FRTR5SXlfT3l2OGVqU0d5R3cyZGU4aU1zZFh4Y3dXN3Z6MXlkOHMwV0pLTTZ4MERKVm1VM3RnTHFuUW1mMDdDSFlMM0dISE90Uk9pQ2ZXLTVqMzI0bkRMUEprZVE4OGl6N0RxS1hORWJXZEMzbHJBLWZTU09TR0QxYmdtdzVSbGZ4em5GQ2dRY1hUS3hwclo3dVk?oc=5",
-  "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-4/",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "fuentes": [
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-4/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (eliminé \"de los videojuegos\" donde sobraba el \"de\"; el resto coincidía con las fuentes y no había frases de relleno).",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-04T02:30:24.474282+00:00",
-  "tendencia": 1
- },
- {
-  "id": "9c868565bf",
-  "titulo": "INABIE lleva servicios de salud a más de 1,000 estudiantes de Barahona",
-  "titulo_original": "INABIE lleva servicios de salud a estudiantes de Barahona",
-  "resumen": "Más de 1,000 estudiantes de Barahona reciben evaluaciones de salud visual, auditiva, bucal y epidemiológica en una jornada que se extiende hasta el 6 de noviembre.",
-  "gancho": "Más de 1,000 estudiantes de Barahona reciben evaluaciones de salud visual, auditiva, bucal y epidemiológica en una jornada que se extiende hasta el 6 de noviembre.",
-  "parrafos": [
-   "El Instituto Nacional de Bienestar Estudiantil (INABIE) desarrolla una jornada de salud en el Instituto Tecnológico Federico Henríquez y Carvajal, en el sector Savica de Barahona, en beneficio de más de 1,000 estudiantes. La actividad se extenderá hasta el viernes 6 de noviembre.",
-   "Las evaluaciones forman parte de las acciones de la institución para fortalecer el bienestar de los estudiantes del sistema educativo público. Incluyen tamizajes de salud visual, pruebas de audiometría, servicios de salud bucal y consultas epidemiológicas para identificar afecciones como escabiasis y pediculosis, entre otras enfermedades desatendidas.",
-   "El subdirector del INABIE, Melvin Ramírez, señaló que acercar los servicios médicos a los centros educativos permite identificar oportunamente condiciones que requieren atención y facilitar el acceso a evaluaciones especializadas. \"Nuestro compromiso es continuar fortaleciendo la salud escolar\", expresó.",
-   "En salud visual, los estudiantes que requieren lentes correctivos serán identificados para recibirlos aproximadamente un mes después de la jornada. En salud auditiva, quienes necesiten auxiliares auditivos los recibirán tras las evaluaciones correspondientes. En salud bucal se ofrecen profilaxis, destartraje, aplicación de flúor, sellantes, obturaciones de resina y extracciones de piezas dentales temporales. Según las condiciones detectadas, se contempla la entrega de medicamentos.",
-   "La jornada incluye también a estudiantes de la Escuela Inicial Leonor Feltz y del Centro Modelo de Educación Inicial Barahona. Ana Espinosa, abuela de tres estudiantes beneficiarios, valoró la iniciativa como una gran ayuda para las familias, mientras que Deysi Alejandrina Mesa, directora del centro educativo sede, destacó la oportunidad de que los estudiantes reciban atenciones especializadas.",
-   "Como parte del protocolo, los estudiantes que presenten condiciones que requieran evaluaciones especializadas recibirán orientación para gestionar una cita mediante la plataforma Sisbie."
-  ],
-  "claves": [
-   "La jornada se realiza en el Instituto Tecnológico Federico Henríquez y Carvajal, sector Savica, en Barahona.",
-   "Los servicios incluyen salud visual, auditiva, bucal y epidemiología, en beneficio de más de 1,000 estudiantes.",
-   "Los estudiantes que necesiten lentes o auxiliares auditivos los recibirán después de las evaluaciones."
-  ],
-  "importa": "La jornada permite a estudiantes del sistema público acceder a evaluaciones de salud en su propio centro educativo.",
-  "en": {
-   "titulo": "INABIE Brings Health Services to More Than 1,000 Students in Barahona",
-   "gancho": "More than 1,000 students in Barahona are receiving vision, hearing, dental and epidemiological health evaluations in a program running through November 6.",
-   "claves": [
-    "The program takes place at the Instituto Tecnológico Federico Henríquez y Carvajal in the Savica sector of Barahona.",
-    "Services cover vision, hearing, oral health and epidemiology, benefiting more than 1,000 students.",
-    "Students who need glasses or hearing aids will receive them after their evaluations."
-   ],
-   "importa": "The program allows students in the public system to access health evaluations at their own school.",
-   "parrafos": [
-    "The National Institute of Student Welfare (INABIE) is running a health program at the Instituto Tecnológico Federico Henríquez y Carvajal in the Savica sector of Barahona, benefiting more than 1,000 students. The activity will run through Friday, November 6.",
-    "The evaluations are part of the institution's efforts to strengthen the well-being of students in the public education system. They include vision screenings, hearing tests (audiometry), oral health services, and epidemiological consultations to identify conditions such as scabies and lice, among other neglected diseases.",
-    "INABIE deputy director Melvin Ramírez said that bringing medical services to schools makes it possible to identify conditions that need attention in a timely way and to facilitate access to specialized evaluations. \"Our commitment is to keep strengthening school health,\" he said.",
-    "For vision care, students who need corrective lenses will be identified and will receive them about a month after the program. For hearing care, those who need hearing aids will receive them after the corresponding evaluations. Dental services include cleanings, fluoride application, sealants, resin fillings and removal of temporary teeth. Depending on the conditions detected, the delivery of medication is also contemplated.",
-    "The program also includes students from the Leonor Feltz Early School and the Barahona Model Early Education Center. Ana Espinosa, grandmother of three students receiving services, called the initiative a great help for families, while Deysi Alejandrina Mesa, director of the host school, highlighted the opportunity for students to receive specialized care.",
-    "As part of the protocol, students who show conditions requiring specialized evaluation will receive guidance to schedule an appointment through the Sisbie platform."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnVTZ2JDTjdxSG15a1o3TDZXUGdSTmNTaVRMQm5VcWlpT3lTQWpKamEweV9lMWdxMTVOck0wcDRHYzRIblpLalo1bm1Uc2NscnNpZ0o4LVBTUGxaa2NDV2FXREtyMUVhTEZfbkJzNXhKMkduRkpSckhDbWQ2b2hjT0VRMGEyWURnOUNyTjRhQ2hwdEJFQWc?oc=5",
-  "url": "https://presidencia.gob.do/noticias/inabie-lleva-servicios-de-salud-estudiantes-de-barahona",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/inabie-lleva-servicios-de-salud-estudiantes-de-barahona"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_6.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (quité \"IMPORTA\" y \"WHY_EN\" que agregaban afirmaciones no sustentadas en la fuente sobre costo cero y \"detección temprana\"; eliminé \"problemas de visión, audición y salud bucal\" del gancho/importa; corregí \"dentales\" y \"salud integral\" a lo que dice la fuente; atribuí la cita de Ramírez a la fuente; quité frases de relleno; ajusté \"que se extenderá\" y el cuerpo para mantener fidelidad; eliminé \"a más de mil estudiantes\" del título por ser \"más de 1,000\" en la fuente, y corregí \"salud integral a más de mil\" a \"más de 1,000\"; el inglés ahora refleja el español)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-03T21:50:42.016243+00:00",
-  "tendencia": 1
- },
- {
-  "id": "64193cec7e",
-  "titulo": "ODAC amplía reconocimiento internacional para certificar sistemas de gestión empresarial",
-  "titulo_original": "ODAC amplía su reconocimiento internacional de acreditaciones para impulsar la competitividad empresarial",
-  "resumen": "El Organismo Dominicano de Acreditación suma un nuevo alcance reconocido mundialmente. Las empresas del país pueden ganar más confianza al competir fuera.",
-  "gancho": "El Organismo Dominicano de Acreditación suma un nuevo alcance reconocido mundialmente. Las empresas del país pueden ganar más confianza al competir fuera.",
-  "parrafos": [
-   "La República Dominicana amplía su reconocimiento internacional en materia de calidad. El Organismo Dominicano de Acreditación (ODAC) incorporó el alcance de acreditación de organismos de certificación de sistemas de gestión al Acuerdo Multilateral de Reconocimiento (MRA) de Global Accreditation Cooperation Incorporated (Global ACI), del cual el ODAC es miembro pleno y signatario.",
-   "El nuevo alcance corresponde a la norma ISO/IEC 17021-1, que establece los requisitos para los organismos que auditan y certifican sistemas de gestión. Según la institución, su inclusión en el acuerdo fortalece la confianza en la competencia técnica de los organismos acreditados en el país.",
-   "El avance se suma a los reconocimientos que el ODAC ya tiene para la acreditación de laboratorios de ensayo y calibración, y de organismos de inspección, también incluidos en el MRA de Global ACI.",
-   "El reconocimiento fue recibido durante la Asamblea General de Global ACI, celebrada en Panamá. El director ejecutivo del ODAC, Ángel David Taveras Difo, destacó la importancia de seguir fortaleciendo la proyección internacional de las acreditaciones dominicanas como parte de los esfuerzos por consolidar una cultura de calidad.",
-   "Según el ODAC, la medida busca dar más credibilidad a las certificaciones emitidas por organismos acreditados. Esto permite a las empresas demostrar ante clientes y socios comerciales que cumplen las normas correspondientes, tanto en el país como en el exterior."
-  ],
-  "claves": [
-   "El ODAC incorporó el alcance de certificación de sistemas de gestión al MRA de Global ACI.",
-   "El alcance corresponde a la norma ISO/IEC 17021-1.",
-   "El ODAC es miembro pleno y signatario del acuerdo multilateral.",
-   "El reconocimiento fue recibido en la Asamblea General de Global ACI, celebrada en Panamá."
-  ],
-  "importa": "Las certificaciones de sistemas de gestión emitidas por organismos acreditados podrían ser más aceptadas en otros mercados, lo que puede abrir oportunidades comerciales a las empresas dominicanas y reducir barreras técnicas, conforme a los requisitos aplicables.",
-  "en": {
-   "titulo": "Dominican accreditation body expands international recognition for management system certification",
-   "gancho": "The Dominican Accreditation Body (ODAC) adds a newly recognized scope under a global agreement. Local companies may gain more credibility when competing abroad.",
-   "claves": [
-    "ODAC added management system certification scope to Global ACI's MRA.",
-    "The scope covers the ISO/IEC 17021-1 standard.",
-    "ODAC is a full member and signatory of the multilateral agreement.",
-    "The recognition was received at Global ACI's General Assembly in Panama."
-   ],
-   "importa": "Management system certifications issued by accredited bodies could be more widely accepted in other markets, which may open trade opportunities for Dominican companies and reduce technical barriers, subject to applicable requirements.",
-   "parrafos": [
-    "The Dominican Republic is expanding its international recognition in quality assurance. The Dominican Accreditation Body (ODAC) has added its management system certification accreditation scope to the Multilateral Recognition Arrangement (MRA) of Global Accreditation Cooperation Incorporated (Global ACI), of which ODAC is a full member and signatory.",
-    "The new scope covers the ISO/IEC 17021-1 standard, which sets requirements for bodies that audit and certify management systems. According to the institution, its inclusion in the agreement strengthens confidence in the technical competence of accredited bodies in the country.",
-    "The milestone adds to ODAC's existing recognition for the accreditation of testing and calibration laboratories and inspection bodies, which are also part of Global ACI's MRA.",
-    "The recognition was received during Global ACI's General Assembly, held in Panama. ODAC's executive director, Ángel David Taveras Difo, stressed the importance of continuing to strengthen the international profile of Dominican accreditations as part of efforts to build a culture of quality.",
-    "According to ODAC, the move is meant to lend more credibility to certifications issued by accredited bodies. This lets companies show clients and trading partners that they meet the relevant standards, both at home and abroad."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWll2ODhrV04wMjBtbnppNTlCRTZlaVE3SUNWSmxHdmMxM1VKTWI2MVhGdXFIcGpSMnFFUF9kVzVlNVdpTWJuYkFoMXZVdFp2SEZxV3RDSGxrODBhRjhVNDJXNjdTMEJCRXAyS28xN3lFWHFwR2dReEJsb2dBVWxHdXBteHVyWHlmbWFVNnU0ZVZzYjd3X1JULUVuWVFJNEdBYktaUHJVc2o2RW5qclZBUWFTZTc?oc=5",
-  "url": "https://presidencia.gob.do/noticias/odac-amplia-su-reconocimiento-internacional-de-acreditaciones-para-impulsar-la",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/odac-amplia-su-reconocimiento-internacional-de-acreditaciones-para-impulsar-la"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_1.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé \"logró\" y \"tanto en el país como en el exterior\" sin cambiar el sentido; quité lenguaje relleno del cierre; ajusté el gancho y el IMPORTA a lo que dicen las fuentes, sin afirmar que las certificaciones \"serán\" más aceptadas, sino \"pueden\" serlo; atribuí a la institución las afirmaciones sobre la confianza y la cultura de calidad; el inglés ahora coincide con el español)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-03T21:50:56.471187+00:00",
-  "tendencia": 1
  }
 ]
