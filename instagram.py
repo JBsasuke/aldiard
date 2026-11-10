@@ -1,8 +1,8 @@
 """Publica UNA cosa por corrida en Instagram (@aldiardnews):
-el consejo del día si está listo, si no la noticia que noticias.py escogió.
+un solo consejo al día (el primero del día); el resto de corridas, noticias.
 Necesita los secretos IG_TOKEN e IG_USER_ID en GitHub."""
 import json, os, sys, time, urllib.request, urllib.parse, urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 from noticias import (destino, extras, ARCHIVO, ARCHIVO_CONSEJOS, cargar, guardar,
                       SEC_USA, SEC_PRECIOS, SEC_JUEGOS, SEC_FAMOSOS, SEC_INTER)
@@ -12,6 +12,7 @@ API = "https://graph.instagram.com/v23.0"
 TOKEN = os.environ.get("IG_TOKEN", "").strip()
 USUARIO = os.environ.get("IG_USER_ID", "").strip() or "me"
 MAX_INTENTOS = 3
+HORA_RD = timezone(timedelta(hours=-4))  # República Dominicana, sin cambio de horario
 
 HASHTAGS = {
     SEC_USA: "#AlDíaRD #Dominicanos #DominicanosEnUSA #NoticiasRD",
@@ -144,6 +145,31 @@ def intentar(item, ig_img, clave, caption):
             item["historia"] = "error"
             print("Error historia:", item["titulo"], "->", err)
 
+def dia_rd(fecha_iso):
+    """Convierte una fecha guardada (ISO) al día en hora de RD. Si no se entiende, devuelve None."""
+    try:
+        f = datetime.fromisoformat(str(fecha_iso).replace("Z", "+00:00"))
+        if f.tzinfo is None:
+            f = f.replace(tzinfo=timezone.utc)
+        return f.astimezone(HORA_RD).date()
+    except Exception:
+        return None
+
+def escoger_consejo(consejos):
+    """Un solo consejo al día. Devuelve el consejo a publicar, o None si ya salió uno hoy."""
+    hoy = datetime.now(HORA_RD).date()
+    if any(c.get("ig") == "publicado" and dia_rd(c.get("ig_fecha")) == hoy for c in consejos):
+        print("Ya salió el consejo de hoy; esta corrida es para noticias.")
+        return None
+    # los consejos pendientes de días anteriores se descartan para que no se acumulen
+    for c in consejos:
+        if c.get("ig") == "pendiente":
+            dia = dia_rd(c.get("fecha"))
+            if dia and dia < hoy:
+                c["ig"] = "vencido"
+                print("Consejo viejo descartado:", c.get("titulo"))
+    return next((c for c in consejos if c.get("ig") == "pendiente"), None)
+
 def renovar_token():
     """Alarga la vida del token (dura 60 días). Se intenta una vez al día."""
     if datetime.now(timezone.utc).hour != 12:
@@ -164,7 +190,7 @@ def main():
         sys.exit("ERROR: falta el secreto IG_TOKEN. Ponlo en Settings → Secrets and variables → "
                  "Actions → pestaña Secrets → New repository secret (nombre exacto: IG_TOKEN).")
     todas, consejos = cargar(ARCHIVO), cargar(ARCHIVO_CONSEJOS)
-    consejo = next((c for c in consejos if c.get("ig") == "pendiente"), None)
+    consejo = escoger_consejo(consejos)
     noticia = next((n for n in todas if n.get("ig") == "pendiente"), None)
     if consejo:
         intentar(consejo, consejo["ig_img"], consejo["fecha"], texto_consejo(consejo))
