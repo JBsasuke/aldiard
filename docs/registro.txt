@@ -1,87 +1,88 @@
-Corrida: 2026-11-10 06:01 AM (hora RD)
-[República Dominicana] centralnoticias.gob.do: texto leído 5379 letras -> https://centralnoticias.gob.do/ministerio-de-la-juventud-entrega-dos-autobuses-estudiantiles-en-barahona-a-traves-del-programa-turno/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Revisión: corregida (quité "Según el Gobierno" y atribuí la iniciativa a su fuente; agregué que la donación de Mejía fue un autobú
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Biblioteca Nacional Pedro Henríquez Ureña: texto leído 0 letras -> http://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=61670
-No se pudo leer el artículo; no se publica para no salir corta: No ignores Esto II Fausto Angulo Mañon
-[República Dominicana] Ministerio de Vivienda, Hábitat y Edificaciones (MIVHED): texto leído 0 letras -> https://mivhed.gob.do/wp-content/uploads/2026/10/Listado-General-de-Fideicomiso-2013-2026.ods
-No se pudo leer el artículo; no se publica para no salir corta: proyectos de fideicomiso 2013-2026 - Mivhed
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://consultoria.gov.do/api/document/3265457
-No se pudo leer el artículo; no se publica para no salir corta: COLECCION DE LEYES, DECRETOS &.- 1872 NGm. 1212 .-CONCESION para la extraccion de materias co- lorantes de las maderas de ti
-[República Dominicana] De Último Minuto: texto leído 4320 letras -> https://deultimominuto.com/estilo/efemerides/efemerides-del-10-de-noviembre/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Efemérides del 10 de noviembre
-[República Dominicana] De Último Minuto: texto leído 4318 letras -> https://deultimominuto.com/internacionales/ueno-bank-devuelve-931-clientes/
-Cambiada de sección: República Dominicana -> Internacionales: El 93,1 % de los clientes de Ueno Bank con depósitos garantizados ha recibido sus ahorros en Paraguay
-Rechazada por la revisión: El 93,1 % de los clientes de Ueno Bank con depósitos garantizados ha recibido sus ahorros en Paraguay -> cifras que no aparecen en las fuentes: 2283, 93
-[República Dominicana] De Último Minuto: texto leído 5653 letras -> https://deultimominuto.com/internacionales/paraguay-ueno-bank-presidente/
-[República Dominicana] La Nación: texto leído 4724 letras -> https://www.lanacion.com.ar/el-mundo/paraguay-designa-al-nuevo-jefe-del-banco-central-y-el-presidente-pidio-la-renuncia-de-todos-sus-nid09112026/
-Cambiada de sección: República Dominicana -> Internacionales: Paraguay designa nuevo presidente del Banco Central en medio de la crisis de Ueno Bank
-Revisión: corregida (corregí "Efe" a "EFE" en la fuente de la cita; corregí "Schreiner" en la clave de la portada; ajusté la atrib
-[República Dominicana] De Último Minuto: texto leído 3573 letras -> https://deultimominuto.com/internacionales/estatua-papa-leon-peru-14-metros/
-[República Dominicana] Telemundo Puerto Rico: texto leído 3262 letras -> https://www.telemundopr.com/noticias/mundo/inauguran-en-peru-estatua-mas-grande-del-mundo-en-honor-a-leon-xiv/2859596/
-[República Dominicana] El Universo: texto leído 3268 letras -> https://www.eluniverso.com/internacional/latinoamerica/inauguran-en-peru-la-estatua-mas-grande-dedicada-a-leon-xiv-a-horas-de-su-llegada-nota/
-Cambiada de sección: República Dominicana -> Internacionales: Inauguran en Perú estatua más grande del mundo en honor a León XIV, de 14 metros de altura
-Revisión: corregida (se agregó atribución de la cita sobre la violencia a García Camader, que el borrador atribuía al "obispo" sin
-[República Dominicana] De Último Minuto: texto leído 2964 letras -> https://deultimominuto.com/deportes/gilbert-gomez-destaca-reaccion/
-Cambiada de sección: República Dominicana -> Deportes: Gilbert Gómez destaca la reacción del Licey ante las Águilas y atribuye mejoría ofensiva al trabajo del cuerpo técnico
-Revisión: corregida (quité la frase "y destaca el trabajo ofensivo" del título por ser atribución más fuerte que la fuente; ajusté
-[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 5807 letras -> https://jce.gob.do/Noticias/comision-licitaciones-dio-apertura-a-propuestas-economicas-licitacion-confeccion-de-valijas-elecciones-2016-111
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2503 letras -> https://elnuevodiario.com.do/republica-dominicana-sera-sede-de-la-xix-reunion-interamericana-de-autoridades-electorales/
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 2322 letras -> https://elnacional.com.do/nacionales/republica-dominicana-acogera-reunion-interamericana-autoridades-electorales_585790.html
-Fuente oficial encontrada: Junta Central Electoral de la República Dominicana | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: República Dominicana será sede de la XIX Reunión Interamericana de Autoridades Electorales
-Revisión: corregida (se quitó "principal foro" de la frase de la OEA? no; se corrigió "el principal foro" a "el principal foro" si
+Corrida: 2026-11-10 11:06 AM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4110 letras -> https://presidencia.gob.do/noticias/infotep-e-indesur-fortaleceran-formacion-tecnica-y-productiva-en-barahona-y-zonas-aledanas
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (ajusté "Se contempla certificar" y "ayudará" a lo que dice la fuente, quité "es importante"/"para los habitan
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4293 letras -> https://presidencia.gob.do/noticias/infraestructura-escolar-y-presidencia-constatan-avances-de-trabajos-en-escuelas-de
+[República Dominicana] CDN: texto leído 1073 letras -> https://cdn.com.do/nacionales/avanzan-obras-en-seis-centros-escolares-de-hermanas-mirabal/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: CDN
+Revisión: corregida (eliminé la mención de "Liceo Emiliano Tejeda" como si estuviera incluida en la lista de 20+ intervenciones si
+[República Dominicana] Presidencia de la República Dominicana: texto leído 1141 letras -> https://presidencia.gob.do/noticias/edesur-pone-en-servicio-un-nuevo-transformador-que-beneficiara-mas-de-40-sectores-del-gran
+[República Dominicana] Acento: texto leído 989 letras -> https://acento.com.do/actualidad/edesur-instala-transformador-que-beneficiara-a-mas-de-40-sectores-del-gran-santo-domingo-9786680.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Acento
+Revisión: corregida (se atribuyó la cifra de 64,700 clientes y la inversión a Edesur según las fuentes, se quitó "Distrito Naciona
+[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 2279 letras -> https://do.usembassy.gov/es/news-es/
+Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es la portada/página de noticias de la Embajada de EE.UU., con avisos de navegación, consentimiento de cookies, datos de emergencia y solo títulos de fechas. No describe nin')
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2109 letras -> https://centralnoticias.gob.do/margnaury-espinal-recibe-reconocimiento-de-organizaciones-deportivas-en-pedro-brand-torneo-dona-pura-de-softbol-es-dedicado-en-su-honor/
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[Dominicanos en EE.UU.] De Último Minuto: texto leído 2450 letras -> https://deultimominuto.com/deportes/margnaury-espinal-recibe/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: De Último Minuto
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Margnaury Espinal recibe reconocimiento de organizaciones deportivas en Pedro Brand; torneo Doña Pura de sóftbol es dedicado en su honor
+Revisión: corregida (eliminé "según informó la fuente oficial" y "según la fuente oficial" por atribución vaga, atribuí a la fuent
 [Dominicanos en EE.UU.] U.S. Virtual Embassy Iran (.gov): texto leído 1157 letras -> https://ir.usembassy.gov/
 Fuente oficial encontrada: U.S. Virtual Embassy Iran (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Homepage - U.S. Virtual Embassy Iran
-[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pr71538948
-No se pudo leer el artículo; no se publica para no salir corta: M 3.4 - 11 km NE of Boca de Yuma, Dominican Republic
-[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx8b
-No se pudo leer el artículo; no se publica para no salir corta: M 3.0 - 56 km NNE of Miches, Dominican Republic
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/documents/2026/11/09/2026-22746/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican
+[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 825 letras -> https://do.usembassy.gov/renew-your-u-s-passport-for-holiday-travel/
+Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es un anuncio de servicio de la Embajada de EE.UU. dirigido a viajeros, sin una noticia concreta sobre un hecho ocurrido. Es un aviso de consejos para renovar pasaportes, no ')
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/09/2026-22746/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican
 Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Determination Under the Textile and Apparel Commercial Availability Provision of the Dominican Republic-Central America-United States Free Trade Agreement (“CAFTA-DR”)
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Mass.gov: texto leído 1862 letras -> https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country
-Fuente oficial encontrada: Mass.gov 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Transfer your driver's license from a foreign country
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: eljaya.com
+Fuente no confiable, se salta: noticia.do
+Fuente no confiable, se salta: remolacha.net
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1998 letras -> https://elnacional.com.do/mundo/ramfis-trujillo-hara-periplo-politico-estados-unidos_585821.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ramfis Trujillo hará periplo político por Estados Unidos
+[Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es un mensaje presidencial de felicitación por Diwali, sin hechos nuevos, cifras, fechas de acción ni desenlace. No hay material suficiente para ')
 [Internacionales] The White House (.gov): texto leído 4406 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
-Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto es un mensaje presidencial de felicitación por Diwali, sin un hecho noticioso concreto ni cifras, fechas de acontecimientos o consecuencias. Es un comunicado protocolar, no una')
 [Internacionales] The White House (.gov): texto leído 3906 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nominations and Withdrawals Sent to the Senate
-[Famosos] Diario Libre: texto leído 4917 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/10/ee-uu-y-china-se-pelean-en-rd-por-una-fabrica/3716129
-Cambiada de sección: Famosos -> Internacionales: EE. UU. y China chocan en RD por comercios; Pekín acusa a Washington de sembrar cizaña
-Revisión: corregida (corregí el nombre de la fábrica de "Cartesa" a "Cantesa" según las fuentes... ver nota abajo; quité "el repor
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia como pide el encargo, porque el texto de origen no contiene ningún hecho relacionado con República Dominicana, dominicanos o la comunidad dominicana en EE.UU. Es únicame')
+Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: metro.pr
-[Famosos] El Dia.com.do: texto leído 2039 letras -> https://eldia.com.do/excarlet-molina-debuta-como-actriz-y-animadora/
-Revisión: corregida (se quitó "ahora se presenta como" por tono; se corrigió "animadora del Carnaval Vegano" a "animadora"; se aju
-[Famosos] Primera Hora: texto leído 5613 letras -> https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-universe-republica-dominicana-lo-ultimo-que-recuerdo-es-mi-cuerpo-chocando-con-el-tope-del-vehiculo/
-Revisión: corregida (cambié "Miss Universe" en el titular y texto de "reina de belleza"; corregí "sobrevive" a la lectura de la fu
-[Deportes] Lidom: texto leído 2441 letras -> https://lidom.com/tigres-del-licey/made-se-despide-del-licey-y-promete-regresar-esta-es-mi-casa-99441.html
-Revisión: corregida (título: se corrigió la comilla de cierre y "Madé" con tilde en inglés no aplica; se cambió "vamos por la 25" 
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/leo-bernal-conecta-grand-slam-99519.html
-[Deportes] MLB.com: texto leído 374 letras -> https://www.mlb.com/es/video/leo-bernal-conecta-grand-slam-en-la-1ra-entrada
-[Deportes] El Nuevo Diario: texto leído 2015 letras -> https://elnuevodiario.com.do/leo-bernal-conecta-grand-slam-y-lidera-victoria-de-las-estrellas-sobre-los-gigantes/
-Revisión: corregida (se quitó la afirmación "Estadio Julián Javier" de la línea sobre el cuadrangular ya que es correcta; se corri
-[Precios y combustibles] Acento: texto leído 5778 letras -> https://acento.com.do/economia/bebidas-no-alcoholicas-industria-defiende-reduccion-de-azucar-y-cuestiona-etiquetado-frontal-9784992.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Bebidas no alcohólicas: industria defiende reducción de azúcar y cuestiona etiquetado frontal
-Revisión: corregida (eliminé la frase "y en EE. UU." no respaldada en las fuentes y corregí el sesgo en el gancho; revisé ortograf
-[Precios y combustibles] Infobae: texto leído 3603 letras -> https://www.infobae.com/noticias/2026/11/09/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-9-de-noviembre/?outputType=amp-type
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en República Dominicana: cotización de apertura del 9 de noviembre
-[Precios y combustibles] Infobae: texto leído 5414 letras -> https://www.infobae.com/republica-dominicana/2026/11/10/como-influyeron-el-transporte-y-los-alimentos-en-el-alza-de-precios-en-republica-dominicana/
-Revisión: corregida (se cambió el remate del texto en español e inglés: se quitó "Según el banco central" repetido y se corrigió "
-[Videojuegos] Nintendo: texto leído 5707 letras -> https://www.nintendo.com/ph/news/article/3QC2Rsb9OOLTHNixMdINgH
+[Famosos] El Nuevo Día: texto leído 1663 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/puerto-rico-figura-entre-los-finalistas-de-la-gran-despedida-de-miss-universe-2026/
+Revisión: corregida (se eliminó "Entre los finalistas figura" y se reemplazó por texto fiel a la fuente; se corrigió la atribución
+[Famosos] El Nacional — La voz de todos: texto leído 7000 letras -> https://elnacional.com.do/fama-y-vida/farandula/san-juan-maguana-busca-convertirse-referente-cinematografico-sur_585805.html
+Cambiada de sección: Famosos -> República Dominicana: San Juan de la Maguana busca convertirse en referente cinematográfico del Sur
+Revisión: corregida (se quitó "Según El Nacional" repetido y se ajustó el uso de "Peralta" como directora; se corrigió "sus primer
+[Famosos] marca usa: texto leído 1710 letras -> https://us.marca.com/tiramillas/television/2026/11/10/marcello-hernandez-druski-sorprenden-cantar-dame-hombro-espanol-snl.html
+Revisión: corregida (se quitó la frase de relleno "en poco tiempo" del párrafo de la canción; se cambió "llamó la atención en poco
+[Deportes] Lidom: texto leído 2526 letras -> https://lidom.com/lidom/albert-abreu-encabeza-el-pitcheo-y-marmolejos-marca-el-ritmo-ofensivo-99452.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Albert Abreu encabeza el pitcheo y Marmolejos marca el ritmo ofensivo
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851508?ins=previa&sec=boxscore
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-estrellas-vs-gigantes-251335
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Gigantes del Cibao
+[Deportes] MLB.com: texto leído 5394 letras -> https://www.mlb.com/es/news/ganadores-de-los-novatos-del-ano-del-2026
+Revisión: corregida (quité "Esto fue lo que los hizo destacar" del gancho por ser relleno no sustentado, aclaré que el WAR de 7.1 
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/estrellas-vs-gigantes/2026/11/09/851508/final/wrap
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851508?ins=resultado&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Estrellas 6, Gigantes 3 Resultado Final (09/11/2026)
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851433/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones 5, Toros 2 Resultado Final (09/11/2026)
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851453/final/wrap
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851453?ins=resultado
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas 6, Tigres 8 Resultado Final (09/11/2026)
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1684 letras -> https://micm.gob.do/post_combustibles/page/64/
+Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Posts Dir. Combustibles Archive | Page 64 of 64
+[Precios y combustibles] Infobae: texto leído 4947 letras -> https://www.infobae.com/america/america-latina/2026/11/10/caso-ueno-bank-la-fiscalia-incauto-dos-autos-clasicos-que-el-grupo-vazquez-restauraba-en-un-taller-por-usd-78000/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El material que me pasaste contiene solo una versión (Infobae) y el texto está cortado, así que no hay suficiente información par')
+[Precios y combustibles] Infobae: texto leído 7000 letras -> https://www.infobae.com/america/america-latina/2026/11/09/la-huelga-de-hambre-como-protesta-ante-la-falta-de-respuestas-judiciales-en-cuba/
+Cambiada de sección: Precios y combustibles -> Internacionales: La huelga de hambre como protesta ante la falta de respuestas judiciales en Cuba
+Revisión: corregida (se recortó la frase sobre los brotes de enfermedades porque el texto de la fuente se corta antes de los detal
+[Videojuegos] Nintendo: texto leído 2086 letras -> https://www.nintendo.com/au/support/articles/discontinuation-of-google-and-apple-accounts-linking-to-nintendo-accounts/
 Fuente oficial encontrada: Nintendo 
-Revisión: corregida (eliminé "La empresa asegura que" → sin cambios de fondo; corregí "Nintendo Classics" sin cambio; quité "Pokém
-Video de YouTube agregado: Nintendo Switch Online and Nintendo Switch Online + Expansion Pack — Overview Trailer
-Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
+Revisión: corregida (se cambió "Nintendo Account" por "cuenta Nintendo" en el gancho para mantener consistencia con el resto del t
+Consejo del día (divisas): Cuida tu dinero con inteligencia
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-18 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 24 · ya cubiertas: 1 · no confiables: 1 · opinión: 0 · con texto leído: 27 · sin texto: 7 · medios juntados: 6 · con fuente oficial: 9 · aprobadas por la revisión: 0 · corregidas por la revisión: 13 · rechazadas por la revisión: 1 · con video: 1 · con foto oficial: 2 · error IA: 2 · descartadas por la IA: 6 · cambiadas de sección: 7 · largas: 13 · ocultas (cortas): 5
+14 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 20 · ya cubiertas: 3 · no confiables: 6 · opinión: 0 · con texto leído: 24 · sin texto: 7 · medios juntados: 3 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 5 · error IA: 7 · descartadas por la IA: 4 · cambiadas de sección: 3 · largas: 10 · ocultas (cortas): 4
+Para Instagram (tendencia 2): Pedro Brand bautiza torneo de sóftbol en honor a Margnaury Espinal
