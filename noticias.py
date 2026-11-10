@@ -118,7 +118,7 @@ MAX_GUARDADAS = 400
 HORAS_IG = 12           # una noticia más vieja que esto ya no se sube a Instagram
 IG_DESDE, IG_HASTA = 7, 23   # Instagram: una publicación por hora, de 7:00 a. m. a 11:00 p. m. (hora RD)
 HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el primer consejo del día (el tema en tendencia)
-HORA_CONSEJO_2 = 15     # a las 3 p. m. sale el segundo, del otro tema: así cada día hay de Divisas RD y de KiloClaro
+HORA_CONSEJO_2 = 15     # ya no se usa: ahora sale un solo consejo al día
 TENDENCIA_HISTORIA = 3  # si 3 medios o más hablan de la noticia, también va a historias
 MAX_HISTORIAS_DIA = 8   # tope de historias de noticias por día
 
@@ -1331,7 +1331,7 @@ def consejo_del_dia(todas, consejos):
     ahora_rd = ahora().astimezone(HORA_RD)
     hoy = ahora_rd.date().isoformat()
     de_hoy = [c for c in consejos if c["fecha"] == hoy]
-    if ahora_rd.hour < HORA_CONSEJO or len(de_hoy) >= 2 or (de_hoy and ahora_rd.hour < HORA_CONSEJO_2):
+    if ahora_rd.hour < HORA_CONSEJO or de_hoy:  # un solo consejo al día; el resto, noticias
         return None
     tema, del_dia = tema_del_dia(todas, consejos, hoy)
     if de_hoy:  # el segundo del día es del otro tema
@@ -2085,6 +2085,7 @@ def generar_fotos(todas, consejos):
     """Página para subir a mano a Instagram o X: aldiard.com/fotos/ con la imagen de CADA noticia reciente,
     su texto listo para copiar y botones para descargar. No sale en Google (noindex) ni en el menú.
     Las fotos se rehacen en cada corrida y NO se guardan en GitHub (docs/fotos está en .gitignore)."""
+    from instagram import texto_noticia, texto_consejo  # el mismo texto y hashtags que salen en Instagram
     os.makedirs("docs/fotos", exist_ok=True)
     limite = ahora() - timedelta(hours=FOTOS_HORAS)
     recientes = [n for n in visibles(todas) if n.get("id") and fecha(n) > limite][:60]
@@ -2100,15 +2101,13 @@ def generar_fotos(todas, consejos):
                 print("Error foto manual:", err)
                 continue
         vigentes.add(archivo)
-        nota = SITIO + pagina_nota(n)
-        texto = (f"{n['titulo']}\n\n{dato(n, 'gancho', 'es') or n['resumen']}\n\n"
-                 f"📲 Lee la noticia completa en aldiard.com (enlace en la bio)\n{nota}\n\n#AlDiaRD #RepublicaDominicana #Noticias")
+        texto = texto_noticia(n)  # con los hashtags de su sección (o de su consola si es de videojuegos)
         estado = "✅ Ya salió en Instagram" if n.get("ig_fecha") else "Aún no sale en Instagram"
         filas.append(f"""<div class="fotoman">
   <img src="/fotos/{archivo}" alt="" loading="lazy">
   <div><div class="meta"><span class="chip">{html.escape(n['seccion'])}</span><span class="hora" data-fecha="{n['fecha']}"></span></div>
   <b>{html.escape(n['titulo'])}</b><small>{estado}</small>
-  <textarea readonly rows="5">{html.escape(texto)}</textarea>
+  <textarea readonly rows="8">{html.escape(texto)}</textarea>
   <div class="botman"><a class="directo" href="/fotos/{archivo}" download="aldiard-{archivo}">⬇ Descargar foto</a>
   <button type="button" class="copiar">📋 Copiar texto</button></div></div>
 </div>""")
@@ -2116,10 +2115,10 @@ def generar_fotos(todas, consejos):
     hoy = ahora().astimezone(HORA_RD).date().isoformat()
     for c in consejos:
         if c["fecha"] == hoy and c.get("ig_img") and os.path.exists("docs/" + c["ig_img"]):
-            texto = f"{c['titulo']}\n\n{c['texto']}\n\n👉 {c['url']}\n\n#AlDiaRD #Consejos"
+            texto = texto_consejo(c)
             filas.insert(0, f"""<div class="fotoman"><img src="/{c['ig_img']}" alt="" loading="lazy"><div>
   <div class="meta"><span class="chip">Consejo del día · {html.escape(c['sitio'])}</span></div><b>{html.escape(c['titulo'])}</b>
-  <textarea readonly rows="4">{html.escape(texto)}</textarea>
+  <textarea readonly rows="7">{html.escape(texto)}</textarea>
   <div class="botman"><a class="directo" href="/{c['ig_img']}" download>⬇ Descargar foto</a><button type="button" class="copiar">📋 Copiar texto</button></div></div></div>""")
     for archivo in os.listdir("docs/fotos"):
         if archivo.endswith(".jpg") and archivo not in vigentes:
@@ -2235,4 +2234,4 @@ def principal():
         print(f"Para Instagram (tendencia {elegida.get('tendencia', 1)}): {elegida['titulo']}")
 
 if __name__ == "__main__":
-    main()
+    main()
