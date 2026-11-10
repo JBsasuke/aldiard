@@ -1,88 +1,94 @@
-Corrida: 2026-11-10 11:06 AM (hora RD)
+Corrida: 2026-11-10 11:28 AM (hora RD)
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el orden de compra de Taveras/SCT/Panora y la cifra de La Romana, quité la
 No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4110 letras -> https://presidencia.gob.do/noticias/infotep-e-indesur-fortaleceran-formacion-tecnica-y-productiva-en-barahona-y-zonas-aledanas
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2850 letras -> https://presidencia.gob.do/noticias/consejo-nacional-de-la-magistratura-encabezado-por-el-presidente-luis-abinader-juramenta
+[República Dominicana] Z Digital: texto leído 2534 letras -> https://z101digital.com/la-suprema-corte-de-justicia-inicia-nueva-etapa-con-justiniano-montero-como-presidente/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Z Digital
+Revisión: corregida (se quitó "unanimidad" de la atribución sin fuente de la presidencia; se corrigió el nombre del salón a "Salón
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2935 letras -> https://presidencia.gob.do/noticias/caasd-realiza-reparaciones-y-trabajos-de-mantenimiento-en-redes-de-agua-potable-y
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (ajusté "Se contempla certificar" y "ayudará" a lo que dice la fuente, quité "es importante"/"para los habitan
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4293 letras -> https://presidencia.gob.do/noticias/infraestructura-escolar-y-presidencia-constatan-avances-de-trabajos-en-escuelas-de
-[República Dominicana] CDN: texto leído 1073 letras -> https://cdn.com.do/nacionales/avanzan-obras-en-seis-centros-escolares-de-hermanas-mirabal/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: CDN
-Revisión: corregida (eliminé la mención de "Liceo Emiliano Tejeda" como si estuviera incluida en la lista de 20+ intervenciones si
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1141 letras -> https://presidencia.gob.do/noticias/edesur-pone-en-servicio-un-nuevo-transformador-que-beneficiara-mas-de-40-sectores-del-gran
-[República Dominicana] Acento: texto leído 989 letras -> https://acento.com.do/actualidad/edesur-instala-transformador-que-beneficiara-a-mas-de-40-sectores-del-gran-santo-domingo-9786680.html
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Acento
-Revisión: corregida (se atribuyó la cifra de 64,700 clientes y la inversión a Edesur según las fuentes, se quitó "Distrito Naciona
+Revisión: corregida (se corrigió "Fellito Subervi" a "Fellito Suberví" en el texto; se eliminó la atribución de "según el funciona
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2398 letras -> https://presidencia.gob.do/noticias/eted-anuncia-mantenimientos-e-interrupciones-electricas-en-varias-provincias-este-martes-y
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (fecha "hoy" en el texto del Norte corregida; el "mañana" de Carrefour y Nordeste ya estaban bien; se quitó "E
 [Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 2279 letras -> https://do.usembassy.gov/es/news-es/
 Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es la portada/página de noticias de la Embajada de EE.UU., con avisos de navegación, consentimiento de cookies, datos de emergencia y solo títulos de fechas. No describe nin')
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2109 letras -> https://centralnoticias.gob.do/margnaury-espinal-recibe-reconocimiento-de-organizaciones-deportivas-en-pedro-brand-torneo-dona-pura-de-softbol-es-dedicado-en-su-honor/
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Dominicanos en EE.UU.] De Último Minuto: texto leído 2450 letras -> https://deultimominuto.com/deportes/margnaury-espinal-recibe/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: De Último Minuto
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Margnaury Espinal recibe reconocimiento de organizaciones deportivas en Pedro Brand; torneo Doña Pura de sóftbol es dedicado en su honor
-Revisión: corregida (eliminé "según informó la fuente oficial" y "según la fuente oficial" por atribución vaga, atribuí a la fuent
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es la portada del sitio de la Embajada de Estados Unidos en República Dominicana. Contiene avisos de navegación, lista de fechas sin contenido de noticia, un aviso sob')
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] Biblioteca Nacional Pedro Henríquez Ureña: texto leído 0 letras -> https://catalogo.bnphu.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=61690
+No se pudo leer el artículo; no se publica para no salir corta: Horas de buen humor : cuentos criollos y exóticos, propios y agenos / César N. Perozo ; prólogo Emilio A. Morel.
 [Dominicanos en EE.UU.] U.S. Virtual Embassy Iran (.gov): texto leído 1157 letras -> https://ir.usembassy.gov/
 Fuente oficial encontrada: U.S. Virtual Embassy Iran (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Homepage - U.S. Virtual Embassy Iran
 [Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 825 letras -> https://do.usembassy.gov/renew-your-u-s-passport-for-holiday-travel/
 Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es un anuncio de servicio de la Embajada de EE.UU. dirigido a viajeros, sin una noticia concreta sobre un hecho ocurrido. Es un aviso de consejos para renovar pasaportes, no ')
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/09/2026-22746/determination-under-the-textile-and-apparel-commercial-availability-provision-of-the-dominican
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Renew Your U.S. Passport for Holiday Travel
+[Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
+Fuente oficial encontrada: NOAA (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única fuente que tengo es un pronóstico marino de la Oficina Nacional del Servicio Meteorológico de EE. UU. (NOAA) para las aguas de Puerto Rico y las Isl')
+Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: eljaya.com
 Fuente no confiable, se salta: noticia.do
 Fuente no confiable, se salta: remolacha.net
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1998 letras -> https://elnacional.com.do/mundo/ramfis-trujillo-hara-periplo-politico-estados-unidos_585821.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ramfis Trujillo hará periplo político por Estados Unidos
+[Dominicanos en EE.UU.] Diario Libre: texto leído 3932 letras -> https://www.diariolibre.com/usa/actualidad/2026/11/10/dominicanos-investigados-en-ee-uu-por-fraude-a-ayudas-publicas/3716313
+Revisión: corregida (quité "cabe destacar"-tipo relleno no había; corregí: el caso de Fernández Vicioso no es "el más grande" segú
 [Internacionales] The White House (.gov): texto leído 724 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-diwali-1f71/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es un mensaje presidencial de felicitación por Diwali, sin hechos nuevos, cifras, fechas de acción ni desenlace. No hay material suficiente para ')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un mensaje presidencial de felicitación por Diwali, sin hechos noticiosos concretos (no informa de un acontecimiento, cifra, decisión ni consecuencia), por lo que no cons')
 [Internacionales] The White House (.gov): texto leído 4406 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Internacionales] The White House (.gov): texto leído 3906 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia como pide el encargo, porque el texto de origen no contiene ningún hecho relacionado con República Dominicana, dominicanos o la comunidad dominicana en EE.UU. Es únicame')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que has pegado no contiene una noticia sobre la que pueda escribir. Es únicamente una lista de nominaciones enviadas por la Casa Blanca al Senado de EE.UU., y además está cort')
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: metro.pr
-[Famosos] El Nuevo Día: texto leído 1663 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/puerto-rico-figura-entre-los-finalistas-de-la-gran-despedida-de-miss-universe-2026/
-Revisión: corregida (se eliminó "Entre los finalistas figura" y se reemplazó por texto fiel a la fuente; se corrigió la atribución
-[Famosos] El Nacional — La voz de todos: texto leído 7000 letras -> https://elnacional.com.do/fama-y-vida/farandula/san-juan-maguana-busca-convertirse-referente-cinematografico-sur_585805.html
-Cambiada de sección: Famosos -> República Dominicana: San Juan de la Maguana busca convertirse en referente cinematográfico del Sur
-Revisión: corregida (se quitó "Según El Nacional" repetido y se ajustó el uso de "Peralta" como directora; se corrigió "sus primer
-[Famosos] marca usa: texto leído 1710 letras -> https://us.marca.com/tiramillas/television/2026/11/10/marcello-hernandez-druski-sorprenden-cantar-dame-hombro-espanol-snl.html
-Revisión: corregida (se quitó la frase de relleno "en poco tiempo" del párrafo de la canción; se cambió "llamó la atención en poco
+Fuente no confiable, se salta: rpp.pe
+Fuente no confiable, se salta: robertocavada.com
+[Famosos] Listín Diario: texto leído 4274 letras -> https://listindiario.com/la-republica/20261109/orgullo-dominicano-angurria-lleva-arte-bronx-pinta-mural-mas-alto-ee-uu_929458.html
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: ¡Orgullo dominicano! Angurria pinta en El Bronx el mural más alto de EEUU
+Revisión: corregida (corregí el título y los textos para que coincidan con la fuente: "Angurria" ya no se describe como "dominican
+[Famosos] El Dia.com.do: texto leído 584 letras -> https://eldia.com.do/donde-la-abuela-fest-trae-una-nueva-edicion/
+No encaja en ninguna sección, se salta: “Donde la Abuela Fest” trae una nueva edición
+[Famosos] Listín Diario: texto leído 3530 letras -> https://listindiario.com/la-vida/20261109/arte-dominicano-no-muerto_929427/amp.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El arte dominicano no ha muerto
+Fuente no confiable, se salta: produ.com
+Fuente no confiable, se salta: momentodeportivord.com
+Fuente no confiable, se salta: facebook.com
+[Famosos] Acento: texto leído 3706 letras -> https://acento.com.do/cultura/danicel-revisitado-una-nueva-mirada-al-legado-de-danilo-de-los-santos-en-el-centro-cultural-banreservas-santiago-9787181.html
+No encaja en ninguna sección, se salta: “Danicel, revisitado”, una nueva mirada al legado de Danilo de los Santos, en el Centro Cultural Banreservas Santiago
+Fuente no confiable, se salta: proceso.com.do
+Fuente no confiable, se salta: facebook.com
+Fuente no confiable, se salta: masvip.com.do
+[Famosos] El Nacional — La voz de todos: texto leído 2083 letras -> https://elnacional.com.do/nacionales/policiales/tiroteo-monte-plata-deja-mayor-retirado-muerto-dos-personas-heridas_585761.html
+[Famosos] El Dia.com.do: texto leído 1587 letras -> https://eldia.com.do/mayor-retirado-de-la-policia-muere-y-dos-personas-resultan-heridas-tras-incidente-en-monte-plata/
+[Famosos] El Nuevo Diario: texto leído 1730 letras -> https://elnuevodiario.com.do/pn-y-mp-investigan-muerte-de-un-mayor-policial-retirado-y-otras-dos-personas-heridas-en-monte-plata/
+Cambiada de sección: Famosos -> República Dominicana: Conflicto pasional en Monte Plata deja un mayor retirado muerto y dos personas heridas
+Revisión: corregida (quité "Núñez Manzueta también resultó herido de bala" → se mantuvo como "sufrió heridas de arma de fuego" seg
+Fuente no confiable, se salta: periodicocubano.com
+[Famosos] Hoy Digital: texto leído 6715 letras -> https://hoy.com.do/vivir/alegria/premios-heat-2026-lista-completa-ganadores_1108149_amp.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Premios HEAT 2026: Esta es la lista completa de los ganadores
 [Deportes] Lidom: texto leído 2526 letras -> https://lidom.com/lidom/albert-abreu-encabeza-el-pitcheo-y-marmolejos-marca-el-ritmo-ofensivo-99452.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Albert Abreu encabeza el pitcheo y Marmolejos marca el ritmo ofensivo
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851508?ins=previa&sec=boxscore
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-estrellas-vs-gigantes-251335
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Gigantes del Cibao
-[Deportes] MLB.com: texto leído 5394 letras -> https://www.mlb.com/es/news/ganadores-de-los-novatos-del-ano-del-2026
-Revisión: corregida (quité "Esto fue lo que los hizo destacar" del gancho por ser relleno no sustentado, aclaré que el WAR de 7.1 
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/estrellas-vs-gigantes/2026/11/09/851508/final/wrap
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851508?ins=resultado&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Estrellas 6, Gigantes 3 Resultado Final (09/11/2026)
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851433/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones 5, Toros 2 Resultado Final (09/11/2026)
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851453/final/wrap
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851453?ins=resultado
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas 6, Tigres 8 Resultado Final (09/11/2026)
+[Deportes] MLB.com: texto leído 1513 letras -> https://www.mlb.com/es/news/bravos-aseguran-que-no-atenderan-ofertas-por-acuna
+Revisión: corregida (eliminé relleno y frases tipo IA, ajusté "trade/traspasar" a la terminología de las fuentes, y precisé la atr
+[Deportes] MLB.com: texto leído 2027 letras -> https://www.mlb.com/es/news/estos-tres-latinos-brillaron-en-el-juego-de-estrellas-de-la-liga-otonal-de-arizona
+Revisión: corregida (corregí "Esa temporada" por "Ese desempeño"; "cerrococorto" por "campocorto"; "Francisco" por "Francisca" en 
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 1684 letras -> https://micm.gob.do/post_combustibles/page/64/
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Posts Dir. Combustibles Archive | Page 64 of 64
+[Precios y combustibles] N Digital: texto leído 6164 letras -> https://n.com.do/2026/11/10/antonio-marte-afirma-que-el-pasaje-de-transporte-publico-deberia-costar-rd95/
+[Precios y combustibles] Diario Libre: texto leído 2364 letras -> https://www.diariolibre.com/economia/consumo/2026/11/10/aumento-pasaje-transporte-urbano-propuesto-por-antonio-marte/3716383
+Cambiada de sección: Precios y combustibles -> República Dominicana: Antonio Marte afirma que el pasaje de transporte público debería costar RD$95
+Revisión: corregida (corregí la atribución del medio: la entrevista fue en N Digital con Héctor Herrera, no en Diario Libre; quité
 [Precios y combustibles] Infobae: texto leído 4947 letras -> https://www.infobae.com/america/america-latina/2026/11/10/caso-ueno-bank-la-fiscalia-incauto-dos-autos-clasicos-que-el-grupo-vazquez-restauraba-en-un-taller-por-usd-78000/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El material que me pasaste contiene solo una versión (Infobae) y el texto está cortado, así que no hay suficiente información par')
-[Precios y combustibles] Infobae: texto leído 7000 letras -> https://www.infobae.com/america/america-latina/2026/11/09/la-huelga-de-hambre-como-protesta-ante-la-falta-de-respuestas-judiciales-en-cuba/
-Cambiada de sección: Precios y combustibles -> Internacionales: La huelga de hambre como protesta ante la falta de respuestas judiciales en Cuba
-Revisión: corregida (se recortó la frase sobre los brotes de enfermedades porque el texto de la fuente se corta antes de los detal
-[Videojuegos] Nintendo: texto leído 2086 letras -> https://www.nintendo.com/au/support/articles/discontinuation-of-google-and-apple-accounts-linking-to-nintendo-accounts/
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se cambió "Nintendo Account" por "cuenta Nintendo" en el gancho para mantener consistencia con el resto del t
-Consejo del día (divisas): Cuida tu dinero con inteligencia
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste se corta antes de terminar: la versión 1 llega hasta "dos mujere", y no tengo las demás versiones. Sin ese material completo no puedo escribir la noticia con segur')
+[Videojuegos] PlayStation.Blog: texto leído 2001 letras -> https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/
+Fuente oficial encontrada: PlayStation.Blog 
+Revisión: corregida (quité "Según la fuente" del párrafo de Expedition y "Según la fuente" no era una cifra incorrecta; ajusté "Op
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-14 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 20 · ya cubiertas: 3 · no confiables: 6 · opinión: 0 · con texto leído: 24 · sin texto: 7 · medios juntados: 3 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 5 · error IA: 7 · descartadas por la IA: 4 · cambiadas de sección: 3 · largas: 10 · ocultas (cortas): 4
-Para Instagram (tendencia 2): Pedro Brand bautiza torneo de sóftbol en honor a Margnaury Espinal
+11 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 35 · ya cubiertas: 3 · no confiables: 16 · opinión: 0 · con texto leído: 28 · sin texto: 1 · medios juntados: 4 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 4 · error IA: 6 · descartadas por la IA: 8 · cambiadas de sección: 3 · largas: 10 · ocultas (cortas): 1
+Para Instagram (tendencia 3): Mayor retirado muere tras disparar en una discusión de pareja en Monte Plata
