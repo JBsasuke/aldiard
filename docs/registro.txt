@@ -1,96 +1,91 @@
-Corrida: 2026-11-10 07:29 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2661 letras -> https://presidencia.gob.do/noticias/idac-y-asca-firman-acuerdo-de-cooperacion-con-la-uasd-y-la-ucateba-en-barahona
+Corrida: 2026-11-11 02:40 AM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5040 letras -> https://presidencia.gob.do/noticias/gobierno-formara-mas-de-3000-servidores-publicos-en-etica-e-integridad
+[República Dominicana] El Nuevo Diario: texto leído 2138 letras -> https://elnuevodiario.com.do/gobierno-capacitara-a-3000-servidores-publicos-en-etica-e-integridad-para-prevenir-corrupcion/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (se quitó "acto realizado en el Salón Las Cariátides" sin cambio; se corrigió "El acto se realizó" ya era corr
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3129 letras -> https://presidencia.gob.do/noticias/prodominicana-reunira-liderazgo-e-inspiracion-en-el-encuentro-nacional-de-mujeres-en
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se ajustó el título y el texto en español para que el IDAC aparezca como firmante a través de la ASCA; se pre
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3260 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-expresa-respaldo-su-homologo-nayib-bukele-respecto-al-tema
-[República Dominicana] N Digital: texto leído 2126 letras -> https://n.com.do/2026/11/10/abinader-respalda-a-bukele-ante-crisis-haitiana-revela-cooperacion-en-inteligencia-y-logistica/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: N Digital
-Revisión: corregida (quité "Abinader respalda a Bukele y revela apoyo logístico..." sin cambios sustanciales; ajusté la atribución
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2411 letras -> https://presidencia.gob.do/noticias/onapi-pone-en-circulacion-herramienta-legislativa-sobre-propiedad-industrial
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé la frase "Dijo también" → sin cambios de fondo; cambios reales: "Dijo" no aparecía en fuente que el b
+No encaja en ninguna sección, se salta: ProDominicana reunirá liderazgo e inspiración en el Encuentro Nacional de Mujeres en Exportación 2026
+[República Dominicana] Ministerio de Administración Pública: texto leído 5782 letras -> https://map.gob.do/2026/11/10/ministro-freund-destaca-en-madrid-los-avances-del-pais-en-gobernanza-datos-y-gobierno-digital/
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 7000 letras -> https://ministeriodeeducacion.gob.do/comunicaciones/noticias/luis-miguel-de-camps-destaca-avances-en-educacion-digital-y-formacion-tecnica-para-responder-a-los-cambios-tecnologicos-y-laborales
+[República Dominicana] Periódico elDinero: texto leído 5492 letras -> https://eldinero.com.do/387901/ministro-de-administracion-publica-destaca-en-madrid-los-avances-del-pais-en-gobernanza-de-datos-y-gobierno-digital/
+Fuente oficial encontrada: Ministerio de Administración Pública, Ministerio de Educación de la República Dominicana | para completar: Periódico elDinero
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié "el ministro Sigmund Freund dice" por "dice" sin cambios de fondo; quité "e
+Revisión: corregida (cambié "el ministro Sigmund Freund dice" por "dice" sin cambios de fondo; quité "es importante señalar" y "ad
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[República Dominicana] DGII: texto leído 0 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-facturador-gratuito-presenta-error-de-no-tener-el-alta-de-comprobantes/6af34e4fee08f4338c652ac2
+No se pudo leer el artículo; no se publica para no salir corta: Solicitud de Facturador gratuito, presenta error de no tener el alta de comprobantes
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[República Dominicana] DGII: texto leído 0 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/fecha-limite-facturacion-electronica/6af3398ea09c3e71a5dd2490
+No se pudo leer el artículo; no se publica para no salir corta: FECHA LIMITE FACTURACION ELECTRONICA
+[República Dominicana] DGII: texto leído 523 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/como-clasificar-correctamente-facturas-que-representan-una-renta-yo-a-la-vez-un-servicio/6af336927f9506fa11d2b1fc
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Como clasificar correctamente facturas que representan una renta y/o a la vez un servicio.
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[República Dominicana] DGII: texto leído 0 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/fecha-limite-facturacion-electronica/6af339ea7f9506fa11d2c981
+No se pudo leer el artículo; no se publica para no salir corta: fecha limite facturacion electronica
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] Banco Central de la República Dominicana: texto leído 0 letras -> https://repositoriocultural.bancentral.gov.do/items/00a55e4b-14cf-430b-b0a0-cd4cc93d1333
+No se pudo leer el artículo; no se publica para no salir corta: Boletín mensual, octubre de 1984
+[República Dominicana] DGII: texto leído 1321 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/cmo-aplicar-la-norma-072007-y-retenciones-contractuales-anticipo-y-fondo-de-garanta-en-el-facturador-gratuito/6af364adeda14b5d77355792
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cómo aplicar la Norma 07-2007 y retenciones contractuales (anticipo y fondo de garantía) en el Facturador Gratuito?
 [Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 2279 letras -> https://do.usembassy.gov/es/news-es/
 Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es la página de inicio de la Embajada de Estados Unidos en Santo Domingo (un índice de noticias con fechas y botones de navegación, además de avisos de consentimi')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no contiene una noticia concreta. Es la página de inicio del sitio de la Embajada de Estados Unidos con un listado de fechas, avisos de consentimiento de cookies y datos de ')
 [Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-encabeza-segunda-graduacion-del-programa-talento-digital-que
-[Dominicanos en EE.UU.] Acento: texto leído 4017 letras -> https://acento.com.do/actualidad/talento-digital-supera-los-23700-certificados-pero-registra-mas-de-110000-inscritos-9787383.html
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1464 letras -> https://eldia.com.do/luis-abinader-encabeza-graduacion-de-talento-digital/
 [Dominicanos en EE.UU.] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/10/graduacion-del-programa-talento-digital-con-23700-certificados/3716696
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
 Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Presidente Luis Abinader encabeza segunda graduación del programa Talento Digital, que supera las 23,700 personas certificadas y los 110,000 inscritos
 Rechazada por la revisión: Presidente Luis Abinader encabeza segunda graduación del programa Talento Digital, que supera las 23,700 personas certificadas y los 110,000 inscritos -> cifras que no aparecen en las fuentes: 754
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5906 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste no contiene una noticia concreta que pueda redactar. Es únicamente el contenido de navegación y menú de la página del Ministerio de Administración Pública (MAP)')
-No se pudo bajar la página: <HTTPError 470: ''>
-[Dominicanos en EE.UU.] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/auto-de-apertura-a-juicio-contra-dos-procesados-por-traficar-75-paquetes-de-cocaina/
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1555 letras -> https://elnuevodiario.com.do/envian-a-juicio-a-dos-hombres-acusados-de-traficar-75-paquetes-de-cocaina/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Auto de apertura a juicio contra dos procesados por traficar 75 paquetes de cocaína
-Revisión: corregida (agregué atribución a El Nuevo Diario en el párrafo de la procuradora y en el de los decomisos; reemplacé "sec
+Error IA: ValueError('respuesta sin el formato esperado: La versión que me pasaste es, en realidad, solo el menú de navegación y el encabezado del sitio web del Ministerio de Administración Pública (MAP). Contiene listas de secciones (Inicio, Sobre Nosotros')
 [Dominicanos en EE.UU.] Ministerio de Educación de la República Dominicana: texto leído 1773 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/legalizacion-de-record-de-notas-de-educacion-media
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Legalización De Récord De Notas De Educación Media
-[Dominicanos en EE.UU.] mt.gob.do: texto leído 5253 letras -> https://mt.gob.do/escuela-del-ministerio-de-trabajo-gradua-a-mas-de-500-jovenes-en-diferentes-areas-tecnicas-para-su-insercion-laboral/
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 4922 letras -> http://www.presidencia.gob.do/noticias/escuela-del-ministerio-de-trabajo-gradua-mas-de-500-jovenes-en-diferentes-areas-tecnicas
-[Dominicanos en EE.UU.] N Digital: texto leído 4801 letras -> https://n.com.do/2026/11/10/escuela-del-ministerio-de-trabajo-gradua-a-mas-de-500-jovenes-en-diferentes-areas-tecnicas-para-su-insercion-laboral/
-Fuente oficial encontrada: mt.gob.do, Presidencia de la República Dominicana | para completar: N Digital
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Escuela del Ministerio de Trabajo gradúa a más de 500 jóvenes en diferentes áreas técnicas para su inserción laboral
-Revisión: corregida (corregí "Escuela Taller" en la línea de la primera dama al texto original con "gradúa"... ver abajo; se cambi
-[Internacionales] The White House (.gov): texto leído 1091 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-997-h-r-1703-h-r-1945-and-h-r-7730-signed-into-law/
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 5609 letras -> https://centralnoticias.gob.do/superintendencia-de-bancos-y-bid-impulsan-la-economia-conductual-aplicada-al-sector-financiero/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Superintendencia de Bancos y BID impulsan la economía conductual aplicada al sector financiero
+Revisión: corregida (se corrigió "Carlos Scartascini, del BID" a "lead technical specialist" / líder técnico principal del Departa
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] Homeland Security (.gov): texto leído 3145 letras -> https://www.dhs.gov/news/2026/11/09/worst-worst-ice-arrests-murderers-pedophiles-and-sexual-predators
+Fuente oficial encontrada: Homeland Security (.gov) 
+Revisión: corregida (cifras y atribuciones ajustadas a la fuente: el conteo son 16 arrestos, pero la fuente no especifica que todo
+[Internacionales] The White House (.gov): texto leído 2882 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/
 Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (se agregó atribución a la Casa Blanca en el gancho y en el texto, se quitó la frase "Según la Casa Blanca" du
-[Famosos] Diario Libre: texto leído 3937 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/10/embajadora-ee-uu-destaca-cierre-de-fabrica-de-carton/3716903
-Cambiada de sección: Famosos -> Internacionales: Embajadora de EE. UU. elogia acciones de RD contra el comercio ilícito y destaca cierre de fábrica
-Revisión: corregida (se quitó "celebró/respaldó" por "destacó" para ajustarse a las fuentes; se corrigió "subsecretario" a "subsec
-[Famosos] El Nacional — La voz de todos: texto leído 1156 letras -> https://elnacional.com.do/fama-y-vida/farandula/cancion-diciembre-apodera-fiestas-nueva-version_585872.html
-Revisión: aprobada
-Fuente no confiable, se salta: masvip.com.do
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Famosos] Diario Libre: texto leído 1893 letras -> https://www.diariolibre.com/revista/farandula/2026/11/10/camila-cabello-disfruta-del-encanto-dominicano/3716954
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Camila Cabello comparte fotografías desde La Romana
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Famosos] Diario Libre: texto leído 0 letras -> https://www.diariolibre.com/revista/cultura/2026/11/10/finba-cali-y-el-ballet-nacional-dominicano/3716885
-No se pudo leer el artículo; no se publica para no salir corta: Ballet Nacional Dominicano llevará su talento a Colombia
-[Famosos] Diario Libre: texto leído 3882 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/10/policia-nacional-desmantela-red-de-armas-3d-en-republica-dominicana/3716864
-Cambiada de sección: Famosos -> República Dominicana: Hallazgo de impresora 3D para producción de armas fantasma plantea nuevo reto para las autoridades
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté el gancho y el "importa" para que no afirmen más de lo que dice la fuente: 
-Revisión: corregida (ajusté el gancho y el "importa" para que no afirmen más de lo que dice la fuente: no se sabe que se "desartic
-[Famosos] Diario Libre: texto leído 1990 letras -> https://www.diariolibre.com/revista/cultura/2026/11/10/ballet-nacional-dominicano-se-presentara-en-cali/3716805
-[Famosos] Infobae: texto leído 1763 letras -> https://www.infobae.com/america/agencias/2026/11/10/el-ballet-nacional-dominicano-se-presentara-en-el-festival-internacional-de-ballet-de-cali/
-[Famosos] N Digital: texto leído 2058 letras -> https://n.com.do/2026/11/10/ballet-nacional-dominicano-representara-al-pais-en-festival-internacional-de-ballet-de-cali-2026/
-Cambiada de sección: Famosos -> Deportes: El Ballet Nacional Dominicano se presentará en el Festival Internacional de Ballet de Cali
-Revisión: corregida (fechas de Diario Libre/Infobae/N Digital no mencionan "11 al 15 de noviembre" en el texto de Diario Libre e I
-[Deportes] Lidom: texto leído 2033 letras -> https://lidom.com/estrellas-orientales/leo-bernal-prioriza-las-remolcadas-y-el-exito-colectivo-99644.html
-Revisión: corregida (eliminé "de Estrellas" del título en español porque la fuente no lo dice así, añadí atribución a Lidom.com en
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/cuarto-palo-de-noelvi-99580.html
-No se pudo leer el artículo; no se publica para no salir corta: ¡CUARTO PALO DE NOELVI!
-[Deportes] Lidom: texto leído 2657 letras -> https://lidom.com/lidom/vidal-brujan-y-sauryn-lao-son-los-ganadores-99635.html
-Revisión: corregida (eliminé "con este reconocimiento"→ sin cambio; corregí "dedicado" sin cambio; cambié "Bruján y Lao hicieron h
-Fuente no confiable, se salta: facebook.com
-Fuente no confiable, se salta: cachicha.com
-[Precios y combustibles] El Nuevo Diario: texto leído 5500 letras -> https://elnuevodiario.com.do/empresarios-y-sindicatos-preven-revision-salarial-en-2027-piden-retomar-reforma-laboral/
-Cambiada de sección: Precios y combustibles -> República Dominicana: (VIDEOS) Empresarios y sindicatos prevén revisión salarial en 2027; piden retomar reforma laboral
-Revisión: corregida (se quitó la afirmación de que el 2027 es "en 2027" sin cambio; se añadió atribución a Copardom y CASC en clav
-[Precios y combustibles] El Nuevo Diario: texto leído 5500 letras -> https://elnuevodiario.com.do/video-copardom-espera-convocatoria-para-revisar-salarios-minimos-en-marzo-de-2027/
-[Precios y combustibles] De Último Minuto: texto leído 3821 letras -> https://deultimominuto.com/nacionales/copardom-espera-convocatoria/
-Cambiada de sección: Precios y combustibles -> República Dominicana: (VIDEO) Copardom espera convocatoria para revisar salarios mínimos en marzo de 2027
-Revisión: corregida (eliminé la mención de la diáspora que no está en las fuentes, quité "Copardom asistirá" sin cambios de fondo 
-Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: imagendeveracruz.mx
-[Precios y combustibles] Diario Libre: texto leído 2674 letras -> https://www.diariolibre.com/politica/general/2026/11/10/mariotti-propone-suspender-impuesto-ad-valorem-a-combustibles/3716728
-[Precios y combustibles] De Último Minuto: texto leído 3778 letras -> https://deultimominuto.com/nacionales/politica/charles-suspender-impuesto/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Mariotti propone eliminar temporalmente impuesto a combustibles para reducir sus precios
-Revisión: corregida (se atribuyó la cifra del galón a Listín Diario, que no aparece en las fuentes; ahora se atribuye solo a Diari
-[Videojuegos] Nintendo: texto leído 5741 letras -> https://www.nintendo.com/ph/news/article/6jeJHY4mOHUPjaTtalbiP7
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Introducing the newly launched Nintendo eShop!
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nominations and Withdrawals Sent to the Senate
+[Internacionales] The White House (.gov): texto leído 2172 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trumps-fostering-the-future-together-grows-its-international-momentum-across-the-united-states-asia-europe-and-the-caribbean/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia concreta sobre un hecho reportado. Es un comunicado institucional que anuncia una agenda de iniciativas futuras y contiene declaraciones de promoción de la ')
+[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia en el formato que pides. La única versión disponible es un comunicado oficial de la Casa Blanca, es decir, material de propaganda de una de las partes, y')
+[Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/revista/musica/2026/11/11/mestisay-y-olga-cerpa-llegan-a-republica-dominicana/3716843
+Revisión: corregida (eliminé la mención de "dos nominaciones al Latin Grammy" como dato atribuido al grupo sin respaldo explícito?
+[Famosos] El Nacional — La voz de todos: texto leído 1896 letras -> https://elnacional.com.do/fama-y-vida/farandula/harto-manny-perez-arremete-cineastas-dominicanos-preferir-actores-extranjeros_585880.html
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se cambió el título para que coincida con la cita principal de la fuente "Estoy ha
+Revisión: corregida (se cambió el título para que coincida con la cita principal de la fuente "Estoy harto", se atribuyó la afirma
+[Deportes] Lidom: texto leído 2982 letras -> https://lidom.com/gigantes-del-cibao/agustin-ramirez-sentencia-en-entradas-extras-99669.html
+Revisión: corregida (Ramírez 4-2 en la jornada, no "4-for-2" con error en inglés; se corrigió "4-for-2" a "4-for-4"? No: la fuente
+[Deportes] Lidom: texto leído 1345 letras -> https://lidom.com/gigantes-del-cibao/miguel-cairo-apuesta-al-equilibrio-y-la-consistencia-99649.html
+Revisión: corregida (eliminé "destacar" en el cierre y "importancia de" por frase más directa en español; ajusté "keeping everyone
+[Precios y combustibles] Hoy Digital: texto leído 909 letras -> https://hoy.com.do/economia/dolar-republica-dominicana-tasas-compra-venta-10-noviembre_1108184.html
+Rechazada por la revisión: Dólar en República Dominicana: tasas de compra y venta para este 10 de noviembre -> cifras que no aparecen en las fuentes: 6076
+[Precios y combustibles] Diario Libre: texto leído 3628 letras -> https://www.diariolibre.com/economia/consumo/2026/11/11/costo-de-la-canasta-basica-promedio-en-rd-paso-en-octubre-de-rd50000/3717153
+Revisión: corregida (se cambió el título y gancho para decir "por primera vez" → eliminado, pues las fuentes no lo afirman; se cam
 [Videojuegos] Nintendo: texto leído 538 letras -> https://www.nintendo.com/us/store/merchandise/my-mario-products/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): My Mario - Products
+[Videojuegos] Nintendo: texto leído 5741 letras -> https://www.nintendo.com/ph/news/article/6jeJHY4mOHUPjaTtalbiP7
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto proporcionado es una presentación de producto publicada por Nintendo (tipo publicidad o guía de uso del servicio), no una noticia sobre un hecho concreto. Además, apare')
 [Videojuegos] Nintendo: texto leído 1354 letras -> https://www.nintendo.com/us/store/products/my-mario-mario-friends-wood-block-set-120836/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): My Mario™ Mario & Friends Wood Block Set
-Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
+Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-17 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 16 · ya cubiertas: 1 · no confiables: 5 · opinión: 0 · con texto leído: 32 · sin texto: 3 · medios juntados: 8 · con fuente oficial: 12 · aprobadas por la revisión: 1 · corregidas por la revisión: 14 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 5 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 9 · largas: 15 · ocultas (cortas): 2
-Para Instagram (tendencia 3): Escuela Taller de Santo Domingo gradúa a 561 jóvenes en áreas técnicas
+13 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 28 · ya cubiertas: 2 · no confiables: 0 · opinión: 0 · con texto leído: 28 · sin texto: 4 · medios juntados: 3 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 5 · descartadas por la IA: 7 · cambiadas de sección: 2 · largas: 9 · ocultas (cortas): 4
