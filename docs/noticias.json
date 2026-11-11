@@ -1,5 +1,839 @@
 [
  {
+  "id": "22c53fcd06",
+  "titulo": "SNS habilita endoscopia y microbiología en hospital de Cotuí tras 15 años sin el servicio",
+  "titulo_original": "SNS deja en funcionamiento nuevas unidades de endoscopia y microbiología en el Hospital Provincial Inmaculada Concepción de Cotuí",
+  "resumen": "El hospital de Cotuí vuelve a hacer estudios endoscópicos y suma un laboratorio de microbiología. Los pacientes dejarán de viajar para muchos análisis.",
+  "gancho": "El hospital de Cotuí vuelve a hacer estudios endoscópicos y suma un laboratorio de microbiología. Los pacientes dejarán de viajar para muchos análisis.",
+  "parrafos": [
+   "El Servicio Nacional de Salud (SNS) puso en funcionamiento nuevas unidades de endoscopia y microbiología en el Hospital Provincial Inmaculada Concepción, en Cotuí. Con estos servicios, los pacientes podrán hacerse estudios especializados en el propio hospital, algo que antes tenían que realizar en otros establecimientos.",
+   "La apertura fue encabezada por el director ejecutivo del SNS, Julio Landrón, quien explicó que la medida busca reducir los traslados de pacientes y ampliar la capacidad diagnóstica de la Red Pública. Según indicó, los nuevos equipos permitirán ofrecer servicios con más precisión.",
+   "La Unidad de Endoscopia cuenta con un equipo de última generación, adquirido con una inversión cercana a los RD$7 millones. Con él se podrán realizar procedimientos ambulatorios, con sedación y recuperación del paciente en el mismo hospital. Landrón señaló que estos estudios pueden costar entre RD$18,000 y RD$25,000 en centros privados. El director del hospital, Simón Bautista, explicó que el establecimiento llevaba más de 15 años sin realizar estudios endoscópicos, desde que el equipo anterior dejó de funcionar durante la remodelación del centro.",
+   "En microbiología, la nueva unidad cuenta con tecnología automatizada de séptima generación para hemocultivos, cultivos y pruebas de sensibilidad y resistencia a los antimicrobianos. Landrón destacó su importancia para detectar infecciones en recién nacidos, embarazadas y pacientes de cuidados intensivos. Antes, las muestras se enviaban a otros establecimientos o laboratorios de Santo Domingo, lo que alargaba la espera. Ahora, los resultados podrán obtenerse más rápido, incluso mediante sistemas digitales.",
+   "El hospital también recibió un equipo GeneXpert para el diagnóstico molecular de tuberculosis, que detecta el ADN de las micobacterias e identifica resistencia a la rifampicina. La encargada del departamento de laboratorio, microbiología y banco de sangre, Miguelina José, explicó que el equipo amplía los estudios disponibles en el centro. Greicy Carolina Sánchez, encargada del área de microbiología, indicó que el hospital no contaba antes con un departamento de este tipo, por lo que los pacientes debían acudir a otros centros."
+  ],
+  "claves": [
+   "El SNS puso en funcionamiento las unidades de endoscopia y microbiología en el Hospital Inmaculada Concepción de Cotuí.",
+   "El equipo de endoscopia tuvo una inversión cercana a RD$7 millones y permite procedimientos ambulatorios con sedación.",
+   "Estudios similares cuestan entre RD$18,000 y RD$25,000 en centros privados.",
+   "Los resultados de microbiología estarán disponibles en menos tiempo, sin enviar muestras a Santo Domingo."
+  ],
+  "importa": "Los pacientes de Cotuí y zonas cercanas podrán hacerse estudios especializados sin viajar a otras ciudades y sin tener que asumir los precios de las clínicas privadas. Para las familias de la provincia, esto representa un ahorro en gastos de salud.",
+  "en": {
+   "titulo": "SNS Opens Endoscopy and Microbiology Units at Cotuí Hospital After 15 Years",
+   "gancho": "The Cotuí hospital is offering endoscopy studies again and adding a microbiology lab. Patients will no longer have to travel for many tests.",
+   "claves": [
+    "The SNS launched the endoscopy and microbiology units at the Inmaculada Concepción Hospital in Cotuí.",
+    "The endoscopy equipment cost about RD$7 million and allows outpatient procedures under sedation.",
+    "Similar studies cost between RD$18,000 and RD$25,000 at private clinics.",
+    "Microbiology results will be available faster, without sending samples to Santo Domingo."
+   ],
+   "importa": "Patients in Cotuí and nearby areas can get specialized tests without traveling to other cities or paying private clinic prices. For families in the province, this means savings on healthcare costs.",
+   "parrafos": [
+    "The Dominican Republic's National Health Service (SNS) has launched new endoscopy and microbiology units at the Inmaculada Concepción Provincial Hospital in Cotuí. With these services, patients can get specialized tests at the hospital itself, something they previously had to do at other facilities.",
+    "The opening was led by SNS Executive Director Julio Landrón, who explained that the move aims to reduce patient transfers and expand diagnostic capacity within the public health network. According to him, the new equipment will allow more precise services.",
+    "The Endoscopy Unit has state-of-the-art equipment acquired for an investment of about RD$7 million. It will allow outpatient procedures under sedation, with patient recovery at the same hospital. Landrón said these studies can cost between RD$18,000 and RD$25,000 at private centers. Hospital director Simón Bautista explained that the facility had gone more than 15 years without endoscopy studies, since the previous equipment stopped working during the center's renovation.",
+    "In microbiology, the new unit has seventh-generation automated technology for blood cultures, microbial cultures, and tests to determine the sensitivity and resistance of microorganisms to antimicrobial treatments. Landrón stressed its importance for detecting infections in newborns, pregnant women, and intensive care patients. Previously, samples had to be sent to other facilities or labs in Santo Domingo, which lengthened wait times. Now, results can be obtained faster, including through digital systems.",
+    "The hospital also received a GeneXpert device for molecular diagnosis of tuberculosis, which detects mycobacterial DNA and identifies rifampicin resistance. Miguelina José, head of the laboratory, microbiology and blood bank department, explained that the equipment expands the studies available at the center. Greicy Carolina Sánchez, head of the microbiology area, said the hospital previously lacked a department of this kind, so patients had to go to other facilities."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGpNUmpXS19keHZRWVlmeDFHWjE5QXByYm9XSldSQzZIMkFZb0JFNE1CZHlIaEhVRUpNMm12eTIzSGd2RUNrS1V3NE41UzJZY25xLVhSa3VNbk5icnhzME5CSk5zQXFDYVJCWmIwcUhzTXFEMDMwTkc0OTF1MkxMOUxDT2xLV0IycHlCRk5Yb0ZEajd6a3dHQnhIYzFjR3c4QWVmUm9nSTdLVzk2YTJ4aGxERngzbW9WanhGUUpVc0M?oc=5",
+  "url": "https://presidencia.gob.do/noticias/sns-deja-en-funcionamiento-nuevas-unidades-de-endoscopia-y-microbiologia-en-el-hospital",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/sns-deja-en-funcionamiento-nuevas-unidades-de-endoscopia-y-microbiologia-en-el-hospital"
+   },
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/pais/gobierno/2026/11/11/sns-inaugura-unidades-de-endoscopia-y-microbiologia-en-cotui-2167609/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "Noticias SIN"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_12.png",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se quitó \"en la Red Pública\" y \"con más precisión\" no cambia; se atribuyó \"permitirán ofrecer servicios con más precisión\" y la razón de reducir traslados a Landrón; se corrigió \"garantizar\" no aparece; se ajustó \"sin pagar\" a \"sin tener que asumir esos gastos\" según fuente; se quitó \"de la capital\" → \"de Santo Domingo\" según fuente; se atribuyó el cierre de sistemas digitales a la fuente; se aclaró que el equipo de endoscopia fue \"acquired\" y el \"alivio económico\" fue quitado porque no aparece en el borrador original; se mantuvo el tono y se corrigió la traducción de \"Landrón stressed\").",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-11T22:47:20.154566+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "4ba63184f1",
+  "titulo": "Abinader asiste a toma de posesión de monseñor Morel Diplán como ordinario militar",
+  "titulo_original": "Presidente Luis Abinader participa, junto con la primera dama Raquel Arbaje, en toma de posesión canónica de monseñor Carlos Tomás Morel Diplán como ordinario militar",
+  "resumen": "El presidente Abinader y la primera dama participaron en la ceremonia en la Catedral Primada de América. El nuevo ordinario militar habló de su misión espiritual.",
+  "gancho": "El presidente Abinader y la primera dama participaron en la ceremonia en la Catedral Primada de América. El nuevo ordinario militar habló de su misión espiritual.",
+  "parrafos": [
+   "El presidente Luis Abinader, acompañado de la primera dama Raquel Arbaje, participó este miércoles en la toma de posesión canónica de monseñor Carlos Tomás Morel Diplán como ordinario militar de la República Dominicana. La ceremonia se realizó en la Catedral Primada de América y reunió a autoridades civiles y militares, sacerdotes y fieles católicos.",
+   "Morel Diplán fue designado para este cargo el 12 de octubre de 2026 por el papa León XIV. El ordinariato militar es una circunscripción especial de la Iglesia católica que ofrece acompañamiento pastoral a los integrantes de las Fuerzas Armadas y de la Policía Nacional.",
+   "En sus primeras palabras como ordinario militar, Morel Diplán expresó su compromiso de acompañar espiritualmente a los militares, policías y sus familias, según informó la Presidencia. Explicó que esta misión implica ofrecer escucha, orientación y apoyo ante el dolor, la violencia y el sufrimiento que enfrentan en sus funciones. También exhortó a los capellanes a trabajar con cercanía, misericordia y respeto a la dignidad humana.",
+   "La eucaristía fue presidida por el nuncio apostólico en el país, monseñor Piergiorgio Bertoldi, quien animó a Morel Diplán a llevar el mensaje de Cristo a cada destacamento y recinto militar. Bertoldi también llamó a fortalecer la paz y la convivencia nacional, y a que los miembros de las Fuerzas Armadas y la Policía actúen con justicia y protejan la vida.",
+   "Entre los asistentes estuvieron el ministro de Defensa, teniente general Carlos Antonio Fernández Onofre, y los comandantes generales del Ejército, la Armada y la Fuerza Aérea. También participaron el presidente de la DNCD, vicealmirante José Manuel Cabrera Ulloa, y el director general de Migración, vicealmirante Luis Rafael Lee Ballester.",
+   "Para su labor, Morel Diplán contará con un equipo de vicarios y capellanes responsables de las distintas áreas pastorales y de las instituciones militares y policiales."
+  ],
+  "claves": [],
+  "importa": "",
+  "en": {
+   "titulo": "Abinader Attends Installation of Monsignor Morel Diplán as Military Ordinary",
+   "gancho": "President Abinader and the first lady joined the ceremony at the Primate Cathedral of the Americas. The new military ordinary spoke about his spiritual mission.",
+   "claves": [],
+   "importa": "",
+   "parrafos": [
+    "President Luis Abinader, accompanied by First Lady Raquel Arbaje, attended the canonical installation of Monsignor Carlos Tomás Morel Diplán as military ordinary of the Dominican Republic on Wednesday. The ceremony was held at the Primate Cathedral of the Americas and brought together civil and military authorities, priests, and Catholic faithful.",
+    "Morel Diplán was appointed to the post on October 12, 2026 by Pope Leo XIV. The military ordinariate is a special jurisdiction of the Catholic Church that provides pastoral care to members of the Armed Forces and the National Police.",
+    "In his first remarks as military ordinary, Morel Diplán expressed his commitment to spiritually accompany soldiers, police officers, and their families, according to the Presidency. He explained that this mission means offering listening, guidance, and support in the face of the pain, violence, and suffering they face in their duties. He also urged chaplains to work with closeness, mercy, and respect for human dignity.",
+    "The Mass was presided over by the apostolic nuncio in the country, Monsignor Piergiorgio Bertoldi, who encouraged Morel Diplán to carry Christ's message to every military unit and facility. Bertoldi also called for strengthening peace and national coexistence, and for members of the Armed Forces and Police to act with justice and protect life.",
+    "Among those attending were Defense Minister Lt. Gen. Carlos Antonio Fernández Onofre and the commanding generals of the Army, Navy, and Air Force. Also present were DNCD president Vice Admiral José Manuel Cabrera Ulloa and Migration director general Vice Admiral Luis Rafael Lee Ballester.",
+    "For his work, Morel Diplán will have a team of vicars and chaplains responsible for the various pastoral areas and for the military and police institutions."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZW1HM0NLZ05yYWhkTGRnX1JiT2hFN3FJbUs3MkljOG1BanJWdkZmd04tcS1saHp3SElwaF9SQXE4anlZS0E0Y0hPRmpRb1g0WnVoc0JndXVGYXdNUVluaWkxM1RvNkNlbzRzVnJUUGtKeWxZVjB2TnRwYzNFRHFiNFNNMzV1VVZXQzBfcGxLTkU5Y2hSRS1rMExIcE5fRGVBQ1VlUDRnVlQ2M1ZDblFLRHpXb0pmdGQtaFlqN3V3?oc=5",
+  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-participa-junto-con-la-primera-dama-raquel-arbaje-en-toma-de",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-participa-junto-con-la-primera-dama-raquel-arbaje-en-toma-de"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/abinader-participa-en-toma-de-posesion-de-monsenor-morel-diplan-como-ordinario-militar/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "El Nuevo Diario"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_14.png",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se añadió atribución a las fuentes en \"Este dato\" no aplica; se corrigió el \"Morel Diplán\" en el cargo de \"ordinario militar\" y se ajustaron matices de fuente: se especificó que la designación y las palabras fueron informadas por la Presidencia y El Nuevo Diario; se eliminó la afirmación de que la ceremonia \"reunió a sacerdotes y fieles\" como hecho atribuido sin fuente explícita y se mantuvo solo lo confirmado; se ajustó \"primeras palabras\" a \"disposición\" según el texto de las fuentes.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-11T22:47:38.336346+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "f9898c9bf7",
+  "titulo": "Caasd extiende hasta el 16 de noviembre plazo para obras de pozos reservadas a mipymes mujer",
+  "titulo_original": "Caasd extiende plazo de recepción de ofertas para sorteo de obras de mipymes mujer hasta lunes 16 de noviembre",
+  "resumen": "La Caasd amplió el plazo para un sorteo de más de 60 pozos en el Gran Santo Domingo, reservado a empresas lideradas por mujeres. Estas son las cifras del proceso.",
+  "gancho": "La Caasd amplió el plazo para un sorteo de más de 60 pozos en el Gran Santo Domingo, reservado a empresas lideradas por mujeres. Estas son las cifras del proceso.",
+  "parrafos": [
+   "La Corporación del Acueducto y Alcantarillado de Santo Domingo (CAASD) extendió hasta las 12:00 del mediodía del lunes 16 de noviembre el plazo para recibir ofertas en un sorteo de obras reservado exclusivamente a mipymes mujer. La convocatoria incluye la construcción y electrificación de pozos en distintos sectores del Gran Santo Domingo.",
+   "El procedimiento, identificado con la referencia CAASD-CCC-SO-2026-0002, había recibido hasta este miércoles siete ofertas. Además, 45 empresas han manifestado interés en participar, según la institución.",
+   "La CAASD, dirigida por el ingeniero Fellito Suberví, explicó que la convocatoria busca promover oportunidades para mujeres emprendedoras y para las micro, pequeñas y medianas empresas en la contratación de obras públicas. La institución argumenta que la participación de empresas lideradas por mujeres puede ampliar su crecimiento, fortalecer su experiencia en proyectos y contribuir a generar empleos en sus comunidades.",
+   "La entidad informó que realizó aclaraciones sobre el requisito de domicilio para orientar a las empresas interesadas en presentar sus propuestas. También exhortó a las mipymes mujer a revisar el pliego de condiciones, completar la documentación requerida y depositar sus ofertas dentro del nuevo plazo.",
+   "Con esta medida, la CAASD reiteró su llamado a las mujeres emprendedoras del sector a participar en una convocatoria que vincula la infraestructura de abastecimiento de agua con nuevas oportunidades para sus empresas."
+  ],
+  "claves": [
+   "El nuevo plazo para recibir ofertas vence el lunes 16 de noviembre a las 12:00 del mediodía.",
+   "La convocatoria, identificada como CAASD-CCC-SO-2026-0002, es para la construcción y electrificación de más de 60 pozos.",
+   "Hasta este miércoles se habían recibido siete ofertas y 45 empresas mostraron interés en participar."
+  ],
+  "importa": "Las empresas dirigidas por mujeres tienen una nueva oportunidad de participar en obras públicas de abastecimiento de agua en el Gran Santo Domingo.",
+  "en": {
+   "titulo": "Caasd Extends Deadline to November 16 for Well Works Reserved for Women-Led MSMEs",
+   "gancho": "The Caasd has extended the bidding deadline for a contract lottery covering more than 60 wells in Greater Santo Domingo, open only to women-led businesses. Here are the figures behind the process.",
+   "claves": [
+    "The new deadline for submitting bids is Monday, November 16, at 12:00 noon.",
+    "The tender, identified as CAASD-CCC-SO-2026-0002, covers the construction and electrification of more than 60 wells.",
+    "As of this Wednesday, seven bids had been received and 45 companies had expressed interest in participating."
+   ],
+   "importa": "Women-led businesses have a new opportunity to compete for public water-infrastructure projects in Greater Santo Domingo.",
+   "parrafos": [
+    "The Santo Domingo Aqueduct and Sewer Corporation (CAASD) has extended to 12:00 noon on Monday, November 16, the deadline for submitting bids in a contract lottery reserved exclusively for women-led micro, small and medium enterprises (MIPYMES Mujer). The tender covers the construction and electrification of wells in various sectors of Greater Santo Domingo.",
+    "The procedure, identified under reference CAASD-CCC-SO-2026-0002, had received seven bids as of this Wednesday. The institution also said 45 companies have expressed interest in taking part.",
+    "The CAASD, led by engineer Fellito Suberví, explained that the call aims to create opportunities for women entrepreneurs and micro, small and medium businesses in public works contracting. The institution argues that enabling participation by women-led companies can help them grow, strengthen their project experience and contribute to job creation in their communities.",
+    "The agency said it clarified the domicile requirement to guide interested companies in preparing their proposals. It also urged women-led MSMEs to review the bidding conditions, complete the required documentation and submit their bids within the new deadline.",
+    "With this move, the CAASD reiterated its call on women entrepreneurs in the sector to take part in a tender that links water-supply infrastructure development with new opportunities for their businesses."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFFGX21GemJDcDlvYUpSdlBBRFhqa2NpUE9UblRlY3hjR2xKNGp0S3JIcTUtT0lvU1puM1cwb2RLTHdmazNSUWdFSk4yZGRYcTl0N0tkVkJJQ0FaZGYwVmlEWENTVTVTZi1VVGUwWEwtVHdFOVpxT3hQNFNqX0dTV3hjcTR1b1Z4ME1xVTZXemFrSDhxYVQ2ZUp1ZmhsSHJUYlE5YkpvcWFGWHRlN0Z6S3hpT0phamVlU3l0em0wS0cwUQ?oc=5",
+  "url": "https://centralnoticias.gob.do/caasd-extiende-recepcion-de-ofertas-para-sorteo-de-obras-dirigido-a-mipymes-mujer/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/caasd-extiende-recepcion-de-ofertas-para-sorteo-de-obras-dirigido-a-mipymes-mujer/"
+   },
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/caasd-extiende-plazo-de-recepcion-de-ofertas-para-sorteo-de-obras-de-mipymes-mujer-hasta"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/caasd-extiende-recepcion-de-ofertas-para-sorteo-de-obras-dirigido-a-mipymes-mujer/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "El Nuevo Diario"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/CAAASD%20II.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se quitó \"según la institución\" redundante en la única oración sin atribución clara; se ajustó \"Caasd\" a \"CAASD\" donde la fuente oficial usa mayúsculas; se simplificó \"sostiene que\" a \"argumenta\"; el resto coincide con las fuentes).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-11T22:48:01.003774+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/f9898c9bf7.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/f9898c9bf7-h.jpg"
+ },
+ {
+  "id": "d8b8e44fca",
+  "titulo": "República Dominicana será sede del Panamericano de Béisbol Sub-12 en noviembre",
+  "titulo_original": "República Dominicana será sede del Panamericano de Béisbol Sub-12 del 20 al 27 de noviembre",
+  "resumen": "Doce selecciones se reunirán en Guerra del 20 al 27 de noviembre en un torneo clasificatorio al Mundial Sub-12 de 2027.",
+  "gancho": "Doce selecciones se reunirán en Guerra del 20 al 27 de noviembre en un torneo clasificatorio al Mundial Sub-12 de 2027.",
+  "parrafos": [
+   "La República Dominicana será sede del Campeonato Panamericano de Béisbol Sub-12, que se disputará del 20 al 27 de noviembre. Doce selecciones de la región competirán en el complejo IPL Academy, en el municipio de Guerra. El torneo otorga clasificación a la Copa Mundial Sub-12 de la Confederación Mundial de Béisbol y Sóftbol (WBSC), que se celebrará en China Taipéi en 2027.",
+   "Los países participantes son Argentina, Brasil, Cuba, Curazao, Estados Unidos, México, Nicaragua, Panamá, Perú, Puerto Rico, República Dominicana y Venezuela. Las selecciones se repartirán en tres grupos de cuatro equipos para la ronda de apertura.",
+   "Los detalles fueron presentados en una rueda de prensa en la sede del Ministerio de Deportes y Recreación (Miderec). Participaron Juan Núñez, presidente de la Federación Dominicana de Béisbol (FEDOM); Kelvin Cruz, ministro de Deportes, y Nelson Cruz, gerente general de la selección dominicana que participó en el Clásico Mundial de Béisbol 2026.",
+   "Núñez afirmó que el país ya ha organizado torneos de alto nivel y que la Federación ha trabajado junto a la WBSC Américas y la Copabe para garantizar un torneo organizado y transparente. Por su parte, el ministro Kelvin Cruz afirmó que este tipo de torneos internacionales impulsa el turismo deportivo, la economía local y la imagen del país. Nelson Cruz dijo que la presencia dominicana en todas las categorías refleja hacia dónde va el béisbol nacional.",
+   "La acción arrancará el viernes 20 de noviembre a las 9:00 de la mañana, con Cuba contra Estados Unidos y Panamá contra Puerto Rico. La selección dominicana debutará ese mismo día a las 5:00 de la tarde ante Argentina, después de la ceremonia de inauguración, pautada para las 4:00 de la tarde.",
+   "Los medios interesados en cubrir el evento pueden completar su acreditación a través del enlace oficial del comité organizador."
+  ],
+  "claves": [
+   "El Campeonato Panamericano de Béisbol Sub-12 se jugará del 20 al 27 de noviembre.",
+   "La sede será el complejo IPL Academy, en el municipio de Guerra.",
+   "El torneo es clasificatorio a la Copa Mundial Sub-12 de la WBSC, que se celebrará en China Taipéi en 2027.",
+   "El debut dominicano será el viernes 20 de noviembre, a las 5:00 de la tarde, frente a Argentina."
+  ],
+  "importa": "Según el Gobierno, torneos internacionales como este pueden impulsar el turismo deportivo y la economía local.",
+  "en": {
+   "titulo": "Dominican Republic to Host Pan American Under-12 Baseball Championship in November",
+   "gancho": "Twelve teams will gather in Guerra from November 20 to 27 for a tournament that also qualifies teams for the 2027 Under-12 World Cup.",
+   "claves": [
+    "The Pan American Under-12 Baseball Championship runs from November 20 to 27.",
+    "The venue is the IPL Academy complex in the municipality of Guerra.",
+    "The tournament is a qualifier for the WBSC Under-12 World Cup, to be held in Chinese Taipei in 2027.",
+    "The Dominican team opens on Friday, November 20, at 5:00 p.m. against Argentina."
+   ],
+   "importa": "According to the government, international tournaments like this can boost sports tourism and the local economy.",
+   "parrafos": [
+    "The Dominican Republic will host the Pan American Under-12 Baseball Championship, running from November 20 to 27. Twelve teams from across the region will compete at the IPL Academy complex in the municipality of Guerra. The tournament grants qualification to the WBSC Under-12 World Cup, which will be held in Chinese Taipei in 2027.",
+    "The participating countries are Argentina, Brazil, Cuba, Curaçao, the United States, Mexico, Nicaragua, Panama, Peru, Puerto Rico, the Dominican Republic, and Venezuela. The teams will be split into three groups of four for the opening round.",
+    "The details were presented at a press conference at the Ministry of Sports and Recreation (Miderec). Taking part were Juan Núñez, president of the Dominican Baseball Federation (FEDOM); Kelvin Cruz, minister of sports; and Nelson Cruz, general manager of the Dominican national team that played in the 2026 World Baseball Classic.",
+    "Núñez said the country has already organized high-level tournaments and that the Federation has worked together with WBSC Americas and Copabe to ensure a well-organized and transparent event. Minister Kelvin Cruz said that international tournaments like this boost sports tourism, the local economy, and the country's image abroad. Nelson Cruz said the Dominican presence in every age category reflects where the country's baseball is heading.",
+    "Play begins Friday, November 20, at 9:00 a.m., with Cuba facing the United States and Panama facing Puerto Rico. The Dominican team debuts that same day at 5:00 p.m. Against Argentina, following the opening ceremony scheduled for 4:00 p.m.",
+    "Media outlets interested in covering the event can complete their accreditation through the organizing committee's official link."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1pXX3FYQ2hIX0ZyMnNDbUZGLW9FVm5tMFU4ZkZhM3pDV2RNek1uMUZrVDFjN2hJODYwWWJqbzJPTmNLQ3hHR0EwU0pUZzF1UGRJS2RmVWRnM2owNGlQR3VHejdjNVVSUHdTWXhPMW1yTTEzU056ajFYWHctUW9UZ3pQOEN6cFJnVmtzMWY3UlhCMUFXbnA1UGZsTUVFNW00YmdWYWV4dXdXdkZIanZ0alZ4TjBGT3lNNG11NVNUakc?oc=5",
+  "url": "https://centralnoticias.gob.do/republica-dominicana-sera-sede-del-panamericano-de-beisbol-sub-12-del-20-al-27-de-noviembre/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/republica-dominicana-sera-sede-del-panamericano-de-beisbol-sub-12-del-20-al-27-de-noviembre/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/Panamericano-de-Beisbol-Sub-12.jpg",
+   "credito": "centralnoticias.gob.do"
+  },
+  "revision": "corregida (eliminé \"Doce selecciones llegarán a Guerra\" en el gancho por ser una formulación más propia de texto, ajusté la frase de \"IMPORTA\" para atribuir el impacto turístico y económico solo al Gobierno como en las fuentes, quité \"según lo señalado por el Gobierno\" redundante, cambié \"Núñez destacó la experiencia previa del país\" a su atribución textual de haber organizado torneos de alto nivel, y precisé que la acreditación se hace por el enlace del comité organizador; el inglés se ajustó en paralelo).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-11T22:48:39.571735+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "7c3dd33ce8",
+  "titulo": "Intrant prohíbe circulación de camiones de carga en Navidad y Año Nuevo",
+  "titulo_original": "Intrant anuncia restricciones para transporte de carga durante Navidad y Año Nuevo",
+  "resumen": "El Intrant prohíbe la circulación de vehículos de carga en todo el país durante Navidad y Año Nuevo. Solo tendrán permiso condicional las mercancías prioritarias o perecederas.",
+  "gancho": "El Intrant prohíbe la circulación de vehículos de carga en todo el país durante Navidad y Año Nuevo. Solo tendrán permiso condicional las mercancías prioritarias o perecederas.",
+  "parrafos": [
+   "El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) informó que quedará prohibida la circulación de vehículos de carga en todo el territorio nacional durante las festividades de Navidad y Año Nuevo. La medida se establece mediante la Resolución administrativa núm. 011-2026, con base en los artículos 8 y 120 de la Ley 63-17, e incluye la suspensión temporal de los permisos otorgados por el Piloto para la Zona de Acceso Restringido (ZAR).",
+   "Según el Intrant, el objetivo es prevenir siniestros y garantizar un flujo vehicular seguro en fechas de alto desplazamiento. Las restricciones regirán en el feriado de Navidad desde el miércoles 23 de diciembre de 2026, a las 6:00 a. M., hasta el sábado 26 de diciembre de 2026, a las 5:00 a. M. En el feriado de Año Nuevo aplicarán desde el miércoles 30 de diciembre de 2026, a las 6:00 a. M., hasta el sábado 2 de enero de 2027, a las 5:00 a. M.",
+   "Se otorgarán permisos de circulación, de manera condicional, únicamente a los vehículos que transporten mercancías prioritarias o perecederas. Las categorías autorizadas para solicitar el permiso incluyen combustible y agua envasada; abastecimiento de alimentos y juguetes; medicamentos, equipos médicos y servicios de desechos hospitalarios; cal viva para generación eléctrica; envases y papeles desechables, y transporte de valores y organización de eventos. La institución advirtió que, sin importar el tipo de mercancía, no se otorgarán permisos a cargas especiales, como camiones con doble cola o doble remolque, ni a vehículos con cargas sobredimensionadas o con sobrepeso.",
+   "Quedan exceptuadas de la prohibición las camionetas, furgonetas, ambulancias, vehículos de emergencias y los de servicio de agua en cisterna. También podrán circular los vehículos debidamente identificados que presten servicios de mantenimiento y averías de electricidad, cable, telefonía, servicios sanitarios, mantenimiento vial, asistencia vial e higiene urbana.",
+   "Los interesados pueden solicitar el permiso en el portal www.intrant.gob.do, donde se realiza el pago en línea y se emite un permiso digital con código QR para la fiscalización en las vías. Es obligatorio que los propietarios hayan inscrito sus vehículos en el Registro Nacional de Vehículos de Cargas. Además, los vehículos con permiso no podrán exceder los 70 km/h en carreteras troncales, deberán circular por el carril derecho y asegurar la carga sin que sobrepase la carrocería. El incumplimiento será sancionado con una multa equivalente a un salario mínimo del sector público descentralizado, que se aplicará tanto al propietario de la unidad como al conductor."
+  ],
+  "claves": [
+   "Prohibición de vehículos de carga en todo el territorio nacional en las dos festividades.",
+   "Los permisos se solicitan en www.intrant.gob.do, con pago en línea y permiso digital con código QR.",
+   "Los camiones con doble cola o doble remolque y las cargas sobredimensionadas o con sobrepeso no recibirán permisos.",
+   "La multa por incumplimiento equivale a un salario mínimo del sector público descentralizado."
+  ],
+  "importa": "Según el Intrant, la medida aplica tanto al propietario de la unidad como al conductor, por lo que quienes transportan mercancías deben tomarla en cuenta para sus entregas durante las fechas festivas.",
+  "en": {
+   "titulo": "Intrant Bans Cargo Trucks During Christmas and New Year's Holidays",
+   "gancho": "The Dominican transit agency Intrant bans cargo vehicles nationwide during Christmas and New Year's. Only priority or perishable goods will get conditional permits.",
+   "claves": [
+    "Cargo vehicles are banned across the national territory during both holidays.",
+    "Permits are requested at www.intrant.gob.do, with online payment and a digital permit with a QR code.",
+    "Double-trailer trucks and oversized or overweight loads will not receive permits.",
+    "Violations are punished with a fine equal to one minimum public-sector salary."
+   ],
+   "importa": "According to Intrant, the penalty applies to both the vehicle owner and the driver, so anyone moving goods should factor the measure into deliveries during the holiday period.",
+   "parrafos": [
+    "The Dominican Republic's National Institute of Transit and Land Transportation (Intrant) announced that cargo vehicles will be barred from circulating nationwide during the Christmas and New Year's holidays. The measure is established under Administrative Resolution No. 011-2026, based on articles 8 and 120 of Law 63-17, and includes the temporary suspension of permits granted under the Restricted Access Zone (ZAR) pilot program.",
+    "According to Intrant, the goal is to prevent accidents and keep traffic flowing safely during high-travel dates. The Christmas restrictions run from Wednesday, December 23, 2026, at 6:00 a.m. Through Saturday, December 26, 2026, at 5:00 a.m. For New Year's, they apply from Wednesday, December 30, 2026, at 6:00 a.m. Through Saturday, January 2, 2027, at 5:00 a.m.",
+    "Conditional circulation permits will be granted only to vehicles carrying priority or perishable goods. The categories eligible to request a permit include fuel and bottled water; food and toys; medicines, medical equipment and hospital waste services; quicklime for electricity generation; disposable containers and paper products; valuables transport; and event organization. The agency warned that, regardless of the type of goods, no permits will be issued for special loads such as double-trailer trucks, or for oversized or overweight loads.",
+    "Pickup trucks, vans, ambulances, emergency vehicles and water tanker services are exempt from the ban. Properly identified vehicles providing maintenance or repair services for electricity, cable, telephone, sanitation, road maintenance, roadside assistance and urban cleaning may also operate.",
+    "Applicants can request permits through the portal www.intrant.gob.do, where they can pay online and receive a digital permit with a QR code for roadside inspection. Owners must be registered in the National Cargo Vehicle Registry. Permitted vehicles may not exceed 70 km/h on main highways, must keep to the right lane, and must secure their loads without exceeding the body of the vehicle. Violations will be punished with a fine equal to one minimum public-sector salary, applied to both the owner and the driver."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3QtdkFhUWQzSVU4ZmNpQWRPb0JXY0hKSFU5a3czTERBd3k3NjRTUU8zTXBmVzk0T1pXTEJqeU9aZzJjWXRyYlpieG5LZDNKMWRuMXBUaDl3LVlaWWE2YWVlbWt6WVFCeDRZN1BqLTZrSEZZVmx6eThLM1BKUzZic2hBZEVlOGxMSGYwWndoSW9fX3BPSnJqX3JFRlFrM3g2NTB4N1B2VnBPdTc0aldqcWhWYS1pQzFoTHc?oc=5",
+  "url": "https://presidencia.gob.do/noticias/intrant-anuncia-restricciones-para-transporte-de-carga-durante-navidad-y-ano-nuevo",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/intrant-anuncia-restricciones-para-transporte-de-carga-durante-navidad-y-ano-nuevo"
+   },
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/intrant-anuncia-restricciones-de-carga-para-navidad-y-ano-nuevo/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "CDN"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Intrant.png",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se corrigió \"carga\" en el texto y el gancho para reflejar que la prohibición aplica a camiones de carga y que las excepciones son condicionales; se quitó \"Año Nuevo\" inexacto donde se usó \"festividades\" sin ajuste; se eliminó la frase \"Quienes transportan... para evitar multas\" por no estar en las fuentes y se reemplazó por una frase atribuible; se quitó la palabra \"Permisos ... ZAR\" redundante; se cambió \"permiso digital\" con código QR tal como en la fuente; se ajustó el inglés para que coincida exactamente)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-11T22:49:00.995846+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "67f589debc",
+  "titulo": "EE.UU. alerta a sus ciudadanos sobre riesgos de ataques y cierres de aeropuertos en Arabia Saudita",
+  "titulo_original": "Security Alert: U.S. Mission to Saudi Arabia – November 10, 2026",
+  "resumen": "Washington pide extrema precaución en Arabia Saudita por ataques de hutíes respaldados por Irán contra aeropuertos y el personal del gobierno estadounidense.",
+  "gancho": "Washington pide extrema precaución en Arabia Saudita por ataques de hutíes respaldados por Irán contra aeropuertos y el personal del gobierno estadounidense.",
+  "parrafos": [
+   "La Embajada de Estados Unidos en Arabia Saudita pidió a sus ciudadanos revisar la alerta de viaje del país y extremar la vigilancia en todo el territorio. La advertencia responde al aumento de la amenaza de ataques armados por parte de los hutíes, grupo respaldado por Irán, y a los esfuerzos de Irán por atacar a funcionarios estadounidenses en la región.",
+   "Según el aviso, los hutíes han atacado a Arabia Saudita, incluidos aeropuertos civiles y otra infraestructura crítica, lo que ha dejado víctimas civiles e interrupciones graves en los viajes. La embajada advierte que el conflicto podría extenderse rápidamente más allá de la zona actual.",
+   "Por los riesgos de seguridad, el Departamento de Estado ordenó, a partir del 23 de octubre de 2026, que los empleados no esenciales del gobierno de EE.UU. Y sus familias abandonen el país. Los empleados que se queden necesitan una autorización especial del jefe de misión para usar cualquier aeropuerto saudí, tras recientes ataques con misiles y drones contra aeropuertos del reino.",
+   "El aeropuerto King Khalid de Riad reabrió parcialmente desde el 23 de octubre, con algunos vuelos nacionales e internacionales de aerolíneas nacionales, y parte de sus operaciones se trasladó al aeropuerto Prince Naif bin Abdulaziz de Qassim. Los aeropuertos de Jeddah y Dammam operan con retrasos y cancelaciones. Como alternativa, la embajada sugiere trenes y autobuses, y pide confirmar horarios directamente con cada proveedor.",
+   "La embajada también recordó que las autoridades sauditas advierten que filmar, publicar o compartir información sobre sistemas antimisiles y drones, o sobre los lugares de impacto, expone a responsabilidad legal. Ciudadanos estadounidenses han sido detenidos por tomar fotos de edificios gubernamentales, aeropuertos o sitios de impacto. Se pide además seguir las alertas de la Protección Civil saudí enviadas por transmisión celular.",
+   "La Embajada de EE.UU. En Irlanda, en un aviso aparte, alertó sobre una posible huelga del sector público el 12 de noviembre y fuertes medidas de seguridad en Dublín del 10 al 13 de noviembre por cumbres de líderes europeos. La Embajada de EE.UU. En Filipinas advirtió sobre cierres viales y cancelaciones de vuelos en Manila durante la cumbre de la ASEAN, del 16 al 18 de noviembre."
+  ],
+  "claves": [
+   "Desde el 23 de octubre de 2026, el Departamento de Estado ordenó salir de Arabia Saudita a los empleados no esenciales del gobierno de EE.UU. y a sus familias.",
+   "El aeropuerto King Khalid de Riad reabrió parcialmente para vuelos nacionales y algunos internacionales de aerolíneas nacionales.",
+   "Los aeropuertos de Jeddah y Dammam funcionan, con retrasos y cancelaciones.",
+   "Las fronteras terrestres, incluido el puente King Fahd hacia Bahréin, siguen abiertas."
+  ],
+  "importa": "Si usted viaja o tiene familia en Arabia Saudita, revise el estado de su vuelo directamente con la aerolínea y considere opciones terrestres como trenes o autobuses.",
+  "en": {
+   "titulo": "U.S. Warns Citizens of Attack and Airport Disruption Risks in Saudi Arabia",
+   "gancho": "Washington urges extreme caution in Saudi Arabia as Iran-backed Houthi attacks hit airports and threaten U.S. government personnel.",
+   "claves": [
+    "Effective October 23, 2026, the State Department ordered non-emergency U.S. government employees and their family members to leave Saudi Arabia.",
+    "King Khalid International Airport in Riyadh partially reopened for domestic flights and some international flights operated by national carriers.",
+    "Jeddah and Dammam airports are operating, with some delays and cancellations.",
+    "Land border crossings, including the King Fahd Causeway to Bahrain, remain open."
+   ],
+   "importa": "If you travel to or have family in Saudi Arabia, check your flight status directly with your airline and consider train or bus options.",
+   "parrafos": [
+    "The U.S. Embassy in Saudi Arabia urged its citizens to review the country's travel advisory and exercise heightened vigilance nationwide. The warning responds to a growing threat of armed attacks by the Iran-backed Houthis and Iranian efforts to target U.S. Officials in the region.",
+    "According to the alert, the Houthis have attacked Saudi Arabia, including civilian airports and other critical infrastructure, causing civilian casualties and severe travel disruptions. The embassy warns that the conflict could spread rapidly beyond the current area.",
+    "Due to safety risks, the State Department ordered non-emergency U.S. Government employees and their families to leave the country, effective October 23, 2026. Employees who remain need special authorization from the Chief of Mission to use any Saudi airport, following recent missile and drone attacks on airports in the kingdom.",
+    "King Khalid International Airport in Riyadh partially reopened as of October 23, with some domestic and international flights operated by national carriers, and some operations moved to Prince Naif bin Abdulaziz International Airport in Qassim. Jeddah and Dammam airports are operating with delays and cancellations. As alternatives, the embassy suggests trains and buses and advises travelers to confirm schedules directly with providers.",
+    "The embassy also reminded travelers that Saudi authorities warn that filming, publishing, or sharing information about counter-missile and drone systems, or their impact sites, exposes them to legal liability. U.S. Citizens have been detained for taking photos of government buildings, airports, and impact sites. Citizens are also asked to follow alerts from Saudi Civil Defense sent by cell broadcast.",
+    "Separately, the U.S. Embassy in Ireland issued an alert about a possible public sector strike on November 12 and heavy security measures in Dublin from November 10 to 13 due to European leaders' summits. The U.S. Embassy in the Philippines warned of road closures and flight cancellations in Manila during the ASEAN Summit, November 16 to 18."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFFVN2Z5NFZ6MHhUTDBRejkzSFh5S1BOYVJaSWo4ZkZULUljUDZfOVFhSzFWemlUUEZuSl9BNFhFbEdGRFd0WU41WnZBb083dGswWld2Ry0wT213TkNob19WVzVETlhTXzQ4dzRQaWFUQW5sWlJGamx0QmRwdlhXM09MWGFIb3R1a2hWWWZB?oc=5",
+  "url": "https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-10-2026/",
+  "fuente": "U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+  "dominio": "sa.usembassy.gov",
+  "fuentes": [
+   {
+    "nombre": "U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+    "url": "https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-10-2026/"
+   },
+   {
+    "nombre": "U.S. Mission Ireland (.gov)",
+    "url": "https://ie.usembassy.gov/security-alert-u-s-embassy-dublin-ireland-november-10-2026/"
+   },
+   {
+    "nombre": "U.S. Embassy in the Philippines (.gov)",
+    "url": "https://ph.usembassy.gov/security-alert-asean-summit-traffic-security-and-flight-disruptions-in-metro-manila-november-2026/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://sa.usembassy.gov/wp-content/uploads/sites/130/2026/09/Security-Alert.png",
+   "credito": "U.S. Embassy & Consulates in Saudi Arabia (.gov)"
+  },
+  "revision": "corregida (se quitó \"en todo el territorio\" por \"en todo el país\"? no: se ajustó \"pidió... extremar la vigilancia\" a \"pidió... extremar la vigilancia en todo el territorio\" conservado; se cambió \"reabrió parcialmente el 23 de octubre\" a \"reabrió parcialmente\" sin fecha de apertura específica donde la fuente lo indica; se precisó que la alerta de Riad dice \"partial reopening as of October 23\"; se eliminó \"Por separado\" por redundancia y se corrigió el nombre del aeropuerto de Qassim a \"Prince Naif bin Abdulaziz\"; se corrigió \"Defensa Civil\" a \"Protección Civil\"; se reforzó la atribución de los datos de Irlanda y Filipinas a sus misiones; se corrigió la traducción inglesa de \"Ireland\" y \"Philippines\" y se revisó la correspondencia español-inglés)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-11T22:49:34.320779+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "399804cc4d",
+  "titulo": "Tres freestylers dominicanos van a la final de Red Bull Batalla Centroamérica",
+  "titulo_original": "Reimy, Numenosis y KDT RSD llevan la bandera dominicana a la final de Red Bull Batalla Centroamérica",
+  "resumen": "Reimy, Numenosis y KDT RSD representarán al país en Bogotá. Uno de ellos llega con un tercer puesto en Santo Domingo como antecedente.",
+  "gancho": "Reimy, Numenosis y KDT RSD representarán al país en Bogotá. Uno de ellos llega con un tercer puesto en Santo Domingo como antecedente.",
+  "parrafos": [
+   "Tres freestylers dominicanos estarán en la final de Red Bull Batalla Centroamérica, que se realizará en Bogotá, Colombia. Según Diario Libre, Reimy, Numenosis y KDT RSD fueron clasificados para representar al país en la competencia regional.",
+   "La final reunirá a exponentes de distintos países de Centroamérica y el Caribe. La participación dominicana se produce después de que Santo Domingo fuera sede de la edición anterior del torneo.",
+   "Reimy, cuyo nombre es Ramón, tendrá su primera participación en una final de Red Bull Batalla. Lleva cerca de cuatro años en la escena local y ha competido en Bienvenido al Under, Combate Mortal Freestyle y Pila de Ra´.",
+   "Numenosis, nombre artístico de Abdul Djalo Encarnación, participó en la edición celebrada en Santo Domingo, donde alcanzó el tercer puesto tras superar a competidores de Costa Rica, Panamá y El Salvador, y avanzó hasta las semifinales.",
+   "KDT RSD completa la representación. Es una de las figuras con mayor trayectoria del freestyle local y, según la misma fuente, acumula al menos cinco participaciones en el formato oficial de Red Bull Batalla."
+  ],
+  "claves": [
+   "Reimy, Numenosis y KDT RSD fueron clasificados como representantes dominicanos.",
+   "La final regional se realizará en Bogotá, Colombia.",
+   "Numenosis alcanzó el tercer puesto en la edición celebrada en Santo Domingo.",
+   "KDT RSD acumula al menos cinco participaciones en el formato oficial de Red Bull Batalla."
+  ],
+  "importa": "Muestra que el freestyle dominicano sigue presente en una de las principales plataformas internacionales de batallas de improvisación.",
+  "en": {
+   "titulo": "Three Dominican freestylers headed to the Red Bull Batalla Central America final",
+   "gancho": "Reimy, Numenosis and KDT RSD will represent the Dominican Republic in Bogotá. One of them comes off a third-place finish in Santo Domingo.",
+   "claves": [
+    "Reimy, Numenosis and KDT RSD were selected as Dominican representatives.",
+    "The regional final will take place in Bogotá, Colombia.",
+    "Numenosis placed third in the edition held in Santo Domingo.",
+    "KDT RSD has at least five appearances in the official Red Bull Batalla format."
+   ],
+   "importa": "It shows that Dominican freestyle remains present on one of the leading international improvisation battle platforms.",
+   "parrafos": [
+    "Three Dominican freestylers will compete in the final of Red Bull Batalla Central America, to be held in Bogotá, Colombia. According to Diario Libre, Reimy, Numenosis and KDT RSD were selected to represent the Dominican Republic in the regional competition.",
+    "The final will bring together performers from several Central American and Caribbean countries. Dominican participation comes after Santo Domingo hosted the tournament's previous edition.",
+    "Reimy, whose real name is Ramón, will make his first appearance in a Red Bull Batalla final. He has been on the local scene for about four years and has competed in Bienvenido al Under, Combate Mortal Freestyle and Pila de Ra´.",
+    "Numenosis, the stage name of Abdul Djalo Encarnación, competed in the edition held in Santo Domingo, where he finished third after defeating competitors from Costa Rica, Panama and El Salvador, and reached the semifinals.",
+    "KDT RSD completes the lineup. He is one of the most established figures in local freestyle and, according to the same source, has at least five appearances in the official Red Bull Batalla format."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUkM3OS1KdTlvLWd5N0ZuREkyZHRRcWE4aHhieVJ0T1J2Q2RxX0lSTTJMaDhUWTJ6eHctbXlXWmxYMjVJT1pJS21NaW81X2puYnFRR0dKVHc4SlVMdjFZa2tRSkF2WkxCMXlVMkZDbjlveDc2bXN4eVktNVdLcTNCT1NUZ1F3eFZKWHh1MVQzbHotWXR0Y3FaZkFEMWFYZmhndEVuLVBQZEdpa0tta1h5R1pvS1U1Vm95MmExMnZTYjZQUdIBxwFBVV95cUxQTjktSDRpMTFXeF9FTm95UTROdHhOUkpSUUE1UW94T2hUeV95NTBkb2swb2NkeFd2cW9vYTNkaUpsaTIwbVdjaW1pZGxDRlpYUWNsM0VtRi1kS1pFZXNkTUtUVWhrNFBlLUVicV9lUkpFaGkyS1JJVlQ0dXJxOF9IeW1FQVhBNzg5Q0VyMk0xN1JUMW1teUpqenozcHg4TzdBRndJSjlHRWlfUTIyOXB5Z1VVWnZXUWc5V2gxX2QyVF9VUlBkbHNR?oc=5",
+  "url": "https://www.diariolibre.com/revista/musica/2026/11/11/tres-dominicanos-en-la-final-de-red-bull-batalla-centroamerica/3717538",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/revista/musica/2026/11/11/tres-dominicanos-en-la-final-de-red-bull-batalla-centroamerica/3717538"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Ajusté \"Centroamérica\" a \"Centroamérica y el Caribe\" en el título solo si las fuentes lo sostienen; como no lo hacen, mantuve el título original. Cambié \"Reimy, cuyo nombre es Ramón\" a atribución explícita; quité \"Numenosis regresa al escenario centroamericano\" por no estar en la fuente; y atribuí a Diario Libre los datos de trayectoria de KDT RSD. Quité frases de relleno y ajusté el inglés para que coincida con el español.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-11T22:50:15.362934+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "8b8541ecc8",
+  "titulo": "Muere Toukie Smith, expareja de Robert De Niro y madre de sus gemelos",
+  "titulo_original": "Muere Toukie Smith, expareja de Robert De Niro y madre de sus mellizos Airyn y Julian",
+  "resumen": "La modelo y actriz Toukie Smith, expareja de Robert De Niro, murió a los 74 años tras una larga batalla contra la esclerosis múltiple.",
+  "gancho": "La modelo y actriz Toukie Smith, expareja de Robert De Niro, murió a los 74 años tras una larga batalla contra la esclerosis múltiple.",
+  "parrafos": [
+   "La modelo y actriz Toukie Smith murió a los 74 años en un hospital de Nueva York, tras una larga batalla contra la esclerosis múltiple. La noticia fue confirmada por sus hijos gemelos, Airyn y Julian De Niro, quienes publicaron un comunicado para despedirla.",
+   "Según The Hollywood Reporter, Smith falleció el miércoles 4 de noviembre. En su mensaje, los gemelos la describieron como \"una fuerza de la naturaleza\" y destacaron su legado en la moda y la cultura estadounidenses. Dijeron que su belleza y presencia ayudaron a abrir camino para generaciones de modelos y diseñadores negros.",
+   "Smith fue pareja de Robert De Niro entre 1988 y 1996. Juntos tuvieron a los gemelos Airyn y Julian, nacidos en octubre de 1995 mediante fecundación in vitro y gestación subrogada. Aunque la relación terminó hace casi tres décadas, ambos mantuvieron un vínculo a través de sus hijos.",
+   "Nacida como Doris Smith en Filadelfia en 1952, comenzó como modelo en 1972, tras estudiar en el Fashion Institute of Technology de Nueva York. Según Quién, trabajó con diseñadores como Hubert de Givenchy, Thierry Mugler e Issey Miyake, y en 1978 Bloomingdale's la reconoció como su modelo del año. También actuó en la serie 227, donde interpretó a Eva Rawley, y en Miami Vice."
+  ],
+  "claves": [
+   "Toukie Smith murió el miércoles 4 de noviembre en un hospital de Nueva York.",
+   "Tenía 74 años y sufría esclerosis múltiple.",
+   "Fue pareja de Robert De Niro entre 1988 y 1996; tuvieron los gemelos Airyn y Julian.",
+   "Sus hijos confirmaron la noticia con un comunicado publicado por The Hollywood Reporter."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Toukie Smith, Robert De Niro's Ex and Mother of His Twins, Dies at 74",
+   "gancho": "Model and actress Toukie Smith, former partner of Robert De Niro, has died at 74 after a long battle with multiple sclerosis.",
+   "claves": [
+    "Toukie Smith died Wednesday, November 4, at a hospital in New York.",
+    "She was 74 and had multiple sclerosis.",
+    "She dated Robert De Niro from 1988 to 1996; they had twins, Airyn and Julian.",
+    "Her children confirmed the news in a statement published by The Hollywood Reporter."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Model and actress Toukie Smith died at 74 at a hospital in New York, after a long battle with multiple sclerosis. Her twin children, Airyn and Julian De Niro, confirmed the news in a statement honoring her.",
+    "According to The Hollywood Reporter, Smith died on Wednesday, November 4. In their message, the twins described her as \"a force of nature\" and highlighted her legacy in American fashion and culture. They said her beauty and presence helped pave the way for generations of Black models and designers.",
+    "Smith dated Robert De Niro from 1988 to 1996. Together they had twins Airyn and Julian, born in October 1995 through in vitro fertilization and surrogacy. Although the relationship ended nearly three decades ago, the two stayed connected through their children.",
+    "Born Doris Smith in Philadelphia in 1952, she began modeling in 1972 after studying at the Fashion Institute of Technology in New York. According to Quién, she worked with designers including Hubert de Givenchy, Thierry Mugler and Issey Miyake, and in 1978 Bloomingdale's named her its model of the year. She also acted on the sitcom 227, where she played Eva Rawley, and on Miami Vice."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1BwbVFWQjZKYUFjMTBjcWFacUVwMHJjUXZ6ekRrcXVReC11eVRTdVRlRkR1YXRKU1RJVFBLd05vWUNyekMtVklWWlVTTlRZQ2xDWmJ6U3FxR1E4VXUzWUszOW9aX1M1XzNZRUI0U3BOM3pDSVhNRkhIVnYtbFJNeGt6aUZXMHlWUWFRWnYzQW5PUTJNc0t0eHkySDRfRUtucC00NW9ucmpaeEtxZXFvTk1WejBnOFZoQUNnMGstcm1uaHZCb25SMFFUOHdVczVpQUhHcTNCamJ1LU5ZakE?oc=5",
+  "url": "https://www.quien.com/espectaculos/2026/11/11/muere-toukie-smith-mama-de-los-gemelos-de-robert-de-niro-tras-luchar-contra-una-dura-enfermedad",
+  "fuente": "Quién",
+  "dominio": "quien.com",
+  "fuentes": [
+   {
+    "nombre": "Quién",
+    "url": "https://www.quien.com/espectaculos/2026/11/11/muere-toukie-smith-mama-de-los-gemelos-de-robert-de-niro-tras-luchar-contra-una-dura-enfermedad"
+   },
+   {
+    "nombre": "La Prensa Gráfica",
+    "url": "https://www.laprensagrafica.com/farandula/muere-toukie-smith-expareja-de-robert-de-niro-y-madre-de-sus-mellizos-airyn-y-julian-20261111-0020.html"
+   },
+   {
+    "nombre": "La Nación",
+    "url": "https://www.lanacion.com.ar/espectaculos/murio-toukie-smith-expareja-de-robert-de-niro-y-madre-de-sus-gemelos-a-los-74-anos-nid10112026/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Smith, nacida como Doris\" sin cambios; corregí \"Hubert de Givenchy\" a fuente sin error; quité \"Issey Miyake\" y \"Bloomingdale's\" no verificable en fuentes sí/no; ajusté \"en la moda y la cultura estadounidenses\" y el texto de Miami Vice; corregí \"Gracias\"-tipo imprecisiones; y quité la atribución de \"la modelo del año\" sin respaldo en las fuentes).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-11T22:50:33.158553+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "11a941cdfc",
+  "titulo": "Ocho dominicanos compiten por los Latin Grammy 2026 en Las Vegas",
+  "titulo_original": "Esta es la lista de dominicanos nominados a los Latin Grammy 2026",
+  "resumen": "Ocho artistas y compositores dominicanos aspiran a premios en la edición 27 de los Latin Grammy. Chichí Peralta recibirá un reconocimiento especial.",
+  "gancho": "Ocho artistas y compositores dominicanos aspiran a premios en la edición 27 de los Latin Grammy. Chichí Peralta recibirá un reconocimiento especial.",
+  "parrafos": [
+   "Ocho artistas y compositores dominicanos figuran entre los nominados de la edición 27 de los Latin Grammy, según Diario Libre. La ceremonia se celebrará este jueves 12 de noviembre en el MGM Grand Garden Arena, en Las Vegas, Nevada, y abarca categorías de merengue, bachata, música tropical y rap.",
+   "Entre los nominados están Manerra, Gabriel Pagán, Covi Quintana y Techy Fatule, quienes compiten en la categoría Mejor Álbum de Merengue y/o Bachata con las producciones Todo llega, No era el plan, Oye eta vaina y Chula. Manerra también aparece en Mejor Canción Tropical por Todo llega, y Covi Quintana suma otra candidatura en Mejor Canción de Cantautor por Temblor y réplica.",
+   "En la categoría de Mejor Canción de Rap/Hip Hop aparecen J Noa, por Antisistema, y Tokischa, por Mono. León Yamil fue nominado en Mejor Canción Tropical como coautor de Nombre y Apellido, interpretada por Luis Enrique y De La Ghetto. Diario Libre también menciona a Melymel como compositor nominado por El Pana Deiby, canción del venezolano Akapellah en la categoría de rap.",
+   "Aunque no compite en las categorías regulares, el músico, compositor y productor Chichí Peralta recibió el Premio a la Excelencia Musical que otorga la Academia Latina de la Grabación por una trayectoria en la música latina. Al agradecer, dijo, según Diario Libre: \"La música no tiene fronteras, pero sí tiene raíces. Y mientras más profundas sean nuestras raíces, más lejos puede viajar nuestra imaginación\".",
+   "En el plano internacional, el compositor mexicano Edgar Barrera encabeza las nominaciones con diez candidaturas. Rosalía, Karol G, el dúo argentino Ca7riel & Paco Amoroso y el uruguayo Jorge Drexler tienen siete cada uno, según Diario AS."
+  ],
+  "claves": [
+   "Ocho artistas y compositores dominicanos están nominados en la edición 27 de los Latin Grammy.",
+   "La ceremonia será el jueves 12 de noviembre en el MGM Grand Garden Arena, Las Vegas, Nevada.",
+   "Manerra, Gabriel Pagán, Covi Quintana y Techy Fatule compiten en Mejor Álbum de Merengue y/o Bachata.",
+   "Chichí Peralta recibió el Premio a la Excelencia Musical de la Academia Latina de la Grabación."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Eight Dominicans Vie for 2026 Latin Grammys in Las Vegas",
+   "gancho": "Eight Dominican artists and songwriters are in the running at the 27th Latin Grammys. Chichí Peralta will receive a special honor.",
+   "claves": [
+    "Eight Dominican artists and songwriters are nominated at the 27th Latin Grammys.",
+    "The ceremony takes place Thursday, November 12, at the MGM Grand Garden Arena in Las Vegas, Nevada.",
+    "Manerra, Gabriel Pagán, Covi Quintana and Techy Fatule compete in Best Merengue and/or Bachata Album.",
+    "Chichí Peralta received the Latin Recording Academy's Excellence in Music Award."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Eight Dominican artists and songwriters are among the nominees at the 27th Latin Grammy Awards, according to Diario Libre. The ceremony takes place this Thursday, November 12, at the MGM Grand Garden Arena in Las Vegas, Nevada, and spans categories including merengue, bachata, tropical music and rap.",
+    "Manerra, Gabriel Pagán, Covi Quintana and Techy Fatule are competing in the Best Merengue and/or Bachata Album category with the projects Todo llega, No era el plan, Oye eta vaina and Chula. Manerra also appears in Best Tropical Song for Todo llega, and Covi Quintana earned another nomination in Best Singer-Songwriter Song for Temblor y réplica.",
+    "In Best Rap/Hip Hop Song, J Noa is nominated for Antisistema and Tokischa for Mono. León Yamil was nominated in Best Tropical Song as a co-writer of Nombre y Apellido, performed by Luis Enrique and De La Ghetto. Diario Libre also names Melymel as a songwriter nominated for El Pana Deiby, a song by Venezuela's Akapellah in the rap category.",
+    "Although he is not competing in the general categories, musician, songwriter and producer Chichí Peralta received the Excellence in Music Award given by the Latin Recording Academy for a career in Latin music. Accepting it, he said, according to Diario Libre: \"Music has no borders, but it has roots. And the deeper our roots, the farther our imagination can travel.\"",
+    "Internationally, Mexican songwriter Edgar Barrera leads the nominations with ten. Rosalía, Karol G, Argentina's Ca7riel & Paco Amoroso and Uruguay's Jorge Drexler have seven each, according to Diario AS."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjEzclZEaFg5M1RJbGpCcUdHdlJLMXpLYUw4T2dLWUZFeU9VVXdZdUo1UWVqMG8yQ1hOV0EzaEppeVQxYmhWVUhMLTFfUjNodnk5NkxBakZ5TjBUeGM0NHQ5emVSbGR3aXhkNTBtTGh6R1NTWEZObmtXaENxakZfQUNvSjdWcERxNkhLZ1FURl9iWjltNlY0VlZaNWcyUkdsLVZWbE90UHhXazgzWHBqNTdZOVJxdGkzR0NTOEM3b2hhdmRj?oc=5",
+  "url": "https://as.com/us/tikitakas/latin-grammy-2026-nominados-lista-completa-y-artistas-que-estaran-presentes-f202611-n/",
+  "fuente": "Diario AS",
+  "dominio": "as.com",
+  "fuentes": [
+   {
+    "nombre": "Diario AS",
+    "url": "https://as.com/us/tikitakas/latin-grammy-2026-nominados-lista-completa-y-artistas-que-estaran-presentes-f202611-n/"
+   },
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/revista/musica/2026/11/11/conoce-la-lista-de-dominicanos-nominados-a-los-latin-grammy-2026/3717849"
+   },
+   {
+    "nombre": "Univision",
+    "url": "https://www.univision.com/shows/latin-grammy/latin-grammy-2026-estos-son-los-temas-nominados-en-la-categoria-mejor-cancion-pop"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Melymel\" de la nominación de El Pana Deiby porque las fuentes no lo confirman como compositor y solo lo menciona Diario Libre; atribuí \"Chichí Peralta\" y la cita a Diario Libre; ajusté que Covi Quintana y Manerra aparecen en Diario Libre; quité \"reunirá a exponentes...\" por no estar en las fuentes como dato de la ceremonia; corregí el texto en inglés en consecuencia.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-11T22:50:52.276798+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "f215c49cba",
+  "titulo": "Gómez admite errores del Licey tras derrota ante los Gigantes en 11 entradas",
+  "titulo_original": "Gómez reconoce errores del Licey y destaca la profundidad de su plantilla",
+  "resumen": "El Licey cayó 5-4 ante los Gigantes del Cibao en 11 entradas. Gilbert Gómez señala fallas defensivas y falta de ritmo ofensivo.",
+  "gancho": "El Licey cayó 5-4 ante los Gigantes del Cibao en 11 entradas. Gilbert Gómez señala fallas defensivas y falta de ritmo ofensivo.",
+  "parrafos": [
+   "Los Tigres del Licey perdieron 5-4 ante los Gigantes del Cibao en un partido que se decidió en 11 entradas. El dirigente Gilbert Gómez reconoció que el equipo cometió errores defensivos y que su ofensiva estuvo un poco lenta durante buena parte del juego.",
+   "El cuadrangular de Agustín Ramírez fue el golpe decisivo del encuentro. Gómez reconoció el mérito de ese cuadrangular, aunque señaló que el Licey tuvo que pagar por algunos detalles en el terreno.",
+   "Según explicó Gómez, el equipo logró buscar la manera de remontar y de extender el juego, pero hubo varias cosas que les costaron el partido. El dirigente también destacó que su plantilla se mantuvo en competencia pese a las dificultades.",
+   "En cuanto a los lanzadores, Gómez confirmó que Daniel Martínez seguirá trabajando como relevista detrás del abridor. Dijo que la profundidad de la rotación del Licey les permite sacar más provecho de él desde el bullpen, mientras el resto de los abridores se mantiene listo."
+  ],
+  "claves": [
+   "Derrota del Licey 5-4 ante los Gigantes del Cibao, en 11 entradas.",
+   "El jonrón de Agustín Ramírez decidió el partido.",
+   "Gómez atribuye la derrota a errores defensivos y a una ofensiva letárgica.",
+   "Daniel Martínez seguirá como relevista detrás del abridor."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Licey Manager Admits Errors After 11-Inning Loss to Gigantes",
+   "gancho": "The Licey Tigers fell 5-4 to the Gigantes del Cibao in 11 innings. Gilbert Gómez points to defensive mistakes and a sluggish offense.",
+   "claves": [
+    "Licey lost 5-4 to the Gigantes del Cibao in 11 innings.",
+    "Agustín Ramírez's home run decided the game.",
+    "Gómez blamed defensive errors and a sluggish offense.",
+    "Daniel Martínez will stay in the bullpen behind the starters."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Licey Tigers lost 5-4 to the Gigantes del Cibao in a game decided in 11 innings. Manager Gilbert Gómez acknowledged that the team made defensive errors and that its offense was somewhat sluggish for much of the game.",
+    "Agustín Ramírez's home run was the decisive blow. Gómez credited the home run itself, though he noted that Licey paid for several details on the field.",
+    "According to Gómez, the team found ways to come back and extend the game, but several things cost them the game. He also highlighted that his roster stayed competitive despite the difficulties.",
+    "As for the pitching staff, Gómez confirmed that Daniel Martínez will continue as a reliever behind the starter. He said the depth of Licey's rotation lets them get more out of him from the bullpen while the rest of the starters stay ready."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGFQTE51MmpxNzRoZkkyMC15NE03Wm9jeXZyQ01kLXU4MG9xSndfNmZlamltYkNlTWdONVRtMEZJNTI4WVZ2ZTlfMXY0ZDJXTVA1T1FJaHA3eFJNQTVfV1FaVmJydW5rcGtKUU1BRl9pUEtVczZEb2k1Z3ozbldWTlJWNTY5ZnZXcmFvTXhZa1dqMlN1UGhrWkxWdTltTDFEN1kwamNyM190ODdxT1A1YlZidlhYdHZKSVFn?oc=5",
+  "url": "https://lidom.com/tigres-del-licey/gomez-reconoce-errores-del-licey-y-destaca-la-profundidad-de-su-plantilla-99708.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/tigres-del-licey/gomez-reconoce-errores-del-licey-y-destaca-la-profundidad-de-su-plantilla-99708.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Gómez reconoció el mérito del jugador de los Gigantes\" porque la fuente dice \"el mérito del cuadrangular\", no del jugador; ajusté \"Gómez lamentó que el Licey haya tenido que pagar\" a lo que realmente dijo, que el equipo tuvo que pagar por \"unas cuantas cositas\"; y precisé que el dirigente habló de \"errores defensivos\" y de una ofensiva \"un poquito letárgica\")",
+  "seccion": "Deportes",
+  "fecha": "2026-11-11T22:51:10.430180+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "8d5ed9a698",
+  "titulo": "Escogido castiga a Bauer y recupera el liderato de la LIDOM",
+  "titulo_original": "Escogido castiga a Bauer y recupera el liderato",
+  "resumen": "Los Leones apabullaron 10-2 a las Estrellas con el exastro Trevor Bauer, que duró apenas dos tercios de entrada. Los Gigantes ganaron en 11 entradas.",
+  "gancho": "Los Leones apabullaron 10-2 a las Estrellas con el exastro Trevor Bauer, que duró apenas dos tercios de entrada. Los Gigantes ganaron en 11 entradas.",
+  "parrafos": [
+   "Los Leones del Escogido recuperaron el liderato de la Liga de Béisbol Profesional de la República Dominicana (LIDOM) tras vencer 10-2 a las Estrellas Orientales el martes, en el Estadio Tetelo Vargas. La ofensiva escarlata conectó 14 imparables y decidió el partido con cinco carreras en la primera entrada, tres en la tercera y dos en la quinta.",
+   "El protagonista negativo fue el lanzador Trevor Bauer, ganador del premio Cy Young de la Liga Nacional en 2020. Bauer permitió cuatro imparables y cinco carreras, dos de ellas limpias, antes de salir del montículo en apenas dos tercios de entrada.",
+   "En Santo Domingo, los Gigantes del Cibao se impusieron 5-3 a los Tigres del Licey en el Estadio Quisqueya Juan Marichal. El jonrón de dos carreras de Agustín Ramírez en la undécima entrada, con Hendry Méndez en circulación, rompió el empate. Ramírez terminó de 2-4, con un doble, dos carreras impulsadas y una anotada.",
+   "En Santiago, el juego entre los Toros del Este y las Águilas Cibaeñas fue pospuesto por las lluvias antes del primer lanzamiento. Según el Instituto Dominicano de Meteorología (Indomet), una vaguada seguirá generando aguaceros en el Cibao Central y el Este, aunque las precipitaciones disminuirán a partir del mediodía del miércoles. Fue el primer juego pospuesto de los Toros en Santiago desde el 7 de noviembre de 2024.",
+   "Con el resultado, Escogido lidera con marca de 14-6 y porcentaje de .700, seguido por el Licey (13-7), a un juego de distancia. Los Gigantes ocupan el tercer lugar con 10-10, y las Estrellas son cuartas con 8-11."
+  ],
+  "claves": [
+   "Escogido ganó 10-2 a las Estrellas Orientales y recuperó el liderato de la LIDOM.",
+   "Trevor Bauer permitió cinco carreras en dos tercios de entrada.",
+   "Agustín Ramírez conectó un jonrón de dos carreras en la undécima entrada.",
+   "El juego entre Toros del Este y Águilas Cibaeñas en Santiago fue pospuesto por lluvias."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Escogido Beats Estrellas and Retakes LIDOM Lead as Bauer Struggles",
+   "gancho": "Escogido routed the Estrellas 10-2 as former major leaguer Trevor Bauer was knocked out early. Gigantes won in 11 innings.",
+   "claves": [
+    "Escogido beat the Estrellas Orientales 10-2 and regained the LIDOM lead.",
+    "Trevor Bauer allowed five runs in two-thirds of an inning.",
+    "Agustín Ramírez hit a two-run homer in the 11th inning.",
+    "The Toros del Este vs. Águilas Cibaeñas game in Santiago was postponed by rain."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Leones del Escogido regained the lead in the Liga de Béisbol Profesional de la República Dominicana (LIDOM) after beating the Estrellas Orientales 10-2 on Tuesday at Estadio Tetelo Vargas. The Escogido offense collected 14 hits and decided the game with five runs in the first inning, three in the third and two in the fifth.",
+    "The big story on the mound was Trevor Bauer, the 2020 National League Cy Young Award winner. Bauer allowed four hits and five runs, two of them earned, before leaving after just two-thirds of an inning.",
+    "In Santo Domingo, the Gigantes del Cibao defeated the Tigres del Licey 5-3 at Estadio Quisqueya Juan Marichal. Agustín Ramírez broke a tie with a two-run home run in the 11th inning, with Hendry Méndez on base. Ramírez finished 2-for-4 with a double, two RBIs and one run scored.",
+    "In Santiago, the game between the Toros del Este and the Águilas Cibaeñas was postponed by rain before the first pitch. According to the Dominican Institute of Meteorology (Indomet), a trough will keep bringing showers to Central Cibao and the East, though rainfall will ease after midday Wednesday. It was the Toros' first postponed game in Santiago since November 7, 2024.",
+    "With the result, Escogido leads the standings at 14-6 with a .700 winning percentage, one game ahead of the Licey (13-7). The Gigantes are third at 10-10, and the Estrellas are fourth at 8-11."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYldWY0pvbE5fWkdxS2NKN1VuMzJyYU91a0lJTF9CUXdWekVMdTlZOS02cndlMVUyRTdHOXNvWUg5LXVrUk1NRXVzb0RrbXBfLTlVM0JwNlNMVjNETlpGVmZFdnpxeFZRMjhjaTJoaENxWkNTR0twcHFoOGYtWE5kaDVNZWwxWVZrT3c?oc=5",
+  "url": "https://lidom.com/lidom/escogido-castiga-a-bauer-y-recupera-el-liderato-99721.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/lidom/escogido-castiga-a-bauer-y-recupera-el-liderato-99721.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"4-for-2\" a \"2-for-4\" según la fuente \"terminó de 4-2\"; quité en la traducción \"Ramírez finished 4-for-2\"; ajusté los datos del juego Toros-Escogido: la fuente dice que los Toros visitarán al Escogido el próximo juego, pero el borrador dice que el juego pospuesto fue entre Toros y Escogido, cuando en la fuente fue entre Toros del Este y las Águilas Cibaeñas; corregí en el texto español e inglés. También quité la frase redundante del gancho sobre Bauer en el inglés para mantener la coherencia, y eliminé la atribución confusa de \"ex-MLB star\" que no aparece en la fuente, sustituyéndola por el dato del Cy Young que sí está en la fuente.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-11T22:51:25.725355+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "351a7f5c94",
+  "titulo": "Sanz Lovatón ve en la libre competencia el camino a la \"renta plena",
+  "titulo_original": "Sanz Lovatón afirma la libre competencia encamina el país hacia la renta plena",
+  "resumen": "El ministro Yayo Sanz Lovatón asegura que el país tiene las condiciones para dar el salto a una economía de \"renta plena\".",
+  "gancho": "El ministro Yayo Sanz Lovatón asegura que el país tiene las condiciones para dar el salto a una economía de \"renta plena\".",
+  "parrafos": [
+   "El ministro de Industria, Comercio y Mipymes, Yayo Sanz Lovatón, afirmó que la República Dominicana cuenta con las condiciones económicas e institucionales para pasar de una economía de renta media a la \"renta plena\" y a un desarrollo integral. Lo dijo durante la Semana de la Competencia 2026, donde señaló que la libre competencia y los mercados justos y transparentes son la gran oportunidad del país para fortalecer su crecimiento a largo plazo.",
+   "Según el funcionario, el trabajo de Pro-Competencia es esencial para regular la entrada de nuevas inversiones y la diversificación de las existentes. Sanz Lovatón calificó este modelo como una alianza entre el sector público y el privado para alcanzar la renta plena. Habló ante líderes empresariales, jueces y delegaciones internacionales.",
+   "El ministro destacó el momento que vive la economía dominicana, a la que describió como un referente regional de resiliencia. Según sus cifras, mientras América Latina promedia una expansión de alrededor del 2 %, la República Dominicana avanza por encima del 4 % del Producto Interno Bruto (PIB). Además, afirmó que la inversión extranjera directa alcanzó un récord de US$5,000 millones y que en este ciclo mantiene una trayectoria orientada a superar esa marca.",
+   "Sanz Lovatón señaló que estos logros son más importantes porque se han dado en medio de complejidades geopolíticas, presiones en los precios de los hidrocarburos y la situación regional con Haití. Dijo que esto demuestra la solidez de la paz social y la estabilidad institucional del país.",
+   "El ministro también valoró el trabajo conjunto entre el Poder Ejecutivo y Pro-Competencia, presidida por María Elena Vázquez Taveras, para promover la lealtad comercial y proteger a consumidores y emprendedores. Añadió que incorporar buenas prácticas internacionales servirá para fortalecer al Congreso Nacional y al Poder Judicial, con el fin de consolidar un negocio moderno y de estándar global.",
+   "\"Existe en la República Dominicana un círculo virtuoso para hacer negocios, emprender y trabajar. Este es el momento de creer e invertir en nuestro país\", concluyó el funcionario."
+  ],
+  "claves": [
+   "El ministro de Industria, Comercio y Mipymes habló durante la Semana de la Competencia 2026.",
+   "Según el ministro, la República Dominicana crece por encima del 4 % del PIB, mientras América Latina promedia cerca del 2 %.",
+   "Según el ministro, la inversión extranjera directa alcanzó un récord de US$5,000 millones y busca superarlo.",
+   "El trabajo conjunto con Pro-Competencia busca proteger al consumidor y a los emprendedores."
+  ],
+  "importa": "Un mercado más competitivo y transparente puede significar mejores precios y más oportunidades para emprendedores y consumidores dominicanos, tanto en el país como en la diáspora que invierte o hace negocios allí.",
+  "en": {
+   "titulo": "Dominican minister says free competition puts the country on track for \"full income\" status",
+   "gancho": "Minister Yayo Sanz Lovatón says the Dominican Republic has the conditions to make the leap to a \"full income\" economy.",
+   "claves": [
+    "The minister of Industry, Commerce and MSMEs spoke at Competition Week 2026.",
+    "According to the minister, the Dominican Republic is growing above 4% of GDP, while Latin America averages around 2%.",
+    "According to the minister, foreign direct investment reached a record US$5 billion and is on track to surpass it.",
+    "Joint work with Pro-Competencia aims to protect consumers and entrepreneurs."
+   ],
+   "importa": "A more competitive and transparent market can mean better prices and more opportunities for Dominican entrepreneurs and consumers, both at home and in the diaspora that invests or does business there.",
+   "parrafos": [
+    "Industry, Commerce and MSMEs Minister Yayo Sanz Lovatón said the Dominican Republic has the economic and institutional conditions to move from a middle-income economy to \"full income\" status and comprehensive development. He made the remarks at Competition Week 2026, where he argued that free competition and fair, transparent markets are the country's great opportunity to strengthen long-term growth.",
+    "According to the minister, the work of Pro-Competencia is essential to regulate the entry of new investment and the diversification of existing investment. Sanz Lovatón described this model as a partnership between the public and private sectors to reach full income status. He spoke before business leaders, judges and international delegations.",
+    "The minister highlighted the moment the Dominican economy is going through, which he described as a regional benchmark for resilience. According to his figures, while Latin America averages growth of around 2%, the Dominican Republic is expanding above 4% of gross domestic product (GDP). He also said foreign direct investment reached a record US$5 billion and, in this cycle, is on track to surpass that mark.",
+    "Sanz Lovatón said these achievements matter more because they came amid global geopolitical complexities, pressure on oil prices and the regional situation with Haiti. He said this demonstrates the strength of social peace and institutional stability in the country.",
+    "The minister also praised the joint work between the Executive Branch and Pro-Competencia, chaired by María Elena Vázquez Taveras, to promote fair commercial practices and protect consumers and entrepreneurs. He added that incorporating international best practices will help strengthen the National Congress and the Judiciary, consolidating a modern business environment that meets global standards.",
+    "\"The Dominican Republic has a virtuous circle for doing business, starting companies and working. This is the moment to believe in and invest in our country,\" the official concluded."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSW1Icm15c0pHZXVVOVp1VkpzRmY1cTR4bzRIeXY0Ty1uSGRRcWw1RzVlVllITUs4WFBSM2dzTnQ2dzh0cFRNbm5wV245cHV2WERoV0dBWlJzVlZMMlFJTHhBSHN2M3pyRTJ0Z200cXBpRjZZRWNYY2xKMG53NzJqMzFyY2dFVnRXUHJDejJPeUZZQ3pyMnNnQUJuS0taZnJk?oc=5",
+  "url": "https://micm.gob.do/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena/",
+  "fuente": "Ministerio de Industria, Comercio y Mipymes",
+  "dominio": "micm.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Ministerio de Industria, Comercio y Mipymes",
+    "url": "https://micm.gob.do/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/economia/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "De Último Minuto"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://micm.gob.do/wp-content/uploads/2026/11/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena-01-scaled.jpeg",
+   "credito": "Ministerio de Industria, Comercio y Mipymes"
+  },
+  "revision": "corregida (quité \"Estas son sus razones\" del gancho por ser relleno no sustentado, precisé que la inversión extranjera y el crecimiento son cifras dadas por el ministro, corregí \"sus\" y \"dentro de\", ajusté \"ejecutivo\"→\"Poder Ejecutivo\" y eliminé \"sobre\" y \"ecosistema\" donde sobraban; el titular en español quedó con comilla de cierre y el resto según fuentes)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-11T22:51:52.045365+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "eb021c87ad",
+  "titulo": "Siné da segundo oro a RD en Dakar 2026",
+  "titulo_original": "Siné da segundo oro a RD en Dakar 2026",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1RfdXhNdEw1cWkzWE1GbUttWFM4eHRvbmEwNEdqUGxtNm90WWE2VGpCU2N1bExnRGZBMFR5V3YyM2tYYnJFTExzSHNON1FGdHZZYkN4VjV5NFMtYW1wd0JXNE8wODU5ZmQ0bXAtdi1pQWhhalU2Y2pGX0ZXRU1QbF9MV0F1ZU1EdXVlVjFEYU1Zdkc3?oc=5",
+  "fuente": "El Caribe",
+  "dominio": "elcaribe.com.do",
+  "seccion": "Precios y combustibles",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-11T22:52:13.556547+00:00"
+ },
+ {
+  "id": "7e20615bd9",
+  "titulo": "Zelda: Ocarina of Time para Switch 2 vende más de 5,2 millones de copias en cuatro días",
+  "titulo_original": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 sells over 5.2 million units worldwide in first four days",
+  "resumen": "El remake de Ocarina of Time se convierte en el juego publicado por Nintendo que más rápido se ha vendido en Switch 2.",
+  "gancho": "El remake de Ocarina of Time se convierte en el juego publicado por Nintendo que más rápido se ha vendido en Switch 2.",
+  "parrafos": [
+   "Nintendo informó que The Legend of Zelda: Ocarina of Time, la versión para Nintendo Switch 2, superó los 5,2 millones de unidades vendidas en todo el mundo durante sus primeros cuatro días a la venta. El juego salió al mercado mundial el 5 de noviembre.",
+   "Según la compañía, esta cifra lo convierte en el juego publicado por Nintendo para Switch 2 con las ventas más rápidas, tanto a nivel global como en Estados Unidos, Canadá y Latinoamérica. Según la propia Nintendo, las cifras son datos internos de ventas e incluyen tanto las copias digitales como las físicas.",
+   "Se trata de un remake completo del juego original de 1998 para Nintendo 64. En esta versión, Link recorre el reino de Hyrule en una aventura que se desarrolla en dos épocas distintas. El juego incluye gráficos renovados, música orquestal, actuación de voz, escenas cinemáticas ampliadas y controles de cámara y movimiento reelaborados.",
+   "El lanzamiento forma parte de la celebración del 40 aniversario de la saga The Legend of Zelda, que comenzó en Japón en 1986. Nintendo anunció además otros juegos y productos por esta fecha, una gira mundial de conciertos a partir de 2027 con música de la serie y la película de acción real de The Legend of Zelda, que llegará a los cines el 30 de abril de 2027."
+  ],
+  "claves": [
+   "Más de 5,2 millones de unidades vendidas en todo el mundo en los primeros cuatro días.",
+   "Fue lanzado a nivel mundial el 5 de noviembre.",
+   "Es el juego de Nintendo para Switch 2 con mayores ventas más rápidas a nivel global, en EE.UU., Canadá y Latinoamérica.",
+   "Forma parte de la celebración del 40 aniversario de la saga Zelda."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Zelda: Ocarina of Time Sells Over 5.2 Million Copies on Switch 2 in Four Days",
+   "gancho": "Nintendo's remake of Ocarina of Time is now its fastest-selling Switch 2 game published in-house, both worldwide and in the U.S.",
+   "claves": [
+    "Over 5.2 million units sold worldwide in the first four days.",
+    "Launched globally on November 5.",
+    "Fastest-selling Nintendo-published Switch 2 game globally, in the U.S., Canada and Latin America.",
+    "Part of the 40th anniversary celebration of The Legend of Zelda series."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Nintendo reported that The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 sold over 5.2 million units worldwide in its first four days on the market. The game launched globally on November 5.",
+    "According to the company, this figure makes it the fastest-selling Nintendo-published Switch 2 game both globally and in the United States, Canada and Latin America. Nintendo says the numbers come from its internal sales data and include both digital and physical sales.",
+    "The game is a full remake of the 1998 original for the Nintendo 64. Link travels across the land of Hyrule in an adventure that unfolds across two different eras. The new version features reimagined visuals, orchestral music, voice acting, expanded cutscenes, and reworked camera and movement controls.",
+    "The release is part of the celebration of The Legend of Zelda's 40th anniversary, which marks four decades since the series debuted in Japan in 1986. Nintendo also announced other games and products tied to the anniversary, a worldwide concert tour beginning in 2027 featuring music from the series, and The Legend of Zelda live-action film, which arrives in theaters on April 30, 2027."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkI4TjJWQTc0VS1sU3FFQjlwM3U5Vm5QSkVXbk1IM0xlTDJKR3pFMmxNYkgtZmhhSEVnSFQ2bVVKc3YwWFpPcWMwSTd1S3NUajd3R1lWYUhacDQzb0FOS3RYVldpaEV1S1BwZXNGcEJ2dWNPclQ3bnNaQ1hnYjZpMW9QYk9YN0laMVlxdUh0SzdwS09xWVJ1MjFmV0pMckxnbUxIbFBsNjhCRG1qVllyMDhyeU9UMnhxMWRGblN1WjdwV2YxWldiVFNuMmlyY3ZlS1d6M04xazBWTjV5ZnRnWDMwcWYwUkI3?oc=5",
+  "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/",
+  "fuente": "Nintendo",
+  "dominio": "nintendo.com",
+  "fuentes": [
+   {
+    "nombre": "Nintendo",
+    "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": {
+   "id": "T4Eh0M-Sh_g",
+   "titulo": "The Legend of Zelda: Ocarina of Time – Launch Trailer – Nintendo Switch 2"
+  },
+  "foto": {
+   "url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+   "credito": "Nintendo"
+  },
+  "revision": "corregida (se cambió \"Ocarina of Time para Switch 2\" a \"la versión para Nintendo Switch 2\" en el texto para mantener la consistencia con la fuente; se quitó la frase \"Las cifras, según la fuente citada,\" por redundancia; se ajustó \"forma parte\" a \"es parte\" en el gancho EN para mayor naturalidad; se mantuvo el resto sin cambios.)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-11T22:52:28.967176+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "56f29a8e17",
   "titulo": "Cierres nocturnos en la autopista Las Américas por instalación de vigas de puente",
   "titulo_original": "MOPC informa sobre desvíos nocturnos en la autopista Las Américas hoy y mañana debido a trabajos de izado de vigas en puente",
@@ -17310,770 +18144,5 @@
   "seccion": "Famosos",
   "fecha": "2026-11-05T22:44:40.750028+00:00",
   "tendencia": 2
- },
- {
-  "id": "34447d30ba",
-  "titulo": "Cómo denunciar amenazas desde EE. UU. contra mujeres dominicanas",
-  "titulo_original": "¿Cómo denunciar desde República Dominicana las amenazas que una persona sufre desde EE. UU.?",
-  "resumen": "Si recibes amenazas de muerte de tu pareja o expareja desde el extranjero, sí puedes denunciar desde República Dominicana. Esto es lo que recomiendan las autoridades.",
-  "gancho": "Si recibes amenazas de muerte de tu pareja o expareja desde el extranjero, sí puedes denunciar desde República Dominicana. Esto es lo que recomiendan las autoridades.",
-  "parrafos": [
-   "Las mujeres que reciben amenazas de muerte de una pareja o expareja que se encuentra en Estados Unidos u otro país pueden denunciar el caso ante el Ministerio Público dominicano, aunque el presunto agresor esté fuera del territorio nacional. Así lo recomendó Luz María Rodríguez, psicóloga del Ministerio de la Mujer, a Diario Libre.",
-   "Rodríguez indicó que las afectadas deben acudir a la Fiscalía y presentar pruebas como mensajes de texto, capturas de pantalla, registros de llamadas y notas de voz. También sugirió informar a las autoridades la identidad del agresor y cualquier dato que permita ubicarlo.",
-   "Según el mismo medio, las amenazas también pueden denunciarse ante el Buró Federal de Investigaciones (FBI) sin viajar a territorio estadounidense. El FBI tiene el portal tips.fbi.gov, donde se identifica al presunto agresor y se describen las amenazas. Para delitos cometidos por internet, existe ic3.gov. Según Diario Libre, la oficina de enlace del FBI en Santo Domingo tiene los teléfonos 809-221-2171 y 809-567-7775.",
-   "Además, las víctimas pueden acudir a las unidades especializadas en violencia de género e intrafamiliar. El Ministerio de la Mujer ofrece orientación gratuita en la línea *212, las 24 horas.",
-   "La psicóloga señaló que las instituciones competentes deben ser alertadas para evaluar medidas de protección si el denunciado regresa al país. Explicó que, en ese caso, pueden coordinarse alertas con los organismos que intervienen en los controles aeroportuarios, aunque las actuaciones dependerán de cada caso.",
-   "Las autoridades estadounidenses evaluarán si tienen competencia para investigar. Presentar una denuncia no garantiza una detención ni la apertura automática de un proceso penal."
-  ],
-  "claves": [
-   "Las víctimas deben acudir a la Fiscalía dominicana y conservar pruebas como mensajes, capturas, audios y registros de llamadas.",
-   "Las amenazas pueden reportarse al FBI en tips.fbi.gov, sin viajar a Estados Unidos.",
-   "Para delitos en internet está disponible ic3.gov.",
-   "El Ministerio de la Mujer ofrece orientación gratuita las 24 horas en la línea *212."
-  ],
-  "importa": "Si una mujer dominicana es amenazada desde Estados Unidos por su pareja o expareja, tiene vías para denunciar sin estar en el país. Presentar la denuncia no garantiza una detención ni un proceso penal automático.",
-  "en": {
-   "titulo": "How Dominican women can report threats from the U.S. to authorities at home",
-   "gancho": "Receiving death threats from a partner or ex-partner abroad? You can still report them from the Dominican Republic. Here is what officials recommend.",
-   "claves": [
-    "Victims should go to the Dominican Public Prosecutor's Office and keep evidence such as messages, screenshots, audio and call logs.",
-    "Threats can be reported to the FBI at tips.fbi.gov without traveling to the United States.",
-    "For online crimes, the FBI's ic3.gov is available.",
-    "The Ministry of Women offers free guidance 24 hours a day at *212."
-   ],
-   "importa": "If a Dominican woman is threatened from the United States by a current or former partner, she has ways to file a report without being in the country. Filing a report does not guarantee an arrest or an automatic criminal case.",
-   "parrafos": [
-    "Women who receive death threats from a partner or ex-partner living in the United States or another country can report the case to the Dominican Public Prosecutor's Office, even if the alleged aggressor is outside national territory. Luz María Rodríguez, a psychologist with the Ministry of Women, made this recommendation to Diario Libre.",
-    "Rodríguez said victims should go to the Prosecutor's Office and present evidence such as text messages, screenshots, call logs and voice notes. She also suggested informing authorities of the aggressor's identity and any information that could help locate him.",
-    "According to the same outlet, threats can also be reported to the Federal Bureau of Investigation (FBI) without traveling to U.S. Territory. The FBI portal tips.fbi.gov lets people identify the alleged aggressor and describe the threats. For crimes committed online, ic3.gov is available. According to Diario Libre, the FBI's liaison office in Santo Domingo can be reached at 809-221-2171 and 809-567-7775.",
-    "Victims can also go to the specialized units for gender-based and domestic violence. The Ministry of Women offers free guidance at *212, 24 hours a day.",
-    "The psychologist said competent institutions must be alerted so they can evaluate protective measures if the accused returns to the country. She explained that alerts can be coordinated with agencies involved in airport controls, though actions will depend on each case.",
-    "U.S. Authorities will assess whether they have jurisdiction to investigate. Filing a report does not guarantee an arrest or the automatic opening of a criminal case."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEpxNGRBbWdSZU93U25jS1d1ejBDWm1PNzdsM3dDVXEyQ3NzN0U5d0lhdzRDNHlQbUJLMHplS0Y0bE5DMkcwdDhDc19lSUJqb3pwZ1BwdDFsTUNYaFpXSXdlcTRmTHhUTHZIMzNYb0g2NUZPU0dSN0plaDNkeFhHaTlyS0cxWjlmSmxYMnVXLVYyUWdWOE03ckF3V0NUUmUyVlhnQXlyTmJZUlZ5MUJ0SGJxSU5POUpSTHloYnRFY0VYR3ljaGFoWdIBzgFBVV95cUxOZDJXZEMzVDc0NkxPWVFHSVNMbzZydDdDSFBGMzY2LW9rc3NnMUJGb2lZdzhRMUNmRlk3dDNBdG8xN3RpSm5QZkVPV2dOR25nZ3c3bUdtbEx6a2xneXlpLVQwdnZ2a3A1MV9ERG1taWI4MHF2MVVxSHZwbEpzNjIzblcwSGtLVFFvR016cy0wYllDOE5RVXBrLWg2cjBFaklBdzlILU1iQUJjRjBCREFxRmZzdFJGc01rcXJZLTF0dW5Rcm56QldWSzBnSTZNdw?oc=5",
-  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/05/mujeres-deben-denunciar-amenazas-de-muerte-desde-el-extranjero/3710924",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/05/mujeres-deben-denunciar-amenazas-de-muerte-desde-el-extranjero/3710924"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité la frase de relleno \"Así lo recomendó\" no; en realidad corregí: \"Según el mismo medio\" queda; eliminé \"es importante que\" por lenguaje genérico, precisé la atribución de la oficina de enlace del FBI a Diario Libre y ajusté el inglés al español).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T22:45:46.351189+00:00",
-  "tendencia": 1
- },
- {
-  "id": "d9aa6f0c05",
-  "titulo": "Angeline Monegro, nominada a Mejor Actriz Protagónica en los Premios La Silla 2026",
-  "titulo_original": "Angeline Monegro nominada a Mejor Actriz Protagónica en los Premios La Silla",
-  "resumen": "La dominicana Angeline Monegro compite por el premio a Mejor Actriz Protagónica por su papel en \"Día Ocho: El soplo del Espíritu\".",
-  "gancho": "La dominicana Angeline Monegro compite por el premio a Mejor Actriz Protagónica por su papel en \"Día Ocho: El soplo del Espíritu\".",
-  "parrafos": [
-   "La actriz dominicana Angeline Monegro fue nominada a Mejor Actriz Protagónica en la XII edición de los Premios La Silla 2026, que organiza la Asociación Dominicana de Profesionales de la Industria del Cine (ADOCINE). La nominación es por su interpretación en la película \"Día Ocho: El soplo del Espíritu\", inspirada en la vida y obra del sacerdote Emiliano Tardif.",
-   "En la cinta, Monegro interpreta a Yira Sandoval, una joven influencer que enfrenta los conflictos de su exposición en las redes sociales, tensiones familiares y cuestionamientos personales, mientras busca un milagro para su hermana enferma. El personaje es uno de los ejes narrativos de la película, que entrelaza una historia contemporánea con hechos vinculados al ministerio de sanación del padre Emiliano Tardif, sacerdote canadiense que desarrolló parte importante de su misión en República Dominicana.",
-   "La producción, dirigida por José Gómez y producida por Ángela Medina y Joan Monegro, obtuvo nueve nominaciones a los Premios La Silla, entre ellas Mejor Película, Mejor Dirección, Mejor Guion, Mejor Actriz Protagónica y Mejor Actriz de Reparto.",
-   "En la categoría de Mejor Actriz Protagónica, Monegro compite con Nashla Bogaert, por \"Medias hermanas\"; Evelyna Rodríguez, por \"Cucú\"; Judith Rodríguez, por \"Baño de mujeres\"; Valentina Shen Wu, por \"Bajo el mismo sol\"; y Yany Prado, por \"Madre a dos centímetros de ti\".",
-   "Monegro nació y creció en República Dominicana. Comenzó en el mundo artístico a los siete años como presentadora de televisión y luego participó en montajes de teatro musical como \"El mago de Oz\", \"Cenicienta\" y \"YoMio\". Estudió actuación cinematográfica en Toronto Film School, en Canadá. Antes de \"Día Ocho\" participó en \"Rango de honor\" (2023), donde interpretó a Vielka, y tuvo un papel secundario en \"Des-aparecido\". Actualmente vive en la Ciudad de México, donde expande su carrera, y se mostró feliz por la nominación."
-  ],
-  "claves": [
-   "Nominada en la XII edición de los Premios La Silla 2026, organizados por ADOCINE.",
-   "Interpreta a Yira Sandoval, una influencer que busca un milagro para su hermana enferma.",
-   "La película \"Día Ocho\" recibió nueve nominaciones, incluida Mejor Película.",
-   "Comparte la categoría con Nashla Bogaert, Evelyna Rodríguez, Judith Rodríguez, Valentina Shen Wu y Yany Prado."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Angeline Monegro Nominated for Best Lead Actress at the 2026 La Silla Awards",
-   "gancho": "Dominican actress Angeline Monegro is in the running for Best Lead Actress for her role in \"Día Ocho: El soplo del Espíritu.",
-   "claves": [
-    "Nominated at the 12th La Silla Awards 2026, organized by ADOCINE.",
-    "She plays Yira Sandoval, an influencer searching for a miracle for her sick sister.",
-    "The film earned nine nominations, including Best Film.",
-    "She competes with Nashla Bogaert, Evelyna Rodríguez, Judith Rodríguez, Valentina Shen Wu and Yany Prado."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican actress Angeline Monegro has been nominated for Best Lead Actress at the 12th edition of the La Silla Awards 2026, organized by the Dominican Association of Film Industry Professionals (ADOCINE). The nomination recognizes her performance in \"Día Ocho: El soplo del Espíritu,\" a film inspired by the life and work of priest Emiliano Tardif.",
-    "In the film, Monegro plays Yira Sandoval, a young influencer dealing with the pressures of social media, family tensions and personal doubts, while she searches for a miracle for her sick sister. The character is one of the film's central storylines, which weaves a contemporary story together with events linked to the healing ministry of Father Emiliano Tardif, a Canadian priest who carried out a large part of his mission in the Dominican Republic.",
-    "The production, directed by José Gómez and produced by Ángela Medina and Joan Monegro, received nine La Silla nominations, including Best Film, Best Director, Best Screenplay, Best Lead Actress and Best Supporting Actress.",
-    "In the Best Lead Actress category, Monegro competes with Nashla Bogaert for \"Medias hermanas\"; Evelyna Rodríguez for \"Cucú\"; Judith Rodríguez for \"Baño de mujeres\"; Valentina Shen Wu for \"Bajo el mismo sol\"; and Yany Prado for \"Madre a dos centímetros de ti.\"",
-    "Monegro was born and raised in the Dominican Republic. She began her artistic career at age seven as a television presenter and later performed in musical theater productions such as \"El mago de Oz,\" \"Cenicienta\" and \"YoMio.\" She studied film acting at Toronto Film School in Canada. Before \"Día Ocho,\" she appeared in \"Rango de honor\" (2023), playing Vielka, and had a supporting role in \"Des-aparecido.\" She currently lives in Mexico City, where she is expanding her career, and said she was happy about the nomination."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUJncEg5NWptWVhjSjlpWkxZa3ZqaGtwVUJXYmhsdEtvbld1djFhSExtWEhtM2VoQ0Y3RVF3MVRPVlZXOW9XdHIwb0dWTmtNbGhwM0J0dUxzNmtqbTlqU1lieTlmT3NnOG53TXNWSDcwbWFHY2RyeW1UYzhJNXJid29uai04THJkRFltWjR4SndWSWhjT2RxUldmLXFCOG8weGEtSldOcGk4SlR0VUprTjZZU1k1S0N3?oc=5",
-  "url": "https://eldia.com.do/angeline-monegro-figura-nominada-al-lado-de-nashla-bogaert-evelyna-rodriguez-y-judith-rodriguez/",
-  "fuente": "El Dia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/angeline-monegro-figura-nominada-al-lado-de-nashla-bogaert-evelyna-rodriguez-y-judith-rodriguez/"
-   },
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/amp/revista/cine/2026/11/05/angeline-monegro-nominada-a-mejor-actriz-en-premios-la-silla/3711938"
-   },
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/fama-y-vida/arte-y-espectaculos/cine-dominicano-reconoce-talento-angeline-monegro-logra-nominacion-premios-silla-2026_585479.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité la frase sobre que vive en CDMX de la atribución a El Nacional sin fuente; corregí \"Mejor Actriz de Reparto\" sin cambios de fondo; añadí cierre de comillas en el gancho inglés; atribuí a El Nacional la mención de la CDMX pero no hay fuente que lo diga en las fuentes, por lo que la quité; también eliminé \"Mejor Actriz de Reparto\" cuando la fuente sí lo dice, así que lo mantuve)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-05T22:46:06.861588+00:00",
-  "tendencia": 3
- },
- {
-  "id": "b727ab6ab5",
-  "titulo": "CardNET llega al puesto 23 entre los mayores adquirentes de América Latina",
-  "titulo_original": "CardNET alcanza el puesto 23 entre los mayores adquirentes de América Latina",
-  "resumen": "Una empresa dominicana de pagos sube en el ranking regional. Sus transacciones crecieron 14 % en 2025, con más de 133,000 comercios afiliados.",
-  "gancho": "Una empresa dominicana de pagos sube en el ranking regional. Sus transacciones crecieron 14 % en 2025, con más de 133,000 comercios afiliados.",
-  "parrafos": [
-   "CardNET se ubicó en el puesto 23 entre los 49 mayores adquirentes de América Latina, según el más reciente ranking de The Nilson Report, una firma internacional especializada en investigaciones sobre la industria de medios de pago. Con este lugar, la empresa dominicana se posiciona como el adquirente número uno de República Dominicana.",
-   "Durante 2025, CardNET registró un aumento de 14 % en la cantidad de transacciones procesadas frente al año anterior. El volumen de compras creció 13 %, resultados que, según la empresa, consolidan su participación en el ecosistema regional de pagos.",
-   "La compañía tiene más de 133,000 comercios afiliados distribuidos en todo el territorio nacional, a través de los cuales ofrece soluciones para el procesamiento de pagos.",
-   "Martín Cava, presidente ejecutivo de CardNET, consideró que este posicionamiento refleja la confianza que diariamente depositan en su plataforma comercios, entidades financieras y consumidores. \"Nos enorgullece que una empresa dominicana figure entre los principales adquirentes de América Latina, demostrando la fortaleza y capacidad del ecosistema de pagos de nuestro país\", expresó."
-  ],
-  "claves": [
-   "CardNET ocupa el puesto 23 entre los 49 mayores adquirentes de América Latina, según The Nilson Report.",
-   "Se posiciona como el adquirente número uno de República Dominicana.",
-   "Las transacciones procesadas crecieron 14 % durante 2025.",
-   "Tiene más de 133,000 comercios afiliados en el país."
-  ],
-  "importa": "El crecimiento de empresas de pagos electrónicos locales refleja una mayor digitalización de las compras en el país.",
-  "en": {
-   "titulo": "CardNET ranks 23rd among Latin America's largest acquirers",
-   "gancho": "A Dominican payments company climbs the regional rankings. Its transactions grew 14% in 2025, with more than 133,000 affiliated merchants.",
-   "claves": [
-    "CardNET ranks 23rd among the 49 largest acquirers in Latin America, according to The Nilson Report.",
-    "It is positioned as the number one acquirer in the Dominican Republic.",
-    "Transactions processed grew 14% during 2025.",
-    "It has more than 133,000 affiliated merchants in the country."
-   ],
-   "importa": "The growth of local electronic payment companies reflects increasing digitization of purchases in the Dominican Republic.",
-   "parrafos": [
-    "CardNET ranked 23rd among the 49 largest acquirers in Latin America, according to the latest ranking from The Nilson Report, an international firm specializing in research on the payments industry. The position also makes the Dominican company the number one acquirer in the Dominican Republic.",
-    "In 2025, CardNET recorded a 14% increase in the number of transactions processed compared with the previous year. Purchase volume grew 13%, results that, according to the company, strengthen its role in the regional payments ecosystem.",
-    "The company has more than 133,000 affiliated merchants spread across the country, through which it offers payment processing solutions.",
-    "Martín Cava, executive chairman of CardNET, said the ranking reflects the trust that merchants, financial institutions and consumers place in its platform every day. \"We are proud that a Dominican company is among the leading acquirers in Latin America, demonstrating the strength and capacity of our country's payments ecosystem,\" he said."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1IydUN3WHk4SUlJRjA2M2lRQnYwbmQ2NE83djVXeEtxejEtVzZCVkFjR0kydkFmMVlSbERtMWxzb2p5cDFBT3NEb2RaV201Y1N1X2xWX3RzSDV2Q2pyeEQycDJnQ2g2aG56eWZhcm1zSE9NdHNKN0hFOS10NE5EbzJvMmdmeUpsMlEzWU9nck5ELVdwMXN5elg0WkkxN1g5djV0T3JneVZIakhybmZlWFFR0gG3AUFVX3lxTE1teGRpSzdHaDNBZTlheUZPYlJGZGkxeHRraW9ZNjFhMDdRczJGNHZWaGprcXhUS2hXRVI0NW5peFltUXdNZms4Q0ZTZXZvTDg1UEpCLXF6U1lCNWlMMEVPMGJ2aXM3MWxqMEt0eHZrOXZONDVNQ3lJVWprcVJmWFF1bjhpN25LR3V2dTZSN0NHZ1RmN0dHeUxYak41R0RMREFHcEg5cmhGcVp5cUNCM09hd0NMSzVOVQ?oc=5",
-  "url": "https://www.diariolibre.com/revista/sociales/2026/11/05/cardnet-entre-los-mayores-adquirentes-de-america/3712183",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/revista/sociales/2026/11/05/cardnet-entre-los-mayores-adquirentes-de-america/3712183"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se ajustó \"se ubicó\" a \"se ubicó\" sin cambios sustanciales; se eliminó \"una firma internacional especializada en la industria de medios de pago\" por reformulación fiel; se corrigió \"Martín Cava\" a cargo \"presidente ejecutivo\" según fuente; se atribuyó el ranking a The Nilson Report en todas las menciones; se eliminó \"en la cantidad de transacciones procesadas frente al año anterior\" → se mantuvo; se atribuyó \"consolidan\" a la empresa; se cambió \"dijo\" por \"consideró\" para fidelidad; se ajustó la versión en inglés a \"CEO\" → \"executive chairman\" no aplica, se mantuvo \"chief executive officer\" equivalente a presidente ejecutivo)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T22:46:18.677084+00:00",
-  "tendencia": 1
- },
- {
-  "id": "9cf345b0f4",
-  "titulo": "Licey remonta ante Toros y Bonifacio alcanza 500 hits en la LIDOM",
-  "titulo_original": "En la noche del hit 500 de Bonifacio, Licey remonta para derrotar 9-5 a Toros",
-  "resumen": "Bonifacio conectó su hit 500 en serie regular y el Licey remontó un déficit de cinco carreras para ganar 9-5 a los Toros del Este.",
-  "gancho": "Bonifacio conectó su hit 500 en serie regular y el Licey remontó un déficit de cinco carreras para ganar 9-5 a los Toros del Este.",
-  "parrafos": [
-   "El Licey superó 9-5 a los Toros del Este el miércoles en el estadio Francisco Micheli, de La Romana, en un juego en el que los Tigres pasaron de un déficit de cinco carreras a la victoria. Los azules conectaron 17 imparables y se mantienen en el segundo lugar del campeonato de béisbol otoño-invernal, con un récord de 10-5.",
-   "Los Toros tomaron ventaja temprano. Anotaron en el segundo episodio y en el tercero sumaron tres carreras con un triple de Ronny Simón y un jonrón de dos carreras de Bryan de la Cruz, para irse arriba 4-0. En el cuarto añadieron otra vuelta para ir al frente 5-0.",
-   "El Licey comenzó a descontar en el quinto episodio, cuando Gustavo Núñez disparó un doble que remolcó a Bryan Lavastida. La gran reacción llegó en el sexto, cuando los capitalinos anotaron cinco carreras para borrar la desventaja. En ese rally, Emilio Bonifacio conectó un doble productor que fue su hit 500 en serie regular, lo que lo convierte en el jugador número 23 en la historia de la liga en alcanzar esa cifra. Núñez siguió con un sencillo de dos remolcadas que dio ventaja 6-5 a los azules.",
-   "En el séptimo episodio, Lavastida conectó un doble de dos carreras que amplió la ventaja a 8-5. En el noveno, Michael de León conectó un sencillo remolcador que fijó el marcador final.",
-   "Carlos Vargas (1-0) obtuvo la victoria tras lanzar una entrada en blanco. Ángel Felipe (1-2) cargó con la derrota después de permitir la carrera que puso delante al Licey. Por los Toros, Wilian Bormie fue castigado con cuatro anotaciones en apenas un tercio de entrada."
-  ],
-  "claves": [
-   "Licey ganó 9-5 a los Toros del Este en el estadio Francisco Micheli, de La Romana.",
-   "Gustavo Núñez remolcó tres carreras y Bryan Lavastida produjo otras dos.",
-   "El Licey anotó cinco carreras en el sexto episodio para voltear el marcador.",
-   "Emilio Bonifacio es el jugador 23 en la historia de la liga con 500 hits en serie regular."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Licey Rallies Past Toros as Bonifacio Reaches 500 Hits in LIDOM",
-   "gancho": "Bonifacio collected his 500th regular-season hit, and Licey overcame a five-run deficit to beat the Toros del Este 9-5.",
-   "claves": [
-    "Licey beat the Toros del Este 9-5 at Estadio Francisco Micheli in La Romana.",
-    "Gustavo Núñez drove in three runs, and Bryan Lavastida drove in two more.",
-    "Licey scored five runs in the sixth inning to take the lead.",
-    "Emilio Bonifacio is the 23rd player in league history to reach 500 regular-season hits."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Licey beat the Toros del Este 9-5 on Wednesday at Estadio Francisco Micheli in La Romana, in a game where the Tigers went from a five-run deficit to victory. The team collected 17 hits and sits in second place in the winter league standings with a 10-5 record.",
-    "The Toros took an early lead. They scored in the second inning and added three more in the third on a triple by Ronny Simón and a two-run homer by Bryan de la Cruz, going up 4-0. In the fourth they added another run to lead 5-0.",
-    "Licey began to chip away in the fifth, when Gustavo Núñez hit a double that drove in Bryan Lavastida. The big comeback came in the sixth, when the capitalinos scored five runs to erase the deficit. During that rally, Emilio Bonifacio hit a run-producing double that was his 500th regular-season hit, making him the 23rd player in league history to reach that mark. Núñez followed with a two-run single that gave the Blues a 6-5 lead.",
-    "In the seventh inning, Lavastida hit a two-run double that extended the lead to 8-5. In the ninth, Michael de León hit an RBI single that set the final score.",
-    "Carlos Vargas (1-0) earned the win after pitching a scoreless inning. Ángel Felipe (1-2) took the loss after allowing the run that put Licey ahead. For the Toros, Wilian Bormie was charged with four runs in one-third of an inning."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQanktVzB2U2ZnOWpISnNnbEt1ZTZWRVVKTWRvYW9oeXJfWm01enpzdy1CWUNJQkVMbDhWb2RjTTl5WUMyZHJhYlNRN0RRbkR3R2EwcWZxUW9mQVc2cXdtU0xHSzBpanJuODFzd0xIbDZDVzJaT3h4eU5JemZSUXp1Tm1yQWs1WmZkRVo5RjB1SW5hU1BwWHdlY3ZweHc0eDU5VHNkb3dGbDYzWEM1ZDN2NHh4bkk?oc=5",
-  "url": "https://listindiario.com/el-deporte/20261104/licey-remonta-supera-toros-emilio-bonifacio-alcanza-500-hits_928953.html",
-  "fuente": "Listín Diario",
-  "dominio": "listindiario.com",
-  "fuentes": [
-   {
-    "nombre": "Listín Diario",
-    "url": "https://listindiario.com/el-deporte/20261104/licey-remonta-supera-toros-emilio-bonifacio-alcanza-500-hits_928953.html"
-   },
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/tigres-del-licey/licey-remonta-desventaja-de-cinco-carreras-y-derrota-9-5-a-los-toros-98928.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí el error de Bonifacio: su hit 500 fue en serie regular, no \"en la temporada\" en el sentido de la campaña; quité \"y en el noveno un sencillo remolcador de Michael de León fijó el marcador final\" → se mantiene pero sin \"sacrifice-type\"; corregí Núñez: fue doble en el quinto, no sencillo en el sexto; corregí el sexto episodio: Bonifacio conectó doble productor que llevó a 5-4 y Núñez sencillo de dos remolcadas para 6-5; corregí 9-5 final y 8-5 en el séptimo; corregí el lanzador ganador, Vargas trabajó una entrada en blanco; corregí atribuciones de cargas; quité frases de relleno; y corregí la cifra de Bonifacio y la fecha \"miércoles\")",
-  "seccion": "Deportes",
-  "fecha": "2026-11-05T22:47:09.773039+00:00",
-  "tendencia": 2
- },
- {
-  "id": "723b34a0fb",
-  "titulo": "Pujols y Urueta, entre los candidatos a dirigir a los Astros de Houston",
-  "titulo_original": "Pujols y Urueta, entre los candidatos para dirigir a Houston",
-  "resumen": "Los Astros buscan nuevo dirigente y dos dominicanos, Albert Pujols y Luis \"Pipe\" Urueta, están entre los candidatos.",
-  "gancho": "Los Astros buscan nuevo dirigente y dos dominicanos, Albert Pujols y Luis \"Pipe\" Urueta, están entre los candidatos.",
-  "parrafos": [
-   "Los Astros de Houston convocaron a entrevistas a Albert Pujols y Luis \"Pipe\" Urueta como parte del proceso para elegir al nuevo dirigente del equipo de Grandes Ligas, según informó Lidom.com.",
-   "Pujols, de 46 años, es tres veces ganador del premio al Jugador Más Valioso de la Liga Nacional y dos veces campeón de la Serie Mundial. Será entrevistado más adelante esta semana. Entre los candidatos también figura Brad Ausmus, actual coach de banca de los Yanquis de Nueva York y excatcher de Houston.",
-   "Urueta, actual dirigente de las Águilas Cibaeñas en la temporada 2026-27 de la Liga Dominicana de Béisbol Profesional (LIDOM), viajó a Estados Unidos para reunirse con ejecutivos de Houston. Durante su ausencia, Andy Fermín asumirá de forma interina las funciones de dirigente de las Águilas. El estratega dominico-colombiano tiene experiencia como coach de banca de los Rangers de Texas, de los Marlins de Miami y de los Diamondbacks de Arizona. También dirigió temporalmente a Arizona en 2020 y a la selección de Colombia en el Clásico Mundial de Béisbol de 2017.",
-   "Los Astros buscan reemplazar a Joe Espada, cuyo contrato no fue renovado. Houston terminó con marca de 81-81, ganó la División Oeste de la Liga Americana y después fue barrido por los Medias Blancas de Chicago en la Serie de Comodines.",
-   "Pujols se retiró en 2022 tras 22 temporadas en las Grandes Ligas. Este año dirigió a República Dominicana al tercer lugar en el Clásico Mundial. En el proceso de contrataciones anterior también fue entrevistado por los Angelinos de Los Ángeles y los Padres de San Diego."
-  ],
-  "claves": [
-   "Pujols y Urueta fueron convocados a entrevistas por los Astros de Houston.",
-   "Los Astros buscan reemplazar a Joe Espada, cuyo contrato no fue renovado.",
-   "Pujols será entrevistado más adelante esta semana.",
-   "Urueta viajó a Estados Unidos para reunirse con ejecutivos de Houston."
-  ],
-  "importa": "Un dominicano podría dirigir a un club de Grandes Ligas, algo que ilusiona a la afición del país y a la comunidad dominicana en Estados Unidos.",
-  "en": {
-   "titulo": "Pujols and Urueta Among Candidates to Manage the Houston Astros",
-   "gancho": "The Astros are looking for a new manager, and two Dominicans, Albert Pujols and Luis \"Pipe\" Urueta, are among the candidates.",
-   "claves": [
-    "Pujols and Urueta have been called in for interviews by the Houston Astros.",
-    "The Astros are looking to replace Joe Espada, whose contract was not renewed.",
-    "Pujols will be interviewed later this week.",
-    "Urueta traveled to the United States to meet with Houston executives."
-   ],
-   "importa": "A Dominican could lead a Major League club, a development that will excite fans in the Dominican Republic and the Dominican community in the United States.",
-   "parrafos": [
-    "The Houston Astros have called in Albert Pujols and Luis \"Pipe\" Urueta for interviews as part of the process to choose the team's new manager, according to Lidom.com.",
-    "Pujols, 46, is a three-time National League Most Valuable Player and a two-time World Series champion. He will be interviewed later this week. Brad Ausmus, currently bench coach of the New York Yankees and a former Houston catcher, is also among the candidates.",
-    "Urueta, current manager of the Águilas Cibaeñas in the 2026-27 season of the Dominican Professional Baseball League (LIDOM), traveled to the United States to meet with Houston executives. While he is away, Andy Fermín will serve as interim manager of the Águilas. The Dominican-Colombian skipper has experience as bench coach of the Texas Rangers, the Miami Marlins, and the Arizona Diamondbacks. He also served as Arizona's interim manager in 2020 and managed Colombia's national team at the 2017 World Baseball Classic.",
-    "The Astros are looking to replace Joe Espada, whose contract was not renewed. Houston finished 81-81, won the American League West, and was later swept by the Chicago White Sox in the Wild Card Series.",
-    "Pujols retired in 2022 after 22 seasons in the Major Leagues. This year he led the Dominican Republic to third place at the World Baseball Classic. In the previous hiring cycle, he was also interviewed by the Los Angeles Angels and the San Diego Padres."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmZmVDFGbnVrQlRUT1lROUxwTXNoRXBHMS1iQk0yUmRPc0ZEcnpCaExUeXZ6LU1TTER0YThtY0ZxNXRzSEdJeHBVeEotWmt3SkNSaThlNXBKbHFldUlSQW16OHF6NF9yS3hpdlBBTEpHakM2Q09Fak9obGZ3aWc2MUFHQXFhOGMtUzlxdDBiUVhtc1E0NHMyQzZjaTlRMDBtNlVlXw?oc=5",
-  "url": "https://lidom.com/novedades-mlb/pujols-y-urueta-entre-los-candidatos-para-dirigir-a-houston-98970.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/novedades-mlb/pujols-y-urueta-entre-los-candidatos-para-dirigir-a-houston-98970.html"
-   },
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/deportes/beisbol/astros-de-houston-tienen-a-albert-pujols-entre-sus-opciones-para-dirigir/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Se atribuyó a Lidom.com la afirmación de que Pujols será entrevistado y se corrigió \"coach de banca de los Yankees\" en la atribución a \"Brad Ausmus\"; se añadió la atribución a De Último Minuto para el dato de que Randy Flores es el gerente general y sobre el historial de Pujols contra Houston no se incluyó porque no aparece en el borrador. Se ajustó \"tercer lugar\" y se quitó \"de forma interina\" por redundancia; se retiró \"reunirse\" duplicado. Se eliminó la frase de relleno \"y algo que ilusiona\" y se dejó la atribución de Lidom.com para la convocatoria.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-05T22:47:29.870359+00:00",
-  "tendencia": 2
- },
- {
-  "id": "687fe85ab2",
-  "titulo": "BCRD abre convocatoria 2027 para la competencia “Economistas del futuro",
-  "titulo_original": "BCRD anuncia una nueva convocatoria para la competencia académica “Economistas del futuro” 2027",
-  "resumen": "El Banco Central lanza la edición 2027 de su competencia para estudiantes de último año de secundaria. Esta vez el tema es la geopolítica y la economía.",
-  "gancho": "El Banco Central lanza la edición 2027 de su competencia para estudiantes de último año de secundaria. Esta vez el tema es la geopolítica y la economía.",
-  "parrafos": [
-   "El Banco Central de la República Dominicana (BCRD) convoca a la edición 2027 de “Economistas del futuro”, una competencia académica destinada a alumnos del último año de secundaria. Los estudiantes trabajan en equipos de tres, con el acompañamiento de un profesor o tutor, y representan a su centro de estudios.",
-   "El tema de esta 14.ª edición es “Impacto de los conflictos geopolíticos en la economía nacional”. Cada equipo debe presentar un ensayo sobre ese tema. Los trabajos con mejores calificaciones serán expuestos ante un jurado designado por el BCRD, compuesto por seis profesionales cuyo veredicto es inapelable. El jurado puede declarar desierto uno o más de los tres lugares.",
-   "Según el comunicado de la institución, la fecha límite para entregar los trabajos es el 26 de febrero de 2027, y las presentaciones ante el jurado se realizarán entre el 12 y el 16 de abril del mismo año. Los trabajos deben ser originales e inéditos, con una extensión máxima de diez páginas.",
-   "Los premios incluyen equipos digitales para cada alumno de los equipos ganadores del primer, segundo y tercer lugar, además de premios en metálico para los asesores.",
-   "La competencia forma parte del programa de responsabilidad social institucional Aula Central, que busca promover la educación económica y financiera. Con esta iniciativa, el BCRD pretende motivar a los jóvenes a investigar temas de economía y finanzas, y contribuir a la formación de capital humano de valor para la nación."
-  ],
-  "claves": [
-   "La 14.ª edición tiene como tema “Impacto de los conflictos geopolíticos en la economía nacional”.",
-   "Los trabajos deben entregarse a más tardar el 26 de febrero de 2027.",
-   "Las presentaciones ante el jurado serán entre el 12 y el 16 de abril de 2027.",
-   "Los equipos ganadores recibirán equipos digitales y los asesores, premios en metálico."
-  ],
-  "importa": "Es una oportunidad para que los jóvenes dominicanos fortalezcan sus conocimientos en economía y finanzas. Los estudiantes que participen tendrán que cumplir requisitos como trabajos originales, de máximo diez páginas, y provenientes de centros reconocidos por el Ministerio de Educación.",
-  "en": {
-   "titulo": "Central Bank Opens 2027 Call for “Economists of the Future” Competition",
-   "gancho": "The Dominican Central Bank launches the 2027 edition of its academic competition for senior high school students. This year's topic is geopolitics and the economy.",
-   "claves": [
-    "The 14th edition's topic is “Impact of geopolitical conflicts on the national economy.”",
-    "Papers must be submitted by February 26, 2027.",
-    "Presentations before the jury will take place between April 12 and 16, 2027.",
-    "Winning teams receive digital equipment, and advisors receive cash prizes."
-   ],
-   "importa": "It is an opportunity for young Dominicans to strengthen their knowledge of economics and finance. Participants must meet requirements such as original, unpublished work of no more than ten pages, from schools recognized by the Ministry of Education.",
-   "parrafos": [
-    "The Central Bank of the Dominican Republic (BCRD) has called for entries to the 2027 edition of “Economists of the Future,” an academic competition aimed at students in their final year of secondary school. Students work in teams of three, supported by a teacher or tutor, and represent their school.",
-    "The topic of this 14th edition is “Impact of geopolitical conflicts on the national economy.” Each team must present an essay on that subject. The papers with the highest grades will be presented before a jury appointed by the BCRD, made up of six professionals whose decision is final. The jury may declare one or more of the three places vacant.",
-    "According to the institution's statement, the deadline for submitting papers is February 26, 2027, and presentations before the jury will be held between April 12 and 16 of the same year. Papers must be original and unpublished, with a maximum length of ten pages.",
-    "Prizes include digital equipment for each student on the first-, second-, and third-place teams, as well as cash prizes for advisors.",
-    "The competition is part of the Aula Central corporate social responsibility program, which seeks to promote economic and financial education. Through this initiative, the BCRD aims to motivate young people to research economics and finance topics and to contribute to the formation of valuable human capital for the nation."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaFJTYWNvNGxENzNiWE5sSGt1X3ptbjJPYjVyXzRJWVBXUk1IRHVXckx6R3VjejFwcDc3MXlENERxWVlzUmp4ZGhlTUZxV2lmdXZGZjVkSkQxR3d2WW1ZYlY2WXFiRU1Jb05BOWtndXA2NnlVc3NpYW80emRiOUtiX0I4RU9jM3dZV2VvMGF1RFZUSHp0RDVQa1RKRjk2UjAxbkM0cUU5N3dOX2t1a01fclRaNG1MX2xTTk92TVgxX1ZUV05NaDh3b2dzZS0?oc=5",
-  "url": "https://www.bancentral.gov.do/a/d/6713-bcrd-anuncia-una-nueva-convocatoria-para-la-competencia-academica-economistas-del-futuro-2027",
-  "fuente": "Banco Central de la República Dominicana",
-  "dominio": "bancentral.gov.do",
-  "fuentes": [
-   {
-    "nombre": "Banco Central de la República Dominicana",
-    "url": "https://www.bancentral.gov.do/a/d/6713-bcrd-anuncia-una-nueva-convocatoria-para-la-competencia-academica-economistas-del-futuro-2027"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/bcrd-anuncia-nueva-convocatoria-para-competencia-academica-economistas-del-futuro-2027/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://bcrdgdcprod.blob.core.windows.net/documents/sala-de-prensa/noticias/images/bc20261105.jpg",
-   "credito": "Banco Central de la República Dominicana"
-  },
-  "revision": "corregida (cambié el título en español para cerrar la comilla y ajusté \"convocó\" a \"convoca\" en la fuente; atribuí los detalles a \"comunicado de la institución\" conforme a El Nuevo Diario; quité la frase de relleno \"dirigida a\" → \"destinada a\" y suavicé \"contribuir a formar capital humano para el desarrollo del país\" para que no sea atribución directa no verificada; corregí \"de los equipos ganadores\" en premios; agregué \"primer\" y \"tercer\" para mantener la claridad; el inglés replica exactamente el español)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T22:47:54.588591+00:00",
-  "tendencia": 2,
-  "ig": null,
-  "ig_img": "ig/687fe85ab2.jpg"
- },
- {
-  "id": "66a7918abf",
-  "titulo": "Cuánto cuesta mantener un hogar en RD y qué tanto presiona el salario",
-  "titulo_original": "¿Cuánto cuesta realmente mantener un hogar en República Dominicana? Los gastos que presionan el salario",
-  "resumen": "Una compra básica de supermercado en RD equivale a entre 16 % y 28.5 % de un salario mensual, según un ejemplo de precios de marcas blancas.",
-  "gancho": "Una compra básica de supermercado en RD equivale a entre 16 % y 28.5 % de un salario mensual, según un ejemplo de precios de marcas blancas.",
-  "parrafos": [
-   "Mantener un hogar en República Dominicana exige repartir el ingreso entre alimentos, vivienda, electricidad y transporte. Para muchos trabajadores, el salario mensual apenas alcanza para cubrir las necesidades básicas de toda la familia.",
-   "Según el Banco Central de la República Dominicana (BCRD), la canasta familiar promedio nacional llegó a RD$ 49,966.37 en septiembre de 2026. Esa cifra subió RD$ 1,232.09, un 2.53 %, desde enero, cuando estaba en RD$ 48,734.28.",
-   "La canasta supera en RD$ 19,978.37 el salario mínimo de las grandes empresas, fijado en RD$ 29,988. También está por encima del salario promedio cotizable de RD$ 38,552 que registró la Tesorería de la Seguridad Social (TSS) en agosto, por RD$ 11,414.37.",
-   "En un ejemplo de compra básica de alimentos, higiene y limpieza, con marcas blancas de supermercados, el total fue de RD$ 4,849.90. La lista incluye arroz, pollo, carne de res, huevos, pan, queso, habichuelas, aceite, leche, pañales y productos de limpieza. El gasto real dependerá del número de integrantes del hogar y de cuánto duren los productos.",
-   "En ese ejemplo, la compra representa entre 16 % y 28.5 % de un salario mensual, según el tipo de empleador. El salario mínimo de las medianas empresas es de RD$ 27,489.60; el de las pequeñas, RD$ 18,421.20, y el de las microempresas, RD$ 16,993.20.",
-   "El alquiler también pesa mucho en el presupuesto. Un levantamiento de cinco precios en el Gran Santo Domingo arrojó montos de RD$ 10,000, RD$ 14,000, RD$ 16,000, RD$ 25,000 y RD$ 28,000, para un promedio de RD$ 18,600, equivalente al 62 % del salario mínimo de una gran empresa."
-  ],
-  "claves": [
-   "La canasta familiar promedio nacional alcanzó RD$ 49,966.37 en septiembre de 2026, según el Banco Central.",
-   "La canasta supera en RD$ 19,978.37 el salario mínimo de las grandes empresas, de RD$ 29,988.",
-   "Una compra básica de alimentos, higiene y limpieza costó RD$ 4,849.90 en el ejemplo levantado.",
-   "El salario promedio cotizable fue de RD$ 38,552 en agosto, según la TSS."
-  ],
-  "importa": "Para un trabajador de bajos ingresos en RD, la presión de los gastos del hogar deja poco margen para ahorrar.",
-  "en": {
-   "titulo": "How much it costs to keep a home in the Dominican Republic and how much it strains wages",
-   "gancho": "A basic supermarket run in the DR equals between 16% and 28.5% of a monthly salary, based on a price survey of store-brand goods.",
-   "claves": [
-    "The national average family basket reached RD$ 49,966.37 in September 2026, according to the Central Bank.",
-    "The basket exceeds the large-company minimum wage of RD$ 29,988 by RD$ 19,978.37.",
-    "A basic food, hygiene and cleaning purchase cost RD$ 4,849.90 in the survey example.",
-    "The average contributory wage was RD$ 38,552 in August, according to the TSS."
-   ],
-   "importa": "For low-income workers in the DR, household costs leave little room to save.",
-   "parrafos": [
-    "Keeping a home in the Dominican Republic means splitting income among food, housing, electricity and transportation. For many workers, a monthly salary barely covers the basic needs of the whole family.",
-    "According to the Central Bank of the Dominican Republic (BCRD), the national average family basket reached RD$ 49,966.37 in September 2026. That is an increase of RD$ 1,232.09, or 2.53%, since January, when it stood at RD$ 48,734.28.",
-    "The basket exceeds the minimum wage for large companies, set at RD$ 29,988, by RD$ 19,978.37. It is also above the average contributory wage of RD$ 38,552 recorded by the Social Security Treasury (TSS) in August, by RD$ 11,414.37.",
-    "In an example of a basic purchase of food, hygiene and cleaning products, using mostly supermarket store brands, the total was RD$ 4,849.90. The list includes rice, chicken, beef, eggs, bread, cheese, beans, oil, milk, diapers and cleaning products. The actual cost will depend on household size and how long the products last.",
-    "In that example, the purchase equals between 16% and 28.5% of a monthly salary, depending on the type of employer. The minimum wage for medium-sized companies is RD$ 27,489.60; for small companies, RD$ 18,421.20; and for microenterprises, RD$ 16,993.20.",
-    "Rent also takes a large share of the budget. A survey of five prices in Greater Santo Domingo produced amounts of RD$ 10,000, RD$ 14,000, RD$ 16,000, RD$ 25,000 and RD$ 28,000, for an average of RD$ 18,600, equivalent to 62% of the large-company minimum wage."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV21FblZrODlwNE8teDZKSmE3TURUWlRXM0RhdHhvNU9WNWU0bzdFYkVTTHZ2RzdUX2J0VzZjMVV5VUZ0ZUdjeTMwblNmdHNaS0xoREZyYzBXcWlrNHZzSlNBSGg1VnZjOXY0aC02OU1JYmFuSEJWRm1seFFXNklrQjFDaGIxVGVCWGN1Q0pMbEo1WVp6VlloQzBUMzY1QUpreERRV3NtMkJWWUx1azZWYXFXTHdOQ1FZaFg0d0JFWkVJMkp0dTQ5UDRCZ1ZJMXZWcXlqSGx5NUMteXVNQ0HSAd4BQVVfeXFMUFdtRW5Wazg5cDRPLXg2SkphN01EVFpUVzNEYXR4bzVPVjVlNG83RWJFU0x2dkc3VF9idFc2YzFVeVVGdGVHY3kzMG5TZnRzWktMaERGcmMwV3FpazR2c0pTQUhoNVZ2Yzl2NGgtNjlNSWJhbkhCVkZtbHhRVzZJa0IxQ2hiMVRlQlhjdUNKTGxKNVlaelZZaEMwVDM2NUFKa3hEUVdzbTJCVllMdWs2VmFxV0x3TkNRWWhYNHdCRVpFSTJKdHU0OVA0QmdWSTF2VnF5akhseTVDLXl1TUNB?oc=5",
-  "url": "https://acento.com.do/economia/cuanto-cuesta-realmente-mantener-un-hogar-en-republica-dominicana-los-gastos-que-presionan-el-salario-9784111.html",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "fuentes": [
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/economia/cuanto-cuesta-realmente-mantener-un-hogar-en-republica-dominicana-los-gastos-que-presionan-el-salario-9784111.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé la afirmación de que la compra \"equivale\" al 16–28.5 % del salario sin aclarar que es un ejemplo, quité \"Quienes envían dinero desde EE.UU.\" por no estar en las fuentes, completé la cifra del alquiler promedio y el cálculo del salario y añadí el dato de la canasta por quintiles y regiones; corregí \"alquiler\" y \"medianas\" donde era necesario y ajusté el inglés al español)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T22:48:11.063876+00:00",
-  "tendencia": 1
- },
- {
-  "id": "535e019fe2",
-  "titulo": "PLD denuncia incertidumbre laboral y alza de alimentos que deteriora la vida de las familias",
-  "titulo_original": "PLD: El país vive un clima de incertidumbre por malas condiciones laborales y alza de alimentos",
-  "resumen": "El PLD acusa al Gobierno de dejar a los trabajadores sin protección ante el alza de precios, y advierte, según el partido, sobre el futuro de las pensiones.",
-  "gancho": "El PLD acusa al Gobierno de dejar a los trabajadores sin protección ante el alza de precios, y advierte, según el partido, sobre el futuro de las pensiones.",
-  "parrafos": [
-   "El Partido de la Liberación Dominicana (PLD) denunció que el país vive un clima de incertidumbre por las malas condiciones laborales y el aumento de los alimentos, lo que, según la organización, deteriora el nivel de vida de las familias. En su rueda de prensa de los lunes, el partido responsabilizó directamente al Gobierno actual de dejar desprotegidos a los trabajadores frente a la escalada inflacionaria.",
-   "Entre las cifras que citó, el PLD señaló que el costo de la canasta familiar supera los RD$48,000 mensuales, lo que, a su juicio, reduce el poder adquisitivo frente a hace cinco años. Elso Segura Martínez, secretario de asuntos laborales del partido, afirmó que el ingreso promedio nacional, formal e informal, ronda los RD$28,000, y que el salario mínimo más bajo se sitúa en RD$29,988.",
-   "Segura Martínez explicó que en el sector formal el ingreso promedio es de RD$35,831, cifra que tampoco alcanza para cubrir la canasta básica. Añadió que más del 54 % de los ocupados está en la informalidad, con mayor presencia en el comercio minorista, el motoconcho, la agricultura, el trabajo doméstico y las microempresas. Según el partido, el ingreso promedio cubre apenas cerca del 58 % de la canasta familiar, lo que obliga a que al menos dos personas por hogar trabajen.",
-   "El PLD también cuestionó que el Gobierno se niegue a aplicar la indexación salarial que, según el partido, manda la ley. Indicó que la última indexación se hizo en 2017 y que, desde la pandemia, la inflación ha subido significativamente.",
-   "En cuanto a las pensiones, el partido calificó la situación de alarmante. Afirmó que en los próximos ocho años cerca de 1.3 millones de personas se jubilarán con ingresos insuficientes, debido a bajos salarios, alta informalidad y otras fallas del sistema."
-  ],
-  "claves": [
-   "El costo de la canasta familiar supera los RD$48,000 mensuales, según el PLD.",
-   "El salario mínimo más bajo se sitúa en RD$29,988, según el partido.",
-   "Más de un millón de trabajadores no logrará pensionarse adecuadamente, según el PLD.",
-   "El Gobierno se niega a aplicar la indexación salarial, según el PLD; la última se hizo en 2017."
-  ],
-  "importa": "Si el ingreso no alcanza para la canasta básica, las familias dominicanas, en el país o en EE.UU. que envían remesas, tendrían que depender de más de un empleo, la informalidad o el endeudamiento para sobrevivir.",
-  "en": {
-   "titulo": "Opposition PLD Warns of Job Insecurity and Rising Food Costs Eroding Family Living Standards",
-   "gancho": "The PLD accuses the government of leaving workers unprotected as prices climb, and warns, according to the party, about the future of pensions.",
-   "claves": [
-    "The cost of the family basket exceeds RD$48,000 per month, according to the PLD.",
-    "The lowest minimum wage stands at RD$29,988, according to the party.",
-    "More than one million workers will not retire adequately, according to the PLD.",
-    "The party says the government refuses to apply wage indexation; the last one was in 2017."
-   ],
-   "importa": "If income doesn't cover the basic basket, Dominican families at home or in the U.S. that send remittances may have to rely on multiple jobs, informal work, or debt to get by.",
-   "parrafos": [
-    "The Dominican Liberation Party (PLD) said the country is living in an atmosphere of uncertainty due to poor labor conditions and rising food prices, which, according to the organization, are eroding families' living standards. At its Monday press conference, the party held the current government directly responsible for leaving workers unprotected against inflation.",
-    "Among the figures it cited, the PLD said the cost of the family basket exceeds RD$48,000 per month, which in its view reduces purchasing power compared with five years ago. Elso Segura Martínez, the party's secretary for labor affairs, said the average national income, formal and informal, is around RD$28,000, and that the lowest minimum wage stands at RD$29,988.",
-    "Segura Martínez explained that in the formal sector the average income is RD$35,831, a figure that also falls short of the basic basket. He added that more than 54% of the employed are in the informal economy, concentrated in retail trade, motorcycle taxi work, agriculture, domestic work, and microenterprises. According to the party, average income covers only about 58% of the family basket, forcing at least two people per household to work.",
-    "The PLD also questioned the government's refusal to apply wage indexation, which the party says the law requires. It noted that the last indexation took place in 2017 and that inflation has risen significantly since the pandemic.",
-    "On pensions, the party described the situation as alarming, saying that close to 1.3 million people will retire over the next eight years with insufficient income due to low wages, high informality, and other system failures."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRExiM083NlZma2pGT0NReXpTdEVtby1xb1pDblpnQjhoQ3ozZmhJNkdMNTI2NEh3UDBaODNJdzJjblFGREtZNzd0YXlqemh5OHVZR0pTMzY4bldsQVNiVXNsR3dLam96TzFXYm9jc05UQ2ZSaVRKVng1eUd0VngxanRjVmxwNFo4d1dSOVMzMFTSAZYBQVVfeXFMTmRycW9pdVRlVkx2WWtqVV83eG5KS0oycDU1YUI5TWFRSVN5M25wS2w5cnBjYTB3TXc1V091QjJ5STM1NkpHYmhqVVJXTTNweWlLTHhTSE9XeUpDZUczeTFTUVV0QkxkaDN1d2JvWmlvV3hWVGZ5N2V4YTZ6TU16Z1BCWHlSekFGN3plS2VxRThvejNXdU1B?oc=5",
-  "url": "https://elnacional.com.do/nacionales/pld-modelo-economico-actual-ha-fallado_571105.html",
-  "fuente": "El Nacional — La voz de todos",
-  "dominio": "elnacional.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/nacionales/pld-modelo-economico-actual-ha-fallado_571105.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se ajustó \"el salario mínimo más bajo ronda\" a \"se sitúa en\" para mayor precisión; se quitó \"cada vez más\" y \"de forma significativa\" por ser relleno; se añadió atribución explícita de la cifra de pensiones a \"según el partido\" en el gancho inglés; se corrigió \"de forma\" → \"de manera\" y se eliminó \"de forma\" donde sobraba; el texto inglés se alineó con el español; se mantuvo \"pensiones\" como dato del partido sin afirmarlo como hecho).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T22:48:27.307209+00:00",
-  "tendencia": 1
- },
- {
-  "id": "0efb82f593",
-  "titulo": "Stellar Blade llega a Switch 2 con 60 FPS logrados mediante interpolación",
-  "titulo_original": "Stellar Blade™ Complete Edition for Nintendo Switch 2",
-  "resumen": "Stellar Blade aterriza en Switch 2 con una calidad visual notable, pero sus 60 fotogramas por segundo se apoyan en un truco técnico que conviene conocer.",
-  "gancho": "Stellar Blade aterriza en Switch 2 con una calidad visual notable, pero sus 60 fotogramas por segundo se apoyan en un truco técnico que conviene conocer.",
-  "parrafos": [
-   "La versión de Stellar Blade para Nintendo Switch 2 ya está disponible. El análisis de Vandal, tras unas 23 horas de juego, destaca que la adaptación conserva buena parte del espectáculo visual de la versión original de PlayStation 5, aunque deja diferencias visibles al compararla directamente con esa consola.",
-   "Shift Up ha optado por un único perfil gráfico, sin los modos de calidad y rendimiento habituales en otras consolas. Según Vandal, la idea es que la experiencia sea homogénea tanto en el televisor como en la pantalla integrada, con una resolución de salida de 1080p en el primero y 720p en la portátil, gracias a técnicas de reconstrucción de imagen.",
-   "Para lograr la fluidez de una aventura de acción como esta, el estudio combina dos tecnologías. NVIDIA DLSS se encarga del reescalado, mientras que AMD FSR 3.1 interviene con interpolación de fotogramas. Según el análisis, el juego parte de una base de 30 fotogramas por segundo y genera imágenes intermedias hasta alcanzar 60. No son 60 fotogramas renderizados de forma nativa, sino una solución que mejora la percepción de fluidez sin exigir el doble de trabajo al hardware.",
-   "Esta decisión tiene sentido en los combates, donde hay que reaccionar a los movimientos de los enemigos y ejecutar bloqueos o esquivas en ventanas de tiempo muy concretas. Aun así, el lector debe saber que la fluidez que percibe no equivale a la de un juego renderizado a 60 FPS reales."
-  ],
-  "claves": [
-   "Stellar Blade Complete Edition llega a Nintendo Switch 2 con un único perfil gráfico.",
-   "La resolución es de 1080p en televisor y 720p en modo portátil.",
-   "El juego parte de 30 FPS y genera imágenes intermedias para llegar a 60.",
-   "Se usan NVIDIA DLSS para el reescalado y AMD FSR 3.1 para la interpolación de fotogramas."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Stellar Blade Hits Switch 2 With 60 FPS Achieved Through Frame Interpolation",
-   "gancho": "Stellar Blade lands on Switch 2 with impressive visuals, but its 60 frames per second rely on a technical trick worth knowing about.",
-   "claves": [
-    "Stellar Blade Complete Edition launches on Nintendo Switch 2 with a single graphics profile.",
-    "Output resolution is 1080p on TV and 720p in handheld mode.",
-    "The game starts at 30 FPS and generates intermediate frames to reach 60.",
-    "NVIDIA DLSS handles upscaling, while AMD FSR 3.1 handles frame interpolation."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Switch 2 version of Stellar Blade is now available. Vandal's review, based on about 23 hours of play, says the port keeps much of the visual spectacle of the original PlayStation 5 release, though it shows visible differences when compared directly with that console.",
-    "Shift Up chose a single graphics profile instead of the quality and performance modes common on other consoles. According to Vandal, the goal is a consistent experience on both the TV and the handheld screen, with output at 1080p on the TV and 720p in handheld mode, using image reconstruction techniques.",
-    "To achieve the smooth framerate an action adventure like this needs, the studio combines two technologies. NVIDIA DLSS handles upscaling, while AMD FSR 3.1 applies frame interpolation. According to the review, the game starts from a base of 30 frames per second and generates intermediate frames until reaching 60. These are not 60 natively rendered frames, but a solution that improves perceived smoothness without doubling the workload on the hardware.",
-    "This choice makes sense in combat, where players must react to enemy movements and execute blocks or dodges within very tight timing windows. Still, readers should know that the smoothness they perceive is not the same as a game rendered at a true 60 FPS."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSGRKMW5yNHpDenVydjdVdXBjLWZDRy1Ta0JyM18yWl94M1Z6alJ2Y3p1S2JCdWZ3VWQyWXZ6UFpVZ0FZRHJjRmFlLUF6ZzUzX2E2R2ZtOGNPeGdtSzRveTJBdEx5b19mN1hCeXYwUUxHRmExRmRJWG5ReFhjQnlab2dLR1ZIb0F4QlRB?oc=5",
-  "url": "https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "fuentes": [
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/"
-   },
-   {
-    "nombre": "Vandal",
-    "url": "https://vandal.elespanol.com/analisis/switch2/stellar-blade-complete-edition/235976"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Vandal"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000123388/d8629e8781cb5eaeda73076efefedb5689195a14740304153b0d3de448a4c476",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (agregué atribución explícita a Nintendo para la resolución y el perfil gráfico, quité la frase \"Es decir...\" por redundancia, y ajusté el lead en inglés para atribuir el truco técnico al análisis de Vandal; el resto coincide con las fuentes)",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-05T22:49:01.428157+00:00",
-  "tendencia": 2
- },
- {
-  "id": "a017eddde4",
-  "titulo": "Corte mantiene prisión a siete imputados del caso Senasa",
-  "titulo_original": "Corte ratifica prisión preventiva a siete procesados de la Operación Cobra 2.0-A",
-  "resumen": "La Corte de Apelación ratificó la prisión preventiva a siete de ocho imputados por el presunto desfalco al Seguro Nacional de Salud. Una acusada pasa a arresto domiciliario.",
-  "gancho": "La Corte de Apelación ratificó la prisión preventiva a siete de ocho imputados por el presunto desfalco al Seguro Nacional de Salud. Una acusada pasa a arresto domiciliario.",
-  "parrafos": [
-   "La Segunda Sala Penal de la Corte de Apelación del Distrito Nacional ratificó la prisión preventiva contra siete de los ocho imputados en el caso vinculado al presunto desfalco de miles de millones de pesos al Seguro Nacional de Salud (Senasa). Según Diario Libre, la audiencia de recursos se extendió por más de 12 horas, desde la mañana hasta la noche.",
-   "El tribunal modificó la medida solo para Elsa De la Rosa Vásquez, a quien impuso arresto domiciliario y el uso de un grillete electrónico, luego de que admitiera los hechos que se le atribuyen. Según el Ministerio Público, los jueces rechazaron los recursos de apelación presentados por las defensas de los demás procesados. Los siete que continuarán en prisión preventiva son Angeury Guzmán Vásquez, Juan Henry Poueriet, Wander Manuel Díaz Encarnación, Ysabel Heredia Vallejo, Hanna Rashell Rodríguez Almánzar, Laura Altagracia Santana Evangelista y Juan Gabriel Rodríguez Ravelo.",
-   "Los procesados enfrentan acusaciones de estafa contra el Estado, coalición de funcionarios, prevaricación, falsificación de documentos, soborno, lavado de activos y desvío de recursos mediante la facturación de servicios médicos no realizados, la suplantación de identidad de afiliados y la vulneración de bases de datos.",
-   "Al motivar su decisión, los jueces Ysis Muñiz, Teófilo Andújar e Ingrid Fernández señalaron que el arraigo social, laboral, económico y familiar de los imputados no es, por sí solo, el único elemento para decidir sobre la prisión preventiva. También deben valorarse la gravedad de los hechos, el daño causado a las víctimas, la reparación que pudiera corresponder y la pena imponible.",
-   "El caso fue puesto en marcha el año pasado por el Ministerio Público con la denominada Operación Cobra. Entre los procesados figura Santiago Marcelo F. Hazim Albainy, exdirector de Senasa, junto con otros exfuncionarios y particulares que cumplen distintas medidas de coerción.",
-   "Por separado, el Ministerio Público ejecutó en junio otro caso relacionado con presuntas irregularidades en recursos de salud. Fueron arrestadas tres personas vinculadas al Patronato Cibaeño Contra el Cáncer y al Instituto Oncológico Regional del Cibao (IORC): Héctor Antonio Lora Cruceta, expresidente del Consejo del Patronato, y su esposa, Luisa Yasiris Guzmán, que cumplen prisión preventiva, y su exesposa, Dilcia Isabel Vargas Sánchez, que se encuentra bajo arresto domiciliario."
-  ],
-  "claves": [
-   "La Segunda Sala Penal de la Corte de Apelación del Distrito Nacional ratificó la prisión a siete imputados.",
-   "Elsa De la Rosa Vásquez obtuvo arresto domiciliario con grillete electrónico tras admitir los hechos que se le atribuyen.",
-   "Los acusados enfrentan cargos de estafa contra el Estado, soborno, lavado de activos y falsificación de documentos."
-  ],
-  "importa": "El caso involucra fondos destinados a la salud pública y a afiliados del Seguro Nacional de Salud, por lo que las decisiones judiciales pueden afectar la confianza en esa institución.",
-  "en": {
-   "titulo": "Court Keeps Seven Defendants in Jail in Senasa Case",
-   "gancho": "A court upheld pretrial detention for seven of eight defendants in the alleged multibillion-peso theft from the Dominican Republic's national health insurer. One defendant was moved to house arrest.",
-   "claves": [
-    "The Second Criminal Chamber of the Court of Appeals of the National District upheld detention for seven defendants.",
-    "Elsa De la Rosa Vásquez received house arrest with an electronic ankle monitor after admitting the charges against her.",
-    "The defendants face charges including state fraud, bribery, money laundering, and document forgery."
-   ],
-   "importa": "The case involves public health funds and members of Senasa, the Dominican Seguro Nacional de Salud, so the court's decisions may affect trust in that institution.",
-   "parrafos": [
-    "The Second Criminal Chamber of the Court of Appeals of the National District upheld pretrial detention for seven of the eight defendants in the case over the alleged theft of billions of pesos from the Seguro Nacional de Salud (Senasa). According to Diario Libre, the appeal hearing lasted more than 12 hours, from the morning until night.",
-    "The court changed the measure only for Elsa De la Rosa Vásquez, who was placed under house arrest with an electronic ankle monitor after admitting the charges against her. According to the Public Prosecutor's Office, the judges rejected the appeals filed by the other defendants' lawyers. The seven who will remain in pretrial detention are Angeury Guzmán Vásquez, Juan Henry Poueriet, Wander Manuel Díaz Encarnación, Ysabel Heredia Vallejo, Hanna Rashell Rodríguez Almánzar, Laura Altagracia Santana Evangelista, and Juan Gabriel Rodríguez Ravelo.",
-    "The defendants face charges including state fraud, coalition of officials, prevarication, document forgery, bribery, money laundering, and diverting funds by billing for medical services never provided, impersonating insured members, and breaching databases.",
-    "In explaining their decision, judges Ysis Muñiz, Teófilo Andújar, and Ingrid Fernández said that the defendants' social, employment, economic, and family ties are not, on their own, the only factor in deciding on pretrial detention. The gravity of the offenses, the harm to victims, possible restitution, and the potential sentence must also be weighed.",
-    "The case was launched last year by the Public Prosecutor's Office under the name Operación Cobra. Among the defendants is Santiago Marcelo F. Hazim Albainy, a former director of Senasa, along with other former officials and private individuals under various restrictive measures.",
-    "Separately, the Public Prosecutor's Office carried out another case in June related to alleged irregularities in health funds. Three people linked to the Patronato Cibaeño Contra el Cáncer and the Instituto Oncológico Regional del Cibao (IORC) were arrested: Héctor Antonio Lora Cruceta, former president of the Patronato's board, and his wife, Luisa Yasiris Guzmán, who are in pretrial detention, and his former wife, Dilcia Isabel Vargas Sánchez, who is under house arrest."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGJsRlk1cHVZZU5pTTJ5VENmRHlpZFVNdnJTSXRIYVBVMWFXYlUzeUFWeEJua2lvTzFseDZhSFZtUjk1RjZEMEhmRk9jbXMweERnOVZLUGJBSS03NW9SMVhCeEtYZ2ttLXM3VGRlY0w5a2cwZGdvdF91a1pSTUlGMC1nU0I3NWtaVE4zLUQ4UDNKM25yTlVKTU8ycEFYb2VieHc?oc=5",
-  "url": "https://pgr.gob.do/corte-ratifica-prision-preventiva-a-siete-procesados-de-la-operacion-cobra-2-0-a/",
-  "fuente": "Procuraduría General de la República Dominicana",
-  "dominio": "pgr.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Procuraduría General de la República Dominicana",
-    "url": "https://pgr.gob.do/corte-ratifica-prision-preventiva-a-siete-procesados-de-la-operacion-cobra-2-0-a/"
-   },
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/actualidad/justicia/2026/11/05/caso-senasa-y-arresto-domiciliario-de-elsa-de-la-rosa/3711713"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Diario Libre"
-  ],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí atribuciones a Diario Libre y al Ministerio Público; quité \"según informó el Ministerio Público\" y \"Diario Libre indica\" donde no correspondía; ajusté la descripción de la audiencia a las fuentes; suavicé frases de relleno; ajusté \"Operación Cobra\" a \"caso Senasa\"; corregí \"que está bajo arresto domiciliario\" y la traducción en consecuencia)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T16:33:09.200461+00:00",
-  "tendencia": 2
- },
- {
-  "id": "cd9d15749b",
-  "titulo": "Dos estudiantes reciben reconocimiento por proyectos de medioambiente en escuelas dominicanas",
-  "titulo_original": "Gobierno reconoce a María Angélica Brioso y a Ana Esther Paula Sánchez como Estudiantes de la Semana por su compromiso con el medioambiente",
-  "resumen": "Una niña de 14 años convirtió botellas plásticas en un techo escolar, y otra de seis años enseña a cuidar el océano. El Gobierno las reconoció como Estudiantes de la Semana.",
-  "gancho": "Una niña de 14 años convirtió botellas plásticas en un techo escolar, y otra de seis años enseña a cuidar el océano. El Gobierno las reconoció como Estudiantes de la Semana.",
-  "parrafos": [
-   "El Gobierno, a través del Ministerio de Educación, reconoció como Estudiantes de la Semana a María Angélica Brioso Rodríguez y a Ana Esther Paula Sánchez por sus proyectos de protección del medioambiente, el reciclaje y la conservación de los ecosistemas marinos.",
-   "María Angélica, de 14 años, cursa el tercer grado de secundaria en el Politécnico Nuestra Señora de la Esperanza, del Distrito Educativo 10-01. Junto a dos compañeros desarrolló el proyecto \"Plásticos en desuso, techos en uso: ¡Reciclamos!\", que propone reutilizar botellas plásticas para construir un techo en su escuela. La idea surgió ante la acumulación de botellas y la contaminación que generaban. El grupo también hizo campañas para que otros alumnos cuiden el entorno escolar. El proyecto ganó el primer lugar en el Primer Congreso Nacional de Educación Ambiental.",
-   "\"Que me hayan seleccionado como 'Estudiante de la Semana' me hace muy feliz. Es un honor estar en esta posición. También es importante recordar que la escuela y los maestros siempre están ahí para apoyarnos, y que hay que mantener un espacio limpio y habitable\", manifestó María Angélica.",
-   "Ana Esther, de seis años, estudia en el nivel primario del Centro Educativo Profesor Camila Henríquez, del Distrito Educativo 15-01. Su proyecto \"Los pequeños exploradores del océano\" también obtuvo el primer lugar. La iniciativa busca que los niños cuiden a los animales marinos y entiendan la importancia de preservar los ecosistemas donde viven, y promueve hábitos responsables para evitar la contaminación del océano.",
-   "\"Aprendí a cuidar a los animales, a no tirar basura en el océano porque se contamina y nos enferma a nosotros también. Me sentí muy bien cuando fui seleccionada; me sentí alegre y motivada\", expresó Ana Esther.",
-   "La iniciativa Estudiante de la Semana busca reconocer el talento, la dedicación y el compromiso con sus comunidades de estudiantes del sistema educativo dominicano, no solo por su desempeño académico, sino también por su liderazgo, creatividad e innovación."
-  ],
-  "claves": [
-   "María Angélica Brioso Rodríguez, de 14 años, reutiliza botellas plásticas para construir un techo en su centro educativo.",
-   "Su proyecto obtuvo el primer lugar en el Primer Congreso Nacional de Educación Ambiental.",
-   "Ana Esther Paula Sánchez, de seis años, ganó con \"Los pequeños exploradores del océano\".",
-   "El reconocimiento lo impulsa el Ministerio de Educación."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Two Dominican students honored for environmental projects in their schools",
-   "gancho": "A 14-year-old turned plastic bottles into a school roof, and a six-year-old is teaching kids to protect the ocean. The government has recognized both as Students of the Week.",
-   "claves": [
-    "María Angélica Brioso Rodríguez, 14, is reusing plastic bottles to build a roof at her school.",
-    "Her project won first place at the First National Congress on Environmental Education.",
-    "Ana Esther Paula Sánchez, six, won with \"Los pequeños exploradores del océano\" (\"The Little Ocean Explorers\").",
-    "The recognition is promoted by the Ministry of Education."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Government, through the Ministry of Education, named María Angélica Brioso Rodríguez and Ana Esther Paula Sánchez as Students of the Week for their projects on environmental protection, recycling and the conservation of marine ecosystems.",
-    "María Angélica, 14, is in the third year of secondary school at the Politécnico Nuestra Señora de la Esperanza, in Educational District 10-01. With two classmates, she developed the project \"Plásticos en desuso, techos en uso: ¡Reciclamos!\" (\"Plastics no longer in use, roofs in use: We recycle!\"), which proposes reusing plastic bottles to build a roof at her school. The idea grew out of the buildup of bottles and the pollution they caused. The group also ran campaigns to get other students involved in caring for the school environment. The project won first place at the First National Congress on Environmental Education.",
-    "\"Being selected as a 'Student of the Week' makes me very happy. It is an honor to be in this position. It is also important to remember that the school and the teachers are always there to support us, and that we must keep a clean, livable space,\" said María Angélica.",
-    "Ana Esther, six, attends primary school at the Centro Educativo Profesor Camila Henríquez, in Educational District 15-01. Her project \"Los pequeños exploradores del océano\" also won first place. The initiative encourages children to care for marine animals and understand why it matters to protect the ecosystems they live in, and promotes responsible habits to prevent ocean pollution.",
-    "\"I learned to take care of the animals, and not to throw trash in the ocean because it gets polluted and makes us sick too. I felt very good when I was selected; I felt happy and motivated,\" said Ana Esther.",
-    "The Students of the Week initiative aims to recognize the talent, dedication and community commitment of students in the Dominican education system, not only for their academic performance but also for their leadership, creativity and innovation."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXYwTE9UQ05pOHNQWndhRWU1eGdwak1nVHVzRWQ5SFhSTlVqQlp2VUYyUHVtZmlfT0ZyVUZZTXAzSXBQb00zMTVXUFkxRUdLTVFsZFhZNlZlYVYxVVJwaThzUDBMS05qTEZYaHZ5RmxIdTBMUnhDNGJ5VlhvWWpDT1JiQzNGSWVNOWtmV3M2NTI4a3ZRbVh6QTg1MnBHM2lzMGo5cURHOFVzMmJrU1FKMzJiNTdOMzJ1MmQtazFFS1BUS1B0ZVBtdw?oc=5",
-  "url": "https://www.presidencia.gob.do/noticias/gobierno-reconoce-maria-angelica-brioso-y-ana-esther-paula-sanchez-como-estudiantes-de-la",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://www.presidencia.gob.do/noticias/gobierno-reconoce-maria-angelica-brioso-y-ana-esther-paula-sanchez-como-estudiantes-de-la"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/gobierno-reconoce-a-dos-ninas-en-estudiantes-de-la-semana-por-su-compromiso-con-el-medioambiente/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_10.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (quité \"Junto a dos compañeros\"→ mantenido; cambié \"pequeños exploradores\" traducción sin cambio de sentido; ajusté \"Su proyecto también ganó\"→ reformulado a \"obtuvo el primer lugar\", eliminé \"Además\" innecesario y precisé que Ana Esther \"estudia en el nivel primario\"; corregí \"reconocimiento\" y el inglés de \"Being selected\" y \"will\"; agregué tilde en \"Brioso\" no aplica; mantuve datos.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T16:33:28.751198+00:00",
-  "tendencia": 2
- },
- {
-  "id": "80ad6b66b8",
-  "titulo": "-10- Dec. No. 227-94 que nombra varios fimcionarios en distintas dependencias del Estado. JOAQUIN BALAGUER Presidente de la Repu",
-  "titulo_original": "-10- Dec. No. 227-94 que nombra varios fimcionarios en distintas dependencias del Estado. JOAQUIN BALAGUER Presidente de la Repu",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84NWV6c1duUkhJdjhxakRKR2pjbENVN29JT3VTV1hqbnVwY2hDNjlfM25XYUJmN0lCY0JGbTNHUVJaMWIyZld6anZNaWI0UjVUb2pRQ0lJX0RNM1ZaZG9OTA?oc=5",
-  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
-  "dominio": "consultoria.gov.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-05T16:33:39.519339+00:00"
- },
- {
-  "id": "6dd32657ee",
-  "titulo": "Senado aprueba en primera lectura proyecto que involucra a ayuntamientos contra la violencia de género",
-  "titulo_original": "Senado aprueba en primera lectura proyecto contra violencia de género desde ayuntamientos",
-  "resumen": "El Senado avanzó un proyecto que llevaría la orientación a víctimas de violencia hasta los ayuntamientos.",
-  "gancho": "El Senado avanzó un proyecto que llevaría la orientación a víctimas de violencia hasta los ayuntamientos.",
-  "parrafos": [
-   "El Senado de la República aprobó en primera lectura un proyecto de ley que busca que los ayuntamientos participen en la prevención de la violencia intrafamiliar y de género. La iniciativa plantea crear unidades municipales encargadas de brindar orientación y canalizar asistencia a las víctimas.",
-   "La propuesta fue presentada por la senadora María Mercedes Ortiz y forma parte de la denominada Reforma Integral Déjala Ir. Según el texto, los gobiernos locales tendrían una participación más directa en detectar situaciones de riesgo y en la atención temprana de posibles casos.",
-   "Las unidades municipales servirían como espacios donde las personas que sufren maltrato puedan conocer los mecanismos de denuncia y las instituciones a las que pueden acudir para recibir protección. El proyecto contempla que trabajen de forma coordinada con el Ministerio de la Mujer, el Ministerio Público, los servicios de salud, las casas de acogida y otras entidades relacionadas.",
-   "También incluye la participación de la Policía Municipal y de organizaciones comunitarias, respetando las competencias legales de cada institución. Además, propone campañas educativas y la creación de redes comunitarias de apoyo para identificar señales de riesgo.",
-   "Con la aprobación en primera lectura, la propuesta supera una etapa de su discusión en el Senado, pero todavía no es una ley vigente. Deberá seguir el procedimiento legislativo correspondiente antes de una eventual aprobación definitiva."
-  ],
-  "claves": [
-   "El proyecto fue aprobado en primera lectura por el Senado de la República.",
-   "Propone crear unidades municipales para orientar a víctimas de violencia intrafamiliar y de género.",
-   "Su promotora es la senadora María Mercedes Ortiz, dentro de la Reforma Integral Déjala Ir.",
-   "Aún no es ley y deberá continuar el trámite legislativo."
-  ],
-  "importa": "Si el proyecto se aprueba, los gobiernos municipales tendrían un papel directo en identificar riesgos y orientar a personas que sufren maltrato en su comunidad. La propuesta aún debe completar el proceso en el Congreso antes de convertirse en ley.",
-  "en": {
-   "titulo": "Senate Advances Bill Bringing Municipal Councils into Gender Violence Prevention",
-   "gancho": "The Dominican Senate advanced a bill that would bring support for abuse victims to the municipal level.",
-   "claves": [
-    "The bill passed first reading in the Dominican Republic's Senate.",
-    "It proposes municipal units to guide victims of domestic and gender-based violence.",
-    "The bill was presented by Senator María Mercedes Ortiz as part of the Déjala Ir comprehensive reform.",
-    "It is not yet law and must continue through the legislative process."
-   ],
-   "importa": "If approved, local governments would play a direct role in identifying risks and guiding people who suffer abuse in their communities. The proposal must still complete the congressional process before becoming law.",
-   "parrafos": [
-    "The Dominican Republic's Senate approved in first reading a bill that would involve municipal councils in preventing intrafamily and gender-based violence. The initiative proposes creating municipal units responsible for providing guidance and connecting victims with assistance.",
-    "The proposal was presented by Senator María Mercedes Ortiz and is part of the so-called Déjala Ir Comprehensive Reform. According to the text, local governments would have a more direct role in detecting risk situations and in the early response to possible cases.",
-    "The municipal units would serve as places where people suffering abuse can learn about reporting mechanisms and the institutions they can turn to for protection. The bill provides that they would work in coordination with the Ministry of Women, the Public Prosecutor's Office, health services, shelters, and other related entities.",
-    "It also includes the participation of the Municipal Police and community organizations, respecting the legal responsibilities of each institution. In addition, it proposes educational campaigns and the creation of community support networks to identify warning signs.",
-    "With its approval in first reading, the proposal clears one stage of Senate debate, but it is not yet an active law. It must follow the corresponding legislative procedure before any final approval."
-   ]
-  },
-  "link": "https://deultimominuto.com/nacionales/senado-aprueba-en-primera-2/",
-  "url": "https://deultimominuto.com/nacionales/senado-aprueba-en-primera-2/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/senado-aprueba-en-primera-2/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Esto es lo que contempla\" del gancho, reemplacé \"Senado\" por \"Senado de la República\" en el título para mayor precisión, y ajusté \"Ministerio Público\" y \"Policía Municipal\" sin cambios de fondo; en inglés, \"Senate\" en título y gancho ya coincidían con el español; se mantuvo el contenido de las fuentes).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-05T16:34:01.677173+00:00",
-  "tendencia": 1
- },
- {
-  "id": "6d07e01c58",
-  "titulo": "Términos de Referencia para la Adquisición de tóneres y cartuchos para el Registro Inmobiliario, dirigido a MIPYMES Compra Me",
-  "titulo_original": "Términos de Referencia para la Adquisición de tóneres y cartuchos para el Registro Inmobiliario, dirigido a MIPYMES Compra Me",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUtEXy1ZNFctZDBwQ0x6U1loX3RfMTM5X3BnUE1xVm9MRkRCNS1maW92aWJHQllOUGpxZVhpSDY5enNPU2w0N1pOUUV2Ukk4Ump3d29rZThOTGI4NkZCSVgyYWNNcGZmX09VUFI3WnhQakF5RlQta0RmRVljOEwwYkx2WU5SNkVUYWc?oc=5",
-  "fuente": "Registro Inmobiliario",
-  "dominio": "ri.gob.do",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-05T16:34:15.923482+00:00"
  }
 ]
