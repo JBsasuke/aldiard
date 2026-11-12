@@ -1,112 +1,87 @@
-Corrida: 2026-11-12 08:52 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1365 letras -> https://presidencia.gob.do/noticias/gobierno-anuncia-acueducto-multiple-de-yaguate-san-cristobal
+Corrida: 2026-11-12 05:19 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000, 6100')
+[República Dominicana] Presidencia de la República Dominicana: texto leído 6392 letras -> https://presidencia.gob.do/noticias/conape-inaugura-hogar-de-dia-en-bajos-de-haina-para-atencion-integral-de-adultos-mayores
+[República Dominicana] CDN: texto leído 2821 letras -> https://cdn.com.do/nacionales/regionales/haina-inaugura-hogar-de-dia-para-adultos-mayores-con-inversion-millonaria/?amp=1
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: CDN
+Revisión: corregida (eliminé "en coordinación" y "representantes comunitarios" no, mantuve; corregí que el plan piloto de cuidador
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3730 letras -> https://www.presidencia.gob.do/noticias/ley-mirabal-apuesta-por-datos-estadisticos-para-enfrentar-las-violencias-contra-las
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Gobierno anuncia acueducto múltiple de Yaguate, San Cristóbal -> cifras que no aparecen en las fuentes: 15, 1500
-[República Dominicana] Presidencia de la República Dominicana: texto leído 722 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-designa-miembros-del-consejo-de-juegos-de-azar-mediante-el
-[República Dominicana] Acento: texto leído 1734 letras -> https://acento.com.do/actualidad/abinader-designa-a-tres-miembros-del-consejo-de-juegos-de-azar-9788204.html
-[República Dominicana] Diario Libre: texto leído 5639 letras -> https://www.diariolibre.com/politica/gobierno/2026/11/11/luis-abinader-designa-miembros-del-consejo-de-juegos-de-azar/3717996
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
-Revisión: corregida (se corrigió "Ares Guzmán es ingeniero eléctrico y tiene una maestría…" para aclarar que la maestría es de NYU
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-participa-en-taller-regional-sobre-investigacion-del-trafico-de-bienes-culturales/
-No se pudo leer el artículo; no se publica para no salir corta: Ministerio Público participa en taller regional sobre investigación del tráfico de bienes culturales
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4237 letras -> https://presidencia.gob.do/noticias/la-republica-dominicana-sera-sede-del-congreso-internacional-del-clad-sobre-reforma-del
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (ajusté el título y el texto para que el evento sea en Santo Domingo y no "en Santo Domingo" como sede del paí
-[República Dominicana] DGII: texto leído 1403 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/asignacin-de-gerente-general-empleado-no-socio-como-representante-en-solicitud-de-facturador-electrnico-ecf/6af524efb2f40029580c8827
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Asignación de Gerente General (empleado no socio) como Representante en solicitud de Facturador Electrónico (e-CF)
-[República Dominicana] DGII: texto leído 823 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-bono-primera-vivienda/6af47120509e7d094b8d2b68
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): CONSULTA BONO PRIMERA VIVIENDA
-[República Dominicana] DGII: texto leído 2688 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/falta-de-respuesta-y-responsabilidad-por-parte-de-gerencia-de-facturacion-electronica/6af484e959f425272b979cdb
-Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión no contiene una noticia: es una queja escrita por una empresa (MTCORE GROUP, S.R.L.) dirigida a la DGII, sin respuesta oficial de la institución y sin hechos verificados por un tercero. A')
-[República Dominicana] DGII: texto leído 703 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retencin-de-isr-a-miembros-del-consejo-de-administracin/6af4b7186eeebe1966c9d748
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Retención de ISR a miembros del Consejo de Administración
-[República Dominicana] DGII: texto leído 1610 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/formato-de-envio-606/6af4a5cbcca85a829e0de0f7
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Formato de envio 606
-[Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5973 letras -> https://map.gob.do/
-Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: Antes de escribir, un problema: lo único que me pasaste es la VERSIÓN 1, y es la página de inicio y el menú del sitio web del Ministerio de Administración Pública (MAP). Ese texto contiene navegación,')
+Revisión: corregida (quité "apuesta por los datos estadísticos" y "conocido como" sin cambio de sentido; ajusté "de forma coordina
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5692 letras -> https://presidencia.gob.do/noticias/republica-dominicana-fortalece-su-agenda-de-cuidados-como-politica-de-estado-y-eje-del
+[República Dominicana] Periódico elDinero: texto leído 4772 letras -> https://eldinero.com.do/388344/ministerio-de-la-mujer-rd-fortalece-agenda-de-cuidados-como-politica-de-estado-y-eje-del-desarrollo-nacional/
+[República Dominicana] El Nuevo Diario: texto leído 5007 letras -> https://elnuevodiario.com.do/rd-fortalece-su-agenda-de-cuidados-como-politica-de-estado-y-eje-del-desarrollo-nacional/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (eliminé "colidera" por "coliderará" en ambos idiomas, ya que la fuente dice que el país colidera el grupo, no
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] Instituto Nacional de Formación Técnico Profesional (INFOTEP) -: texto leído 0 letras -> https://infotep.gob.do/noticias/infotep-promueve-el-liderazgo-basado-en-la-confianza-y-el-proposito-entre-sus-colaboradores/
+No se pudo leer el artículo; no se publica para no salir corta: INFOTEP promueve el liderazgo basado en la confianza y el propósito entre sus colaboradores
 [Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 7000 letras -> https://centralnoticias.gob.do/rector-uasd-presenta-balance-de-sus-primeros-100-dias-de-gestion/
 [Dominicanos en EE.UU.] Acento: texto leído 7000 letras -> https://acento.com.do/actualidad/rector-de-la-uasd-presenta-balance-de-sus-primeros-100-dias-5363-titulados-y-nuevos-programas-doctorales-9788321.html
-[Dominicanos en EE.UU.] N Digital: texto leído 7000 letras -> https://n.com.do/2026/11/11/rector-uasd-presenta-balance-de-sus-primeros-100-dias-de-gestion/
 Fuente oficial encontrada: centralnoticias.gob.do | para completar: Acento
 Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Rector UASD presenta balance de sus primeros 100 días de gestión
-Rechazada por la revisión: Rector UASD presenta balance de sus primeros 100 días de gestión -> cifras que no aparecen en las fuentes: 363, 5000
+Rechazada por la revisión: Rector UASD presenta balance de sus primeros 100 días de gestión -> cifras que no aparecen en las fuentes: 363
+[Dominicanos en EE.UU.] NHC, NOAA (.gov): texto leído 2951 letras -> https://www.nhc.noaa.gov/data/tcr/index.php
+Fuente oficial encontrada: NHC, NOAA (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto corresponde a la página índice de la temporada de huracanes 2026 del Centro Nacional de Huracanes de EE.UU. (NHC/NOAA). Contiene una descripción general de los reportes de ci')
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-dc/pr/foreign-national-sentenced-7-years-defrauding-american-taxpayers-out-millions-covid-era
+No se pudo leer el artículo; no se publica para no salir corta: Foreign National Sentenced to 7 Years in Defrauding American Taxpayers Out of Millions in Covid-Era Emergency Aid
 [Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 2621 letras -> https://usun.usmission.gov/explanation-of-vote-for-unga-81-3c-resolution-office-of-the-united-nations-high-commissioner-for-refugees/
 Fuente oficial encontrada: United States Mission to the United Nations (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Explanation of Vote for UNGA 81/3C Resolution "Office of the United Nations High Commissioner for Refugees"
-[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 825 letras -> https://do.usembassy.gov/renew-your-u-s-passport-for-holiday-travel/
-Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Renew Your U.S. Passport for Holiday Travel
-[Dominicanos en EE.UU.] Representative Analilia Mejia (.gov): texto leído 510 letras -> http://mejia.house.gov/
-Fuente oficial encontrada: Representative Analilia Mejia (.gov) 
-Revisión: corregida (se quitó "demócrata" del español y del inglés porque las fuentes no lo indican; se eliminó "un tema que afect
-[Dominicanos en EE.UU.] Listín Diario: texto leído 2059 letras -> https://listindiario.com/la-republica/politica/20261111/convergencia-ciudadana-instala-estados-unidos_929752/amp.html
-Revisión: corregida (ajusté "Pichardo" a "Pichardo" sin cambios de fondo; quité "busca así extender" por ser inferencia no atribui
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/public-inspection/current
+Fuente oficial encontrada: Federal Register (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 11/12/2026 Public Inspection Issue
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/we-render-you-the-highest-salute-president-trump-honors-americas-veterans-on-hallowed-ground-at-arlington/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: “We Render You the Highest Salute”: President Trump Honors America’s Veterans on Hallowed Ground at Arlington
-[Internacionales] The White House (.gov): texto leído 2639 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states/
+[Internacionales] The White House (.gov): texto leído 2778 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-victory-day-for-world-war-i-dd1e/
 Fuente oficial encontrada: The White House (.gov) 
-No encaja en ninguna sección, se salta: Presidential Determination Concerning Wildfire Suppression Activities in the United States
-[Internacionales] The White House (.gov): texto leído 2882 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nominations and Withdrawals Sent to the Senate
-[Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/revista/musica/2026/11/12/salsa-dominicana-de-omar-quezada-en-su-proximo-album/3717865
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] Listín Diario: texto leído 1852 letras -> https://listindiario.com/entretenimiento/redes-sociales/20261111/influencer-relata-angustia-vivio-alerta-atentado-escuela-hijo-ee-uu_929776/amp.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Influencer dominicana relata angustia tras una alerta de atentado en escuela de su hijo en EE.UU.
-[Famosos] El Dia.com.do: texto leído 1381 letras -> https://eldia.com.do/yiyo-sarante-estrena-el-ep-me-hice-viral-compuesto-por-6-canciones/
-Revisión: corregida (se cambió "Yiyo Sarante reafirma su apuesta" por "reafirma su apuesta" sin cambios de fondo; se corrigió "lov
-[Famosos] Diario Libre: texto leído 4767 letras -> https://www.diariolibre.com/revista/cultura/2026/11/11/ericarol-carlo-rescata-la-historia-de-su-padre-en-el-incendiario/3717770
-No encaja en ninguna sección, se salta: Ericarol Carlo presentará El incendiario, una historia sobre la dictadura de Trujillo
-[Famosos] N Digital: texto leído 4248 letras -> https://n.com.do/2026/11/12/estos-son-los-artistas-dominicanos-que-compiten-a-los-latin-grammy-2026/
-[Famosos] marca usa: texto leído 2868 letras -> https://us.marca.com/tiramillas/musica/2026/11/12/quien-actuara-en-los-latin-grammy-2026-lista-de-artistas-confirmados-que-cantaran-este-ano.html
-Cambiada de sección: Famosos -> Deportes: Estos son los artistas dominicanos que compiten en los Premios Latin Grammy 2026
-Revisión: corregida (corregí la sección de Deportes a Cultura/Música, que es lo correcto; quité "Melymel" de la cuenta de "tres re
-[Famosos] N Digital: texto leído 3598 letras -> https://n.com.do/2026/11/11/latin-grammy-2026-los-homenajes-estrellas-y-momentos-que-marcaran-la-gran-noche-de-la-musica-latina/
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Latin Grammy 2026: los homenajes, estrellas y momentos que marcarán la gran noche de la música latina
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió la lista de presentadores: Milly Quezada no aparece en el borrador, pe
-Revisión: corregida (se corrigió la lista de presentadores: Milly Quezada no aparece en el borrador, pero el borrador omitió Memo 
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851528?ins=resultado
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Gigantes del Cibao vs Estrellas Orientales
-[Deportes] Lidom: texto leído 1782 letras -> https://lidom.com/gigantes-del-cibao/joel-peralta-despues-del-salon-de-la-fama-este-es-el-segundo-honor-mas-grande-99744.html
-Revisión: corregida (corregí "Every fall I had made me stronger" a "Each fall I had made me stronger"... en realidad la cita origi
-[Deportes] Lidom: texto leído 3745 letras -> https://lidom.com/aguilas-cibaenas/escarra-dispara-jonron-decisivo-y-aguilas-vencen-3-2-al-licey-99790.html
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un artículo de resultado deportivo, pero el texto proporcionado está incompleto (se corta en la alineación de Águilas) y solo viene de un periódico, sin fuente oficial. A')
-[Deportes] Lidom: texto leído 3744 letras -> https://lidom.com/lidom/tigres-y-aguilas-en-santiago-encabezan-jornada-99753.html
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una guía de partidos y programación (la jornada de la Lidom del miércoles, lanzadores probables, transmisiones, clima y árbitros), no una noticia con hechos ocurridos. Por')
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-aguilas/2026/11/11/851561/live
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Aguilas, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/gigantes-vs-estrellas/2026/11/11/851528/final
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Gigantes vs. Estrellas, lanzadores probables, alineaciones, y más
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 660 letras -> https://www.micm.gob.do/transparencia/base-legal-de-la-institucion/alphaindex/file-transparencia/e/2
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-Fuente no confiable, se salta: revistamercado.do
-Es opinión o editorial, se salta: Ormuz y nuestro mercado eléctrico
-[Precios y combustibles] Noticias SIN: texto leído 3317 letras -> https://noticiassin.com/economia/2026/11/12/el-gobierno-de-chile-congela-el-precio-del-combustible-en-medio-del-paro-de-transportistas-2168361/?amp=1
-[Precios y combustibles] DW.com: texto leído 3145 letras -> https://amp.dw.com/es/chile-congela-precio-del-combustible-en-medio-de-paro-de-transporte/a-79925463
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on Victory Day for World War I
+[Internacionales] The White House (.gov): texto leído 0 letras -> https://www.whitehouse.gov/wp-content/uploads/2026/11/SAP-Impeachment-Resolution.pdf
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] EL PAÍS: texto leído 0 letras -> https://elpais.com/chile/2026-11-12/los-camioneros-mantienen-sus-protestas-pese-a-que-el-gobierno-de-kast-congela-el-precio-de-los-combustibles.html
-Cambiada de sección: Precios y combustibles -> Internacionales: El Gobierno de Chile congela el precio del combustible en medio del paro de transportistas
-Revisión: corregida (se corrigió la fecha del pie de DW: el día del anuncio fue miércoles 11 de noviembre, no un error de año; se 
-[Videojuegos] Nintendo: texto leído 584 letras -> https://www.nintendo.com/us/whatsnew/ready-up-for-an-rpg-the-world-needs-you/
+[Internacionales] Congress.gov: texto leído 0 letras -> https://www.congress.gov/bill/119th-congress/house-resolution/1655
+No se pudo leer el artículo; no se publica para no salir corta: A Resolution Impeaching Peter Brian Hegseth, Secretary of War
+[Famosos] Diario Libre: texto leído 1712 letras -> https://www.diariolibre.com/revista/cine/2026/11/12/rosalia-y-javier-bardem-filmaran-pelicula-en-la-republica-dominicana/3718859
+Revisión: corregida (se atribuyó a Diario Libre la fuente de la información sobre el reparto y la sinopsis, se quitó "cantantes" p
+[Famosos] CDN: texto leído 2825 letras -> https://cdn.com.do/internacionales/un-muerto-y-al-menos-cuatro-heridos-en-tiroteo-en-washington/
+[Famosos] Telemundo: texto leído 3770 letras -> https://www.telemundo.com/noticias/noticias-telemundo/crimen-y-violencia/cuatro-personas-reciben-disparos-en-un-exclusivo-barrio-de-washington-rcna608963
+[Famosos] BBC: texto leído 4099 letras -> https://www.bbc.com/mundo/articles/cq8j47lw9nmwo
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Un muerto y al menos cuatro heridos tras tiroteo en Washington
+Revisión: corregida (eliminé la atribución errónea de la entrevista a Telemundo sobre la "herida autoinfligida" y el conflicto con
+[Famosos] Diario Libre: texto leído 3809 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/12/buscan-facilitar-candidatura-presidencial-a-dominicanos-del-exterior/3718523
+Cambiada de sección: Famosos -> República Dominicana: ¿Discrimina la Constitución a los hijos de dominicanos nacidos en el extranjero?
+Revisión: corregida (quité "Según Diario Libre" repetido en el texto y el "según el mismo medio" redundante, corregí la atribución
+[Famosos] CDN: texto leído 2342 letras -> https://cdn.com.do/internacionales/trump-amenaza-con-duplicar-aranceles-si-mexico-no-frena-caravanas/
+[Famosos] Telemundo: texto leído 2873 letras -> https://www.telemundo.com/noticias/noticias-telemundo/inmigracion/trump-amenaza-con-duplicar-los-aranceles-a-mexico-si-no-detiene-las-ca-rcna608989
+[Famosos] BBC: texto leído 4483 letras -> https://www.bbc.com/mundo/articles/cj62pglgdwreo
+Cambiada de sección: Famosos -> Internacionales: Trump amenaza con doblar los aranceles a México si no detiene caravanas migrantes
+Revisión: corregida (corregí la atribución de la cifra de 2,000 migrantes a EFE; eliminé "Trump no especificó" duplicado; ajusté "
+[Famosos] Diario Libre: texto leído 3777 letras -> https://www.diariolibre.com/revista/sociales/2026/11/12/cerveceria-nacional-dominicana-lanza-presidente-cero/3719064
+No encaja en ninguna sección, se salta: La Cervecería Nacional Dominicana lanza Presidente Cero
+[Famosos] CDN: texto leído 3284 letras -> https://cdn.com.do/internacionales/leon-xiv-destaca-a-empresarios-como-creadores-de-empleo-y-riqueza/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/leon-xiv-reconoce-a-los-empresarios-como-creadores-de-riqueza-y-empleo/
+Cambiada de sección: Famosos -> Internacionales: Papa León XIV reconoce a los empresarios como creadores de riqueza y empleo
+Revisión: corregida (se quitó "Según la información publicada" en el primer párrafo por ser atribución vaga, se ajustó "compromete
+[Deportes] Lidom: texto leído 3745 letras -> https://lidom.com/aguilas-cibaenas/escarra-dispara-jonron-decisivo-y-aguilas-vencen-3-2-al-licey-99790.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo hay suficiente para hacer una noticia confiable: la única versión es un texto de Lidom sobre un juego de béisbol y el texto está cortado a la mitad, por lo que no puedo verificar el ')
+[Deportes] Lidom: texto leído 2238 letras -> https://lidom.com/toros-del-este/jesus-mejia-confia-en-toros-levantaran-su-rendimiento-y-pelearan-por-la-clasificacion-99894.html
+Revisión: corregida (quité "Sobre la liga, afirmó:" por ser una atribución incompleta y ajusté la frase sobre bateo situacional a 
+[Deportes] Lidom: texto leído 2094 letras -> https://lidom.com/leones-del-escogido/escogido-protege-su-nucleo-de-jugadores-99897.html
+Revisión: corregida (se quitó "Así lo expresó Carlos Peña, al frente de la dirigencia del equipo" por ser redundante con la atribu
+Fuente no confiable, se salta: prensa-latina.cu
+Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: ciudadoriental.com
+Es opinión o editorial, se salta: Urgente organización y movilización colectiva
+Fuente no confiable, se salta: lapropuestadigital.com
+[Precios y combustibles] CDN: texto leído 3940 letras -> https://cdn.com.do/economicas/comerciantes-garantizan-alimentos-y-precios-estables-en-navidad/?amp=1
+Revisión: corregida (se quitó la atribución a Codopyme y "el pollo, los huevos" no aparece en la cita de pollo; se corrigió "la es
+[Videojuegos] Nintendo: texto leído 5043 letras -> https://www.nintendo.com/us/whatsnew/nintendo-announces-black-friday-offers-to-help-spread-joy-this-holiday-season/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Head out for adventure with these RPGs - News - Nintendo Official Site
-[Videojuegos] Nintendo: texto leído 1354 letras -> https://www.nintendo.com/us/store/products/my-mario-mario-friends-wood-block-set-120836/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): My Mario™ Mario & Friends Wood Block Set
-[Videojuegos] Nintendo: texto leído 919 letras -> https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-upgrade-pack-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition Upgrade Pack for Nintendo Switch 2
+Revisión: corregida (cambié "Nintendo lanza" por "Nintendo lanza" sin cambio; corregí la fecha final de la promoción de Mario Kart
+Consejo del día (divisas): Cuida tu dinero: compara antes de cambiar
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
-Fotos para subir a mano: 60 en aldiard.com/fotos/
-13 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 38 · ya cubiertas: 1 · no confiables: 1 · opinión: 1 · con texto leído: 37 · sin texto: 5 · medios juntados: 4 · con fuente oficial: 20 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 5 · descartadas por la IA: 15 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 4
-Para Instagram (tendencia 3): Cuatro merengueros y bachateros dominicanos compiten en los Latin Grammy 2026
+Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
+15 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 14 · ya vistas: 3 · ya cubiertas: 1 · no confiables: 4 · opinión: 1 · con texto leído: 28 · sin texto: 5 · medios juntados: 7 · con fuente oficial: 10 · aprobadas por la revisión: 0 · corregidas por la revisión: 12 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 4 · error IA: 2 · descartadas por la IA: 5 · cambiadas de sección: 5 · largas: 12 · ocultas (cortas): 3
+Para Instagram (tendencia 2): Gobierno dominicano impulsa agenda de cuidados como política de Estado
