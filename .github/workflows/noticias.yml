@@ -13,7 +13,7 @@ env:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20     # si algo se traba, se corta a los 20 minutos y no bloquea las siguientes
+    timeout-minutes: 45     # si algo se traba, se corta y no bloquea las siguientes
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,8 +28,11 @@ jobs:
         run: |
           git config user.name "aldiard-bot"
           git config user.email "bot@aldiard.com"
+          rm -rf docs/fotos   # la página vieja de fotos (ahora es docs/fotosjb88)
           git add docs
           git commit -m "Noticias $(date -u +%F_%H%M)" || echo "sin cambios"
+          # si mientras corría alguien subió un archivo al repo, se trae primero (si no, el push falla)
+          git pull --rebase -X theirs
           git push
       - uses: actions/setup-node@v4
         with:
@@ -56,4 +59,5 @@ jobs:
         run: |
           git add docs
           git commit -m "Instagram $(date -u +%F_%H%M) [CF-Pages-Skip]" || echo "sin cambios"
+          git pull --rebase -X theirs
           git push
