@@ -1,46 +1,41 @@
-Corrida: 2026-11-11 06:46 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+Corrida: 2026-11-11 11:53 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000, 6100')
 [República Dominicana] Presidencia de la República Dominicana: texto leído 1365 letras -> https://presidencia.gob.do/noticias/gobierno-anuncia-acueducto-multiple-de-yaguate-san-cristobal
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno anuncia acueducto múltiple de Yaguate, San Cristóbal -> cifras que no aparecen en las fuentes: 15, 1500
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4283 letras -> https://presidencia.gob.do/noticias/sns-deja-en-funcionamiento-nuevas-unidades-de-endoscopia-y-microbiologia-en-el-hospital
-[República Dominicana] Noticias SIN: texto leído 3969 letras -> https://noticiassin.com/pais/gobierno/2026/11/11/sns-inaugura-unidades-de-endoscopia-y-microbiologia-en-cotui-2167609/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
-Revisión: corregida (se quitó "en la Red Pública" y "con más precisión" no cambia; se atribuyó "permitirán ofrecer servicios con m
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4161 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-participa-junto-con-la-primera-dama-raquel-arbaje-en-toma-de
-[República Dominicana] El Dia.com.do: texto leído 680 letras -> https://eldia.com.do/abinader-asiste-a-toma-de-posesion-canonica-de-nuevo-ordinario-militar/
-[República Dominicana] El Nuevo Diario: texto leído 2719 letras -> https://elnuevodiario.com.do/abinader-participa-en-toma-de-posesion-de-monsenor-morel-diplan-como-ordinario-militar/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Revisión: corregida (se añadió atribución a las fuentes en "Este dato" no aplica; se corrigió el "Morel Diplán" en el cargo de "or
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1141 letras -> https://presidencia.gob.do/noticias/caasd-extiende-plazo-de-recepcion-de-ofertas-para-sorteo-de-obras-de-mipymes-mujer-hasta
-[República Dominicana] centralnoticias.gob.do: texto leído 2147 letras -> https://centralnoticias.gob.do/caasd-extiende-recepcion-de-ofertas-para-sorteo-de-obras-dirigido-a-mipymes-mujer/
-[República Dominicana] El Nuevo Diario: texto leído 2077 letras -> https://elnuevodiario.com.do/caasd-extiende-recepcion-de-ofertas-para-sorteo-de-obras-dirigido-a-mipymes-mujer/
-Fuente oficial encontrada: Presidencia de la República Dominicana, centralnoticias.gob.do | para completar: El Nuevo Diario
-Revisión: corregida (se quitó "según la institución" redundante en la única oración sin atribución clara; se ajustó "Caasd" a "CAA
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-da-apertura-la-xvi-cumbre-ameripol-que-reune-delegaciones
+[República Dominicana] Infobae: texto leído 4898 letras -> https://www.infobae.com/republica-dominicana/2026/11/12/el-presidente-luis-abinader-pide-coordinacion-internacional-contra-el-crimen-organizado-durante-la-cumbre-de-ameripol/?outputType=amp-type
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Infobae
+Revisión: corregida (eliminé "y encuentra refugio" no, sino: quité la mención "la Cámara de Diputados tenía en agenda" sin cambios
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4269 letras -> https://presidencia.gob.do/noticias/eted-anuncia-mantenimiento-y-mejoras-en-lineas-de-transmision-de-69-kv
+[República Dominicana] Periódico elDinero: texto leído 4050 letras -> https://eldinero.com.do/388152/eted-anuncia-mantenimiento-y-mejoras-en-lineas-de-transmision-de-69-kv/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Periódico elDinero
+Revisión: corregida (horarios de inicio corregidos en CLAVES y GANCHO según las fuentes; se corrigió "Duarte" en la línea de Navar
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/prision-preventiva-para-dos-investigados-por-delitos-de-trata-de-menores-de-edad-con-fines-de-explotacion-sexual/
+[República Dominicana] Acento: texto leído 2829 letras -> https://acento.com.do/actualidad/imponen-tres-meses-de-prision-preventiva-a-dos-investigados-por-trata-y-explotacion-sexual-de-menores-en-santiago-9788144.html
+[República Dominicana] CDN: texto leído 3513 letras -> https://cdn.com.do/nacionales/dos-investigados-por-explotacion-sexual-de-menores-iran-a-prision/
+Revisión: corregida (quité "Es importante"-tipo muletillas no había; corregí atribuciones: el relato de que los investigados "cont
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5973 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión es solo navegación del sitio web del Ministerio de Administración Pública (menús, botones de inicio de sesión, listados de documentos y enlaces). No contiene una noticia concreta: no hay ')
-[Dominicanos en EE.UU.] Ministerio de Educación de la República Dominicana: texto leído 1773 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/legalizacion-de-record-de-notas-de-educacion-media
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Legalización De Récord De Notas De Educación Media
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3467 letras -> https://centralnoticias.gob.do/republica-dominicana-sera-sede-del-panamericano-de-beisbol-sub-12-del-20-al-27-de-noviembre/
-Fuente oficial encontrada: centralnoticias.gob.do 
-Cambiada de sección: Dominicanos en EE.UU. -> Deportes: República Dominicana será sede del Panamericano de Béisbol Sub-12 del 20 al 27 de noviembre
-Revisión: corregida (eliminé "Doce selecciones llegarán a Guerra" en el gancho por ser una formulación más propia de texto, ajusté
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 3599 letras -> https://presidencia.gob.do/noticias/intrant-anuncia-restricciones-para-transporte-de-carga-durante-navidad-y-ano-nuevo
-[Dominicanos en EE.UU.] CDN: texto leído 2722 letras -> https://cdn.com.do/nacionales/intrant-anuncia-restricciones-de-carga-para-navidad-y-ano-nuevo/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: CDN
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Intrant anuncia restricciones para transporte de carga durante Navidad y Año Nuevo
-Revisión: corregida (se corrigió "carga" en el texto y el gancho para reflejar que la prohibición aplica a camiones de carga y que
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste es solo el menú de navegación y el encabezado del sitio web del Ministerio de Administración Pública (MAP). No contiene ninguna noticia concreta: no hay hechos, fe')
 [Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 2621 letras -> https://usun.usmission.gov/explanation-of-vote-for-unga-81-3c-resolution-office-of-the-united-nations-high-commissioner-for-refugees/
 Fuente oficial encontrada: United States Mission to the United Nations (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Explanation of Vote for UNGA 81/3C Resolution "Office of the United Nations High Commissioner for Refugees"
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 6288 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-10-2026/
-[Dominicanos en EE.UU.] U.S. Mission Ireland (.gov): texto leído 2784 letras -> https://ie.usembassy.gov/security-alert-u-s-embassy-dublin-ireland-november-10-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in the Philippines (.gov): texto leído 3322 letras -> https://ph.usembassy.gov/security-alert-asean-summit-traffic-security-and-flight-disruptions-in-metro-manila-november-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Mission Ireland (.gov), U.S. Embassy in the Philippines (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission to Saudi Arabia – November 10, 2026
-Revisión: corregida (se quitó "en todo el territorio" por "en todo el país"? no: se ajustó "pidió... extremar la vigilancia" a "pi
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility
+[Dominicanos en EE.UU.] USDA Food and Nutrition (.gov): texto leído 3606 letras -> https://www.fna.usda.gov/snap/fr-111026a
+Fuente oficial encontrada: Federal Register (.gov), USDA Food and Nutrition (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility
+Revisión: corregida (se quitó "eliminaría esa amplitud y dejaría solo la asistencia TANF formal", que no está en las fuentes; se c
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care
+Fuente oficial encontrada: Federal Register (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care
+[Dominicanos en EE.UU.] U.S. Embassy and Consulates in the United Kingdom (.gov): texto leído 826 letras -> https://uk.usembassy.gov/cdc-requirement-for-travelers-flying-to-the-united-states/
+Fuente oficial encontrada: U.S. Embassy and Consulates in the United Kingdom (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: CDC Requirement for Travelers Flying to the United States
+Revisión: corregida (se añadió atribución a la embajada en el gancho/claves, se corrigió "EE.UU. exige" para atribuir la exigencia
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1339 letras -> https://elnacional.com.do/mundo/ola-frio-azotara-ny-otros-estados-costa-dominicanos-seran-afectados_585943.html
+Revisión: corregida (la fuente dice "Servicio Meteorológico de Estados Unidos" en el encabezado y "Servicio Meteorológico Nacional
 [Internacionales] The White House (.gov): texto leído 2882 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-b6a4/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nominations and Withdrawals Sent to the Senate
@@ -49,43 +44,42 @@ Fuente oficial encontrada: The White House (.gov)
 No encaja en ninguna sección, se salta: Presidential Determination Concerning Wildfire Suppression Activities in the United States
 [Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/secretary-hegseth-torches-baseless-impeachment-stunt-this-is-not-patriotism-this-is-sabotage/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como está planteada. La única versión que tengo es un comunicado oficial de la Casa Blanca (.gov) que defiende al secretario Hegseth contra un juicio')
-[Famosos] Diario Libre: texto leído 2010 letras -> https://www.diariolibre.com/revista/musica/2026/11/11/tres-dominicanos-en-la-final-de-red-bull-batalla-centroamerica/3717538
-Cambiada de sección: Famosos -> Deportes: Reimy, Numenosis y KDT RSD llevan la bandera dominicana a la final de Red Bull Batalla Centroamérica
-Revisión: corregida (Ajusté "Centroamérica" a "Centroamérica y el Caribe" en el título solo si las fuentes lo sostienen; como no l
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/farandula/muere-toukie-smith-expareja-de-robert-de-niro-y-madre-de-sus-mellizos-airyn-y-julian-20261111-0020.html
-[Famosos] Quién: texto leído 3733 letras -> https://www.quien.com/espectaculos/2026/11/11/muere-toukie-smith-mama-de-los-gemelos-de-robert-de-niro-tras-luchar-contra-una-dura-enfermedad
-[Famosos] La Nación: texto leído 3576 letras -> https://www.lanacion.com.ar/espectaculos/murio-toukie-smith-expareja-de-robert-de-niro-y-madre-de-sus-gemelos-a-los-74-anos-nid10112026/
-Revisión: corregida (eliminé "Smith, nacida como Doris" sin cambios; corregí "Hubert de Givenchy" a fuente sin error; quité "Issey
-[Famosos] Diario Libre: texto leído 3171 letras -> https://www.diariolibre.com/revista/musica/2026/11/11/conoce-la-lista-de-dominicanos-nominados-a-los-latin-grammy-2026/3717849
-[Famosos] Diario AS: texto leído 7000 letras -> https://as.com/us/tikitakas/latin-grammy-2026-nominados-lista-completa-y-artistas-que-estaran-presentes-f202611-n/
-No se pudo bajar la página: <HTTPError 406: 'Not Acceptable'>
-[Famosos] Univision: texto leído 0 letras -> https://www.univision.com/shows/latin-grammy/latin-grammy-2026-estos-son-los-temas-nominados-en-la-categoria-mejor-cancion-pop
-Revisión: corregida (eliminé "Melymel" de la nominación de El Pana Deiby porque las fuentes no lo confirman como compositor y solo
-[Deportes] Lidom: texto leído 1033 letras -> https://lidom.com/tigres-del-licey/gomez-reconoce-errores-del-licey-y-destaca-la-profundidad-de-su-plantilla-99708.html
-Revisión: corregida (eliminé "Gómez reconoció el mérito del jugador de los Gigantes" porque la fuente dice "el mérito del cuadrang
-[Deportes] Lidom: texto leído 2802 letras -> https://lidom.com/lidom/escogido-castiga-a-bauer-y-recupera-el-liderato-99721.html
-Revisión: corregida (corregí "4-for-2" a "2-for-4" según la fuente "terminó de 4-2"; quité en la traducción "Ramírez finished 4-fo
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 3332 letras -> https://micm.gob.do/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena/
-[Precios y combustibles] De Último Minuto: texto leído 3466 letras -> https://deultimominuto.com/economia/sanz-lovaton-afirma-la-libre-competencia-encamina-el-pais-hacia-la-renta-plena/
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes | para completar: De Último Minuto
-Cambiada de sección: Precios y combustibles -> República Dominicana: Sanz Lovatón afirma la libre competencia encamina el país hacia la renta plena
-Revisión: corregida (quité "Estas son sus razones" del gancho por ser relleno no sustentado, precisé que la inversión extranjera y
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. Solo tengo una versión, y es un comunicado de la Casa Blanca: la fuente oficial se limita a defender al secretario Hegseth y a criticar la propuesta de ')
+[Famosos] Diario Libre: texto leído 2373 letras -> https://www.diariolibre.com/revista/cultura/2026/11/11/melissa-nunez-comienza-a-destacarse-en-el-miss-universe-2026/3718032
+Revisión: corregida (quité "pese a accidente" del título por ser un encuadre que no cambia el hecho pero sí el tono; el inglés "De
+[Famosos] Listín Diario: texto leído 1852 letras -> https://listindiario.com/entretenimiento/redes-sociales/20261111/influencer-relata-angustia-vivio-alerta-atentado-escuela-hijo-ee-uu_929776/amp.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Influencer dominicana relata angustia tras una alerta de atentado en escuela de su hijo en EE.UU.
+[Famosos] El Nacional — La voz de todos: texto leído 1529 letras -> https://elnacional.com.do/fama-y-vida/farandula/yiyo-sarante-quedo-exito-convierte-me-hice-viral-ep_585941.html
+Revisión: corregida (corregí el título y el gancho en ambos idiomas para usar "Yiyo Sarante" sin el "lanza" repetido y eliminé "pu
+[Deportes] Lidom: texto leído 1676 letras -> https://lidom.com/aguilas-cibaenas/urueta-valora-su-experiencia-como-finalista-para-dirigir-a-houston-99773.html
+Revisión: corregida (Corregí "dirigir a los Astros" en el título por "capataz"; quité "Dominican manager" → "Dominican manager" se
+[Deportes] Lidom: texto leído 1436 letras -> https://lidom.com/tigres-del-licey/cesar-valdez-espera-regresar-en-las-proximas-dos-o-tres-semanas-99782.html
+[Deportes] El Nuevo Diario: texto leído 1403 letras -> https://elnuevodiario.com.do/cesar-valdez-espera-regresar-en-proximas-dos-o-tres-semanas-con-tigres/
+Revisión: corregida (se cambió "rotación" por "montículo" en el titular y se afinó la redacción del párrafo inicial para que coinc
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 660 letras -> https://www.micm.gob.do/transparencia/base-legal-de-la-institucion/alphaindex/file-transparencia/e/2
+Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
 [Precios y combustibles] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6716-valdez-albizu-resalta-a-la-mision-del-articulo-iv-del-fmi-que-la-economia-se-expandio-mejor-de-lo-previsto-en-2026-con-un-acumulado-de-46--a-septiembre
 [Precios y combustibles] Periódico elDinero: texto leído 5222 letras -> https://eldinero.com.do/388127/valdez-albizu-resalta-a-mision-del-articulo-iv-del-fmi-que-economia-se-expandio-mejor-de-lo-previsto-en-2026-con-acumulado-de-4-6-a-septiembre/
 Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Periódico elDinero
 Cambiada de sección: Precios y combustibles -> República Dominicana: Valdez Albizu resalta a la misión del Artículo IV del FMI que la economía se expandió mejor de lo previsto en 2026, con un acumulado de 4.6 % a septiembre
-Rechazada por la revisión: Valdez Albizu resalta a la misión del Artículo IV del FMI que la economía se expandió mejor de lo previsto en 2026, con un acumulado de 4.6 % a septiembre -> cifras que no aparecen en las fuentes: 507, 50700, 5349
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/polideportivo/sine-da-segundo-oro-a-rd-en-dakar-2026/
-No se pudo leer el artículo; no se publica para no salir corta: Siné da segundo oro a RD en Dakar 2026
-[Videojuegos] Nintendo: texto leído 1636 letras -> https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-for-nintendo-switch-2-sells-over-5-2-million-units-worldwide-in-first-four-days/
+Revisión: corregida (cambié "Valdez Albizu consideró" no aplica; ajusté en el texto español la afirmación de que el peso "acumula"
+[Precios y combustibles] ProConsumidor.gob.do: texto leído 3745 letras -> https://proconsumidor.gob.do/pro-consumidor-ha-incinerado-7-millones-de-productos-no-aptos-para-el-consumo-en-los-ultimos-seis-anos/
+[Precios y combustibles] El Nuevo Diario: texto leído 3672 letras -> https://elnuevodiario.com.do/pro-consumidor-dice-que-ha-incinerado-7-millones-de-productos-no-aptos-para-el-consumo-en-los-ultimos-seis-anos/
+Fuente oficial encontrada: ProConsumidor.gob.do | para completar: El Nuevo Diario
+Cambiada de sección: Precios y combustibles -> República Dominicana: Pro Consumidor ha incinerado 7 millones de productos no aptos para el consumo en los últimos seis años
+Revisión: corregida (se quitó la atribución a "los operativos de julio y septiembre" sin cambios de fondo; se corrigió "Ceccom" a 
+[Videojuegos] Nintendo: texto leído 5741 letras -> https://www.nintendo.com/ph/news/article/6jeJHY4mOHUPjaTtalbiP7
 Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se cambió "Ocarina of Time para Switch 2" a "la versión para Nintendo Switch 2" en el texto para mantener la 
-Video de YouTube agregado: The Legend of Zelda: Ocarina of Time – Launch Trailer – Nintendo Switch 2
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que has pegado está incompleto: la Versión 1 se corta a mitad de la descripción de las funciones de búsqueda de la tienda, y no aparecen las versiones de otros medios que menc')
+[Videojuegos] Nintendo: texto leído 1354 letras -> https://www.nintendo.com/us/store/products/my-mario-mario-friends-wood-block-set-120836/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): My Mario™ Mario & Friends Wood Block Set
+[Videojuegos] Nintendo: texto leído 919 letras -> https://www.nintendo.com/us/store/products/prinny-party-going-overboard-nintendo-switch-2-edition-upgrade-pack-switch-2/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Prinny Party: Going Overboard! – Nintendo Switch™ 2 Edition Upgrade Pack for Nintendo Switch 2
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotos/
-14 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 11 · ya cubiertas: 1 · no confiables: 0 · opinión: 0 · con texto leído: 33 · sin texto: 3 · medios juntados: 12 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 13 · rechazadas por la revisión: 2 · con video: 1 · con foto oficial: 8 · error IA: 2 · descartadas por la IA: 4 · cambiadas de sección: 6 · largas: 13 · ocultas (cortas): 1
-Para Instagram (tendencia 3): Caasd extiende hasta el 16 de noviembre plazo para obras de pozos reservadas a mipymes mujer
+12 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 22 · ya cubiertas: 0 · no confiables: 0 · opinión: 0 · con texto leído: 31 · sin texto: 1 · medios juntados: 8 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 12 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 4 · error IA: 3 · descartadas por la IA: 8 · cambiadas de sección: 4 · largas: 12 · ocultas (cortas): 0
