@@ -2082,18 +2082,18 @@ def generar_guias():
 FOTOS_HORAS = 48   # en aldiard.com/fotos/ salen las noticias de las últimas 48 horas
 
 def generar_fotos(todas, consejos):
-    """Página para subir a mano a Instagram o X: aldiard.com/fotos/ con la imagen de CADA noticia reciente,
+    """Página para subir a mano a Instagram o X: aldiard.com/fotosjb88/ con la imagen de CADA noticia reciente,
     su texto listo para copiar y botones para descargar. No sale en Google (noindex) ni en el menú.
-    Las fotos se rehacen en cada corrida y NO se guardan en GitHub (docs/fotos está en .gitignore)."""
+    Las fotos se rehacen en cada corrida y NO se guardan en GitHub (docs/fotosjb88 debe estar en .gitignore)."""
     from instagram import texto_noticia, texto_consejo  # el mismo texto y hashtags que salen en Instagram
-    os.makedirs("docs/fotos", exist_ok=True)
+    os.makedirs("docs/fotosjb88", exist_ok=True)
     limite = ahora() - timedelta(hours=FOTOS_HORAS)
     recientes = [n for n in visibles(todas) if n.get("id") and fecha(n) > limite][:60]
     vigentes = set()
     filas = []
     for n in recientes:
         archivo = f"{n['id']}.jpg"
-        ruta = f"docs/fotos/{archivo}"
+        ruta = f"docs/fotosjb88/{archivo}"
         if not os.path.exists(ruta):
             try:
                 imagen_instagram(n, ruta)
@@ -2104,11 +2104,11 @@ def generar_fotos(todas, consejos):
         texto = texto_noticia(n)  # con los hashtags de su sección (o de su consola si es de videojuegos)
         estado = "✅ Ya salió en Instagram" if n.get("ig_fecha") else "Aún no sale en Instagram"
         filas.append(f"""<div class="fotoman">
-  <img src="/fotos/{archivo}" alt="" loading="lazy">
+  <img src="/fotosjb88/{archivo}" alt="" loading="lazy">
   <div><div class="meta"><span class="chip">{html.escape(n['seccion'])}</span><span class="hora" data-fecha="{n['fecha']}"></span></div>
   <b>{html.escape(n['titulo'])}</b><small>{estado}</small>
   <textarea readonly rows="8">{html.escape(texto)}</textarea>
-  <div class="botman"><a class="directo" href="/fotos/{archivo}" download="aldiard-{archivo}">⬇ Descargar foto</a>
+  <div class="botman"><a class="directo" href="/fotosjb88/{archivo}" download="aldiard-{archivo}">⬇ Descargar foto</a>
   <button type="button" class="copiar">📋 Copiar texto</button></div></div>
 </div>""")
     # consejos de hoy (Divisas RD y KiloClaro), si tienen imagen
@@ -2120,9 +2120,9 @@ def generar_fotos(todas, consejos):
   <div class="meta"><span class="chip">Consejo del día · {html.escape(c['sitio'])}</span></div><b>{html.escape(c['titulo'])}</b>
   <textarea readonly rows="7">{html.escape(texto)}</textarea>
   <div class="botman"><a class="directo" href="/{c['ig_img']}" download>⬇ Descargar foto</a><button type="button" class="copiar">📋 Copiar texto</button></div></div></div>""")
-    for archivo in os.listdir("docs/fotos"):
+    for archivo in os.listdir("docs/fotosjb88"):
         if archivo.endswith(".jpg") and archivo not in vigentes:
-            os.remove(os.path.join("docs/fotos", archivo))
+            os.remove(os.path.join("docs/fotosjb88", archivo))
     css = ("<style>.fotoman{display:grid;grid-template-columns:150px 1fr;gap:14px;background:var(--blanco);border:1px solid var(--linea);"
            "border-radius:14px;padding:12px;margin-bottom:12px}.fotoman img{width:150px;border-radius:8px}.fotoman b{display:block;margin:4px 0}"
            ".fotoman small{color:var(--gris)}.fotoman textarea{width:100%;margin-top:8px;font:13px Inter,system-ui,sans-serif;border:1px solid var(--linea);"
@@ -2132,7 +2132,7 @@ def generar_fotos(todas, consejos):
     js = ("document.querySelectorAll('.copiar').forEach(function(b){b.onclick=function(){var t=b.closest('.fotoman').querySelector('textarea');"
           "t.select();(navigator.clipboard?navigator.clipboard.writeText(t.value):Promise.reject()).catch(function(){document.execCommand('copy')});"
           "b.textContent='✅ Copiado';setTimeout(function(){b.textContent='📋 Copiar texto'},1500)}});")
-    pagina = (cabeza("Fotos para redes · Al Día RD", "Fotos de las noticias para compartir.", SITIO + "/fotos/",
+    pagina = (cabeza("Fotos para redes · Al Día RD", "Fotos de las noticias para compartir.", SITIO + "/fotosjb88/",
                      SITIO + "/img/logo-512.png", "es", None, '\n<meta name="robots" content="noindex, nofollow">' + css)
               + encabezado("es") + f"""
 <main style="max-width:860px">
@@ -2141,9 +2141,9 @@ def generar_fotos(todas, consejos):
 copia el texto y súbela a Instagram o X. Instagram sigue publicando solo de {IG_DESDE}:00 a. m. a {IG_HASTA - 12}:00 p. m.</p>
 {''.join(filas) or '<p class="vacio">Todavía no hay noticias recientes.</p>'}
 </main>""" + pie("es") + f"\n<script>\n{JS_TEMA}{JS_PORTADA}{js}</script>\n</body></html>")
-    with open("docs/fotos/index.html", "w", encoding="utf-8") as f:
+    with open("docs/fotosjb88/index.html", "w", encoding="utf-8") as f:
         f.write(pagina)
-    print(f"Fotos para subir a mano: {len(vigentes)} en aldiard.com/fotos/")
+    print(f"Fotos para subir a mano: {len(vigentes)} en aldiard.com/fotosjb88/")
 
 def generar_sitemap(todas):
     fijas = ("quienes-somos.html", "contacto.html", "privacidad.html")
