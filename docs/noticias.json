@@ -1,5 +1,665 @@
 [
  {
+  "id": "282e62b9c9",
+  "titulo": "Starlink reporta 50,000 antenas en RD y ITLA evalúa pilotos con Grok",
+  "titulo_original": "La multinacional SpaceX destaca presencia de 50,000 clientes con antenas Starlink en República Dominicana",
+  "resumen": "El ITLA prepara pilotos de conectividad e inteligencia artificial en la educación tras una reunión con ejecutivos de SpaceX en el Palacio Nacional.",
+  "gancho": "El ITLA prepara pilotos de conectividad e inteligencia artificial en la educación tras una reunión con ejecutivos de SpaceX en el Palacio Nacional.",
+  "parrafos": [
+   "El presidente Luis Abinader encabezó este jueves una reunión de trabajo con ejecutivos de la multinacional SpaceX y autoridades del Instituto Tecnológico de las Américas (ITLA). El encuentro se realizó en el Salón Privado del Palacio Nacional y sirvió para revisar propuestas tecnológicas dirigidas a ampliar la conectividad y fortalecer la formación académica.",
+   "En la reunión participaron el ministro de la Presidencia, José Ignacio Paliza, y el rector del ITLA, Jimmy Rosario, junto con representantes de SpaceX. Los temas incluyeron el acceso a internet, la innovación tecnológica y el uso de la inteligencia artificial en la educación.",
+   "Al terminar el encuentro, Rosario explicó que se hizo un balance de las propuestas que SpaceX les ha presentado. Dijo que el ITLA ya realizó un piloto con algunas de esas tecnologías, con \"excelentes resultados\". Según Rosario, durante la reunión se destacó que hay más de 50,000 antenas Starlink en todo el país.",
+   "De acuerdo con el rector, el ITLA está dispuesto a trabajar en un nuevo piloto con la plataforma Grok. La idea es que los estudiantes interactúen con esta inteligencia artificial como un agente que les ayude a dar seguimiento a sus tareas y asignaciones, y a desarrollar razonamiento crítico, en lugar de limitarse a dar respuestas.",
+   "Rosario también describió la reunión, en términos generales, como un seguimiento positivo. Afirmó que el país podría implementar pilotos en el sistema educativo con antenas Starlink en las localidades que no tienen conectividad, y que Grok podría ayudar a que los estudiantes razonen mejor al abordar los contenidos de sus escuelas."
+  ],
+  "claves": [
+   "El rector del ITLA, Jimmy Rosario, afirmó que hay más de 50,000 antenas Starlink en el país.",
+   "El presidente Luis Abinader encabezó la reunión con ejecutivos de SpaceX y el ITLA.",
+   "El ITLA ya realizó un piloto con algunas tecnologías de SpaceX, según Rosario, con \"excelentes resultados\".",
+   "El próximo piloto usaría la inteligencia artificial Grok para apoyar el razonamiento de los estudiantes."
+  ],
+  "importa": "Si los pilotos avanzan, localidades sin conectividad podrían acceder a internet y los estudiantes contarían con una nueva herramienta de apoyo académico.",
+  "en": {
+   "titulo": "Starlink Reports 50,000 Antennas in DR as ITLA Weighs Grok Pilots",
+   "gancho": "ITLA is preparing connectivity and AI education pilots after a meeting with SpaceX executives at the National Palace.",
+   "claves": [
+    "ITLA rector Jimmy Rosario said there are more than 50,000 Starlink antennas in the country.",
+    "President Luis Abinader led the meeting with SpaceX executives and ITLA.",
+    "According to Rosario, ITLA has already run a pilot with some SpaceX technologies, with \"excellent results.\"",
+    "The next pilot would use the Grok AI to help students develop critical reasoning."
+   ],
+   "importa": "If the pilots move forward, areas without connectivity could gain internet access, and students would get a new academic support tool.",
+   "parrafos": [
+    "President Luis Abinader led a working meeting on Thursday with executives from the multinational SpaceX and officials from the Instituto Tecnológico de las Américas (ITLA). The meeting took place in the Private Hall of the National Palace and was used to review technology proposals aimed at expanding connectivity and strengthening academic training.",
+    "Minister of the Presidency José Ignacio Paliza and ITLA rector Jimmy Rosario took part, along with SpaceX representatives. Topics included internet access, technological innovation, and the use of artificial intelligence in education.",
+    "After the meeting, Rosario said the group reviewed proposals that SpaceX has presented. He said ITLA has already carried out a pilot with some of those technologies, with \"excellent results.\" According to Rosario, the meeting highlighted that there are more than 50,000 Starlink antennas across the country.",
+    "According to the rector, ITLA is willing to work on a new pilot with the Grok platform. The idea is for students to interact with the AI as an agent that helps them follow their tasks and assignments and build critical reasoning, rather than simply providing answers.",
+    "Rosario also described the meeting, in general terms, as a positive follow-up. He said the country could implement pilots in the education system using Starlink antennas in localities without connectivity, and that Grok could help students reason more effectively when tackling their school content."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2N2dHk4dmc2cnhhSURjYmtXdy1HY0ZCMERUZ0dWWUdZRFJoOVRFUXJhVjZFYWhFM2xPZktvNkJ6LUx4M2lTVXVlRTF0dkgzTUEwQ0dheHVCRVFYdXIzYnBEM21OUVhTNWl3VThaU18zS1hvamozOFB6RmYxbnlIYkI4eUFSOHIxLXRBYTQxWW1WSE5HRlIwbUVKZ3dwUkRSSVlXMDZudTVENmZJT3NoV1BWSTRWNWtGOUYw?oc=5",
+  "url": "https://presidencia.gob.do/noticias/la-multinacional-spacex-destaca-presencia-de-50000-clientes-con-antenas-starlink-en",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/la-multinacional-spacex-destaca-presencia-de-50000-clientes-con-antenas-starlink-en"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002257767.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se quitó la atribución de la cifra de 50,000 antenas a la reunión como dato confirmado por la Presidencia, pasándola a declaración de Rosario; se precisó que el piloto previo fue \"algunas de sus tecnologías\"; se eliminó el titular y gancho que afirmaban \"ya operan\" como hecho; se ajustó la frase \"superinteligencia\" y se corrigió el texto en inglés para que coincida con el español)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-13T01:55:37.243335+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "645b3799b2",
+  "titulo": "Minerd e Ideice premian investigación educativa con el Preiet 2026",
+  "titulo_original": "Ministerio de Educación e IDEICE reconocen a investigadores con el Premio a la Evaluación e Investigación Educativa Transformadora 2026",
+  "resumen": "Tres investigadores recibieron los galardones principales del Preiet 2026, con premios de RD$500,000 cada uno. Conoce quiénes fueron reconocidos.",
+  "gancho": "Tres investigadores recibieron los galardones principales del Preiet 2026, con premios de RD$500,000 cada uno. Conoce quiénes fueron reconocidos.",
+  "parrafos": [
+   "El Ministerio de Educación (Minerd) y el Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa (Ideice) entregaron este miércoles tres galardones y cinco reconocimientos en la segunda edición del Premio a la Evaluación e Investigación Educativa Transformadora (Preiet 2026). La ceremonia en Santo Domingo premió a docentes e investigadores por sus aportes a la producción científica del sector preuniversitario.",
+   "El ministro de Educación, Luis Miguel De Camps, encabezó el acto junto al director ejecutivo del Ideice, Jesús Andújar Avilés. De Camps afirmó que la investigación y la evaluación ofrecen evidencias para orientar decisiones y responder a las necesidades de estudiantes y docentes. Según dijo, cuando un hallazgo mejora una práctica docente o una recomendación se convierte en una decisión que beneficia a los estudiantes, la investigación cumple su propósito.",
+   "Por su parte, Andújar Avilés señaló que el premio busca impulsar investigaciones que generen cambios reales en los centros educativos, en la práctica docente y en la gestión escolar. Añadió que las transformaciones en la educación deben sustentarse en estudios serios y pertinentes a la realidad del sistema preuniversitario.",
+   "Los tres premios principales fueron para Berenice Pacheco Salazar, con el Premio a la Trayectoria Investigativa; Wendesor Espinal Castillo, como Investigador Emergente, con un análisis sobre rendimiento académico y competencias lingüísticas; y Carmen Mata Salcedo, con el reconocimiento Aportes a la Transformación Educativa, por su investigación sobre redes sociales, autoestima y autoimagen corporal. Cada ganador recibió una placa de honor y RD$500,000.",
+   "También fueron reconocidos Santiago Gallur Santorun, Samuel Reyes, Ysmailin Collado Espinal, Yelfri Antonio Rodríguez y José Luis García Bello.",
+   "La coordinadora del Preiet, Deyanira Matrillé, informó que el jurado seleccionó a los ganadores entre 21 postulaciones, evaluadas durante septiembre y octubre. Explicó que esta edición amplió la participación a investigadores de distintas profesiones, nacionales e internacionales, que hayan estudiado la educación dominicana."
+  ],
+  "claves": [
+   "Berenice Pacheco Salazar recibió el Premio a la Trayectoria Investigativa por \"Estar, ser y convivir en la escuela\".",
+   "Wendesor Espinal Castillo fue reconocido como Investigador Emergente.",
+   "Carmen Mata Salcedo recibió el reconocimiento Aportes a la Transformación Educativa.",
+   "El jurado seleccionó a los ganadores entre 21 postulaciones."
+  ],
+  "importa": "Las decisiones de políticas educativas que se basan en investigación buscan mejorar la enseñanza y el aprendizaje de los estudiantes dominicanos en el sistema preuniversitario.",
+  "en": {
+   "titulo": "Dominican Education Ministry and IDEICE Honor Education Researchers at Preiet 2026",
+   "gancho": "Three researchers took the top prizes at the Preiet 2026 awards, each receiving RD$500,000. See who was recognized.",
+   "claves": [
+    "Berenice Pacheco Salazar received the Research Trajectory Award for \"Estar, ser y convivir en la escuela.\"",
+    "Wendesor Espinal Castillo was named Emerging Researcher.",
+    "Carmen Mata Salcedo received the Educational Transformation Contributions award.",
+    "The jury chose the winners from 21 applications."
+   ],
+   "importa": "Education policy decisions based on research aim to improve teaching and learning for Dominican students in pre-university schooling.",
+   "parrafos": [
+    "The Dominican Ministry of Education (Minerd) and the Dominican Institute for the Evaluation and Research of Educational Quality (Ideice) presented three awards and five recognitions on Wednesday at the second edition of the Preiet 2026, the Award for Transformative Educational Evaluation and Research. The ceremony in Santo Domingo honored teachers and researchers for their contributions to scientific output in pre-university education.",
+    "Education Minister Luis Miguel De Camps led the event alongside Ideice executive director Jesús Andújar Avilés. De Camps said research and evaluation provide evidence to guide decisions and respond to the needs of students and teachers. He said that when a finding improves teaching practice, or a recommendation becomes a decision that benefits students, research fulfills its transformative purpose.",
+    "Andújar Avilés said the award seeks to encourage research that produces real change in schools, teaching practice and school management. He added that education reform must be grounded in serious studies relevant to the pre-university system.",
+    "The three main awards went to Berenice Pacheco Salazar, who received the Research Trajectory Award; Wendesor Espinal Castillo, named Emerging Researcher for his analysis of academic performance and language competencies; and Carmen Mata Salcedo, who received the Educational Transformation Contributions award for her research on social media, self-esteem and body image. Each winner received an honor plaque and RD$500,000.",
+    "Santiago Gallur Santorun, Samuel Reyes, Ysmailin Collado Espinal, Yelfri Antonio Rodríguez and José Luis García Bello were also recognized.",
+    "Preiet coordinator Deyanira Matrillé said the jury selected the winners from 21 applications, which were evaluated in September and October. She explained that this edition expanded participation to researchers from different professions, both Dominican and international, who have studied education in the Dominican Republic."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMG5vSGRDbDVaRmU4VGExVWtNdnd2dDRPZFRxelhPNkNINjcwUDFDV2JwUktESGMxclpYdVR0X0YxTkhsNTZXOGdnTjRwY3JaQ0tVeTNQRlRjTDhkb21VMWFMVVpxang3RmZHUXFYVEdta252VGE0dVU3QVozNXFVU1c0Z3FQWXdIX1BqU2J0MDdZaWVoeDFENjk4MzVvVmhsQnlpcTdfeVRoY0NTWjktU2pYc1p2Skh0Vnp1UGxTQXo?oc=5",
+  "url": "https://presidencia.gob.do/noticias/ministerio-de-educacion-e-ideice-reconocen-investigadores-con-el-premio-la-evaluacion-e",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/ministerio-de-educacion-e-ideice-reconocen-investigadores-con-el-premio-la-evaluacion-e"
+   },
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/educacion-e-ideice-premian-a-investigadores-del-preiet-2026/?amp=1"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "CDN"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1.%20Investigadores%20condecorados%202.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (quité frases de relleno; el título de Espinal y el premio RD$500,000 ya coincidían con las fuentes; ajusté el texto de la Trayectoria y el premio de Espinal/Mata para que solo afirme lo que dicen las fuentes; eliminé \"lugar\" implícito de la premiación y \"resultados\" no atribuidos; el inglés se mantuvo fiel al español)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-13T01:55:57.194425+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "bd96ec6610",
+  "titulo": "Marileidy Paulino recibe apartamento del Gobierno cerca del Centro Olímpico",
+  "titulo_original": "La campeona olímpica Marileidy Paulino agradece al presidente Luis Abinader por el apartamento que le entregó el Gobierno y asegura ahora estará “más cerca del Centro Olímpico”",
+  "resumen": "La campeona olímpica recibió un apartamento como parte de una promesa del presidente Abinader. Ella explica por qué le cambia la vida.",
+  "gancho": "La campeona olímpica recibió un apartamento como parte de una promesa del presidente Abinader. Ella explica por qué le cambia la vida.",
+  "parrafos": [
+   "El presidente Luis Abinader entregó a la campeona olímpica Marileidy Paulino un apartamento en el sector Ensanche Naco, en el Distrito Nacional. La atleta agradeció el gesto y dijo que le permitirá estar más cerca del Centro Olímpico, donde realiza sus entrenamientos.",
+   "Paulino explicó que antes tenía que salir muy temprano para llegar a sus compromisos deportivos, y que en ocasiones la congestión vehicular le tomaba hasta una hora. \"Es una gran oportunidad, porque no es lo mismo levantarse a las cinco y media de la mañana que a las seis y ya estar ahí mismo\", expresó.",
+   "Según la Presidencia, la entrega es un acto de justicia y reconocimiento a los sacrificios de la atleta y a su aporte al posicionamiento de la República Dominicana en el deporte internacional. El mandatario dijo sentir orgullo cuando los medios internacionales destacan los triunfos de la velocista y expresó el deseo de que la vivienda sea un hogar donde su familia pueda vivir feliz.",
+   "Durante el acto, Paulino estuvo acompañada de su madre, Anatalia Paulino, sus sobrinas y su entrenador, Yaseen Pérez. La atleta destacó que este tipo de apoyo sirve de motivación para otros deportistas, porque demuestra que el esfuerzo y los resultados reciben respaldo.",
+   "El ministro de Deportes, Kelvin Cruz, agradeció al presidente el respaldo al sector deportivo, incluidos los aumentos del Programa de Apoyo a los Atletas de Alto Rendimiento, Nuevos Valores e Inmortales (PARNI). Cruz señaló que la entrega representa un reconocimiento para toda la República Dominicana.",
+   "Al acto también asistieron el presidente ejecutivo del Banco de Reservas, Leonardo Aguilera, y el presidente de Centro Caribe Sports, Luis Mejía Oviedo."
+  ],
+  "claves": [
+   "El apartamento está en el sector Ensanche Naco, en el Distrito Nacional.",
+   "Paulino dice que ahora estará más cerca del Centro Olímpico, donde entrena.",
+   "Antes enfrentaba hasta una hora de congestión vehicular para llegar a sus compromisos.",
+   "El presidente Luis Abinader la entregó como reconocimiento a su trayectoria."
+  ],
+  "importa": "Muestra cómo el Gobierno apoya a los atletas de alto rendimiento y busca mejorar su calidad de vida. Para los deportistas dominicanos, es una señal de que sus logros pueden tener respaldo oficial.",
+  "en": {
+   "titulo": "Olympic champion Marileidy Paulino receives government apartment near Olympic Center",
+   "gancho": "Olympic champion Marileidy Paulino received an apartment as part of a promise from President Abinader. She explains how it will change her daily life.",
+   "claves": [
+    "The apartment is in the Ensanche Naco sector of the Distrito Nacional.",
+    "Paulino says she will now be closer to the Olympic Center, where she trains.",
+    "She previously faced up to an hour of traffic to reach her training commitments.",
+    "President Luis Abinader handed over the apartment as recognition of her career."
+   ],
+   "importa": "It shows how the government is supporting high-performance athletes and trying to improve their quality of life. For Dominican athletes, it signals that their achievements can receive official backing.",
+   "parrafos": [
+    "Dominican President Luis Abinader handed Olympic champion Marileidy Paulino an apartment in the Ensanche Naco sector of the Distrito Nacional. The athlete thanked him and said it will allow her to be closer to the Olympic Center, where she trains.",
+    "Paulino explained that she used to have to leave very early to reach her sports commitments, and at times traffic congestion took up to an hour. \"It's a great opportunity, because it's not the same to get up at five-thirty in the morning as it is at six and already be right there,\" she said.",
+    "According to the Presidency, the handover is an act of justice and recognition of the athlete's sacrifices and her contribution to putting the Dominican Republic on the international sports map. The president said he feels pride when international media highlight the sprinter's victories, and expressed his hope that the home will be a place where her family can live happily.",
+    "During the event, Paulino was accompanied by her mother, Anatalia Paulino, her nieces, and her coach, Yaseen Pérez. The athlete said this kind of support motivates other athletes, because it shows that effort and results receive backing.",
+    "Sports Minister Kelvin Cruz thanked the president for his support of the sports sector, including increases to the High-Performance Athlete Support Program, New Talents and Immortals (PARNI). Cruz said the handover is a recognition for the entire Dominican Republic.",
+    "Also attending were Banco de Reservas executive president Leonardo Aguilera and Centro Caribe Sports president Luis Mejía Oviedo."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQW9MMkZZUkRjX09pdC1PWXhFMXlSMmQ1b2VDRmFxQjVxWWZXbUk3VnctU0x1cHBOT0RIMXdmMDh1LXY2VnFhc1dtS0RET3pzOHlxVFVnN01XNVZaUEIwdF9kdnQ0ZFFTam9wTVFWV1hIaEs2ZE5uSmtkbDV6VTZLOGV2R1pVbTBzV2hMNjhFcERWUmFfN3J3d2M4dmRReWlReGJUQ1gteFRaRXpVNHdQc3RTMHBaYlVyamc?oc=5",
+  "url": "https://presidencia.gob.do/noticias/la-campeona-olimpica-marileidy-paulino-agradece-al-presidente-luis-abinader-por-el",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/la-campeona-olimpica-marileidy-paulino-agradece-al-presidente-luis-abinader-por-el"
+   },
+   {
+    "nombre": "N Digital",
+    "url": "https://n.com.do/2026/11/12/asi-fue-el-momento-en-que-marileidy-paulino-recibio-su-nuevo-apartamento/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "N Digital"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002257893.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (eliminé frases de relleno en el texto en español; el inglés se ajustó para mantener la equivalencia. No se encontraron cifras, fechas ni nombres incorrectos respecto a las fuentes.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-13T01:56:35.159179+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "de986b7b27",
+  "titulo": "SNS y Contraloría llevan control financiero a 56 hospitales públicos",
+  "titulo_original": "SNS y Contraloría implementan sistemas de control interno y gestión financiera en 56 hospitales",
+  "resumen": "El Gobierno inicia en 56 hospitales un nuevo sistema para controlar los pagos y los recursos públicos. La meta es llegar a todos para 2027.",
+  "gancho": "El Gobierno inicia en 56 hospitales un nuevo sistema para controlar los pagos y los recursos públicos. La meta es llegar a todos para 2027.",
+  "parrafos": [
+   "El Servicio Nacional de Salud (SNS) y la Contraloría General de la República (CGR) comenzaron a implementar el Sistema de Trámite Regular Estructurado (TRE) y el Sistema Unificado de Gestión de Pagos (SUGEP) en 56 hospitales de la Red Pública de Servicios de Salud. El proceso arrancó con una jornada de capacitación en Santo Domingo.",
+   "La iniciativa busca optimizar la supervisión, el control y el seguimiento de las operaciones administrativas y financieras de estos hospitales. También pretende que se cumplan las normas y procedimientos establecidos, para lograr una gestión más transparente, eficiente y responsable.",
+   "El director ejecutivo del SNS, doctor Julio Landrón, destacó que este paso es significativo para la modernización de la gestión hospitalaria. Señaló que, con estos 56 hospitales, un total de 99 contarán con las herramientas, pues se suman a los 43 que ya las tienen. \"Nuestra meta es clara: para el año 2027, el 100 % de los hospitales debe tener implementada esta importante herramienta\", expresó. Según Landrón, la medida representa el fortalecimiento de una cultura basada en la transparencia, la responsabilidad y el uso eficiente de los recursos del Estado.",
+   "Landrón indicó que la iniciativa forma parte de la visión de fortalecer la Red Pública de Servicios de Salud y responde al compromiso del presidente Luis Abinader con la modernización de las instituciones del Estado. Agradeció el acompañamiento técnico e institucional de la Contraloría y remarcó que la implementación debe estar respaldada por capacitación, seguimiento, supervisión, monitoreo y evaluación permanente.",
+   "Por su parte, el subcontralor general de la República, Cecilio Disla, habló en representación del contralor general, Geraldo Espinosa. Explicó que la Contraloría, como órgano rector del control interno, tiene la responsabilidad de brindar acompañamiento y asistencia a las instituciones públicas. Disla indicó que durante la jornada se socializarán herramientas y plataformas como el TRE, el SUGEP y las Normas Básicas de Control Interno (NOBACI), instrumentos para fortalecer los mecanismos de control y garantizar el uso adecuado de los recursos públicos."
+  ],
+  "claves": [
+   "El SNS y la Contraloría General de la República iniciaron la implementación de dos sistemas en 56 hospitales.",
+   "Los sistemas son el TRE y el SUGEP, y buscan mejorar el control interno y la gestión financiera.",
+   "Con esta incorporación, 99 hospitales tendrán estas herramientas, sumados a los 43 que ya las usan.",
+   "La meta es que el 100 % de los hospitales las tenga implementadas para el año 2027."
+  ],
+  "importa": "Si usted recibe servicios en la Red Pública de Servicios de Salud, el objetivo es que el manejo del dinero del Estado en los hospitales sea más transparente y responsable.",
+  "en": {
+   "titulo": "SNS and Comptroller's Office Bring Financial Controls to 56 Public Hospitals",
+   "gancho": "The government is rolling out a new system in 56 hospitals to control payments and public funds. The goal is to reach every hospital by 2027.",
+   "claves": [
+    "The SNS and the Comptroller General's Office began implementing two systems in 56 hospitals.",
+    "The systems are the TRE and the SUGEP, aimed at improving internal control and financial management.",
+    "With this addition, 99 hospitals will have the tools, joining the 43 that already use them.",
+    "The goal is for 100% of hospitals to have the systems in place by 2027."
+   ],
+   "importa": "If you use services at the Dominican Republic's public health network, the aim is more transparent and accountable handling of state money in hospitals.",
+   "parrafos": [
+    "The Servicio Nacional de Salud (SNS) and the Comptroller General of the Republic (CGR) have begun implementing the Sistema de Trámite Regular Estructurado (TRE) and the Sistema Unificado de Gestión de Pagos (SUGEP) in 56 hospitals in the Public Health Services Network. The process started with a training session in Santo Domingo.",
+    "The initiative aims to improve oversight, control, and monitoring of the hospitals' administrative and financial operations. It also seeks to ensure compliance with established rules and procedures, for more transparent, efficient, and accountable management.",
+    "SNS executive director Dr. Julio Landrón said the step is significant for modernizing hospital management. He noted that with these 56 hospitals, a total of 99 will have the tools, joining the 43 that already have them. \"Our goal is clear: by 2027, 100% of hospitals must have this important tool implemented,\" he said. According to Landrón, the measure strengthens a culture based on transparency, accountability, and efficient use of state resources.",
+    "Landrón said the initiative is part of the effort to strengthen the Public Health Services Network and reflects President Luis Abinader's commitment to modernizing state institutions. He thanked the Comptroller's Office for its technical and institutional support and stressed that implementation must be backed by training, follow-up, supervision, monitoring, and ongoing evaluation.",
+    "For its part, Deputy Comptroller General Cecilio Disla, speaking on behalf of Comptroller General Geraldo Espinosa, said the Comptroller's Office, as the governing body for internal control, is responsible for supporting and assisting public institutions. Disla explained that the session will present tools and platforms such as the TRE, SUGEP, and the Basic Internal Control Standards (NOBACI), instruments meant to strengthen controls and ensure proper use of public resources."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFJNWGQtT2MyYWpzTmszbzgxMTBaYUV0Y2U3azBXOW1LX0RuZzZZeE50WUViTDB0TkVxVlRXcUVhaEthSG1fWHhUWmt1alkxeHZmcUFMLXM2QnRzalBiRHFweVNNNkdqOWlVSUxVNjRaOG80WFY3eUZXdEhHem1XZTZoc0JLUFM5eHJnTDRFaWMtLUljLXQxMU83QWFIUjBnYnBoU3RSWnY2UmthQkVNZUhjbzQzU25nOEtJdDd0RWt1dw?oc=5",
+  "url": "https://sns.gob.do/publicaciones/sns-y-contraloria-implementan-sistemas-de-control-interno-y-gestion-financiera-en-56-hospitales/",
+  "fuente": "Servicio Nacional de Salud – SNS",
+  "dominio": "sns.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Servicio Nacional de Salud – SNS",
+    "url": "https://sns.gob.do/publicaciones/sns-y-contraloria-implementan-sistemas-de-control-interno-y-gestion-financiera-en-56-hospitales/"
+   },
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://www.presidencia.gob.do/noticias/sns-y-contraloria-implementan-sistemas-de-control-interno-y-gestion-financiera-en-56"
+   },
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/salud/2026/11/12/sns-y-contraloria-implementan-sistemas-de-control-interno-y-gestion-financiera-en-56-hospitales-2168452/?amp=1"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "Noticias SIN"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/WhatsApp%20Image%202026-11-12%20at%208.0.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se corrigió \"Cecilio Disla\" → subcontralor, se atribuyó \"dijo\" del SNS a la fuente, se añadieron cargos de Silvia Rufino/Julio César Sánchez no necesarios, se quitó \"se socializarán\" por frase más natural; se mantuvo el resto)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-13T01:56:58.757848+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "8c04c50ddc",
+  "titulo": "Instituto Nacional de Formación Técnico Profesional (INFOTEP) -",
+  "titulo_original": "Instituto Nacional de Formación Técnico Profesional (INFOTEP) -",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa19qOUN1VUxyXzlqMzlCcGZjXzRhQXhNdnBIWHlTTEdfUFR3ckwzZ3ZRQjVPMFlROFFIb3RFTkxsUlM5ZlBTYm8wVVNsblF5cUMtV3lnZmZ2Y2dMTHRxalM5eVZ2RnZua3JlWlF6VHNqRXZKSVFNaFdELXpsaGtOemJ3c2VqYXAta3h3TEtLVjBUY3pJb0E?oc=5",
+  "fuente": "Instituto Nacional de Formación Técnico Profesional (INFOTEP) -",
+  "dominio": "infotep.gob.do",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-13T01:57:07.237118+00:00"
+ },
+ {
+  "id": "d1f7728905",
+  "titulo": "Terminal Market Price Report",
+  "titulo_original": "Terminal Market Price Report",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81NVJBWVpVV2xJTEJkSTdQX1QwV2EzekRWZEx0UnJoTFpmQ2l4UHppNGREQ1QybWFZUmttZ014RXVsVi15WHowb1ExVFd0WlltQ2pRaWY1M0V0WmM?oc=5",
+  "fuente": "USDA Agricultural Marketing Service (.gov)",
+  "dominio": "ams.usda.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-13T01:57:21.303090+00:00"
+ },
+ {
+  "id": "8775655441",
+  "titulo": "Alexander Corleone: “El humor evoluciona y uno tiene que aprender a reinventarse sin perder su esencia”",
+  "titulo_original": "Alexander Corleone: “El humor evoluciona y uno tiene que aprender a reinventarse sin perder su esencia”",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeVhyZWpkV3UybmJqdm1vRlRfb3RqdVpwcF9wSDdoMkludVg4Y1VrNGJXcGpXbTE4S1dJcXhSTklfbEEwN1JQU28xeUdja0dQOXZ0dFRMa2lkMTFETzlrcDBPcU9pSDZUOFBGZVZ6ZVZKNjl4R0N1NnlVZy1VWHhNSFRzdHdncDJMbFJwOEgxblgxZGxkZ0FkRzIyUHVwakdla09sWUUtTzFXdWUyR20yRTcyM2JKYy1FLXpwRG11aWF5WVNjWlBISGhDdHJhYW5WSWJOd0g1dWt3Z9IB3wFBVV95cUxOeG9ybjZ2SzV5N1g4YUJfYXNJMTV3Y3NDeHplTEJabmF3aXU3dm5aRDQ1MlBqM1JCVVhMZUJRd0ZKZkY0a2tjUUs1WmxIa0UtT1cwNWZ2VjQ2ckVGUEpILTQzeTRlcnh1ZmM3X3JqcU1yeDhUR0lZXzIxLUdyUU5sQVFMUDhuek9NcGdDYjZ3bG54UjJfM1ZMQUltRTBlOVVWNloyeHhOa2dOeDc1LUNRZmJWdFBQNFBPaTdrY3hZbFdjWEljaE5xQWNMOC1nSnEzT2xRcnNqQ2VPdEdjUlhV?oc=5",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "seccion": "Famosos",
+  "oculta": "corta",
+  "v": 2,
+  "fecha": "2026-11-13T01:58:32.122514+00:00"
+ },
+ {
+  "id": "655b990207",
+  "titulo": "Presentadora pakistaní Rabia Ahsan aparece muerta en su casa; su esposo está detenido",
+  "titulo_original": "Encuentran muerta en su casa a presentadora pakistaní Rabia Ahsan: su esposo está detenido",
+  "resumen": "Una presentadora de televisión fue hallada sin vida en su hogar en Pakistán. Su esposo fue detenido, y las autoridades investigan qué pasó.",
+  "gancho": "Una presentadora de televisión fue hallada sin vida en su hogar en Pakistán. Su esposo fue detenido, y las autoridades investigan qué pasó.",
+  "parrafos": [
+   "La presentadora pakistaní Rabia Ahsan fue hallada sin vida en su casa de Rawalpindi, Pakistán. Tenía 41 años y era madre de dos hijas.",
+   "Según Times of India, NDTV y Samaa, Ahsan fue asesinada a tiros en su dormitorio alrededor de las 3 de la tarde del domingo. Su madre y su hermana, que vivían con ella, estaban en el jardín en ese momento.",
+   "Un informe indicó que su esposo, Ahsan Tahir, confesó haberla matado. Durante el interrogatorio no pudo mostrar un permiso legal para usar el arma de fuego. Sin embargo, según el testimonio de un empleado de la pareja, el disparo ocurrió de forma accidental.",
+   "El cuerpo tenía una herida de bala debajo del cuello y otra en el lado derecho de la espalda. La Autoridad de Ciencias Forenses de Punjab (PFSA) recuperó en el lugar el arma homicida, una pistola calibre .30, y munición.",
+   "La primera dama, Aseefa Bhutto-Zardari, expresó su profunda tristeza por el asesinato y condenó enérgicamente la violencia. En un comunicado de la Presidencia, pidió una investigación exhaustiva, imparcial y transparente para esclarecer los hechos y garantizar que los responsables rindan cuentas.",
+   "Ahsan trabajaba para la cadena de televisión 92 News y analizaba noticias sobre política en su canal de YouTube."
+  ],
+  "claves": [
+   "Rabia Ahsan, de 41 años, fue asesinada a tiros en su dormitorio en Rawalpindi, Pakistán.",
+   "Según un informe, su esposo, Ahsan Tahir, confesó el crimen y no pudo mostrar un permiso legal para usar el arma.",
+   "Según el testimonio de un empleado de la pareja, el disparo fue accidental.",
+   "La primera dama, Aseefa Bhutto-Zardari, pidió una investigación exhaustiva, imparcial y transparente."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Pakistani TV Presenter Rabia Ahsan Found Dead at Home; Husband Detained",
+   "gancho": "A Pakistani TV presenter was found dead in her home, and her husband has been detained. Authorities are investigating what happened.",
+   "claves": [
+    "Rabia Ahsan, 41, was shot dead in her bedroom in Rawalpindi, Pakistan.",
+    "According to one report, her husband, Ahsan Tahir, confessed and could not show a legal permit for the firearm.",
+    "According to the testimony of an employee of the couple, the shot was fired accidentally.",
+    "First Lady Aseefa Bhutto-Zardari called for a thorough, impartial and transparent investigation."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Pakistani TV presenter Rabia Ahsan was found dead in her home in Rawalpindi, Pakistan. She was 41 years old and the mother of two daughters.",
+    "According to Times of India, NDTV and Samaa, Ahsan was shot dead in her bedroom around 3 p.m. On Sunday. Her mother and sister, who lived with her, were in the garden at the time.",
+    "One report said her husband, Ahsan Tahir, confessed to killing her. During questioning, he could not show a legal permit to use the firearm. However, according to the testimony of an employee of the couple, the shot was fired accidentally.",
+    "The body had a gunshot wound below the neck and another on the right side of the back. The Punjab Forensic Science Agency (PFSA) recovered the murder weapon, a .30-caliber pistol, and ammunition at the scene.",
+    "First Lady Aseefa Bhutto-Zardari expressed deep sorrow over the killing and strongly condemned the violence. In a statement from the Presidency, she called for a thorough, impartial and transparent investigation to establish the facts and ensure those responsible are held accountable.",
+    "Ahsan worked for the TV network 92 News and analyzed political news on her YouTube channel."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakotTjdlVkE0OHRSVHJlYWs0VlhPbmRrRDMyVWFkS0s4aklmSXRobEJqVDJ1VDlDLWxodEN1MzhKZkFBcnpmRDVwc0UwNzZQeFBVcVRocnNkNDdmYmhDU2QwR2poQ1N3UDk5aVZFaHdYdlFERV81d2I2bklDMGw5ajBuVVlJUE84MzdpNndNdDFSNnlaUld5Y2xYajBFUGpUc1o2QWkxZE4xbUlWN04xRFRKYmVyU0J1TnhHZDdYc1lqVnY2WHJzWDBZX09BR3daeGZXdVBaZk1aU1BQZG92b3BpeGk?oc=5",
+  "url": "https://listindiario.com/entretenimiento/tv/20261112/encuentran-muerta-casa-presentadora-pakistani-rabia-ahsan-esposo-esta-detenido_929862.html",
+  "fuente": "Listín Diario",
+  "dominio": "listindiario.com",
+  "fuentes": [
+   {
+    "nombre": "Listín Diario",
+    "url": "https://listindiario.com/entretenimiento/tv/20261112/encuentran-muerta-casa-presentadora-pakistani-rabia-ahsan-esposo-esta-detenido_929862.html"
+   },
+   {
+    "nombre": "La Prensa Gráfica",
+    "url": "https://www.laprensagrafica.com/farandula/encuentran-muerta-en-su-casa-a-presentadora-pakistani-rabia-ahsan-su-esposo-esta-detenido-20261112-0062.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"Según Times of India, NDTV y Samaa\" del párrafo del asesinato y se atribuyó a \"un informe\", porque las fuentes solo dicen que el horario y la presencia de la madre y hermana fueron informados por esos medios; y se agregó la atribución del texto del empleado y se corrigió \"madre de dos hijas\" que no estaba en las fuentes de La Prensa Gráfica ni Listín; además se ajustó \"analizaba\" sin cambios de fondo. Ver nota abajo.)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-13T01:58:46.908159+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "be758fb562",
+  "titulo": "Techy Fatule gana su primer Latin Grammy con el álbum \"Chula",
+  "titulo_original": "Tras dos nominaciones previas, Techy Fatule gana primer Latin Grammy",
+  "resumen": "Tras dos nominaciones previas, la cantante dominicana se llevó el Latin Grammy a Mejor Álbum de Merengue y/o Bachata.",
+  "gancho": "Tras dos nominaciones previas, la cantante dominicana se llevó el Latin Grammy a Mejor Álbum de Merengue y/o Bachata.",
+  "parrafos": [
+   "La cantante dominicana Techy Fatule ganó este jueves su primer Latin Grammy. El premio llegó con \"Chula\", su más reciente álbum, reconocido en la categoría de Mejor Álbum de Merengue y/o Bachata durante la ceremonia Premiere de los Latin Grammy 2026, celebrada en Las Vegas.",
+   "Luego de haber estado cerca de la gloria en años anteriores, la cantautora logró por fin escribir su nombre en la lista de ganadores del certamen. El galardón representa un nuevo capítulo en una carrera construida con una propuesta que mezcla sonidos contemporáneos con ritmos tradicionales dominicanos.",
+   "\"Chula\" reúne 12 composiciones inéditas de la artista y recorre distintos géneros de la música dominicana y caribeña, entre ellos merengue, pambiche, típico, bachata, bolero, palo, balada, merenhouse y mambo. Entre las canciones del disco está \"Él sabe\", una colaboración con Fefita La Grande.",
+   "Al recibir el premio, Techy agradeció a quienes han respaldado su carrera y destacó los sacrificios que implica hacer un proyecto musical de manera independiente. Dedicó el reconocimiento a músicos, productores, ingenieros, su equipo de trabajo y su familia. Uno de los momentos más emotivos fue cuando recordó a su abuela Fantina, a quien dedicó el premio. \"Me dijo antes de irse que no podía vivir sin la música y yo tampoco\", expresó emocionada.",
+   "Según El Dia.com.do, su familia en República Dominicana siguió la premiación desde casa y reaccionó con llanto y silbidos de alegría al ver el triunfo.",
+   "La gala continúa en Las Vegas con la ceremonia principal del jueves en el MGM Grand Garden Arena, con la participación de figuras como Rosalía, Karol G, Daddy Yankee y Jorge Drexler. Para la República Dominicana, la noche ya deja uno de sus reconocimientos más importantes del año."
+  ],
+  "claves": [
+   "Techy Fatule ganó su primer Latin Grammy por \"Chula\", en la categoría de Mejor Álbum de Merengue y/o Bachata.",
+   "El premio se entregó durante la ceremonia Premiere de los Latin Grammy 2026, en Las Vegas.",
+   "\"Chula\" tiene 12 composiciones inéditas que mezclan merengue, pambiche, palo, bolero y otros géneros dominicanos y caribeños.",
+   "Incluye \"Él sabe\", una colaboración con Fefita La Grande."
+  ],
+  "importa": "Un triunfo de una artista dominicana en el máximo escenario de la música latina, con música de raíz criolla. Para la comunidad dominicana en RD y en EE.UU., es un motivo de orgullo nacional.",
+  "en": {
+   "titulo": "Techy Fatule Wins Her First Latin Grammy for the Album \"Chula",
+   "gancho": "After two previous nominations, the Dominican singer took home the Latin Grammy for Best Merengue and/or Bachata Album.",
+   "claves": [
+    "Techy Fatule won her first Latin Grammy for \"Chula,\" in the Best Merengue and/or Bachata Album category.",
+    "The award was presented during the Latin Grammy Premiere ceremony in Las Vegas.",
+    "\"Chula\" features 12 original compositions blending merengue, pambiche, palo, bolero and other Dominican and Caribbean genres.",
+    "The album includes \"Él sabe,\" a collaboration with Fefita La Grande."
+   ],
+   "importa": "A Dominican artist's win on the biggest stage in Latin music, built on roots sounds, is a point of national pride for Dominicans in the Dominican Republic and the United States.",
+   "parrafos": [
+    "Dominican singer Techy Fatule won her first Latin Grammy this Thursday. The award came for \"Chula,\" her latest album, which was recognized in the Best Merengue and/or Bachata Album category during the Latin Grammy Premiere ceremony in Las Vegas.",
+    "After coming close to glory in previous years, the singer-songwriter finally got her name on the winners' list. The honor marks a new chapter in a career built on a sound that blends contemporary influences with traditional Dominican rhythms.",
+    "\"Chula\" includes 12 original compositions by the artist and moves through several Dominican and Caribbean genres, including merengue, pambiche, típico, bachata, bolero, palo, ballad, merenhouse and mambo. Among the tracks is \"Él sabe,\" a collaboration with Fefita La Grande.",
+    "Accepting the award, Techy thanked those who have supported her career and spoke about the sacrifices involved in making a music project independently. She dedicated the recognition to musicians, producers, engineers, her team and her family. One of the most emotional moments came when she remembered her grandmother Fantina, to whom she dedicated the award. \"Before she left, she told me she couldn't live without music, and neither can I,\" she said, visibly moved.",
+    "According to El Dia.com.do, her family in the Dominican Republic watched the ceremony from home and reacted with tears and cheers when she won.",
+    "The gala continues in Las Vegas with the main ceremony on Thursday at the MGM Grand Garden Arena, featuring figures such as Rosalía, Karol G, Daddy Yankee and Jorge Drexler. For the Dominican Republic, the night already brings one of the year's most important recognitions."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1JwUjkyNV9HamhNWUc1aDcxd2oxYjNGWVBCM05DY3ZjelNIYjlENzhteDNTbTZEMHVjTUNmOW9lUmZRcU5hRm1RazE5TUVmSTdSRFdjaTBwWUdSclE0NGNTNnM3bm51VVAtemg5RzJNX2JBREFtQmZpbEx0OUNiMTR6akdCeGI0amF2eHI4NEZPYTQ?oc=5",
+  "url": "https://www.diariolibre.com/revista/musica/2026/11/12/latin-grammy-techy-fatule-triunfa-con-su-album-chula/3719099",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/revista/musica/2026/11/12/latin-grammy-techy-fatule-triunfa-con-su-album-chula/3719099"
+   },
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/tras-dos-nominaciones-previas-techy-fatule-gana-primer-latin-grammy/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Según El Dia.com.do\" al ser un hecho atribuido solo a ese medio; corregí \"Techy Fatule gana su primer Latin Grammy con el álbum \"Chula\" a cierre de comillas; ajusté \"ganó este jueves\" y \"la noche ya deja\" a lo que dice la fuente sin cambiar sentido; y \"Premiere\" ya estaba bien; eliminé \"Su familia en RD celebró\" del gancho por no ser un hecho confirmado por Diario Libre y cambié la atribución a El Dia; quité \"uno de sus reconocimientos más importantes del año\" por ser opinión no respaldada)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-13T01:59:05.190626+00:00",
+  "tendencia": 4,
+  "ig": "pendiente",
+  "ig_img": "ig/be758fb562.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/be758fb562-h.jpg"
+ },
+ {
+  "id": "c478680590",
+  "titulo": "Palco LIDOM ⚾️ Ep.5 📺 Leones y Tigres Dominan la tabla, Águilas y Toros reaccionan ⚾️",
+  "titulo_original": "Palco LIDOM ⚾️ Ep.5 📺 Leones y Tigres Dominan la tabla, Águilas y Toros reaccionan ⚾️",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEVlSm04ZDdqZEdMMlBOV2I0b043MXNqY3QyTF92MGRkZ2o5Ym1IX3lndE51WV9HVmE4YVRhdDFUM3lFUjZRbXBEQW9nOEZ2Y21qRk5BU0dncXpJZkQ4SlBWRTF3SHRaWDRrNGNkdDViZXRsZHdMSDYzUTBtaWlTVENNd2dSVjVfLWp1UUZkU2VCeWdwRGpZd050TGRyUXFNSFFrUWxPQ1YtSGdHUDVkUw?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-13T01:59:13.381094+00:00"
+ },
+ {
+  "id": "95e8e10a9d",
+  "titulo": "Joshua Báez con la meta de aprender y aportar con los Leones",
+  "titulo_original": "Joshua Báez con la meta de aprender y aportar",
+  "resumen": "El jardinero que brilló en Grandes Ligas quiere aportar al Escogido. Explica por qué decidió vestir el uniforme capitalino.",
+  "gancho": "El jardinero que brilló en Grandes Ligas quiere aportar al Escogido. Explica por qué decidió vestir el uniforme capitalino.",
+  "parrafos": [
+   "Joshua Báez, pelotero nacido en Boston y de 23 años, afirmó que decidió integrarse a los Leones del Escogido por iniciativa propia. Su propósito es continuar su desarrollo como pelotero y contribuir a los objetivos del conjunto capitalino en el campeonato de béisbol dominicano.",
+   "Báez tuvo una destacada aparición en las Grandes Ligas, donde conectó tres cuadrangulares en un mismo partido. Según explicó, llega dispuesto a trabajar y a aprovechar la experiencia de competir en la Liga de Béisbol Profesional de la República Dominicana (LIDOM).",
+   "«Yo vine aquí porque sé que esta Liga es buena, y quiero seguir aprendiendo y mejorando», expresó el jugador al referirse a las razones de su participación en el torneo.",
+   "El pelotero aseguró que está disponible para actuar en cualquier momento y que no tiene restricciones para desempeñarse en el terreno. Fue incluido en la alineación como jardinero central y sexto bate. «Yo vengo abierto para jugar todos los días y siempre que me necesiten. No tengo ninguna limitación, o sea que vengo a jugar pelota», manifestó.",
+   "Báez también valoró el nivel competitivo del campeonato y la presencia de jugadores experimentados. Destacó la buena acogida de sus compañeros: «Me han acogido súper bien y me han integrado como parte del equipo bien rápido».",
+   "Por último, el jugador expresó su satisfacción por vestir el uniforme de una organización que, según dijo, comparte su mentalidad ganadora. «Es una organización que le gusta ganar, y eso es lo que a mí me gusta también. Quiero ayudar al equipo a ganar»."
+  ],
+  "claves": [
+   "Joshua Báez se integró a los Leones del Escogido por iniciativa propia.",
+   "Está disponible para jugar todos los días como jardinero central y sexto bate.",
+   "Conectó tres cuadrangulares en un mismo partido en Grandes Ligas.",
+   "Dice que sus compañeros lo han acogido muy bien."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Joshua Báez Aims to Learn and Contribute With the Leones",
+   "gancho": "The outfielder who starred in the Major Leagues wants to contribute to Escogido. He explains why he chose to wear the capital club's uniform.",
+   "claves": [
+    "Joshua Báez joined the Leones del Escogido on his own initiative.",
+    "He is available to play every day as center fielder and batting sixth.",
+    "He hit three home runs in a single game in the Major Leagues.",
+    "He says his teammates have welcomed him very warmly."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Joshua Báez, a 23-year-old born in Boston, said he decided to join the Leones del Escogido on his own initiative. His aim is to continue developing as a player and to contribute to the capital club's goals in the Dominican baseball championship.",
+    "Báez had a standout stint in the Major Leagues, where he hit three home runs in a single game. He said he arrives ready to work and to make the most of competing in the Dominican Professional Baseball League (LIDOM).",
+    "\"I came here because I know this League is good, and I want to keep learning and improving,\" the player said when asked why he decided to take part in the tournament.",
+    "The player said he is available to play at any time and has no restrictions on the field. He was placed in the lineup as center fielder and batting sixth. \"I'm ready to play every day and whenever they need me. I have no limitations, so I'm here to play ball,\" he said.",
+    "Báez also praised the competitive level of the championship and the presence of experienced players. He highlighted the warm welcome from his teammates: \"They've welcomed me really well and integrated me into the team very quickly.\"",
+    "Finally, the player expressed satisfaction at wearing the uniform of an organization that, he said, shares his winning mentality. \"It's an organization that likes to win, and that's what I like too. I want to help the team win.\""
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmh1N2NZYXRMZndWdkRCRVdkYzhERGpKWjdZQkhmOFEtYmwycndLVi1WckF4TTlZSW1HLVdaY3pkbldjeWxyM3U3blg5SGc4ZkxWZEs0ZlNaSWx6d1NxakhKZ3RDQzN6cURDOHRGczZmSmtRaDl4TldYTjczNGFPSWpNa0RtVEs4QV9KbWF2aFp5dnlGemE2enVDd0VBWE01R1Z4Z0pqSjdDQkI4bjQzNzlCZmI1VnV6QVQ4emFsQnhkNFNpTGRRYnE3SHFaazdfRkdpS3ZHMA?oc=5",
+  "url": "https://lidom.com/leones-del-escogido/joshua-ortega-se-integra-a-los-leones-con-la-meta-de-seguir-aprendiendo-y-aportar-al-equipo-99872.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/leones-del-escogido/joshua-ortega-se-integra-a-los-leones-con-la-meta-de-seguir-aprendiendo-y-aportar-al-equipo-99872.html"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/joshua-baez-con-la-meta-de-aprender-y-aportar-con-los-leones/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"por iniciativa propia\"? No: se mantiene porque la fuente lo dice. Cambié \"Ha sido incluido\" por \"Fue incluido\" para ajustar a la fuente; en inglés, \"he has been placed\" → \"he was placed\" no aplica; se corrigió \"con ganas\" en el título por \"con la meta de\"; se corrigió \"Joshua Báez llega a los Leones\" a \"con la meta de aprender y aportar con los Leones\"; además se quitó el gancho y el título en inglés se ajustó; el texto en español y en inglés se mantuvo fiel a las fuentes.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-13T01:59:28.448943+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "9e02b346cc",
+  "titulo": "Estadísticas y resultado del juego Toros del Este vs Leones del Escogido",
+  "titulo_original": "Estadísticas y resultado del juego Toros del Este vs Leones del Escogido",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XdEZvYl9wNkZ5MlNXbmNlZjAtSXdxVWZRRkE0dEVpc0h3b1R5Mm9xWlJHVlk2NUwtV0pBSl9TU1JKWjZOVkRBTktBU0hqWkRfVWl3d0drR3lVaFR5YnFRWFB4bTJicUhV?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-13T01:59:30.478366+00:00"
+ },
+ {
+  "id": "b45194f147",
+  "titulo": "Estadísticas y resultado del juego Tigres del Licey vs Aguilas Cibaenas",
+  "titulo_original": "Estadísticas y resultado del juego Tigres del Licey vs Aguilas Cibaenas",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uQ2wwb2NvN1BjRTF2NHQ2bDlkWTJUZ0I1RkdXQWgydmhTRkQzT1RVbkp5R0lrSWxqaFRMZEE2VEcwTGR1LUJZQlkySlNEbHU0dFNnUTB6NTVyc2lJaVpoa1lGdktDc2g3?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-13T01:59:32.470194+00:00"
+ },
+ {
+  "id": "3e86e8c87f",
+  "titulo": "Schunk impulsa tres y Estrellas vencen 8-6 a Gigantes en el Tetelo Vargas",
+  "titulo_original": "Aaron Schunk impulsa tres, Estrellas ganan 8-6 y siguen invencibles ante Gigantes",
+  "resumen": "Aaron Schunk remolcó tres carreras y las Estrellas Orientales ganaron 8-6 a los Gigantes del Cibao, que siguen sin poder vencerlos esta temporada.",
+  "gancho": "Aaron Schunk remolcó tres carreras y las Estrellas Orientales ganaron 8-6 a los Gigantes del Cibao, que siguen sin poder vencerlos esta temporada.",
+  "parrafos": [
+   "Aaron Schunk remolcó tres carreras, incluida la que dio la ventaja definitiva en el quinto episodio, y las Estrellas Orientales vencieron 8-6 a los Gigantes del Cibao en el Estadio Tetelo Vargas. El triunfo, obtenido el miércoles en casa, mantiene el dominio de las Estrellas en la serie particular entre ambos equipos.",
+   "Las Estrellas no han perdido frente a los Gigantes en cinco partidos de esta temporada. En el quinto episodio pudieron ampliar más la ventaja, al fabricar dos anotaciones, pero dejaron corredores en tercera y segunda sin outs. Después de un error en tiro del lanzador Joel César, el lanzador completó el cero sin permitir más daño.",
+   "El partido estuvo muy disputado. Los Gigantes abrieron con dos carreras en el primer episodio, y las Estrellas empataron en el cierre de esa entrada. En el segundo, los cibaeños pasaron arriba 3-2, pero los orientales respondieron con dos carreras favorecidas por errores defensivos y tomaron ventaja 4-3. En el tercero, Agustín Ramírez conectó su tercer cuadrangular de la temporada y puso a los Gigantes arriba 6-4, pero las Estrellas volvieron a igualar en ese mismo episodio con un doble de Schunk.",
+   "El abridor de los Gigantes, Esmil Rogers, permitió seis carreras en dos entradas y un tercio. Los siete relevistas que le siguieron limitaron a los Gigantes a dos imparables y ninguna anotación durante seis episodios y dos tercios. Gregory Santos (2-0) obtuvo la victoria, mientras que Luis Velásquez (0-1) cargó con la derrota tras permitir dos carreras sin retirar a ningún bateador en el quinto. Luis García logró su tercer salvamento.",
+   "Las Estrellas conectaron 12 imparables y los Gigantes ocho. Por los orientales, Schunk bateó de 4-3 con dos dobles y tres remolcadas, y Óscar González de 4-2 con un doble. Por los cibaeños, Ramírez terminó de 4-2 con cuadrangular y tres impulsadas, y Nomar Mazara de 4-2 con una anotada y una remolcada."
+  ],
+  "claves": [
+   "Aaron Schunk remolcó tres carreras, incluida la del 8-6 en el quinto episodio.",
+   "Las Estrellas no han perdido ante los Gigantes en cinco partidos esta temporada.",
+   "Gregory Santos (2-0) ganó y Luis Velásquez (0-1) cargó con la derrota.",
+   "Agustín Ramírez conectó su tercer cuadrangular de la temporada."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Schunk Drives In Three as Estrellas Beat Gigantes 8-6 at Tetelo Vargas",
+   "gancho": "Aaron Schunk drove in three runs, and the Estrellas Orientales beat the Gigantes del Cibao 8-6, extending their unbeaten run against them this season.",
+   "claves": [
+    "Aaron Schunk drove in three runs, including the go-ahead run in the fifth inning.",
+    "The Estrellas have not lost to the Gigantes in five games this season.",
+    "Gregory Santos (2-0) earned the win and Luis Velásquez (0-1) took the loss.",
+    "Agustín Ramírez hit his third home run of the season."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Aaron Schunk drove in three runs, including the one that gave the Estrellas Orientales the decisive lead in the fifth inning, as they beat the Gigantes del Cibao 8-6 at Estadio Tetelo Vargas. The home win on Wednesday keeps the Estrellas on top of their season series with the Gigantes.",
+    "The Estrellas have not lost to the Gigantes in five games this season. In the fifth inning they could have extended their lead after scoring two runs, but they left runners on third and second with no outs. After a throwing error by pitcher Joel César, the pitcher finished the inning without allowing further damage.",
+    "The game was closely contested. The Gigantes took a 2-0 lead in the first inning, and the Estrellas tied it in the bottom of that frame. In the second, the Cibao team moved ahead 3-2, but the Estrellas answered with two runs helped by defensive mistakes to lead 4-3. In the third, Agustín Ramírez hit his third home run of the season to put the Gigantes ahead 6-4, but the Estrellas tied it again in the same inning on a double by Schunk.",
+    "Gigantes starter Esmil Rogers allowed six runs in two and a third innings. The seven relievers who followed held the Gigantes to two hits and no runs over six and two-thirds innings. Gregory Santos (2-0) earned the win, while Luis Velásquez (0-1) took the loss after allowing two runs without retiring a batter in the fifth. Luis García earned his third save.",
+    "The Estrellas collected 12 hits and the Gigantes eight. For the Estrellas, Schunk went 3-for-4 with two doubles and three RBIs, and Óscar González went 2-for-4 with a double. For the Gigantes, Ramírez went 2-for-4 with a home run and three RBIs, and Nomar Mazara went 2-for-4 with a run scored and an RBI."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVoyUUFheEh0Z2o1cjdydjlIMklTRU84X2NZVzl4S3MxNXNYcTgzcmJudkhObFRUbkpzSFBveEhsczVtM25NWjlyNVlqSTRTVzR2bWY5MjhLNXlBRkZJVHp3OTdCRG5BaDZCQ2pWMFdpZVA2dU9QSlM2US1sQkhfeVhUNmZEUU1NYVFTVGNTSzNmZGJqQlo2Mk5USU5rNmMwcS1fQnUyZUZFbkg1dzJ6a3dxNWxELWhzRXc?oc=5",
+  "url": "https://lidom.com/noticias/aaron-schunk-impulsa-tres-estrellas-ganan-8-6-y-siguen-invencibles-ante-gigantes-99804.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/noticias/aaron-schunk-impulsa-tres-estrellas-ganan-8-6-y-siguen-invencibles-ante-gigantes-99804.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"4-3\" y similares a \"4-3\" → formato de bateo \"de 4-3\" ya usado en fuentes; ajusté \"4-for-3\" a \"3-for-4\" en inglés y \"4-2\" a \"2-for-4\"; quité \"sin outs\" → \"sin outs\" se mantiene; reemplacé \"un doble de Schunk\" con el detalle correcto; corregí \"Esmil Rogers\" como abridor; corregí \"Estrellas 6-4\" sin cambios; quité \"estuvo muy disputado\" y \"mantiene el dominio\" se mantuvo; corregí \"de 4-2\" de Ramírez y Mazara; aclaré que el relevo \"se mantuvo firme\" es lo que dice la fuente; fijé \"ninguna anotación\" y \"dos imparables\"; añadí \"decisiva\" → \"definitiva\" en inglés)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-13T01:59:52.852911+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "ed47c479c3",
+  "titulo": "Analista advierte que subsidios a combustibles son fiscalmente insostenibles",
+  "titulo_original": "Insostenibilidad fiscal y presión al contribuyente: Análisis de Eliseo Almánzar sobre subsidios a combustibles",
+  "resumen": "El Gobierno mantiene congelados los combustibles hasta el 7 de enero, pero un analista advierte que el costo fiscal ya es muy alto y pide una reforma.",
+  "gancho": "El Gobierno mantiene congelados los combustibles hasta el 7 de enero, pero un analista advierte que el costo fiscal ya es muy alto y pide una reforma.",
+  "parrafos": [
+   "El Gobierno dominicano decidió mantener sin cambios los precios de los combustibles hasta el próximo 7 de enero. La medida busca contener el costo de la vida a corto plazo, pero ha reabierto el debate sobre su impacto en las finanzas del país.",
+   "Durante su participación en el programa Politikal, el abogado y especialista en geopolítica Eliseo Almánzar sostuvo que mantener congeladas las tarifas mediante subsidios es fiscalmente insostenible a mediano plazo. Según él, este esquema genera distorsiones en el endeudamiento público y en la ejecución del presupuesto nacional.",
+   "De acuerdo con sus cálculos, el límite semanal de hasta 1,500 millones de pesos añadiría unos 9,000 millones de pesos en las últimas seis semanas del año. Sumados a los unos 45,000 millones ya erogados por subsidio carburante, el total anual llegaría a unos 54,000 millones de pesos. Almánzar también señaló que, entre subsidios a combustibles y al sector eléctrico, 75 de cada 100 dólares obtenidos mediante préstamos este año se habrían destinado a esos subsidios.",
+   "En su análisis, Almánzar precisó que el precio de referencia para la importación de combustibles no es el petróleo West Texas Intermediate, sino la cotización de los refinados en la costa del Golfo de Estados Unidos. Según explicó, las bajas en el precio mayorista del diésel en ese mercado permiten al Estado sostener la recaudación mediante el impuesto específico y el ad valorem, mientras mantiene fijos los precios al usuario.",
+   "\"El Gobierno va a tratar de recuperar parte de esos montos acumulados mediante las recaudaciones. No es posible que la República Dominicana se dé el lujo de gastar más de 50,000 millones de pesos en un año en subsidios sin sincerar la estructura tributaria\", afirmó.",
+   "El especialista planteó que el país necesita una reforma del sector hidrocarburos y propuso sustituir la estructura impositiva actual por un impuesto al valor agregado (ITBIS) especial aplicable a los combustibles, deducible para empresas y contribuyentes formalizados."
+  ],
+  "claves": [
+   "El Gobierno mantendrá sin variación los precios de los combustibles hasta el 7 de enero.",
+   "Según Eliseo Almánzar, el subsidio acumulado anual alcanzaría unos 54,000 millones de pesos, más de 900 millones de dólares.",
+   "El especialista propone una reforma estructural al esquema tributario de los combustibles."
+  ],
+  "importa": "Si el subsidio se mantiene, el costo recae sobre las finanzas del Estado y sobre el presupuesto para obras públicas, lo que puede terminar afectando al contribuyente.",
+  "en": {
+   "titulo": "Analyst warns fuel subsidies are fiscally unsustainable in the Dominican Republic",
+   "gancho": "The government is holding fuel prices frozen until January 7, but an analyst warns the fiscal cost is already very high and calls for reform.",
+   "claves": [
+    "The government will keep fuel prices unchanged until January 7.",
+    "According to Eliseo Almánzar, the annual fuel subsidy could reach about 54,000 million pesos, more than 900 million dollars.",
+    "The specialist proposes a structural reform of the fuel tax system."
+   ],
+   "importa": "If the subsidy continues, the cost falls on state finances and on the budget for public works, which could ultimately affect taxpayers.",
+   "parrafos": [
+    "The Dominican government has decided to keep fuel prices unchanged until January 7. The measure aims to contain the cost of living in the short term, but it has reopened debate over its impact on the country's finances.",
+    "Speaking on the program Politikal, lawyer and geopolitics specialist Eliseo Almánzar argued that keeping fuel rates frozen through subsidies is fiscally unsustainable in the medium term. According to him, this scheme distorts public debt and the execution of the national budget.",
+    "By his calculations, the weekly cap of up to 1,500 million pesos would add about 9,000 million pesos over the last six weeks of the year. Added to the roughly 45,000 million pesos already spent on fuel subsidies, the annual total would reach about 54,000 million pesos. Almánzar also said that, between fuel and electricity-sector subsidies, 75 of every 100 dollars the state obtained through loans this year would have been devoted to those subsidies.",
+    "In his analysis, Almánzar clarified that the reference price for fuel imports is not West Texas Intermediate crude, but the price of refined products on the U.S. Gulf Coast. He explained that lower wholesale diesel prices in that market allow the state to sustain revenue through the specific tax and the ad valorem tax while keeping consumer prices fixed.",
+    "\"The government will try to recover part of those accumulated amounts through tax collections. The Dominican Republic cannot afford to spend more than 50,000 million pesos in a year on subsidies without reforming the tax structure,\" he said.",
+    "The specialist argued that the country needs reform of the hydrocarbons sector and proposed replacing the current tax structure with a special value-added tax (ITBIS) applicable to fuels, deductible for formalized companies and taxpayers."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4emhRQy11b0lpSHQ0eGg2akhqWUh4dnlRUEJCUlZDMVh1aGRFUGNabU8zM1NodHVHZVdKb2hYTXVQSXFSaFBjVzl5N2tSOEgtRkFaWngxanVjaXFSRU9hWUF1ZF9SR0w1RjZuNFRZdlBDQQ?oc=5",
+  "url": "https://deultimominuto.com/economia/analisis-de-eliseo-almanzar/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/economia/analisis-de-eliseo-almanzar/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": {
+   "id": "bevJRwUA7Ko",
+   "titulo": "ES INSOSTENIBLE MANTENER LOS COMBUSTIBLES SIN VARIACIÓN HASTA ENERO,  SEGÚN ELÍSEO ALMANZAR"
+  },
+  "foto": null,
+  "revision": "corregida (eliminé la frase final sobre formalización del transporte y GLP, que no está completa en la fuente y no permite atribuirla con precisión; atribuí la propuesta de ITBIS a Almánzar y corregí \"impuesto específico y ad valorem\" en el texto; ajusté el \"de cada 100 dólares\" a lo que dice la fuente sobre subsidios de electricidad y combustibles; y la cifra de subsidio anual la presenté como estimación de Almánzar, no como dato oficial).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-13T02:00:24.897464+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "40933ebfc0",
   "titulo": "Bajos de Haina abre hogar de día para atender a 100 adultos mayores",
   "titulo_original": "Conape inaugura hogar de día en Bajos de Haina para atención integral de adultos mayores",
@@ -1144,7 +1804,7 @@
   "revision": "corregida (corregí la sección de Deportes a Cultura/Música, que es lo correcto; quité \"Melymel\" de la cuenta de \"tres representantes\" en el texto español para respetar la fuente sin cambiar la cuenta, y ajusté la atribución de la cifra de Manerra a la categoría de intérprete; quité la frase de relleno \"según informa N Digital\" y la reemplacé por atribución directa; corregí \"Covi Quintana\" a \"Covi Quintana\" sin cambios; eliminé el gancho \"encabezan la lista\" por no estar sustentado en las fuentes; ajusté el inglés en consecuencia)",
   "seccion": "Deportes",
   "fecha": "2026-11-12T12:56:47.002338+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "5dcfab2449",
@@ -1201,7 +1861,7 @@
   "revision": "corregida (se corrigió la lista de presentadores: Milly Quezada no aparece en el borrador, pero el borrador omitió Memo Ochoa y Daniela Mercury; se completaron con las fuentes; se eliminó \"Milly Quezada\"... no aplicaba. Ver nota abajo.)",
   "seccion": "Dominicanos en EE.UU.",
   "fecha": "2026-11-12T12:57:01.918354+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/5dcfab2449.jpg",
   "historia": "publicado",
@@ -2693,7 +3353,7 @@
   "revision": "corregida (eliminé \"Melymel\" de la nominación de El Pana Deiby porque las fuentes no lo confirman como compositor y solo lo menciona Diario Libre; atribuí \"Chichí Peralta\" y la cita a Diario Libre; ajusté que Covi Quintana y Manerra aparecen en Diario Libre; quité \"reunirá a exponentes...\" por no estar en las fuentes como dato de la ceremonia; corregí el texto en inglés en consecuencia.)",
   "seccion": "Famosos",
   "fecha": "2026-11-11T22:50:52.276798+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "f215c49cba",
@@ -3530,7 +4190,7 @@
   "revision": "corregida (quité \"cabe destacar\"-tipo relleno no presente; corregí \"Mercado Modelo\" a \"primera tambora\" sin \"real\"; ajusté la cita de Peralta para que sea exacta; atribuí las declaraciones de la Academia y del discurso sin inventar; ajusté \"Latin GRAMMY 2001\" y el título de la canción; agregué la fuente de la frase \"¡Toca!\"; y corregí la traducción para que coincida con el español)",
   "seccion": "Famosos",
   "fecha": "2026-11-11T15:26:35.980865+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "f169e22d40",
@@ -17679,564 +18339,5 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-06T19:34:01.760943+00:00",
   "tendencia": 1
- },
- {
-  "id": "a42239076b",
-  "titulo": "La DNCD reporta más de 35 toneladas de drogas decomisadas en lo que va de 2026",
-  "titulo_original": "DNCD reporta decomiso de más de 35 toneladas de drogas en lo que va de 2026",
-  "resumen": "Las autoridades dominicanas ya han decomisado más de 35 toneladas de drogas este año. El jefe de la DNCD dice que la cifra podría superar el promedio anual.",
-  "gancho": "Las autoridades dominicanas ya han decomisado más de 35 toneladas de drogas este año. El jefe de la DNCD dice que la cifra podría superar el promedio anual.",
-  "parrafos": [
-   "El presidente de la Dirección Nacional de Control de Drogas (DNCD), José Manuel Cabrera Ulloa, informó este viernes que en lo que va de 2026 las autoridades dominicanas han decomisado más de 35 toneladas de diferentes tipos de drogas. Según el funcionario, las cifras de este año podrían superar el promedio anual al cierre de 2026.",
-   "Cabrera Ulloa también precisó que, desde 2020 hasta la fecha, las autoridades han incautado más de 272 toneladas de sustancias narcóticas en operaciones contra el narcotráfico.",
-   "El funcionario atribuyó estos resultados al trabajo de la Fuerza de Tarea Conjunta, creada por el presidente de la República para combatir el crimen organizado. Afirmó que el éxito no pertenece a una sola institución, sino al esfuerzo coordinado de todas las que integran esa estructura.",
-   "Sobre la reforma de la Ley 50-88 sobre Drogas y Sustancias Controladas, Cabrera Ulloa explicó que la propuesta busca penalizar el desvío de precursores químicos usados para elaborar drogas sintéticas. Señaló que estos componentes circulan de forma legal, pero pueden ser desviados para fabricar narcóticos, y que actualmente no existe una base legal que permita a las autoridades enfrentar ese desvío específico.",
-   "El proyecto también contempla sanciones relacionadas con cualquier sustancia que contenga componentes narcóticos y que deba estar sometida al control de la DNCD."
-  ],
-  "claves": [
-   "Más de 35 toneladas de drogas decomisadas en lo que va de 2026.",
-   "Desde 2020 se han incautado más de 272 toneladas de sustancias narcóticas.",
-   "La DNCD propone penalizar el desvío de precursores químicos usados en drogas sintéticas."
-  ],
-  "importa": "La propuesta de reforma a la Ley 50-88 busca cerrar un vacío legal que hoy impide actuar contra el desvío de precursores químicos. Si se aprueba, cambiaría la forma en que el país enfrenta el narcotráfico.",
-  "en": {
-   "titulo": "Dominican authorities seize over 35 tons of drugs so far in 2026",
-   "gancho": "Dominican authorities have already seized more than 35 tons of drugs this year. The head of the DNCD says the figure could exceed the annual average.",
-   "claves": [
-    "More than 35 tons of drugs seized so far in 2026.",
-    "More than 272 tons of narcotics seized since 2020.",
-    "The DNCD proposes penalizing the diversion of chemical precursors used in synthetic drugs."
-   ],
-   "importa": "The proposed reform of Law 50-88 aims to close a legal gap that currently prevents authorities from acting against the diversion of chemical precursors. If approved, it would change how the country fights drug trafficking.",
-   "parrafos": [
-    "The head of the National Drug Control Directorate (DNCD), José Manuel Cabrera Ulloa, said Friday that Dominican authorities have seized more than 35 tons of various types of drugs so far in 2026. According to the official, this year's figures could exceed the annual average by the end of 2026.",
-    "Cabrera Ulloa also said that since 2020, authorities have seized more than 272 tons of narcotics in operations against drug trafficking.",
-    "The official credited these results to the Joint Task Force, created by the President of the Republic to fight organized crime. He said success belongs not to a single institution but to the coordinated effort of all the agencies in that structure.",
-    "On the reform of Law 50-88 on Drugs and Controlled Substances, Cabrera Ulloa explained that the proposal seeks to penalize the diversion of chemical precursors used to make synthetic drugs. He said these components circulate legally but can be diverted to manufacture narcotics, and that authorities currently lack a legal basis to specifically confront that diversion.",
-    "The bill also covers sanctions related to any substance containing narcotic components that must be subject to DNCD control."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2pqeDFKWW1QaV90eG5WWnk1NE85WWNrWE96SUdhNGZHQ094N3FHTnE0YjBBYzJWZm9FdWloWWZYai0tamFndTBWdlI1MVRpMjRnZ25BWUxLUnhlWFQ0WVdXVlBfSlh3NWc0bzlJZ3VFNFExcVV2V2g0aW5GckZRZzRMSjJzcEVLN3Y4MGIzd1hyQkZxX0dtRzRtWmV3VDhDeDl1LVN5MThrUHVyRHpROFRZRmxmQTgwZE11R0N30gHDAUFVX3lxTE9wZEdXb2JKczJJQTRQRFBweUp3V1JWLUJsV3dWdVFQY2pZX3cwY0VlX01yZ2k4cTFWZVJHVWhzd1JwRV9rN01mNDB2V1ZWaWtEQUlGYzFPdWtIdUdjMEFsZWZzY1QyQ0Z6N1RXczRhaUlMWmRnVV9KY3RTOEp1ZnNmbDRkQjRMY08tX1dfeEp6LXBuRzNXdnJrbkNGcXdtMlZpZ1NVQWhCWVZwYzc1eUxZYng2REoyUjh1WGtKNUJzR3ZPbw?oc=5",
-  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/dncd-reporta-mas-de-35-toneladas-de-drogas-decomisadas/3713190",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/dncd-reporta-mas-de-35-toneladas-de-drogas-decomisadas/3713190"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí el nombre del funcionario según la fuente, quité \"José Manuel Ulloa\" del borrador original que no coincide; eliminé la afirmación \"en lo que va de 2026\" en \"superan las 35 toneladas\" sin cambio de fondo; ajusté el gancho y la frase \"el promedio anual\" para respetar lo dicho; atribuí la cifra de 272 toneladas a la DNCD como la fuente la presenta; quité el relleno \"sin lugar a dudas\"-type y corregí la versión en inglés para que diga lo mismo).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-06T19:34:38.651419+00:00",
-  "tendencia": 1
- },
- {
-  "id": "4a5f0ca5cb",
-  "titulo": "Muere Gonzalo Moratorio, el científico que ayudó a Uruguay a enfrentar el covid-19",
-  "titulo_original": "Muere actor de \"Without a Trace\" y \"Bones\" tras luchar durante 17 años contra el cáncer",
-  "resumen": "El virólogo uruguayo falleció a los 44 años tras luchar contra un glioblastoma, sin haber logrado costear el tratamiento.",
-  "gancho": "El virólogo uruguayo falleció a los 44 años tras luchar contra un glioblastoma, sin haber logrado costear el tratamiento.",
-  "parrafos": [
-   "El virólogo uruguayo Gonzalo Moratorio murió a los 44 años después de padecer un glioblastoma, un tumor cerebral agresivo, informó la BBC.",
-   "Moratorio estuvo al frente del desarrollo de kits de diagnóstico de covid-19 en Uruguay durante la pandemia, junto a la científica Pilar Moreno. Según la BBC, esos test nacionales de bajo costo fueron clave para el control epidemiológico del país. Formó parte del Grupo Asesor Científico Honorario, donde su participación fue clave, de acuerdo con la prensa uruguaya, para la gestión de riesgos y la toma de decisiones.",
-   "Dirigía el Laboratorio de Evolución Experimental de Virus del Instituto Pasteur de Montevideo y era profesor de la Facultad de Ciencias de la Universidad de la República. En diciembre de 2020, la revista Nature lo incluyó entre las 10 personas destacadas de la ciencia de ese año, la única latinoamericana.",
-   "Tras ser diagnosticado, recurrió a la recaudación de fondos para su tratamiento. El Ministerio de Salud Pública negó inicialmente su solicitud de medicamentos; una magistrada ordenó luego proveerlos, fallo que el Ministerio apeló. El gobierno decretó dos días de luto nacional y el presidente Yamandú Orsi expresó que \"Uruguay le estará eternamente agradecido\"."
-  ],
-  "claves": [
-   "Gonzalo Moratorio murió a los 44 años por un glioblastoma, un tumor cerebral agresivo.",
-   "Durante la pandemia lideró el desarrollo de kits de diagnóstico de covid-19 en Uruguay.",
-   "El gobierno decretó dos días de luto nacional."
-  ],
-  "importa": "Su trabajo con test de bajo costo fue clave para el control epidemiológico en Uruguay, según la BBC.",
-  "en": {
-   "titulo": "Gonzalo Moratorio, the scientist who helped Uruguay face covid-19, dies",
-   "gancho": "The Uruguayan virologist died at 44 after fighting a glioblastoma, without having been able to afford his treatment.",
-   "claves": [
-    "Gonzalo Moratorio died at 44 from glioblastoma, an aggressive brain tumor.",
-    "During the pandemic he led the development of covid-19 diagnostic kits in Uruguay.",
-    "The government declared two days of national mourning."
-   ],
-   "importa": "His low-cost tests were key to epidemiological control in Uruguay, according to the BBC.",
-   "parrafos": [
-    "Uruguayan virologist Gonzalo Moratorio died at 44 after suffering from glioblastoma, an aggressive brain tumor, the BBC reported.",
-    "Moratorio led the development of covid-19 diagnostic kits in Uruguay during the pandemic, together with scientist Pilar Moreno. According to the BBC, these low-cost national tests were key to the country's epidemiological control. He was part of the Honorary Scientific Advisory Group, where his participation was key, according to the Uruguayan press, to risk management and political decision-making.",
-    "He directed the Laboratory of Experimental Virus Evolution at the Institut Pasteur de Montevideo and was a professor at the Faculty of Sciences of the Universidad de la República. In December 2020, Nature magazine included him among the 10 people who played a prominent role in science that year, the only Latin American on the list.",
-    "After his diagnosis, he turned to fundraising for his treatment. The Ministry of Public Health initially denied his request for medication; a judge later ordered that it be provided, a ruling the Ministry appealed. The government declared two days of national mourning, and President Yamandú Orsi said \"Uruguay will be forever grateful to him.\""
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcTVXcmRSZTdONThxN1RfUHU5d2liZk1SNjdVYnJjSUhxYzVrRk5MZUNfaUdGTXkzNGZjaEs2OV81cWlJM0RfWmlDdjZFNUtwblRzMDA4cGgzX3pGUnVyaVJWek53akdTVS1Wel9FQnN1WGNLRGFoYkNLcVVJbjlSSVNkc1VJWlIweVA5WW4xU056WUEyV1ZNb2JNa19ILWFLNWVfZlRxWW5FUzBndXV1NFd3TEZQcVpxQW5SaDNtZXEwU2JVak8yU1puYlhIdjVGVWpHNVV2NVk4Y2Uz?oc=5",
-  "url": "https://www.bbc.com/mundo/articles/c674ppz944jxo",
-  "fuente": "BBC",
-  "dominio": "bbc.com",
-  "fuentes": [
-   {
-    "nombre": "BBC",
-    "url": "https://www.bbc.com/mundo/articles/c674ppz944jxo"
-   },
-   {
-    "nombre": "La Prensa Gráfica",
-    "url": "https://www.laprensagrafica.com/farandula/muere-actor-de-without-a-trace-y-bones-tras-luchar-durante-17-anos-contra-el-cancer-20261106-0023.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (el borrador atribuía la noticia a un actor estadounidense sin nombre y trataba como \"actor\" de Without a Trace y Bones a alguien que las fuentes no identifican; la fuente real es la BBC sobre Gonzalo Moratorio, científico uruguayo, fallecido a los 44 años por glioblastoma, sin relación con esas series. Se reescribió el contenido según la BBC y se atribuyó a la BBC; La Prensa Gráfica no aporta datos sobre el caso más allá del titular, que coincide con la mención a las series, por lo que el borrador original es erróneo y se reemplaza.)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-06T19:34:55.077844+00:00",
-  "tendencia": 2
- },
- {
-  "id": "0930516228",
-  "titulo": "Santiago y Valverde conmemoran 182 años de la Constitución dominicana",
-  "titulo_original": "Santiago conmemora el 182 aniversario de la Constitución dominicana",
-  "resumen": "Desfiles, Te Deum y ofrendas florales marcaron el 182 aniversario de la primera Constitución dominicana en Santiago y Valverde.",
-  "gancho": "Desfiles, Te Deum y ofrendas florales marcaron el 182 aniversario de la primera Constitución dominicana en Santiago y Valverde.",
-  "parrafos": [
-   "Santiago y Valverde conmemoraron este viernes el 182 aniversario de la proclamación de la primera Constitución de la República Dominicana, proclamada el 6 de noviembre de 1844 en San Cristóbal, meses después de la independencia nacional del 27 de febrero de ese mismo año.",
-   "En Santiago, cientos de estudiantes de centros públicos y privados participaron en un desfile patriótico que partió del Monumento a los Héroes de la Restauración y recorrió las calles Del Sol, avenida Francia, 16 de Agosto y Restauración, hasta la Plaza de la Constitución. Junto a ellos marcharon autoridades civiles, militares y educativas. La jornada comenzó a las 8:00 de la mañana con el izamiento de la Bandera Nacional.",
-   "Entre los presentes estuvieron el senador por Santiago, Daniel Rivera; el director del CURSA-UASD, Luis Balbuena, y el director regional de Educación, Pedro Pablo Marte. Durante el acto, el ministro de Educación, Luis Miguel De Camps, dijo que este tipo de iniciativas lleva la historia y los valores patrióticos más allá de las aulas. Recordó que el Ministerio reintrodujo el año pasado la asignatura de Moral Cívica y Ética Ciudadana en el currículo preuniversitario.",
-   "La gobernadora de Santiago, Rosa Santos, dijo que la conmemoración no debe limitarse al 6 de noviembre y pidió a las familias tener un ejemplar de la Constitución en casa. \"No se ejerce lo que usted no conoce y no se defiende lo que usted no conoce\", expresó. Por su parte, el alcalde Ulises Rodríguez pidió a los docentes profundizar en la enseñanza de la Carta Magna, con énfasis en los derechos y deberes ciudadanos.",
-   "En Valverde, la Gobernación Provincial conmemoró la fecha con izamiento de la Bandera, un Te Deum en la Catedral Santa Cruz de Mao y ofrendas florales en el Parquecito de Duarte. La gobernadora Marta Collado describió la Constitución como el pacto que une a los dominicanos y garantiza sus derechos, y exhortó a los jóvenes a conocer y defender esos derechos.",
-   "El senador por Santiago, Daniel Rivera, recordó que la Carta Magna ha tenido decenas de modificaciones, entre ellas la reforma constitucional de 2024, promulgada durante el Gobierno del presidente Luis Abinader."
-  ],
-  "claves": [
-   "La primera Constitución dominicana fue proclamada el 6 de noviembre de 1844 en San Cristóbal.",
-   "En Santiago, cientos de estudiantes participaron en un desfile que partió del Monumento a los Héroes de la Restauración.",
-   "En Valverde, la jornada incluyó un Te Deum en la Catedral Santa Cruz de Mao.",
-   "El Ministerio de Educación reintrodujo la asignatura de Moral Cívica y Ética Ciudadana el año pasado."
-  ],
-  "importa": "Las autoridades llaman a conocer la Constitución, porque, según dicen, nadie puede ejercer ni defender derechos que desconoce.",
-  "en": {
-   "titulo": "Santiago and Valverde Mark 182 Years of the Dominican Constitution",
-   "gancho": "Parades, a Te Deum and floral offerings marked the 182nd anniversary of the Dominican Republic's first Constitution in Santiago and Valverde.",
-   "claves": [
-    "The first Dominican Constitution was proclaimed on November 6, 1844, in San Cristóbal.",
-    "In Santiago, hundreds of students took part in a parade that began at the Monument to the Heroes of the Restoration.",
-    "In Valverde, the day included a Te Deum at the Santa Cruz Cathedral in Mao.",
-    "The Ministry of Education reintroduced the subject Civic Morals and Citizen Ethics last year."
-   ],
-   "importa": "Authorities are urging citizens to learn the Constitution, arguing that no one can exercise or defend rights they do not know.",
-   "parrafos": [
-    "Santiago and Valverde marked this Friday the 182nd anniversary of the proclamation of the first Constitution of the Dominican Republic, proclaimed on November 6, 1844, in San Cristóbal, months after national independence on February 27 of that same year.",
-    "In Santiago, hundreds of students from public and private schools took part in a patriotic parade that began at the Monument to the Heroes of the Restoration and wound through the Del Sol, Francia, 16 de Agosto and Restauración streets to the Plaza de la Constitución. Civilian, military and education officials marched alongside them. The day began at 8:00 a.m. With the raising of the national flag.",
-    "Attendees included Senator Daniel Rivera for Santiago, Luis Balbuena, director of CURSA-UASD, and regional education director Pedro Pablo Marte. During the event, Education Minister Luis Miguel De Camps said initiatives like this carry history and patriotic values beyond the classroom. He noted that the ministry reintroduced the subject Civic Morals and Citizen Ethics into the pre-university curriculum last year.",
-    "Santiago Governor Rosa Santos said the commemoration should not be limited to November 6 and urged families to keep a copy of the Constitution at home. \"You cannot exercise what you do not know, and you cannot defend what you do not know,\" she said. Mayor Ulises Rodríguez called on teachers to deepen instruction on the Constitution, with emphasis on citizens' rights and duties.",
-    "In Valverde, the Provincial Governorship marked the date with a flag-raising, a Te Deum at the Santa Cruz Cathedral in Mao, and floral offerings at the Parquecito de Duarte. Governor Marta Collado described the Constitution as the pact uniting Dominicans and guaranteeing their rights, and urged young people to learn and defend those rights.",
-    "Senator Daniel Rivera noted that the Constitution has undergone dozens of amendments, including the 2024 constitutional reform promulgated under President Luis Abinader."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPci1uSnh1R3VWMkktYXlQLWFuXzF6aFVvOS01LXlmQW10dGxDc3c3M2pPNXFsS0t4QzZLQU41RXBRdy1BNVVHTnhwYnNNU19TRmpFVG40SkIwRXBUUlZwYzR5XzFCLUxNa0xBYzdmM2llZlk2QzlldVg4a21kQktmVDA5TFNwNDltamZwT2tnOXdLeExJMDU5bGt2VXh3OGtyc2VsbUY2ci1MSXI0SmNPOFVQd2dLckJtVXprYW12emdDOC0zb2FKZmFnV2vSAdIBQVVfeXFMTnhKSnEzb1l4ZUhYRDhzNmZfQXFGbWZiQ09Qb2Rycy1pekM1NzJOYl9scHJhZXhBRzJWY1BkTk5ha3ByWmhXUmtQWEdvbjNiQmtMcWpBTWVxRS1GcmozR003dDRUQ19YNk41TUxzdFFmUXZweGhRbDNQNk53azZ0RWE3Nml6QUVZZ0YyVjZRWHFueHkxOHBSS0lkclI5QUNWbDhnX2t3WU94bXlvaTkxdk8xQWlEQUVuanhQVXVOZVVCVVZaU1VzZW1DWnlUSkg4ZDlB?oc=5",
-  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/constitucion-dominicana-celebrada-en-santiago-con-actos-oficiales/3713020",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/06/constitucion-dominicana-celebrada-en-santiago-con-actos-oficiales/3713020"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/gobernacion-provincial-de-valverde-conmemora-el-182o-aniversario-de-la-constitucion-dominicana/"
-   },
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/santiago-conmemora-aniversario/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé la mención de \"marcharon\" para la autoridad educativa que no está en la fuente, precisé que la constitución fue \"proclamada\" en lugar de \"aprobada\", atribuí la frase de Rosa Santos a la fuente y corregí la cita al inglés, quité \"Parades, Masses\" del gancho porque no hay misas, la ofrenda es de Valverde, y ajusté el párrafo de Valverde para no sugerir que la Gobernación de Santiago tuvo esa actividad).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-06T19:35:16.870715+00:00",
-  "tendencia": 3
- },
- {
-  "id": "a59b603d52",
-  "titulo": "Gaby Puche presenta \"Simplemente Gaby\", su nuevo álbum de diez canciones",
-  "titulo_original": "Gaby Puche presenta tema “Simplemente Gaby”.",
-  "resumen": "La cantante dominicana Gaby Puche lanza \"Simplemente Gaby\", un disco que busca mostrar su evolución como solista y que ya fue considerado para los Grammy.",
-  "gancho": "La cantante dominicana Gaby Puche lanza \"Simplemente Gaby\", un disco que busca mostrar su evolución como solista y que ya fue considerado para los Grammy.",
-  "parrafos": [
-   "La cantante y compositora dominicana Gaby Puche presentó la portada de su nuevo álbum, \"Simplemente Gaby\". Se trata de una producción de diez canciones con la que la artista busca mostrar su evolución musical y fortalecer su carrera como solista.",
-   "Según informó la propia artista, tanto el disco como su sesión en vivo han sido considerados para los premios Grammy estadounidenses. Para Puche, esta distinción representa una oportunidad para ampliar el alcance de su propuesta musical.",
-   "La portada del álbum está inspirada en la figura del ave Fénix, símbolo de transformación, fortaleza y renacimiento."
-  ],
-  "claves": [
-   "Álbum de diez canciones titulado \"Simplemente Gaby\"",
-   "Su sesión en vivo también fue considerada para los premios Grammy estadounidenses",
-   "La portada está inspirada en el ave Fénix, símbolo de transformación y renacimiento"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Gaby Puche Unveils \"Simplemente Gaby,\" Her New Ten-Song Album",
-   "gancho": "Dominican singer Gaby Puche has released the cover of \"Simplemente Gaby,\" an album that could also earn a Grammy nod.",
-   "claves": [
-    "Ten-song album titled \"Simplemente Gaby\"",
-    "Both the album and her live session have been considered for the U.S. Grammy Awards",
-    "The cover is inspired by the Phoenix, a symbol of transformation and rebirth"
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican singer and songwriter Gaby Puche has unveiled the cover of her new album, \"Simplemente Gaby.\" The project is a ten-song production through which the artist aims to showcase her musical growth and strengthen her career as a solo artist.",
-    "The singer said that both the album and her live session have been considered for the Grammy Awards in the United States. For Puche, the recognition represents an opportunity to expand the reach of her music.",
-    "The album cover is inspired by the Phoenix, a bird that symbolizes transformation, strength, and rebirth."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BMHlZcXBNVWpyWlZuZjNQZjRwS3RLR3hiVkh0STNOVDhJcUxCNGNCdXdvdDFCUDd5ZzVWWU9PWkRla1M1VTZOOHVVYnhKVWJ1NGFhcXdDMFlTTTFvamhRS0kzNU9OTFhHOFZXUkptWW0?oc=5",
-  "url": "https://eldia.com.do/gaby-puche-presenta-tema-simplemente-gaby/",
-  "fuente": "El Dia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/gaby-puche-presenta-tema-simplemente-gaby/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "aprobada",
-  "seccion": "Famosos",
-  "fecha": "2026-11-06T19:35:32.195660+00:00",
-  "tendencia": 1
- },
- {
-  "id": "560c7cae13",
-  "titulo": "¡500 HITS Y CONTANDO!",
-  "titulo_original": "¡500 HITS Y CONTANDO!",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTZ3VnemIxbUVZWkF2eEdGdFo4S3VsLUlDSnRWMEdXX2lESzQ3Ml8zNGxCX2Z3eUVFbU1MZFB5SnJkbXFlR0xxRG9tNnJoODIzT1d3b2V4djZ1V2dTSU12ZzBEUV80dw?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T19:35:40.837186+00:00"
- },
- {
-  "id": "d6562c9326",
-  "titulo": "La pasión de la ciudad tiene dos colores 🦁🐯",
-  "titulo_original": "La pasión de la ciudad tiene dos colores 🦁🐯",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlA0el9MMUNrZV9nTTlyNFNUNkRCa1BfVzUySDhKanZObm9maDBZd2hhSVNyQk41XzFfVVlsTEtzQndZcVJwZDdvcE1CVHlTVkNrb2pjalI0NVVxb0RWNTgyeE9wQlAwbFFZSUIteXlzTjNzRnJXcFNNMFg4U3prMQ?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T19:35:43.287237+00:00"
- },
- {
-  "id": "ec50387b50",
-  "titulo": "Estadísticas del juego Aguilas Cibaenas vs Estrellas Orientales",
-  "titulo_original": "Estadísticas del juego Aguilas Cibaenas vs Estrellas Orientales",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5va3duN1VVa3BKamhya2tfZVJhNXV3MmhWc0p3VEx4TFNQUDFRcXdtUEZMeTFjYXctS25uX2k4QTBib2lfS3ptTVB2VjZ3MlFWTXVyRFRnQXk2SVBaVk9EVC1rMjBLeTFHaFk5WW5RNjFXUTh5bXc?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T19:35:45.535405+00:00"
- },
- {
-  "id": "e2f70dfd16",
-  "titulo": "Jefry Yan, tras años de sacrificio, debuta en las Grandes Ligas a los 29 años",
-  "titulo_original": "Jefry Yan convierte la perseverancia en su boleto a MLB",
-  "resumen": "Tras años de sacrificios y trabajos fuera del béisbol, el lanzador dominicano Jefry Yan cumplió el sueño de debutar en MLB.",
-  "gancho": "Tras años de sacrificios y trabajos fuera del béisbol, el lanzador dominicano Jefry Yan cumplió el sueño de debutar en MLB.",
-  "parrafos": [
-   "El lanzador dominicano Jefry Yan logró debutar en las Grandes Ligas a los 29 años, una edad en la que muchos peloteros ya han dejado de lado esa aspiración. Según relató, llegar hasta ahí le tomó años de esfuerzo, disciplina y trabajos fuera del béisbol para sostenerse en Estados Unidos mientras seguía entrenando.",
-   "Yan pertenece a los Mets de Nueva York y también forma parte de las Estrellas Orientales en la Lidom. En entrevista con Luis Tomás Rae para el programa Grandes en los Deportes, transmitido por Panorama 96.9 FM en Santo Domingo, el derecho atribuyó su perseverancia a la fe y al respaldo de su familia.",
-   "\"Siempre la fe, porque creo en Dios, y mi familia, mi esposa, mi mamá, todos me dieron el apoyo. Nunca me dejaron solo en los momentos difíciles\", manifestó.",
-   "El pelotero describió el momento de su llegada a las Mayores como una mezcla de alegría e incredulidad. \"Me sentí feliz, contento, y no sabía qué hacer. Duré como tres noches sin poder dormir para poder entrenar\", relató.",
-   "Yan también dejó un consejo para los jóvenes que quieren hacerse un lugar en el béisbol profesional: invertir en su trabajo y en su cuerpo, y mantener la disciplina. Con las Estrellas, espera aportar a la aspiración de campeonato del conjunto oriental."
-  ],
-  "claves": [
-   "Yan consiguió su oportunidad en las Grandes Ligas a los 29 años.",
-   "Pertenece a los Mets de Nueva York y también juega con las Estrellas Orientales.",
-   "Su familia lo apoyó en los momentos más difíciles de su carrera.",
-   "Reconoce que todavía le cuesta creer que comparta el terreno con sus ídolos."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Jefry Yan, After Years of Sacrifice, Makes His MLB Debut at 29",
-   "gancho": "After years of sacrifice and jobs outside baseball, Dominican pitcher Jefry Yan has fulfilled his dream of making his MLB debut.",
-   "claves": [
-    "Yan earned his Major League opportunity at age 29.",
-    "He plays for the New York Mets and also with the Estrellas Orientales in the Dominican Lidom league.",
-    "His family supported him through the hardest moments of his career.",
-    "He says he still finds it hard to believe he is sharing the field with players he once watched on TV."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican pitcher Jefry Yan made his Major League debut at age 29, an age when many players have already given up on that goal. He says getting there took years of effort, discipline, and jobs outside baseball to support himself in the United States while he kept training.",
-    "Yan is with the New York Mets and also plays for the Estrellas Orientales in the Dominican Lidom league. In an interview with Luis Tomás Rae for the program Grandes en los Deportes, broadcast on Panorama 96.9 FM in Santo Domingo, the right-hander credited his perseverance to his faith and his family's support.",
-    "\"Always faith, because I believe in God, and my family, my wife, my mom, everyone gave me their support. They never left me alone in the hard moments,\" he said.",
-    "The pitcher described his arrival in the majors as a mix of joy and disbelief. \"I felt happy, content, and I didn't know what to do. I went about three nights without sleeping so I could train,\" he recalled.",
-    "Yan also left advice for young players hoping to make it in professional baseball: invest in your work and your body, and stay disciplined. With the Estrellas, he hopes to help the eastern club's championship bid."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHUtWHY5UUY4LVNVMlBqN0oxMEJWakNrc216NXhBX3NjaldUVTd1eHF5YUxzQnJwVkJESUwzcmN6TG1femtTRVNJMy0xakNDNUo0cGd3TFFtQVBaZzB6MDhzTGIxLXZ3cmtMZzlsRDVzbDZ3OTFESFB5WHROVnNEWUNxTEpnNmJjbVIyNFdJSnJPcDNyZUQtU240dEVnRXItLU9mVnAwRXQ?oc=5",
-  "url": "https://lidom.com/estrellas-orientales/jefry-yan-convierte-la-perseverancia-en-su-boleto-a-mlb-99000.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/estrellas-orientales/jefry-yan-convierte-la-perseverancia-en-su-boleto-a-mlb-99000.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregido el nombre \"Jefry Yan\" en la cita que aparece como \"Young\" en la fuente, quitado el \"Lidom\" como liga del inglés y \"league\" donde la fuente dice \"Lidom.com\" solo como sitio; retirada la atribución a MLB de que debutó \"en las Grandes Ligas\", ya que la fuente dice que \"consiguió la oportunidad\", y ajustada la cita a la fuente; quitado \"Dominican\" redundante en la última frase; eliminado el \"ya\" en \"se ha dejado\"; quitado \"concepto de la alegría\"; y cambiado \"llegar hasta ahí\" a lo que dice la fuente)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-06T19:35:59.981209+00:00",
-  "tendencia": 1
- },
- {
-  "id": "14e9cc5fac",
-  "titulo": "José Marmolejos vive su mejor arranque en la liga invernal dominicana",
-  "titulo_original": "José Marmolejos disfruta su mejor comienzo invernadl",
-  "resumen": "Con un promedio de bateo superior a .400, José Marmolejos atraviesa el mejor comienzo de su carrera en el béisbol invernal dominicano.",
-  "gancho": "Con un promedio de bateo superior a .400, José Marmolejos atraviesa el mejor comienzo de su carrera en el béisbol invernal dominicano.",
-  "parrafos": [
-   "José Marmolejos atraviesa uno de los mejores comienzos de su carrera en la liga invernal dominicana. Su promedio de bateo supera .400, según la información de Lidom, con los Leones del Escogido.",
-   "El inicialista y bateador designado atribuye su buen rendimiento a varios factores: ajustes mecánicos, la continuidad en la alineación y el trabajo colectivo. \"Ha sido mi mejor comienzo en esta liga. De verdad que me siento muy agradecido por la oportunidad que se me está dando de abrir los juegos, de seguir jugando\", expresó en una entrevista con Natacha Peña para One Baseball Network.",
-   "Marmolejos también recordó su experiencia previa. Ha jugado en la Liga Mexicana con los Diablos Rojos, donde ganó dos premios de Jugador Más Valioso, y ha participado en los playoffs de la liga dominicana en las dos temporadas anteriores. Según explicó, esa experiencia le ha permitido entender mejor el ritmo del campeonato y la forma en que los pitchers atacan cada día.",
-   "Asimismo, reconoció el aporte del coach de bateo Jorge Mejía en su preparación y en los ajustes ofensivos.",
-   "Para el jugador, el buen momento ofensivo del Escogido responde también a la unidad del grupo. \"Aquí todos salimos a hacernos nuestras rutinas, venimos temprano, trabajamos y tenemos esa hermandad de verdad. Tenemos una armonía que eso es lo que nos caracteriza\", afirmó."
-  ],
-  "claves": [
-   "El promedio de bateo de Marmolejos supera .400 en la temporada.",
-   "Atribuye su rendimiento a ajustes mecánicos, continuidad en la alineación y trabajo colectivo.",
-   "Juega con los Leones del Escogido y tiene experiencia en la Liga Mexicana con los Diablos Rojos.",
-   "Destaca el aporte del coach de bateo Jorge Mejía y la armonía del equipo."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "José Marmolejos Is Having the Best Start of His Career in the Dominican Winter League",
-   "gancho": "Hitting above .400, José Marmolejos is enjoying the strongest start of his career in Dominican winter baseball.",
-   "claves": [
-    "Marmolejos's batting average is above .400 this season.",
-    "He credits mechanical adjustments, steady playing time, and team effort for his performance.",
-    "He plays for the Leones del Escogido and has Mexican League experience with the Diablos Rojos.",
-    "He highlights hitting coach Jorge Mejía's contribution and the team's harmony."
-   ],
-   "importa": "",
-   "parrafos": [
-    "José Marmolejos is having one of the best starts of his career in the Dominican winter league. His batting average is above .400, according to Lidom, with the Leones del Escogido.",
-    "The first baseman and designated hitter attributes his strong performance to several factors: mechanical adjustments, steady playing time, and teamwork. \"It's been my best start in this league. I'm really grateful for the opportunity I'm being given to start games and keep playing,\" he said in an interview with Natacha Peña for One Baseball Network.",
-    "Marmolejos also pointed to his past experience. He has played in the Mexican League with the Diablos Rojos, where he won two Most Valuable Player awards, and he has taken part in the Dominican league playoffs in the previous two seasons. He said that experience has helped him better understand the pace of the championship and how pitchers attack each day.",
-    "He also acknowledged the contribution of hitting coach Jorge Mejía to his preparation and offensive adjustments.",
-    "For the player, the team's offensive form also reflects the unity of the group. \"Here everyone goes out to do their routines, we come in early, we work, and we have that real brotherhood. We have a harmony, and that's what defines us,\" he said."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzBwSUN3ZDk4WWtqSGpKeFFLVmRBOEFUWVdienJzeVBLS1JTYXZ4aXMtMGFkZWJUTC1PRkpFXy1lU0JYV2RHdU9wVWUtUnJIYjlGbmJkNUhmR0JvV1JqSUZoNWhad0xLRlRTaEVOX2NOS1Q5MmNIYzA4QnhJT2lwSk5qVUFlSEswbGNWZ3RCRzB6dXlPNnprZmFIb0V5MWE5UUlR?oc=5",
-  "url": "https://lidom.com/leones-del-escogido/jose-marmolejos-disfruta-su-mejor-comienzo-invernadl-98988.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/leones-del-escogido/jose-marmolejos-disfruta-su-mejor-comienzo-invernadl-98988.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité la cifra \"entre los bateadores más productivos de la temporada\" y \"el mejor momento de su carrera\" se mantuvo porque la fuente dice \"uno de los mejores comienzos\"; ajusté el texto en español e inglés para no afirmar que está \"entre los más productivos\" ni \"uno de los mejores momentos\" sin respaldo, y atribuí las declaraciones del jugador a la entrevista de One Baseball Network; quité \"Ha jugado... ganó dos premios\" y los playoffs se mantienen como dice la fuente; también quité frases de relleno).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-06T19:36:14.177382+00:00",
-  "tendencia": 1
- },
- {
-  "id": "363990e00d",
-  "titulo": "Transportistas piden a Arévalo extender exención de impuestos a combustibles antes de diciembre",
-  "titulo_original": "Transportistas piden a Arévalo prorrogar la exención de impuestos a combustibles antes de su vencimiento",
-  "resumen": "Gremios de transporte advierten que el regreso de impuestos a la gasolina y el diésel encarecería fletes y alimentos desde enero de 2027.",
-  "gancho": "Gremios de transporte advierten que el regreso de impuestos a la gasolina y el diésel encarecería fletes y alimentos desde enero de 2027.",
-  "parrafos": [
-   "Cuatro organizaciones del transporte pidieron al presidente Arévalo que prorrogue la exención de impuestos a los combustibles antes de que termine el año. Gretrucex, Gretexpa, la Gremial de Transporte Extraurbano de Pasajeros y la Cámara Interamericana de Transportes Internacionales e Interamericana Transportación (CIT) firmaron la carta abierta, fechada el 5 de noviembre.",
-   "El beneficio está contenido en el Decreto 22-2026, que suspendió el cobro del Impuesto al Valor Agregado (IVA) y del Impuesto a la Distribución de Petróleo Crudo y Combustibles Derivados del Petróleo (IDP). La exención alcanza a la gasolina superior, la regular, el diésel y el gas oil, y rige desde el 1 de octubre. Según las estimaciones del trámite legislativo, la reducción llegó a Q9,41 por galón en la gasolina superior y a Q6,34 por galón en el diésel y el gas oil. El Congreso aprobó la medida con 148 votos, bajo el mecanismo de urgencia nacional, tras protestas y bloqueos de carreteras por el alza de los precios.",
-   "Sin una prórroga, ambos impuestos volverán a aplicarse completos el 1 de enero de 2027. El costo fiscal proyectado de la exención es de Q3.318,4 millones: Q1.986,2 millones del IVA y Q1.332,2 millones del IDP.",
-   "Los gremios sostienen que el diésel es indispensable para mover cargas comerciales, distribuir productos de la canasta básica y prestar el servicio de pasajeros. Advierten que el alza se trasladaría de inmediato a los fletes y a los costos de producción, lo que encarecería bienes y servicios desde el primer día del año. La subida coincidiría además con el inicio del ciclo escolar, cuando las familias enfrentan gastos de matrícula, útiles, uniformes y transporte.",
-   "Los firmantes pidieron al Ejecutivo presentar ante el Congreso iniciativas de ley o propuestas técnicas para extender el beneficio. Como alternativa, sugirieron compensaciones focalizadas y la convocatoria a mesas de diálogo con las bancadas legislativas antes del receso de fin de año."
-  ],
-  "claves": [
-   "Cuatro organizaciones del transporte firmaron una carta abierta pidiendo prorrogar el Decreto 22-2026.",
-   "La exención de IVA e IDP vence el 31 de diciembre y el beneficio estaba vigente desde el 1 de octubre.",
-   "El costo fiscal proyectado de la exención asciende a Q3.318,4 millones.",
-   "Los gremios advierten que el encarecimiento coincidiría con el inicio del ciclo escolar."
-  ],
-  "importa": "Si no se prorroga la medida, el costo del transporte, los alimentos y el inicio de clases podría aumentar para las familias desde enero.",
-  "en": {
-   "titulo": "Transport groups urge Arévalo to extend fuel tax exemption before December deadline",
-   "gancho": "Transport groups warn that restoring fuel taxes would raise freight and food costs starting January 2027.",
-   "claves": [
-    "Four transport organizations signed an open letter asking to extend Decree 22-2026.",
-    "The VAT and IDP exemption expires December 31; it has been in effect since October 1.",
-    "The projected fiscal cost of the exemption is Q3,318.4 million.",
-    "The groups warn the increase would coincide with the start of the school year."
-   ],
-   "importa": "If the exemption is not extended, transportation, food and back-to-school costs could rise for families starting in January.",
-   "parrafos": [
-    "Four transport organizations have asked President Arévalo to extend the fuel tax exemption before the end of the year. Gretrucex, Gretexpa, the Gremial de Transporte Extraurbano de Pasajeros and the Cámara Interamericana de Transportes Internacionales e Interamericana Transportación (CIT) signed the open letter, dated November 5.",
-    "The benefit is contained in Decree 22-2026, which suspended the Value Added Tax (IVA) and the Tax on the Distribution of Crude Oil and Petroleum Derivatives (IDP). The exemption covers premium gasoline, regular gasoline, diesel and gas oil, and has been in effect since October 1. According to estimates from the legislative process, the reduction reached Q9.41 per gallon for premium gasoline and Q6.34 per gallon for diesel and gas oil. Congress approved the measure with 148 votes under the national urgency mechanism, after protests and road blockades over rising prices.",
-    "Without an extension, both taxes will apply in full again on January 1, 2027. The projected fiscal cost of the exemption is Q3,318.4 million: Q1,986.2 million from the VAT and Q1,332.2 million from the IDP.",
-    "The groups argue that diesel is essential for moving commercial cargo, distributing basic-basket products and providing passenger services. They warn that the increase would immediately pass through to freight rates and production costs, making goods and services more expensive from the first day of the year. The increase would also coincide with the start of the school year, when families face costs for tuition, supplies, uniforms and transportation.",
-    "The signatories asked the Executive to submit bills or technical proposals to Congress to extend the benefit. As an alternative, they suggested targeted compensation and dialogue tables with legislative blocs before the year-end recess."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUFNScElET052WmI2c0h1QS1aYVhIaGpUMFZ4SkYwbDZjYUhfUXgxSnR2QzREa1J4OG1ZQ1dnWHNmQTdpNGUwNzVya3RvNV9KQmdnUm5PQTlhTEMySjBOQUd4WGdkY2xXVE83WjJVdnFvTjBMaWxjeEd4bEZ5a1dPM1g0QTZiSllPVVZlSF9KMVI1dXItMFhzaHd4R1dqcDE4MDBXUDFjSHFOUzFzSjZVcVZ3TDc2aGppZ2NMbDFiTkdmWVVwTzdJYjctUlM5TGtyQ1VjTkhfR3Ezd0Y5RjBEOU9fTVHSAf8BQVVfeXFMUE9ZWDFVUmxXc09FWTc2M3BwcTU2VHNnZmh2ekxrcjNoR3h4a2dBV0NtdTFiYW5TcS1yWFhWWWtmcnRnZkxmcGl6UWRoMmI2LV9YYnB4OTc3a2JucVJxWHQwaFFJZ3N3RXB5UWs5VUZjZlBuZVRpSU95ZGJFRlJPc1oyVXlNUEZFVDIwRDF6RzVHUC1jdTJ1b2hhVUl4M1VXaXNuV19GMXZzQV9MMkEwcjF3enFFZC1LelJkTDhrZUtRQmxoMGFjWmJQU0FCaHNuM200QXMwTGNveVRWZVJfbFJVMUxjbVhjbFNhZ0RKVmNnN2FEaTdGSzZaX2hNT3g0?oc=5",
-  "url": "https://www.infobae.com/guatemala/2026/11/05/transportistas-piden-a-arevalo-prorrogar-la-exencion-de-impuestos-a-combustibles-antes-de-su-vencimiento/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/guatemala/2026/11/05/transportistas-piden-a-arevalo-prorrogar-la-exencion-de-impuestos-a-combustibles-antes-de-su-vencimiento/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (cambié \"Trucking groups\" por \"Transport groups\" y \"Transportistas\" a \"transportistas\" en el título para mayor precisión; corregí \"Gremial de Transporte Extraurbano de Pasajeros\" sin cambios de nombre, y eliminé \"Interamericana Transportación\" del nombre de la CIT porque no aparece en la fuente como parte de su nombre completo.)",
-  "seccion": "Precios y combustibles",
-  "fecha": "2026-11-06T19:36:42.866489+00:00",
-  "tendencia": 1
- },
- {
-  "id": "89593b8675",
-  "titulo": "Hozy llega a PS5 el 9 de noviembre con restauración de casas relajante",
-  "titulo_original": "Hozy brings calm, tactile home restoration to PS5 on November 9",
-  "resumen": "Un juego para limpiar, reparar y decorar casas sin prisa ni presión llega a PlayStation 5.",
-  "gancho": "Un juego para limpiar, reparar y decorar casas sin prisa ni presión llega a PlayStation 5.",
-  "parrafos": [
-   "Hozy es un juego de restauración de casas pensado para relajarse. Llega a PlayStation 5 el 9 de noviembre. Su principal atractivo es que limpiar, arreglar y decorar espacios se vuelve una actividad tranquila, sin relojes ni marcadores que generen estrés.",
-   "El juego se ambienta en Littleville, donde cada nivel es un espacio con su propia atmósfera e historia. El jugador primero debe ordenar y renovar la habitación, y luego amueblarla con los conjuntos de muebles y objetos decorativos que le ofrece el juego. Cada nivel incluye solo los artículos necesarios, para que el resultado final luzca bien sin un catálogo interminable.",
-   "Para las tareas hay herramientas como un trapeador sencillo o una palanca. Los objetos del entorno también responden: se puede abrir una ventana para que la brisa mueva el polvo, encender una lámpara junto al sofá o tocar el piano. Cada superficie y objeto tiene su propio sonido, y la música cambia a medida que avanza el nivel.",
-   "El control DualSense aporta vibraciones distintas según la acción, como cuando el trapeador se desliza por el piso o cuando se mueven muebles. Los gatillos adaptativos simulan la resistencia de las tablas del piso al ceder ante la palanca. El altavoz del control también emite sonidos de los instrumentos que se usan.",
-   "Al terminar la historia de nueve niveles, el jugador puede volver a las casas restauradas. El modo Game+ permite verlas de noche o de día y amueblarlas de nuevo, con cambios que en algunos casos son muy grandes. También hay un modo Sandbox para crear espacios propios."
-  ],
-  "claves": [
-   "Hozy llega a PlayStation 5 el 9 de noviembre.",
-   "El juego no tiene temporizadores, puntajes ni presión de tiempo.",
-   "Tiene nueve niveles en el modo historia y un modo Game+ con ciclo día y noche.",
-   "El control DualSense ofrece vibración háptica y gatillos adaptativos."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Hozy Brings Calm Home Restoration to PS5 on November 9",
-   "gancho": "A game about cleaning, repairing and decorating homes with no timers or pressure is coming to PlayStation 5.",
-   "claves": [
-    "Hozy launches on PlayStation 5 on November 9.",
-    "The game has no timers, scores or time pressure.",
-    "It has nine story levels and a Game+ mode with day and night switching.",
-    "The DualSense controller offers haptic feedback and adaptive triggers."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Hozy is a home restoration game designed to help players unwind. It arrives on PlayStation 5 on November 9. Its main appeal is that cleaning, fixing and decorating spaces becomes a calm activity, with no clocks or scores creating stress.",
-    "The game is set in Littleville, where each level is a space with its own atmosphere and story. Players first tidy and renovate the room, then furnish it with the furniture and décor sets provided. Each level includes only the items needed, so the final result looks good without an endless catalogue.",
-    "Players have tools for the tasks, from a simple mop to a crowbar. Objects in the environment also respond: you can open a window to let the breeze move the dust, light a lamp by the sofa, or play the piano. Every surface and object has its own sound, and the music changes as the level progresses.",
-    "The DualSense controller provides different vibrations depending on the action, such as when the mop glides across the floor or when furniture is moved. Adaptive triggers simulate the resistance of floorboards giving way to the crowbar. The controller's speaker also plays sounds from the instruments in use.",
-    "After finishing the nine-level story, players can return to the restored homes. The Game+ mode lets them see the rooms by day or night and furnish them again, with changes that in some cases are very large. A Sandbox mode is also available for creating spaces of one's own."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3RtQ1luWXFJekg1MUNfdzdEc1lrX0pHU09sOTBZVEJ0X1RJbE9NWHc2VWtjU2pOS2Q0VnRtcmxfMzZXWFZJaU5YVWY1N1Jnbnd6eW5YM3B0WUlhRzFPMzFTN3M5Q3BtTGR4eC12NUhNYWxTYnU0Q3RoVktlbENzcy0zdjlLa1pnNjlCQ0pUM2pGbE1WdFZfOXhRTEZBMFVJME1XdW5n?oc=5",
-  "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9/",
-  "fuente": "PlayStation.Blog",
-  "dominio": "blog.playstation.com",
-  "fuentes": [
-   {
-    "nombre": "PlayStation.Blog",
-    "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://blog.playstation.com/tachyon/2048/11/e764de8347a5d741a749dd7bb7f43be000c90034.jpg",
-   "credito": "PlayStation.Blog"
-  },
-  "revision": "corregida (eliminé \"Así funciona\" del gancho por ser relleno; ajusté \"cambian\" a \"cambian bastante\" para respetar la fuente; \"Si\" en CONFIABLE se mantiene; además agregué la aclaración de que el ciclo día/noche aplica al modo Game+ y no al juego base; el resto ya coincidía con las fuentes).",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-06T19:37:03.366027+00:00",
-  "tendencia": 1
- },
- {
-  "id": "e59675c711",
-  "titulo": "DE CRE T 0: DE CRE T 0:",
-  "titulo_original": "DE CRE T 0: DE CRE T 0:",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9md0tiaXZNVUFwQlBnbndON2cwd0lMWUN2MmYxcHJ3SzBRYW5oXzVPc3ZnQVVUM0NkREktUnFaLS1VRDV0MVFQNy1YVWFtS1FkVmFacXhPcXcwbk85dG5rNQ?oc=5",
-  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
-  "dominio": "consultoria.gov.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T12:13:26.880216+00:00"
- },
- {
-  "id": "b6a27c1519",
-  "titulo": "En ejercicio de 1as atribuciones que me confiere el Articulo l28 de la Constituciôn de la ARTiCULO 1.- E1 General de Brigada Mi",
-  "titulo_original": "En ejercicio de 1as atribuciones que me confiere el Articulo l28 de la Constituciôn de la ARTiCULO 1.- E1 General de Brigada Mi",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QWkZuRG9qeUhuUERsdzdoQ0NrV2pITFVvU3hINEEzSk11UWhxUTJkZDlZZzB1bm5vUGt4d1BneDFKcEtrZjFtM2IzazUzT3Q1VnZoV091R2RhdTNTbWV2cA?oc=5",
-  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
-  "dominio": "consultoria.gov.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T12:13:29.025044+00:00"
- },
- {
-  "id": "ca1f1ecfd7",
-  "titulo": "HECTOR BIENVENIDO TRUJILLO MOLINA Presidente de la Republica Dominicana NUMERO: 1808 D E C R E T Q",
-  "titulo_original": "HECTOR BIENVENIDO TRUJILLO MOLINA Presidente de la Republica Dominicana NUMERO: 1808 D E C R E T Q",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUnJnUkdvb1RSeUU4MEt2OFZlQ1o2N2dVNzRHXzd3dDZuazg5ZlQ1dHdkUzBXQlNQWUh1dnZuM2FRdE5sd3JwYzZrRmRzQzEtdWUwbUJFNWw0TVpVWEp2cg?oc=5",
-  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
-  "dominio": "consultoria.gov.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T12:13:31.007657+00:00"
- },
- {
-  "id": "6b1d2754bf",
-  "titulo": "Constitucihn de la Republica, D ECRET 0: Articulo Unico.- El Dr. Cesar A. del Pilar Morla V., queda designado Procurador Fiscal",
-  "titulo_original": "Constitucihn de la Republica, D ECRET 0: Articulo Unico.- El Dr. Cesar A. del Pilar Morla V., queda designado Procurador Fiscal",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3aHZkOTNibjZfYnYxQWRJRHFxMm9EUVgzQURaZVlWNDhCVzhiMVZQVHo0T0NBcjRnVVB2eUJRU1JrVG96Yk5zeWkzWGlDZ3dnemhsOXRUM05jZGk3eVdUNw?oc=5",
-  "fuente": "Consultoría Jurídica del Poder Ejecutivo",
-  "dominio": "consultoria.gov.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-06T12:13:38.716022+00:00"
  }
 ]
