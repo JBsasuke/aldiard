@@ -67,7 +67,7 @@ PRIORIDAD_PRECIOS = [gnews("site:micm.gob.do"), gnews("site:bancentral.gov.do"),
 # fuentes oficiales primero (ligas y equipos); si no hay, los periódicos de siempre
 PRIORIDAD_DEPORTES = [gnews("site:lidom.com"), gnews("site:mlb.com/es"), gnews("site:mlb.com LIDOM OR dominicano"),
                       gnews_en("site:mlb.com"), gnews_en("site:nba.com"), gnews("site:fedofutbol.org OR site:miderec.gob.do")]
-PRIORIDAD_JUEGOS = [gnews_en("site:nintendo.com"), gnews_en("site:blog.playstation.com"), gnews_en("site:news.xbox.com"),
+PRIORIDAD_JUEGOS = [gnews_en("site:nintendo.com"), gnews_en("site:pokemon.com"), gnews_en("site:blog.playstation.com"), gnews_en("site:news.xbox.com"),
                     gnews_en("site:rockstargames.com"), gnews("site:nintendo.com")]
 NOMBRES_MEDIOS = {"deultimominuto.com": "De Último Minuto", "deultimominuto.net": "De Último Minuto"}
 
@@ -723,8 +723,8 @@ def buscar(guardadas):
         extra, ultimo_nin, antes = 0, False, 0
         for url in orden:
             if ultimo_nin:
-                extra += de_esta - antes  # lo que se publicó de Nintendo no gasta el cupo de los demás juegos
-            ultimo_nin = seccion == SEC_JUEGOS and "nintendo.com" in url
+                extra += de_esta - antes  # lo que se publicó de Nintendo/Pokémon no gasta el cupo de los demás juegos
+            ultimo_nin = seccion == SEC_JUEGOS and ("nintendo.com" in url or "pokemon.com" in url)
             antes = de_esta
             tope = cupo + extra + (EXTRA_NINTENDO if ultimo_nin else 0)
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
