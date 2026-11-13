@@ -88,6 +88,7 @@ SECCIONES = {
     SEC_JUEGOS:  (FUENTES_JUEGOS,  1, "vj", (109, 40, 217)),
 }
 POR_FUENTE = 10         # noticias que mira de cada fuente (mirar no cuesta IA; solo las escogidas)
+EXTRA_NINTENDO = 4      # noticias oficiales de Nintendo: hasta 4 más por hora, aparte del cupo (se publican todas; las lee NinStock)
 
 # Solo se publican noticias de estos medios (y de Alofoke). Lo demás se descarta.
 CONFIABLES = """
@@ -719,9 +720,15 @@ def buscar(guardadas):
                      SEC_FAMOSOS: PRIORIDAD_FAMOSOS, SEC_PRECIOS: PRIORIDAD_PRECIOS,
                      SEC_JUEGOS: PRIORIDAD_JUEGOS, SEC_DEPORTES: PRIORIDAD_DEPORTES}.get(seccion, [])
         orden = prioridad + rotar(fuentes)
+        extra, ultimo_nin, antes = 0, False, 0
         for url in orden:
+            if ultimo_nin:
+                extra += de_esta - antes  # lo que se publicó de Nintendo no gasta el cupo de los demás juegos
+            ultimo_nin = seccion == SEC_JUEGOS and "nintendo.com" in url
+            antes = de_esta
+            tope = cupo + extra + (EXTRA_NINTENDO if ultimo_nin else 0)
             for e in feedparser.parse(url).entries[:POR_FUENTE]:
-                if de_esta >= cupo or intentos >= cupo * 3:
+                if de_esta >= tope or intentos >= tope * 3:
                     break
                 fuente = nombre_medio(e, dominio(e))
                 titulo = titulo_sin_fuente(limpiar(e.get("title", "")), fuente)
