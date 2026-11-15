@@ -1,99 +1,88 @@
-Corrida: 2026-11-15 01:48 PM (hora RD)
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el dato de Bonanza Banco en compra: 59.50 según fuentes; reemplacé "cabe d
-Noticia con datos propios: Dólar en RD: dónde conviene comprar y vender hoy
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2098 letras -> https://presidencia.gob.do/noticias/vicepresidenta-raquel-pena-expondra-en-el-salvador-la-experiencia-dominicana-en
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "Así se alinea con la posición" por frase de relleno y reformulé el párrafo sobre Haití para no atrib
+Corrida: 2026-11-15 06:56 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3743 letras -> https://presidencia.gob.do/noticias/por-primera-vez-un-presidente-participa-en-ceremonia-de-exaltacion-al-pabellon-de-la-fama
+[República Dominicana] El Nuevo Diario: texto leído 3074 letras -> https://elnuevodiario.com.do/abinader-participa-por-primera-vez-en-ceremonia-de-exaltacion-del-pabellon-de-la-fama-del-deporte/
+[República Dominicana] Noticias SIN: texto leído 3582 letras -> https://noticiassin.com/pais/nacional/2026/11/15/abinader-asiste-a-exaltacion-del-pabellon-de-la-fama-2170498/?amp=1
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
+Cambiada de sección: República Dominicana -> Deportes: Por primera vez, un presidente participa en ceremonia de exaltación al Pabellón de la Fama del Deporte Dominicano
+Revisión: corregida (ajusté "Liranyi Alonso" a "Liranyi Alonso" según fuentes sin cambio; corregí "Yudelkis" a "Yuderqui" según SI
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4336 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-encabeza-graduacion-de-2376-nuevos-agentes-policiales
+[República Dominicana] El Nacional — La voz de todos: texto leído 3507 letras -> https://elnacional.com.do/nacionales/policiales/abinader-encabeza-graduacion-2-376-nuevos-policias-integraran-patrullaje-preventivo_586303.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nacional — La voz de todos
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "2,376" truncado a "2,376" en claves ES/EN, "14,648" truncado en claves; e
+Rechazada por la revisión: Presidente Luis Abinader encabeza graduación de 2,376 nuevos agentes policiales -> cifras que no aparecen en las fuentes: 376, 648
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3591 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-entrega-los-primeros-40-apartamentos-del-residencial-villa
+[República Dominicana] El Nuevo Diario: texto leído 3474 letras -> https://elnuevodiario.com.do/abinader-entrega-primeros-40-apartamentos-del-residencial-villa-esperanza-en-yaguate/
+[República Dominicana] AlMomento.net: texto leído 1954 letras -> https://almomento.net/abinader-gradua-2376-nuevos-policias-y-entrega-apartamentos/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (gobernadora corregida a "Pura Cacillas" según El Nuevo Diario, que cita nombre distinto a Presidencia; se man
+[República Dominicana] colecciones.agn.gob.do: texto leído 517 letras -> https://colecciones.agn.gob.do/opac/ficha.php?informatico=00135632PI&idpag=0810591819&codopac=OP003&presenta=marc210
+Fuente oficial encontrada: colecciones.agn.gob.do 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar una noticia a partir de este material. La única fuente que me pasas es un aviso de configuración de cookies de la página colecciones.agn.gob.do, junto con el título de un ')
+[República Dominicana] colecciones.agn.gob.do: texto leído 517 letras -> https://colecciones.agn.gob.do/opac/ficha.php?informatico=00043130PI&suposi=19&idpag=0754133541&codopac=OP003&presenta=digitaly2p
+Fuente oficial encontrada: colecciones.agn.gob.do 
+Error IA: ValueError('respuesta sin el formato esperado: El texto de la única versión que me pasaste no contiene información sobre ninguna noticia: es solo el aviso de configuración de cookies de la página colecciones.agn.gob.do. El titular "Carta de Juan P')
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1327 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
-[República Dominicana] Junta Central Electoral de la República Dominicana: texto leído 4378 letras -> https://jce.gob.do/Noticias/jce-y-mmujer-impulsan-formacion-en-liderazgo-y-participacion-politica-y-electoral-de-las-mujeres
-Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
-Revisión: corregida (eliminé "junto con" por "a través de... en alianza", corregí "Cristian" no aplica; ajusté "Janet Camilo, Meli
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639300092119315876-Justificacin-del-6.04-de-la-suficiencia-financiera.pdf
-No se pudo leer el artículo; no se publica para no salir corta: INFORME DE LA SUFICIENCIA FINANCIERA DEL GOBIERNO LOCAL CORRESPONDIENTE AL 3ER. TRIMESTRE 2026 AYUNTAMIENTO MUNICIPAL DE NAGUA
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639301649835790181-Justificacin-del-6.04-de-la-suficiencia-financiera-11.pdf
-No se pudo leer el artículo; no se publica para no salir corta: INFORME DE LA SUFICIENCIA FINANCIERA DEL GOBIERNO LOCAL CORRESPONDIENTE AL 3ER. TRIMESTRE 2026. AYUNTAMIENTO MUNICIPAL DE REST
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[República Dominicana] Banco Central de la República Dominicana: texto leído 2273 letras -> https://repositoriocultural.bancentral.gov.do/items/f48c106c-8b94-467b-8a73-d19639d7e786/full
-Fuente oficial encontrada: Banco Central de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo que recibo es únicamente la ficha catalográfica de un documento del repositorio del Banco Central de la República Dominicana: un informe trimestral del FIDE (Fondo de Inversiones para el Desarrollo')
-[República Dominicana] De Último Minuto: texto leído 2995 letras -> https://deultimominuto.com/nacionales/propeep-la-vega/
-Revisión: corregida (eliminé "trabajaron de manera conjunta" y "Según la entidad" donde no hay sustento directo; ajusté "trabajaba
-[Dominicanos en EE.UU.] Biblioteca Nacional Pedro Henríquez Ureña: texto leído 1118 letras -> https://bd.bnphu.gob.do/items/436c180c-3182-469b-8df4-74798bd0e100
-Fuente oficial encontrada: Biblioteca Nacional Pedro Henríquez Ureña 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto proporcionado es el registro bibliográfico de un libro de 1982 (un encuentro sobre déficit del sector público celebrado en 1982 y publicado por la Fundación Friedrich E')
-[Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 982 letras -> https://usun.usmission.gov/media-advisory-ambassador-mike-waltz-travels-to-lebanon-and-morocco-november-15-17/
-[Dominicanos en EE.UU.] U.S. Embassy Beirut (.gov): texto leído 1221 letras -> https://lb.usembassy.gov/media-advisory-ambassador-mike-waltz-travels-to-lebanon-and-morocco-november-15-17/
-Fuente oficial encontrada: United States Mission to the United Nations (.gov), U.S. Embassy Beirut (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: MEDIA ADVISORY: Ambassador Mike Waltz Travels to Lebanon and Morocco November 15–17
-Revisión: corregida (se ajustó el gancho en inglés para que coincida con el español y se eliminó la atribución de la idea de "infl
+Error IA: ValueError('respuesta sin el formato esperado: No hay noticia que redactar. Lo que se me pasó es una página de servicio del Ministerio de Educación (instrucciones para consultar calificaciones de Pruebas Nacionales) mezclada con comentarios de usu')
+[República Dominicana] Dirección Nacional de Control de Drogas: texto leído 3246 letras -> https://dncd.gob.do/noticias/dncd-ocupa-otros-16-paquetes-de-presunta-cocaina-a-dos-extranjeros-en-aeropuerto-de-punta-cana/
+Fuente oficial encontrada: Dirección Nacional de Control de Drogas 
+Revisión: corregida (eliminé "Frankfurt"? no; cambié "Aduanas" a "inspectores de Aduanas" ya estaba; ajusté la atribución de "sosp
+[República Dominicana] En Salud Digital: texto leído 2161 letras -> https://ensaluddigital.gob.do/uso-correcto-del-lavado-de-manos-evita-propagacion-de-enfermedades/
+Fuente oficial encontrada: En Salud Digital 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Uso correcto del lavado de manos evita propagación de enfermedades
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/detenido-presunto-miembro-de-red-cibercriminal-por-fraude-de-rd900000-mediante-retiros-ilicitos/?replytocom=32726
+No se pudo leer el artículo; no se publica para no salir corta: - Policía Nacional de la República Dominicana
+[Dominicanos en EE.UU.] En Salud Digital: texto leído 1668 letras -> https://ensaluddigital.gob.do/author/prensadigital/page/131/
+Fuente oficial encontrada: En Salud Digital 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): SNS Digital – Página 131
+[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pr71539283
+No se pudo leer el artículo; no se publica para no salir corta: M 3.1 - 89 km NE of Punta Cana, Dominican Republic
 [Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 3073 letras -> https://usun.usmission.gov/explanation-of-vote-following-the-adoption-of-a-un-security-council-resolution-on-the-united-nations-interim-security-force-for-abyei-unisfa/
 Fuente oficial encontrada: United States Mission to the United Nations (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNota: el texto es una declaración oral de un representante de Estados Unidos en la ONU sobre una resolución, es decir, una posición política de un gobierno extranjero. Es una fuente ofi')
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 6428 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-november-13-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Ukraine (.gov): texto leído 2142 letras -> https://ua.usembassy.gov/security-alert-holiday-travel-november-13-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 4866 letras -> https://co.usembassy.gov/security-alert-cartagena-independence-day-november-11-16-2026/
-[Dominicanos en EE.UU.] U.S. Embassy in Peru (.gov): texto leído 3866 letras -> https://pe.usembassy.gov/security-alert-visit-from-pope-leo-xiv-to-peru-november-11-16-2026-u-s-embassy-lima-peru/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Embassy in Ukraine (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Peru (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission to Saudi Arabia – November 13, 2026
-Revisión: corregida (se quitó la afirmación sobre Perú y el papa León XIV, que no aparece en ninguna de las fuentes; se corrigió l
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Explanation of Vote Following the Adoption of a UN Security Council Resolution on the United Nations Interim Security Force for Abyei (UNISFA)
+Revisión: corregida (ajusté la mención de la reunión del 10 de agosto para aclarar que es una reunión del mecanismo político y de 
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention
 Fuente oficial encontrada: U.S. Department of State (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia a partir del texto que me enviaste. La versión que incluiste es un discurso completo del Secretario de Estado Marco Rubio ante la Federalist Society, y está c')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única fuente que me pasas es un discurso completo de Marco Rubio en la convención de la Federalist Society, transcrito del sitio oficial del Departam')
+Fuente no confiable, se salta: gigantes.com
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 972 letras -> https://elnuevodiario.com.do/agente-dominicano-de-cbp-le-quita-la-vida-a-su-pareja-y-luego-es-hallado-muerto-en-el-bronx/
+[Dominicanos en EE.UU.] De Último Minuto: texto leído 3144 letras -> https://deultimominuto.com/internacionales/agente-dominicano-hallado-muerto/
+Revisión: corregida (se atribuyó a El Nuevo Diario/De Último Minuto lo que solo reportó amNewYork; se eliminó la afirmación de que
 Fuente no confiable, se salta: lapropuestadigital.com
-[Dominicanos en EE.UU.] Diario Libre: texto leído 4223 letras -> https://www.diariolibre.com/usa/actualidad/2026/11/15/cuales-son-los-vuelos-cancelados-entre-ee-uu-y-la-rd/3721155
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: EE. UU. prevé normalizar vuelos este domingo mientras persisten las cancelaciones hacia RD
-Revisión: corregida (se añadió atribución de la cifra de cancelaciones del viernes a la FAA/Bryan Bedford y se corrigió la atribuc
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 1969 letras -> https://almomento.net/eu-leonel-fernandez-arriba-washington-tras-desvio-vuelo/
+Revisión: corregida (se cambió "El Bronx" por "Bronx" en la versión en español para ajustarse a la fuente... en realidad la fuente
+[Internacionales] The White House (.gov): texto leído 4204 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/
+Fuente oficial encontrada: The White House (.gov) 
+Cambiada de sección: Internacionales -> República Dominicana: ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding
+Rechazada por la revisión: ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding -> cifras que no aparecen en las fuentes: 12500, 50000
 [Internacionales] The White House (.gov): texto leído 3508 letras -> https://www.whitehouse.gov/videos/president-trump-on-stephen-a-smith-accomplishments-for-black-americans/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump on Stephen A. Smith: Accomplishments for Black Americans
-[Internacionales] The White House (.gov): texto leído 247 letras -> https://www.whitehouse.gov/biastips
-No se pudo leer el artículo; no se publica para no salir corta: - The White House (.gov)
-[Internacionales] U.S. Department of State (.gov): texto leído 1066 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-president-of-honduras-asfura
+[Internacionales] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-g7-foreign-ministers-meeting-in-paris
 Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Meeting with President of Honduras Asfura
-[Famosos] Diario Libre: texto leído 1814 letras -> https://www.diariolibre.com/revista/musica/2026/11/15/kapo-en-republica-dominicana-concierto-en-el-ovalo-feria-ganadera/3721060
-Revisión: aprobada
-Fuente no confiable, se salta: eldiario.ec
-[Famosos] Infobae: texto leído 3397 letras -> https://www.infobae.com/peru/deportes/2026/11/15/yanlis-feliz-fue-pifiada-en-su-ingreso-en-el-alianza-lima-vs-san-martin-la-reaccion-de-los-hinchas-blanquiazules-en-liga-peruana-de-voley-202627/
-Cambiada de sección: Famosos -> Deportes: Yanlis Féliz fue pifiada en su ingreso en el Alianza Lima vs San Martín: la reacción de los hinchas ‘blanquiazules’ en Liga Peruana de Vóley 2026/27
-Revisión: corregida (Se corrigió el título y el texto en inglés: el borrador decía "Booed" y "Her Return" de forma ambigua y la fr
-[Famosos] Diario Libre: texto leído 2276 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/15/dictan-medida-de-coercion-a-acusado-de-amenazas-a-bartolome-pujals/3721111
-[Famosos] El Nacional — La voz de todos: texto leído 1761 letras -> https://elnacional.com.do/nacionales/judicial/imponen-garantia-economica-de-rd25-mil-a-hombre-que-amenazo-a-bartolome-pujals_586224.html
-[Famosos] El Nuevo Diario: texto leído 2086 letras -> https://elnuevodiario.com.do/imponen-medidas-de-coercion-a-hombre-acusado-de-amenazar-a-embajador-por-redes-sociales/
-Cambiada de sección: Famosos -> República Dominicana: Imponen medidas de coerción a un hombre acusado de amenazar a Bartolomé Pujals
-Revisión: corregida (cambié "artículo 226, numerales 1, 3 y 4 del Código Procesal Penal" para aclarar que el artículo viene del Có
-[Famosos] Diario Libre: texto leído 2117 letras -> https://www.diariolibre.com/actualidad/ciudad/2026/11/15/rd-entre-paises-con-mas-mortalidad-por-accidentes-de-transito/3721151
-Cambiada de sección: Famosos -> República Dominicana: Alta mortalidad vial en RD se recuerda en el Día Mundial de las Víctimas de Accidentes de Tránsito
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió el título y el texto en ambos idiomas: "33%" pasa a "32.9 %", se aclar
-Rechazada por la revisión: Alta mortalidad vial en RD se recuerda en el Día Mundial de las Víctimas de Accidentes de Tránsito -> cifras que no aparecen en las fuentes: 33, 666, 994
-[Famosos] Diario Libre: texto leído 2118 letras -> https://www.diariolibre.com/revista/musica/2026/11/15/ritmo-de-la-costa-regresa-con-conciertos-gratuitos/3721146
-No encaja en ninguna sección, se salta: Ritmo de la Costa regresa con conciertos gratuitos en seis destinos del país
-[Famosos] Diario Libre: texto leído 2771 letras -> https://www.diariolibre.com/revista/musica/2026/11/15/concierto-de-alejandro-sanz-en-santo-domingo/3721046
-Revisión: corregida (quité "Sin lugar a dudas"-tipo relleno no había; ajusté "llenó el Estadio" en el gancho porque la fuente no d
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851506?ins=resultado
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto es un comunicado conjunto de cancilleres del G7 publicado en el sitio del Departamento de Estado de EE.UU., sin noticia periodística ni otras versiones que la respalden')
+[Famosos] Diario Libre: texto leído 3134 letras -> https://www.diariolibre.com/revista/cultura/2026/11/15/soy-kleiii-une-culturas-en-republica-dominicana/3721292
+Revisión: corregida (quité "Según Diario Libre" de la frase sobre el humor como punto de encuentro, porque la atribución correcta 
+[Famosos] Listín Diario: texto leído 1679 letras -> https://listindiario.com/entretenimiento/farandula/20261115/daniel-sarcos-regresa-rd-siempre-dificil-despedirme-ti_930167.html
+Revisión: corregida (se quitó "Mira qué dijo sobre su tiempo viviendo en Santo Domingo" del gancho por ser ruido de clickbait, se 
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851421?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Toros del Este
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851430
 No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-licey-vs-gigantes-251412
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Tigres del Licey vs Gigantes del Cibao
-[Deportes] Lidom: texto leído 165 letras -> https://lidom.com/videos/toros-toman-ventaja-del-partido-100242.html
-No se pudo leer el artículo; no se publica para no salir corta: Toros toman ventaja del partido
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-gigantes/2026/11/14/851506/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres 7, Gigantes 4 Resultado Final (14/11/2026)
-[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/news/favoritos-para-conquistar-primer-jmv-o-cy-young-en-2027
-Revisión: corregida (la respuesta anterior estaba incompleta: faltaba la versión en inglés y el formato de etiquetas; el texto de 
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/estrellas-vs-leones/2026/11/14/851473/live
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Estrellas contra los Leones el 14/11/2026 gratis
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851460/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas vs. Tigres, lanzadores probables, alineaciones, y más
-No se pudo bajar la página: TimeoutError('The read operation timed out')
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 0 letras -> https://repositoriocultural.bancentral.gov.do/items/e271964f-fc91-48d3-8e96-7e51fa7b07ba
-No se pudo leer el artículo; no se publica para no salir corta: Boletín mensual, abril, mayo y junio 1975
-[Precios y combustibles] Hoy Digital: texto leído 1073 letras -> https://hoy.com.do/economia/dolar-republica-dominicana-tasas-compra-venta-15-noviembre-2026_1108735.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dólar en República Dominicana: tasas de compra y venta para este 15 de noviembre de 2026
-[Precios y combustibles] Acento: texto leído 4520 letras -> https://acento.com.do/economia/mas-de-100000-contribuyentes-utilizan-la-facturacion-electronica-en-republica-dominicana-9789934.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Más de 100,000 contribuyentes utilizan la facturación electrónica en República Dominicana
-Revisión: corregida (corregí "pasaron de 23,686 en enero" sin cambios de cifras; quité "cabe destacar"/relleno, precisé que la cif
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-aguilas-vs-toros-251413
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Toros del Este
+[Deportes] MLB.com: texto leído 1561 letras -> https://www.mlb.com/es/news/estrellas-dominan-a-leones-y-dan-el-golpe-en-dominicana
+Revisión: corregida (corregí "4-3" y "3-2" a "4-for-4"... ver abajo; atribuí el dato de relevos a MLB.com, eliminé "dominicana" de
+[Deportes] MLB.com: texto leído 330 letras -> https://www.mlb.com/es/video/gregory-polanco-la-manda-a-volar
+No se pudo leer el artículo; no se publica para no salir corta: Gregory Polanco la bota por el jardín central-derecho | 15/11/2026
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-bravos/2026/11/15/869986/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Tigres contra los Bravos el 15/11/2026 gratis
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/870100/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Navegantes vs. Tiburones, lanzadores probables, alineaciones, y más
+Fuente no confiable, se salta: diarioeco.com.do
+[Precios y combustibles] eldia.com.do: texto leído 7000 letras -> https://eldia.com.do/inflacion-tasa-de-interes-y-expectativas-2027/
+Revisión: corregida (corregí el dato de inflación subyacente y la tasa de política monetaria según las fuentes, quité frases de re
 [Videojuegos] Nintendo: texto leído 2516 letras -> https://www.nintendo.com/en-gb/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo UK's official site
@@ -115,34 +104,27 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Check Out Some
 [Videojuegos] Pokemon.com: texto leído 2042 letras -> https://community.pokemon.com/en-us/discussion/26912/tips-for-playing-in-person
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tips for playing in person?
-[Videojuegos] Pokemon.com: texto leído 1306 letras -> https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night
-Fuente oficial encontrada: Pokemon.com 
-Revisión: corregida (se ajustó "Cada colección incluye 30 sobres" a 29 sobres de expansión más 1 de Classic Collection, según la f
 [Videojuegos] Pokemon.com: texto leído 1005 letras -> https://community.pokemon.com/en-us/discussion/26916/best-gym-leader-unova
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo escribir esta noticia a partir de lo que me pasaste. El material es un hilo de foro de Pokémon.com sobre una encuesta de fans para elegir el mejor líder de gimnasio de la regi')
-[Videojuegos] Pokemon.com: texto leído 470 letras -> https://access.pokemon.com/login
-No se pudo leer el artículo; no se publica para no salir corta: Play! Pokémon-account - Pokemon.com
-[Videojuegos] Nintendo: texto leído 3787 letras -> https://www.nintendo.com/es-ar/store/products/the-return-of-illunes-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Best Gym Leader: Unova
+[Videojuegos] Pokemon.com: texto leído 643 letras -> https://www.pokemon.com/de
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Die offizielle Pokémon Website | Pokemon.de
+[Videojuegos] Nintendo: texto leído 2060 letras -> https://www.nintendo.com/es-co/store/products/spin-girlfriend-secret-date-at-the-water-park-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Return of Illunes
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Spin Girlfriend! ~Secret Date at the Water Park~
 [Videojuegos] Nintendo: texto leído 1758 letras -> https://www.nintendo.com/es-pe/store/products/ecchi-breaker-feisty-edition-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ecchi Breaker: Feisty Edition
-[Videojuegos] Nintendo: texto leído 2595 letras -> https://www.nintendo.com/es-ar/store/products/hidden-kitten-anime-waifu-switch/
+[Videojuegos] Nintendo: texto leído 2638 letras -> https://www.nintendo.com/es-mx/store/products/play-and-learn-my-first-english-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Hidden Kitten: Anime Waifu
-[Videojuegos] Nintendo: texto leído 2184 letras -> https://www.nintendo.com/es-ar/store/products/where-the-heart-rests-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Where the Heart Rests
-[Videojuegos] Nintendo: texto leído 491 letras -> https://www.nintendo.com/es-pe/store/products/just-dance-decades-of-hits-limited-edition-nintendo-switch-2-edition-switch-2/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Just Dance: Decades of Hits - Limited Edition - Nintendo Switch™ 2 Edition
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Play & Learn My First English
 [Videojuegos] Nintendo: texto leído 2961 letras -> https://www.nintendo.com/es-mx/store/products/yandere-temptation-crazy-anime-girls-obsession-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Yandere Temptation: Crazy Anime Girls Obsession
-Consejo del día (divisas): Cuida tu dinero entre dos países
+Traducidas al inglés: 1 (quedan 0 por traducir)
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-25 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 25 · ya cubiertas: 6 · no confiables: 2 · opinión: 0 · con texto leído: 42 · sin texto: 12 · medios juntados: 6 · con fuente oficial: 25 · aprobadas por la revisión: 1 · corregidas por la revisión: 12 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 5 · error IA: 5 · descartadas por la IA: 17 · cambiadas de sección: 7 · largas: 13 · ocultas (cortas): 11
-Para Instagram (tendencia 3): Imponen garantía económica a hombre acusado de amenazar a Bartolomé Pujals en redes
+17 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 22 · ya cubiertas: 6 · no confiables: 3 · opinión: 0 · con texto leído: 39 · sin texto: 8 · medios juntados: 3 · con fuente oficial: 27 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 4 · error IA: 5 · descartadas por la IA: 16 · cambiadas de sección: 3 · largas: 10 · ocultas (cortas): 7
+Para Instagram (tendencia 1): Dólar en RD: dónde conviene comprar y vender hoy
