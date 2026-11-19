@@ -1,137 +1,141 @@
-Corrida: 2026-11-18 06:05 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+Corrida: 2026-11-18 11:38 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 205, 6000')
 [República Dominicana] Presidencia de la República Dominicana: texto leído 3546 letras -> https://presidencia.gob.do/noticias/republica-dominicana-presidira-por-primera-vez-el-fondo-ibermedia-que-financia-el-cine-de
+[República Dominicana] Diario Libre: texto leído 3912 letras -> https://www.diariolibre.com/revista/cine/2026/11/18/republica-dominicana-presidira-el-fondo-ibermedia/3724316
 [República Dominicana] El Nuevo Diario: texto leído 3271 letras -> https://elnuevodiario.com.do/rd-presidira-por-primera-vez-el-fondo-ibermedia-que-financia-el-cine-de-21-paises/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "Marianna Vargas Gurilieva" y el cargo sin cambios de fondo; atribuí a la 
+Revisión: corregida (corregí "Marianna Vargas Gurilieva" y el cargo sin cambios de fondo; atribuí a la Presidencia la frase de "pr
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2823 letras -> https://presidencia.gob.do/noticias/republica-dominicana-estrenara-su-primer-sistema-de-almacenamiento-en-baterias-finales-de
+[República Dominicana] mem.gob.do: texto leído 2778 letras -> https://mem.gob.do/republica-dominicana-estrenara-su-primer-sistema-de-almacenamiento-en-baterias-a-finales-de-noviembre/
+Fuente oficial encontrada: Presidencia de la República Dominicana, mem.gob.do 
+Revisión: corregida (cambié "Para los dominicanos en el país" por "Para los dominicanos" en IMPORTA; eliminé "and abroad" en WHY_E
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3791 letras -> https://presidencia.gob.do/noticias/ministerio-de-salud-inicia-elaboracion-del-plan-nacional-de-calidad-en-salud-para-mejorar
+[República Dominicana] El Nuevo Diario: texto leído 3314 letras -> https://elnuevodiario.com.do/video-salud-publica-inicia-plan-nacional-para-mejorar-la-calidad-de-la-atencion-sanitaria/
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Rechazada por la revisión: República Dominicana presidirá por primera vez el Fondo Ibermedia, que financia el cine de 21 países -> cifras que no aparecen en las fuentes: 34
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1877 letras -> https://presidencia.gob.do/noticias/inefi-sigue-apoyando-los-alumnos-especiales-con-entrega-de-utileria-deportiva
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé la frase "cabe destacar"-tipo y la atribución dudosa; ajusté "Según la Presidencia" y "días después" 
-[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://www.presidencia.gob.do/noticias/en-inauguracion-del-xxxi-congreso-internacional-clad-presidente-luis-abinader-destaca
-[República Dominicana] N Digital: texto leído 6545 letras -> https://n.com.do/2026/11/18/abinader-inaugura-xxxi-congreso-internacional-clad-sobre-reforma-y-modernizacion-de-la-administracion-publica/
-[República Dominicana] Noticias SIN: texto leído 4601 letras -> https://noticiassin.com/pais/nacional/2026/11/18/abinader-inaugura-congreso-internacional-clad-sobre-reforma-del-estado-2172315/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: N Digital
-Revisión: corregida (quité "Dominicans at home and abroad" del WHY_EN, que no aparece en las fuentes; reemplacé "según indicó" por
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-arresta-junto-a-la-dncd-a-varios-hombres-en-14-allanamientos-simultaneos-vinculados-a-decomiso-de-237-paquetes-de-cocaina/
-[República Dominicana] El Nuevo Diario: texto leído 2687 letras -> https://elnuevodiario.com.do/mp-arresta-a-cinco-hombres-en-14-allanamientos-por-decomiso-de-237-paquetes-de-cocaina/
-[República Dominicana] El Dia.com.do: texto leído 3263 letras -> https://eldia.com.do/tres-miembros-del-ejercito-entre-arrestados-vinculados-a-red-de-narcotrafico-se-le-decomiso-243-kilos-de-cocaina/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (el borrador dice "tres de ellos militares" y "dos sargentos y un teniente", pero l
-Revisión: corregida (el borrador dice "tres de ellos militares" y "dos sargentos y un teniente", pero las fuentes dicen que hay do
-[Dominicanos en EE.UU.] Direccion General de Aduanas: texto leído 616 letras -> https://www.aduanas.gob.do/noticias/aduanas-mantiene-monto-de-us-5-500-en-la-gracia-navidena-para-dominicanos-residentes-en-el-exterior/
-[Dominicanos en EE.UU.] CDN: texto leído 2025 letras -> https://cdn.com.do/en-desarrollo/aduanas-mantiene-en-us5500-la-gracia-navidena-para-2026/?amp=1
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/aduanas-mantiene-en-us5500-la-gracia-navidena-para-dominicanos-ausentes/
-Fuente oficial encontrada: Direccion General de Aduanas | para completar: CDN
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Aduanas mantiene monto de US$5,500 en la gracia navideña para dominicanos residentes en el exterior
-Revisión: corregida (eliminé "por familia y" duplicado no; quité frases de relleno como "cabe destacar"-type y ajusté "per family"
-[Dominicanos en EE.UU.] Fideicomiso RD Vial: texto leído 4078 letras -> https://rdvial.gob.do/iluminacion-solar-transforma-mas-de-120-kilometros-de-la-autopista-duarte/
-Fuente oficial encontrada: Fideicomiso RD Vial 
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Iluminación solar transforma más de 120 kilómetros de la autopista Duarte
-Rechazada por la revisión: Iluminación solar transforma más de 120 kilómetros de la autopista Duarte -> cifras que no aparecen en las fuentes: 500
-[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-dc/pr/dc-restauranteur-charged-elder-financial-exploitation-scheme-against-his-neighbor-78
-No se pudo leer el artículo; no se publica para no salir corta: D.C. Restauranteur Charged in Elder Financial Exploitation Scheme Against His Neighbor, a 78-Year-Old Disabled Veteran
+Revisión: corregida (corregí "Salud" a "Ministerio de Salud" en el título y el gancho en español e inglés para mayor precisión; qu
+[Dominicanos en EE.UU.] DGCINE: texto leído 3604 letras -> https://dgcine.gob.do/cuatro-proyectos-dominicanos-son-seleccionados-para-participar-en-ventana-sur-2026/
+Fuente oficial encontrada: DGCINE 
+Revisión: corregida (eliminé "cabe destacar"-tipo relleno; el texto ya coincidía con las fuentes en datos, nombres y cargos; ajust
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4393 letras -> https://centralnoticias.gob.do/la-verja-fronteriza-cobra-relevancia-para-la-republica-dominicana-ante-la-crisis-de-haiti/
+[Dominicanos en EE.UU.] EFE - Agencia de noticias: texto leído 4423 letras -> https://efe.com/mundo/2026-11-18/verja-fronteriza-republica-dominicana-crisis-violencia-haiti/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: EFE - Agencia de noticias
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití
+Revisión: corregida (se eliminó la atribución a "Dominican authorities increasingly see it" sin cambios de fondo; se atribuyó a EF
+[Dominicanos en EE.UU.] Registro Inmobiliario: texto leído 0 letras -> https://ri.gob.do/wp-content/uploads/2026/11/05.-T%C3%A9rminos-de-Referencia-3.pdf
+No se pudo leer el artículo; no se publica para no salir corta: Términos de Referencia para la Adquisición de tóneres y cartuchos para el Registro Inmobiliario, dirigido a MIPYMES 2da convo
 [Dominicanos en EE.UU.] United States Mission to the United Nations (.gov): texto leído 1813 letras -> https://usun.usmission.gov/explanation-of-vote-for-unga-81-3c-resolution-intensification-of-efforts-to-prevent-and-eliminate-all-forms-of-violence-against-women-and-girls/
 Fuente oficial encontrada: United States Mission to the United Nations (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Explanation of Vote for UNGA 81/3C Resolution "Intensification of efforts to prevent and eliminate all forms of violence against women and girls"
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2137 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-hizballah-front-organization-and-iran-backed-financial-network/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto disponible es una transcripción de declaraciones de Marco Rubio en Manila, con fecha de 17 de noviembre de 2026, y no reporta una noticia concreta con datos verificable')
-[Dominicanos en EE.UU.] Acento: texto leído 3615 letras -> https://acento.com.do/sociales/alianza-internacional-de-capellanes-y-policias-servicios-voluntarios-de-nueva-jersey-asume-escolta-de-miss-mundo-2026-9791899.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Alianza Internacional de Capellanes y Policías Servicios Voluntarios de Nueva Jersey asume escolta de Miss Mundo 2026
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: U.S. Sanctions Hizballah Front Organization and Iran-Backed Financial Network
+Revisión: corregida (eliminé "con sede en el sur del Líbano" para Wa Ta'awanu como dato no atribuido; atribuí todas las afirmacion
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-24
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el único texto disponible es una transcripción de declaraciones de Marco Rubio en Manila, sin ningún dato verificable sobre las incidencias que menciona (Microsoft, la FAA, los ')
 [Internacionales] The White House (.gov): texto leído 3858 letras -> https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. Solo me pasaste una versión, de The White House (.gov), que es una fuente oficial, y el texto se corta a mitad de la última cita ')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste solo contiene una versión (The White House, marcada como FUENTE OFICIAL) y se corta a mitad de una frase. No hay versiones de periódicos que permitan contrastar da')
 [Internacionales] The White House (.gov): texto leído 2881 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presidential Message on American Education Week
-[Internacionales] The White House (.gov): texto leído 3488 letras -> https://www.whitehouse.gov/videos/president-trump-participates-in-a-multilateral-meeting-with-quad-leaders/
+[Internacionales] The White House (.gov): texto leído 3528 letras -> https://www.whitehouse.gov/videos/president-trump-participates-in-a-multilateral-meeting-with-quad-leaders/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es una página de navegación de la Casa Blanca con menús y listados de videos; no contiene el contenido de una noticia concreta sobre la reunión (solo títulos de videos y fechas, sin hechos')
 [Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/revista/musica/2026/11/18/orquesta-alto-contraste-celebra-trayectoria-de-leo-subervi/3723421
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El texto de la Versión 1 se corta antes de llegar al final, y además el material disponible es una entrevista de tono promocional')
-[Famosos] CDN: texto leído 2416 letras -> https://cdn.com.do/nacionales/policia-investiga-a-dos-personas-por-la-muerte-de-melissa-medina/
-[Famosos] Acento: texto leído 827 letras -> https://acento.com.do/actualidad/policia-y-ministerio-publico-investigan-muerte-de-influencer-melissa-medina-en-piantini-entrevistan-a-dos-personas-que-la-acompanaban-9792410.html
-[Famosos] Diario Libre: texto leído 1628 letras -> https://www.diariolibre.com/revista/farandula/2026/11/18/la-policia-investiga-a-dos-personas-por-muerte-de-melissa-medina/3724445
-Cambiada de sección: Famosos -> República Dominicana: Policía investiga a dos personas por muerte de Melissa Medina
-Revisión: corregida (Eliminé la atribución a Diario Libre sobre el apartamento y el hombre de 60 años, que no aparece en las fuent
-[Famosos] CDN: texto leído 2038 letras -> https://cdn.com.do/nacionales/reportan-un-objeto-luminoso-en-el-cielo-de-santo-domingo/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNota: no puedo redactar una noticia a partir de estas versiones porque el material no sustenta un hecho confirmado. El texto de CDN dice expresamente que no se ha confirmado qué era el ')
-[Famosos] eldia.com.do: texto leído 2611 letras -> https://eldia.com.do/nueva-york-reunira-el-talento-y-la-cultura-dominicana-en-encuentro-encabezado-por-roberto-angel-salcedo/
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Nueva York reunirá el talento y la cultura dominicana en encuentro encabezado por Roberto Ángel Salcedo
-Revisión: corregida (se ajustó "Dominicanos en EE.UU." sin cambios de fondo; se corrigió "Nueva York" a "Nueva York" intacto; se r
-[Famosos] Hoy Digital: texto leído 807 letras -> https://hoy.com.do/vivir/forbes-rd-presenta-primera-edicion-especial-dedicada-arte_1109018_amp.html
-No encaja en ninguna sección, se salta: Forbes RD presenta su primera edición especial dedicada al arte
-Fuente no confiable, se salta: elpregonerord.com
-[Famosos] AlMomento.net: texto leído 2061 letras -> https://almomento.net/patronato-dominicano-por-la-danza-renueva-su-compromiso/
-Cambiada de sección: Famosos -> República Dominicana: Patronato Dominicano por la Danza renueva su compromiso
-Revisión: aprobada
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851525?ins=previa&sec=boxscore
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Leo Suberví: cuatro décadas de innovación musical y evolución
+[Famosos] CDN: texto leído 2853 letras -> https://cdn.com.do/entretenimiento/jennifer-lopez-cuenta-que-aprendio-de-sus-cuatro-divorcios/
+Revisión: corregida (se quitó "habló sin rodeos" del gancho por no estar en la fuente; se corrigió el relleno "Según dijo" y se at
+[Famosos] CDN: texto leído 4206 letras -> https://cdn.com.do/nacionales/bisono-anuncia-alianza-diplomatica-para-impulsar-exportaciones/
+[Famosos] El Nuevo Diario: texto leído 2191 letras -> https://elnuevodiario.com.do/bisono-anuncia-alianza-diplomatica-para-impulsar-exportaciones-y-atraer-inversiones/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/bisono-anuncia-alianza-para-impulsar-exportaciones-e-inversiones-dominicanas/
+Cambiada de sección: Famosos -> República Dominicana: Bisonó anuncia alianza diplomática para impulsar exportaciones e inversiones
+Revisión: corregida (se quitó la atribución a El Nuevo Diario de la frase sobre el éxito de la alianza, porque las fuentes la pres
+[Famosos] CDN: texto leído 4211 letras -> https://cdn.com.do/entretenimiento/gta-6-alcanza-un-historico-99-sobre-100-en-metacritic/
+[Famosos] Revista Semana: texto leído 2243 letras -> https://www.semana.com/tecnologia/articulo/gta-6-alcanza-puntuacion-historica-en-metacritic-antes-de-su-lanzamiento-iguala-a-uno-de-los-mejores-videojuegos-de-la-historia/202620/
+Cambiada de sección: Famosos -> Videojuegos: GTA 6 alcanza una puntuación histórica de 99 en Metacritic
+Revisión: corregida (eliminé la frase con cifra contradictoria de 153 críticas, la sustituí por la cifra de 100 reseñas atribuida 
+[Famosos] CDN: texto leído 1459 letras -> https://cdn.com.do/nacionales/hombre-admite-haber-matado-a-su-pareja-sentimental-en-moca/
+[Famosos] El Nuevo Diario: texto leído 1363 letras -> https://elnuevodiario.com.do/hombre-admite-haber-matado-a-nathali-torres-en-moca/
+Cambiada de sección: Famosos -> República Dominicana: Hombre admite haber matado a su pareja sentimental en Moca
+Revisión: corregida (corregí el titular y el texto para que cada dato venga de las fuentes; la cita de «Me pegaba muchos cuernos» 
+[Famosos] CDN: texto leído 1919 letras -> https://cdn.com.do/economicas/republica-dominicana-por-que-subir-la-tasa-antes-de-fin-de-ano/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El apriete navideño dominicano | Jaime Aristy Escuder
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851460?ins=vivo&sec=boxscore
 No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-licey-vs-estrellas-251446
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Tigres del Licey vs Estrellas Orientales
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851484?ins=previa&sec=boxscore
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-toros-vs-escogido-251445
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Leones del Escogido
-[Deportes] Lidom: texto leído 248 letras -> https://lidom.com/videos/victoria-para-los-leones-de-escogido-100664.html
-No se pudo leer el artículo; no se publica para no salir corta: Victoria para los Leones de Escogido
-[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/news/ganadores-del-bate-de-plata-2026
-Error IA: ValueError('respuesta sin el formato esperado: Solo tengo una versión del texto (MLB.com, periódico), y además el material está cortado al final, en la sección de jardineros, así que no hay información completa para armar la noticia. El contenido ')
-[Deportes] MLB.com: texto leído 346 letras -> https://www.mlb.com/es/video/pat-murphy-on-jake-bauers-i-m-excited-for-jake
-No se pudo leer el artículo; no se publica para no salir corta: Pat Murphy on Jake Bauers: 'I'm excited for Jake'
-[Deportes] MLB.com: texto leído 3729 letras -> https://www.mlb.com/es/news/jose-tena-pega-hit-decisivo-en-victoria-de-las-estrellas
-Revisión: corregida (corregí el marcador de Licey en el texto español: "caen por segundo partido seguido" ya estaba bien, pero en 
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 5496 letras -> https://micm.gob.do/micm-y-aird-reunen-a-autoridades-y-sector-empresarial-para-fortalecer-la-lucha-contra-el-comercio-ilicito/
-[Precios y combustibles] El Nuevo Diario: texto leído 5346 letras -> https://elnuevodiario.com.do/autoridades-y-sector-empresarial-se-reunen-para-fortalecer-lucha-contra-el-comercio-ilicito/
-[Precios y combustibles] Acento: texto leído 3973 letras -> https://acento.com.do/economia/gobierno-prepara-cumbre-regional-contra-el-comercio-ilicito-9792369.html
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes | para completar: El Nuevo Diario
-Cambiada de sección: Precios y combustibles -> República Dominicana: MICM y AIRD reúnen a autoridades y sector empresarial para fortalecer la lucha contra el comercio ilícito
-Revisión: corregida (se quitó la cita “con humildad y determinación” y el inglés se ajustó a la versión de la fuente en “coordinac
-[Precios y combustibles] Hoy Digital: texto leído 781 letras -> https://hoy.com.do/economia/dolar-republica-dominicana-son-tasas-compra-venta-18-noviembre_1109085.html
-[Precios y combustibles] Infobae: texto leído 2241 letras -> https://www.infobae.com/colombia/2026/11/18/precio-del-oro-en-colombia-asi-quedo-la-compra-y-venta-este-miercoles-18-de-noviembre/
-[Precios y combustibles] El Comercio Perú: texto leído 0 letras -> sin enlace
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (título y gancho ajustados para que digan "compra" y "venta" de forma consistente c
-Rechazada por la revisión: Dólar en República Dominicana: estas son las tasas de compra y venta para este 18 de noviembre -> cifras que no aparecen en las fuentes: 6000, 6034
-[Precios y combustibles] Acento: texto leído 6887 letras -> https://acento.com.do/economia/gobierno-pide-elevar-deficit-fiscal-a-rd-365968-millones-y-suspender-regla-de-responsabilidad-fiscal-9792284.html
-[Precios y combustibles] Diario Libre: texto leído 4306 letras -> https://www.diariolibre.com/economia/macroeconomia/2026/11/18/lo-que-pide-el-gobierno-en-modificacion-al-presupuesto-2026/3723762
-[Precios y combustibles] N Digital: texto leído 2548 letras -> https://n.com.do/2026/11/18/pacheco-atendible-aumento-deficit-fiscal-gobierno-2026/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno pide elevar déficit fiscal a RD$ 365,968 millones y suspender regla de responsabilidad fiscal
-Revisión: corregida (cambié "es atendible" por la cita textual de N Digital como "atendible" entrecomillado; quité "Esto es lo que
-[Videojuegos] Nintendo: texto leído 3423 letras -> https://www.nintendo.com/us/whatsnew/the-keepsake-sea-sets-sail-in-disney-dreamlight-valley/
-[Videojuegos] XBOX: texto leído 2142 letras -> https://www.xbox.com/es-CO/games/store/disney-dreamlight-valley-edicion-the-keepsake-sea/9n9r7dpklllh
-[Videojuegos] PlayStation Store: texto leído 3134 letras -> https://store.playstation.com/product/UP2006-PPSA05825_00-DDVEXP4DELUXE001
-Fuente oficial encontrada: Nintendo, XBOX, PlayStation Store 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Keepsake Sea sets sail in Disney Dreamlight Valley – News
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-aguilas-vs-licey-251458
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Tigres del Licey
+[Deportes] Lidom: texto leído 255 letras -> https://lidom.com/videos/segundo-cuadrangular-de-la-noche-para-leody-100673.html
+No se pudo leer el artículo; no se publica para no salir corta: Segundo cuadrangular de la noche para Leody
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-toros/2026/11/18/851422/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones vs. Toros, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/estrellas-vs-gigantes/2026/11/18/851503/final/box
+No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Estrellas contra los Gigantes el 18/11/2026 gratis
+[Deportes] MLB.com: texto leído 339 letras -> https://www.mlb.com/es/video/jonron-de-tres-carreras-de-felix-reyes
+[Deportes] Acento: texto leído 2454 letras -> https://acento.com.do/deportes/toros-del-este-se-desquitan-del-escogido-con-victoria-7-2-gracias-a-jonron-de-felix-reyes-9792807.html
+[Deportes] De Último Minuto: texto leído 2830 letras -> https://deultimominuto.com/deportes/beisbol/toros-del-este-remontan-ante-el-escogido-con-jonron-de-felix-reyes/
+Revisión: corregida (ajusté el nombre "Yaramil" a "Yaramí" según Acento, "Yaramí Hiraldo" en el texto de Acento; corregí "remontan
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872068/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mayaguez vs. Ponce, lanzadores probables, alineaciones, y más
+[Precios y combustibles] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6718-valdez-albizu-recibe-la-visita-de-altos-ejecutivos-de-scotiabank-y-destaca-la-robustez-del-sistema-financiero-dominicano
+[Precios y combustibles] Noticias SIN: texto leído 3041 letras -> https://noticiassin.com/economia/2026/11/18/valdez-albizu-destaca-la-solidez-financiera-dominicana-ante-scotiabank-2172487/?amp=1
+Fuente oficial encontrada: Banco Central de la República Dominicana | para completar: Noticias SIN
+Cambiada de sección: Precios y combustibles -> República Dominicana: Valdez Albizu recibe la visita de altos ejecutivos de Scotiabank y destaca la robustez del sistema financiero dominicano
+Rechazada por la revisión: Valdez Albizu recibe la visita de altos ejecutivos de Scotiabank y destaca la robustez del sistema financiero dominicano -> cifras que no aparecen en las fuentes: 152
+Fuente no confiable, se salta: bloomberglinea.com
+Fuente no confiable, se salta: gub.uy
+Fuente no confiable, se salta: telemetro.com
+[Precios y combustibles] Infobae: texto leído 3851 letras -> https://www.infobae.com/peru/2026/11/18/gobierno-confirma-pago-de-bono-onp-de-s200-en-diciembre-para-que-pensionistas/
+Cambiada de sección: Precios y combustibles -> Internacionales: Bono ONP de S/200 confirmado: Gobierno hará pago en diciembre 2026 para estos pensionistas
+Revisión: corregida (se cambió "Perú confirma" por "Perú confirma"... ver detalle abajo; se corrigió la fecha del informe INEI, qu
+[Precios y combustibles] El Dia.com.do: texto leído 1345 letras -> https://eldia.com.do/subsidio-a-los-combustibles-se-acerca-a-los-rd50000-millones/
+[Precios y combustibles] El Nuevo Diario: texto leído 1563 letras -> https://elnuevodiario.com.do/sanz-lovaton-asegura-esta-semana-no-habra-aumento-en-combustibles-ya-que-subsidio-sera-menor-a-1500-millones-de-pesos/
+Rechazada por la revisión: Subsidio a los combustibles se acerca a los RD$50,000 millones -> cifras que no aparecen en las fuentes: 15
 [Videojuegos] Nintendo: texto leído 2081 letras -> https://www.nintendo.com/en-gb/News/2026/November/What-s-new-in-Splatoon-3-Version-12-0-0-3244962.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): What’s new in Splatoon 3 Version 12.0.0?
+[Videojuegos] Nintendo: texto leído 3423 letras -> https://www.nintendo.com/us/whatsnew/the-keepsake-sea-sets-sail-in-disney-dreamlight-valley/
+[Videojuegos] XBOX: texto leído 2142 letras -> https://www.xbox.com/es-CO/games/store/disney-dreamlight-valley-edicion-the-keepsake-sea/9n9r7dpklllh
+[Videojuegos] PlayStation Store: texto leído 3454 letras -> https://store.playstation.com/es-mx/product/UP2006-PPSA05825_00-DDVEXP4DELUXE001
+[Videojuegos] PlayStation: texto leído 6163 letras -> https://www.playstation.com/es-sv/games/disney-dreamlight-valley/
+Fuente oficial encontrada: Nintendo, XBOX, PlayStation Store, PlayStation 
+Revisión: corregida (cambié "Captain Hook" a "Captain Hook" → en el español "capitán Garfio" ya estaba bien; ajusté "Atlantis: El 
+Video de YouTube agregado: Disney Dreamlight Valley: The Keepsake Sea – Launch Trailer – Nintendo Switch 2
 [Videojuegos] Nintendo: texto leído 739 letras -> https://www.nintendo.com/us/store/products/the-woobles-kirby-crochet-kit-130012/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Videojuegos] Pokemon.com: texto leído 1004 letras -> https://community.pokemon.com/en-us/discussion/26951/pokemon-battle-against-1
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The Woobles Kirby Crochet Kit
+[Videojuegos] Nintendo: texto leído 1427 letras -> https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-cards-added-to-the-nintendo-today-app/
+[Videojuegos] Vandal: texto leído 0 letras -> https://vandal.elespanol.com/guias/guia-the-legend-of-zelda-ocarina-of-time-remake-trucos-consejos-y-secretos
+Fuente oficial encontrada: Nintendo 
+Revisión: corregida (se quitó "Nintendo publicó que" y "Nintendo anunció que" por redundancia y se ajustó "Cards from earlier pack
+[Videojuegos] Nintendo: texto leído 1322 letras -> https://www.nintendo.com/us/whatsnew/nintendo-new-york-and-nintendo-san-francisco-are-bringing-the-joy-this-holiday-season/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo NEW YORK and Nintendo SAN FRANCISCO are bringing the joy this holiday season!
+[Videojuegos] Pokemon.com: texto leído 0 letras -> https://championships.pokemon.com/en-us/events/regionals/2027/johannesburg
+No se pudo leer el artículo; no se publica para no salir corta: 2027 Johannesburg Pokémon Special Championships
+[Videojuegos] Pokemon.com: texto leído 835 letras -> https://community.pokemon.com/en-us/discussion/26963/writers-needed-pokemon-the-high-school-life
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon battle against! ...(1)
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia con los textos proporcionados. La única versión de fuente oficial es una publicación del foro de Pokémon.com en la que un usuario, MonstaDash, pide escritores para conti')
+[Videojuegos] Pokemon.com: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Pokemon battle against! ...(1)
 [Videojuegos] Pokemon.com: texto leído 2760 letras -> https://community.pokemon.com/en-us/discussion/26952/pokemon-legendary-timeline-part-1
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon legendary timeline part 1
-[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://community.pokemon.com/en-us/discussion/26949/pokemon-legendary-timeline-part-1
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon legendary timeline Part 1
-[Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-ar/store/products/karaoke-party-2-animal-sing-and-dance-switch/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no corresponde a una noticia concreta. Es un hilo de aficionados sobre la cronología de Pokémon legendarios, con teorías y especulaciones, por lo que no hay hechos noticios')
+[Videojuegos] Pokemon.com: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Pokemon legendary timeline Part 1
+[Videojuegos] Nintendo: texto leído 2447 letras -> https://www.nintendo.com/es-cl/store/products/head-over-heels-fantasy-world-montage-puzzle-from-the-saint-to-monster-girls-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Karaoke Party 2: Animal Sing & Dance
-[Videojuegos] Nintendo: texto leído 2934 letras -> https://www.nintendo.com/es-ar/store/products/the-jackbox-holiday-bundle-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Head-Over-Heels! Fantasy World Montage Puzzle ~From the Saint to Monster Girls~
+[Videojuegos] Nintendo: texto leído 2578 letras -> https://www.nintendo.com/es-co/store/products/flight-simulator-2026-deluxe-edition-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Jackbox Holiday Bundle
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Flight Simulator 2026 Deluxe Edition
 [Videojuegos] Nintendo: texto leído 2259 letras -> https://www.nintendo.com/es-cl/store/products/mawkey-the-last-macaw-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Mawkey The Last Macaw
-[Videojuegos] Nintendo: texto leído 2592 letras -> https://www.nintendo.com/es-mx/store/products/flight-simulator-2026-deluxe-edition-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Flight Simulator 2026 Deluxe Edition
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-15 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 5 · ya vistas: 42 · ya cubiertas: 11 · no confiables: 1 · opinión: 0 · con texto leído: 47 · sin texto: 10 · medios juntados: 9 · con fuente oficial: 21 · aprobadas por la revisión: 1 · corregidas por la revisión: 9 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 3 · error IA: 7 · descartadas por la IA: 13 · cambiadas de sección: 7 · largas: 10 · ocultas (cortas): 5
-Para Instagram (tendencia 3): Estrellas vencen 2-1 al Licey en diez entradas con sencillo de José Tena
+23 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 38 · ya cubiertas: 7 · no confiables: 3 · opinión: 0 · con texto leído: 45 · sin texto: 13 · medios juntados: 13 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 14 · rechazadas por la revisión: 2 · con video: 1 · con foto oficial: 8 · error IA: 5 · descartadas por la IA: 10 · cambiadas de sección: 7 · largas: 14 · ocultas (cortas): 9
