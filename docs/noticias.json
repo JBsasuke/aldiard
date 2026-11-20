@@ -277,8 +277,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-20T21:17:37.895675+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/f8566722c6.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/f8566722c6.jpg",
+  "ig_id": "18134748460806968",
+  "ig_fecha": "2026-11-20T21:23:04.055368+00:00"
  },
  {
   "id": "58d3eacbc6",
@@ -445,10 +447,13 @@
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-20T21:19:01.612061+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/a4bd486c2b.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/a4bd486c2b-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/a4bd486c2b-h.jpg",
+  "ig_id": "18351151459283305",
+  "ig_fecha": "2026-11-20T21:21:22.181415+00:00",
+  "historia_fecha": "2026-11-20T21:21:35.153137+00:00"
  },
  {
   "id": "33a57b9a72",
@@ -570,8 +575,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-20T20:48:19.420408+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/b7bad51112.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/b7bad51112.jpg",
+  "ig_id": "18105904520628605",
+  "ig_fecha": "2026-11-20T21:24:31.943300+00:00"
  },
  {
   "id": "4cb28602b7",
@@ -2249,8 +2256,10 @@
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-20T13:09:14.982694+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/ab6243cd80.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/ab6243cd80.jpg",
+  "ig_id": "17918881071498049",
+  "ig_fecha": "2026-11-20T21:25:59.334567+00:00"
  },
  {
   "id": "625879502e",
@@ -2437,8 +2446,10 @@
   "seccion": "Famosos",
   "fecha": "2026-11-20T13:11:07.974175+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/6fbb3d4094.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/6fbb3d4094.jpg",
+  "ig_id": "18128578279900136",
+  "ig_fecha": "2026-11-20T21:27:27.398374+00:00"
  },
  {
   "id": "f46cac818f",
