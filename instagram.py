@@ -1,7 +1,7 @@
-"""Publica UNA cosa por corrida en Instagram (@aldiardnews):
-un solo consejo al día (el primero del día); el resto de corridas, noticias.
+"""Publica en Instagram (@aldiardnews) varias cosas por corrida:
+un solo consejo al día y hasta 5 noticias por hora, la más en tendencia primero.
 Necesita los secretos IG_TOKEN e IG_USER_ID en GitHub."""
-import json, os, sys, time, urllib.request, urllib.parse, urllib.error
+import json, os, re, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timezone, timedelta
 
 from noticias import (destino, extras, ARCHIVO, ARCHIVO_CONSEJOS, cargar, guardar,
@@ -12,6 +12,13 @@ API = "https://graph.instagram.com/v23.0"
 TOKEN = os.environ.get("IG_TOKEN", "").strip()
 USUARIO = os.environ.get("IG_USER_ID", "").strip() or "me"
 MAX_INTENTOS = 3
+ESPERA_ENTRE = 75        # segundos entre una publicación y otra (para que Instagram no lo tome como spam)
+TIEMPO_MAX = 20 * 60     # una corrida no pasa más de 20 minutos publicando
+
+def es_limite(err):
+    """Instagram dice que hay que esperar (límite de pedidos o de publicaciones del día)."""
+    return re.search(r"request limit|2207051|2207042|\"code\": ?4[,}]", str(err), re.I) is not None
+
 HORA_RD = timezone(timedelta(hours=-4))  # República Dominicana, sin cambio de horario
 
 HASHTAGS = {
@@ -130,11 +137,14 @@ def intentar(item, ig_img, clave, caption):
         item["ig_fecha"] = datetime.now(timezone.utc).isoformat()
         print("Publicado:", item["titulo"])
     except Exception as err:
+        if es_limite(err):  # no es culpa de la noticia: no cuenta como intento
+            print("Límite de Instagram:", item["titulo"], "->", err)
+            return "limite"
         item["ig_intentos"] = item.get("ig_intentos", 0) + 1
         if item["ig_intentos"] >= MAX_INTENTOS:
             item["ig"] = "error"
         print("Error Instagram:", item["titulo"], "->", err)
-        return
+        return "error"
     if item.get("historia") == "pendiente":  # está en tendencia (o es el consejo): también a historias
         try:
             publicar(item["historia_img"], clave + "h", "", historia=True)
@@ -144,6 +154,7 @@ def intentar(item, ig_img, clave, caption):
         except Exception as err:
             item["historia"] = "error"
             print("Error historia:", item["titulo"], "->", err)
+    return "ok"
 
 def dia_rd(fecha_iso):
     """Convierte una fecha guardada (ISO) al día en hora de RD. Si no se entiende, devuelve None."""
@@ -191,13 +202,28 @@ def main():
                  "Actions → pestaña Secrets → New repository secret (nombre exacto: IG_TOKEN).")
     todas, consejos = cargar(ARCHIVO), cargar(ARCHIVO_CONSEJOS)
     consejo = escoger_consejo(consejos)
-    noticia = next((n for n in todas if n.get("ig") == "pendiente"), None)
+    cola = []
     if consejo:
-        intentar(consejo, consejo["ig_img"], consejo["fecha"], texto_consejo(consejo))
-    elif noticia:
-        intentar(noticia, noticia["ig_img"], noticia["id"], texto_noticia(noticia))
-    else:
+        cola.append((consejo, consejo["ig_img"], consejo["fecha"], texto_consejo(consejo)))
+    # todas las noticias que noticias.py dejó listas, la más en tendencia primero
+    pendientes = sorted((n for n in todas if n.get("ig") == "pendiente"),
+                        key=lambda n: n.get("tendencia", 1), reverse=True)
+    cola += [(n, n["ig_img"], n["id"], texto_noticia(n)) for n in pendientes]
+    if not cola:
         print("Nada nuevo para Instagram en esta corrida.")
+    inicio = time.time()
+    for i, (item, img, clave, texto) in enumerate(cola):
+        if i:
+            if time.time() - inicio > TIEMPO_MAX:
+                print("Se acabó el tiempo de esta corrida: lo que falta compite en la próxima.")
+                break
+            print(f"Esperando {ESPERA_ENTRE} segundos antes de la próxima (para que Instagram no lo tome como spam)...")
+            time.sleep(ESPERA_ENTRE)
+        if intentar(item, img, clave, texto) == "limite":
+            print("Instagram puso un límite por ahora: lo que falta sale en la próxima corrida.")
+            break
+        guardar(ARCHIVO, todas)  # se guarda después de cada una, por si algo se corta
+        guardar(ARCHIVO_CONSEJOS, consejos)
     guardar(ARCHIVO, todas)
     guardar(ARCHIVO_CONSEJOS, consejos)
     renovar_token()
