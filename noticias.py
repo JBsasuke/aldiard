@@ -117,11 +117,13 @@ uefa.com fedofutbol.org miderec.gob.do beisbolporlaradio.com
 """.split()
 MAX_GUARDADAS = 400
 HORAS_IG = 12           # una noticia más vieja que esto ya no se sube a Instagram
-IG_DESDE, IG_HASTA = 7, 23   # Instagram: una publicación por hora, de 7:00 a. m. a 11:00 p. m. (hora RD)
+IG_DESDE, IG_HASTA = 7, 23   # Instagram: hasta 5 por hora, de 7:00 a. m. a 11:00 p. m. (hora RD)
 HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el primer consejo del día (el tema en tendencia)
 HORA_CONSEJO_2 = 15     # ya no se usa: ahora sale un solo consejo al día
 TENDENCIA_HISTORIA = 3  # si 3 medios o más hablan de la noticia, también va a historias
-MAX_HISTORIAS_DIA = 8   # tope de historias de noticias por día
+MAX_HISTORIAS_DIA = 12  # tope de historias de noticias por día
+IG_POR_CORRIDA = 5      # hasta 5 noticias a Instagram en cada corrida (cada hora), la más en tendencia primero
+MAX_IG_DIA = 45         # tope de noticias en Instagram por día (Instagram deja 100 en 24 horas; así no parece spam)
 
 ARCHIVO = "docs/noticias.json"
 ARCHIVO_CONSEJOS = "docs/consejos.json"
@@ -1240,49 +1242,72 @@ def historias_de_hoy(todas, consejos):
                and datetime.fromisoformat(n["historia_fecha"]).astimezone(HORA_RD).date() == hoy)
 
 # ================= Instagram: qué se sube esta hora =================
+def publicadas_ig_hoy(todas):
+    hoy = ahora().astimezone(HORA_RD).date()
+    return sum(1 for n in todas if n.get("ig_fecha")
+               and datetime.fromisoformat(n["ig_fecha"]).astimezone(HORA_RD).date() == hoy)
+
 def elegir_para_instagram(todas):
-    """Una sola noticia por corrida: la que más medios están publicando,
-    sin repetir la sección de la última publicación si hay otra casi igual de fuerte."""
+    """Hasta IG_POR_CORRIDA noticias por corrida. Primero lo que está en tendencia (lo que más medios
+    están publicando, sea de RD, de EE.UU. o del mundo), con un tope diario para que Instagram no lo tome como spam."""
     for n in todas:  # lo que quedó pendiente vuelve a competir
         if n.get("ig") == "pendiente":
             n["ig"] = None
     hora_rd = ahora().astimezone(HORA_RD).hour
     if not (IG_DESDE <= hora_rd < IG_HASTA):
         print(f"Instagram: de madrugada no se publica (solo de {IG_DESDE}:00 a {IG_HASTA}:00, hora RD).")
-        return None
+        return []
+    hoy_ig = publicadas_ig_hoy(todas)
+    cupo = min(IG_POR_CORRIDA, MAX_IG_DIA - hoy_ig)
+    if cupo <= 0:
+        print(f"Instagram: ya salieron {hoy_ig} noticias hoy (el tope es {MAX_IG_DIA}).")
+        return []
     limite = ahora() - timedelta(hours=HORAS_IG)
     pool = [n for n in visibles(todas) if n.get("ig") in (None, "") and n.get("id")
             and fecha(n) > limite and n.get("ig_intentos", 0) < 3
             and not re.search(BASURA, n["titulo"], re.I)]
     if not pool:
-        return None
-    peso = {SEC_RD: 2, SEC_USA: 1}  # RD primero, después EE.UU., después lo demás
-    pool.sort(key=lambda n: (n.get("tendencia", 1) + peso.get(n["seccion"], 0) + (4 if n.get("oficial") else 0),
+        return []
+    # la tendencia pesa doble: lo que está pegando en el momento va primero, sea de aquí, de allá o del mundo
+    peso = {SEC_RD: 1.5, SEC_USA: 1}
+    pool.sort(key=lambda n: (2 * n.get("tendencia", 1) + peso.get(n["seccion"], 0) + (3 if n.get("oficial") else 0),
                              n["fecha"]), reverse=True)
-    publicadas = sorted((n for n in todas if n.get("ig_fecha")), key=lambda n: n["ig_fecha"])
-    ultima_sec = publicadas[-1]["seccion"] if publicadas else None
-    mejor = pool[0]
-    if mejor["seccion"] == ultima_sec:
-        otra = next((n for n in pool if n["seccion"] != ultima_sec), None)
-        if otra and otra.get("tendencia", 1) >= mejor.get("tendencia", 1) - 1:
-            mejor = otra
+    # para que no salgan 5 de lo mismo: máximo 2 por sección, salvo que esté en tendencia
+    elegidas, por_seccion = [], {}
+    for n in pool:
+        if len(elegidas) >= cupo:
+            break
+        if por_seccion.get(n["seccion"], 0) >= 2 and n.get("tendencia", 1) < TENDENCIA_HISTORIA:
+            continue
+        elegidas.append(n)
+        por_seccion[n["seccion"]] = por_seccion.get(n["seccion"], 0) + 1
+    for n in pool:  # si no se llenó el cupo, se completa con las que quedaron
+        if len(elegidas) >= cupo:
+            break
+        if n not in elegidas:
+            elegidas.append(n)
     os.makedirs("docs/ig", exist_ok=True)
-    ruta = f"docs/ig/{mejor['id']}.jpg"
-    try:
-        imagen_instagram(mejor, ruta)
-    except Exception as err:
-        print("Error imagen:", err)
-        return None
-    mejor["ig"], mejor["ig_img"] = "pendiente", f"ig/{mejor['id']}.jpg"
-    # si está en tendencia, también va a historias (con tope diario)
-    if (mejor.get("tendencia", 1) >= TENDENCIA_HISTORIA and not mejor.get("historia")
-            and historias_de_hoy(todas, []) < MAX_HISTORIAS_DIA):
+    historias = historias_de_hoy(todas, [])
+    salen = []
+    for mejor in elegidas:
+        ruta = f"docs/ig/{mejor['id']}.jpg"
         try:
-            imagen_historia(ruta, f"docs/ig/{mejor['id']}-h.jpg", "EN TENDENCIA", "Lee más en aldiard.com")
-            mejor["historia"], mejor["historia_img"] = "pendiente", f"ig/{mejor['id']}-h.jpg"
+            imagen_instagram(mejor, ruta)
         except Exception as err:
-            print("Error imagen historia:", err)
-    return mejor
+            print("Error imagen:", err)
+            continue
+        mejor["ig"], mejor["ig_img"] = "pendiente", f"ig/{mejor['id']}.jpg"
+        # si está en tendencia, también va a historias (con tope diario)
+        if (mejor.get("tendencia", 1) >= TENDENCIA_HISTORIA and not mejor.get("historia")
+                and historias < MAX_HISTORIAS_DIA):
+            try:
+                imagen_historia(ruta, f"docs/ig/{mejor['id']}-h.jpg", "EN TENDENCIA", "Lee más en aldiard.com")
+                mejor["historia"], mejor["historia_img"] = "pendiente", f"ig/{mejor['id']}-h.jpg"
+                historias += 1
+            except Exception as err:
+                print("Error imagen historia:", err)
+        salen.append(mejor)
+    return salen
 
 def limpiar_imagenes(todas, consejos):
     """Borra las imágenes de más de 2 días (Instagram ya guardó su copia)."""
@@ -2228,7 +2253,7 @@ def principal():
             n["id"] = hashlib.md5(n["link"].encode()).hexdigest()[:10]
     calcular_tendencia(todas)
     traducir_pendientes(todas)
-    elegida = elegir_para_instagram(todas)
+    elegidas = elegir_para_instagram(todas)
     consejo_del_dia(todas, consejos)
     consejos = consejos[-30:]
     limpiar_imagenes(todas, consejos)
@@ -2237,8 +2262,8 @@ def principal():
     generar_html(todas, consejos)
     print(f"{len(nuevas)} noticias nuevas, {len(todas)} en total")
     print("RESUMEN DE LA CORRIDA:", " · ".join(f"{k}: {v}" for k, v in CUENTA.items()))
-    if elegida:
-        print(f"Para Instagram (tendencia {elegida.get('tendencia', 1)}): {elegida['titulo']}")
+    for e in elegidas:
+        print(f"Para Instagram (tendencia {e.get('tendencia', 1)}): {e['titulo']}")
 
 if __name__ == "__main__":
     main()
