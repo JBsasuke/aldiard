@@ -1,19 +1,18 @@
-Corrida: 2026-11-21 11:47 AM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6100')
+Corrida: 2026-11-21 12:47 PM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender
 [República Dominicana] Presidencia de la República Dominicana: texto leído 5192 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-al-inaugurar-hospital-de-las-lagunas-de-nisibon-la-salud-esta
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Presidente Luis Abinader, al inaugurar hospital de Las Lagunas de Nisibón: “La salud está cambiando en República Dominicana, no con palabras, sino con hechos” -> cifras que no aparecen en las fuentes: 12
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2177 letras -> https://presidencia.gob.do/noticias/ministerio-de-cultura-celebrara-el-dia-nacional-del-merengue-con-gala-y-homenaje
-[República Dominicana] Diario Libre: texto leído 2414 letras -> https://www.diariolibre.com/revista/musica/2026/11/20/dia-nacional-del-merengue-musica-y-homenajes-en-el-teatro-nacional/3726770
-[República Dominicana] N Digital: texto leído 1933 letras -> https://n.com.do/2026/11/20/teatro-nacional-sera-escenario-de-gala-por-el-dia-nacional-del-merengue-con-homenaje-a-figuras-del-genero/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
-Revisión: corregida (se quitó "en definitiva" y "sin lugar a dudas" no estaba; se corrigió "tendrá" a "celebrará" donde el texto d
+Revisión: corregida (se quitó "Con ella" y "Además" redundantes; se atribuyó la afirmación de que la transformación se refleja en 
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3918 letras -> https://www.presidencia.gob.do/noticias/con-jornada-mas-salud-y-bienestar-victor-atallah-lleva-servicios-de-salud-y-medicamentos
+[República Dominicana] De Último Minuto: texto leído 4287 letras -> https://deultimominuto.com/nacionales/victor-atallah-jornada-nagua-21/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: De Último Minuto
+Revisión: corregida (se agregó el nombre del Ministerio como atribución en "según informa"; se quitó "en la provincia" redundante 
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación prioriza el fortalecimiento de los aprendizajes para elevar la calidad educativa
 [República Dominicana] DGII: texto leído 980 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-registro-en-formato-606-de-e31-emitido-despus-de-la-retencin-de-isr/6b007e3e0626c86dcedc4a69
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto es una consulta de un contribuyente sobre cómo registrar un comprobante fiscal (E31) en el formato 606, no una noticia sobre un hecho público. Según el propio texto, se trata d')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nTu mensaje no contiene una noticia periodística. Es una consulta técnica en un foro sobre el registro de un comprobante fiscal (E31) en el formato 606 de la DGII, con una pregunta sobre')
 [República Dominicana] DGII: texto leído 939 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/cliente-no-report-retenciones/6b0094ad4895ae0f6ed4ec19
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cliente no reportó retenciones
@@ -22,31 +21,34 @@ Fuente oficial encontrada: DGII
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Asunto: Consulta sobre sustitución de comprobante electrónico E32 por E31 dentro del mismo período fiscal
 [República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste no es una noticia. Es una consulta técnica entre un empleador y la DGII sobre cómo calcular el ISR de un asalariado con dos empleadores, con dos métodos hipotéti')
-[República Dominicana] DGII: texto leído 954 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/el-pago-de-impuesto-por-trasnferencia-de-vehiculo-2-se-puede-pagar-con-tarjeta-de-credito/6b006d7a4895ae0f6ed15348
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Metodología de cálculo del ISR por el agente único de retención
+[República Dominicana] DGII: texto leído 847 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-consulta-sobre-la-aplicacin-del-itbis-a-la-adquisicin-de-licencias-de-software-y-suscripciones-tecnolgicas-tras-la-entrada-en-vigor-de-la-ley-nm-3026/6b00a8bc4895ae0f6ed6bee5
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: Según el texto de la DGII, esto no es una noticia sino una respuesta de consulta en su foro de ayuda. Por lo tanto la marco como no confiable.\n\nCONFIABLE: no')
-[República Dominicana] De Último Minuto: texto leído 1708 letras -> https://deultimominuto.com/internacionales/dominicana-excavadora-surinam/
-Cambiada de sección: República Dominicana -> Dominicanos en EE.UU.: Dominicana muere tras ser envestida con una excavadora en campamento minero de Surinam
-Revisión: corregida (cambié "Mujer dominicana muere aplastada" por "muere" en el título, porque la fuente dice "envestida" y no pr
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una solicitud de consulta formal (un escrito de un contribuyente o gremio dirigido a la DGII pidiendo una opinión sobre el tratamiento fiscal del ITBIS), no un')
+[República Dominicana] De Último Minuto: texto leído 2992 letras -> https://deultimominuto.com/deportes/tenis/rafael-nadal-real-madrid/
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] El Nuevo Herald: texto leído 0 letras -> https://www.elnuevoherald.com/deportes/futbol/article318189145.html
+[República Dominicana] ABC: texto leído 1252 letras -> https://www.abc.es/deportes/futbol/rafael-nadal-nuevo-miembro-junta-directiva-real-20261121143028-nt.html
+Cambiada de sección: República Dominicana -> Deportes: Rafael Nadal, nuevo miembro de la Junta Directiva: “Voy a seguir por muchos años”
+Revisión: corregida (se cambió "Assembly" por "Assembly" sin cambio; se corrigió "dijo" a "afirmó" en la atribución a Nadal y se q
 [Dominicanos en EE.UU.] ideice.gob.do: texto leído 1135 letras -> https://ideice.gob.do/documentacion/publicaciones-id-p1-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
 Fuente oficial encontrada: ideice.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4722 letras -> https://centralnoticias.gob.do/blacklion-properties-impulsa-el-desarrollo-responsable-y-la-inversion-patrimonial-en-samana/
 Fuente oficial encontrada: centralnoticias.gob.do 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. Lo que me pasaste es un comunicado publicitario de BlackLion Properties (un "encuentro" con clientes, la presentación de un portafolio inmobiliario, tes')
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 775 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with UAE Deputy Prime Minister and Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan
+La IA la descartó (no es noticia, rumor, opinión o publicidad): BlackLion Properties impulsa el desarrollo responsable y la inversión patrimonial en Samaná
 [Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
 Fuente oficial encontrada: U.S. Embassy in Ethiopia (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Addis Ababa, Ethiopia (November 19, 2026)
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 775 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with UAE Deputy Prime Minister and Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2814 letras -> https://it.usembassy.gov/security-alert-u-s-embassy-rome-italy-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 2968 letras -> https://co.usembassy.gov/security-alert-national-strike-and-demonstrations-november-19-2026/
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Germany (.gov): texto leído 1557 letras -> https://de.usembassy.gov/demonstration-alert-u-s-embassy-berlin-november-19-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy & Consulates in Germany (.gov), U.S. Embassy in Haiti (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLos cuatro textos son alertas de seguridad de embajadas de EE.UU. (Italia, Colombia, Alemania y Haití), es decir, avisos de viaje dirigidos a ciudadanos estadounidenses. No son una sola')
+[Dominicanos en EE.UU.] U.S. Embassy In Poland (.gov): texto leído 1488 letras -> https://pl.usembassy.gov/security-alert-u-s-embassy-warsaw-poland-november-20-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Haiti (.gov), U.S. Embassy In Poland (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLas cuatro versiones son alertas de seguridad de embajadas de EE.UU. (Italia, Colombia, Haití y Polonia), no una noticia concreta sobre un solo hecho. Son avisos genéricos de viaje, con')
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
@@ -59,57 +61,61 @@ Fuente oficial encontrada: The White House (.gov)
 No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 [Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una columna de opinión (un artículo de opinión publicado en RealClearHealth, con funcionarios del gobierno que promueven políticas propias). Además, no reporta un hecho no')
 Fuente no confiable, se salta: prensamercosur.org
-[Famosos] CDN: texto leído 2444 letras -> https://cdn.com.do/entretenimiento/luis-fonsi-baila-el-tema-viral-dame-hombro-de-bulin-47/
-Revisión: corregida (se corrigió "Kevin Wai" como colaborador de Bulin 47 según la fuente, se atribuyó la información de Miss Univ
 [Famosos] CDN: texto leído 3108 letras -> https://cdn.com.do/entretenimiento/bulin-47-cumple-un-sueno-de-infancia-al-comprar-un-auto-deportivo/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bulin 47 celebra la compra de un automóvil de lujo: “Un sueño más cumplido”
 [Famosos] CDN: texto leído 2309 letras -> https://cdn.com.do/entretenimiento/gta-vi-genera-us3790-millones-en-sus-primeras-24-horas/
 Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
 Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
-[Famosos] CDN: texto leído 1907 letras -> https://cdn.com.do/nacionales/residentes-de-la-esperanza-temen-desalojos-por-ampliacion-vial/
-Cambiada de sección: Famosos -> República Dominicana: Residentes de La Esperanza temen desalojo por ampliación de avenidas
-Revisión: corregida (eliminé la frase "cabe destacar" inexistente; ajusté "Dicen que no han sido incluidos" para atribuir la infor
 [Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se preparan para recibir el doble sueldo y cubrir gastos navideños
+Fuente no confiable, se salta: robertocavada.com
 [Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/carolina-vs-ponce/2026/11/24/872046/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina vs. Ponce, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/mayaguez-vs-san-juan/2026/11/24/872045/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mayaguez vs. San Juan, lanzadores probables, alineaciones, y más
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste está cortado al final y, además, es una única versión de una columna de opinión firmada por su autor ("Desde mi experiencia..."), no una noticia. Según tus prop')
+Fuente no confiable, se salta: rccnoticias.com.do
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: eljaya.com
+Fuente no confiable, se salta: ntn24.com
+Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
+Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: robertocavada.com
+[Famosos] El Nacional — La voz de todos: texto leído 1515 letras -> https://elnacional.com.do/fama-y-vida/farandula/pedro-jesus-carlos-martin-carle-dominan-chart-monitor-latino_586768.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pedro Jesús y Carlos Martín Carle dominan el chart de Monitor Latino
+[Deportes] Lidom: texto leído 1343 letras -> https://lidom.com/aguilas-cibaenas/cervelli-asume-responsabilidad-por-los-errores-defensivos-101018.html
+Revisión: corregida (eliminé la frase "Esto dijo sobre el cambio en primera base" del gancho por ser una construcción de relleno; 
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-estrellas/2026/11/25/851522/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851501/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Gigantes, lanzadores probables, alineaciones, y más
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
-[Deportes] MLB.com: texto leído 1605 letras -> https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox
-Rechazada por la revisión: D-backs trade for right-hander Oviedo from Red Sox -> cifras que no aparecen en las fuentes: 2024
+[Deportes] MLB.com: texto leído 5016 letras -> https://www.mlb.com/news/non-tender-candidates-to-join-2026-2027-mlb-free-agent-class
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 11 of the most intriguing players to join free-agent pool
 [Deportes] MLB.com: texto leído 2607 letras -> https://www.mlb.com/news/nolan-gorman-non-tendered-by-cardinals
 Rechazada por la revisión: Cardinals non-tender former first-round pick Nolan Gorman -> cifras que no aparecen en las fuentes: 2023
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que me pasaste no es una noticia. Es el contenido binario en bruto de un PDF (cabeceras, objetos, streams comprimidos e imágenes codificadas) de un reporte de lesiones de la NBA del 20 de noviembre')
-Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: cubanet.org
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: lalupadelsur.com
-[Precios y combustibles] Acento: texto leído 5751 letras -> https://acento.com.do/economia/la-clave-para-liberar-el-valor-de-anthropic-9794275.html
-No encaja en ninguna sección, se salta: La clave para liberar el valor de Anthropic
+[Precios y combustibles] Periódico elDinero: texto leído 2959 letras -> https://eldinero.com.do/389451/magin-diaz-proyecta-que-la-economia-dominicana-crecera-mas-de-4-en-2027/
+Revisión: corregida (quité "Dominican families at home and in the U.S." de WHY_EN porque no está en las fuentes; "Dominican Minist
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
 [Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Mi respuesta debe ser un análisis de si esto es una noticia, y la conclusión es que no lo es. El único texto disponible es la ficha de producto oficial de Nintendo para el juego Geo Book: Scholar Edit')
-[Videojuegos] Pokemon.com: texto leído 4737 letras -> https://www.pokemon.com/uk/news/how-to-watch-the-2027-pokemon-latin-america-international-championships
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Watch the 2027 Pokémon Latin America International Championships
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
 [Videojuegos] Pokemon.com: texto leído 2321 letras -> https://community.pokemon.com/en-us/discussion/26990/tiensi-announcement-about-pause-in-posts
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
+[Videojuegos] Pokemon.com: texto leído 1391 letras -> https://community.pokemon.com/en-us/discussion/26999/m-m-more-tiensi-vii-are-you-insane-yeh-why
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiensi…? Vii are you insane?! (Yeh why)
+[Videojuegos] Pokemon.com: texto leído 1725 letras -> https://community.pokemon.com/en-us/discussion/26994/four-more-tiensi-fakemon
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): FOUR. MORE. TIENSI. FAKEMON!!!!
 [Videojuegos] Nintendo: texto leído 2836 letras -> https://www.nintendo.com/es-pe/store/products/little-genius-spot-the-difference-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
@@ -121,24 +127,22 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
 [Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-pe/store/products/reshine-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Peru
+Error IA: ValueError('respuesta sin el formato esperado: Esta entrada no corresponde a una noticia. Es la ficha de producto del juego Reshine en la tienda oficial de Nintendo para Perú: describe el juego, sus controles, sus modos y sus requisitos, sin hecho')
 [Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-pe/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
 [Videojuegos] Nintendo: texto leído 2724 letras -> https://www.nintendo.com/es-pe/store/products/brain-training-jigsaw-puzzle-world-scenery-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
-[Videojuegos] Nintendo: texto leído 361 letras -> https://www.nintendo.com/es-cl/store/products/cozy-tiny-home-decorator-edition-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Cozy Tiny Home Decorator Edition
-[Videojuegos] Nintendo: texto leído 1745 letras -> https://www.nintendo.com/es-mx/store/products/deck-of-robin-hood-switch/
+[Videojuegos] Nintendo: texto leído 2339 letras -> https://www.nintendo.com/es-pe/store/products/street-basketball-prime-edition-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Es una ficha de producto de Nintendo, no una noticia. Describe un videojuego (Deck of Robin Hood) con sus características, modos de juego y datos de compatibilidad, pero no informa de ningún hecho nue')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Street Basketball Prime Edition
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-7 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 11 · ya vistas: 78 · ya cubiertas: 13 · no confiables: 7 · opinión: 0 · con texto leído: 47 · sin texto: 3 · medios juntados: 1 · con fuente oficial: 29 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 1 · error IA: 8 · descartadas por la IA: 25 · cambiadas de sección: 3 · largas: 4 · ocultas (cortas): 3
+8 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 2 · ya vistas: 66 · ya cubiertas: 11 · no confiables: 10 · opinión: 1 · con texto leído: 47 · sin texto: 3 · medios juntados: 3 · con fuente oficial: 30 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 2 · error IA: 7 · descartadas por la IA: 27 · cambiadas de sección: 2 · largas: 5 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Rafael Nadal entra a la Junta Directiva del Real Madrid con aprobación de los socios
 Para Instagram (tendencia 3): México captura a "Chapo Isidro", uno de los 10 fugitivos más buscados por el FBI
+Para Instagram (tendencia 2): Atallah lleva salud y medicamentos gratuitos a Nagua con jornada de dos días
 Para Instagram (tendencia 2): Día Nacional del Merengue tendrá gala de homenaje en el Teatro Nacional
-Para Instagram (tendencia 2): Educación impulsa alianza entre familias, escuelas y comunidades en seminario nacional
-Para Instagram (tendencia 2): Harden anota 51 puntos y supera a Kobe Bryant en juegos de 50 puntos
-Para Instagram (tendencia 2): Trump anuncia que su Gobierno no permitirá centros de datos de empresas estadounidenses en el extranjero
+Para Instagram (tendencia 1): Dólar hoy en RD: dónde conviene comprar y vender
