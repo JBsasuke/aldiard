@@ -191,7 +191,8 @@
   "fecha": "2026-11-21T22:49:08.218481+00:00",
   "tendencia": 3,
   "ig": "pendiente",
-  "ig_img": "ig/1c0630caa5.jpg"
+  "ig_img": "ig/1c0630caa5.jpg",
+  "ig_intentos": 1
  },
  {
   "id": "8e4ec48ccb",
@@ -259,8 +260,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T22:49:27.024400+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/8e4ec48ccb.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/8e4ec48ccb.jpg",
+  "ig_id": "17980290027158307",
+  "ig_fecha": "2026-11-21T22:56:45.300897+00:00"
  },
  {
   "id": "a6309e9442",
@@ -627,10 +630,13 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T22:51:58.842220+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/8327bb0876.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/8327bb0876-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/8327bb0876-h.jpg",
+  "ig_id": "18112676317919405",
+  "ig_fecha": "2026-11-21T22:58:07.501350+00:00",
+  "historia_fecha": "2026-11-21T22:58:19.405962+00:00"
  },
  {
   "id": "e4056ba7b9",
@@ -2112,8 +2118,10 @@
   "seccion": "Deportes",
   "fecha": "2026-11-21T19:27:44.921848+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/b0188f9bcb.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/b0188f9bcb.jpg",
+  "ig_id": "18356139181270574",
+  "ig_fecha": "2026-11-21T22:59:44.745651+00:00"
  },
  {
   "id": "a3d68c1b51",
@@ -2980,8 +2988,10 @@
   ],
   "fecha": "2026-11-21T16:48:13.592705+00:00",
   "tendencia": 1,
-  "ig": "pendiente",
-  "ig_img": "ig/84680f6899.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/84680f6899.jpg",
+  "ig_id": "18650545057003485",
+  "ig_fecha": "2026-11-21T23:01:11.946240+00:00"
  },
  {
   "id": "d637703b0d",
