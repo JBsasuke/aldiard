@@ -1,14 +1,11 @@
-Corrida: 2026-11-21 12:48 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4457 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-destaca-diversificacion-economica-de-republica-dominicana-y-la
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se cambió "Abinader resalta" por "Abinader destaca" para seguir el titular de la fuente; se corrigió "el turi
-[República Dominicana] Presidencia de la República Dominicana: texto leído 5192 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-al-inaugurar-hospital-de-las-lagunas-de-nisibon-la-salud-esta
+Corrida: 2026-11-21 01:48 AM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5192 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-al-inaugurar-hospital-de-las-lagunas-de-nisibon-la-salud-esta
 [República Dominicana] El Nuevo Diario: texto leído 4797 letras -> https://elnuevodiario.com.do/abinader-dice-la-salud-en-rd-esta-cambiando-con-hechos-inaugura-hospital-en-nisibon-por-rd1200-mm/
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
 Rechazada por la revisión: Presidente Luis Abinader, al inaugurar hospital de Las Lagunas de Nisibón: “La salud está cambiando en República Dominicana, no con palabras, sino con hechos” -> cifras que no aparecen en las fuentes: 12
 [República Dominicana] DGII: texto leído 980 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-registro-en-formato-606-de-e31-emitido-despus-de-la-retencin-de-isr/6b007e3e0626c86dcedc4a69
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre registro en formato 606 de E31 emitido después de la retención de ISR
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es una consulta planteada en un foro de contadores sobre cómo registrar en el formato 606 un comprobante E31 emitido después de una retención de ISR. No co')
 [República Dominicana] DGII: texto leído 577 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/clasificacin-de-empresas-ofv/6b005a7f3a9daeeaea1c3c98
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Clasificación de empresas OFV
@@ -18,81 +15,76 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Cliente no rep
 [República Dominicana] DGII: texto leído 2384 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/asunto-consulta-sobre-sustitucin-de-comprobante-electrnico-e32-por-e31-dentro-del-mismo-perodo-fiscal/6b00b9344175d10cffb1cc9b
 Fuente oficial encontrada: DGII 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[República Dominicana] De Último Minuto: texto leído 2093 letras -> https://deultimominuto.com/deportes/beisbol/estrellas-extienden-su-racha-ganadora-y-aplastan-9-2-a-las-aguilas-con-17-imparables/
-Cambiada de sección: República Dominicana -> Deportes: Estrellas extienden su racha ganadora y aplastan 9-2 a las Águilas con 17 imparables
-Revisión: corregida (corregí "4-3" a "4-for-3" no aplica; cambié "Cibao side" por "home team" para evitar ambigüedad; ajusté "ciba
-[República Dominicana] De Último Minuto: texto leído 2815 letras -> https://deultimominuto.com/deportes/beisbol/licey-desata-su-ofensiva-y-doblega-8-4-a-los-toros-del-este/
-Cambiada de sección: República Dominicana -> Deportes: Licey desata su ofensiva y doblega 8-4 a los Toros del Este
-Revisión: corregida (Corregí "dos victorias consecutivas" a "segunda victoria consecutiva" para coincidir con la fuente en el cuer
-[República Dominicana] De Último Minuto: texto leído 3571 letras -> https://deultimominuto.com/deportes/jose-fortuna-dedica-campeonato/
-Cambiada de sección: República Dominicana -> Deportes: José “Pancho” Fortuna dedica campeonato de Rafael Barias a su barriada y al fallecido Melvin López
-Revisión: corregida (el título cambia "Pancho Fortuna" por "José «Pancho» Fortuna" en español; se corrige el título inglés a "Fort
+[República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
+Fuente oficial encontrada: DGII 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nHay un problema con la fuente que recibí: no es una noticia. Se trata de una consulta técnica sobre cómo calcular el ISR (impuesto sobre la renta) en un caso hipotético, con dos métodos')
+[República Dominicana] DGII: texto leído 954 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/el-pago-de-impuesto-por-trasnferencia-de-vehiculo-2-se-puede-pagar-con-tarjeta-de-credito/6b006d7a4895ae0f6ed15348
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El pago de impuesto por trasnferencia de vehiculo 2% se puede pagar con tarjeta de credito?
+[República Dominicana] De Último Minuto: texto leído 6140 letras -> https://deultimominuto.com/internacionales/elecciones-2027-el-salvador/
+[República Dominicana] Infobae: texto leído 5612 letras -> https://www.infobae.com/el-salvador/2026/11/20/cuales-son-las-formulas-presidenciales-que-competiran-en-las-elecciones-de-el-salvador-previstas-para-2027/
+Cambiada de sección: República Dominicana -> Internacionales: ¿Cuáles son las fórmulas presidenciales que competirán en las elecciones de El Salvador previstas para 2027?
+Revisión: corregida (corregí la atribución de Bukele y Félix Ulloa: "según el partido oficialista" ya estaba bien, pero quité "amb
+[República Dominicana] De Último Minuto: texto leído 2525 letras -> https://deultimominuto.com/deportes/beisbol/gigantes-blanquean-3-0-al-escogido-con-dominio-de-jake-eder-y-su-relevo/
+Cambiada de sección: República Dominicana -> Deportes: Gigantes blanquean 3-0 al Escogido con dominio de Jake Eder y su relevo
+Revisión: corregida (en el texto en español, "Hubo blanqueada" quedó igual pero reforcé el gancho; en el inglés, "Hubo blanqueada"
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5889 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Administración Pública – Ministerio de Administración Pública
+Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir la noticia con la información que me has pasado. La única versión que tengo es la del sitio oficial del Ministerio de Administración Pública, y el texto que llega es, en su mayor par')
 [Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4722 letras -> https://centralnoticias.gob.do/blacklion-properties-impulsa-el-desarrollo-responsable-y-la-inversion-patrimonial-en-samana/
 Fuente oficial encontrada: centralnoticias.gob.do 
-Error IA: ValueError('respuesta sin el formato esperado: Esta solicitud pide redactar una nota periodística sobre una empresa inmobiliaria a partir de un comunicado que es, en esencia, publicidad corporativa distribuida como noticia, y el texto incluye decl')
-[Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
-Fuente oficial encontrada: U.S. Embassy in Ethiopia (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Addis Ababa, Ethiopia (November 19, 2026)
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo escribir esta nota a partir de estos textos. Lo que se me pide es redactar una noticia de Al Día RD con apariencia de cobertura periodística, pero la versión oficial que me en')
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 775 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with UAE Deputy Prime Minister and Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan
+[Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
+Fuente oficial encontrada: U.S. Embassy in Ethiopia (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Addis Ababa, Ethiopia (November 19, 2026)
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2814 letras -> https://it.usembassy.gov/security-alert-u-s-embassy-rome-italy-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 2968 letras -> https://co.usembassy.gov/security-alert-national-strike-and-demonstrations-november-19-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy In Poland (.gov): texto leído 1488 letras -> https://pl.usembassy.gov/security-alert-u-s-embassy-warsaw-poland-november-20-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Haiti (.gov), U.S. Embassy In Poland (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta entrada no corresponde a una noticia concreta redactable como nota: son cuatro alertas de seguridad de embajadas de EE.UU. (Italia, Colombia, Haití y Polonia), con instrucciones ge')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLas cuatro versiones son alertas de seguridad de embajadas de Estados Unidos (Italia, Colombia, Haití y Polonia) publicadas en sus sitios .gov. Se trata de avisos de viaje genéricos o d')
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious
 Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH)
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/
-[Internacionales] Senate.gov: texto leído 2976 letras -> https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-votes-to-pass-bipartisan-american-affordability-and-jobs-act/
-Fuente oficial encontrada: The White House (.gov), Senate.gov 
-No encaja en ninguna sección, se salta: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto de la Versión 1 es la página del Federal Register (FederalRegister.gov) con avisos legales, contadores de visitas y menús de navegación, pero no contiene el contenido c')
+[Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (eliminé "Trump" del titular y del texto porque la fuente no dice quién es el presidente; sólo dice "the presi
-[Famosos] Diario Libre: texto leído 2136 letras -> https://www.diariolibre.com/revista/musica/2026/11/20/que-esperas-de-pedro-jesus-y-carlos-martin-carle-en-salsa-dominicana/3726838
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pedro Jesús conquista la cima de la salsa con “¿Qué esperas?”
-[Famosos] CDN: texto leído 2689 letras -> https://cdn.com.do/internacionales/bukele-dice-que-sus-soldados-dan-una-leccion-a-pandillas-en-haiti/
-Cambiada de sección: Famosos -> Internacionales: Bukele: "Soldados salvadoreños han puesto a correr a las pandillas de Haití"
-Revisión: corregida (se quitó la afirmación "Los cuatro militares fueron desaparecidos" como redacción ambigua; se aclaró que los 
-[Famosos] CDN: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Acciones de Nvidia caen 14 % en medio de crisis corporativa
-[Famosos] CDN: texto leído 3403 letras -> https://cdn.com.do/internacionales/jair-bolsonaro-es-hospitalizado-por-obstruccion-intestinal-en-brasilia/
-Cambiada de sección: Famosos -> Internacionales: Hospitalizan a Jair Bolsonaro por obstrucción intestinal en Brasil
-Revisión: corregida (corregí "Brasilia" a "Brasil" en el título es incorrecto, no; cambié "Brasilia" del título por "Brasilia" seg
+La IA la descartó (no es noticia, rumor, opinión o publicidad): NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History
+[Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no es una noticia concreta sobre un hecho verificable de interés periodístico para el público dominicano en RD o EE.UU.; es un comunicado de propaganda oficial en forma de ')
+[Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
+Fuente oficial encontrada: The White House (.gov) 
+No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 Fuente no confiable, se salta: remolacha.net
-[Famosos] Acento: texto leído 3711 letras -> https://acento.com.do/actualidad/artistas-dominicanos-se-unen-para-recaudar-fondos-para-ninos-cubanos-con-cancer-9794232.html
-Revisión: corregida (Se corrigió el número de cuenta de BHD, que en el borrador aparecía como 0148911059 y en la fuente es 0148911
-Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: elpregonerord.com
-[Famosos] Noticias SIN: texto leído 2751 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/20/the-home-for-your-dreams-impulsa-bachata-y-urbano-dominicano-2173934/?amp=1
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Home For Your Dreams impulsa nuevos talentos dominicanos con propuestas de bachata y música urbana
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/los-mochis-vs-culiacan/2026/11/22/850400/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Los Mochis vs. Culiacan, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/mexicali-vs-obregon/2026/11/22/850402/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mexicali vs. Obregon, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/navojoa-vs-hermosillo/2026/11/22/850411/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Navojoa vs. Hermosillo, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/culiacan-vs-navojoa/2026/11/24/850384/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Culiacan vs. Navojoa, lanzadores probables, alineaciones, y más
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/video/lidom-live-licey-vs-toros-251474
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851429?ins=vivo&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: LIVE: Tigres del Licey @ Toros del Este | 11/20/2026
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/video/lidom-live-gigantes-vs-escogido-251472
-No se pudo leer el artículo; no se publica para no salir corta: LIVE: Gigantes del Cibao @ Leones del Escogido | 11/20/2026
-Fuente no confiable, se salta: lalupadelsur.com
-[Precios y combustibles] Infobae: texto leído 4636 letras -> https://www.infobae.com/noticias/2026/11/20/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-20-de-noviembre/?outputType=amp-type
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en Cuba: cotización de cierre del 20 de noviembre
+Fuente no confiable, se salta: 2001online.com
+[Famosos] CDN: texto leído 3108 letras -> https://cdn.com.do/entretenimiento/bulin-47-cumple-un-sueno-de-infancia-al-comprar-un-auto-deportivo/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] CDN: texto leído 2309 letras -> https://cdn.com.do/entretenimiento/gta-vi-genera-us3790-millones-en-sus-primeras-24-horas/
+Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió que Sam Houser es "presidente y fundador" en lugar de "cofundador y pr
+Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
+[Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se preparan para recibir el doble sueldo y cubrir gastos navideños
+[Famosos] De Último Minuto: texto leído 1925 letras -> https://deultimominuto.com/entretenimiento/ely-la-bella-se-suma-como/
+Revisión: corregida (se quitaron "empresaria" y "cantante" de la descripción de la modelo... ver nota)
+Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
+[Famosos] Diario Libre: texto leído 2136 letras -> https://www.diariolibre.com/amp/revista/musica/2026/11/20/que-esperas-de-pedro-jesus-y-carlos-martin-carle-en-salsa-dominicana/3726838
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pedro Jesús conquista la cima de la salsa con “¿Qué esperas?”
+[Deportes] Lidom: texto leído 3179 letras -> https://lidom.com/tigres-del-licey/adames-y-el-relevo-conducen-al-licey-a-triunfo-8-4-sobre-los-toros-101004.html
+Revisión: corregida (corregidas cifras de at-bats "5-for-4" y "3-for-1"/"2-for-1" según las fuentes; eliminada la frase "según inf
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/850407/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Nayarit 3, Jalisco 4 Resultado Final (20/11/2026)
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/868301
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Royals vs. Padres, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 1195 letras -> https://www.mlb.com/es/amp/news/yankees-dejan-sin-oferta-contrato-luis-gil-fernando-cruz.html
+Revisión: corregida (la fuente indica que las informaciones son "informes", así que se atribuyó la noticia a MLB.com; se cambió "l
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: cubanet.org
-Fuente no confiable, se salta: bloomberglinea.com
+Fuente no confiable, se salta: lalupadelsur.com
+Fuente no confiable, se salta: surtidoreslatam.com
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
@@ -111,23 +103,21 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pok
 [Videojuegos] Pokemon.com: texto leído 2321 letras -> https://community.pokemon.com/en-us/discussion/26990/tiensi-announcement-about-pause-in-posts
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
-[Videojuegos] Nintendo: texto leído 3433 letras -> https://www.nintendo.com/es-cl/store/products/aery-four-seasons-switch/
+[Videojuegos] Nintendo: texto leído 1819 letras -> https://www.nintendo.com/es-ar/store/products/master-of-classics-song-bundle-70050000064882-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Aery - Four Seasons
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de canciones "Maestro de los clásicos"
 [Videojuegos] Nintendo: texto leído 3989 letras -> https://www.nintendo.com/es-mx/store/products/demeo-x-dungeons-and-dragons-battlemarked-twilights-end-bundle-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Demeo x Dungeons & Dragons: Battlemarked - Paquete Twilight’s End
-[Videojuegos] Nintendo: texto leído 2167 letras -> https://www.nintendo.com/es-cl/store/products/yummy-girl-peach-mirage-switch/
+[Videojuegos] Nintendo: texto leído 1386 letras -> https://www.nintendo.com/es-ar/store/products/surfs-up-album-bundle-70050000064881-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Yummy Girl: Peach Mirage
-[Videojuegos] Nintendo: texto leído 2561 letras -> https://www.nintendo.com/es-cl/store/products/obby-parkour-squid-escape-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de álbumes "¡Surf’s Up!"
+[Videojuegos] Nintendo: texto leído 4070 letras -> https://www.nintendo.com/es-ar/store/products/the-james-pond-legacy-the-pond-is-not-enough-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Obby Parkour: Squid Escape
-[Videojuegos] Nintendo: texto leído 1819 letras -> https://www.nintendo.com/es-cl/store/products/master-of-classics-song-bundle-70050000064882-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de canciones "Maestro de los clásicos"
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The James Pond Legacy: The Pond Is Not Enough
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
+Marcadores de LaLiga fallaron: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)>
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-15 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 70 · ya cubiertas: 11 · no confiables: 7 · opinión: 0 · con texto leído: 39 · sin texto: 8 · medios juntados: 0 · con fuente oficial: 25 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 22 · cambiadas de sección: 5 · largas: 8 · ocultas (cortas): 7
+7 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 76 · ya cubiertas: 15 · no confiables: 6 · opinión: 1 · con texto leído: 40 · sin texto: 2 · medios juntados: 1 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 0 · error IA: 9 · descartadas por la IA: 19 · cambiadas de sección: 3 · largas: 5 · ocultas (cortas): 2
