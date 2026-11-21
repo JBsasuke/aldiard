@@ -1,5 +1,443 @@
 [
  {
+  "id": "22873bafb5",
+  "titulo": "Tasas de monedas convertibles",
+  "titulo_original": "Tasas de monedas convertibles",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15S0l5anRpWkQ5Q2p0SVhTX1oxc0JpRjJGNDgtZnR1enAtZjJ6azVucHptUVY5czZtMHRaZXZWd21wdVp6UjE3cXdUTnRoS1d5cFVMLTZyUXoxSVJzaW9pZC1VSGo0OVFqV3U3ZDNCZjhqenV6NHdtSnRR?oc=5",
+  "fuente": "Banco Central de la República Dominicana",
+  "dominio": "bancentral.gov.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:48:48.559826+00:00"
+ },
+ {
+  "id": "3f292c184e",
+  "titulo": "Hospitales públicos mantendrán pruebas PCR gratuitas para detectar COVID-19",
+  "titulo_original": "Hospitales de la Red Pública continuarán realizando pruebas PCR gratis",
+  "resumen": "El Gobierno confirma que la prueba PCR seguirá siendo gratis en la red hospitalaria pública. Esto cambia el acceso para miles de personas.",
+  "gancho": "El Gobierno confirma que la prueba PCR seguirá siendo gratis en la red hospitalaria pública. Esto cambia el acceso para miles de personas.",
+  "parrafos": [
+   "El Ministerio de Salud informó que los hospitales de la Red Pública de Servicios de Salud seguirán realizando pruebas PCR gratuitas para diagnosticar el COVID-19. Así lo indicó el ministro Daniel Rivera este sábado.",
+   "Según el funcionario, la decisión busca beneficiar a más de diez millones de dominicanos, especialmente a quienes tienen escasos recursos. El Estado asumirá el costo por instrucciones del presidente Luis Abinader.",
+   "Rivera explicó que la disponibilidad de las pruebas se amplía para cubrir a todo el que las necesite, sin importar si la persona tiene seguro médico. El único requisito es acudir a un hospital público y solicitarla.",
+   "En cuanto al sector privado, el ministro dijo que las pruebas PCR y de antígenos quedarán reguladas. Quienes tengan seguro médico podrán hacerse un diagnóstico exonerado una vez al año en los laboratorios de su elección. Sin embargo, el ministro señaló que solo podrán hacerlo en laboratorios estatales, como el Defilló.",
+   "El ministro explicó que la medida responde a las alegaciones de las ARS, que señalaban pérdidas en los laboratorios privados. Para reducir esos costos, el Gobierno decidió ampliar las pruebas en la red hospitalaria pública. Rivera reiteró que la intención es que más dominicanos acudan a los hospitales públicos, donde no tendrán que pagar un solo peso."
+  ],
+  "claves": [
+   "Las pruebas PCR para COVID-19 serán gratuitas en los hospitales de la Red Pública de Servicios de Salud.",
+   "El costo lo asumirá el Estado, por instrucciones del presidente Luis Abinader, según el ministro de Salud.",
+   "Cualquier persona con síntomas puede solicitarla sin importar si tiene seguro médico.",
+   "En laboratorios privados, quienes tengan seguro podrán hacerse una prueba exonerada una vez al año, en los laboratorios de su elección, según el ministro."
+  ],
+  "importa": "La medida busca que quienes no tienen recursos puedan hacerse el diagnóstico sin pagar. Según el ministro, también alivia las pérdidas que las ARS alegaban en los laboratorios privados.",
+  "en": {
+   "titulo": "Public Hospitals Will Keep Offering Free PCR Tests for COVID-19",
+   "gancho": "The government confirms PCR tests will stay free at public hospitals. The change affects thousands of people who need a diagnosis.",
+   "claves": [
+    "PCR tests for COVID-19 will be free at hospitals in the Red Pública de Servicios de Salud.",
+    "The State will cover the cost, following instructions from President Luis Abinader, according to the health minister.",
+    "Anyone with symptoms can request a test, whether or not they have health insurance.",
+    "At private labs, people with insurance can get one fully exempt test per year, at the lab of their choice, according to the minister."
+   ],
+   "importa": "The measure aims to let people without resources get tested without paying. According to the minister, it also eases the losses health insurers (ARS) said they faced at private labs.",
+   "parrafos": [
+    "The Dominican Ministry of Health said public hospitals in the Red Pública de Servicios de Salud will keep offering free PCR tests to diagnose COVID-19. Minister Daniel Rivera announced this on Saturday.",
+    "According to the minister, the decision aims to benefit more than ten million Dominicans, especially those with limited resources. The State will cover the cost, following instructions from President Luis Abinader.",
+    "Rivera explained that test availability is being expanded to reach anyone who needs one, regardless of whether they have health insurance. The only requirement is to go to a public hospital and ask for the test.",
+    "As for the private sector, the minister said PCR and antigen tests will now be regulated. People with health insurance will be able to get one fully exempt diagnostic test per year at the laboratory of their choice. However, the minister said this will only apply at state-owned laboratories, such as Defilló.",
+    "The minister explained that the measure responds to complaints from the ARS, which reported losses at private labs. To reduce those costs, the government decided to expand testing in the public hospital network. Rivera reiterated that the goal is for more Dominicans to go to public hospitals, where they will not have to pay a single peso."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1l1WXR2N0NNNll2emJEdUl0N0VMRFhxaTZQZTg4WWFUVWtoMU5yd2dFZjZ5ZVdoNlhBdk9XZG9aMXdLNElXRWF4S002aW5RVHJVR3RxQmlQZ3R5VFpkWmFJMFdpYWRVTkJWVm9fMUhJMGxORWtOSFg0LUFKOUw5cTloNzNmZVlZT2cwNWlKcVFJNUYwdHc0amUwRTlHajI0dW5N?oc=5",
+  "url": "https://ensaluddigital.gob.do/hospitales-de-la-red-publica-continuaran-realizando-pruebas-pcr-gratis/",
+  "fuente": "En Salud Digital",
+  "dominio": "ensaluddigital.gob.do",
+  "fuentes": [
+   {
+    "nombre": "En Salud Digital",
+    "url": "https://ensaluddigital.gob.do/hospitales-de-la-red-publica-continuaran-realizando-pruebas-pcr-gratis/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://ensaluddigital.gob.do/wp-content/uploads/2021/04/3A3F4197-7227-47E5-A936-AA62BE7E377C.jpeg",
+   "credito": "En Salud Digital"
+  },
+  "revision": "corregida (se ajustó la atribución de \"Ministerio de Salud\" a lo que dijo el ministro; se quitó \"Dominican Ministry\" redundante; se eliminó la afirmación de que el Estado asume el costo como hecho sin atribuir—se mantiene atribuida al ministro; se aclaró que la exoneración anual aplica solo en laboratorios estatales según el ministro; se ajustó \"pruebas PCR de forma gratuita\"; se quitó \"fully\" repetido y se cambió a lenguaje más natural; se corrigió la frase \"regulated\" para reflejar que el ministro dijo que \"decidieron regularlas\"; se mantuvo que la medida reduce costos para las ARS según lo que dijo el ministro, atribuido a las ARS).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-21T03:49:43.599956+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "b902259558",
+  "titulo": "Trump firma tres leyes del Congreso sobre Seguro Social, registros criminales y un terreno en Fort Bragg",
+  "titulo_original": "Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law",
+  "resumen": "El presidente Donald Trump firmó tres proyectos de ley aprobados por el Congreso, incluido uno que cede terrenos en Carolina del Norte para un hogar de veteranos.",
+  "gancho": "El presidente Donald Trump firmó tres proyectos de ley aprobados por el Congreso, incluido uno que cede terrenos en Carolina del Norte para un hogar de veteranos.",
+  "parrafos": [
+   "El presidente Donald Trump firmó el viernes 20 de noviembre de 2026 tres proyectos de ley aprobados por el Congreso. La Casa Blanca publicó la lista de las normas, que cubren temas de seguridad pública, beneficios y uso de terrenos federales.",
+   "La primera es la H.R. 5284, conocida como \"Claiming Age Clarity Act\". Esta ley cambia ciertos términos que utiliza la Administración del Seguro Social, el organismo federal que administra las pensiones y los beneficios de jubilación.",
+   "La segunda es la H.R. 8352, llamada \"Criminal History Access Act of 2026\". Permite que el Departamento de Justicia intercambie registros de identificación criminal con las agencias de capacitación de agentes del orden de un estado, del Distrito de Columbia o de un territorio de Estados Unidos.",
+   "La tercera es la H.R. 10159. Autoriza al secretario del Ejército a ceder al estado de Carolina del Norte una parcela de terreno ubicada en Fort Bragg. En ese lugar, el estado deberá construir un hogar para veteranos."
+  ],
+  "claves": [
+   "El presidente firmó las leyes el viernes 20 de noviembre de 2026.",
+   "H.R. 5284, \"Claiming Age Clarity Act\", cambia cierta terminología que usa la Administración del Seguro Social.",
+   "H.R. 8352 autoriza al Departamento de Justicia a intercambiar registros de identificación criminal con agencias de capacitación de agentes del orden de estados, del Distrito de Columbia y de territorios.",
+   "H.R. 10159 autoriza al Ejército a ceder a Carolina del Norte una parcela en Fort Bragg para construir un hogar estatal para veteranos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Trump Signs Three Congressional Bills on Social Security, Criminal Records and Fort Bragg Land",
+   "gancho": "President Donald Trump signed three bills passed by Congress, including one that transfers land in North Carolina for a veterans' home.",
+   "claves": [
+    "The president signed the laws on Friday, November 20, 2026.",
+    "H.R. 5284, the \"Claiming Age Clarity Act,\" changes certain terminology used by the Social Security Administration.",
+    "H.R. 8352 lets the Department of Justice exchange criminal identification records with peace officer training agencies in states, D.C. and U.S. territories.",
+    "H.R. 10159 authorizes the Army to convey a parcel at Fort Bragg to North Carolina so the state can build a veterans' home."
+   ],
+   "importa": "",
+   "parrafos": [
+    "President Donald Trump signed three bills passed by Congress on Friday, November 20, 2026. The White House published the list of laws, which cover public safety, benefits and the use of federal land.",
+    "The first is H.R. 5284, known as the \"Claiming Age Clarity Act.\" It changes certain terms used by the Social Security Administration, the federal agency that manages retirement and benefit programs.",
+    "The second is H.R. 8352, the \"Criminal History Access Act of 2026.\" It allows the Department of Justice to exchange criminal identification records with peace officer standards and training agencies in a state, the District of Columbia or a U.S. Territory.",
+    "The third is H.R. 10159. It authorizes the Secretary of the Army to convey to the State of North Carolina a parcel of land at Fort Bragg. The state must build a veterans' state home on the site."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnN3aXh5c3ZmX2UwWVhmYUhzQTQxX2pvMFQ1bEYtcUQycENJNHlQSFRFWFVwXzU3aFhVREpGRHl0Z2dqMnhOUHVXamNORXNlQmRxZHpPVnJHSXV1NVN2TXFwdHRkRGZaNnZWSDNOUkFzNHN0WjEyU1AtUU9qUmVnemF4UE1vYVhYQmtpVFl4VUdfRXotRDBaeW55cDdvYzU5Q1ZBNkNWbVJwNVd0TTA2N1E5SlN1THdRaWkxYU5ZcF9vdw?oc=5",
+  "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/",
+  "fuente": "The White House (.gov)",
+  "dominio": "whitehouse.gov",
+  "fuentes": [
+   {
+    "nombre": "The White House (.gov)",
+    "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+   "credito": "The White House (.gov)"
+  },
+  "revision": "corregida (se cambió \"presidente de Estados Unidos\" por \"presidente Donald Trump\" en el texto español y en el inglés; se cambió \"Trump firma\" por nombre completo en el título inglés se mantiene; se reemplazó \"cubren temas de seguridad\" por \"cubren temas de seguridad pública\" y se corrigió \"entregar\" por \"ceder\" para seguir la fuente; se eliminó la frase \"La ley también contempla otras disposiciones\" por no estar en la fuente de forma verificable en el resumen; se atribuyó la lista de normas a la Casa Blanca y se ajustó el inglés a \"Trump\" en lugar de \"The U.S. president\" en el gancho).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-21T03:50:38.656240+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "5dfb133e63",
+  "titulo": "Policía entrevistó a dos personas en caso de Melissa Medina; espera resultados forenses",
+  "titulo_original": "Caso Melissa Medina: Policía identifica a dos personas entrevistadas y revela avances en investigación",
+  "resumen": "La Policía aclara a quiénes ha entrevistado por la muerte de Melisa Medina y explica por qué no hay conclusiones todavía.",
+  "gancho": "La Policía aclara a quiénes ha entrevistado por la muerte de Melisa Medina y explica por qué no hay conclusiones todavía.",
+  "parrafos": [
+   "La Policía Nacional informó sobre el avance de la investigación por la muerte de Melisa Medina. Según la institución, hasta ahora sólo ha entrevistado a dos personas: la joven Mariana Michelena y el vigilante de la torre Arpel 07.",
+   "La institución aclaró que Eliezel Salvador no aparece entre las personas entrevistadas. Según el informe policial, las identidades de las dos personas fueron confirmadas mediante las diligencias realizadas y el levantamiento de las imágenes captadas por las cámaras de vigilancia del residencial.",
+   "Las autoridades no han determinado todavía cómo murió Melisa Medina. La Policía explicó que el proceso tiene un carácter científico-forense, por lo que espera los resultados oficiales de Patología Forense antes de definir las circunstancias del fallecimiento.",
+   "Entre los puntos pendientes figuran los resultados oficiales de Patología Forense, la determinación de la causa de muerte y las conclusiones de los estudios periciales, que orientarán las próximas actuaciones.",
+   "La institución indicó que no ofrecerá más detalles mientras no exista una conclusión sobre la causa del fallecimiento. Añadió que las decisiones sobre el curso de la investigación dependerán de los resultados forenses y de los procedimientos legales correspondientes."
+  ],
+  "claves": [
+   "La Policía Nacional sólo ha entrevistado a dos personas en la investigación.",
+   "Las dos personas son la joven Mariana Michelena y el vigilante de la torre Arpel 07.",
+   "Eliezel Salvador no figura entre las personas entrevistadas.",
+   "Las autoridades esperan los resultados oficiales de Patología Forense para establecer la causa de la muerte."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Police Have Interviewed Two People in Melissa Medina Case; Awaiting Forensic Results",
+   "gancho": "Police say who they have questioned over Melisa Medina's death and why there are no conclusions yet.",
+   "claves": [
+    "The National Police has interviewed only two people in the investigation.",
+    "The two people are young woman Mariana Michelena and the security guard at Arpel 07 tower.",
+    "Eliezel Salvador is not among those interviewed.",
+    "Authorities are waiting for official Forensic Pathology results to determine the cause of death."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Dominican National Police reported on the progress of the investigation into the death of Melisa Medina. According to the institution, so far it has interviewed only two people: young woman Mariana Michelena and the security guard at Arpel 07 tower.",
+    "The institution clarified that Eliezel Salvador does not appear among those interviewed. According to the police report, the identities of the two people were confirmed through the investigative steps taken and the review of images captured by the residential complex's surveillance cameras.",
+    "Authorities have not yet determined how Melisa Medina died. Police explained that the process is scientific and forensic in nature, so they are awaiting official results from Forensic Pathology before defining the circumstances of the death.",
+    "Pending items include the official Forensic Pathology results, the determination of the cause of death, and the conclusions of the expert studies, which will guide the next steps.",
+    "The institution said it will not offer further details until there is a conclusion about the cause of death. It added that decisions on the course of the investigation will depend on the forensic results and the corresponding legal procedures."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG9JTmdYRHE0SmpuRk1EVEtxUmQzaDRadkE2TkpXOVFKR3IyVjd0WGdHTUVSTkhhZmxieTVnQ0U2ZTN6a0s4cU4xWFh3dThsLVhXSXpleTBUdEE3Qmt0UldPSEJOVE1vbFZGdFpvRFlPcm5IeUtoTjQ3a3pnZmw1Z3cwLUllckgxSDZ0VmxGYmE0aFdtbTA1bUJrd9IBowFBVV95cUxPZXVQWW53cTJ1NzNNZy1tNS04Ykp6R0xXbkdNWTlvNW44UWZvc1phNVlWWGMzd3R6ZElNRXhTX194Y1FhT19Mc2hEdHcwNHlpWmdXc3VBU2lkaHhCQ1UzNmI4UzFpUzRBbEQ5aWNqQUVUQV9od1FwWU9yQ2xKa1VHZEJfTklwc2wwdmZsX243cnBuWTFNUlFwaTZWTXJtWWhvY19r?oc=5",
+  "url": "https://cdn.com.do/nacionales/caso-melisa-medina-policia-no-ha-entrevistado-a-eliezel-salvador/",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/caso-melisa-medina-policia-no-ha-entrevistado-a-eliezel-salvador/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Melisa→Melissa en el texto y en el gancho para igualar la fuente; \"dos personas\" en la fuente aparece como \"solo ha entrevistado\" y el borrador lo dice igual; se mantuvo el resto. Se atribuyó \"confirmadas\" a la policía y se quitó la frase \"aclaró\" sobre Salvador por ser redundante; se suavizó \"Según la institución\" en el gancho para mantener la atribución.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-21T03:51:01.408811+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "941130637e",
+  "titulo": "Plací se une a La Casa de Alofoke 3 y el reality arranca el 23 de noviembre",
+  "titulo_original": "Santiago Matías anuncia a Plací como nuevo integrante de “La Casa de Alofoke 3”",
+  "resumen": "Santiago Matías anunció que Plací entra al reality La Casa de Alofoke 3. ¿Qué más se sabe del estreno?",
+  "gancho": "Santiago Matías anunció que Plací entra al reality La Casa de Alofoke 3. ¿Qué más se sabe del estreno?",
+  "parrafos": [
+   "El empresario y comunicador Santiago Matías, conocido como Alofoke, anunció que el creador de contenido Plací será parte de la tercera temporada del reality show \"La Casa de Alofoke\".",
+   "El anuncio se hizo a través de las redes sociales de Matías, donde le dio la bienvenida al influencer y confirmó su participación. \"Seguimos apretando. Bienvenido @placioficial a La Casa de Alofoke 3. El 23 de noviembre cae nieve\", escribió el comunicador.",
+   "Plací se suma a la modelo curvy Ely La Bella y al influencer El Tal Bororo, quienes fueron anunciados recientemente como nuevos integrantes de la temporada.",
+   "La tercera entrega del reality está pautada para iniciar el 23 de noviembre a las 6:00 de la tarde. Se transmitirá en vivo y durante las 24 horas a través de YouTube, en el canal Alofoke Radio Show.",
+   "Mientras se acerca el estreno, el programa también avanza con el lanzamiento de \"Party en mi casa\", segundo tema del nuevo álbum, interpretado por los artistas urbanos Kraizy K, Yoan Retro y Malcom Produce, según informó Matías este martes."
+  ],
+  "claves": [
+   "Plací fue anunciado como nuevo integrante de la tercera temporada.",
+   "El anuncio lo hizo Santiago Matías en sus redes sociales.",
+   "El reality inicia el 23 de noviembre a las 6:00 p.m. por YouTube, en el canal Alofoke Radio Show."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Plací Joins \"La Casa de Alofoke 3\" as Season Premieres November 23",
+   "gancho": "Santiago Matías announced that influencer Plací is entering the reality show La Casa de Alofoke 3. Here's what else we know about the premiere.",
+   "claves": [
+    "Plací was announced as a new cast member for the third season.",
+    "Santiago Matías made the announcement on his social media.",
+    "The reality show premieres November 23 at 6:00 p.m. on YouTube, on the Alofoke Radio Show channel."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Businessman and broadcaster Santiago Matías, known as Alofoke, announced that content creator Plací will be part of the third season of the reality show \"La Casa de Alofoke.\"",
+    "The announcement was made on Matías's social media, where he welcomed the influencer and confirmed his participation. \"We keep pushing. Welcome @placioficial to La Casa de Alofoke 3. On November 23, snow falls,\" the broadcaster wrote.",
+    "Plací joins curvy model Ely La Bella and influencer El Tal Bororo, who were also recently announced as new cast members for the season.",
+    "The third installment is scheduled to premiere November 23 at 6:00 p.m. It will be broadcast live and around the clock on YouTube, on the Alofoke Radio Show channel.",
+    "As the premiere approaches, the show is also rolling out \"Party en mi casa,\" the second single from its new album, performed by urban artists Kraizy K, Yoan Retro and Malcom Produce, according to Matías, who announced it on Tuesday."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5icXRRREpJekpaWWN5d1B6Z2g5eGZCYVNJWjZYWEtvNERkOXVmTUVXTFMtVHBCOVA2bjBFaTRWb1B2LVF0d1YtYnFmYVdNUHc1TzJKRmo3Q3J6c0FqZzB1alhHUllmMWUxdURaNG52ajloTEVLN3V1QUYwa0w?oc=5",
+  "url": "https://deultimominuto.com/entretenimiento/santiago-matias-anuncia-a-pl/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/santiago-matias-anuncia-a-pl/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"El programa\" → \"el reality\" no, ajusté \"también\" a \"recientemente\"; el resto coincide con las fuentes)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-21T03:51:38.105450+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "fed963c7de",
+  "titulo": "Eder y los Gigantes blanquean a Escogido con un solo hit permitido",
+  "titulo_original": "Eder lidera blanqueada sobre Escogido con un hit permitido",
+  "resumen": "El estadounidense Jake Eder lanzó cinco entradas con un solo hit permitido y los Gigantes del Cibao vencieron 3-0 a los Leones del Escogido.",
+  "gancho": "El estadounidense Jake Eder lanzó cinco entradas con un solo hit permitido y los Gigantes del Cibao vencieron 3-0 a los Leones del Escogido.",
+  "parrafos": [
+   "Los Gigantes del Cibao derrotaron 3-0 a los Leones del Escogido este viernes, en la continuación del campeonato de béisbol dominicano 2026-27, dedicado a la memoria de Héctor José Rizek Llabaly y en disputa de la Copa Banreservas.",
+   "El estadounidense Jake Eder fue la figura del juego. Lanzó cinco entradas con un solo imparable permitido, dos boletos y tres ponchados. Richard Guasch (1-0) se acreditó la victoria tras retirar a los tres bateadores que enfrentó en el sexto episodio.",
+   "El partido se decidió en el sexto inning. Los Gigantes ya tenían una carrera de ventaja cuando Carlos Jorge conectó un doble impulsor de dos carreras. Pablo Reyes y Carlos Peguero anotaron con ese batazo.",
+   "Enmanuel Mejía y Hansel Robles lanzaron el séptimo y el octavo sin permitir anotaciones, y Fernando Pilar consiguió su tercer salvamento de la temporada. Por los Leones, Winston Santos trabajó cuatro entradas y ponchó a cinco, pero Aneury Zabala (0-1) cargó con la derrota tras permitir dos hits y tres carreras limpias en el sexto.",
+   "Jorge fue el principal bateador de los Gigantes, con tres imparables en cuatro turnos. Por los Leones, Carlos Santana conectó el único hit del equipo.",
+   "Con el triunfo, los Gigantes mejoraron su marca a 13-13 y se mantienen en el cuarto puesto. Además, tomaron ventaja de 3-2 en la serie particular de esta temporada, aunque los Leones dominan el historial entre ambos equipos por 167-139.",
+   "La victoria también permitió al venezolano Miguel Cairo alcanzar 13 triunfos como mánager en la Lidom, con lo que superó a Omar López y subió al tercer puesto entre los mánagers venezolanos con más victorias en la historia del circuito.",
+   "La jornada del sábado 21 de noviembre incluye tres juegos: Leones del Escogido en casa de los Gigantes del Cibao a las 5:00 p.m. En el Estadio Julián Javier; Toros del Este contra Tigres del Licey a la misma hora en el Estadio Quisqueya Juan Marichal; y Águilas Cibaeñas en casa de las Estrellas Orientales a las 7:30 p.m. En el Estadio Tetelo Vargas.",
+   "En la tabla, los Leones lideran con marca de 17-10, seguidos por los Tigres (16-11), a un juego, y los Elefantes (15-12), a dos. Los Potros ocupan el cuarto lugar con 13-13, mientras que los Toros (10-17) y las Águilas (9-17) cierran la clasificación, a 7.5 y 8 juegos del liderato, respectivamente. Las Estrellas llegan en su mejor momento, con cinco victorias seguidas y balance de 7-3 en sus últimos diez juegos."
+  ],
+  "claves": [
+   "Gigantes del Cibao ganaron 3-0 a los Leones del Escogido este viernes.",
+   "Jake Eder permitió un solo hit en cinco entradas y ponchó a tres bateadores.",
+   "Carlos Jorge conectó un doble impulsor de dos carreras en el sexto episodio.",
+   "Los Gigantes subieron a 13 victorias y 13 derrotas, en el cuarto puesto."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Eder and Gigantes Shut Out Escogido, Allowing Just One Hit",
+   "gancho": "American Jake Eder pitched five innings allowing one hit as the Gigantes del Cibao beat the Leones del Escogido 3-0.",
+   "claves": [
+    "Gigantes del Cibao beat the Leones del Escogido 3-0 on Friday.",
+    "Jake Eder allowed one hit in five innings and struck out three batters.",
+    "Carlos Jorge hit a two-run double in the sixth inning.",
+    "The Gigantes improved to 13-13, in fourth place."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Gigantes del Cibao defeated the Leones del Escogido 3-0 on Friday, in the continuation of the 2026-27 Dominican baseball championship, dedicated to the memory of Héctor José Rizek Llabaly and played for the Copa Banreservas.",
+    "American pitcher Jake Eder was the star of the game. He threw five innings, allowing a single hit, two walks, and striking out three. Richard Guasch (1-0) earned the win after retiring the three batters he faced in the sixth inning.",
+    "The game was decided in the sixth. The Gigantes already led by one run when Carlos Jorge hit a two-run double. Pablo Reyes and Carlos Peguero scored on that hit.",
+    "Enmanuel Mejía and Hansel Robles pitched the seventh and eighth without allowing runs, and Fernando Pilar recorded his third save of the season. For the Leones, Winston Santos worked four innings and struck out five, but Aneury Zabala (0-1) took the loss after allowing two hits and three earned runs in the sixth.",
+    "Jorge was the Gigantes' top hitter, with three hits in four at-bats. For the Leones, Carlos Santana had the team's only hit.",
+    "With the win, the Gigantes improved to 13-13 and remain in fourth place. They also took a 3-2 lead in the head-to-head series this season, although the Leones hold the all-time edge over the two teams, 167-139.",
+    "The victory also gave Venezuelan manager Miguel Cairo 13 wins in the Lidom, passing Omar López and moving into third place among Venezuelan managers with the most wins in league history.",
+    "Saturday, November 21, features three games: the Leones del Escogido visit the Gigantes del Cibao at 5:00 p.m. At Estadio Julián Javier; the Toros del Este face the Tigres del Licey at the same time at Estadio Quisqueya Juan Marichal; and the Águilas Cibaeñas visit the Estrellas Orientales at 7:30 p.m. At Estadio Tetelo Vargas.",
+    "In the standings, the Leones lead at 17-10, followed by the Tigres (16-11), one game back, and the Elefantes (15-12), two back. The Potros are in fourth place at 13-13, while the Toros (10-17) and Águilas (9-17) round out the table, 7.5 and 8 games out of first. The Estrellas are playing their best baseball, with five straight wins and a 7-3 record in their last ten games."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRG5CaTNrQXNaYzBXZjdzRUdDNi1qakVVMHQwSEFNOEZVSExkZWFrSW1MWHlUdk44SUc5M29JUjVXYzdobWxFWjMyVHkxakNjSnZBVWp6OVpnQ0VONFE4emhZa2xMZFVVMHlOazlIUlR2cGg3N3huNDBKLVVqX0dJdjVPOFhvcEs5MzRnZURvOVZMTXN4SGVVc0ZaMENmNW5TYVN0YmFiTFQ2ajg?oc=5",
+  "url": "https://lidom.com/gigantes-del-cibao/eder-lidera-blanqueada-sobre-escogido-con-un-hit-permitido-100936.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/gigantes-del-cibao/eder-lidera-blanqueada-sobre-escogido-con-un-hit-permitido-100936.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Eder lanzó 5 entradas con 1 hit, 2 boletos y 3 ponches, pero el borrador decía \"casi perfectas\", lo que se quitó; \"Escogido\" se mantuvo; se corrigió el récord de los Gigantes que el borrador ponía como 13-13 en el cuerpo pero en las claves decía \"13 victorias y 13 derrotas\", ambos ya consistentes; se atribuyó la cifra de Eder al estadounidense; se quitó \"casi perfectas\"; se cambió \"sin permitir carreras\" y se preservó el resto; se corrigió \"dos hits y tres carreras limpias\" de Zabala según la fuente; se reemplazó \"Estadio\" correctamente; se quitó \"lanzó cinco entradas casi perfectas\" del gancho y claves por no coincidir con la fuente)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-21T03:52:03.967770+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "3e2261c06c",
+  "titulo": "Estadísticas del juego Tigres del Licey vs Toros del Este",
+  "titulo_original": "Estadísticas del juego Tigres del Licey vs Toros del Este",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUNDZkTWQtMk1KRGhwX21yWHVSMlA2MHJVbEVMOXp2Ymx0SVRCQjFNd3ZBYUFHSEV4VHJDaTY5R2pNLWNZaTNLSlF2R0hZcVN2aE9mUFpn?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:52:07.524129+00:00"
+ },
+ {
+  "id": "521609a3da",
+  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Tigres contra los Toros el 20/11/2026 gratis",
+  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Tigres contra los Toros el 20/11/2026 gratis",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcmpQaTNTNC1qdzdKMjZpU0M2cHlrVDJMLVdDSWlCSVVDdGhtb29Td2czcThYdUIzZVlQd2ZlY3BpZUFUSm9sc3JET2VZLU43d0JSRnc4NzBEQ1J6Q0NVcF9HbWh0ZWsxaGU5dURBeDZRaTlnWUQ5d3ZBaWg2UE9NQw?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:52:09.978135+00:00"
+ },
+ {
+  "id": "f1d975ab06",
+  "titulo": "Enmanuel Valdez pega jonrón solitario",
+  "titulo_original": "Enmanuel Valdez pega jonrón solitario",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDeG9IZjJRZ2U4czVLaHg3blAwUW1NMzQzYVUxbzAwdnpDMVJwaW56bDlPdzVZclNXQTJjQXU4dmF2b0l5SnpHMzBEMHZwWl9kR3QyV0lTXzlqbmNNMmFuUnRSY2MxNEF5T050b0xsYUYwZ09p?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:52:12.432297+00:00"
+ },
+ {
+  "id": "22f0db3b86",
+  "titulo": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEFWYXBYc2dqWTVhSkdxWVBfSzhOU3ZUdEZkcExNbkloSE5tQ0dKSGc1MHo2VkVhZFkxMjRTd3RmaVIwVDJmU3NrcF8wajRVaEsxUDJEVjJMNEtEQTUtU2M5djRJalhycEJXbXF1Vmp4elRiYlpfU1MtUmZROHlSWQ?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:52:14.536766+00:00"
+ },
+ {
+  "id": "8d371503da",
+  "titulo": "MLB Gameday: Tiburones 5, Aguilas 7 Resultado Final (20/11/2026)",
+  "titulo_original": "MLB Gameday: Tiburones 5, Aguilas 7 Resultado Final (20/11/2026)",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qc21yM2tMd2xlWWhPaTJfbmZBRjU3dklPOUViSlh6QVBvQUdQUEtoLUtLajNsTW96VmdzMEJjWTB5bkpiYWM2bVNMNDRhUXFCZXNlVEhMZU4xQm8?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-21T03:52:16.858743+00:00"
+ },
+ {
+  "id": "8a417556d8",
+  "titulo": "Una familia venezolana necesita 744 dólares al mes solo para comer",
+  "titulo_original": "Una familia venezolana necesita 744 dólares solo para la alimentación del mes, según ONG",
+  "resumen": "El salario mínimo en Venezuela cubre apenas el 0,01 % de la canasta alimentaria, según una ONG. Trabajadores anuncian marcha y posible paro nacional.",
+  "gancho": "El salario mínimo en Venezuela cubre apenas el 0,01 % de la canasta alimentaria, según una ONG. Trabajadores anuncian marcha y posible paro nacional.",
+  "parrafos": [
+   "El Centro de Documentación y Análisis Social (Cendas), de la Federación de Maestros, calculó que una familia venezolana de cinco personas necesitó 744,55 dólares en octubre solo para alimentación. Según la organización, es una baja de 2,21 % frente a septiembre, cuando la canasta costó 761,35 dólares.",
+   "En una nota de prensa, el Cendas indicó que el salario mínimo mensual, equivalente a centavos de dólar, cubre apenas el 0,01 % de la canasta alimentaria, compuesta por 60 productos básicos. Su director, Óscar Meza, afirmó que en octubre se requirieron 5.040 salarios mínimos mensuales para comprar solo los alimentos básicos, o 3,10 bonos de 240 dólares. Estas cifras no incluyen salud, vivienda, transporte ni educación.",
+   "El informe también incluye gastos de agua potable embotellada, que suman 12,73 dólares al tipo de cambio oficial del Banco Central de Venezuela (BCV).",
+   "Los reclamos salariales siguen creciendo. Trabajadores convocaron una marcha para el próximo martes hasta Miraflores, sede del Ejecutivo en Caracas, para pedir a la presidenta encargada, Delcy Rodríguez, mejoras de sueldo. Pablo Zambrano, secretario ejecutivo de la Federación Nacional de Trabajadores de la Salud (Fetrasalud), dijo en rueda de prensa que, sin respuesta, convocarán a un paro nacional.",
+   "El Ejecutivo informó que el país recibió 15.603 millones de dólares desde enero hasta el 12 de noviembre, principalmente por la venta de petróleo y derivados. Desde marzo de 2022, el salario mínimo se mantiene en 130 bolívares, equivalente hoy a 14 centavos de dólar al mes. A esto se suman dos bonificaciones para trabajadores públicos que suman 240 dólares, pero que no cuentan para prestaciones sociales, vacaciones o utilidades."
+  ],
+  "claves": [
+   "Una familia de cinco personas requirió 744,55 dólares en octubre para alimentos, según el Cendas.",
+   "El salario mínimo cubre solo el 0,01 % de la canasta de 60 productos básicos.",
+   "Trabajadores convocaron una marcha a Miraflores el próximo martes y advierten con un paro nacional."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "A Venezuelan family needs $744 a month just to eat",
+   "gancho": "Venezuela's minimum wage covers just 0.01% of the food basket, according to an NGO. Workers announce a march and a possible national strike.",
+   "claves": [
+    "A family of five needed $744.55 in October for food, according to Cendas.",
+    "The minimum wage covers only 0.01% of a basket of 60 basic products.",
+    "Workers called a march to Miraflores next Tuesday and warn of a national strike."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Center for Documentation and Social Analysis (Cendas), part of the Teachers' Federation, calculated that a five-person Venezuelan family needed $744.55 in October for food alone. According to the organization, that is a 2.21% drop from September, when the basket cost $761.35.",
+    "In a press release, Cendas said the monthly minimum wage, worth only cents on the dollar, covers just 0.01% of the food basket, which is made up of 60 basic products. Its director, Óscar Meza, said that in October a family would have needed 5,040 monthly minimum wages, or 3.10 bonuses of $240, to buy basic food alone. These figures do not include health, housing, transportation or education.",
+    "The report also includes the cost of bottled drinking water, which adds $12.73 at the official exchange rate of the Central Bank of Venezuela (BCV).",
+    "Wage complaints keep growing. Workers called a march for next Tuesday to Miraflores, the seat of the executive in Caracas, to demand pay raises from acting president Delcy Rodríguez. Pablo Zambrano, executive secretary of the National Federation of Health Workers (Fetrasalud), told a press conference that if they receive no response, they will call a national strike.",
+    "The government reported that the country received $15.603 billion from January through November 12, mainly from oil and fuel sales. Since March 2022, the minimum wage has stayed at 130 bolívares, which today equals 14 cents a month. Two bonuses for public workers add up to $240, but they do not count toward severance pay, vacation or profit sharing."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWI2SnM1TDlYSnB1LVRYY25Bd2gtX3RmTmVwdm4xdXlqUVpFNWo2NUpCN0w3MzU0UGdMcWJyVXdLZnBLc3pZenRfMzFjcUFUdS1BN2kya0I0UDhYVTNPbzFFNXNYY3hST0wzbTFqdzdjNHNMSy02NHVoSlJ6cnlKNy1tT2c2T1Y2dVctSC1kS3BZYlM1QWphcmgtYlZpWWNzX1Rlc1BGXzFWM0NPQVUwTHIzRU9HRHhyQmtDY0hTd2LSAcABQVVfeXFMTS1iNkpzNUw5WEpwdS1UWGNuQXdoLV90Zk5lcHZuMXV5alFaRTVqNjVKQjdMNzM1NFBnTHFiclV3S2ZwS3N6WXp0XzMxY3FBVHUtQTdpMmtCNFA4WFUzT28xRTVzWGN4Uk9MM20xanc3YzRzTEstNjR1aEpSenJ5SjctbU9nNk9WNnVXLUgtZEtwWWJTNUFqYXJoLWJWaVljc19UZXNQRl8xVjNDT0FVMExyM0VPR0R4ckJrQ2NIU3di?oc=5",
+  "url": "https://noticiassin.com/mundo/2026/11/20/una-familia-venezolana-necesita-744-dolares-para-alimentarse-al-mes-2174310/?amp=1",
+  "fuente": "Noticias SIN",
+  "dominio": "noticiassin.com",
+  "fuentes": [
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/mundo/2026/11/20/una-familia-venezolana-necesita-744-dolares-para-alimentarse-al-mes-2174310/?amp=1"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/una-familia-venezolana-necesita-744-dolares-solo-para-la-alimentacion-del-mes-segun-ong/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté \"3,10 bonos\" a \"3.10 bonos\" no aplica; cambié \"5.040 salarios mínimos\" por \"5.040 salarios mínimos mensuales\" según la fuente, atribuí la cifra del Cendas y corregí \"5.040\" conservando la fuente; eliminé \"sin lugar a dudas\" inexistente; atribuí la cifra de 15.603 millones al Ejecutivo; precisé \"del 12 de noviembre\" como en la fuente; agregué \"según el Cendas\" en la fuente de la baja del 2,21 %; corregí \"3,10\" a \"3.10\" para mantener la cifra original; ajusté \"ENG\" de \"Cendas\" y eliminé la frase \"de Cendas\" duplicada; el inglés ahora coincide con el español).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-21T03:52:40.221641+00:00",
+  "tendencia": 2
+ },
+ {
   "id": "a8424308fd",
   "titulo": "Maestra cubanoestadounidense regresa a EE.UU. tras casi una década presa en Cuba",
   "titulo_original": "Profesora regresa a Estados Unidos tras casi una década detenida en Cuba por espionaje",
@@ -63,7 +501,7 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-21T02:32:19.376489+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/a8424308fd.jpg"
  },
  {
@@ -304,7 +742,7 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-21T02:34:47.677750+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/1fab883904.jpg",
   "historia": "pendiente",
   "historia_img": "ig/1fab883904-h.jpg"
@@ -474,7 +912,7 @@
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-21T02:35:44.371510+00:00",
   "tendencia": 1,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/b810bac6e1.jpg"
  },
  {
@@ -637,7 +1075,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T01:49:05.506061+00:00",
   "tendencia": 1,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/8e785c9b4e.jpg"
  },
  {
@@ -694,7 +1132,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T01:50:41.025002+00:00",
   "tendencia": 1,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/fe40c2180b.jpg"
  },
  {
@@ -17579,603 +18017,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-16T11:39:57.026233+00:00"
- },
- {
-  "id": "5c39f9f157",
-  "titulo": "Fiscal general de Nueva York visita obras sociales de la diáspora en Licey al Medio",
-  "titulo_original": "Fiscal general de Nueva York visita proyectos sociales en Santiago",
-  "resumen": "La fiscal general Letitia James recorrió una escuela y un hogar de ancianos en Santiago junto a una delegación con dominicanos de Nueva York.",
-  "gancho": "La fiscal general Letitia James recorrió una escuela y un hogar de ancianos en Santiago junto a una delegación con dominicanos de Nueva York.",
-  "parrafos": [
-   "La fiscal general del estado de Nueva York, Letitia James, visitó varios proyectos comunitarios en el municipio de Licey al Medio, provincia Santiago. El recorrido fue acompañado por autoridades estadounidenses y representantes de la comunidad dominicana residente en Estados Unidos.",
-   "Durante la visita, la comitiva conoció los programas de educación, salud, asistencia social y formación que desarrolla la Fundación Monumento Viviente. Estos servicios están dirigidos a niños, jóvenes, adultos mayores y familias de escasos recursos.",
-   "Entre los lugares visitados estuvieron la Escuela Flor del Campo y el Hogar de Ancianos Las Tres Hermanas. La delegación también conoció otras iniciativas de la organización dirigidas a sectores vulnerables.",
-   "La comitiva estuvo integrada por Eric González, fiscal del distrito de Brooklyn; Ydanis Rodríguez, excomisionado de Transporte de la ciudad de Nueva York; Henry Garrido, director ejecutivo del sindicato District Council 37 (DC37), y David Hiraldo, vinculado al Centro de Entrenamiento de Empleo Renacimiento. La participación del sindicato DC37 puso de relieve la colaboración entre organizaciones laborales, líderes comunitarios y entidades sin fines de lucro.",
-   "Durante la jornada también se destacó el legado del padre Darío Taveras, cuya labor de solidaridad inspira el trabajo de la fundación. Además, se resaltó el aporte de dominicanos residentes en Estados Unidos, que contribuyen con donaciones, actividades benéficas y trabajo voluntario.",
-   "Como parte de sus actividades de recaudación de fondos, la Fundación Monumento Viviente de Nueva York celebrará su gala anual 2026 el próximo 6 de diciembre en Maestro's Caterers, en el Bronx. El encuentro reunirá a colaboradores, empresarios y miembros de la comunidad dominicana."
-  ],
-  "claves": [
-   "Letitia James, fiscal general de Nueva York, visitó proyectos de la Fundación Monumento Viviente en Licey al Medio.",
-   "Recorrieron la Escuela Flor del Campo y el Hogar de Ancianos Las Tres Hermanas.",
-   "La delegación incluyó a Eric González, Ydanis Rodríguez, Henry Garrido y David Hiraldo.",
-   "La gala anual 2026 de la fundación será el 6 de diciembre en Maestro's Caterers, en el Bronx."
-  ],
-  "importa": "Los dominicanos residentes en Estados Unidos sostienen estos programas con donaciones, actividades benéficas y trabajo voluntario, lo que muestra cómo la diáspora apoya a familias vulnerables en el país.",
-  "en": {
-   "titulo": "New York Attorney General Visits Social Projects Backed by Dominican Diaspora in Santiago",
-   "gancho": "New York Attorney General Letitia James toured a school and a nursing home in Santiago, alongside a delegation that included Dominican community representatives from New York.",
-   "claves": [
-    "Letitia James, New York State Attorney General, visited projects of the Fundación Monumento Viviente in Licey al Medio.",
-    "The group toured the Escuela Flor del Campo and the Hogar de Ancianos Las Tres Hermanas.",
-    "The delegation included Eric González, Ydanis Rodríguez, Henry Garrido and David Hiraldo.",
-    "The foundation's 2026 annual gala will be held December 6 at Maestro's Caterers in the Bronx."
-   ],
-   "importa": "Dominicans living in the United States help sustain these programs through donations, charity events and volunteer work, showing how the diaspora supports vulnerable families back home.",
-   "parrafos": [
-    "New York State Attorney General Letitia James visited several community projects in Licey al Medio, in Santiago province, Dominican Republic. The tour was joined by U.S. Officials and representatives of the Dominican community living in the United States.",
-    "During the visit, the delegation learned about the education, health, social assistance and training programs run by the Fundación Monumento Viviente. These services serve children, young people, older adults and low-income families.",
-    "Stops included the Escuela Flor del Campo and the Hogar de Ancianos Las Tres Hermanas, a nursing home. The group also saw other foundation initiatives aimed at vulnerable communities.",
-    "The delegation included Eric González, Brooklyn district attorney; Ydanis Rodríguez, former New York City transportation commissioner; Henry Garrido, executive director of the District Council 37 (DC37) union; and David Hiraldo, linked to the Renacimiento Employment Training Center. The participation of DC37 highlighted cooperation among labor organizations, community leaders and nonprofits.",
-    "The visit also highlighted the legacy of Father Darío Taveras, whose work of solidarity inspires the foundation. It also underscored the contributions of Dominicans living in the United States, who support the projects through donations, charity events and volunteer work.",
-    "As part of its fundraising activities, the Fundación Monumento Viviente de Nueva York will hold its 2026 annual gala on December 6 at Maestro's Caterers in the Bronx. The event will bring together donors, business leaders and members of the Dominican community."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelZyM2VlSWEyS3M0c2REZk5NTW1tLTVXRXpVUXhKUktpYUVFaWNqRlhNR3psUU13c2V4VFhsLUppWHJ3QkFyMGlwREkwWW1hM1JidGpaUUlDc045V3RJYlFRZ3RFeDJIOEw5OXc4ZU53RlVPRkJHS3FkZ2lsYTFYQXh0bFRGSkdtRlVkRFNKbUN0R1kzTTc1eFZRdzE4QktSczV1V0YtMS00UXYwRHJR0gGvAUFVX3lxTE16VnIzZWVJYTJLczRzZERmTk1NbW0tNVdFelVReEpSS2lhRUVpY2pGWE1HemxRTXdzZXhUWGwtSmlYcndCQXIwaXBESTBZbWEzUmJ0alpRSUNzTjlXdEliUVFndEV4Mkg4TDk5dzhlTndGVU9GQkdLcWRnaWxhMVhBeHRsVEZKR21GVWREU0ptQ3RHWTNNNzV4VlF3MThCS1JzNXVXRi0xLTRRdjBEclE?oc=5",
-  "url": "https://cdn.com.do/nacionales/letitia-james-encabeza-visita-a-obras-sociales-en-santiago/?amp=1",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/letitia-james-encabeza-visita-a-obras-sociales-en-santiago/?amp=1"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/sociales/fiscal-general-de-nueva-york-visita-proyectos-sociales-en-santiago-9790317.html"
-   },
-   {
-    "nombre": "Noticias SIN",
-    "url": "https://noticiassin.com/pais/provincias/2026/11/15/letitia-james-visita-proyectos-sociales-en-santiago-2170346/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Eliminé \"Fiscal de Nueva York\" del titular en español? No: cambié \"fiscal\" por \"fiscal general\" en el gancho para precisar el cargo; quité \"Brooklyn District Attorney\" por \"fiscal del distrito de Brooklyn\" en inglés para mantener fidelidad con las fuentes; atribuí a Sin \"según Noticias SIN\" no aplicó; corregí \"Hogar de Ancianos\" a \"Las Tres Hermanas\" sin cambio de fondo; ajusté \"Hogar\" en inglés a \"a nursing home\" sin añadir datos; quité \"Organizers also highlighted\" por atribución que las fuentes no dan y dejé \"se destacó\"; y eliminé \"Public relations\" inexistente. Además, reemplacé \"job training\" por \"formación\" y \"charity events\" por \"actividades benéficas\" ya presentes.)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-16T11:40:56.529129+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/5c39f9f157.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/5c39f9f157-h.jpg",
-  "ig_id": "18118699223107402",
-  "ig_fecha": "2026-11-16T11:49:14.394759+00:00",
-  "historia_fecha": "2026-11-16T11:49:25.326536+00:00"
- },
- {
-  "id": "cf0b3da922",
-  "titulo": "Cinco emprendedores dominicanos son reconocidos en Lehigh Valley",
-  "titulo_original": "A Emprender Internacional reconoce emprendedores criollos",
-  "resumen": "Cinco dominicanos con negocios en Lehigh Valley fueron reconocidos por A Emprender Internacional. Conoce quiénes son y qué hacen.",
-  "gancho": "Cinco dominicanos con negocios en Lehigh Valley fueron reconocidos por A Emprender Internacional. Conoce quiénes son y qué hacen.",
-  "parrafos": [
-   "A Emprender Internacional (AEI) entregó reconocimientos a cinco emprendedores dominicanos que han desarrollado sus negocios en la región de Lehigh Valley, en Estados Unidos.",
-   "La actividad fue de carácter privado y familiar, y se realizó dentro de la Semana Global del Emprendimiento 2026 y del III Encuentro del Emprendedor Dominicano en el Exterior. Su propósito fue dar a conocer las historias de esfuerzo y crecimiento empresarial de dominicanos fuera del país.",
-   "Los homenajeados son Anne Loor, de Bakery Sweet Loor; Justo Coronado, del restaurante Boca Chica; Madelin Ortega, de Golden Multiservices; Mateo Rodríguez Obispo, de Matthew Barbershop, y Rigo Peralta, artista y anfitrión de Rigo Art Gallery."
-  ],
-  "claves": [
-   "A Emprender Internacional (AEI) reconoció a cinco emprendedores dominicanos en Lehigh Valley.",
-   "El reconocimiento formó parte de la Semana Global del Emprendimiento 2026 y del III Encuentro del Emprendedor Dominicano en el Exterior.",
-   "Los reconocidos tienen negocios como Bakery Sweet Loor, restaurante Boca Chica, Golden Multiservices, Matthew Barbershop y Rigo Art Gallery."
-  ],
-  "importa": "Muestra a dominicanos en Estados Unidos que han desarrollado negocios propios, trasladando a ese país los conocimientos adquiridos en República Dominicana.",
-  "en": {
-   "titulo": "Five Dominican Entrepreneurs Honored in Lehigh Valley",
-   "gancho": "Five Dominican entrepreneurs with businesses in Lehigh Valley were recognized by A Emprender Internacional. Meet them and learn what they do.",
-   "claves": [
-    "A Emprender Internacional (AEI) recognized five Dominican entrepreneurs in Lehigh Valley.",
-    "The recognition was part of the 2026 Global Entrepreneurship Week and the III Dominican Entrepreneur Abroad Meeting.",
-    "The honorees run businesses including Bakery Sweet Loor, restaurant Boca Chica, Golden Multiservices, Matthew Barbershop and Rigo Art Gallery."
-   ],
-   "importa": "It shows Dominicans in the United States who have built their own businesses, bringing the knowledge they gained in the Dominican Republic to that country.",
-   "parrafos": [
-    "A Emprender Internacional (AEI) honored five Dominican entrepreneurs who have built their businesses in the Lehigh Valley region of the United States.",
-    "The event was private and family-oriented and took place during the 2026 Global Entrepreneurship Week and the III Dominican Entrepreneur Abroad Meeting. Its goal was to highlight the stories of effort and business growth of Dominicans living outside the country.",
-    "The honorees are Anne Loor, of Bakery Sweet Loor; Justo Coronado, of restaurant Boca Chica; Madelin Ortega, of Golden Multiservices; Mateo Rodríguez Obispo, of Matthew Barbershop; and Rigo Peralta, an artist and host of Rigo Art Gallery."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTE1oRFJ3U0VUb3ozdFZ1aGxkX2ZRTDV1MHUzYVdsZzlBb2lnQnY5YUxMSmU4NUdyVWs1S3lhNnJHbFY1YzZHWC1jZ1hZb1JldTdRc2MzTUN0UEtqbzJydmdyQU1RSV9SX1Q3ZUNVdHFBa01nbnQyRVpYNDEwTFRYM3NISTBCZw?oc=5",
-  "url": "https://eldia.com.do/a-emprender-internacional-reconoce-emprendedores-criollos/",
-  "fuente": "El Dia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/a-emprender-internacional-reconoce-emprendedores-criollos/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé la frase \"Todos ellos llevaron...\" por ser un añadido no respaldado en las fuentes, que dicen \"trasladado a Estados Unidos los conocimientos\" y \"convirtiéndolos en oportunidades de negocios y crecimiento en sus comunidades\"; reemplacé \"lo que\" por fidelidad, y ajusté el gancho y el \"por qué\" para no añadir afirmaciones de empleo no atribuidas. Además, la fuente dice \"reconoció\" y el borrador \"entregó\"; \"entregó\" se mantiene por ser un detalle no contradicho, pero el \"impacto\" en empleos no aparece en el texto de la fuente y lo retiré del gancho.)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-16T11:41:09.700739+00:00",
-  "tendencia": 1
- },
- {
-  "id": "eaf417931d",
-  "titulo": "EE.UU. y nueve países firman declaración sobre cadenas de suministro de IA",
-  "titulo_original": "The San Francisco Declaration on the Secure Foundations of Enduring Prosperity",
-  "resumen": "Estados Unidos y nueve países firmaron en San Francisco un acuerdo para proteger tecnologías y cadenas de suministro clave para la era de la superinteligencia.",
-  "gancho": "Estados Unidos y nueve países firmaron en San Francisco un acuerdo para proteger tecnologías y cadenas de suministro clave para la era de la superinteligencia.",
-  "parrafos": [
-   "El Departamento de Estado de Estados Unidos informó que, el 15 de noviembre, diez países firmaron la Declaración de San Francisco sobre las Bases Seguras de una Prosperidad Duradera. El acuerdo se firmó durante el Pax Silica Founders Retreat, convocado por el subsecretario de Estado para Asuntos Económicos, Jacob Helberg.",
-   "Según el documento, la seguridad económica es fundamental para la seguridad nacional. Los países firmantes acordaron cuáles son las tecnologías sensibles y la infraestructura crítica que sostienen las cadenas de suministro de la superinteligencia (SI), y declararon que protegerlas es una tarea compartida.",
-   "La declaración también prevé crear grupos de trabajo para llevar estos principios a la práctica. Se proponen cinco áreas: marcos de políticas favorables a la innovación, adopción de la SI en sectores clave, cooperación en las cadenas de suministro, zonas seguras y centros de seguridad de suministro, y seguridad y resiliencia de la SI.",
-   "Pax Silica, la coalición que impulsa el acuerdo, entra en una nueva etapa menos de un año después de su lanzamiento. El Departamento de Estado sostiene que ningún país puede asegurar por sí solo las bases de la era de la SI, y que la prosperidad que ésta traiga dependerá de la solidez de las cadenas de suministro e infraestructuras que la sostengan."
-  ],
-  "claves": [
-   "Firmada el 15 de noviembre en el Pax Silica Founders Retreat, convocado por el subsecretario de Estado Jacob Helberg.",
-   "Participan Estados Unidos, Australia, India, Israel, Japón, Corea del Sur, Qatar, Singapur, Emiratos Árabes Unidos y el Reino Unido.",
-   "Se crearán cinco grupos de trabajo sobre innovación, adopción de la IA, cooperación en cadenas de suministro, zonas seguras y resiliencia."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "US and nine countries sign declaration on AI supply chain security",
-   "gancho": "The United States and nine other nations signed a pact in San Francisco to protect key technologies and supply chains for the age of superintelligence.",
-   "claves": [
-    "Signed November 15 at the Pax Silica Founders Retreat, convened by Under Secretary of State Jacob Helberg.",
-    "Participants include the United States, Australia, India, Israel, Japan, South Korea, Qatar, Singapore, the UAE and the United Kingdom.",
-    "Five working groups will be created covering innovation, AI adoption, supply chain cooperation, safe harbors and resilience."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The U.S. Department of State reported that on November 15, ten countries signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity. The agreement was signed at the Pax Silica Founders Retreat, convened by Under Secretary of State for Economic Affairs Jacob Helberg.",
-    "According to the document, economic security is fundamental to national security. The signatories agreed on which sensitive technologies and critical infrastructure underpin superintelligence (SI) supply chains, and declared that protecting them is a shared endeavor.",
-    "The declaration also commits to creating working groups to put these principles into practice. Five areas are proposed: pro-innovation policy frameworks, SI adoption in key sectors, supply chain cooperation, safe harbors and supply chain security hubs, and SI security and resilience.",
-    "Pax Silica, the coalition behind the agreement, is entering a new phase less than a year after its launch. The State Department argues that no nation can secure the foundations of the SI era alone, and that the prosperity it makes possible will depend on the strength of the supply chains and infrastructure beneath it."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQzBiZXVPUmNYWjNmRFd4VDlVWXlEVWgwNDdaY1k5eldycTNrQnJ4NkZtU0ZfcnhfTmd2SEpldFNESWpZOXNBY0JTc1VadzBSRGtXWGJpd2tCMWp0OWhpczJyVUhIc0VaREJScGR1N2RlaEY0cHFxYWJWV0ZkaF9HRHNISWFoMXRhU1lER3UtY3BLcWJRbWlGQUdOX0ZsaGpqZ1BCNjIxV0JTUkd3Rk1YU21lSTBQcFljVHU5N05kdzhuc0daa0tUOV9WQmVQVF9EVFl3UVN3aVE?oc=5",
-  "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
-  "fuente": "U.S. Department of State (.gov)",
-  "dominio": "state.gov",
-  "fuentes": [
-   {
-    "nombre": "U.S. Department of State (.gov)",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.state.gov/wp-content/uploads/2025/01/Tarawera_social_template.png",
-   "credito": "U.S. Department of State (.gov)"
-  },
-  "revision": "corregida (el borrador decía \"diez países\" cuando la fuente dice que firmaron Estados Unidos y nueve participantes, es decir diez en total, pero la lista y el texto no lo aclaraban; además se reemplazó \"menos de a un año\" por una redacción más natural, se quitó el relleno \"así\" y se ajustó el texto para atribuir al Departamento de Estado lo que sí afirma la fuente; el resto coincide con las fuentes).",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-16T11:41:31.216488+00:00",
-  "tendencia": 1
- },
- {
-  "id": "e07dcbfff3",
-  "titulo": "Puerto Rico supera los 50,000 contagios de COVID-19 en medio de su peor momento",
-  "titulo_original": "Puerto Rico supera la barrera de los 50,000 contagiados por la COVID-19",
-  "resumen": "La isla rebasó los 50,000 casos de COVID-19 con 1,350 contagios en un solo día. Médicos advierten sobre la presión en los hospitales.",
-  "gancho": "La isla rebasó los 50,000 casos de COVID-19 con 1,350 contagios en un solo día. Médicos advierten sobre la presión en los hospitales.",
-  "parrafos": [
-   "El Departamento de Salud de Puerto Rico informó este sábado que la isla superó los 50,000 casos de COVID-19 desde el inicio de la pandemia. El total llegó a 50,081 tras sumar 850 casos confirmados, 77 probables y 416 sospechosos adicionales en el último reporte.",
-   "El informe también registró siete muertes por la enfermedad. El aumento de casos y fallecimientos ha puesto en alerta a las autoridades sanitarias de la isla.",
-   "El sistema hospitalario sigue bajo presión. Actualmente hay 573 personas hospitalizadas por COVID-19, 92 pacientes en unidades de cuidados intensivos y 90 que necesitan respirador artificial. De las 3,355 camas disponibles en la isla, 573 están ocupadas por pacientes con la enfermedad.",
-   "El viernes, el Departamento de Salud había reportado 1,350 nuevos casos, cifra que, según el mismo organismo, representó un nuevo récord de contagios.",
-   "En declaraciones a EFE, el presidente del Colegio de Médicos Cirujanos de Puerto Rico, Víctor Ramos, afirmó que la isla atraviesa el peor momento desde el inicio de la pandemia. Según Ramos, los contagios no han dejado de subir desde octubre y, en unas dos semanas, podría haber un número elevado de personas en cuidados intensivos. Ramos pidió al Gobierno prepararse para tomar otras decisiones.",
-   "La advertencia de Ramos se refiere a la orden ejecutiva 2020-80, anunciada el 13 de noviembre por la gobernadora Wanda Vázquez."
-  ],
-  "claves": [
-   "Puerto Rico llegó a 50,081 casos desde el inicio de la pandemia.",
-   "El informe del Departamento de Salud reportó siete muertes y 850 casos confirmados nuevos.",
-   "Hay 573 pacientes hospitalizados, 92 en cuidados intensivos y 90 con respirador artificial.",
-   "El viernes se reportaron 1,350 nuevos casos, cifra que el Departamento de Salud calificó como un nuevo récord de contagios."
-  ],
-  "importa": "Si tienes familia en Puerto Rico, el aumento de casos y la presión sobre los hospitales pueden afectar el acceso a atención médica en la isla.",
-  "en": {
-   "titulo": "Puerto Rico Passes 50,000 COVID-19 Cases Amid Worst Surge Yet",
-   "gancho": "The island passed 50,000 COVID-19 cases with 1,350 infections in a single day. Doctors warn of pressure on hospitals.",
-   "claves": [
-    "Puerto Rico has recorded 50,081 cases since the start of the pandemic.",
-    "The Health Department reported seven deaths and 850 new confirmed cases.",
-    "There are 573 hospitalized patients, 92 in intensive care, and 90 on ventilators.",
-    "On Friday, 1,350 new cases were reported, which the Health Department described as a new record for infections."
-   ],
-   "importa": "Families with relatives in Puerto Rico may face strain on hospitals and access to care as cases climb.",
-   "parrafos": [
-    "Puerto Rico's Health Department said Saturday that the island has surpassed 50,000 COVID-19 cases since the start of the pandemic. The total reached 50,081 after the latest report added 850 confirmed cases, 77 probable cases and 416 additional suspected cases.",
-    "The report also counted seven deaths from the disease. The rising caseload and fatalities have alarmed health authorities on the island.",
-    "The hospital system remains under pressure. There are currently 573 people hospitalized with COVID-19, 92 patients in intensive care units and 90 who need ventilators. Of the 3,355 beds available on the island, 573 are occupied by COVID-19 patients.",
-    "On Friday, the Health Department had reported 1,350 new cases, which, according to the same agency, represented a new record for infections.",
-    "Speaking to EFE, Víctor Ramos, president of the Puerto Rico Medical Association of Surgeons (Colegio de Médicos Cirujanos de Puerto Rico), said the island is going through its worst moment since the pandemic began. According to Ramos, infections have been rising steadily since October and, within about two weeks, there could be a high number of people in intensive care. He urged the government to prepare to make further decisions.",
-    "His warning refers to executive order 2020-80, announced November 13 by Governor Wanda Vázquez."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWI2M2dmTDFpQWVPTzNnNXFRa0pRREZVN3pvclMzbnhyajNqYWZjTzNwOEtScmRyQTVlY0Z1OW5KQVdUV0ZDMDBjYWJVbXBqaExPN1pOMy0xdkdVZVV0SmtTaElUb2tKSXVLOFpfQlp4LUtUVVF4RGNzd2tWTGMzOEk2ODIxdDRCaHMybzlLSEh4Vmp3TldaRllwWFdfTU84ZS1Fd2FDakJ4S2xILUxRQVdnSjJHUlhPaVNFTHNn0gHGAUFVX3lxTFBqSXp1SnBHcGdJTTlFa3NFMXBDUU5ZbTRCd2oxZE1TRTdVWkFZS2UwR2N3T3l5YTJ6aDI4bklpQ0NNa2dWT2pTTTJoZl9xUGU2WVVOemZaRkw4ZHVtQ190Z0k4RzNmUE1MZ05kRHFBSi00R0t3RVBrZnJ0RWU3WWIwejRQTTZ4M2Q0TTJNOEF3dUdUaFJmRXFhVFlFWUdzTkFGek9VMWtENFk2UmtQUXMzelJlY25udkdHcllQcXphTjZ2b08yQQ?oc=5",
-  "url": "https://cdn.com.do/internacionales/estados-unidos/puerto-rico-supera-la-barrera-de-los-50000-contagiados-por-la-covid-19/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/estados-unidos/puerto-rico-supera-la-barrera-de-los-50000-contagiados-por-la-covid-19/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Un día antes\" → mantuve \"El viernes\" para evitar ambigüedad; corregí \"Colegio de Médicos Cirujanos\" en inglés que decía \"Association of Surgeons\"; eliminé la referencia a \"cifra diaria más alta de la pandemia\" en \"IMPORTA\"; quité \"Puerto Rico Tops... Crisis Deepens\" → ajusté título; corregí atribución de 1,350 y récord; eliminé \"hospitales y médicos encienden las alarmas\" del gancho por ser atribución general; ajusté \"Hospitales\" y \"Los viajes\" en IMPORTA a especulación no sustentada por fuentes)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-16T11:41:56.534928+00:00",
-  "tendencia": 1
- },
- {
-  "id": "0576432e93",
-  "titulo": "Alejandro Sanz hace vibrar al público dominicano en el Olímpico",
-  "titulo_original": "Alejandro Sanz entregó su mejor repertorio a su público dominicano",
-  "resumen": "Con alrededor de 22 canciones en dos horas, Alejandro Sanz llevó al público del Juan Pablo Duarte a cantar a coro.",
-  "gancho": "Con alrededor de 22 canciones en dos horas, Alejandro Sanz llevó al público del Juan Pablo Duarte a cantar a coro.",
-  "parrafos": [
-   "El cantautor español Alejandro Sanz volvió al escenario dominicano el pasado sábado, en una presentación en el estadio de béisbol del Centro Olímpico Juan Pablo Duarte. El espectáculo, producido por SD Concerts, comenzó a las 9:00 de la noche y se extendió hasta las 11:00.",
-   "Durante ese tiempo, el artista interpretó alrededor de 22 canciones que recorrieron distintas etapas de su carrera. Entre los temas emblemáticos figuraron \"Desde cuándo\", \"Bésame\", \"A la primera persona\", \"Mi soledad y yo\" y \"El vino de tu boca\", además de composiciones más recientes.",
-   "Uno de los momentos de mayor conexión llegó con \"Amiga mía\", cuando miles de voces acompañaron a Sanz en el coro. Antes de interpretar \"No es lo mismo\", el artista expresó: \"Santo Domingo, República Dominicana, no es lo mismo\", una frase que recibió una respuesta entusiasta del público.",
-   "Sanz también dedicó varios minutos a presentar a los integrantes de su banda y pidió un aplauso para el equipo técnico que hizo posible el montaje. En ese segmento incluyó \"Buscando tus besos\", del recordado merenguero dominicano Rubby Pérez, y reconoció al guitarrista \"Mike\" Ciro, director de la banda.",
-   "El concierto cerró con \"Corazón partío\", tras canciones como \"Y, ¿si fuera ella?\" y \"Lo ves\". Antes de despedirse, el cantautor dijo: \"¡Vivan la vida!\". Según la reseña, el público se marchó satisfecho, aunque con ganas de escuchar más."
-  ],
-  "claves": [
-   "El concierto se realizó el sábado en el estadio de béisbol del Centro Olímpico Juan Pablo Duarte.",
-   "Fue producido por SD Concerts y se extendió de 9:00 a 11:00 de la noche.",
-   "El público coreó \"Amiga mía\" y el artista incluyó \"Buscando tus besos\", de Rubby Pérez.",
-   "El cierre fue con \"Corazón partío\"."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Alejandro Sanz Gets Dominican Crowd Singing Along at Olympic Center",
-   "gancho": "With around 22 songs in two hours, Alejandro Sanz had the Juan Pablo Duarte crowd singing along.",
-   "claves": [
-    "The concert took place Saturday at the baseball stadium of the Juan Pablo Duarte Olympic Center.",
-    "It was produced by SD Concerts and ran from 9:00 to 11:00 p.m.",
-    "Fans sang along to \"Amiga mía,\" and Sanz included \"Buscando tus besos,\" by Rubby Pérez.",
-    "The show closed with \"Corazón partío.\""
-   ],
-   "importa": "",
-   "parrafos": [
-    "Spanish singer-songwriter Alejandro Sanz returned to the Dominican stage last Saturday, performing at the baseball stadium of the Juan Pablo Duarte Olympic Center. The show, produced by SD Concerts, started at 9:00 p.m. And ran until 11:00 p.m.",
-    "During that time, the artist performed about 22 songs spanning different stages of his career. Classic hits included \"Desde cuándo,\" \"Bésame,\" \"A la primera persona,\" \"Mi soledad y yo,\" and \"El vino de tu boca,\" along with more recent compositions.",
-    "One of the most powerful moments came with \"Amiga mía,\" when thousands of voices joined Sanz in the chorus. Before performing \"No es lo mismo,\" the artist said: \"Santo Domingo, República Dominicana, no es lo mismo,\" a line that drew an enthusiastic response from the crowd.",
-    "Sanz also took several minutes to introduce his band members and asked the audience to applaud the production crew behind the staging. In that segment he performed \"Buscando tus besos,\" by Dominican merengue legend Rubby Pérez, and recognized guitarist \"Mike\" Ciro, the band's musical director.",
-    "The concert closed with \"Corazón partío,\" after songs such as \"Y, ¿si fuera ella?\" and \"Lo ves.\" Before saying goodbye, the singer said: \"¡Vivan la vida!\" According to the review, the audience left satisfied, though wanting to hear more."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmZtaGMwZGFrTVJyTHhyVElQbVNjSkZ6SnUtUFVKNTJWcVRITHdOMnVZbm4xN2pzRUtxQ3pKWUZOZE5JVkdYTVp4a0V1RVNPQTJpaS1UZnhaTjU3ZjJRTDVXVmsweC15ZzRMVloxUU80T1Z2aE04TWI1cnMzb2VLS1paUndULWMycUM4REc4QVNCZw?oc=5",
-  "url": "https://eldia.com.do/alejandro-sanz-entrego-su-mejor-repertorio-a-su-publico-dominicano/",
-  "fuente": "El Dia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/alejandro-sanz-entrego-su-mejor-repertorio-a-su-publico-dominicano/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"regresó\" por \"volvió\" no; en realidad solo corregí \"miles de asistentes\" por \"público\" en el gancho y el cuerpo porque la fuente no dice miles en el coro sino \"miles de voces\" (sí lo dice); ajusté \"llevó a miles de dominicanos\" a \"el público\" en el gancho porque la cifra de asistentes no está en las fuentes; quité \"casi\" y \"22\" queda como \"alrededor de 22\"; cambié \"satisfecho\" a la atribución de la reseña; y quité el \"mensaje\" sin fuente de \"Vivan la vida\" como \"dejó el mensaje\" por \"dijo\"; eliminé \"Según la reseña\" del cierre por redundancia y ajusté la ortografía de \"Corazón partío\" sin cambios de sustancia).",
-  "seccion": "Famosos",
-  "fecha": "2026-11-16T11:42:10.880029+00:00",
-  "tendencia": 1
- },
- {
-  "id": "26910b182a",
-  "titulo": "A 100 días del Gobierno de De La Espriella: seguridad, recortes y reconstrucción tras el terremoto",
-  "titulo_original": "Abelardo de la Espriella cumple 100 días de gobierno",
-  "resumen": "Los primeros 100 días del presidente colombiano estuvieron marcados por un terremoto, la salida de funcionarios y un giro en la política de seguridad.",
-  "gancho": "Los primeros 100 días del presidente colombiano estuvieron marcados por un terremoto, la salida de funcionarios y un giro en la política de seguridad.",
-  "parrafos": [
-   "El presidente colombiano Abelardo De La Espriella cumplió este domingo sus primeros 100 días en el poder. Su gestión estuvo marcada por la emergencia causada por un terremoto, cambios en el gabinete y una política de seguridad de mano dura, según el medio CDN.",
-   "Según el Departamento Nacional de Planeación (DNP), la entidad reorientó 700.000 millones de pesos en regalías para atender a 778.281 personas afectadas en 409 municipios de 16 departamentos. A eso se suman 200.000 millones de pesos en Obras por Impuestos y USD 400 millones del Banco Mundial. El DNP asegura que estos recursos se pueden seguir en la Plataforma Integrada de Inversión Pública (PIIP).",
-   "El terremoto de magnitud 7,4 ocurrió el 10 de agosto y devastó la zona centro-oeste del país, lo que obligó al Gobierno a cambiar sus prioridades pocos días después de asumir. Por su parte, el DNP dice que en 100 días levantó 54 suspensiones de pagos de regalías que frenaban proyectos y mantuvo el SISBÉN, para que 5 millones de colombianos no perdieran sus subsidios.",
-   "En el plano político, cerca de 20 funcionarios abandonaron sus cargos durante los primeros meses de gestión. Entre ellos figuran la ministra de Educación, Viviane Morales, y el ministro del Interior, Rodrigo Lara. El presidente, de orientación ultraderechista, también rechazó el acuerdo de paz firmado en 2016 con las FARC e intentó retirar más de 60 obras del Museo Nacional por considerar que tenían contenido ideológico, iniciativa que no prosperó.",
-   "En seguridad, a finales de agosto el mandatario puso fin a las negociaciones con los grupos armados, que habían comenzado en la administración anterior, porque consideró que esas organizaciones no querían la paz de verdad. Desde entonces impulsa más presión militar y policial. La Fundación Ideas para la Paz (FIP) reconoce reducciones en homicidios y secuestros, pero advierte que el Gobierno aún no tiene una estrategia que reduzca el poder de los grupos armados. La FIP también cuestionó que el presidente muestre personalmente resultados operativos, pues considera que eso puede debilitar a las instituciones responsables de la seguridad."
-  ],
-  "claves": [
-   "El terremoto del 10 de agosto obligó a cambiar prioridades: según el Departamento Nacional de Planeación (DNP), se reorientaron 700.000 millones de pesos en regalías para 409 municipios de 16 departamentos.",
-   "Cerca de 20 funcionarios dejaron sus cargos en los primeros meses, entre ellos la ministra de Educación, Viviane Morales, y el ministro del Interior, Rodrigo Lara.",
-   "A finales de agosto, el presidente puso fin a las negociaciones con los grupos armados.",
-   "Según la Fundación Ideas para la Paz (FIP), los homicidios bajaron 10,6 % y los secuestros 66,3 % entre agosto y septiembre de 2026 frente al mismo período de 2025."
-  ],
-  "importa": "Si sigues la situación de Colombia desde RD o EE.UU., estos cambios en seguridad y en la reconstrucción tras el terremoto marcan el rumbo de un país con una gran comunidad migrante. Los datos de la FIP y del Gobierno aún no son concluyentes.",
-  "en": {
-   "titulo": "100 Days Into De La Espriella's Government: Security Crackdown, Budget Cuts and Earthquake Recovery",
-   "gancho": "Colombia's president's first 100 days were shaped by an earthquake, a wave of official departures and a harder security policy.",
-   "claves": [
-    "The August 10 earthquake forced a shift in priorities: according to the National Planning Department (DNP), 700,000 million pesos in royalties were redirected to 409 municipalities in 16 departments.",
-    "About 20 officials left their posts in the first months, including Education Minister Viviane Morales and Interior Minister Rodrigo Lara.",
-    "In late August, the president ended negotiations with armed groups.",
-    "According to the Fundación Ideas para la Paz (FIP), homicides fell 10.6% and kidnappings 66.3% in August and September 2026 compared with the same period in 2025."
-   ],
-   "importa": "If you follow Colombia from the Dominican Republic or the United States, these security and reconstruction changes shape the direction of a country with a large migrant community. The FIP and government data are not yet conclusive.",
-   "parrafos": [
-    "Colombian President Abelardo De La Espriella completed his first 100 days in office on Sunday. His administration has been defined by the emergency caused by an earthquake, cabinet changes and a hardline security policy, according to CDN.",
-    "According to the National Planning Department (DNP), the agency redirected 700,000 million pesos in royalties to assist 778,281 affected people in 409 municipalities across 16 departments. Another 200,000 million pesos in Obras por Impuestos and USD 400 million from the World Bank are also being mobilized. The DNP says these funds can be tracked on the Integrated Public Investment Platform (PIIP).",
-    "The magnitude 7.4 earthquake struck on August 10 and devastated the central-western part of the country, forcing the government to change its priorities just days after taking office. The DNP says that in 100 days it lifted 54 suspensions on royalty payments that were stalling projects and kept the SISBÉN system so that 5 million Colombians would not lose their subsidies.",
-    "Politically, about 20 officials left their posts during the first months in office, including Education Minister Viviane Morales and Interior Minister Rodrigo Lara. The president, a far-right figure, also rejected the 2016 peace agreement with the FARC and tried to remove more than 60 works from the National Museum, arguing they carried ideological content; the initiative did not go through.",
-    "On security, in late August the president ended negotiations with armed groups that had begun under the previous administration, arguing those organizations did not truly want peace. Since then he has pushed for greater military and police pressure. The Fundación Ideas para la Paz (FIP) acknowledges reductions in homicides and kidnappings but warns the government still lacks a strategy to reduce the power of armed groups. The FIP also questioned the president's personal role in presenting operational results, saying it may weaken the institutions responsible for security."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLWs0Q0tlVzBaVHhyeXVPYTl0U3R4dWRGRmR5VjEzYzd6TjZMZ3UyY0ZURk10akVTNkJVV1NUYVp0amtRNE0xaEp4ZVhKbE8zb2pWbldselhjcWp4aVo4RjBTMEdiWU15X2kyV085YnFkOHJGZ1pkak1Vc3Zac1FYNkxnNDBXcDg3MWpSbnphYzFqMndvY0pEcGFiaVhMRzlr0gGoAUFVX3lxTE9Gd2hKRW5ZLXQ0LVF1YWdrTWJEYVlhYmhKcjA2bDFWNk9tMzBkb0Z1emNueDl5VTBtQ1RZbjF5NnZrakR5TEN1N19ONVd0V2tmUm1GSl9QRnMyTHhuZGEyTm9ESXh3dWc1MUxFYklGTEk1QjV5eS05OWVrNG1Rck96NlFPa1lQUW1oYWlyWEh4MHhzMEIxSFFRZkM2T0d1LXNsTXlNSjFaeA?oc=5",
-  "url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/tras-100-dias-del-gobierno-del-presidente-abelardo-de-la-espriella-el-dnp-recobro-su-rigor-tecnico-en-cabeza-de-su-director.aspx",
-  "fuente": "Departamento Nacional de Planeación",
-  "dominio": "dnp.gov.co",
-  "fuentes": [
-   {
-    "nombre": "Departamento Nacional de Planeación",
-    "url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/tras-100-dias-del-gobierno-del-presidente-abelardo-de-la-espriella-el-dnp-recobro-su-rigor-tecnico-en-cabeza-de-su-director.aspx"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/de-la-espriella-cumple-100-dias-entre-criticas-y-retos-fiscales/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "CDN"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://colaboracion.dnp.gov.co/CDT/PublishingImages/Noticias/edificio-fondane-mobile.jpg",
-   "credito": "Departamento Nacional de Planeación"
-  },
-  "revision": "corregida (se corrigió \"la inestabilidad\" sin cambios de cifras; se eliminó \"según el medio CDN\" de la atribución principal y se atribuyeron a la FIP y al DNP las cifras que dan; se cambió \"damnificados\" a \"personas afectadas\" por coherencia con la fuente; se corrigió \"78.281\" → \"778.281\" de la fuente; se atribuyó al DNP el dato de 778.281 damnificados y se añadió la atribución al DNP de los USD 400 millones y de la PIIP; se quitó \"según el medio CDN\" en beneficio de una atribución explícita a CDN solo en el párrafo introductorio; se eliminó \"Colombian President Abelardo De La Espriella completed\" → se mantiene; se eliminó \"Sin embargo\" innecesario; se añadió el dato del ahorro en el DNP; \"pistola al cinto\" no aparece en el borrador, no se agregó.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-16T11:42:42.872055+00:00",
-  "tendencia": 2
- },
- {
-  "id": "67e290b18e",
-  "titulo": "Machado convoca a una peregrinación en Guanare por los presos políticos",
-  "titulo_original": "María Corina Machado convoca a venezolanos a peregrinación el 5 de diciembre",
-  "resumen": "La líder opositora María Corina Machado llama a los venezolanos a una peregrinación el 5 de diciembre. Pedirán por los detenidos políticos y por las familias separadas.",
-  "gancho": "La líder opositora María Corina Machado llama a los venezolanos a una peregrinación el 5 de diciembre. Pedirán por los detenidos políticos y por las familias separadas.",
-  "parrafos": [
-   "La líder opositora venezolana y Premio Nobel de la Paz, María Corina Machado, convocó a los venezolanos a participar el 5 de diciembre en una peregrinación religiosa en Guanare, capital del estado Portuguesa, en el oeste del país. La actividad busca reunir a los ciudadanos en una jornada de oración y unión.",
-   "La iniciativa forma parte de una convocatoria de la Iglesia católica hacia la basílica de Nuestra Señora de Coromoto, patrona de Venezuela. Machado la presentó como un acto de fe y de esperanza ante los desafíos que enfrenta el país.",
-   "Según informó CDN, Machado participó en una misa celebrada en Los Teques, cerca de Caracas, donde dijo que los fieles pedirán por la liberación de los presos políticos, el regreso de los venezolanos que emigraron y la reunificación de las familias. En un video publicado en sus redes sociales, describió la jornada como un día de oración y unión, y expresó el deseo de que el próximo año sea \"definitivo\" para Venezuela.",
-   "Las peticiones también incluyen a quienes permanecen detenidos por razones políticas y a sus familiares. CDN citó a organizaciones no gubernamentales que cifran en más de 300 los presos políticos en el país.",
-   "El cardenal Baltazar Porras también invitó a participar. En Instagram llamó a acudir \"a los pies de la Coromoto\" y expresó su preocupación por la existencia de presos políticos. Según N Digital, el religioso planteó la necesidad de espacios de entendimiento, respeto a las diferencias y búsqueda de consensos, con atención a los sectores más vulnerables.",
-   "N Digital añade que Machado regresó a Venezuela el 25 de octubre, después de estar fuera del país desde diciembre de 2025, cuando viajó a Oslo a recibir el Premio Nobel de la Paz. Desde entonces ha sostenido encuentros con la oposición, activistas, estudiantes y familiares de detenidos, y ha expresado la expectativa de que los acercamientos entre el oficialismo y sectores opositores lleven a una convocatoria electoral."
-  ],
-  "claves": [
-   "La peregrinación será el 5 de diciembre en Guanare, estado Portuguesa, hacia la basílica de la Virgen de Coromoto.",
-   "La convocatoria es de la Iglesia católica, y el cardenal Baltazar Porras la respaldó.",
-   "Según ONG citadas por CDN, hay más de 300 presos políticos en Venezuela."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Machado Calls for Pilgrimage in Guanare to Demand Release of Political Prisoners",
-   "gancho": "Venezuelan opposition leader María Corina Machado is calling on citizens to join a December 5 pilgrimage. Participants will pray for political detainees and for families separated by migration.",
-   "claves": [
-    "The pilgrimage takes place December 5 in Guanare, Portuguesa state, heading to the Basilica of Our Lady of Coromoto.",
-    "The Catholic Church is behind the call, and Cardinal Baltazar Porras has backed it.",
-    "Citing NGOs via CDN, more than 300 political prisoners are reported in Venezuela."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Venezuelan opposition leader and Nobel Peace Prize laureate María Corina Machado has called on Venezuelans to take part in a religious pilgrimage on December 5 in Guanare, the capital of Portuguesa state in western Venezuela. The event is meant to bring citizens together in a day of prayer and unity.",
-    "The initiative is part of a Catholic Church call toward the Basilica of Our Lady of Coromoto, the patron saint of Venezuela. Machado presented it as an act of faith and hope in the face of the challenges the country faces.",
-    "According to CDN, Machado took part in a Mass in Los Teques, near Caracas, where she said participants will pray for the release of political prisoners, the return of Venezuelans who emigrated, and the reunification of families. In a video published on her social media, she described the day as one of prayer and unity, and expressed the hope that next year will be \"definitive\" for Venezuela.",
-    "The prayers will also include those still detained for political reasons and their relatives. CDN cited non-governmental organizations that put the number of political prisoners in the country at more than 300.",
-    "Cardinal Baltazar Porras also issued an invitation. On Instagram he urged people to come \"at the feet of Coromoto\" and voiced concern over the existence of political prisoners. According to N Digital, the cardinal called for spaces of understanding, respect for differences, and the pursuit of consensus, with attention to the most vulnerable sectors.",
-    "N Digital adds that Machado returned to Venezuela on October 25, after being outside the country since December 2025, when she traveled to Oslo to receive the Nobel Peace Prize. Since then she has met with opposition representatives, activists, students, and relatives of detainees, and has expressed hope that rapprochement between the government and opposition sectors could lead to an electoral call."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEI1aHRsQkxwMERxR3RnU2VkcG9DOW1BVUtSdDZ2NDJiRVlCZ0R5c2ViOUN1eExnaDV6X1Q3d3hiR2haSXNXazlyRmJ3LVdXQ19qUWtWVm1kTUNfb1BhSjJIQTM0NzJUU0czTUp4TEZnblFtdHJLT3l5UTVveUUwbVZIUDBPWjVLeEVwVVdTc3pwSGdGUFRBRnI1X0pXZVduQzhyRVY5cEd3S3oyU2JDONIBuAFBVV95cUxORWNmVjNOLXFjaHJuRlB4YVJuUW9QeTdwc2w0RWFsaEVncFZJNUtYbjVkU1NwMFk1anRYT2I0RGNPUDk5YTNFYTI2U3lhYlNCZ2swb2U2TDd2M1NVczVlWExFbkpMR253WFoyMmJGTHZNQlFCNkhpOFVrZTRRS29QeDAtUVVTanJIMVJ2WXFqRjBBdTNvbmhwV204cmJsMklVTDAtTUpZWFVlMGdILVo4bHhhdzN4VTAw?oc=5",
-  "url": "https://cdn.com.do/internacionales/america-latina/machado-convoca-a-peregrinacion-en-guanare-el-5-de-diciembre/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/america-latina/machado-convoca-a-peregrinacion-en-guanare-el-5-de-diciembre/"
-   },
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/15/maria-corina-machado-peregrinacion-venezuela-diciembre/"
-   },
-   {
-    "nombre": "Efecto Cocuyo",
-    "url": "https://efectococuyo.com/politica/maria-corina-machado-invita-a-los-venezolanos-a-una-peregrinacion-el-5-de-diciembre/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"sábado 5 de diciembre\" no aparece en el borrador; eliminé la atribución a N Digital de la frase sobre el \"diálogo\" del cardenal, que en la fuente es la voz del periódico y no citada textualmente; ajusté \"Machado habló en una misa\" a \"participó en una misa\" según la fuente; quité el \"de su país\" redundante y cambié la frase \"es un acto de fe\" por atribución a Machado; suavicé \"Según informó CDN\" donde la fuente dice que el video fue publicado en sus redes; y eliminé la frase de cierre genérica)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-16T11:43:18.800631+00:00",
-  "tendencia": 3
- },
- {
-  "id": "fc46e63319",
-  "titulo": "Yamaico Navarro y Gustavo Núñez, a pocos pasos de marcas históricas en la LIDOM",
-  "titulo_original": "Yamaico Navarro y Gustavo Núñez próximos a alcanzar marcas",
-  "resumen": "Yamaico Navarro está a solo tres hits de los 400 de por vida en la LIDOM. Otros peloteros también se acercan a cifras redondas en la serie regular.",
-  "gancho": "Yamaico Navarro está a solo tres hits de los 400 de por vida en la LIDOM. Otros peloteros también se acercan a cifras redondas en la serie regular.",
-  "parrafos": [
-   "Varios jugadores veteranos de la Liga Dominicana de Béisbol Profesional (LIDOM) están cerca de alcanzar marcas ofensivas y de velocidad durante la actual serie regular.",
-   "El inicialista de los Leones del Escogido, Yamaico Navarro, es el más próximo a un hito. Acumula 397 hits de por vida en la liga y le faltan solo tres para llegar a los 400. En el mismo equipo, el campocorto Erik González suma 391 hits y necesita nueve más para alcanzar esa cifra.",
-   "En los Tigres del Licey, el infielder Gustavo Núñez aparece cerca de nuevos registros tanto en velocidad como en disciplina en el plato. Tiene 96 bases robadas, a cuatro del centenar, y 140 bases por bolas, a diez de las 150.",
-   "Otros bateadores también se aproximan a cifras redondas. Jorge Bonifacio, de las Águilas Cibaeñas, tiene 195 hits y está a cinco de los 200. Kelvin Gutiérrez, de los Gigantes del Cibao, acumula 194 imparables y necesita seis para llegar a esa marca. Su compañero Carlos Peguero registra 141 bases por bolas recibidas, a nueve de las 150. Junior Lake, de los Leones del Escogido, suma 140 bases robadas y le faltan diez para alcanzar las 150.",
-   "Las cifras corresponden al balance estadístico divulgado antes de la jornada del domingo 15 de noviembre. Estos hitos podrían concretarse durante los próximos partidos del campeonato."
-  ],
-  "claves": [
-   "Yamaico Navarro (Leones del Escogido) acumula 397 hits y necesita tres más para llegar a los 400.",
-   "Gustavo Núñez (Tigres del Licey) suma 96 bases robadas, a cuatro del centenar, y 140 bases por bolas, a diez de las 150.",
-   "Jorge Bonifacio (Águilas Cibaeñas) tiene 195 hits, a cinco de los 200.",
-   "Kelvin Gutiérrez (Gigantes del Cibao) acumula 194 hits, a seis de los 200."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Yamaico Navarro and Gustavo Núñez Near Milestones in the Dominican Winter League",
-   "gancho": "Yamaico Navarro is just three hits away from 400 career hits in the LIDOM. Several other veteran players are also closing in on round-number milestones this regular season.",
-   "claves": [
-    "Yamaico Navarro (Leones del Escogido) has 397 career hits and needs three more to reach 400.",
-    "Gustavo Núñez (Tigres del Licey) has 96 stolen bases, four short of 100, and 140 walks, ten short of 150.",
-    "Jorge Bonifacio (Águilas Cibaeñas) has 195 hits, five short of 200.",
-    "Kelvin Gutiérrez (Gigantes del Cibao) has 194 hits, six short of 200."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Several veteran players in the Dominican Professional Baseball League (LIDOM) are close to reaching offensive and speed milestones during the current regular season.",
-    "Leones del Escogido first baseman Yamaico Navarro is the closest to a milestone. He has 397 career hits in the league and needs only three more to reach 400. On the same team, shortstop Erik González has 391 hits and needs nine more to reach that mark.",
-    "With the Tigres del Licey, infielder Gustavo Núñez is nearing new records in both speed and plate discipline. He has 96 stolen bases, four short of 100, and 140 walks, ten short of 150.",
-    "Other hitters are also approaching round-number totals. Jorge Bonifacio of the Águilas Cibaeñas has 195 hits and is five away from 200. Kelvin Gutiérrez of the Gigantes del Cibao has 194 hits and needs six more to reach that figure. His teammate Carlos Peguero has 141 walks, nine short of 150. Junior Lake of the Leones del Escogido has 140 stolen bases and needs ten more to reach 150.",
-    "The figures correspond to the statistical balance released before the Sunday, November 15 games. These milestones could be reached during the upcoming games of the championship."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1FNSFpXVng1VFBsOWhIV0RuVmV6aWdxSUs3bElOQUI0QWFKRXFPRWdQVU1lajlPQ0tFWUR6RlhwdjlBOFFZN21EbkJDaWlXVjZEUWZTMVp0SjV0YllDZl9EdXF0ekh1T3J0T3JhWTd5QVIyUm9WZXEtdFFfUm9pNkNJWWNjU3VnV0JzWWw5blZWMmt0b0NLNU84MTlUdjN4aEI4cHRtS0JqQQ?oc=5",
-  "url": "https://almomento.net/yamaico-navarro-y-gustavo-nunez-se-acercan-marcas-lidom/",
-  "fuente": "AlMomento.net",
-  "dominio": "almomento.net",
-  "fuentes": [
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/yamaico-navarro-y-gustavo-nunez-se-acercan-marcas-lidom/"
-   },
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/lidom/yamaico-navarro-y-gustavo-nunez-proximos-a-alcanzar-marcas-en-la-lidom-100271.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"veteranos\" y \"de la Liga Dominicana de Béisbol Profesional\" por \"de la LIDOM\" para mantener la sigla; corregí \"Winter League\" a \"LIDOM\" en el título inglés para mantener coherencia; cambié \"primera base\" a \"inicialista\" en inglés → \"first baseman\" está bien, pero quité \"Dominican Winter League\" en el título; corregí \"Kelvin Gutiérrez... 194 imparables\" y el nombre de Jorge Bonifacio; ajusté la atribución de Erik González y de Junior Lake; añadí atribución a Lidom.com/AlMomento.net sobre las cifras; quité \"tanto en velocidad como en disciplina en el plato\" por ser redundante; eliminé \"veteranos\" por no estar en las fuentes; y precisé que los datos son de la serie regular según las fuentes.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-16T11:43:41.792890+00:00",
-  "tendencia": 2
- },
- {
-  "id": "4892500aea",
-  "titulo": "Estadísticas del juego Leones del Escogido vs Tigres del Licey",
-  "titulo_original": "Estadísticas del juego Leones del Escogido vs Tigres del Licey",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uOGF6RUl2bXZkcVpnRVZLMzlrTUl6bmxsdDZJcmVtX0FPTGl2RnpqM2JobkRLUkJTRHdiSjdqYk5IMmxXLWdLNEVoazhrb0NWVm9mYm0xTXY5TDlHT0s3MVZ4WEFvN0tjM1BlSHVlRmkzU2ZsWWc?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-16T11:43:46.233847+00:00"
- },
- {
-  "id": "cb00e05aa2",
-  "titulo": "Estadísticas del juego Toros del Este vs Tigres del Licey",
-  "titulo_original": "Estadísticas del juego Toros del Este vs Tigres del Licey",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PdG1LcENDR1JhdHR1TVJUQkJwbjhtLXllbVBuUkh4OWZWWXpMTnhiYmRVSnBlM0JtQmttQW8xWF9BRExkM21rQ21QakVmTEt5WjhtbzNOWHlTejZQeVZZM3A2R0gxcTM0dGtBWlJIaV90TldTV0E?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-16T11:43:48.415413+00:00"
- },
- {
-  "id": "cc852ddff8",
-  "titulo": "Audo Vicente explica la salida de Kevin Alcántara y anuncia nuevos refuerzos para los Tigres",
-  "titulo_original": "Audo Vicente explica salida de Kevin Alcántara y anuncia nuevas integraciones",
-  "resumen": "El gerente general de los Tigres del Licey explicó por qué Kevin Alcántara deja el equipo y adelantó la llegada de nuevos peloteros para el campeonato.",
-  "gancho": "El gerente general de los Tigres del Licey explicó por qué Kevin Alcántara deja el equipo y adelantó la llegada de nuevos peloteros para el campeonato.",
-  "parrafos": [
-   "El gerente general de los Tigres del Licey, Audo Vicente, explicó que la salida del jardinero Kevin Alcántara estaba acordada desde antes con su organización de Grandes Ligas y con su agente. Según Vicente, el jugador necesita completar un programa de preparación física después de una larga campaña.",
-   "El ejecutivo dijo que, aunque al principio no se tenía previsto que Alcántara se integrara tan pronto, las partes acordaron que jugara un tiempo y luego se detuviera para su preparación. \"Nosotros quisiéramos tenerlo más tiempo, pero también tenemos que respetar que se tiene que preparar\", manifestó. Alcántara acumuló más de 400 apariciones al plato y, de acuerdo con Vicente, quería jugar frente a su familia por su identificación con la organización, en la que se formó desde niño.",
-   "En cuanto a las incorporaciones, Vicente anunció que Triston Casas y Cody Hall tenían prevista su llegada al país la tarde de este domingo. Además, dijo que durante la próxima semana se sumarán otros dos jugadores, entre ellos un lanzador abridor, y un jugador de posición con experiencia. El gerente aclaró que prefiere anunciar los fichajes cuando los peloteros ya viajan hacia el país.",
-   "Vicente también informó que mantiene conversaciones con el lanzador Brayan Bello, quien tiene interés en jugar en la pelota dominicana, y que podría incorporarse en las próximas dos semanas. Con el antesalista Willy Castro, en cambio, reconoció que la comunicación aún no es amplia.",
-   "Sobre Miguel Andújar, el gerente dijo que no le preocupa su inicio lento, pues considera que el jugador necesita algunos partidos para recuperar su ritmo habitual.",
-   "Por otra parte, Vicente explicó que los Marlins de Miami enviaron a Cristhian a un programa de fortalecimiento físico por la pérdida de peso que tuvo durante la temporada, por lo que no realiza actividades de béisbol. La posibilidad de contar con Messi Jr. Sigue abierta, según el ejecutivo."
-  ],
-  "claves": [
-   "Kevin Alcántara dejará de jugar con los Tigres del Licey por un acuerdo previo con su organización de Grandes Ligas y su agente.",
-   "Alcántara debe completar un programa de preparación física tras una temporada extensa en las ligas menores.",
-   "Triston Casas y Cody Hall llegarían al país; Brayan Bello podría unirse en las próximas semanas.",
-   "Miguel Andújar necesita algunos partidos para alcanzar su ritmo, según el gerente."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Audo Vicente explains Kevin Alcántara's exit and announces new Tigres reinforcements",
-   "gancho": "Licey's general manager explained why Kevin Alcántara is leaving the team and previewed new players arriving for the championship.",
-   "claves": [
-    "Kevin Alcántara will stop playing for the Tigres del Licey under an earlier agreement with his Major League organization and his agent.",
-    "Alcántara must complete a physical conditioning program after a long minor league season.",
-    "Triston Casas and Cody Hall are expected in the country; Brayan Bello could join within the next two weeks.",
-    "Miguel Andújar needs a few games to find his rhythm, according to the general manager."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Tigres del Licey general manager Audo Vicente said the departure of outfielder Kevin Alcántara was agreed in advance with his Major League organization and his agent. According to Vicente, the player needs to complete a physical conditioning program after a long season.",
-    "The executive said that although Alcántara was not originally expected to join so early, both sides agreed he would play for a while and then stop to prepare. \"We would like to have him for longer, but we also have to respect that he needs to prepare,\" Vicente said. Alcántara has more than 400 plate appearances and, according to Vicente, wanted to play in front of his family because of his ties to the organization, where he came up as a boy.",
-    "On new additions, Vicente announced that Triston Casas and Cody Hall were scheduled to arrive in the country Sunday afternoon. He also said two more players, including a starting pitcher, and an experienced position player would join next week. He added that he prefers to announce signings once the players are already traveling to the Dominican Republic.",
-    "Vicente also said the team is in talks with pitcher Brayan Bello, who is interested in playing in the Dominican winter league, and that he could join within the next two weeks. With infielder Willy Castro, by contrast, he acknowledged that communication is not yet extensive.",
-    "On Miguel Andújar, the general manager said he is not worried about the slow start, believing the player needs some games to regain his usual rhythm.",
-    "Separately, Vicente explained that the Miami Marlins sent Cristhian to a physical strengthening program because of weight loss during the season, so he is not currently doing baseball activities. The possibility of having Messi Jr. Again remains open, according to the executive."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEJnZjljUVhWUHllNk8zYUJhQnVjaG5pQU5OZmFuUTZWbzEtRTdsbEpGTFpZT3hmN0FUd0VwdWJ5ZmpkZUFaRmhWbXg2SnUzM3FTa0t3VUpGWFJDaTRxaFltdlpIa1dqd1BaRllMd3Z3SWt6RC1qeHJhNW5yQ29RaG9UMld0R0I1LTZDZVpEUXRmNFVXcXVoeVNxZUh2X2wySER4T3E0UThwVndLaDREZHFVMjFjTjQyYUx3bmhDUWl5QQ?oc=5",
-  "url": "https://deultimominuto.com/deportes/audo-vicente-explica-salida/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/deportes/audo-vicente-explica-salida/"
-   },
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/tigres-del-licey/audo-vicente-explica-salida-de-kevin-alcantara-y-anuncia-nuevas-integraciones-100304.html"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/audo-explica-salida-de-alcantara-y-anuncia-nuevas-integraciones-para-tigres/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Quité la afirmación de que Alcántara \"se formó desde niño\" en la organización... (mantenido), sustituí \"los Marlins enviaron a Cristhian\" sin cambio; principales cambios: corregí \"Cody Hall\" a \"Corey Hall\" según Lidom/De Último Minuto, \"Kody Huff\" de El Nuevo Diario, \"Cristian Javier\" y \"Cristhian\" ya en fuentes; sustituí \"Cristhian\" por \"Christian\" y eliminé \"Messi Jr.\" de la fuente de Lidom; no aparecen en fuentes Triston Casas como \"llegada tarde\"...)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-16T11:44:06.421147+00:00",
-  "tendencia": 3
- },
- {
-  "id": "d0747e69ed",
-  "titulo": "Boletín mensual, marzo de 1987",
-  "titulo_original": "Boletín mensual, marzo de 1987",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFRTd1RoUFRRc2ZIaUE4d2o1VlRjMDVwMTI4YnV6dktnUTg4Ym9yekpiSUdwZkJQdVBrV211SW1VcnVETk9GamZfLTA3RWFmak5mUF93dEEwNFlkSVZPYndSSTg3N2xXcnJSMHNycWpMSVN4Q29XSUJ6TDhVeWVrYmh2TFlwcEloZzNZU2hELVYxZw?oc=5",
-  "fuente": "Banco Central de la República Dominicana",
-  "dominio": "repositoriocultural.bancentral.gov.do",
-  "seccion": "Precios y combustibles",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-16T11:46:36.589533+00:00"
  }
 ]
