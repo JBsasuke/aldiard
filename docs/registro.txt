@@ -1,10 +1,10 @@
-Corrida: 2026-11-21 05:47 AM (hora RD)
+Corrida: 2026-11-21 06:47 AM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 5192 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-al-inaugurar-hospital-de-las-lagunas-de-nisibon-la-salud-esta
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Presidente Luis Abinader, al inaugurar hospital de Las Lagunas de Nisibón: “La salud está cambiando en República Dominicana, no con palabras, sino con hechos” -> cifras que no aparecen en las fuentes: 12
 [República Dominicana] DGII: texto leído 980 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-registro-en-formato-606-de-e31-emitido-despus-de-la-retencin-de-isr/6b007e3e0626c86dcedc4a69
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto corresponde a una consulta técnica de un usuario en un foro, no a una noticia publicada por un medio ni a una comunicación oficial de la DGII. No contiene un hecho de interés g')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es una consulta técnica de un contribuyente sobre cómo reportar un comprobante fiscal (E31) en el formato 606 de la DGII, sin hechos de interés público ni ')
 [República Dominicana] DGII: texto leído 577 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/clasificacin-de-empresas-ofv/6b005a7f3a9daeeaea1c3c98
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Clasificación de empresas OFV
@@ -13,28 +13,23 @@ Fuente oficial encontrada: DGII
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cliente no reportó retenciones
 [República Dominicana] DGII: texto leído 2384 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/asunto-consulta-sobre-sustitucin-de-comprobante-electrnico-e32-por-e31-dentro-del-mismo-perodo-fiscal/6b00b9344175d10cffb1cc9b
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia. Es un mensaje de consulta publicado en un foro de la DGII (72 mensajes), escrito por un particular que pregunta sobre la sustitución de una factura E32 po')
-[República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
-Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que recibí no es una noticia sino una consulta técnica, dirigida a la DGII, de un empleador sobre cómo calcular el ISR de un asalariado con dos empleadores. No hay hechos notic')
-[República Dominicana] De Último Minuto: texto leído 2232 letras -> https://deultimominuto.com/nacionales/monte-plata-distingue-a-32/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Monte Plata distingue a 32 maestros por su trayectoria y aportes a la educación
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/estrellas-gc-y-licey-se-impusieron-en-lidom/
-No se pudo leer el artículo; no se publica para no salir corta: Estrellas, GC y Licey se impusieron en Lidom
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/el-rafael-barias-logra-su-quinto-titulo-distrital/
-No se pudo leer el artículo; no se publica para no salir corta: El Rafael Barias logra su quinto título distrital
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una consulta de un contribuyente publicada como si fuera un comunicado, sin respuesta oficial de la DGII. No es una noticia concreta: es un texto de un usuario que pregun')
+[República Dominicana] Acento: texto leído 5751 letras -> https://acento.com.do/economia/la-clave-para-liberar-el-valor-de-anthropic-9794275.html
+No encaja en ninguna sección, se salta: La clave para liberar el valor de Anthropic
+[República Dominicana] Acento: texto leído 2440 letras -> https://acento.com.do/actualidad/frente-amplio-debatira-crisis-de-seguridad-ciudadana-y-ejecuciones-extrajudiciales-9794106.html
+[República Dominicana] De Último Minuto: texto leído 2657 letras -> https://deultimominuto.com/nacionales/frente-amplio-debatira-crisis-22/
+Revisión: corregida (eliminé la atribución de las cifras de 107 muertes a "registros oficiales" en el titular de claves y ajusté e
+[República Dominicana] Acento: texto leído 7000 letras -> https://acento.com.do/actualidad/haiti-y-republica-dominicana-dos-ocupaciones-estadounidenses-dos-caminos-historicos-9794125.html
+Cambiada de sección: República Dominicana -> Internacionales: Haití y República Dominicana: dos ocupaciones estadounidenses, dos caminos históricos
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité la frase "El texto original no llega a desarrollar esa respuesta", que es un
+Revisión: corregida (quité la frase "El texto original no llega a desarrollar esa respuesta", que es una nota interna y no pertene
+Es opinión o editorial, se salta: Las navidades que no serán iguales
 [Dominicanos en EE.UU.] ideice.gob.do: texto leído 1135 letras -> https://ideice.gob.do/documentacion/publicaciones-id-p1-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
 Fuente oficial encontrada: ideice.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
 Fuente oficial encontrada: U.S. Embassy in Ethiopia (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Addis Ababa, Ethiopia (November 19, 2026)
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1509 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-iranian-regime-insiders-who-profit-from-stolen-oil-wealth/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Sanctioning Iranian Regime Insiders Who Profit from Stolen Oil Wealth
-Revisión: corregida (ajusté "dice el Gobierno" donde el comunicado no lo atribuye a un periódico; quité frases de relleno; el rest
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 775 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with UAE Deputy Prime Minister and Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan
@@ -43,16 +38,25 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubi
 [Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy In Poland (.gov): texto leído 1488 letras -> https://pl.usembassy.gov/security-alert-u-s-embassy-warsaw-poland-november-20-2026/
 Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Haiti (.gov), U.S. Embassy In Poland (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLos cuatro textos son alertas de seguridad publicadas por embajadas de Estados Unidos (Italia, Colombia, Haití y Polonia), es decir, avisos generales y no una noticia concreta redactada')
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta. Es una página de un registro oficial de Estados Unidos (Federal Register) que muestra un aviso de solicitud de información sobre el programa CRUS')
-[Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
-Fuente oficial encontrada: The White House (.gov) 
-No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Rome, Italy – November 20, 2026
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-sdny/pr/bronx-gang-member-sentenced-40-years-murder-rap-artist
+No se pudo leer el artículo; no se publica para no salir corta: Southern District of New York | Bronx Gang Member Sentenced To 40 Years For Murder Of Rap Artist
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: elpaisvallenato.com
+Fuente no confiable, se salta: es-us.noticias.yahoo.com
+Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: arecoa.com
+[Dominicanos en EE.UU.] Hoy Digital: texto leído 3208 letras -> https://hoy.com.do/el-mundo/estados-unidos/afirman-leonel-fernandez-siendo-presidente-rd-mejoro-calidad-vida-gran-mayoria-dominicanos_1109333_amp.html
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2929 letras -> https://elnuevodiario.com.do/afirma-lf-siendo-presidente-rd-mejoro-calidad-de-vida-gran-mayoria-de-los-dominicanos/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/internacionales/empresario-en-ny-afirma-leonel-mejoro-calidad-de-vida-en-rd/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: se trata de una opinión personal de un empresario, y las tres versiones son sobre un acto político con declaraciones de parte, sin una fuente oficial que sostenga hechos verific')
 [Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History
+[Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
+Fuente oficial encontrada: The White House (.gov) 
+No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
@@ -65,45 +69,47 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Bulin 47 celeb
 Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
 Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
 [Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se preparan para recibir el doble sueldo y cubrir gastos navideños
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: la nota no reporta un hecho concreto y verificable. Describe expectativas y planes generales de trabajadores ("dominicanos se preparan...") sin fuente oficial, sin cifras, sin d')
 Fuente no confiable, se salta: rccnoticias.com.do
 Fuente no confiable, se salta: elpregonerord.com
 [Famosos] Noticias SIN: texto leído 3067 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/20/the-home-for-your-dreams-impulsa-bachata-y-urbano-dominicano-2173934/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): The Home For Your Dreams impulsa nuevos talentos dominicanos con propuestas de bachata y música urbana
 Fuente no confiable, se salta: bavarodigital.net
 Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: unosantafe.com.ar
 Fuente no confiable, se salta: ntn24.com
 Fuente no confiable, se salta: facebook.com
 Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
 Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: diario.elmundo.sv
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: elpregonerord.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/destronan-miss-universo-vietnam-2026-quynh-anh-nguyen-polemica-corona-12267769
-No se pudo leer el artículo; no se publica para no salir corta: Despojan de su corona a una concursante de Miss Universo en medio de una polémica
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/868314
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Royals vs. Reds, lanzadores probables, alineaciones, y más
+[Famosos] Infobae: texto leído 4509 letras -> https://www.infobae.com/tendencias/2026/11/21/jennifer-lopez-llevo-encaje-a-las-vegas-pero-todos-hablaron-de-la-pieza-que-cubria-sus-hombros/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la versión que me pasaste de Infobae está cortada justo antes del final (termina en "incrustaciones de diamantes"), y solo hay una fuente. Con eso no puedo armar la noticia completa si')
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851554?ins=resultado&sec=boxscore
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-estrellas-vs-aguilas-251476
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Estrellas Orientales vs Aguilas Cibaenas
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851524?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Estrellas Orientales
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-toros/2026/11/20/851429/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres 8, Toros 4 Resultado Final (20/11/2026)
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
-[Deportes] MLB.com: texto leído 3070 letras -> https://www.mlb.com/news/yankees-non-tender-decisions-2026
-[Deportes] La Nación: texto leído 5383 letras -> https://www.lanacion.com.ar/usa/former-rookie-of-the-year-luis-gil-and-2023-all-star-josiah-gray-among-44-non-tender-free-agents-nid20112026/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí la cifra de Gil en 2025 a "casi cuatro meses" → según MLB.com fue "al meno
-Revisión: corregida (corregí la cifra de Gil en 2025 a "casi cuatro meses" → según MLB.com fue "al menos cuatro meses"/"first four
 [Deportes] MLB.com: texto leído 1605 letras -> https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox
 Rechazada por la revisión: D-backs trade for right-hander Oviedo from Red Sox -> cifras que no aparecen en las fuentes: 2024
 [Deportes] MLB.com: texto leído 2268 letras -> https://www.mlb.com/news/tigers-troy-melton-contract-extension
-Rechazada por la revisión: Tigers agree to six-year extension with newly converted starter Troy Melton (source) -> cifras que no aparecen en las fuentes: 100
-[Deportes] MLB.com: texto leído 2607 letras -> https://www.mlb.com/news/nolan-gorman-non-tendered-by-cardinals
-Rechazada por la revisión: Cardinals non-tender former first-round pick Nolan Gorman -> cifras que no aparecen en las fuentes: 2023
+Revisión: corregida (Se corrigió la edad: según la fuente cumple 26 años en unas dos semanas, no "26 años" como dato ya cumplido; 
 [Precios y combustibles] Infobae: texto leído 4636 letras -> https://www.infobae.com/noticias/2026/11/20/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-20-de-noviembre/?outputType=amp-type
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en Cuba: cotización de cierre del 20 de noviembre
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: cubanet.org
-Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: lalupadelsur.com
-[Precios y combustibles] Acento: texto leído 3532 letras -> https://acento.com.do/economia/fmi-condiciona-prevision-de-inflacion-en-rd-al-comportamiento-de-los-combustibles-9794007.html
-Revisión: corregida (se quitó la atribución a entrevista con Acento, que no aparece en la fuente, ya que la fuente solo dice que P
+[Precios y combustibles] AlMomento.net: texto leído 2222 letras -> https://almomento.net/fmi-proyecta-crecimiento-de-4-6-economia-rd-cierre-2026/
+Cambiada de sección: Precios y combustibles -> República Dominicana: FMI ve economía de RD cerraría 2026 con crecimiento de 4.6%
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se cambió "Según el organismo" por "Según el FMI" en el primer párrafo y se atribu
+Revisión: corregida (se cambió "Según el organismo" por "Según el FMI" en el primer párrafo y se atribuyó la declaración sobre la 
+[Precios y combustibles] N Digital: texto leído 7000 letras -> https://n.com.do/2026/11/21/jovenes-dominicanos-acceso-credito-emprendimiento-bancos/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Emprender desde cero en RD: los obstáculos que enfrentan los jóvenes para iniciar un negocio
+Revisión: corregida (eliminé la atribución a "la especialista" en "obtener recursos no garantiza..." que el borrador atribuía a Ro
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
@@ -124,14 +130,16 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
 [Videojuegos] Nintendo: texto leído 1745 letras -> https://www.nintendo.com/es-mx/store/products/deck-of-robin-hood-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
-[Videojuegos] Nintendo: texto leído 364 letras -> https://www.nintendo.com/es-cl/store/products/moto-rush-gt-bonus-content-bundle-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Moto Rush GT Bonus Content Bundle
-[Videojuegos] Nintendo: texto leído 4236 letras -> https://www.nintendo.com/es-es/Noticias/2026/Noviembre/Inscribete-para-recibir-notificaciones-y-tener-la-oportunidad-de-comprar-en-Nintendo-Store-una-ocarina-funcional-instrumento-musical-o-una-ocarina-electronica-basadas-en-la-que-aparece-en-The-Legend-of-Zelda-Ocarina-of-Time--3243896.html
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es la página de la tienda de Nintendo para un videojuego, no una noticia: describe un producto, con sus características, modos de juego y advertencias de salud, sin ningún hecho de actuali')
+[Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-pe/store/products/solo-shift-karaoke-plus-aquarium-pack-set-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Inscríbete para recibir notificaciones y tener la oportunidad de comprar en Nintendo Store estos productos.
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los textos que me pasaste. Solo hay una versión, y es la ficha de producto de Nintendo para un DLC del juego "Solo Shift! Karaoke". No describe un ac')
+[Videojuegos] Nintendo: texto leído 2866 letras -> https://www.nintendo.com/es-pe/store/products/rebirth-blossom-the-spirit-chronicles-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: Esta es una página de tienda de Nintendo (ficha de producto), no una noticia. Según las reglas, debo responder CONFIABLE: no.\n\nCONFIABLE: no')
+Traducidas al inglés: 1 (quedan 0 por traducir)
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 100 · ya cubiertas: 19 · no confiables: 17 · opinión: 1 · con texto leído: 39 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 3 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 22 · cambiadas de sección: 2 · largas: 3 · ocultas (cortas): 5
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 98 · ya cubiertas: 13 · no confiables: 20 · opinión: 2 · con texto leído: 41 · sin texto: 6 · medios juntados: 1 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 0 · error IA: 9 · descartadas por la IA: 19 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 4
