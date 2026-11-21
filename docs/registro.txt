@@ -1,64 +1,64 @@
-Corrida: 2026-11-21 04:47 PM (hora RD)
+Corrida: 2026-11-21 05:47 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 6073 letras -> https://presidencia.gob.do/noticias/monsenor-jesus-castro-marte-reconoce-los-esfuerzos-del-presidente-luis-abinader-para
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé la atribución a Listín Diario, que no aparece en las fuentes; quité "según el Gobierno" en exceso y a
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación prioriza el fortalecimiento de los aprendizajes para elevar la calidad educativa
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-22-personas-arrestadas-durante-la-operacion-rompeolas/
-[República Dominicana] El Dia.com.do: texto leído 2407 letras -> https://eldia.com.do/ministerio-publico-pide-prision-preventiva-y-caso-complejo-para-22-imputados-de-la-operacion-rompeolas/
-[República Dominicana] Ensegundos.do: texto leído 6529 letras -> https://ensegundos.do/2026/11/21/mp-solicita-prision-preventiva-contra-22-personas-arrestadas-durante-la-operacion-rompeolas/
-Revisión: corregida (cambié "Según la acusación" por "Según el Ministerio Público" en el hecho de la red, no quedaba claro quién l
-[República Dominicana] En Salud Digital: texto leído 4702 letras -> https://ensaluddigital.gob.do/doctor-julio-landron-recibe-premio-traumard-2026-por-su-aporte-al-fortalecimiento-de-la-atencion-del-trauma-en-el-pais/
-[República Dominicana] El Nuevo Diario: texto leído 4622 letras -> https://elnuevodiario.com.do/doctor-julio-landron-recibe-premio-traumard-2026-por-su-aporte-al-fortalecimiento-del-area-en-el-pais/
-[República Dominicana] Noticias SIN: texto leído 4835 letras -> https://noticiassin.com/salud/2026/11/21/julio-landron-recibe-premio-traumard-2026-por-su-gestion-en-trauma-2174614/?amp=1
-Fuente oficial encontrada: En Salud Digital | para completar: Noticias SIN
-Revisión: corregida (corregí "estancias educativas" en la fuente no aplica; en el borrador: "al cruzar la calle" y "formación desd
+[República Dominicana] Corporación del Acueducto y Alcantarillado de Santiago | CORAASAN: texto leído 0 letras -> https://coraasan.gob.do/wp-content/uploads/2026/11/Libro-de-Banco-OCTUBRE-2026.pdf
+No se pudo leer el artículo; no se publica para no salir corta: 1 - DEBITO CREDITO BALANCE ANTERIOR BALANCE ACTUAL 1 - DEBITO CREDITO BALANCE ANTERIOR BALANCE ACTUAL 2 Cuenta...: 1414 EFECT DI
+[República Dominicana] ideice.gob.do: texto leído 1135 letras -> https://ideice.gob.do/documentacion/publicaciones-id-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
+Fuente oficial encontrada: ideice.gob.do 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[República Dominicana] DGII: texto leído 1996 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-gastos-menores-dietas-y-viticos-rechazados-como-gastos-deducibles-inconsistencia-ir2/6b01b3333a9daeeaea39c4ef
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre gastos menores, dietas y viáticos rechazados como gastos deducibles – Inconsistencia IR-2
 [República Dominicana] DGII: texto leído 2384 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/asunto-consulta-sobre-sustitucin-de-comprobante-electrnico-e32-por-e31-dentro-del-mismo-perodo-fiscal/6b00b9344175d10cffb1cc9b
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Asunto: Consulta sobre sustitución de comprobante electrónico E32 por E31 dentro del mismo período fiscal
 [República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que recibí es una consulta técnica enviada a la DGII sobre cómo calcular el ISR de un trabajador con dos empleadores, no una noticia. No describe un hecho de interés público ni')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste material no es una noticia. Se trata de una consulta técnica de un contribuyente a la DGII sobre cómo calcular el ISR de un asalariado con dos empleadores, con dos métodos hipotéti')
+[República Dominicana] Banco Central de la República Dominicana: texto leído 395 letras -> https://repositoriocultural.bancentral.gov.do/items/0d207cd8-02dc-4893-afc4-ffdca6496029
+No se pudo leer el artículo; no se publica para no salir corta: Boletín mensual, febrero de 1984
 [República Dominicana] DGII: texto leído 847 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-consulta-sobre-la-aplicacin-del-itbis-a-la-adquisicin-de-licencias-de-software-y-suscripciones-tecnolgicas-tras-la-entrada-en-vigor-de-la-ley-nm-3026/6b00a8bc4895ae0f6ed6bee5
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado no es una noticia publicada, sino una solicitud de consulta dirigida a la DGII (un documento de tipo administrativo/consultivo) sobre cómo aplicar el ITBIS a lice')
-[República Dominicana] De Último Minuto: texto leído 4614 letras -> https://deultimominuto.com/entretenimiento/transfusion-tripping-15/
-Cambiada de sección: República Dominicana -> Famosos: Transfusión continúa un año cargado de música con el lanzamiento de “Tripping”
-Revisión: corregida (se corrigió "Jamiroquai y Bruno Mars" para atribuirlo a la descripción del lanzamiento, que ya estaba bien; s
-[República Dominicana] De Último Minuto: texto leído 3644 letras -> https://deultimominuto.com/internacionales/nueva-york-y-nueva-jersey/brooklyn-ordena-demoler-edificio/
-Cambiada de sección: República Dominicana -> Internacionales: Brooklyn ordena demoler edificio en riesgo de colapso tras tragedia que dejó ocho muertos
-Revisión: corregida (el borrador decía "varias familias sin hogar" y "ocho muertos" en el título, lo cual es consistente; cambios:
-[República Dominicana] De Último Minuto: texto leído 4947 letras -> https://deultimominuto.com/internacionales/nueva-york-y-nueva-jersey/new-york-tiroteos-homicidios-2026/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo producir esta noticia tal como está planteada. Solo recibí una versión de un medio (De Último Minuto, identificado como PERIÓDICO), y el texto está cortado al final ("disminuy')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nRazón: el único texto disponible es una solicitud de consulta dirigida a la DGII sobre cómo aplicar el ITBIS a licencias de software y suscripciones tras la Ley 30-26. No es una noticia')
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2814 letras -> https://it.usembassy.gov/security-alert-u-s-embassy-rome-italy-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
-[Dominicanos en EE.UU.] U.S. Embassy In Poland (.gov): texto leído 1488 letras -> https://pl.usembassy.gov/security-alert-u-s-embassy-warsaw-poland-november-20-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy in Haiti (.gov), U.S. Embassy In Poland (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta entrada no es una noticia concreta. Son cuatro alertas de seguridad de embajadas de Estados Unidos (Italia, Etiopía, Haití y Polonia). Son avisos genéricos para ciudadanos estadoun')
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in France (.gov): texto leído 1580 letras -> https://fr.usembassy.gov/demonstration-alert-u-s-embassy-paris-france-november-20-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy in Haiti (.gov), U.S. Embassy & Consulates in France (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Estas cuatro versiones son alertas de seguridad de embajadas de EE.UU., publicadas en el sitio oficial del gobierno (.gov) sobre cuatro países distintos: Italia, Etiopía, Haití y Francia. No se trata ')
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
-[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pt26325053
-No se pudo leer el artículo; no se publica para no salir corta: M 4.8 - 7 km W of Salvaleón de Higüey, Dominican Republic
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 1239 letras -> https://almomento.net/nueva-york-codex-celebrara-misa-dia-dominicano-exterior/
-Revisión: corregida (eliminé "a la que invita" no... ajusté atribuciones: "Según explicó" y "En el anuncio" con la invitación ya a
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 6721 letras -> https://almomento.net/celebran-en-nueva-york-la-noche-de-cultura-dominicana/
-Revisión: corregida (quité la nota interna en español e inglés, que no pertenece a la nota publicable; atribuí a Tejada y Lara Flo
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] SEC.gov: texto leído 0 letras -> https://www.sec.gov/Archives/edgar/data/1985554/000168316826008986/alphadig_ex1006.htm
+No se pudo leer el artículo; no se publica para no salir corta: Commercial Usufruct, Exclusive Purchase Option, and Site Development and Control ... - SEC.gov
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2768 letras -> https://elnuevodiario.com.do/extraditan-dos-dominicanos-requeridos-por-narcotrafico-y-homicidio-en-nueva-york/
+[Dominicanos en EE.UU.] Noticias SIN: texto leído 3987 letras -> https://noticiassin.com/pais/nacional/2026/11/21/extraditan-a-nueva-york-a-dos-dominicanos-por-homicidio-y-droga-2174639/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Extraditan dos dominicanos requeridos por narcotráfico y homicidio en Nueva York
+Revisión: corregida (se quitó "según informa la DNCD" de la atribución de la entrega en vuelo comercial, que sí aparece en ambas f
+[Dominicanos en EE.UU.] Infobae: texto leído 4914 letras -> https://www.infobae.com/republica-dominicana/2026/11/21/hermanos-dominicanos-reciben-cadena-perpetua-por-matar-a-cuatro-familiares-en-nueva-york/
+Revisión: corregida (se corrigió la atribución del juicio a un solo tribunal y se quitó la frase "tras conocerse"; se ajustó el mó
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 2826 letras -> https://elnacional.com.do/nacionales/policiales/rd-entrega-extradicion-dos-hombres-acusados-asesinato-narcotrafico-nueva-york_586844.html
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: RD entrega en extradición a dos hombres acusados de asesinato y narcotráfico en Nueva York
+Revisión: corregida (eliminé "Las autoridades señalan" sin respaldo claro en las fuentes y lo reemplacé por atribución directa; aj
 [Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History
-[Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
-Fuente oficial encontrada: The White House (.gov) 
-No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
+[Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
+Fuente oficial encontrada: The White House (.gov) 
+Rechazada por la revisión: At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare -> cifras que no aparecen en las fuentes: 17000, 2600
 Fuente no confiable, se salta: prensamercosur.org
 [Famosos] CDN: texto leído 3108 letras -> https://cdn.com.do/entretenimiento/bulin-47-cumple-un-sueno-de-infancia-al-comprar-un-auto-deportivo/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bulin 47 celebra la compra de un automóvil de lujo: “Un sueño más cumplido”
 [Famosos] CDN: texto leído 2309 letras -> https://cdn.com.do/entretenimiento/gta-vi-genera-us3790-millones-en-sus-primeras-24-horas/
 Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (la cifra de Avengers: Endgame de US$2,900 millones ya estaba bien; corregí "32.5 m
 Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
 [Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se preparan para recibir el doble sueldo y cubrir gastos navideños
@@ -66,41 +66,36 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
 [Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
-Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: ntn24.com
 Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
-[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/news/sigue-todos-los-movimientos-de-cada-equipo-temporada-muerta-2026-27
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El mercado de MLB, equipo por equipo: firmas, cambios y agentes libres
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/hermosillo-vs-nayarit/2026/11/24/850387/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Hermosillo vs. Nayarit, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 2255 letras -> https://www.mlb.com/es/video/randy-dobnak-on-pitching-philosophy-mlb-career
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Randy Dobnak on pitching philosophy, MLB career
-[Deportes] MLB.com: texto leído 312 letras -> https://www.mlb.com/es/video/lidom-live-escogido-vs-gigantes-251487
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851502?ins=previa&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: LIVE: Leones del Escogido @ Gigantes del Cibao | 21/11/2026
-[Deportes] MLB.com: texto leído 326 letras -> https://www.mlb.com/es/video/yankees-serve-thanksgiving-meal-with-scan-harbor
-No se pudo leer el artículo; no se publica para no salir corta: Yankees serve Thanksgiving meal with SCAN-Harbor
-[Deportes] MLB.com: texto leído 5638 letras -> https://www.mlb.com/news/brady-ebel-matthew-wood-excelling-for-brewers-in-minor-leagues
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Which Brewers prospects could break out in 2027?
-Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: lalupadelsur.com
-Es opinión o editorial, se salta: OPINION: Parada abrupta del financiamiento externo (2)
-Fuente no confiable, se salta: ntelemicro.com
-Fuente no confiable, se salta: remolacha.net
+[Deportes] Lidom: texto leído 1754 letras -> https://lidom.com/tigres-del-licey/gilbert-prioriza-el-presente-antre-llegada-de-nuevas-figuras-101047.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no puede convertirse en una noticia nuestra. Es una entrevista de Lidom.com sobre la postura de un dirigente frente a la posible llegada de jugadores, con declaraciones sob')
+[Deportes] Lidom: texto leído 1304 letras -> https://lidom.com/toros-del-este/estevez-confia-en-la-reaccion-de-toros-para-alcanzar-clasificacion-101052.html
+Revisión: corregida (Se corrigió el dato del récord de Rafael Santana, que en el borrador decía "quedó a dos juegos" pero la lista
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-tigres/2026/11/21/851458/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Tigres, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 6691 letras -> https://www.mlb.com/es/amp/news/11-nombres-llamativos-que-se-suman-al-mercado-de-agentes-libres.html
+Revisión: corregida (eliminé "MLB.com destaca" por no estar en fuente como atribución explícita? — ver corrección abajo; quité la 
 Fuente no confiable, se salta: revistamercado.do
 [Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/internacional/cuba-limita-libreta-de-alimentos-a-los-mas-vulnerables-9794194.html
 Cambiada de sección: Precios y combustibles -> Internacionales: Cuba limita libreta de alimentos a los más vulnerables
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "casi todas" vs "permanecen cerradas" sin cambio de sentido; corregí "Marp
 Rechazada por la revisión: Cuba limita libreta de alimentos a los más vulnerables -> cifras que no aparecen en las fuentes: 12000
 Fuente no confiable, se salta: diariocolatino.com
+Fuente no confiable, se salta: bloomberglinea.com
+Fuente no confiable, se salta: identidadcorrentina.com.ar
+Fuente no confiable, se salta: asturiasmundial.com
+[Precios y combustibles] Hoy Digital: texto leído 1724 letras -> https://hoy.com.do/el-pais/fmi-resalta-solidez-economia-republica-dominicana_1109439.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: FMI resalta solidez de la economía en República Dominicana
+Revisión: corregida (eliminé "Según el BCRD" en el segundo párrafo de la sección de encuentros, que sí aparece como atribución en 
+Es opinión o editorial, se salta: OPINION: Parada abrupta del financiamiento externo (2)
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
-[Videojuegos] Nintendo: texto leído 284 letras -> https://www.nintendo.com/en-ca/store/products/family-chess-refined-edition-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Family Chess Refined Edition
 [Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
+[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/en-ca/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -134,12 +129,13 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy G
 [Videojuegos] Nintendo: texto leído 2724 letras -> https://www.nintendo.com/es-pe/store/products/brain-training-jigsaw-puzzle-world-scenery-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
+Traducidas al inglés: 1 (quedan 0 por traducir)
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
 11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 69 · ya cubiertas: 17 · no confiables: 9 · opinión: 2 · con texto leído: 44 · sin texto: 7 · medios juntados: 3 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 6 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 26 · cambiadas de sección: 4 · largas: 6 · ocultas (cortas): 5
-Para Instagram (tendencia 3): Piden prisión preventiva para 22 detenidos en la Operación Rompeolas
-Para Instagram (tendencia 3): Bisonó resalta conectividad aérea y papel logístico de RD en el Caribe
-Para Instagram (tendencia 3): Procuradora ordena profundizar investigación por la muerte de Melissa Medina
-Para Instagram (tendencia 3): Bolsonaro sigue en cuidados intensivos, estable pero sin fecha de alta
-Para Instagram (tendencia 3): Melissa Núñez vive con emoción su paso por Miss Universo 2026
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 69 · ya cubiertas: 15 · no confiables: 6 · opinión: 2 · con texto leído: 43 · sin texto: 4 · medios juntados: 1 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 24 · cambiadas de sección: 5 · largas: 7 · ocultas (cortas): 4
+Para Instagram (tendencia 3): Rafael Nadal entra a la Junta Directiva del Real Madrid con aprobación de los socios
+Para Instagram (tendencia 3): México captura a "Chapo Isidro", uno de los 10 fugitivos más buscados por el FBI
+Para Instagram (tendencia 2): FMI destaca la resiliencia de la economía dominicana y prevé 4,6 % de crecimiento en 2026
+Para Instagram (tendencia 2): Extraditan a dos dominicanos acusados de homicidio y narcotráfico en Nueva York
+Para Instagram (tendencia 2): Nueva York celebra la cultura dominicana de la diáspora con encuentro del Ministerio de Cultura
