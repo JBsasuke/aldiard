@@ -1,10 +1,7 @@
-Corrida: 2026-11-20 08:47 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2510 letras -> https://presidencia.gob.do/noticias/superintendencia-de-seguros-y-unibe-ofreceran-curso-internacional-especializado-en
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (se cambiaron frases de relleno como "busca ampliar" y "se suman al esfuerzo", se eliminó la afirmación no atr
+Corrida: 2026-11-20 09:47 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 5192 letras -> https://www.presidencia.gob.do/noticias/presidente-luis-abinader-al-inaugurar-hospital-de-las-lagunas-de-nisibon-la-salud-esta
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Presidente Luis Abinader, al inaugurar hospital de Las Lagunas de Nisibón: “La salud está cambiando en República Dominicana, no con palabras, sino con hechos” -> cifras que no aparecen en las fuentes: 12
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto de la Versión 1 se corta justo antes de terminar y no incluye el resto de la información. Solo hay una versión disponible (la de Presidencia, marcada como FUENTE OFICIAL), y n')
 [República Dominicana] DGII: texto leído 980 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-registro-en-formato-606-de-e31-emitido-despus-de-la-retencin-de-isr/6b007e3e0626c86dcedc4a69
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre registro en formato 606 de E31 emitido después de la retención de ISR
@@ -19,19 +16,22 @@ Fuente oficial encontrada: DGII
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [República Dominicana] DGII: texto leído 745 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-orientacin-para-rectificacin-del-it1/6aff5f423a9daeeaea04788f
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es una solicitud de orientación dirigida a la DGII por un contribuyente sobre la rectificación de una declaración IT-1 de octubre de 2026, con un error de ')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Solicitud de orientación para rectificación del IT-1
 [República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia: es una consulta técnica sobre cómo calcular el ISR en un caso hipotético, publicada en un formato de mensajes. No hay hechos noticiosos, ni sucesos, ni de')
-[República Dominicana] DGII: texto leído 954 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/el-pago-de-impuesto-por-trasnferencia-de-vehiculo-2-se-puede-pagar-con-tarjeta-de-credito/6b006d7a4895ae0f6ed15348
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El pago de impuesto por trasnferencia de vehiculo 2% se puede pagar con tarjeta de credito?
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nHay que aclarar la razón. El texto de la Versión 1 no es una noticia: es una consulta técnica de una empresa dirigida a la DGII sobre cómo calcular el ISR de un empleado con ingresos de')
+[República Dominicana] De Último Minuto: texto leído 2827 letras -> https://deultimominuto.com/economia/peso-mexicano-depreciacion-2024/
+Cambiada de sección: República Dominicana -> Precios y combustibles: Peso mexicano registra su mayor depreciación semanal desde agosto de 2024
+Revisión: corregida (se añadió atribución de la cifra de "mayor caída desde agosto de 2024" y de los dos factores a analistas conc
+[República Dominicana] De Último Minuto: texto leído 7000 letras -> https://deultimominuto.com/nacionales/justicia/condenan-4-hombres-fraude/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (Se corrigió "con diez años de prisión" a "con penas..." no aplica; se mantuvo la e
+Revisión: corregida (Se corrigió "con diez años de prisión" a "con penas..." no aplica; se mantuvo la estructura. Cambios: se quit
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5889 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste está incompleto: la Versión 1 (la fuente oficial del Ministerio de Administración Pública) se corta antes de llegar a la noticia en sí. Lo que contiene son menú')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con la información que me pasaste. La única versión disponible es la página de inicio del sitio del Ministerio de Administración Pública, que contiene me')
 [Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4722 letras -> https://centralnoticias.gob.do/blacklion-properties-impulsa-el-desarrollo-responsable-y-la-inversion-patrimonial-en-samana/
 Fuente oficial encontrada: centralnoticias.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): BlackLion Properties impulsa el desarrollo responsable y la inversión patrimonial en Samaná
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como está planteada. El material que me pasaste es, en lo esencial, un comunicado promocional de BlackLion Properties (un evento, testimonios de sus ')
 [Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
 Fuente oficial encontrada: U.S. Embassy in Ethiopia (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Addis Ababa, Ethiopia (November 19, 2026)
@@ -43,77 +43,72 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubi
 [Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 2968 letras -> https://co.usembassy.gov/security-alert-national-strike-and-demonstrations-november-19-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
 Fuente oficial encontrada: U.S. Embassy in Kuwait (.gov), U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Haiti (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Kuwait – November 18, 2026
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEstas cuatro versiones son alertas de seguridad de embajadas de EE.UU., no una noticia periodística sobre un hecho concreto. Son avisos de viaje generales (Kuwait, Italia, Colombia, Hai')
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious
 Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto recibido es, en su mayor parte, aviso legal e interfaz de la página de Federal Register (advertencias sobre la versión no oficial, menús, contadores de visitas), y no c')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto recibido es la página de Federal Register con avisos legales, navegación y metadatos del sitio, pero no contiene el contenido de la noticia (la solicitud de información')
 [Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo que tienes es un comunicado oficial de la Casa Blanca con el balance de la gira de Trump por Filipinas y China. Es propaganda de gobierno: afirma logros sin cifras verificadas indepe')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es un comunicado oficial de la Casa Blanca sobre los logros de la gira del presidente Trump, con lenguaje propagandístico y sin hechos verificables sobre los acuerdos menci')
 [Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una nota de opinión y promoción publicada en la web oficial de la Casa Blanca. Contiene afirmaciones de tipo político y argumentativo (por ejemplo, sobre cifras de reducci')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es un comunicado oficial de la Casa Blanca que combina una celebración (el Día Nacional de la Salud Rural) con una columna de opinión y promoción de políticas. No describe un')
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: 2001online.com
-[Famosos] CDN: texto leído 2309 letras -> https://cdn.com.do/entretenimiento/gta-vi-genera-us3790-millones-en-sus-primeras-24-horas/
-Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
-Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
-[Famosos] CDN: texto leído 3919 letras -> https://cdn.com.do/entretenimiento/la-tumba-de-edith-gonzalez-sin-flores-a-siete-anos-de-su-muerte/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] Milenio: texto leído 0 letras -> https://amp.milenio.com/espectaculos/famosos/como-luce-la-tumba-edith-gonzalez-a-7-anos-de-su-muerte-video
-[Famosos] Excélsior: texto leído 5845 letras -> https://www.excelsior.com.mx/espectaculos/encuentra-hoy-tumba-edith-gonzalez-tras-siete-anos-fallecimiento
-Revisión: corregida (se corrigió "Efraín González" como padre de la actriz, se quitó el atribuido del video a "una visita reciente
-Video de YouTube agregado: El peligroso camino a la tumba de Edith González | Exploración y tensión en el Estado de México
-[Famosos] CDN: texto leído 3730 letras -> https://cdn.com.do/entretenimiento/jennifer-lawrence-revela-que-josh-hutcherson-fue-su-mejor-beso/
-[Famosos] ObjetivoTV: texto leído 3713 letras -> https://www.antena3.com/objetivotv/cine/jennifer-lawrence-revela-todos-detalles-sus-nuevos-implantes-pecho-confiesa-actor-que-peor-besado_202611206b002e4a50b7057c6d1221bb.html
-Revisión: corregida (corregí la fecha del programa, el título en inglés de la precuela, la afirmación sobre el Dr. Teitelbaum y el
-Video de YouTube agregado: Jennifer Lawrence Talks Lisa Barlow and Meredith Marks’ Glam Kitten Performance | WWHL
+[Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nRazón: la única versión disponible es un artículo de CDN que describe expectativas y planes generales de trabajadores, sin fuente oficial que confirme el calendario de pago ni cifras co')
+[Famosos] CDN: texto leído 1693 letras -> https://cdn.com.do/nacionales/buscan-a-hamlet-acevedo-desaparecido-en-simon-bolivar/
+Cambiada de sección: Famosos -> República Dominicana: Familia busca a hombre desaparecido en el sector Simón Bolívar
+Revisión: corregida (eliminé "Simón Bolívar, en el Distrito Nacional" → mantuve igual; corregí "Santo Domingo's National District"
+[Famosos] CDN: texto leído 2742 letras -> https://cdn.com.do/entretenimiento/macaulay-culkin-impulsa-una-secuela-de-mi-pobre-angelito/
+[Famosos] El Comercio Perú: texto leído 3519 letras -> https://elcomercio.pe/mag/fama/celebs/macaulay-culkin-acepta-volver-mi-pobre-angelito-home-alone-esto-se-sabe-secuela-prepara-seth-rogen-disney-nnda-nnni-noticia/
+[Famosos] El Universal: texto leído 3009 letras -> https://www.eluniversal.com.mx/espectaculos/macaulay-culkin-podria-regresar-como-kevin-mccallister-disney-prepara-una-secuela-de-mi-pobre-angelito/
+Revisión: corregida (quité "Según la información disponible" y "Por ahora"/"hasta el momento" sin cambiar hechos; reescribí la atr
+Fuente no confiable, se salta: rccnoticias.com.do
+Fuente no confiable, se salta: elpregonerord.com
+[Famosos] Noticias SIN: texto leído 3067 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/20/the-home-for-your-dreams-impulsa-bachata-y-urbano-dominicano-2173934/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The Home For Your Dreams impulsa nuevos talentos dominicanos con propuestas de bachata y música urbana
+Fuente no confiable, se salta: bavarodigital.net
+[Famosos] Diario Libre: texto leído 2136 letras -> https://www.diariolibre.com/amp/revista/musica/2026/11/20/que-esperas-de-pedro-jesus-y-carlos-martin-carle-en-salsa-dominicana/3726838
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pedro Jesús conquista la cima de la salsa con “¿Qué esperas?”
+Fuente no confiable, se salta: robertocavada.com
+[Famosos] El Nacional — La voz de todos: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Pablo Valdez y Andrés Pérez subirán al ring por dos coronas y promenten guerras de nocauts
 [Deportes] Lidom: texto leído 4129 letras -> https://lidom.com/lidom/jornada-con-tres-duelos-clave-en-santo-domingo-santiago-y-la-romana-100910.html
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste está incompleto: la Versión 1 termina en medio de la sección de radio ("...sumado"), y no aparecen las versiones restantes que mencionas. Además, no veo ninguna et')
-[Deportes] MLB.com: texto leído 1855 letras -> https://www.mlb.com/es/news/royce-lewis-pasa-de-mellizos-a-dodgers-por-dos-jugadores
-Revisión: corregida (se quitó "según informó MLB.com" del primer párrafo, ya que la atribución ya está en el texto; se corrigió "C
-[Deportes] MLB.com: texto leído 2255 letras -> https://www.mlb.com/es/video/randy-dobnak-on-pitching-philosophy-mlb-career
-Error IA: ValueError('respuesta sin el formato esperado: No hay una noticia que redactar. La versión que me pasaste es la página de navegación de MLB.com (menús, listas de equipos, calendarios) junto con la descripción de un video de 1 minuto en el que el p')
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/868295
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Brewers vs. Athletics, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/san-juan-vs-mayaguez/2026/11/20/872048
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los San Juan contra los Mayaguez el 20/11/2026 gratis
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/868520
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Red Sox vs. Twins, lanzadores probables, alineaciones, y más
-Fuente no confiable, se salta: lalupadelsur.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/gobierno-destina-rd573-5-millones-para-congelar-combustibles-esta-semana/
-No se pudo leer el artículo; no se publica para no salir corta: Gobierno destina RD$573.5 millones para congelar combustibles esta semana
-[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/economia/black-friday-2026-como-evitar-deudas-al-comprar-con-tarjetas-de-credito-9793046.html
-[Precios y combustibles] Univision: texto leído 4825 letras -> https://www.univision.com/shows/la-voz-de-la-manana/reto-economia-como-evitar-deudas-en-tarjetas-de-credito-durante-las-ofertas-de-black-friday-video
-Cambiada de sección: Precios y combustibles -> República Dominicana: Black Friday 2026: cómo evitar deudas al comprar con tarjetas de crédito
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé la mención a EE. UU. en WHY_EN, que no está en las fuentes para el caso do
-Revisión: corregida (eliminé la mención a EE. UU. en WHY_EN, que no está en las fuentes para el caso dominicano; el resto coincide
-[Precios y combustibles] El Comercio Perú: texto leído 3733 letras -> https://elcomercio.pe/mag/a-cuanto-cerro-el-dolar-en-colombia-hoy-jueves-19-de-noviembre-nnda-nnrt-noticia/
+Revisión: corregida (se quitó "según informó Lidom.com" del texto en ambos idiomas por ser redundante con la atribución; se corrig
+[Deportes] MLB.com: texto leído 3231 letras -> https://www.mlb.com/es/news/johan-oviedo-traspasado-de-los-medias-rojas-a-los-d-backs
+Revisión: corregida (quité "Oviedo llegó a Boston con la lesión en el codo derecho que lo mantuvo fuera de juego durante buena par
+[Precios y combustibles] El Comercio Perú: texto leído 1331 letras -> https://elcomercio.pe/mag/respuestas/a-cuanto-cerro-el-dolar-en-republica-dominicana-hoy-viernes-20-de-noviembre-de-2026-nnda-nnrt-noticia/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Precios y combustibles] El Comercio Perú: texto leído 2944 letras -> https://elcomercio.pe/mag/a-cuanto-cerro-el-dolar-en-colombia-hoy-viernes-20-de-noviembre-de-2026-nnda-nnrt-noticia/
 [Precios y combustibles] El Espectador: texto leído 6152 letras -> https://www.elespectador.com/economia/finanzas-personales/precio-del-dolar-hoy-20-de-noviembre-en-colombia-noticias-hoy/
-[Precios y combustibles] Revista Semana: texto leído 3310 letras -> https://www.semana.com/economia/macroeconomia/articulo/el-dolar-pega-un-salto-en-colombia-revise-cuanto-pagan-y-cobran-las-casas-de-cambio/202607/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿A cuánto cerró el dólar en Colombia hoy, jueves 19 de noviembre?
+Revisión: corregida (el borrador no dice que el dólar subió por el episodio de Anthropic ni otras causas, pero sí omite un dato cl
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
 [Videojuegos] Nintendo: texto leído 1762 letras -> https://www.nintendo.com/en-gb/News/2026/November/Nintendo-eShop-Highlights-19-11-2026-3244888.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo eShop Highlights – 19/11/2026
+[Videojuegos] Pokemon.com: texto leído 699 letras -> https://www.pokemon.com/us/news/the-pokemon-tcg-mega-evolution-flowing-fists-expansion-arrives-february-6-2027
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The Pokémon TCG: Mega Evolution—Flowing Fists Expansion Arrives February 6, 2027
+[Videojuegos] Pokemon.com: texto leído 4737 letras -> https://www.pokemon.com/uk/news/how-to-watch-the-2027-pokemon-latin-america-international-championships
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Watch the 2027 Pokémon Latin America International Championships
+[Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
 [Videojuegos] Pokemon.com: texto leído 1163 letras -> https://www.pokemon.com/uk/news/watch-whimsicott-mess-with-mabosstiff-in-the-latest-poketoon
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Watch Whimsicott Mess with Mabosstiff in the Latest POKÉTOON
 [Videojuegos] Pokemon.com: texto leído 2321 letras -> https://community.pokemon.com/en-us/discussion/26990/tiensi-announcement-about-pause-in-posts
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
-[Videojuegos] Pokemon.com: texto leído 4737 letras -> https://www.pokemon.com/uk/news/how-to-watch-the-2027-pokemon-latin-america-international-championships
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Watch the 2027 Pokémon Latin America International Championships
-[Videojuegos] Nintendo: texto leído 1819 letras -> https://www.nintendo.com/es-ar/store/products/master-of-classics-song-bundle-70050000064882-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de canciones "Maestro de los clásicos"
+[Videojuegos] Pokemon.com: texto leído 285 letras -> https://press.pokemon.com/en/products/Pokemon-TCG-Mega-EvolutionFlowing-Fists
+No se pudo leer el artículo; no se publica para no salir corta: Pokémon TCG: Mega Evolution—Flowing Fists - Assets
 [Videojuegos] Nintendo: texto leído 2301 letras -> https://www.nintendo.com/es-cl/store/products/anime-fitness-power-workout-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Anime Fitness - Power Workout
@@ -126,12 +121,15 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Obby Parkour: 
 [Videojuegos] Nintendo: texto leído 3077 letras -> https://www.nintendo.com/es-mx/store/products/zumba-christmas-marble-saga-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Zumba - Christmas Marble Saga
+[Videojuegos] Nintendo: texto leído 4070 letras -> https://www.nintendo.com/es-ar/store/products/the-james-pond-legacy-the-pond-is-not-enough-switch-2/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The James Pond Legacy: The Pond Is Not Enough
 Marcadores: 36 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
 9 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 61 · ya cubiertas: 9 · no confiables: 3 · opinión: 0 · con texto leído: 44 · sin texto: 5 · medios juntados: 4 · con fuente oficial: 28 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 2 · con video: 2 · con foto oficial: 1 · error IA: 9 · descartadas por la IA: 20 · cambiadas de sección: 2 · largas: 5 · ocultas (cortas): 4
-Para Instagram (tendencia 3): Dos youtubers muestran el estado de la tumba de Edith González a siete años de su muerte
-Para Instagram (tendencia 2): Black Friday 2026: cómo no caer en deudas con la tarjeta de crédito
-Para Instagram (tendencia 2): Jennifer Lawrence elige a su mejor beso en el cine y ubica a Chris Pratt en el último lugar
-Para Instagram (tendencia 1): Unibe y la Superintendencia de Seguros lanzan curso sobre ciencias actuariales para no actuarios
-Para Instagram (tendencia 1): Dodgers adquieren a Royce Lewis de los Mellizos por dos jugadores
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 59 · ya cubiertas: 6 · no confiables: 6 · opinión: 0 · con texto leído: 45 · sin texto: 2 · medios juntados: 3 · con fuente oficial: 28 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 11 · descartadas por la IA: 21 · cambiadas de sección: 2 · largas: 7 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Macaulay Culkin prepara nueva secuela de Mi pobre angelito con Seth Rogen
+Para Instagram (tendencia 2): Poder Judicial habilita nueva sala civil en Santo Domingo Este
+Para Instagram (tendencia 2): El dólar cierra al alza en Colombia y supera los $3.500
+Para Instagram (tendencia 2): Tres duelos de Lidom se juegan esta noche en tres ciudades
+Para Instagram (tendencia 1): Familia busca a hombre de 40 años desaparecido en Simón Bolívar
