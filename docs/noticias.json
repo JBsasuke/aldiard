@@ -239,10 +239,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-21T01:50:59.181696+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/04383fbf23.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/04383fbf23-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/04383fbf23-h.jpg",
+  "ig_id": "18132453049887009",
+  "ig_fecha": "2026-11-21T01:54:24.136930+00:00",
+  "historia_fecha": "2026-11-21T01:54:35.415883+00:00"
  },
  {
   "id": "7d19932888",
@@ -314,8 +317,10 @@
   "seccion": "Deportes",
   "fecha": "2026-11-21T01:51:33.442628+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/7e4025c12d.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/7e4025c12d.jpg",
+  "ig_id": "17871938658662546",
+  "ig_fecha": "2026-11-21T01:56:02.993574+00:00"
  },
  {
   "id": "e3aea2b729",
@@ -430,8 +435,10 @@
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-21T01:52:16.882709+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/3cfcf7acd5.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/3cfcf7acd5.jpg",
+  "ig_id": "18103987688065933",
+  "ig_fecha": "2026-11-21T01:57:30.618604+00:00"
  },
  {
   "id": "ebd43158ee",
@@ -1844,8 +1851,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-20T21:15:19.800395+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/708e2a2676.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/708e2a2676.jpg",
+  "ig_id": "17923180644242165",
+  "ig_fecha": "2026-11-21T01:58:57.211504+00:00"
  },
  {
   "id": "0ae1cb30b8",
