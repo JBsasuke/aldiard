@@ -1,4 +1,4 @@
-Corrida: 2026-11-21 01:47 PM (hora RD)
+Corrida: 2026-11-21 02:47 PM (hora RD)
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación prioriza el fortalecimiento de los aprendizajes para elevar la calidad educativa
@@ -10,104 +10,96 @@ Fuente oficial encontrada: DGII
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Asunto: Consulta sobre sustitución de comprobante electrónico E32 por E31 dentro del mismo período fiscal
 [República Dominicana] DGII: texto leído 1368 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/metodologa-de-clculo-del-isr-por-el-agente-nico-de-retencin/6b009a644175d10cffaf0cf7
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Metodología de cálculo del ISR por el agente único de retención
-[República Dominicana] DGII: texto leído 298 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/cobro-de-020-en-transferencias-a-cuentas-propias-a-otra-entidad-financieras/6b019d6e4175d10cffc4352e
-No se pudo leer el artículo; no se publica para no salir corta: Cobro de 0.20% en Transferencias a cuentas propias a otra entidad financieras
-[República Dominicana] De Último Minuto: texto leído 2290 letras -> https://deultimominuto.com/deportes/beisbol/nick-vespi-y-oscar-campos-reforzaran-al-escogido/
-Cambiada de sección: República Dominicana -> Deportes: Nick Vespi y Oscar Campos reforzarán al Escogido
-Revisión: corregida (se cambió "Leones del Escogido anunciaron" por "según informó la gerencia" en el texto para atribuir el anunc
-[República Dominicana] De Último Minuto: texto leído 2111 letras -> https://deultimominuto.com/nacionales/destacan-marca-provincial-mirabal/
-Revisión: corregida (se quitó "en un mundo cada vez más" no presente; se corrigió "Hermanas Mirabal Province" y se ajustó la atrib
-[República Dominicana] De Último Minuto: texto leído 1591 letras -> https://deultimominuto.com/nacionales/sismo-de-4-6-sacude-el-este/
-[República Dominicana] Univision: texto leído 1889 letras -> https://www.univision.com/noticias/linea-de-fuego/sismo-de-magnitud-6-7-sacude-peru-reportan-fuerte-movimiento-en-lima-video
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Sismo de magnitud 4.6 sacude el este del país
-[República Dominicana] De Último Minuto: texto leído 2275 letras -> https://deultimominuto.com/entretenimiento/muere-paolo-bulgari/
-[República Dominicana] El Mundo: texto leído 1968 letras -> https://www.elmundo.es/yodona/moda/2026/11/21/6b01c9b721efa07f188b456d.html
-[República Dominicana] Cadena SER: texto leído 2734 letras -> https://cadenaser.com/nacional/2026/11/21/muere-paolo-bulgari-el-hombre-que-convirtio-la-joyeria-familiar-en-un-simbolo-del-lujo-internacional-cadena-ser/
-Cambiada de sección: República Dominicana -> Famosos: Muere Paolo Bulgari, que llevó la empresa de joyería de la familia a un símbolo del lujo
-Rechazada por la revisión: Muere Paolo Bulgari, que llevó la empresa de joyería de la familia a un símbolo del lujo -> cifras que no aparecen en las fuentes: 37
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es una consulta técnica de un contribuyente a la DGII sobre cómo calcular el ISR de un empleado con dos empleadores, con dos métodos hipotéticos planteados')
+[República Dominicana] DGII: texto leído 847 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-consulta-sobre-la-aplicacin-del-itbis-a-la-adquisicin-de-licencias-de-software-y-suscripciones-tecnolgicas-tras-la-entrada-en-vigor-de-la-ley-nm-3026/6b00a8bc4895ae0f6ed6bee5
+Fuente oficial encontrada: DGII 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia periodística concreta: es una solicitud de consulta tributaria dirigida a la DGII, un documento que plantea una duda interpretativa sobre el tratamiento de')
+[República Dominicana] De Último Minuto: texto leído 2903 letras -> https://deultimominuto.com/nacionales/collado-vuelo-entre-rd-y-dubai/
+Revisión: corregida (se quitó "en entrevista con Último Minuto" porque la fuente no dice que fuera entrevista; se corrigió "se reu
+[República Dominicana] De Último Minuto: texto leído 2270 letras -> https://deultimominuto.com/deportes/beisbol/yankees-dejan-libre-a-luis-gil-el-novato-del-ano-de-2024/
+[República Dominicana] Diario Libre: texto leído 3253 letras -> https://www.diariolibre.com/deportes/beisbol/2026/11/20/yankees-dejan-libre-a-luis-gil-dos-anos-despues-de-ser-novato-del-ano/3727292
+Cambiada de sección: República Dominicana -> Deportes: Yankees dejan libre a Luis Gil, el Novato del Año de 2024
+Revisión: corregida (corregí la cantidad de jugadores sin contrato de 44 a 44 con Gil incluido, según la fuente: Gil forma parte d
+[República Dominicana] De Último Minuto: texto leído 1817 letras -> https://deultimominuto.com/nacionales/david-collado-entrega-isleta/
+Revisión: corregida (se quitó "unveils" del título y "Revamped" por no estar en las fuentes; "Collado said... " se mantuvo; el gan
+[República Dominicana] De Último Minuto: texto leído 4020 letras -> https://deultimominuto.com/nacionales/collado-llama-a-abinader-rio-partido/
+Revisión: corregida (eliminé "Según Abinader" y el orden de atribuciones, corregí la atribución de "sábado" y del anuncio, ajusté 
 [Dominicanos en EE.UU.] ideice.gob.do: texto leído 1135 letras -> https://ideice.gob.do/documentacion/publicaciones-id-p1-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
 Fuente oficial encontrada: ideice.gob.do 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 4722 letras -> https://centralnoticias.gob.do/blacklion-properties-impulsa-el-desarrollo-responsable-y-la-inversion-patrimonial-en-samana/
-Fuente oficial encontrada: centralnoticias.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): BlackLion Properties impulsa el desarrollo responsable y la inversión patrimonial en Samaná
-[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ndtx/pr/federal-jury-convicts-arlington-pastor-6-million-real-estate-and-investment-fraud
-No se pudo leer el artículo; no se publica para no salir corta: Northern District of Texas | Federal jury convicts Arlington pastor in $6 million real estate and investment fraud scheme
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-sdny/pr/dominican-man-extradited-united-states-face-justice-1993-execution-style-double-murder
+No se pudo leer el artículo; no se publica para no salir corta: Dominican Man Extradited To The United States To Face Justice For 1993 Execution-Style Double Murder Of Husband And Wife In The Bronx
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 775 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with UAE Deputy Prime Minister and Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan
 [Dominicanos en EE.UU.] U.S. Embassy & Consulates in Italy (.gov): texto leído 2814 letras -> https://it.usembassy.gov/security-alert-u-s-embassy-rome-italy-november-20-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Colombia (.gov): texto leído 2968 letras -> https://co.usembassy.gov/security-alert-national-strike-and-demonstrations-november-19-2026/
 [Dominicanos en EE.UU.] U.S. Embassy in Ethiopia (.gov): texto leído 1729 letras -> https://et.usembassy.gov/security-alert-u-s-embassy-addis-ababa-ethiopia-november-19-2026/
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Germany (.gov): texto leído 1557 letras -> https://de.usembassy.gov/demonstration-alert-u-s-embassy-berlin-november-19-2026/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy & Consulates in Germany (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta entrada no corresponde a una noticia concreta, sino a cuatro alertas de seguridad consulares publicadas por las embajadas de Estados Unidos en Italia, Colombia, Etiopía y Alemania.')
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
-[Internacionales] The White House (.gov): texto leído 7000 letras -> https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/
-[Internacionales] Senate.gov: texto leído 2976 letras -> https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-votes-to-pass-bipartisan-american-affordability-and-jobs-act/
-Fuente oficial encontrada: The White House (.gov), Senate.gov 
-No encaja en ninguna sección, se salta: WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump’s Desk
+[Dominicanos en EE.UU.] U.S. Embassy in Haiti (.gov): texto leído 812 letras -> https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/
+Fuente oficial encontrada: U.S. Embassy & Consulates in Italy (.gov), U.S. Embassy in Colombia (.gov), U.S. Embassy in Ethiopia (.gov), U.S. Embassy in Haiti (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Rome, Italy – November 20, 2026
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] Diario AS: texto leído 0 letras -> https://as.com/us/tikitakas/quien-es-melissa-nunez-la-representante-de-republica-dominicana-en-miss-universo-2026-f202611-n-2/
+[Dominicanos en EE.UU.] N Digital: texto leído 1717 letras -> https://n.com.do/2026/11/21/melissa-nunez-competencia-trajes-tipicos-miss-universo-2026/
+[Dominicanos en EE.UU.] Listín Diario: texto leído 1846 letras -> https://listindiario.com/entretenimiento/20261121/viviendo-esto-tanta-ilusion-dice-melissa-nunez-miss-universo-rd-rumbo-final_930999.html
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Quién es Melissa Núñez, la representante de República Dominicana en Miss Universo 2026
+Revisión: corregida (se cambió "Núñez expresó su emoción... mientras participa" sin cambios de hechos; se quitó "Diario AS present
+Fuente no confiable, se salta: primicias.net
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 6721 letras -> https://almomento.net/celebran-en-nueva-york-la-noche-de-cultura-dominicana/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El texto que me pasaste está cortado al final (termina en "Explicó que desde el Ministerio de C") y solo contiene una versión de ')
 [Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 [Internacionales] The White House (.gov): texto leído 1569 letras -> https://www.whitehouse.gov/releases/2026/11/national-rural-health-day-president-trump-delivers-largest-rural-health-investment-in-history/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History
+[Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
 Fuente no confiable, se salta: prensamercosur.org
-[Famosos] CDN: texto leído 3152 letras -> https://cdn.com.do/nacionales/salcedo-celebra-el-aporte-cultural-de-la-diaspora-dominicana-en-nueva-york/
-[Famosos] El Nuevo Diario: texto leído 2875 letras -> https://elnuevodiario.com.do/ministerio-de-cultura-celebra-riqueza-la-diaspora-de-nueva-york/
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Roberto Ángel Salcedo celebra riqueza cultural de diáspora en Nueva York
-Revisión: corregida (cambié "2025 y 2026" a "2025-2026" tal como dicen las fuentes; y en el texto en inglés ajusté "Festival Itine
 [Famosos] CDN: texto leído 3108 letras -> https://cdn.com.do/entretenimiento/bulin-47-cumple-un-sueno-de-infancia-al-comprar-un-auto-deportivo/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bulin 47 celebra la compra de un automóvil de lujo: “Un sueño más cumplido”
 [Famosos] CDN: texto leído 2309 letras -> https://cdn.com.do/entretenimiento/gta-vi-genera-us3790-millones-en-sus-primeras-24-horas/
 Cambiada de sección: Famosos -> Videojuegos: GTA VI recauda US$3,790 millones en su primer día
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté "ventas" a "recaudación" por la diferencia entre ingresos y unidades vendid
 Rechazada por la revisión: GTA VI recauda US$3,790 millones en su primer día -> cifras que no aparecen en las fuentes: 252, 29, 379
 [Famosos] CDN: texto leído 2894 letras -> https://cdn.com.do/nacionales/el-doble-sueldo-se-pagara-desde-el-3-de-diciembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Dominicanos se preparan para recibir el doble sueldo y cubrir gastos navideños
+[Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
+No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
 [Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
 Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: ntn24.com
 Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851458?ins=previa&sec=boxscore
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-licey-vs-toros-251474
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Tigres del Licey
+[Deportes] Lidom: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Estrellas Orientales
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/braves/news/equipo-mundial-de-mlb-del-2026
+Revisión: corregida (corregí errores de cifras y atribuciones en el texto español e inglés, eliminé la afirmación de que Contreras
 [Deportes] MLB.com: texto leído 5638 letras -> https://www.mlb.com/news/brady-ebel-matthew-wood-excelling-for-brewers-in-minor-leagues
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión es un artículo de MLB.com sobre prospectos de los Cerveceros de Milwaukee, un tema de béisbol con peloteros de las Grandes Ligas. El texto dice que es un extracto de un boletín (newslette')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Which Brewers prospects could break out in 2027?
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
 [Deportes] MLB.com: texto leído 1605 letras -> https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox
 Rechazada por la revisión: D-backs trade for right-hander Oviedo from Red Sox -> cifras que no aparecen en las fuentes: 2024
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_00AM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no es una noticia. Es el contenido binario de un PDF (un reporte de lesiones de la NBA) que no tiene texto legible, y el único material publicable sería un documento oficia')
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_05_00PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que me pasaste es el contenido bruto de un archivo PDF (con sus objetos, metadatos y datos binarios comprimidos), no el texto de una noticia. El único texto legible es el encabezado: "Injury Report')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 11:00 AM
 [Precios y combustibles] Acento: texto leído 5751 letras -> https://acento.com.do/economia/la-clave-para-liberar-el-valor-de-anthropic-9794275.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): La clave para liberar el valor de Anthropic
+Cambiada de sección: Precios y combustibles -> Internacionales: La clave para liberar el valor de Anthropic
+Revisión: corregida (se quitó la afirmación de que la IA generativa es "el" desplazamiento de valor sin atribución clara, se corri
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: cubanet.org
 Fuente no confiable, se salta: revistamercado.do
+[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/internacional/cuba-limita-libreta-de-alimentos-a-los-mas-vulnerables-9794194.html
+Cambiada de sección: Precios y combustibles -> Internacionales: Cuba limita libreta de alimentos a los más vulnerables
+Rechazada por la revisión: Cuba limita libreta de alimentos a los más vulnerables -> cifras que no aparecen en las fuentes: 12000
+Fuente no confiable, se salta: diariocolatino.com
 Fuente no confiable, se salta: lalupadelsur.com
 [Videojuegos] Nintendo: texto leído 2840 letras -> https://www.nintendo.com/us/whatsnew/get-to-know-fearless-bounty-hunter-samus-aran-with-these-games/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Get to know fearless bounty hunter Samus Aran with these games
-[Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
+[Videojuegos] Nintendo: texto leído 719 letras -> https://ec.nintendo.com/AU/en/aocs/70050000085141
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
-[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/en-ca/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
-[Videojuegos] Nintendo: texto leído 2867 letras -> https://www.nintendo.com/en-gb/Support/Troubleshooting/Battery-replacement/How-to-identify-whether-your-Nintendo-Switch-2-Pro-Controller-contains-a-user-replaceable-battery-3230528.html
-Fuente oficial encontrada: Nintendo 
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió la descripción de los tornillos en la foto del empaque, que no aparece
-Revisión: corregida (se corrigió la descripción de los tornillos en la foto del empaque, que no aparecen en la fuente como "la mis
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Cards Pack 4 / Memory for Kids
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -122,30 +114,37 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiensi…? Vii are you insane?! (Yeh why)
 [Videojuegos] Pokemon.com: texto leído 1220 letras -> https://community.pokemon.com/en-us/discussion/26989/forever-friends-potential-update
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Forever friends potential update
-[Videojuegos] Nintendo: texto leído 179 letras -> https://www.nintendo.com/es-pe/store/products/club-sports-collection-goty-edition-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Club Sports Collection GOTY Edition
-[Videojuegos] Nintendo: texto leído 533 letras -> https://www.nintendo.com/es-mx/store/products/attack-on-titan-3-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Attack on Titan 3 para Nintendo Switch 2
-[Videojuegos] Nintendo: texto leído 1234 letras -> https://www.nintendo.com/es-pe/store/products/eq-plus-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): EQ+ para Nintendo Switch - Sitio Oficial de Nintendo para Peru
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Videojuegos\n\nEl motivo de este descarte: la única versión es un post de un usuario en los foros oficiales de Pokémon, una propuesta personal de cambio para un juego, sin respald')
 [Videojuegos] Nintendo: texto leído 2836 letras -> https://www.nintendo.com/es-pe/store/products/little-genius-spot-the-difference-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
+[Videojuegos] Nintendo: texto leído 2353 letras -> https://www.nintendo.com/es-mx/store/products/street-basketball-prime-edition-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Street Basketball Prime Edition
+[Videojuegos] Nintendo: texto leído 1994 letras -> https://www.nintendo.com/es-pe/store/products/relaywardens-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Relaywardens para Nintendo Switch - Sitio Oficial de Nintendo para Peru
+[Videojuegos] Nintendo: texto leído 2436 letras -> https://www.nintendo.com/es-pe/store/products/i-fell-for-the-florist-a-suspense-romance-adventure-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
 [Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-pe/store/products/reshine-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión no contiene una noticia. Es la ficha de producto de un videojuego publicada en el sitio oficial de Nintendo, con descripción comercial, datos técnicos y advertencias de salud. No hay hech')
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es la página oficial de Nintendo para Perú y describe un producto, no una noticia. Es publicidad de un juego, sin hechos informativos como un suceso, una fecha de anuncio, cifras o reaccio')
+[Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-pe/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
+[Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-cl/store/products/18-in-1-cozy-games-mega-collection-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
 [Videojuegos] Nintendo: texto leído 2724 letras -> https://www.nintendo.com/es-pe/store/products/brain-training-jigsaw-puzzle-world-scenery-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 11 · ya vistas: 80 · ya cubiertas: 17 · no confiables: 8 · opinión: 1 · con texto leído: 49 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 0 · error IA: 5 · descartadas por la IA: 29 · cambiadas de sección: 4 · largas: 4 · ocultas (cortas): 4
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 81 · ya cubiertas: 17 · no confiables: 9 · opinión: 1 · con texto leído: 49 · sin texto: 3 · medios juntados: 3 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 0 · error IA: 5 · descartadas por la IA: 29 · cambiadas de sección: 5 · largas: 7 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Melissa Núñez vive con emoción su paso por Miss Universo 2026
 Para Instagram (tendencia 3): Rafael Nadal entra a la Junta Directiva del Real Madrid con aprobación de los socios
 Para Instagram (tendencia 3): México captura a "Chapo Isidro", uno de los 10 fugitivos más buscados por el FBI
 Para Instagram (tendencia 2): Atallah lleva salud y medicamentos gratuitos a Nagua con jornada de dos días
 Para Instagram (tendencia 2): Día Nacional del Merengue tendrá gala de homenaje en el Teatro Nacional
-Para Instagram (tendencia 2): Nueva York celebra la cultura dominicana de la diáspora con encuentro del Ministerio de Cultura
