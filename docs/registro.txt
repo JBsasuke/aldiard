@@ -1,111 +1,90 @@
-Corrida: 2026-11-21 08:25 PM (hora RD)
+Corrida: 2026-11-21 09:47 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 6807 letras -> https://presidencia.gob.do/noticias/ganaderos-reconocen-los-aportes-del-presidente-luis-abinader-al-desarrollo-del-sector-y
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé "Abinader pledged... " no; cambié "en su discurso" por "según el mandatario", quité "Afirmó que" a "d
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación prioriza el fortalecimiento de los aprendizajes para elevar la calidad educativa
-[República Dominicana] MIREX | Ministerio de Relaciones Exteriores: texto leído 3359 letras -> https://mirex.gob.do/sala-de-prensa/page/20/
-Fuente oficial encontrada: MIREX | Ministerio de Relaciones Exteriores 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Sala de Prensa Archives - Página 20 de 20 - MIREX | Ministerio de Relaciones Exteriores
 [República Dominicana] Jardín Botánico Nacional Dr. Rafael M. Moscoso: texto leído 2466 letras -> https://www.jbn.gob.do/
 Fuente oficial encontrada: Jardín Botánico Nacional Dr. Rafael M. Moscoso 
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión no es una noticia: es la portada de la web del Jardín Botánico Nacional, con titulares y fragmentos de varias notas. Según las reglas, eso corresponde a CONFIABLE: no.\n\nCONFIABLE: no')
-[República Dominicana] Hospital Pediatrico Dr. Hugo Mendoza: texto leído 0 letras -> https://hospitalhugomendoza.gob.do/mision-vision-y-valores/?print=pdf
-No se pudo leer el artículo; no se publica para no salir corta: Mision, Vision y Valores
+Error IA: ValueError('respuesta sin el formato esperado: Esta versión es la página de inicio del sitio del Jardín Botánico Nacional, con titulares y extractos de noticias. No describe un hecho concreto con detalles suficientes para redactar una noticia: sol')
 [República Dominicana] Hospital Luis Bogaert: texto leído 1296 letras -> https://hospitalluisbogaert.gob.do/
 Fuente oficial encontrada: Hospital Luis Bogaert 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Inicio - Hospital Regional Luis Bogaert
-[República Dominicana] centralnoticias.gob.do: texto leído 1506 letras -> https://centralnoticias.gob.do/tres-helicopteros-militares-de-el-salvador-vuelven-a-aterrizar-en-jimani-en-medio-de-operaciones-en-haiti/
-[República Dominicana] Diario Libre: texto leído 3298 letras -> https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: Diario Libre
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "Tampoco" y "así" de relleno en español; "Tampoco se reportó la presencia"
-Revisión: corregida (eliminé "Tampoco" y "así" de relleno en español; "Tampoco se reportó la presencia" ya no tenía antecedente ne
-[República Dominicana] DGII: texto leído 310 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/exportacion-de-consulta-de-encf/6b01d2d14895ae0f6eef4938
-No se pudo leer el artículo; no se publica para no salir corta: EXPORTACION DE CONSULTA DE E-NCF
-[República Dominicana] De Último Minuto: texto leído 2492 letras -> https://deultimominuto.com/nacionales/fallece-periodista-rafael-polanco/
-[República Dominicana] El Nacional — La voz de todos: texto leído 1015 letras -> https://elnacional.com.do/nacionales/muere-periodista-rafael-polanco_586868.html
-Revisión: corregida (quité "Durante casi 20 años" → se mantiene; ajusté "en el área de Comunicaciones" a "Comunicaciones", corregí
-[República Dominicana] De Último Minuto: texto leído 3701 letras -> https://deultimominuto.com/deportes/beisbol/venezuela-le-gana-a-republica-dominicana-en-continuacion-de-campeonato-panamericano-sub-12/
-[República Dominicana] El Nacional — La voz de todos: texto leído 3431 letras -> https://elnacional.com.do/deportes/venezuela-supera-republica-dominicana-campeonato-panamericano-beisbol-sub-12_586858_amp.html
-Cambiada de sección: República Dominicana -> Deportes: Venezuela le gana a República Dominicana en continuación de Campeonato Panamericano Sub-12
-Revisión: corregida (corregí "Campeonato Panamericano" a "Campeonato Panamericano de Béisbol Sub-12" en el título para coincidir c
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Mexico (.gov): texto leído 1721 letras -> https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Mexico (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: Ongoing Security Operations & Violence in Ahome, Guamúchil, Guasave, Navolato – U.S. Consulate General Hermosillo (November 21)
-Revisión: corregida (se ajustó "Operativos y violencia" a "Operativos de seguridad" no; se cambió la frase "Las autoridades locale
+[República Dominicana] Senado de la República Dominicana: texto leído 296 letras -> https://memoriahistorica.senadord.gob.do/items/8fd0aafb-a8f6-4128-bf6f-bec4395af11e
+No se pudo leer el artículo; no se publica para no salir corta: Memoria institucional 2018: Administradora de Subsidios Sociales (ADESS)
+[República Dominicana] Senado de la República Dominicana: texto leído 261 letras -> https://memoriahistorica.senadord.gob.do/items/d54bdc4a-9441-4880-b613-0b281c1f8af3
+No se pudo leer el artículo; no se publica para no salir corta: Memoria anual 2019: Superintendencia de Seguros
+[República Dominicana] De Último Minuto: texto leído 1560 letras -> https://deultimominuto.com/nacionales/equipo-de-tony-pena-se-integra/
+[República Dominicana] El Nuevo Diario: texto leído 3328 letras -> https://elnuevodiario.com.do/tony-pena-guaba-integra-su-estructura-politica-en-samana-al-proyecto-presidencial-de-david-collado/
+Revisión: corregida (se atribuyó a Tony Peña la afirmación de que la integración "responde a un proceso de conversaciones" con otr
+[República Dominicana] De Último Minuto: texto leído 2140 letras -> https://deultimominuto.com/nacionales/parque-jose-nunez-de-caceres/
+Revisión: corregida (agregué "Mayor" en el título EN y "parks" → "10 parks" en KEYS_EN; cambié "Santo Domingo's Distrito Nacional"
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
-Fuente no confiable, se salta: primicias.net
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3642 letras -> https://elnacional.com.do/mundo/juez-federal-niega-libertad-dominicano-baleado-agentes-ice-nueva-york_586811.html
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El material que me pasas es una única versión (El Nacional, con contenido de AP y EFE) y no hay una fuente oficial. Además, el te')
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 6579 letras -> https://elnuevodiario.com.do/bodegueros-unidos-de-nueva-york-firma-su-primer-acuerdo-inmobiliario-para-el-cibao-y-la-region-norte-de-rd/
-Revisión: corregida (eliminé atribuciones no respaldadas: "la asociación investiga la seriedad" se ajustó a lo que dijo Rodríguez;
+Fuente no confiable, se salta: ultimasnoticias.com.do
 [Dominicanos en EE.UU.] El Dia.com.do: texto leído 1953 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-viernes-20-de-noviembre/
 [Dominicanos en EE.UU.] Univision: texto leído 3014 letras -> https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-20-noviembre-2026
 [Dominicanos en EE.UU.] Diario AS: texto leído 3745 letras -> https://as.com/us/actualidad/resultados-mega-millions-hoy-numeros-ganadores-del-20-de-noviembre-y-premios-del-sorteo-f202611-n/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del viernes 20 de noviembre
-Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: 2001online.com
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 2360 letras -> https://almomento.net/eu-ice-arresta-dominicano-cumplio-condena-por-agresion/
+Revisión: corregida (corregí "de Massachusetts"→ "en Massachusetts" en el gancho/CLAVES/IMPORTA para mantener el tono; atribuí la 
 Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: impactomedia.com
 Fuente no confiable, se salta: asturiasmundial.com
-Fuente no confiable, se salta: asturiasmundial.com
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: ultimasnoticias.com.do
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 3642 letras -> https://elnacional.com.do/mundo/juez-federal-niega-libertad-dominicano-baleado-agentes-ice-nueva-york_586811.html
+Revisión: corregida (se eliminó la atribución "según el fallo" que no aparece en la fuente con esa forma, se corrigió "el juez dij
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto es un comunicado oficial de la Casa Blanca que describe los resultados que el gobierno atribuye a la gira del presidente Trump por Filipinas y China. No se trata de una noticia')
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como está planteada. El material que me pasas es una única fuente oficial (The White House, sitio .gov) y los textos son transcripciones de declaraci')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un comunicado de la Casa Blanca (The White House, .gov) que recoge un briefing de prensa con declaraciones del presidente Trump. Es una nota de prensa de la propia admini')
 [Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
 Fuente no confiable, se salta: instagram.com
-[Famosos] Diario Libre: texto leído 4224 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/20/cuatro-de-cada-10-hombres-ejercen-violencia-en-el-pais/3727104
-Cambiada de sección: Famosos -> República Dominicana: Cuatro de cada diez hombres admiten haber ejercido violencia en el último año
-Revisión: corregida (se corrigió "subió/bajó" de la cifra de posgrado al sentido correcto y se ajustó "se convocó" a la fuente; se
-Fuente no confiable, se salta: midiario.com
-[Famosos] Diario Libre: texto leído 1715 letras -> https://www.diariolibre.com/revista/cultura/2026/11/21/fallece-lucia-castillo-destacada-actriz-y-maestra-del-teatro/3727523
-Cambiada de sección: Famosos -> República Dominicana: Fallece Lucía Castillo, recientemente galardonada con el Premio Nacional de las Artes Escénicas 2026
-Revisión: corregida (se corrigió "recibió el Premio" a "había sido reconocida recientemente con el Premio" en el texto y el titula
-[Famosos] Diario Libre: texto leído 5682 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/20/senador-omar-fernandez-defiende-deportaciones/3727245
-Cambiada de sección: Famosos -> República Dominicana: Omar Fernández defiende deportaciones ante legisladores de red conservadora internacional
-Revisión: corregida (se atribuyó a Diario Libre la información de la conferencia y la cita de la embajadora; se corrigió "dijo" a 
+[Famosos] Diario Libre: texto leído 1945 letras -> https://www.diariolibre.com/revista/cultura/2026/11/21/desfile-de-trajes-tipicos-miss-universo-en-san-juan/3727867
+Revisión: corregida (cambié "más de cien candidatas" por "más de un centenar de países" en el gancho y el título no cambió; ajusté
+[Famosos] CDN: texto leído 2278 letras -> https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/
+[Famosos] EFE - Agencia de noticias: texto leído 1216 letras -> https://efe.com/economia/renuncia-directora-general-gigante-comercio-electronico-ruso-wildberries/
+[Famosos] Noticias SIN: texto leído 1477 letras -> https://noticiassin.com/mundo/europa/2026/11/21/tatiana-kim-deja-wildberries-tras-sanciones-de-la-ue-y-ataques-ucranianos-2174441/?amp=1
+Cambiada de sección: Famosos -> Internacionales: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se cambió "Ataques de drones ucranianos... 1.200" a 1.200 es ambiguo; las fuentes 
+Rechazada por la revisión: Renuncia directora general del gigante de comercio electrónico ruso Wildberries -> cifras que no aparecen en las fuentes: 12, 59
+Fuente no confiable, se salta: prensamercosur.org
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
 [Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
-Fuente no confiable, se salta: ntn24.com
 Es opinión o editorial, se salta: Niní Cáffaro, aniversario de una leyenda
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-gigantes/2026/11/21/851502/live
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones vs. Gigantes, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-tigres/2026/11/21/851458/live
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Toros contra los Tigres el 21/11/2026 gratis
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872052/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Mayaguez contra los Ponce el 21/11/2026 gratis
-[Deportes] MLB.com: texto leído 2243 letras -> https://www.mlb.com/es/video/lidom-live-toros-vs-licey-251486
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851429?ins=previa&sec=boxscore
-[Deportes] El Nacional — La voz de todos: texto leído 4863 letras -> https://elnacional.com.do/deportes/tigres-licey-amarran-cuernos-toros_586809.html
-Revisión: corregida (eliminé "Los azules batearon de 16-7" en español y su equivalente; corregí "Los Tigres hit .457" que no está 
-[Deportes] MLB.com: texto leído 300 letras -> https://www.mlb.com/es/video/dermot-fritsch-s-solo-home-run
-No se pudo leer el artículo; no se publica para no salir corta: Dermot Fritsch's solo home run
+Fuente no confiable, se salta: elperiodico.com.do
+[Famosos] Noticias SIN: texto leído 3401 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/21/myke-towers-rauw-alejandro-y-nicki-nicole-lideran-estrenos-latinos-2174491/?amp=1
+[Famosos] ElHeraldo.hn: texto leído 3216 letras -> https://www.elheraldo.hn/entretenimiento/estrenos-musica-latina-myke-towers-rauw-alejandro-nicki-nicole-estopa-BG32708485
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Myke Towers, Rauw Alejandro y Nicki Nicole lideran los estrenos musicales de la semana
+[Deportes] Lidom: texto leído 1374 letras -> https://lidom.com/estrellas-orientales/robinson-cano-mantiene-intacto-su-deseo-de-ganar-un-campeonato-101033.html
+Revisión: corregida (quité "Antes había agradecido el cariño" → se mantiene; ajusté "dentro como fuera del terreno" a "fuera del t
+[Deportes] MLB.com: texto leído 353 letras -> https://www.mlb.com/es/video/marcell-ozuna-amplia-ventaja-con-jonron
+No se pudo leer el artículo; no se publica para no salir corta: Marcell Ozuna amplía ventaja con jonrón
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/carolina-vs-caguas/2026/11/21/872051/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina 5, Caguas 6 Resultado Final (21/11/2026)
+[Deportes] MLB.com: texto leído 335 letras -> https://www.mlb.com/es/video/albert-abreu-poncha-a-cinco-en-solida-labor
+No se pudo leer el artículo; no se publica para no salir corta: Albert Abreu poncha a cinco en sólida labor
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 970 letras -> https://www.micm.gob.do/transparencia/finanzas/reporte-de-inventario-en-almacen/category/agosto-131
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-Fuente no confiable, se salta: bloomberglinea.com
+[Deportes] MLB.com: texto leído 1605 letras -> https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox
+Rechazada por la revisión: D-backs trade for right-hander Oviedo from Red Sox -> cifras que no aparecen en las fuentes: 2024
+Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: identidadcorrentina.com.ar
-Es opinión o editorial, se salta: OPINION: Parada abrupta del financiamiento externo (2)
+Fuente no confiable, se salta: bloomberglinea.com
 Fuente no confiable, se salta: asturiasmundial.com
+Es opinión o editorial, se salta: OPINION: Parada abrupta del financiamiento externo (2)
 Fuente no confiable, se salta: ntelemicro.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/polideportivo/rd-empieza-con-una-victoria-ante-argentina-en-el-panam-u12/
-No se pudo leer el artículo; no se publica para no salir corta: RD empieza con una victoria ante Argentina en el Panam U12
-[Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
-[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/en-ca/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -141,10 +120,10 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
 Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-16 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 83 · ya cubiertas: 15 · no confiables: 14 · opinión: 2 · con texto leído: 42 · sin texto: 8 · medios juntados: 5 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 24 · cambiadas de sección: 5 · largas: 9 · ocultas (cortas): 7
-Para Instagram (tendencia 3): Tigres del Licey vencen 8-4 a Toros del Este en La Romana
-Para Instagram (tendencia 2): Cuatro de cada diez hombres admiten violencia en el último año, según estudio del Ministerio de la Mujer
-Para Instagram (tendencia 2): Fallece el periodista Rafael Polanco tras ser ingresado en la UCI
-Para Instagram (tendencia 2): Venezuela vence 9-6 a República Dominicana en el Panamericano Sub-12
-Para Instagram (tendencia 2): Trump anuncia que su Gobierno no permitirá centros de datos de empresas estadounidenses en el extranjero
+12 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 93 · ya cubiertas: 18 · no confiables: 16 · opinión: 2 · con texto leído: 38 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 19 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 20 · cambiadas de sección: 1 · largas: 7 · ocultas (cortas): 5
+Para Instagram (tendencia 2): Equipo de Tony Peña en Samaná se suma al proyecto presidencial de David Collado
+Para Instagram (tendencia 2): Tres helicópteros salvadoreños vuelven a aterrizar en la fortaleza El Rodeo de Jimaní
+Para Instagram (tendencia 2): Juez federal mantiene detenido a dominicano baleado por agentes del ICE en Nueva York
+Para Instagram (tendencia 2): Juez niega liberación a dominicano baleado por agente del ICE en el Bronx
+Para Instagram (tendencia 2): Yankees dejan libre a Luis Gil, Novato del Año de 2024
