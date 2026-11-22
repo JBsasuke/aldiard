@@ -1,6 +1,4 @@
-Corrida: 2026-11-22 04:06 AM (hora RD)
-[República Dominicana] Senado de la República Dominicana: texto leído 296 letras -> https://memoriahistorica.senadord.gob.do/items/fd2882fa-0a32-4a3a-84a3-8b4538bcbdd8
-No se pudo leer el artículo; no se publica para no salir corta: Memoria institucional 2015: Administradora de Subsidios Sociales (ADESS)
+Corrida: 2026-11-22 04:47 AM (hora RD)
 [República Dominicana] DGII: texto leído 1996 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-gastos-menores-dietas-y-viticos-rechazados-como-gastos-deducibles-inconsistencia-ir2/6b01b3333a9daeeaea39c4ef
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre gastos menores, dietas y viáticos rechazados como gastos deducibles – Inconsistencia IR-2
@@ -8,22 +6,22 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Urbanda agradece acogida en La Peñita Vol. 3 y promete regresar con nueva música
 [República Dominicana] De Último Minuto: texto leído 1607 letras -> https://deultimominuto.com/nacionales/angel-de-la-cruz-integracion/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ángel de la Cruz: integración de Tony Peña en Samaná forma parte de recorrido nacional en apoyo a Collado
+[República Dominicana] De Último Minuto: texto leído 850 letras -> https://deultimominuto.com/tv/intrant-le-devuelve-al-estado-la-base-de-datos-y-las-licencias-de-conducir/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar la noticia con la información que me has pasado. La única versión incluida (De Último Minuto) contiene solo el titular y un texto de navegación del sitio, sin ningún ')
 [República Dominicana] De Último Minuto: texto leído 1563 letras -> https://deultimominuto.com/entretenimiento/melissa-nunez-15/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Melissa Núñez eleva la dominicanidad en su presentación de traje típico
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/tag/monumento-a-los-heroes-de-la-restauracion/
-No se pudo leer el artículo; no se publica para no salir corta: Monumento a los Héroes de la Restauración archivos
-[República Dominicana] Acento: texto leído 3770 letras -> https://acento.com.do/actualidad/reportan-conflicto-entre-taxistas-y-uber-en-puerto-plata-que-dice-la-norma-y-por-que-persiste-la-disputa-9794424.html
-Revisión: corregida (eliminé relleno, atribuí a Puerto Plata Digital la versión de los insultos y amenazas, y dejé "mujer" tal com
-[República Dominicana] Acento: texto leído 1988 letras -> https://acento.com.do/cultura/republica-dominicana-presente-por-segunda-vez-en-la-feria-del-libro-de-guadalajara-mexico-9794331.html
-Cambiada de sección: República Dominicana -> Internacionales: República Dominicana presente por segunda vez en la Feria del Libro de Guadalajara, México
-Revisión: corregida (se corrigió "segunda Feria del Libro más importante del mundo" no aplica al borrador; se ajustó "Universidad 
 [República Dominicana] Acento: texto leído 6170 letras -> https://acento.com.do/actualidad/asecom-juramenta-su-nueva-directiva-encabezada-por-el-periodista-abraham-marmolejos-9794473.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ASECOM juramenta su nueva directiva encabezada por el periodista Abraham Marmolejos
+[República Dominicana] Acento: texto leído 5369 letras -> https://acento.com.do/cultura/premio-nacional-de-literatura-9792761.html
+[República Dominicana] Ministerio del Poder Popular para la Cultura: texto leído 1765 letras -> https://www.mincultura.gob.ve/noticias/bautizado-libro-sagrado-de-tu-ausencia-ganador-del-premio-nacional-de-literatura-stefania-mosca-2025/
+Fuente oficial encontrada: Ministerio del Poder Popular para la Cultura | para completar: Acento
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Premio Nacional de Literatura
+Es opinión o editorial, se salta: Machismo animal vs. hombre
+Es opinión o editorial, se salta: De nuevo sobre el Light Steel Frame
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
-Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: prensamercosur.org
@@ -33,19 +31,21 @@ Fuente no confiable, se salta: asturiasmundial.com
 Fuente no confiable, se salta: primicias.net
 [Internacionales] The White House (.gov): texto leído 3473 letras -> https://www.whitehouse.gov/videos/president-trump-hosts-a-news-conference/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es la página de navegación del sitio oficial de la Casa Blanca, con menús, enlaces y un título de video (“President Trump Hosts a News Conference”, fechado el 20 de noviembre')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto corresponde a la página de video de la Casa Blanca, con el título "President Trump Hosts a News Conference" y una fecha, pero no contiene el contenido de la rueda de prensa n')
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: La versión proporcionada es una transcripción de una rueda de prensa de la Casa Blanca con declaraciones de Trump, y las otras versiones están truncadas o no se incluyeron compl')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una transcripción de una rueda de prensa de la Casa Blanca, con declaraciones del presidente en su mayoría, y está incompleto. Además, las versiones que se inc')
 Fuente no confiable, se salta: instagram.com
+Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: midiario.com
 [Famosos] CDN: texto leído 2278 letras -> https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/
 [Famosos] EFE - Agencia de noticias: texto leído 1216 letras -> https://efe.com/economia/2026-11-21/renuncia-directora-general-gigante-comercio-electronico-ruso-wildberries/
 [Famosos] Noticias SIN: texto leído 1477 letras -> https://noticiassin.com/mundo/europa/2026/11/21/tatiana-kim-deja-wildberries-tras-sanciones-de-la-ue-y-ataques-ucranianos-2174441/?amp=1
 Cambiada de sección: Famosos -> Internacionales: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió "1.200 y 5.900 millones" a "1.200 y 5.900"? No: se mantuvo la cifra de
 Rechazada por la revisión: Renuncia directora general del gigante de comercio electrónico ruso Wildberries -> cifras que no aparecen en las fuentes: 12, 59
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
@@ -56,23 +56,20 @@ Fuente no confiable, se salta: elperiodico.com.do
 [Famosos] ElHeraldo.hn: texto leído 3216 letras -> https://www.elheraldo.hn/entretenimiento/estrenos-musica-latina-myke-towers-rauw-alejandro-nicki-nicole-estopa-BG32708485
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Myke Towers, Rauw Alejandro y Nicki Nicole lideran los estrenos musicales de la semana
 Fuente no confiable, se salta: eljaya.com
+[Famosos] HOLA: texto leído 4974 letras -> https://www.hola.com/viajes/20261122936204/alberto-san-juan-pueblo-cuenca-canamares/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que has pegado está incompleto: la versión 1 de HOLA se corta a mitad de la descripción del paisaje de Cañamares, y no contiene el resto del artículo ni las demás versiones qu')
 [Famosos] HOLA: texto leído 7000 letras -> https://www.hola.com/decoracion/20261121936032/duquesa-alba-casa-familiar-palacio-liria-anyos-60/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así era la casa familiar de la duquesa de Alba, el Palacio de Liria más íntimo de los años 60: salones coloridos, juegos infantiles y un árbol de Navidad hasta el techo
-[Famosos] HOLA: texto leído 5325 letras -> https://www.hola.com/horoscopo/geminis/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Géminis hoy: predicción y características del signo
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
+[Deportes] NBA.com: texto leído 3691 letras -> https://www.nba.com/news/victor-wembanyama-finds-another-first-with-a-2nd-50-15-5-stat-line
+Revisión: corregida (cambié "en un estadio lleno" por "en un partido con entradas agotadas", quité "en apenas" y "lo hizo", correg
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 04:15 PM
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que recibí es el contenido binario en bruto de un archivo PDF (encabezados, objetos, flujos comprimidos e imágenes codificadas), no una noticia legible. El único dato identific')
 [Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/kia-mvp-ladder-nov-20-2026
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Kia MVP Ladder: Giannis Antetokounmpo charges into Top 3 as scorching Heat streak on
 [Deportes] NBA.com: texto leído 1555 letras -> https://www.nba.com/news/innovation-by-injury-finger-blister-forces-victor-wembanyama-into-debuting-the-shunk
-Rechazada por la revisión: Innovation by injury: Finger blister forces Victor Wembanyama into debuting the 'shunk' -> cifras que no aparecen en las fuentes: 224
-[Deportes] NBA.com: texto leído 2669 letras -> https://www.nba.com/mavs/news/dallas-mavericks-name-ryan-tanke-chief-operating-officer
-Revisión: corregida (se corrigió "2018 a 2025" por "Tanke llegó a Houston en 2025" —las fuentes dicen "27 temporadas" con Timberwo
-Fuente no confiable, se salta: utahjazz.com
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_06_30PM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/20/26 06:30 PM
+Revisión: corregida (eliminé "por lo que la decisión... llamó la atención" y "en lo que va de temporada" se mantuvo; ajusté "pívot
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 970 letras -> https://www.micm.gob.do/transparencia/finanzas/reporte-de-inventario-en-almacen/category/agosto-131
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
@@ -81,12 +78,12 @@ Fuente no confiable, se salta: asturiasmundial.com
 Fuente no confiable, se salta: ntelemicro.com
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: hch.tv
-[Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
+[Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
-[Videojuegos] Nintendo: texto leído 2314 letras -> https://www.nintendo.com/us/store/products/rebirth-blossom-the-spirit-chronicles-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
+[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/en-ca/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Rebirth Blossom - The Spirit Chronicles
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -102,9 +99,6 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiens
 [Videojuegos] Pokemon.com: texto leído 1220 letras -> https://community.pokemon.com/en-us/discussion/26989/forever-friends-potential-update
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Forever friends potential update
-[Videojuegos] Pokemon.com: texto leído 1306 letras -> https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night
-Fuente oficial encontrada: Pokemon.com 
-Revisión: corregida (se eliminó la afirmación de "30 años" del Pokémon TCG en el gancho y el texto como dato no sustentado por la 
 [Videojuegos] Nintendo: texto leído 2436 letras -> https://www.nintendo.com/es-pe/store/products/i-fell-for-the-florist-a-suspense-romance-adventure-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
@@ -123,5 +117,5 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-6 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 129 · ya cubiertas: 15 · no confiables: 18 · opinión: 0 · con texto leído: 40 · sin texto: 2 · medios juntados: 0 · con fuente oficial: 19 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 1 · error IA: 2 · descartadas por la IA: 29 · cambiadas de sección: 2 · largas: 4 · ocultas (cortas): 2
+2 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 128 · ya cubiertas: 13 · no confiables: 18 · opinión: 2 · con texto leído: 39 · sin texto: 0 · medios juntados: 0 · con fuente oficial: 19 · aprobadas por la revisión: 0 · corregidas por la revisión: 2 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 0 · error IA: 5 · descartadas por la IA: 27 · cambiadas de sección: 1 · largas: 2 · ocultas (cortas): 0
