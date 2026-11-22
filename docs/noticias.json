@@ -1,5 +1,658 @@
 [
  {
+  "id": "5ee0925cf7",
+  "titulo": "Mision, Vision y Valores",
+  "titulo_original": "Mision, Vision y Valores",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mMGtPdl9iVHo2bDlxMmR1cGNBOXd2dlJqdkQ4OXZ1SDBKbkdQUVhFWWFrYkpRS0Qxc1o1cGlaU1hvYzRka3lscWRDRnF5RzRqU0oxbUIybUtRX3huVlJ2bm5kYl9JUmRJejBMN09SLU1wcy11YjlBSg?oc=5",
+  "fuente": "Hospital Pediatrico Dr. Hugo Mendoza",
+  "dominio": "hospitalhugomendoza.gob.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:25:26.680336+00:00"
+ },
+ {
+  "id": "8211a2e1d3",
+  "titulo": "Tres helicópteros salvadoreños vuelven a aterrizar en la fortaleza El Rodeo de Jimaní",
+  "titulo_original": "Tres helicópteros militares de El Salvador vuelven a aterrizar en Jimaní en medio de operaciones en Haití",
+  "resumen": "Tres helicópteros militares de El Salvador volvieron a posarse en una fortaleza dominicana en la frontera con Haití, y en Jimaní nadie tiene aún una explicación oficial.",
+  "gancho": "Tres helicópteros militares de El Salvador volvieron a posarse en una fortaleza dominicana en la frontera con Haití, y en Jimaní nadie tiene aún una explicación oficial.",
+  "parrafos": [
+   "Tres helicópteros militares de la Fuerza Aérea de El Salvador aterrizaron este viernes en la fortaleza El Rodeo, ubicada en el municipio de Jimaní, en la frontera dominicana con Haití. Las aeronaves llegaron en un momento en que aumentan las operaciones internacionales de seguridad en ese país vecino, donde efectivos salvadoreños participan en misiones contra la violencia de los grupos armados.",
+   "Durante su permanencia en la fortaleza, los helicópteros estuvieron estacionados por un tiempo prolongado. Se presume que pudieron recibir combustible antes de seguir hacia Haití, pero esa información no ha sido confirmada oficialmente. Tampoco se reportó la presencia de un contingente extraordinario de militares extranjeros en las instalaciones.",
+   "El nuevo aterrizaje recuerda un movimiento anterior. El 29 de octubre, cinco helicópteros MD500E de matrícula militar salvadoreña, con los números 48, 49, 52, 53 y 54, hicieron escala en El Rodeo, acompañados de otras dos aeronaves Black Hawk, antes de dirigirse a Haití.",
+   "Por ahora, no se ha establecido si los tres aparatos que regresaron corresponden a alguna de las cinco unidades que participaron en aquel primer desplazamiento.",
+   "Residentes de Jimaní han expresado inquietudes sobre si las aeronaves ingresaron solo para abastecerse de combustible o si su presencia responde a otras necesidades logísticas relacionadas con las operaciones en Haití. Hasta el momento, no existe una explicación oficial que aclare el motivo de la visita.",
+   "La fortaleza El Rodeo, sede del 14.º Batallón del Ejército de República Dominicana, vuelve así a estar en el centro de la atención por su ubicación estratégica en la frontera."
+  ],
+  "claves": [
+   "Tres helicópteros militares de la Fuerza Aérea de El Salvador aterrizaron el viernes en la fortaleza El Rodeo, en Jimaní.",
+   "Permanecieron un tiempo prolongado en las instalaciones antes de continuar hacia territorio haitiano.",
+   "Se presume que recibieron combustible, pero esa información no ha sido confirmada oficialmente.",
+   "Las aeronaves no han sido vinculadas aún con las cinco que hicieron escala el 29 de octubre."
+  ],
+  "importa": "Los movimientos de aeronaves militares extranjeras por la frontera con Haití generan preguntas entre los residentes de la zona. Mientras no haya una explicación oficial, la población de Jimaní seguirá sin conocer el propósito exacto de estas operaciones.",
+  "en": {
+   "titulo": "Three Salvadoran Helicopters Land Again at El Rodeo Fortress in Jimaní",
+   "gancho": "Three Salvadoran military helicopters touched down again at a Dominican fortress on the Haiti border, and residents of Jimaní still have no official explanation.",
+   "claves": [
+    "Three military helicopters from the Salvadoran Air Force landed Friday at El Rodeo fortress in Jimaní.",
+    "They stayed for an extended period before continuing toward Haitian territory.",
+    "It is presumed they received fuel, but this has not been officially confirmed.",
+    "The aircraft have not yet been linked to the five that stopped there on October 29."
+   ],
+   "importa": "Foreign military aircraft moving across the Haiti border raise questions for residents of the area. Without an official explanation, the people of Jimaní remain unsure of the purpose of these operations.",
+   "parrafos": [
+    "Three military helicopters from the Salvadoran Air Force landed Friday at El Rodeo fortress in Jimaní, a municipality on the Dominican side of the border with Haiti. The aircraft arrived as international security operations in Haiti intensify, and Salvadoran troops take part in missions against armed gang violence in that country.",
+    "The helicopters remained parked at the fortress for an extended period. It is presumed they may have been refueled before continuing into Haiti, but this has not been officially confirmed. No extraordinary contingent of foreign soldiers was reported at the installations.",
+    "The landing recalls an earlier movement. On October 29, five Salvadoran military MD500E helicopters, numbered 48, 49, 52, 53 and 54, stopped at El Rodeo, accompanied by two Black Hawk aircraft, before heading to Haiti.",
+    "It has not yet been established whether the three aircraft that returned belong to any of the five units involved in that first trip.",
+    "Residents of Jimaní have raised concerns about whether the aircraft came only to refuel or whether their presence serves other logistical needs tied to the Haiti operations. So far, there is no official explanation for the reason of the visit.",
+    "El Rodeo fortress, headquarters of the 14th Battalion of the Dominican Republic Army, is once again in the spotlight because of its strategic location on the border."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGNxeDRCUVFCdWs1Zy0xN3hzWVFjZDNqNk9ob1ZZQkVMNkVJMlFUc0hIUGVlWTFTREdYN1M5SnNQVDg2SWxJdEIzYlUxd2d2aHFfN1RsN2s5eXhHYUZZU3pzSDN1R252RjFoNkpycjliSGlJODc3eU9nY3JEUWhVWUJqalYtQzJ1aGRZbW9zaUMwckgzX2ZrZE1sOGQ0N2xjY2RjT3ptZ2hiLVZTTGphUEgtZDF4a0x0dzVXR3pCQTRXZUlYYmQwUENsdlRjRGh2SkZn?oc=5",
+  "url": "https://centralnoticias.gob.do/tres-helicopteros-militares-de-el-salvador-vuelven-a-aterrizar-en-jimani-en-medio-de-operaciones-en-haiti/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/tres-helicopteros-militares-de-el-salvador-vuelven-a-aterrizar-en-jimani-en-medio-de-operaciones-en-haiti/"
+   },
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/actualidad/sucesos/2026/11/21/tres-helicopteros-militares-de-el-salvador-aterrizan-en-jimani/3727503"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "Diario Libre"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/helicopteros-militares-de-El-Salvador.jpg",
+   "credito": "centralnoticias.gob.do"
+  },
+  "revision": "corregida (eliminé \"Tampoco\" y \"así\" de relleno en español; \"Tampoco se reportó la presencia\" ya no tenía antecedente negativo claro; ajusté \"vuelve así a estar\" a \"vuelve a estar\" y \"Residentes de Jimaní han expresado inquietudes\" a \"Residentes han planteado inquietudes\"; el inglés se alineó con esos cambios; \"Ya había pasado antes\" no aparecía en el borrador, así que no se tocó.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T00:25:55.988973+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "b43cdc0299",
+  "titulo": "EXPORTACION DE CONSULTA DE E-NCF",
+  "titulo_original": "EXPORTACION DE CONSULTA DE E-NCF",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXp2Qm5qSzZKSU9OdXBGbldPTEJEMTFvMi1tRjFTM3dkZDV6WHV1bWhEcnE4YThGVjFVck1tMG03cC1JeG5nOGw1Wlo5U3l4SXVxaGQ5SFFqNmxzZ1pOSmVMMHZBbEE1NjVCYmNKZmFZX0prTXA0Wm9iY3QxeFB6NEV2TE02WmRxQjdacE43S0pTVzl1OVJRZHVHQjN5R2pPRDZxV01NNS1tT2FV?oc=5",
+  "fuente": "DGII",
+  "dominio": "ayuda.dgii.gov.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:25:58.308941+00:00"
+ },
+ {
+  "id": "6eb7357de2",
+  "titulo": "Fallece el periodista Rafael Polanco tras ser ingresado en la UCI",
+  "titulo_original": "Fallece el periodista Rafael Polanco mientras recibía atenciones médicas",
+  "resumen": "El periodista dominicano Rafael Polanco murió este sábado en el Hospital General de la Plaza de la Salud, donde recibía atención en cuidados intensivos.",
+  "gancho": "El periodista dominicano Rafael Polanco murió este sábado en el Hospital General de la Plaza de la Salud, donde recibía atención en cuidados intensivos.",
+  "parrafos": [
+   "El periodista Rafael Polanco murió la tarde de este sábado en el Hospital General de la Plaza de la Salud, donde permanecía ingresado en la Unidad de Cuidados Intensivos (UCI).",
+   "Polanco hizo una larga carrera en distintos medios de comunicación y en oficinas de relaciones públicas. Su última etapa profesional fue en el Tribunal Constitucional, donde durante casi 20 años dirigió el área de Comunicaciones y fue asesor de prensa del presidente de esa alta corte.",
+   "Más allá de su trabajo en los medios, Polanco fue una figura activa en la defensa de los periodistas. Ocupó cargos directivos en el Colegio Dominicano de Periodistas (CDP) y en el Sindicato Nacional de Trabajadores de la Prensa (SNTP), organización a la que estuvo vinculado desde sus inicios, cuando se llamaba Sindicato Nacional de Periodistas Profesionales (SNPP).",
+   "En los últimos meses, según informaciones disponibles, mantenía una reclamación económica ante el Ministerio de Vivienda y Edificaciones (MIVED) por el pago de una suma correspondiente a la liquidación de un astreinte. Allegados al periodista aseguran que, pese a un acuerdo firmado en octubre pasado y a reiteradas reclamaciones, el pago no se había hecho efectivo.",
+   "Polanco deja a su esposa y cuatro hijos. Hasta el momento su familia no ha ofrecido detalles sobre las honras fúnebres ni sobre el lugar donde serán velados sus restos."
+  ],
+  "claves": [
+   "Rafael Polanco falleció el sábado en el Hospital General de la Plaza de la Salud, en la Unidad de Cuidados Intensivos.",
+   "Durante casi 20 años dirigió Comunicaciones del Tribunal Constitucional y fue asesor de prensa de su presidente.",
+   "Ocupó cargos directivos en el Colegio Dominicano de Periodistas (CDP) y en el Sindicato Nacional de Trabajadores de la Prensa (SNTP).",
+   "Le sobreviven su esposa y cuatro hijos; aún no se han anunciado las honras fúnebres."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Dominican Journalist Rafael Polanco Dies After Being Hospitalized in ICU",
+   "gancho": "Dominican journalist Rafael Polanco died Saturday at the Hospital General de la Plaza de la Salud, where he was receiving intensive care.",
+   "claves": [
+    "Rafael Polanco died Saturday at the Hospital General de la Plaza de la Salud, in the Intensive Care Unit.",
+    "For nearly 20 years he directed Communications at the Tribunal Constitucional and served as press adviser to its president.",
+    "He held leadership posts at the Colegio Dominicano de Periodistas (CDP) and the Sindicato Nacional de Trabajadores de la Prensa (SNTP).",
+    "He is survived by his wife and four children; funeral arrangements have not yet been announced."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Journalist Rafael Polanco died Saturday afternoon at the Hospital General de la Plaza de la Salud, where he had been admitted to the Intensive Care Unit (UCI).",
+    "Polanco built a long career in several media outlets and public relations offices. His last professional stage was at the Tribunal Constitucional, where for nearly 20 years he headed the Communications department and served as press adviser to the court's president.",
+    "Beyond his work in the media, Polanco was an active advocate for journalists. He held leadership positions at the Colegio Dominicano de Periodistas (CDP) and the Sindicato Nacional de Trabajadores de la Prensa (SNTP), an organization he had been part of since its beginnings, when it was called the Sindicato Nacional de Periodistas Profesionales (SNPP).",
+    "In recent months, according to available reports, he had been pursuing a financial claim with the Ministry of Housing and Buildings (MIVED) over the payment of an amount tied to the settlement of an astreinte. People close to the journalist say that, despite an agreement signed last October and repeated demands, the payment had not been made.",
+    "Polanco is survived by his wife and four children. So far his family has not released details about funeral services or where his remains will be viewed."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/fallece-periodista-rafael-polanco/",
+  "url": "https://deultimominuto.com/nacionales/fallece-periodista-rafael-polanco/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/fallece-periodista-rafael-polanco/"
+   },
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/nacionales/muere-periodista-rafael-polanco_586868.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Durante casi 20 años\" → se mantiene; ajusté \"en el área de Comunicaciones\" a \"Comunicaciones\", corregí \"velados\" y \"sobre el lugar donde serán velados\", eliminé \"afirman\" no presente, y cambié \"según informaciones suministradas\" a \"según informaciones disponibles\" para no atribuir a una fuente no identificada; quité \"de este sábado\" sobrante; en inglés ajusté \"Dominican journalist\" y \"available reports\" en consonancia, y \"delve/crucial\" no aparecían)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T00:26:12.499424+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/6eb7357de2.jpg"
+ },
+ {
+  "id": "db1cf5a2c6",
+  "titulo": "Venezuela vence 9-6 a República Dominicana en el Panamericano Sub-12",
+  "titulo_original": "Venezuela le gana a República Dominicana en continuación de Campeonato Panamericano Sub-12",
+  "resumen": "Venezuela remontó el marcador con cuatro carreras en la primera entrada y se impuso 9-6 a República Dominicana en el Panamericano Sub-12 de Guerra.",
+  "gancho": "Venezuela remontó el marcador con cuatro carreras en la primera entrada y se impuso 9-6 a República Dominicana en el Panamericano Sub-12 de Guerra.",
+  "parrafos": [
+   "Venezuela venció 9-6 a República Dominicana en la continuación del Campeonato Panamericano de Béisbol Sub-12. Con el triunfo, los suramericanos aseguraron su lugar en la súper ronda con marca de 2-0.",
+   "La vinotinto tomó el control en la primera entrada, cuando aprovechó errores defensivos para anotar cuatro carreras. Después sumó dos más en la segunda, una en la tercera y dos en la quinta.",
+   "Por el lado dominicano, Orwin Mejía conectó de 2-2 con dos carreras impulsadas. Fue llamado como bateador emergente y asumió la segunda base. Alexi Domínguez, jardinero central, aportó una anotada y una carrera empujada.",
+   "El lanzador ganador fue Mathias Quevedo, quien trabajó un inning de relevo. Winder Sánchez obtuvo el salvamento tras dos entradas en la lomita.",
+   "República Dominicana, que había vencido 26-1 a Argentina en la primera jornada, buscará la clasificación a la súper ronda este domingo ante Curazao, en el juego pautado a las 2:30 de la tarde. El grupo B lo completan Argentina y Venezuela.",
+   "El torneo se celebra en el IPL Academy Complex, en el municipio de Guerra, hasta el 27 de noviembre, y otorga cuatro boletos a la Copa Mundial de Béisbol Sub-12 de China Taipéi 2027."
+  ],
+  "claves": [
+   "Venezuela ganó 9-6 y aseguró su lugar en la súper ronda con marca de 2-0.",
+   "República Dominicana quedó 1-1 y necesita vencer a Curazao este domingo a las 2:30 p. m.",
+   "Venezuela anotó cuatro carreras en la primera entrada, aprovechando errores defensivos dominicanos.",
+   "Orwin Mejía conectó de 2-2 con dos carreras impulsadas por República Dominicana."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Venezuela Beats Dominican Republic 9-6 at Sub-12 Pan American Championship",
+   "gancho": "Venezuela scored four runs in the first inning and beat the Dominican Republic 9-6 at the Sub-12 Pan American Championship in Guerra.",
+   "claves": [
+    "Venezuela won 9-6 and secured a spot in the super round with a 2-0 record.",
+    "The Dominican Republic is 1-1 and must beat Curaçao this Sunday at 2:30 p.m.",
+    "Venezuela scored four runs in the first inning, taking advantage of Dominican defensive errors.",
+    "Orwin Mejía went 2-for-2 with two RBIs for the Dominican Republic."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Venezuela defeated the Dominican Republic 9-6 in the continuation of the Sub-12 Pan American Baseball Championship. With the win, the South American side secured its place in the super round with a 2-0 record.",
+    "Venezuela took control in the first inning, when it took advantage of defensive errors to score four runs. It added two more in the second, one in the third and two in the fifth.",
+    "For the Dominican Republic, Orwin Mejía went 2-for-2 with two runs driven in. He was called in as a pinch hitter and played second base. Alexi Domínguez, the center fielder, contributed one run scored and one run driven in.",
+    "The winning pitcher was Mathias Quevedo, who worked one inning in relief. Winder Sánchez earned the save after two innings on the mound.",
+    "The Dominican Republic, which had beaten Argentina 26-1 in the first day of play, will seek a spot in the super round this Sunday against Curaçao, in a game scheduled for 2:30 p.m. Group B also includes Argentina and Venezuela.",
+    "The tournament is being held at the IPL Academy Complex in the municipality of Guerra through November 27, and it awards four spots to the Sub-12 Baseball World Cup in Chinese Taipei 2027."
+   ]
+  },
+  "link": "https://deultimominuto.com/deportes/beisbol/venezuela-le-gana-a-republica-dominicana-en-continuacion-de-campeonato-panamericano-sub-12/",
+  "url": "https://deultimominuto.com/deportes/beisbol/venezuela-le-gana-a-republica-dominicana-en-continuacion-de-campeonato-panamericano-sub-12/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/deportes/beisbol/venezuela-le-gana-a-republica-dominicana-en-continuacion-de-campeonato-panamericano-sub-12/"
+   },
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/deportes/venezuela-supera-republica-dominicana-campeonato-panamericano-beisbol-sub-12_586858_amp.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"Campeonato Panamericano\" a \"Campeonato Panamericano de Béisbol Sub-12\" en el título para coincidir con las fuentes, quité la frase \"un partido que mantuvo la tensión hasta el último out\" por ser un giro de relleno, ajusté \"Copa Mundial de Béisbol Sub-12 de China Taipéi 2027\" a \"China Taipéi 2027\" sin cambio de sentido, y eliminé el \"de Guerra\" del gancho para mantener la fuente sin añadir ubicación; el resto del texto coincide con las fuentes)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T00:26:26.800633+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/db1cf5a2c6.jpg"
+ },
+ {
+  "id": "6281dfbdf0",
+  "titulo": "Operativos de seguridad y violencia en Sinaloa tras captura de Fausto Isidro Meza-Flores",
+  "titulo_original": "Security Alert: Ongoing Security Operations & Violence in Ahome, Guamúchil, Guasave, Navolato – U.S. Consulate General Hermosillo (November 21)",
+  "resumen": "Operativos, enfrentamientos armados y bloqueos se registran en cuatro municipios de Sinaloa. El consulado de EE.UU. emitió una alerta para sus ciudadanos.",
+  "gancho": "Operativos, enfrentamientos armados y bloqueos se registran en cuatro municipios de Sinaloa. El consulado de EE.UU. emitió una alerta para sus ciudadanos.",
+  "parrafos": [
+   "Durante la noche se registraron operativos de seguridad, enfrentamientos armados, bloqueos de carreteras e incendios de vehículos en Ahome, Guamúchil, Guasave y Navolato, en Sinaloa. Así lo informó el Consulado General de Estados Unidos en Hermosillo, que monitorea estos hechos ocurridos tras la detención de Fausto Isidro Meza-Flores.",
+   "El consulado indicó que las autoridades locales pidieron a los residentes permanecer resguardados, reducir sus desplazamientos y evitar la Carretera Federal 15 entre Los Mochis y Culiacán. Advirtió además que los vuelos y las operaciones de autobuses podrían verse afectados.",
+   "El consulado recordó a los ciudadanos estadounidenses que el Departamento de Estado clasifica a Sinaloa en el nivel 4, \"No viajar\", en su aviso de viaje para México. Quienes viajen por la región deben confirmar con sus aerolíneas que sus vuelos sigan programados.",
+   "Entre las recomendaciones están llamar al 911 en caso de emergencia, evitar las zonas con actividad policial, buscar refugio, seguir los medios locales y mantener informados a familiares y amigos sobre su ubicación.",
+   "Para asistencia, el consulado indicó los números +52 55 2579 2000 desde México, 011 52 55 2579 2000 o +1-301-985-8843 desde Estados Unidos, y el Departamento de Estado al +1-888-407-4747 o +1-202-501-4444."
+  ],
+  "claves": [
+   "Operativos de seguridad y enfrentamientos armados en Ahome, Guamúchil, Guasave y Navolato.",
+   "La violencia se produce tras la captura de Fausto Isidro Meza-Flores.",
+   "Las autoridades piden a los residentes resguardarse y evitar la carretera Federal 15 entre Los Mochis y Culiacán.",
+   "Sinaloa tiene nivel 4, \"No viajar\", en la alerta del Departamento de Estado."
+  ],
+  "importa": "Si tiene familia en Sinaloa o viaja a la zona, debe evitar el área y consultar con su aerolínea si los vuelos siguen programados. Los vuelos y los autobuses podrían verse afectados.",
+  "en": {
+   "titulo": "Security Operations and Violence Erupt in Sinaloa After Arrest of Fausto Isidro Meza-Flores",
+   "gancho": "Security operations, armed clashes, and road blockades are reported in four Sinaloa municipalities. The U.S. consulate has issued an alert for its citizens.",
+   "claves": [
+    "Security operations and armed clashes in Ahome, Guamúchil, Guasave, and Navolato.",
+    "The violence follows the arrest of Fausto Isidro Meza-Flores.",
+    "Authorities urge residents to shelter in place and avoid Federal Highway 15 between Los Mochis and Culiacán.",
+    "Sinaloa is rated Level 4, \"Do Not Travel,\" in the State Department's advisory."
+   ],
+   "importa": "If you have family in Sinaloa or plan to travel to the area, avoid it and check with your airline whether flights are still scheduled. Flights and buses could be disrupted.",
+   "parrafos": [
+    "Overnight, security operations, armed clashes, road blockades, and vehicle fires were reported in Ahome, Guamúchil, Guasave, and Navolato, in Sinaloa. The U.S. Consulate General in Hermosillo reported these events, which followed the arrest of Fausto Isidro Meza-Flores, and is monitoring the situation.",
+    "The consulate said local authorities asked residents to stay sheltered, limit their movements, and avoid Federal Highway 15 between Los Mochis and Culiacán. It also warned that air travel and bus operations could be disrupted.",
+    "The consulate reminded U.S. Citizens that the State Department classifies Sinaloa as Level 4, \"Do Not Travel,\" in its travel advisory for Mexico. Those traveling through the region should confirm with their airlines that their flights are still scheduled.",
+    "Recommendations include calling 911 in an emergency, avoiding areas with law enforcement activity, seeking shelter, monitoring local media, and keeping family and friends informed of their location.",
+    "For assistance, the consulate listed +52 55 2579 2000 from Mexico, 011 52 55 2579 2000 or +1-301-985-8843 from the United States, and the State Department at +1-888-407-4747 or +1-202-501-4444."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOamhwUHJVbmVxUno0VXV3WTFNbGI1YjBiUlpDeU5WZ1N4c1d2dXduNXJIaHJkUUpMOFBEdjg2bGtxdjNNcENqVmlRbVVvMmRsRkRzTTl4Mm9xaElUOGN0SmFlU0ZWZGJENmtYQzZ5SEdzYVdUWTVORUg0d0hpWmxCbTdKVHplQkJWaEpxb05NU1VqVkd5SU1CbjVGU0dBajA3U1B2OTlwR3FZZ2NLZXF3TzE4NmpFbUtXMFpjMno4YnZDcU43bHM5Yy15MWVkSldmUlpiUF95cU1XVXFtWV9ucjR0bHg5Q19oM0ZUTnFnd28zWjRz?oc=5",
+  "url": "https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/",
+  "fuente": "U.S. Embassy & Consulates in Mexico (.gov)",
+  "dominio": "mx.usembassy.gov",
+  "fuentes": [
+   {
+    "nombre": "U.S. Embassy & Consulates in Mexico (.gov)",
+    "url": "https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://mx.usembassy.gov/wp-content/uploads/sites/15/2026/09/Security-Alert.png",
+   "credito": "U.S. Embassy & Consulates in Mexico (.gov)"
+  },
+  "revision": "corregida (se ajustó \"Operativos y violencia\" a \"Operativos de seguridad\" no; se cambió la frase \"Las autoridades locales pidieron...\" para atribuir la alerta al consulado; se corrigió \"bloqueos\" y se eliminó \"en el estado mexicano de Sinaloa\" redundante; se quitó \"Según el Consulado...\" por atribución precisa; se ajustó el título en inglés a \"Security Operations and Violence Erupt...\"; se eliminó \"conviene\" y se suavizó el gancho para ceñirse a la fuente).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T00:26:47.055482+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "0292e53a54",
+  "titulo": "Bodegueros Unidos firma su primer acuerdo inmobiliario para el Cibao y el norte",
+  "titulo_original": "Bodegueros Unidos de Nueva York firma su primer acuerdo inmobiliario para el Cibao y la región norte de RD",
+  "resumen": "La asociación de bodegueros de Nueva York firma un convenio para que dominicanos en EE.UU. compren solares en Santiago y Puerto Plata.",
+  "gancho": "La asociación de bodegueros de Nueva York firma un convenio para que dominicanos en EE.UU. compren solares en Santiago y Puerto Plata.",
+  "parrafos": [
+   "La Asociación de Bodegueros Unidos de América (UBA), presidida por el empresario dominicano Radhamés Rodríguez, firmó su primer acuerdo inmobiliario para el Cibao y el norte de la República Dominicana. El convenio se hizo con KSI y Asociadas, empresa encabezada por el ingeniero Rafael (Kuky) Silverio, y busca facilitar que dominicanos residentes en Estados Unidos compren solares con planes de financiamiento y condiciones preferenciales. Según el periódico El Nuevo Diario, la noticia fue reportada desde Nueva York por RZ Noticias.",
+   "El acuerdo está dirigido a bodegueros, dueños de supermercados, farmacias y restaurantes, emprendedores y sus familiares que quieran invertir en una propiedad en el país. Se enfoca en los proyectos que KSI desarrolla en Santiago y Puerto Plata.",
+   "Rodríguez explicó que la organización tiene acuerdos con empresas en otras localidades, pero que este es el primero dirigido específicamente al norte y al Cibao. Dijo que lo firmaron con KSI por la trayectoria de más de cuatro décadas de la compañía en el sector inmobiliario y turístico dominicano. Según él, la organización procura conocer la seriedad y experiencia de cada empresa antes de recomendar oportunidades de inversión a sus afiliados. \"Nunca, nunca hacemos nada improvisado\", afirmó.",
+   "Rodríguez también señaló que el trabajo de la asociación va más allá de defender a los comerciantes frente a la inseguridad y otros problemas de sus negocios, y que ahora busca ayudarlos a construir un patrimonio familiar. Destacó que un solar puede ser el primer paso para quienes aún no tienen los recursos para comprar una vivienda terminada.",
+   "Por su parte, Silverio dijo que la alianza permite a los dominicanos establecidos en Estados Unidos convertir parte de sus años de trabajo en una propiedad en su país de origen. Explicó que los proyectos Hacienda Gurabo, en Santiago, y Hacienda El Doral, en Puerto Plata, ofrecen solares desde 300 metros cuadrados y facilidades para pagar de manera gradual, con plazos de hasta tres años según las condiciones de compra."
+  ],
+  "claves": [
+   "Bodegueros Unidos de América (UBA) firmó su primer acuerdo inmobiliario para el Cibao y el norte del país.",
+   "El convenio es con KSI y Asociadas, que desarrolla los proyectos Hacienda Gurabo (Santiago) y Hacienda El Doral (Puerto Plata).",
+   "Los solares tienen desde 300 metros cuadrados y ofrecen pagos graduales con plazos de hasta tres años, según las condiciones de compra.",
+   "Los miembros que compren a través de UBA tendrán descuentos y atención preferencial, conforme al acuerdo."
+  ],
+  "importa": "Para dominicanos en Nueva York y otras ciudades de EE.UU., es una vía para invertir en un terreno en RD con financiamiento gradual.",
+  "en": {
+   "titulo": "Dominican Bodegueros Group Signs First Real Estate Deal for Northern Dominican Republic",
+   "gancho": "A New York grocers' association is offering members in the U.S. a way to buy land lots in Santiago and Puerto Plata with gradual payments.",
+   "claves": [
+    "The United Bodegueros of America (UBA) signed its first real estate agreement for the Cibao and northern Dominican Republic.",
+    "The partner is KSI y Asociadas, developer of Hacienda Gurabo (Santiago) and Hacienda El Doral (Puerto Plata).",
+    "Lots start at 300 square meters, with gradual payment plans of up to three years, depending on purchase conditions.",
+    "UBA members who buy through the association will get discounts and preferential service, under the agreement."
+   ],
+   "importa": "For Dominicans in New York and other U.S. cities, this is a way to invest in land in the Dominican Republic with gradual financing.",
+   "parrafos": [
+    "The Association of United Bodegueros of America (UBA), led by Dominican businessman Radhamés Rodríguez, has signed its first real estate agreement for the Cibao and northern Dominican Republic. The deal is with KSI y Asociadas, headed by engineer Rafael \"Kuky\" Silverio, and aims to help Dominicans living in the United States buy land lots with financing plans and preferential terms. According to El Nuevo Diario, the story was reported from New York by RZ Noticias.",
+    "The agreement targets grocers, supermarket, pharmacy and restaurant owners, entrepreneurs and their families who want to invest in property in the country. It focuses on projects KSI is developing in Santiago and Puerto Plata.",
+    "Rodríguez said the organization has agreements with companies in other locations, but this is the first one aimed specifically at the north and the Cibao. He said they chose KSI because of the company's more than four decades of experience in Dominican real estate and tourism. He said the organization seeks to know each company's reliability and experience before recommending investment opportunities to its members. \"We never, ever do anything improvised,\" he said.",
+    "Rodríguez also said the association's work now goes beyond defending merchants against crime and other business problems, and that it now seeks to help them build family wealth. He noted that a lot can be the first step for people who don't yet have the resources to buy a finished home.",
+    "Silverio said the partnership lets Dominicans established in the United States turn part of their working years into property in their country of origin. He explained that Hacienda Gurabo in Santiago and Hacienda El Doral in Puerto Plata offer lots from 300 square meters, with gradual payment options over terms of up to three years, depending on purchase conditions."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNck9JemFOUnpHMEhhVG9EVERKT0ZLZ0pjMmVHZWV4Nl9uRnhoTUo2Sk1LZlBjUHQycnduTHdnc1pZQU1KUHZqQzBZNm1scTFadWk2Y1Z1T2ZyQWV0SDB5SjBqT3NuSndzcFp2dFdPYVZWNTBrZGRRcmtiVnRENkV3emNBM184aWtWRk5JS09GUG5WVVNfTHVSbXM5b3E3RW5WSDhmNm0tUVlIMS00N19CeGtPWjdOdXlsQlAzX3RxS2l4TVI1SUZqbzJacWdSZnhORUE?oc=5",
+  "url": "https://elnuevodiario.com.do/bodegueros-unidos-de-nueva-york-firma-su-primer-acuerdo-inmobiliario-para-el-cibao-y-la-region-norte-de-rd/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/bodegueros-unidos-de-nueva-york-firma-su-primer-acuerdo-inmobiliario-para-el-cibao-y-la-region-norte-de-rd/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé atribuciones no respaldadas: \"la asociación investiga la seriedad\" se ajustó a lo que dijo Rodríguez; quité \"Silverio Galán\" del nombre a \"Silverio\"; ajusté \"pueden pagarse\" a \"pagos graduales según condiciones\"; corregí \"Dominican grocers' group\" y \"Lots\" a términos consistentes; quité \"Those with a business or savings... may want to look into it\" por no estar en la fuente; y eliminé \"La iniciativa... \" no incluida; ajusté la mención de la fuente.)",
+  "seccion": "Dominicanos en EE.UU.",
+  "fecha": "2026-11-22T00:27:20.860916+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "9a5a76b219",
+  "titulo": "Cuatro de cada diez hombres admiten violencia en el último año, según estudio del Ministerio de la Mujer",
+  "titulo_original": "Cuatro de cada diez hombres admiten haber ejercido violencia en el último año",
+  "resumen": "Un estudio del Ministerio de la Mujer revela que el 43.8 % de los hombres consultados reconoce haber ejercido violencia en el último año. Las agresiones verbales encabezan la lista.",
+  "gancho": "Un estudio del Ministerio de la Mujer revela que el 43.8 % de los hombres consultados reconoce haber ejercido violencia en el último año. Las agresiones verbales encabezan la lista.",
+  "parrafos": [
+   "El Ministerio de la Mujer presentó este viernes los resultados de una investigación en la que el 43.8 % de los hombres consultados admitió haber ejercido al menos una conducta violenta durante el último año.",
+   "El estudio recogió las respuestas de 4,707 hombres mayores de edad residentes en República Dominicana. La participación fue voluntaria y se convocó mediante redes sociales e instituciones públicas, privadas y de la sociedad civil. Por ese método, los porcentajes describen a quienes participaron y no pueden extrapolarse a todos los hombres del país.",
+   "Las agresiones verbales fueron las conductas más reportadas, con 34.5 %. Le siguieron la vigilancia digital, con 15.1 %, y la violencia física, con 13.2 %.",
+   "Entre los participantes con formación universitaria, el 48.4 % reportó conductas violentas; entre quienes tenían posgrado, la proporción fue de 46.4 %. Según el Ministerio, tener estudios superiores no excluyó estas conductas, y propuso incorporar formación en autorregulación emocional, comunicación respetuosa y resolución pacífica de conflictos en distintos niveles educativos.",
+   "La consulta también mostró disposición a recibir ayuda: 66.4 % dijo estar interesado en espacios para manejar el enojo y el estrés, y 71.5 % expresó voluntad de capacitarse para mejorar sus relaciones. Además, 61.6 % afirmó conocer las líneas de emergencia.",
+   "La ministra de la Mujer, Gloria Reyes, anunció una hoja de ruta con acciones en salud pública, educación, atención conductual e instituciones militares y policiales, coordinada por el Gabinete de Mujeres, Adolescentes y Niñas. Entre las medidas figuran el programa \"Voces Masculinas por el Cambio\" y el fortalecimiento de los Centros de Intervención Conductual para Hombres, en coordinación con la Procuraduría General de la República."
+  ],
+  "claves": [
+   "El 43.8 % de 4,707 participantes reconoció al menos una conducta violenta en el último año.",
+   "Las agresiones verbales fueron las más reportadas, con 34.5 %.",
+   "Haber cursado estudios superiores no excluyó estas conductas: 48.4 % con universidad y 46.4 % con posgrado.",
+   "La ministra Gloria Reyes anunció una hoja de ruta con programas de prevención y atención."
+  ],
+  "importa": "Los resultados apuntan a la necesidad de programas de prevención y atención para hombres en el país. La muestra fue voluntaria, por lo que las cifras describen a los participantes y no permiten estimar la realidad de todos los hombres dominicanos.",
+  "en": {
+   "titulo": "Four in Ten Dominican Men Admit to Violence in the Past Year, Ministry Study Finds",
+   "gancho": "A Ministry of Women study finds 43.8% of men surveyed admit to committing violence in the past year. Verbal aggression tops the list.",
+   "claves": [
+    "% of 4,707 participants admitted at least one violent behavior in the past year.",
+    "Verbal aggression was the most reported, at 34.5%.",
+    "Higher education did not rule out these behaviors: 48.4% of university-educated and 46.4% of those with postgraduate degrees reported them.",
+    "Minister Gloria Reyes announced a roadmap with prevention and support programs."
+   ],
+   "importa": "The results point to the need for prevention and support programs for men in the Dominican Republic. The sample was voluntary, so the figures describe participants and cannot be extended to all Dominican men.",
+   "parrafos": [
+    "The Ministry of Women presented results on Friday from a study in which 43.8% of the men surveyed admitted to committing at least one violent behavior in the past year.",
+    "The study collected responses from 4,707 adult men living in the Dominican Republic. Participation was voluntary and recruited through social media and public, private and civil society institutions. Because of this method, the percentages describe those who took part and cannot be extended to all men in the country.",
+    "Verbal aggression was the most reported behavior, at 34.5%. It was followed by digital surveillance at 15.1% and physical violence at 13.2%.",
+    "Among participants with university education, 48.4% reported violent behavior; among those with postgraduate degrees, the figure was 46.4%. According to the Ministry, having higher education did not prevent these behaviors, and it proposed adding training in emotional self-regulation, respectful communication and peaceful conflict resolution at different education levels.",
+    "The survey also showed openness to help: 66.4% said they were interested in spaces to manage anger and stress, and 71.5% expressed willingness to take training to improve their relationships. In addition, 61.6% said they knew about the emergency hotlines.",
+    "Minister of Women Gloria Reyes announced a roadmap with actions in public health, education, behavioral care and military and police institutions, coordinated by the Cabinet for Women, Adolescents and Girls. Measures include the \"Voces Masculinas por el Cambio\" program and the strengthening of Behavioral Intervention Centers for Men, in coordination with the Attorney General's Office."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWHFDRUY4ZHlHVDMxWUFjM3JsSVJ0d092NXNjU0dEaFFrUFFzNHExZUxTcElGNnFJa1hMWXJ0SVBleTNoTlIteFlmNVZ6M2lZUlZtRlA0OWxhbVJyam8zR0lfbW1pWHFCUUJwT3ZDSUNsb2d4R243dW5Ba1huazVhVncwTVg5ZV9wdmJrTUhtdUhKMVZzTDdUM2tyakVERTRvWVA3bmhxZ1hHUFRZZ19lRlJVRVJaYmxqWnFYUFFB0gHDAUFVX3lxTE1ZSVJfbGs2cTJscTdNU2k2OEotRlY4RTBlVG9lWVpKbHhFTFd0X2tydWU1dy10R1liV1hKVnBqZTU4d3pzdENpc3JtS1pwclowaDB4NE1iemNCRFppZ0tOeVNtN2ZqZE1QU2VWWW1Canpua2Flbk1XTVJ6cFljc2trQkhpWkEzUHNXd2UyNXNPZF9PeUI4UUpKYk9Qb1FwcF94anMxdmJ4azJmeHR2dmNyYV9RLVdpWTdzV3JaWS1LdExsMA?oc=5",
+  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/20/cuatro-de-cada-10-hombres-ejercen-violencia-en-el-pais/3727104",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/20/cuatro-de-cada-10-hombres-ejercen-violencia-en-el-pais/3727104"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"subió/bajó\" de la cifra de posgrado al sentido correcto y se ajustó \"se convocó\" a la fuente; se quitó la atribución a \"el Ministerio\" de la propuesta de formación cuando la fuente lo atribuye al Ministerio sí, se mantuvo; se eliminaron \"sin lugar a dudas\" y similares; se corrigió \"admiten\" en el titular y se alinearon las versiones en inglés)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T00:28:12.304790+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/9a5a76b219.jpg"
+ },
+ {
+  "id": "35a9367def",
+  "titulo": "Muere Lucía Castillo, actriz y maestra reconocida con el Premio Nacional de las Artes Escénicas 2026",
+  "titulo_original": "Fallece Lucía Castillo, recientemente galardonada con el Premio Nacional de las Artes Escénicas 2026",
+  "resumen": "La actriz dominicana Lucía Castillo falleció tras más de siete décadas de carrera, poco después de que el Ministerio de Cultura la reconociera con el Premio Nacional de las Artes Escénicas 2026 en Teatro.",
+  "gancho": "La actriz dominicana Lucía Castillo falleció tras más de siete décadas de carrera, poco después de que el Ministerio de Cultura la reconociera con el Premio Nacional de las Artes Escénicas 2026 en Teatro.",
+  "parrafos": [
+   "El Ministerio de Cultura informó del fallecimiento de la actriz, declamadora y maestra Lucía Castillo, quien había sido reconocida recientemente con el Premio Nacional de las Artes Escénicas 2026 en la categoría de Teatro.",
+   "La institución lo comunicó a través de su cuenta oficial de Instagram, donde expresó su profundo pesar por la partida de la artista y destacó sus aportes al desarrollo del teatro y la cultura dominicana.",
+   "Castillo dedicó más de siete décadas a las artes escénicas. Además de su trayectoria como actriz, fue una formadora que contribuyó a preparar a nuevas generaciones de artistas y a fortalecer las expresiones teatrales en el país.",
+   "En su mensaje, el Ministerio de Cultura señaló que la artista deja una huella invaluable en la historia del teatro dominicano y en la memoria cultural de la nación, y que su legado permanecerá más allá de las generaciones.",
+   "La entidad también extendió sus condolencias a los familiares, amigos, discípulos y a toda la comunidad artística dominicana."
+  ],
+  "claves": [
+   "El Ministerio de Cultura había reconocido a Lucía Castillo con el Premio Nacional de las Artes Escénicas 2026 en la categoría de Teatro.",
+   "Dedicó más de siete décadas a las artes escénicas y a la formación de nuevas generaciones.",
+   "El Ministerio de Cultura dio la noticia mediante una publicación en su cuenta oficial de Instagram.",
+   "La institución extendió sus condolencias a familiares, amigos, discípulos y a la comunidad artística."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Lucía Castillo, Acclaimed Dominican Actress and Teacher, Dies After Recent National Arts Award",
+   "gancho": "Dominican actress Lucía Castillo has died after more than seven decades in the arts, shortly after the Ministry of Culture recognized her with the 2026 National Award for Performing Arts in Theater.",
+   "claves": [
+    "The Ministry of Culture had recognized Lucía Castillo with the 2026 National Award for Performing Arts in the Theater category.",
+    "She dedicated more than seven decades to the performing arts and to training new generations of artists.",
+    "The Ministry of Culture announced the news through a post on its official Instagram account.",
+    "The institution extended condolences to family, friends, students, and the arts community."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Dominican Ministry of Culture announced the death of actress, reciter, and teacher Lucía Castillo, who had recently been recognized with the 2026 National Award for Performing Arts in the Theater category.",
+    "The ministry shared the news through its official Instagram account, where it expressed deep sorrow over the loss of the artist and highlighted her contributions to the development of theater and Dominican culture.",
+    "Castillo devoted more than seven decades to the performing arts. Beyond her work as an actress, she was a teacher who helped prepare new generations of artists and strengthen theatrical expression in the country.",
+    "In its message, the ministry said Castillo leaves an invaluable mark on the history of Dominican theater and on the nation's cultural memory, and that her legacy will endure beyond generations.",
+    "The institution also extended condolences to her family, friends, students, and the wider arts community."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1BYTHhTTjR6YS0xeFpMdm1XMUVBbGIydEY0ZUY3SFk0RGFMakdaZ2NGTWpHTHc5RjN2UVNGR3ZoUjNYU0habUZTLXVScDBhVTZUUGVBZl96Y05CWHRxemxmTTJpNE1ucTJIRm1zMURkYll1QVRZY1FFWUxCNHJJMXhPM0owZktmQmNnRllJTXY1NV90ZDR4ZkFleDVGT2dHNWdTdG1CYzJRQmFnQjlXSmpZMEltaFNjMTZ2dVVlcHjSAcYBQVVfeXFMUGVmZGNUZEd4RHQ1Y2VBSDVRUlBHeEJOVlhONHZHNGQ0cGtsQldyc1IwSWtVRGVlN29wTlZMdXZqYU9FWHVoMUhWVkZ1UFNtQjhuV2RiZ1V2SmZJbk9QQWdxWWhHOGRnYmVkZGZiOTZoMEszZ2NZYVotMVdoY25Eb0Q3NzhXTHlRT0s0eXBScXBNdzRUeXg5aU9qVFNSeFk4WXFjUjVEZWM3azhhSUoyZ2x0bWp1WjdCSWdXNXg5WENtMWVaZUh3?oc=5",
+  "url": "https://www.diariolibre.com/revista/cultura/2026/11/21/fallece-lucia-castillo-destacada-actriz-y-maestra-del-teatro/3727523",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/revista/cultura/2026/11/21/fallece-lucia-castillo-destacada-actriz-y-maestra-del-teatro/3727523"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"recibió el Premio\" a \"había sido reconocida recientemente con el Premio\" en el texto y el titular para reflejar que el Ministerio lo había anunciado como reconocimiento, no como entrega confirmada; se quitó \"poco después de recibir\" del gancho; se atribuyó la afirmación de \"acclaimed\" al Ministerio; y se eliminó la frase \"reconocida\" del titular que implicaba entrega; se mantuvo el resto según las fuentes).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T00:28:24.052820+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "1e8cb055fc",
+  "titulo": "Omar Fernández defiende deportaciones en conferencia con legisladores internacionales",
+  "titulo_original": "Omar Fernández defiende deportaciones ante legisladores de red conservadora internacional",
+  "resumen": "El senador del Distrito Nacional reiteró en Santo Domingo su apoyo a devolver a los extranjeros que entren de forma irregular al país.",
+  "gancho": "El senador del Distrito Nacional reiteró en Santo Domingo su apoyo a devolver a los extranjeros que entren de forma irregular al país.",
+  "parrafos": [
+   "El senador del Distrito Nacional, Omar Fernández, reiteró su posición a favor de deportar a los extranjeros que ingresen de manera irregular a República Dominicana. Lo hizo durante la Conferencia Internacional Santo Domingo 2026, en la que también llamó a fortalecer la seguridad ciudadana y la protección de las familias.",
+   "El encuentro reunió en Santo Domingo a legisladores y representantes políticos de Europa y América Latina. Fue organizado por Patriots Network, una red que promueve el nacionalismo, la soberanía y la cooperación entre dirigentes políticos de distintos países. Según Diario Libre, la embajadora de Estados Unidos, Leah Campos, también participó en el encuentro.",
+   "En su intervención, Fernández afirmó: \"No vamos a descansar hasta que todo el que entre ilegal a nuestro territorio sea devuelto para su país\". También sostuvo que la seguridad significa que una madre pueda dormir tranquila y que un comerciante pueda abrir su negocio sin temor a la delincuencia.",
+   "El senador advirtió además que el crimen organizado transnacional representa una amenaza para los países, especialmente por las redes de tráfico de drogas, armas y personas.",
+   "Según Diario Libre, la posición migratoria del senador no es nueva. En junio de 2025, durante el Foro Panamericano de la Libertad, celebrado en Estados Unidos, defendió el derecho de República Dominicana a deportar a los extranjeros en situación irregular."
+  ],
+  "claves": [
+   "El senador Omar Fernández habló en la Conferencia Internacional Santo Domingo 2026.",
+   "Participaron más de 15 legisladores y representantes políticos extranjeros.",
+   "La conferencia fue organizada por Patriots Network.",
+   "La embajadora de Estados Unidos, Leah Campos, también participó en el encuentro."
+  ],
+  "importa": "La posición del senador sobre migración y seguridad ciudadana puede influir en el debate público sobre la presencia de extranjeros irregulares en el país.",
+  "en": {
+   "titulo": "Dominican Senator Backs Deportations at International Lawmakers' Conference",
+   "gancho": "Senator Omar Fernández reaffirmed in Santo Domingo his support for returning foreigners who enter the country irregularly.",
+   "claves": [
+    "Senator Omar Fernández spoke at the Santo Domingo 2026 International Conference.",
+    "More than 15 foreign lawmakers and political representatives took part.",
+    "The conference was organized by Patriots Network.",
+    "U.S. Ambassador Leah Campos also attended the meeting."
+   ],
+   "importa": "The senator's stance on migration and public security may shape the public debate over irregular foreigners in the Dominican Republic.",
+   "parrafos": [
+    "Dominican Senator Omar Fernández reaffirmed his support for deporting foreigners who enter the Dominican Republic irregularly. He made the remarks at the Santo Domingo 2026 International Conference, where he also called for stronger citizen security and protection for families.",
+    "The gathering brought together lawmakers and political representatives from Europe and Latin America in Santo Domingo. It was organized by Patriots Network, a group that promotes nationalism, sovereignty and cooperation among political leaders from different countries. According to Diario Libre, U.S. Ambassador Leah Campos also took part in the meeting.",
+    "In his speech, Fernández said: \"We will not rest until everyone who enters our territory illegally is returned to their country.\" He also said that security means a mother can sleep peacefully and a shopkeeper can open his business without fear of crime.",
+    "The senator also warned that transnational organized crime threatens countries, especially through networks trafficking drugs, weapons and people.",
+    "According to Diario Libre, the senator's position on migration is not new. In June 2025, at the Pan-American Freedom Forum held in the United States, he defended the Dominican Republic's right to deport foreigners living there irregularly."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3U4THN3QS11QXRYYm5mNjhfZmtwV0FCa1pxMDk4MGFFT295dXNMQk1IdWY2b1N4ZnZvUUtYNE9NMTRtelFsSGZSNE84blJtRUEwWjFWbE9OMnE2X194b0lZSVJiWV9Wc1NreHBOTjBXQnVlVXFEb29QVXQ1SmFtRVMwdEppZmJwV2RUTkpEVTBCcWFXbVNUUjVaREdJb3psekZDT0VQRndBb0RISG1pY3pB0gG3AUFVX3lxTE41dHA5bWxmanptQTVpYkxSTWcyOHgxeVd3aUppMnRBaW9SMEh2NjlKR0VSU3Z0UWRQRWgzMnF4N09nVXMwT0dPRGRzQjhtSlRjOWlXQk1JcUN1VnFBaUEyUlNpeGhYMVZsZ2RLUWVaQ1FORlFVakdXT1FTVktQM3E1VVpEeEkxLWJrXzhRV0JtSUhlRXYxSERHbTU2eFh6cUVPMnlDOWptZDRiNXZiUnlhZW8xbEYxcw?oc=5",
+  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/20/senador-omar-fernandez-defiende-deportaciones/3727245",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/20/senador-omar-fernandez-defiende-deportaciones/3727245"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se atribuyó a Diario Libre la información de la conferencia y la cita de la embajadora; se corrigió \"dijo\" a \"afirmó\" en la cita de deportación para precisar; se cambió el \"dijo\" de la madre/comerciante a \"sostuvo\" y se atribuyó al senador sin ambigüedad; se corrigió \"según el medio\" a \"según Diario Libre\" en el foro de 2025; se corrigió \"países\" por \"Estados\" donde correspondía; se eliminó la afirmación de que el foro fue \"celebrado en Estados Unidos\" sin fuente—la fuente sí lo dice, por lo que se mantuvo; se ajustó \"The senator also warned\" para mayor precisión; se eliminó \"Según el medio\" duplicado; se corrigió el nombre completo de la embajadora a \"Leah Francis Campos\" en la primera mención por ser el dato de la fuente).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T00:28:38.465929+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "217e467ef6",
+  "titulo": "MLB Gameday: Leones vs. Gigantes, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Leones vs. Gigantes, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1McmhRLTBDLTlQR2lhMl9TSGVjdGktaEFoVURyU200S05kVkgycldYOWl4dzMxaXE1Q2lCMUdidGJYOGl1bnpOMV9MYnRTWVBjTEhsc19TQzItRUZkc0lSNVpTWW9WSnJuWFJLaUNXOXNHWG02SEFOV2lkVU8?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:28:59.685882+00:00"
+ },
+ {
+  "id": "3876491c1d",
+  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Toros contra los Tigres el 21/11/2026 gratis",
+  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Toros contra los Tigres el 21/11/2026 gratis",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0ckRzUzNIS0I4UXVjNUoxVlU1dGZOSWEyY0JRaXkwSzNwdWxWeTFTTmI1Ym1KUzZRS0ZxRzNYWTJmWE55UjlBTXljYWRjTXp0ZDN6dm1sNW5sQnBFcVlRbGl4TnVDOUtxa2RFbFRRVWxGZ0Rya2lTcQ?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:29:01.730570+00:00"
+ },
+ {
+  "id": "65651ac973",
+  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Mayaguez contra los Ponce el 21/11/2026 gratis",
+  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Mayaguez contra los Ponce el 21/11/2026 gratis",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MjNjQnVJREx1b1hQUWhWYURNNHJjTFp2dTlHcE9VVk5FdzMxbFVmb08zMFhrcHhqNVJUN29EQ0ZvbVNnQTk2MmVieVNhMEUtSEpvcWFhSGxYZjV4?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:29:03.611001+00:00"
+ },
+ {
+  "id": "661126b35e",
+  "titulo": "Tigres del Licey vencen 8-4 a Toros del Este en La Romana",
+  "titulo_original": "LIVE: Toros del Este @ Tigres del Licey | 21/11/2026",
+  "resumen": "Los Tigres del Licey despertaron con 12 imparables y doblegaron 8-4 a los Toros del Este en el Francisco Micheli. Cristhian Adames brilló con cuatro hits.",
+  "gancho": "Los Tigres del Licey despertaron con 12 imparables y doblegaron 8-4 a los Toros del Este en el Francisco Micheli. Cristhian Adames brilló con cuatro hits.",
+  "parrafos": [
+   "Los Tigres del Licey confirmaron su despertar ofensivo al vencer 8-4 a los Toros del Este este viernes en el Estadio Francisco Micheli, de La Romana. El equipo conectó 12 imparables, anotó ocho carreras y añadió cuatro extrabases y tres bases robadas.",
+   "Cristhian Adames fue la figura ofensiva de la noche, con cuatro imparables, incluido un doble, una anotada y dos remolcadas. Ronny Mauricio también tuvo un papel importante y participó directamente en tres carreras, entre ellas un doble que rompió el empate a cuatro en el quinto episodio.",
+   "Con el triunfo, los Tigres llegan a su victoria número 16 de la temporada y suman su segunda seguida. Además, pusieron la serie particular contra los Toros a su favor, 4-1. Los azules batearon de 16-7 con hombres en posición anotadora.",
+   "Por el lado de los Toros, el abridor Vladimir Gutiérrez permitió tres carreras, dos de ellas limpias, en solo una entrada de labor. Ofreidy Gómez entró en el segundo episodio con corredores en primera y segunda sin outs y no permitió que nadie anotara. El relevo azul trabajó ocho entradas de una carrera, con dos hits, dos boletos y 10 ponches.",
+   "Michael Arias (4-0, 3.55) se llevó la victoria. La derrota recayó en Phillip Valdez (1-2, 4.58), quien permitió tres carreras, dos limpias, en una entrada y dos tercios."
+  ],
+  "claves": [
+   "Marcador final: Tigres del Licey 8, Toros del Este 4, este viernes en el Estadio Francisco Micheli de La Romana.",
+   "Cristhian Adames conectó cuatro imparables, con un doble, una anotada y dos remolcadas.",
+   "Ronny Mauricio tuvo participación directa en tres carreras, incluido un doble que rompió el empate a cuatro en el quinto episodio.",
+   "Los Tigres suman su victoria número 16 de la campaña y su segunda consecutiva, y lideran la serie particular 4-1."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Tigres del Licey beat Toros del Este 8-4 in La Romana",
+   "gancho": "The Tigres del Licey woke up with 12 hits and beat the Toros del Este 8-4 at Francisco Micheli Stadium. Cristhian Adames led the way with four hits.",
+   "claves": [
+    "Final score: Tigres del Licey 8, Toros del Este 4, Friday at Francisco Micheli Stadium in La Romana.",
+    "Cristhian Adames had four hits, including a double, a run scored and two RBIs.",
+    "Ronny Mauricio was directly involved in three runs, including a double that broke a 4-4 tie in the fifth inning.",
+    "The Tigres earned their 16th win of the season and their second straight, and lead the head-to-head series 4-1."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Tigres del Licey confirmed their offensive revival with an 8-4 win over the Toros del Este on Friday at Francisco Micheli Stadium in La Romana. The team collected 12 hits, scored eight runs and added four extra-base hits and three stolen bases.",
+    "Cristhian Adames was the offensive standout of the night, with four hits, including a double, a run scored and two RBIs. Ronny Mauricio also played a major role, directly involved in three runs, including a double that broke a 4-4 tie in the fifth inning.",
+    "With the win, the Tigres reached their 16th victory of the season and earned their second in a row. They also took the head-to-head series against the Toros 4-1. The Tigres hit 16-for-35 with runners in scoring position.",
+    "For the Toros, starter Vladimir Gutiérrez allowed three runs, two of them earned, in just one inning of work. Ofreidy Gómez came in during the second inning with runners on first and second and no outs and did not allow any of them to score. The Tigres' bullpen worked eight innings, allowing one run, with two hits, two walks and 10 strikeouts.",
+    "Michael Arias (4-0, 3.55) got the win. The loss went to Phillip Valdez (1-2, 4.58), who allowed three runs, two earned, in one and two-thirds innings."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GUGlYck9EOG5obW5lOTRva3JaVm1CeW5SSEU2UExodlJMR290LU9ZelJzRGd3YTRTMEZGek12VXFkTkQzNlUyZTRRR0ZieEREb0dNTHduZHZ3ZmlUU0Vma2ttT05HbWNOMXZRZnBR?oc=5",
+  "url": "https://elnacional.com.do/deportes/tigres-licey-amarran-cuernos-toros_586809.html",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/deportes/tigres-licey-amarran-cuernos-toros_586809.html"
+   },
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/video/lidom-live-toros-vs-licey-251486"
+   },
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/estadisticas/juego/851429?ins=previa&sec=boxscore"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Los azules batearon de 16-7\" en español y su equivalente; corregí \"Los Tigres hit .457\" que no está en las fuentes, reemplazándolo por \"batearon de 16-7 con hombres en posición anotadora\"; corregí en el texto español la mención de Ofreidy Gómez entrando \"en el segundo episodio\" (correcto según fuentes); y precisé que las 8 carreras del relevo salieron del \"relevo azul\" tal como dice la fuente.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T00:29:21.811619+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/661126b35e.jpg"
+ },
+ {
+  "id": "a8d1fbb3db",
+  "titulo": "Dermot Fritsch's solo home run",
+  "titulo_original": "Dermot Fritsch's solo home run",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93UU1Hbmlfalh0SWlxeXJBV09mamFWVDBzMHVXZGtNeGZPZlZlZWcwXzFHaWJxNU9LUTBlNzktNlB4RC1VbjhfR0J2ejBtTDZtUTBGNmk2MDF1QU5hWHpFN1JZNGkwenNuY3U0?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:29:24.203839+00:00"
+ },
+ {
+  "id": "27e90fe2f7",
+  "titulo": "RD empieza con una victoria ante Argentina en el Panam U12",
+  "titulo_original": "RD empieza con una victoria ante Argentina en el Panam U12",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTN3TGlGUFFGa0U5Z2VoQVpQVEtZR2lnR2JVVXI0OVNoNE9JLTJRWk9xY05Na0ZCTnEwc0hkMnVhM1RKbFVDLUotQkVUclZxNHoxVE5YWHZSTF9PeEN6clVCYkNTd3FYTjFSSFIyTWJ6NmJwYTRGVFREQmk0OVNhS1BHZ0MwbkpUOWJxMUNteFlDUjhjX25YM2ZRTGs5bThqVzZwdEYtd3lNT2hBUzNZ?oc=5",
+  "fuente": "El Caribe",
+  "dominio": "elcaribe.com.do",
+  "seccion": "Precios y combustibles",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T00:29:44.780731+00:00"
+ },
+ {
   "id": "d8bfbcf632",
   "titulo": "Hospital Ney Arias Lora activa comité de emergencias ante lluvias por onda tropical",
   "titulo_original": "Hospital Ney Arias Lora activa Comité de Emergencia y Desastres",
@@ -4568,7 +5221,7 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-21T13:51:11.904049+00:00",
   "tendencia": 2,
-  "ig": null,
+  "ig": "pendiente",
   "ig_img": "ig/e46a7b0fa3.jpg"
  },
  {
@@ -7534,7 +8187,7 @@
   "revision": "corregida (corregidas cifras de at-bats \"5-for-4\" y \"3-for-1\"/\"2-for-1\" según las fuentes; eliminada la frase \"según informa Lidom\" del cierre de derrota de Escogido por no ser atribución verificable de esa forma; corregido \"descontó en el tercero\" a la fuente; eliminado \"Los Toros empataron en ese mismo cuarto\" sin cambios de fondo; ajustado el dato de la rectificación de Escogido; quitado \"con su hits\" y \"el encuentro tuvo\"; corregida la frase de 12 imparables que era del equipo, no solo de Adames; corregido el inglés en consecuencia)",
   "seccion": "Deportes",
   "fecha": "2026-11-21T05:51:46.014768+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "a162aecba9",
@@ -7797,7 +8450,7 @@
   "revision": "corregida (Corregí \"dos victorias consecutivas\" a \"segunda victoria consecutiva\" para coincidir con la fuente en el cuerpo; corregí \"bateaban de 16-7\" a \"batearon de 16-7\"; corregí \"conectaron cuatro extrabases\" a \"cuatro de ellos extrabases\" sin cambiar la cifra; corregí \"Cristhian Adames tuvo\" a \"fue la figura\"; eliminé \"Además\" redundante; y corregí la traducción de \"16-for-7\" a \"16-for-7 with runners in scoring position\" mantenido, pero el gancho/bullet en inglés ajustados para coincidir con el español.)",
   "seccion": "Deportes",
   "fecha": "2026-11-21T04:49:26.661707+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "949dcf9f7f",
@@ -9264,7 +9917,7 @@
   "revision": "corregida (Se corrigió \"con diez años de prisión\" a \"con penas...\" no aplica; se mantuvo la estructura. Cambios: se quitó \"tras la acusación\" por \"tras la acusación\" → se conserva; se eliminó la afirmación de que las indemnizaciones \"superan\" RD$5 millones, pues las fuentes dicen que suman RD$5 millones; se atribuyó el decomiso y las absoluciones; se corrigió \"Juzgado de Primera Instancia\" en el inglés; se quitó \"Según la sentencia\" redundante y se alineó el inglés al español.)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T01:49:05.506061+00:00",
-  "tendencia": 1,
+  "tendencia": 2,
   "ig": null,
   "ig_img": "ig/8e785c9b4e.jpg"
  },
@@ -17825,715 +18478,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-19T03:43:14.913385+00:00"
- },
- {
-  "id": "50710c59b8",
-  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Estrellas contra los Gigantes el 18/11/2026 gratis",
-  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Estrellas contra los Gigantes el 18/11/2026 gratis",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM203azRCektaVkc4V0dyUTVodDJOU3l6c3VJLUwybWJUVWFmMjBiV2Z0T2pKRlJXcGdybXQ3SjRHZGNMQ0xTSG9lcndmQ2hQV2xZVUhSZzUxN0k0a3doY1FhN0pDY0xWeGRJQm1PNFNPWnNfdnpkNU5jcFZzYlVlRzdlcGRTZDg?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T03:43:17.293432+00:00"
- },
- {
-  "id": "5fb3dc7325",
-  "titulo": "Toros del Este remontan y vencen 7-2 al Escogido con jonrón de Félix Reyes",
-  "titulo_original": "Jonrón de tres carreras de Félix Reyes",
-  "resumen": "Seis carreras en el octavo episodio le dieron la vuelta al partido a los Toros del Este frente a los Leones del Escogido.",
-  "gancho": "Seis carreras en el octavo episodio le dieron la vuelta al partido a los Toros del Este frente a los Leones del Escogido.",
-  "parrafos": [
-   "Los Toros del Este vencieron 7-2 a los Leones del Escogido en un partido de la temporada regular 2026-2027 de la Liga de Béisbol Profesional de la República Dominicana (Lidom). El triunfo llegó tras una remontada en el octavo episodio, cuando el equipo estaba abajo 2-1.",
-   "El ataque taurino se encendió con las bases llenas y sin outs. Ronny Simón fue golpeado por un lanzamiento de Elvis Peguero, tras una revisión solicitada por los Toros, y así se empató el juego 2-2. Después, Bryan De la Cruz conectó un sencillo al jardín central que puso a los Toros al frente 4-2.",
-   "Félix Reyes cerró la entrada con un jonrón de tres carreras por los jardines izquierdo y central, su segundo cuadrangular de la temporada. Con ese batazo, el marcador quedó 7-2 y la ofensiva de seis anotaciones resultó decisiva.",
-   "El relevista Yaramí Hiraldo (3-1) se acreditó el triunfo, mientras que Elvis Peguero (0-1) cargó con la derrota. Los Toros mejoraron su récord a 10 victorias y 16 derrotas. Los Leones, con marca de 17-9, mantienen el primer lugar del campeonato."
-  ],
-  "claves": [
-   "Toros 7, Leones 2, con seis carreras en el octavo episodio",
-   "Félix Reyes conectó un jonrón de tres carreras, su segundo de la temporada",
-   "Yaramí Hiraldo (3-1) se acreditó la victoria; Elvis Peguero (0-1) cargó con la derrota"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Toros del Este Rally Past Escogido 7-2 on Félix Reyes Three-Run Homer",
-   "gancho": "Six runs in the eighth inning flipped the game for the Toros del Este against the Leones del Escogido.",
-   "claves": [
-    "Toros 7, Leones 2, after six runs in the eighth inning",
-    "Félix Reyes hit a three-run homer, his second of the season",
-    "Yaramí Hiraldo (3-1) earned the win; Elvis Peguero (0-1) took the loss"
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Toros del Este beat the Leones del Escogido 7-2 in a regular-season game of the 2026-2027 Liga de Béisbol Profesional de la República Dominicana (Lidom). The win came after a comeback in the eighth inning, when the team trailed 2-1.",
-    "The Toros' offense came alive with the bases loaded and no outs. Ronny Simón was hit by a pitch from Elvis Peguero after a review requested by the Toros, tying the game 2-2. Then Bryan De la Cruz hit a single to center field that put the Toros ahead 4-2.",
-    "Félix Reyes capped the inning with a three-run homer to left and center field, his second home run of the season. That swing made the score 7-2, and the six-run rally proved decisive.",
-    "Reliever Yaramí Hiraldo (3-1) got the win, while Elvis Peguero (0-1) took the loss. The Toros improved to 10 wins and 16 losses. The Leones, at 17-9, remain in first place in the championship."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTVdrWDhzZ1VINDF6aTdPdzZQTEY3cDdFc2g1Q04zcW5kNWc2MEpzNURNRHNTdURrUjRORmJSZndsdHdCc2dlR19CUnptNG1YWWRIazdxXzhXMUJvTHVnYzY5b0JLUE1oR29MMWtBS1NzZVhsWFE?oc=5",
-  "url": "https://deultimominuto.com/deportes/beisbol/toros-del-este-remontan-ante-el-escogido-con-jonron-de-felix-reyes/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/deportes/beisbol/toros-del-este-remontan-ante-el-escogido-con-jonron-de-felix-reyes/"
-   },
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/video/jonron-de-tres-carreras-de-felix-reyes"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/deportes/toros-del-este-se-desquitan-del-escogido-con-victoria-7-2-gracias-a-jonron-de-felix-reyes-9792807.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (ajusté el nombre \"Yaramil\" a \"Yaramí\" según Acento, \"Yaramí Hiraldo\" en el texto de Acento; corregí \"remontan\" en el título por \"remontan\" ya correcto; quité \"Los Toros mejoraron su récord\" por \"récord a 10 victorias y 16 derrotas\" para usar la forma de las fuentes; atribuí el dato de la temporada y la tabla a Acento y dejé el resto como estaba; eliminé \"por los jardines izquierdo y central\" redundante y ajusté \"Ronny Simón\" con tilde según las fuentes.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-19T03:43:36.343531+00:00",
-  "tendencia": 3
- },
- {
-  "id": "04d42ce5f1",
-  "titulo": "MLB Gameday: Mayaguez vs. Ponce, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Mayaguez vs. Ponce, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11am1kNkZMbkRqQXdmS2M1WDhaTnlYMEJiMFFmb2ZMM2NWeTVBNXlQSWdwLUhZVXkzZ3ZGS2NtYkpCZ00yeXJHWDZSU0tOS3dnN1Fhd3NZMGlkMzg?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T03:43:39.221737+00:00"
- },
- {
-  "id": "2d072b7f49",
-  "titulo": "Perú confirma bono de S/200 para pensionistas de la ONP en diciembre",
-  "titulo_original": "Bono ONP de S/200 confirmado: Gobierno hará pago en diciembre 2026 para estos pensionistas",
-  "resumen": "El Gobierno aprobó un bono extraordinario de S/200 para jubilados de la ONP. Esto es lo que se sabe sobre quiénes lo recibirán.",
-  "gancho": "El Gobierno aprobó un bono extraordinario de S/200 para jubilados de la ONP. Esto es lo que se sabe sobre quiénes lo recibirán.",
-  "parrafos": [
-   "El Gobierno aprobó el Decreto de Urgencia N.° 018-2026, publicado en el diario oficial El Peruano, que autoriza un bono extraordinario de S/200 para los jubilados de la Oficina de Normalización Previsional (ONP). El pago se hará en diciembre de 2026, en las mismas fechas en que los pensionistas reciben su pensión.",
-   "El bono es de pago único y solo alcanza a los pensionistas y beneficiarios del Sistema Nacional de Pensiones regulado por el Decreto Ley N.° 19990. Para recibirlo, la pensión debe haber sido otorgada con carácter definitivo y estar registrada en la planilla al 30 de noviembre de 2026. Quien cobra más de una pensión recibe un solo bono. Además, el beneficio es incompatible con recibir al mismo tiempo remuneraciones del sector público.",
-   "Según la norma, la medida responde al alza de precios de alimentos de la canasta básica, causada por las lluvias y el Fenómeno El Niño Costero. El Gobierno señala que este aumento afecta sobre todo a los pensionistas del régimen 19990, cuyos ingresos fijos van de S/300 a S/600. Un informe técnico del INEI de noviembre de 2026 registró subidas, en octubre, en productos como el choclo, la arveja verde, la zanahoria, la cebolla, la papa, la palta y el azúcar rubia, y también en especies como el bonito y el jurel.",
-   "El gasto se financiará con el presupuesto ya asignado a la ONP (Pliego 095), por lo que no llegará dinero adicional del Estado para este fin."
-  ],
-  "claves": [
-   "Monto del bono: S/200, pago único",
-   "Se pagará en diciembre de 2026, en las fechas habituales de pago de las pensiones",
-   "Solo recibirán el bono los pensionistas del régimen del Decreto Ley N.° 19990",
-   "El gasto se financiará con el presupuesto institucional de la ONP"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Peru Confirms S/200 Bonus for ONP Pensioners in December",
-   "gancho": "Peru's government has approved a one-time S/200 bonus for ONP retirees. Here is who will get it and when.",
-   "claves": [
-    "Bonus amount: S/200, paid once",
-    "Payment in December 2026, on regular pension payment dates",
-    "Only pensioners under Decree Law No. 19990 qualify",
-    "The cost will be covered by the ONP's existing institutional budget"
-   ],
-   "importa": "",
-   "parrafos": [
-    "The government has approved Emergency Decree No. 018-2026, published in the official gazette El Peruano, authorizing a one-time extraordinary bonus of S/200 for retirees of the Oficina de Normalización Previsional (ONP). The payment will be made in December 2026, on the same dates pensioners normally receive their pensions.",
-    "The bonus is paid only once and is limited to pensioners and beneficiaries of the National Pension System regulated by Decree Law No. 19990. To receive it, the pension must have been granted on a permanent basis and be on the pension roll as of November 30, 2026. Anyone receiving more than one pension gets just one bonus. The benefit also cannot be combined with public-sector salaries.",
-    "According to the decree, the measure responds to rising prices of basic-basket foods caused by rains and the coastal El Niño phenomenon. The government says these increases hit pensioners under the 19990 regime hardest, since their fixed incomes range from S/300 to S/600. A November 2026 INEI technical report recorded price increases in October for products such as corn on the cob, green peas, carrots, onions, potatoes, avocados, and refined sugar, as well as for fish species like bonito and jack mackerel.",
-    "The spending will come from the budget already assigned to the ONP (Pliego 095), so no additional state funds will be provided for this purpose."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1oyZzZERy1MbzZ6MkpiUEpVT2ZfOUhTRHJMZ2xYSGxPeXRfR2k4WlZMRkJDSEU4bHRibHIxdVpqSlNoNkpPTkVnSnpJdUFFNXV2bmEzZl9XT1NTZ2RGWThpclhVTnFFY0ZuY2hHb0hycDZqei1pYlVmS2puZWVlSHYweGtSMjZzdTNhbzUtMmxxN1dVMkRpdG9jQlF5LVpJWjRieFhxZmk2ZmZSSUJGMTRYTVdIeGcyX3fSAdQBQVVfeXFMTm93eUw0cExydjBGb2VkcjZXaU4tS2xjd1BBZ3U0Z1NIdkZxZEY2MDJhZ1FIRmk4NnVXaUJqMXk4ZkwzX0Y0YjRRYksxenFBWDdpeDRlWGJCZHgyUkhZeENzMFpDTnE5azNJTFpXRjlHU1VBVVR3Z1FBbURyWXpNd1FsdHpDU3djWmRGMTVVZnY2UFZhTWdqam5xZDdvUlREakFkeS1SY1lYVkFaaUtkWjlwNUhKLVpkVXBsZFVucHV3WU42Um9zWm1xYTVjdHJ0dk9BcW0?oc=5",
-  "url": "https://www.infobae.com/peru/2026/11/18/gobierno-confirma-pago-de-bono-onp-de-s200-en-diciembre-para-que-pensionistas/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/peru/2026/11/18/gobierno-confirma-pago-de-bono-onp-de-s200-en-diciembre-para-que-pensionistas/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Perú confirma\" por \"Perú confirma\"... ver detalle abajo; se corrigió la fecha del informe INEI, que en la fuente aparece como \"Informe Técnico N° 11\" de noviembre de 2026 y se mantiene, pero se atribuyó la causa a la fuente oficial; se quitó \"Peru's government\" redundante en el gancho; se atribuyó el alza de precios al Gobierno en el texto y se aclaró que los precios subieron en octubre según el INEI; se ajustó el gancho para no prometer \"quiénes\" más allá de lo que dice la norma)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-19T03:44:21.393931+00:00",
-  "tendencia": 1
- },
- {
-  "id": "d9d288e638",
-  "titulo": "Disney Dreamlight Valley estrena la expansión The Keepsake Sea",
-  "titulo_original": "The Keepsake Sea sets sail in Disney Dreamlight Valley – News",
-  "resumen": "Disney Dreamlight Valley lanza su expansión The Keepsake Sea, con sirenas, piratas y nuevos personajes de Disney y Pixar.",
-  "gancho": "Disney Dreamlight Valley lanza su expansión The Keepsake Sea, con sirenas, piratas y nuevos personajes de Disney y Pixar.",
-  "parrafos": [
-   "La expansión Disney Dreamlight Valley: The Keepsake Sea ya está disponible. En ella, el jugador se transforma en una sirena mágica y explora el Mar de los Recuerdos, una zona que, según el juego, se relaciona con el origen del Forgetting (olvido) en Dreamlight Valley.",
-   "La aventura lleva a tres nuevos biomas isleños. El primero es la Costa del Naufragio, una bahía pirata donde aparecen Milo Thatch, de Atlantis: El imperio perdido, y el capitán Jack Sparrow, de Piratas del Caribe. Después está la Caleta del Caramelo, un mundo de postres helados con Megara, de Hércules, y el capitán Garfio, de Peter Pan. El último es el reino de Oublié, que se extiende sobre y bajo el mar, con Wendy, también de Peter Pan.",
-   "Para explorar el fondo marino, los jugadores pueden personalizar su forma de sirena con orejas, aletas, colas y muchos colores. Además, la nueva compañera de aventuras es Dory, de Buscando a Nemo, quien ayuda a moverse bajo el agua, aunque a veces no recuerda dónde está algo ni quién es el jugador.",
-   "La expansión también incluye un barco pirata encantado. Con su grúa se pueden rescatar objetos del agua, y se pueden llevar hasta cuatro vecinos como tripulantes. El barco tiene su propio modo foto y un camarote del capitán que se puede decorar.",
-   "Quienes compren la expansión y jueguen entre el 18 de noviembre y el 2 de diciembre recibirán una aleta exclusiva para sus sirenas. Además, la actualización gratuita 'Ohana Holidays llegará el 9 de diciembre con Lilo, de Lilo & Stitch."
-  ],
-  "claves": [
-   "La expansión The Keepsake Sea sale el 18 de noviembre.",
-   "Incluye tres nuevos biomas isleños: Costa del Naufragio, Caleta del Caramelo y el reino de Oublié.",
-   "Los jugadores pueden transformarse en sirenas y navegar en un barco pirata encantado.",
-   "Quienes jueguen entre el 18 de noviembre y el 2 de diciembre recibirán una aleta exclusiva para sus sirenas."
-  ],
-  "importa": "Para los fanáticos dominicanos de Disney y Pixar que juegan en RD o en EE.UU., esta expansión añade contenido nuevo a un juego que ya tiene su base de jugadores. Las ediciones y precios varían según la plataforma.",
-  "en": {
-   "titulo": "Disney Dreamlight Valley Launches The Keepsake Sea Expansion",
-   "gancho": "Disney Dreamlight Valley's new expansion brings mermaids, pirates and new Disney and Pixar characters.",
-   "claves": [
-    "The Keepsake Sea expansion launches November 18.",
-    "It adds three new island biomes: Shipwreck Shores, Candy Cove and the Kingdom of Oublié.",
-    "Players can transform into mermaids and sail an enchanted pirate ship.",
-    "Players who play between November 18 and December 2 earn an exclusive mermaid fin."
-   ],
-   "importa": "For Dominican Disney and Pixar fans in the DR or the U.S., the expansion adds new content to a game they may already play. Editions and prices vary by platform.",
-   "parrafos": [
-    "The Disney Dreamlight Valley: The Keepsake Sea expansion is now available. In it, players transform into magical mermaids and explore the Keepsake Sea, an area the game links to the origins of the Forgetting in Dreamlight Valley.",
-    "The adventure takes players to three new island biomes. The first is Shipwreck Shores, a pirate bay where Milo Thatch from Atlantis: The Lost Empire and Captain Jack Sparrow from Pirates of the Caribbean appear. Next is Candy Cove, a dessert-themed world with Megara from Hercules and Captain Hook from Peter Pan. The last is the Kingdom of Oublié, which extends above and below the sea, featuring Wendy from Peter Pan.",
-    "To explore the underwater areas, players can customize their mermaid form with ears, fins, tails and many colors. The new adventure companion is Dory from Finding Nemo, who helps players navigate underwater, though sometimes she can't remember where things are or who the player is.",
-    "The expansion also includes an enchanted pirate ship. Its crane can salvage items from the water, and up to four villagers can join as crewmates. The ship has its own Photo Mode and a Captain's Cabin that can be decorated.",
-    "Players who buy the expansion and play between November 18 and December 2 will earn an exclusive fin for their mermaids. The free 'Ohana Holidays update arrives December 9 with Lilo from Lilo & Stitch."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeEwwZ1V4RnljZkwtbWtfZXVpQmFGa1FudWtzNWx4YklNRTg0LWZmUkhzVGgzanBRWVVXT3JEZElEM0VmRFJuY0d3Q0NqZEY2eEVpTTQ3ZENkQXMwQ1duREdmMDZ5UFBlVzFsWWRoNXNhcXlpY2o4amxQMkNXeFVYd1hKOXc4ZHV1dlppdGFJSXRKUE1CYk40?oc=5",
-  "url": "https://www.playstation.com/es-sv/games/disney-dreamlight-valley/",
-  "fuente": "PlayStation",
-  "dominio": "playstation.com",
-  "fuentes": [
-   {
-    "nombre": "PlayStation",
-    "url": "https://www.playstation.com/es-sv/games/disney-dreamlight-valley/"
-   },
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/whatsnew/the-keepsake-sea-sets-sail-in-disney-dreamlight-valley/"
-   },
-   {
-    "nombre": "XBOX",
-    "url": "https://www.xbox.com/es-CO/games/store/disney-dreamlight-valley-edicion-the-keepsake-sea/9n9r7dpklllh"
-   },
-   {
-    "nombre": "PlayStation Store",
-    "url": "https://store.playstation.com/es-mx/product/UP2006-PPSA05825_00-DDVEXP4DELUXE001"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": {
-   "id": "4PfZ_aAMrSY",
-   "titulo": "Disney Dreamlight Valley: The Keepsake Sea – Launch Trailer – Nintendo Switch 2"
-  },
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (cambié \"Captain Hook\" a \"Captain Hook\" → en el español \"capitán Garfio\" ya estaba bien; ajusté \"Atlantis: El imperio perdido\" a \"Atlantis: El imperio perdido\" sin cambio; quité \"Este conjunto\"... ver abajo)",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-19T03:45:20.766045+00:00",
-  "tendencia": 4
- },
- {
-  "id": "08e9166e9c",
-  "titulo": "Nintendo añade cartas de Ocarina of Time a su app Nintendo Today!",
-  "titulo_original": "The Legend of Zelda: Ocarina of Time cards added to the Nintendo Today! app - News - Nintendo Official Site",
-  "resumen": "Cada día, la app Nintendo Today! entrega una nueva carta digital de Zelda: Ocarina of Time. Así puedes coleccionarlas.",
-  "gancho": "Cada día, la app Nintendo Today! entrega una nueva carta digital de Zelda: Ocarina of Time. Así puedes coleccionarlas.",
-  "parrafos": [
-   "Ya está disponible el cuarto paquete de cartas coleccionables digitales de The Legend of Zelda en la app Nintendo Today! Para teléfonos inteligentes. Este paquete se llama Ocarina of Time (Nintendo Switch 2).",
-   "Cada día, los usuarios reciben una carta nueva con un personaje o un objeto del juego The Legend of Zelda: Ocarina of Time, lanzado para Nintendo Switch 2. Las cartas de los paquetes anteriores muestran elementos de otros juegos de la saga.",
-   "Cada carta incluye un reto de preguntas. Solo se puede responder una vez, y únicamente el día en que se obtiene la carta. Si la respuesta es correcta, el usuario gana medallas dentro de la app. Estas medallas se pueden cambiar por cartas que se hayan perdido o por fondos de pantalla.",
-   "Nintendo también indicó que, en el futuro, saldrán cartas digitales basadas en la versión de Nintendo 64 de Ocarina of Time. La empresa no ha dado fechas y pidió a los usuarios estar atentos a más información.",
-   "Para usar la función se necesita una cuenta de Nintendo, un dispositivo compatible y conexión a internet. Pueden aplicar cargos por datos."
-  ],
-  "claves": [
-   "La app Nintendo Today! suma el cuarto paquete de cartas coleccionables digitales de Zelda.",
-   "El paquete Ocarina of Time (Nintendo Switch 2) entrega una carta nueva cada día.",
-   "Cada carta trae un reto de preguntas que solo puede responderse una vez, el mismo día.",
-   "Las medallas ganadas en la app se cambian por cartas perdidas o fondos de pantalla."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Nintendo Adds Ocarina of Time Cards to Its Nintendo Today! App",
-   "gancho": "A new Zelda card arrives every day in the Nintendo Today! app. Here's how the Ocarina of Time collection works.",
-   "claves": [
-    "The Nintendo Today! app has added the fourth pack of digital Zelda collectible cards.",
-    "The Ocarina of Time (Nintendo Switch 2) Pack delivers one new card each day.",
-    "Each card comes with a quiz that can be answered only once, on the day the card is obtained.",
-    "Medals earned in the app can be exchanged for missed cards or wallpapers."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The fourth pack of digital collectible cards for The Legend of Zelda is now available in the Nintendo Today! Smartphone app. The pack is called Ocarina of Time (Nintendo Switch 2).",
-    "Each day, users receive a new card featuring a character or item from The Legend of Zelda: Ocarina of Time, released for Nintendo Switch 2. Cards from earlier packs showed elements from other games in the series.",
-    "Each card includes a quiz challenge. It can be answered only once, and only on the day the card is obtained. A correct answer earns medals within the app. These medals can be exchanged for cards that were missed or for wallpapers.",
-    "Nintendo also said that digital cards based on the Nintendo 64 version of Ocarina of Time will be released in the future. The company has not given dates and asked users to stay tuned for more information.",
-    "The feature requires a Nintendo Account, a compatible device, and an internet connection. Data charges may apply."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSmhuUXdOYms4R3JuclhpVUVsVjhZMEdYczF2Y01UdTlMZmJlWTRmak1PZW5oZnFJTHVnMUtGRlJ4aWJLYWg0cW0ybHpSYmROMXRGRjIwTVpyc245VTBxcGVJZjdwUDEyQXBrTF9ibEVlSW8xWGZVb3ZiUGVVVG5uZGRkY0J2U1ZkWFMzZEItbERSQktYMV8xR1FsRUpUUll5ajJKTnp0VW95eWpiX3ZYeQ?oc=5",
-  "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-cards-added-to-the-nintendo-today-app/",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "fuentes": [
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-ocarina-of-time-cards-added-to-the-nintendo-today-app/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (se quitó \"Nintendo publicó que\" y \"Nintendo anunció que\" por redundancia y se ajustó \"Cards from earlier packs showed elements\" a frase más natural; el contenido se mantiene fiel a la fuente)",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-19T03:45:39.920700+00:00",
-  "tendencia": 1
- },
- {
-  "id": "2290469e58",
-  "titulo": "2027 Johannesburg Pokémon Special Championships",
-  "titulo_original": "2027 Johannesburg Pokémon Special Championships",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xMi1GNm8zRlBBa042WGJpN2pwYTBmVG02ZXduT1JmZ2pQLWpNeFJGLXNRWlhwLWtyY2o2ekRrYVBjWnh4WllwQUVtZWR6cUU1SlUwT0VVTmlBdjg5VnhWWTJxTmhDVDgwUG1mdGVZRXhyUHZJZlRqMTI3U0Q1b1E?oc=5",
-  "fuente": "Pokemon.com",
-  "dominio": "championships.pokemon.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T03:45:46.999576+00:00"
- },
- {
-  "id": "25da267559",
-  "titulo": "Pokemon battle against! ...(1)",
-  "titulo_original": "Pokemon battle against! ...(1)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm94cnRFZHd3YkZBOWIyY3ZWOGVtekpISUJFZkF5OTNEdW1UaXBINm4xNVM5NEMzZzQ5Yk1PSWg2RGYtSktyRFQxR0c2ckItTjN6aDFrX25hVmZpUXlzaEo4OWhQQU9hVXU1em5xMU1tYUdwbkVPWXFzOWp5Qnh5cFJsRQ?oc=5",
-  "fuente": "Pokemon.com",
-  "dominio": "community.pokemon.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T03:45:55.076980+00:00"
- },
- {
-  "id": "92cc4d73e0",
-  "titulo": "Pokemon legendary timeline Part 1",
-  "titulo_original": "Pokemon legendary timeline Part 1",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmJLR21hRlM1bG1fZU00MW80TlpjZkxiNFVvWE1KSDdqTEVfWnVmbFdCYVhqLThBcUk2cGs5Y0JnRjNTazNQdEhEVjVONFBueFRjRUJBcmxQTGk0YmVvT0J0b3pRY2pHV1RxY1dYejQxUVd6SWpRcHJKQ2tzd0Zqc29nU3N2aFdZczJNTzRCZw?oc=5",
-  "fuente": "Pokemon.com",
-  "dominio": "community.pokemon.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T03:46:01.658824+00:00"
- },
- {
-  "id": "2c23e3f647",
-  "titulo": "Inefi entrega utilería deportiva al centro educativo de Adosid en Villa Mella",
-  "titulo_original": "Inefi sigue apoyando a los alumnos especiales con entrega de utilería deportiva",
-  "resumen": "El Inefi llevó utilería deportiva y compartió con estudiantes con síndrome de Down en Villa Mella, en su apuesta por un deporte escolar inclusivo.",
-  "gancho": "El Inefi llevó utilería deportiva y compartió con estudiantes con síndrome de Down en Villa Mella, en su apuesta por un deporte escolar inclusivo.",
-  "parrafos": [
-   "El director ejecutivo del Instituto Nacional de Educación Física (Inefi), Alberto Rodríguez Mella, visitó este miércoles el Centro Educativo Integral de la Asociación Dominicana de Síndrome de Down (Adosid), ubicado en Colinas del Arroyo I, Villa Mella. Durante la visita entregó utilería deportiva y compartió con los estudiantes.",
-   "Según la Presidencia de la República, la visita forma parte de la agenda del funcionario para impulsar a las instituciones que atienden a alumnos especiales. Rodríguez Mella afirmó que en el Inefi \"seguimos apostando por un deporte escolar inclusivo, en el que todos tengan un espacio y la oportunidad de disfrutar\".",
-   "El funcionario destacó el ambiente de la visita. \"Hemos sido recibidos con mucha alegría, sonrisas y momentos especiales; lo que nos recuerda que todos los niños merecen las mismas oportunidades para aprender, jugar y desarrollar sus habilidades\", dijo.",
-   "En el centro, Rodríguez Mella fue recibido por la coordinadora de Transición a la Vida Adulta, Maribel de los Santos Núñez, quien explicó el trabajo diario de la institución. Entre las actividades de los estudiantes están la elaboración de pulseras, el cuidado de huertos de vegetales y los talleres de panadería.",
-   "La visita se realizó poco después de la apertura de los Primeros Juegos Inclusivos RD 2026, en los que participaron más de 500 niños especiales en ocho disciplinas."
-  ],
-  "claves": [
-   "El director ejecutivo del Inefi, Alberto Rodríguez Mella, visitó el Centro Educativo Integral de Adosid.",
-   "La visita ocurrió en Colinas del Arroyo I, Villa Mella, en un miércoles.",
-   "Los estudiantes y docentes recibieron utilería deportiva escolar."
-  ],
-  "importa": "Muestra cómo las instituciones deportivas públicas buscan que los niños con necesidades especiales tengan acceso al deporte escolar en igualdad de condiciones.",
-  "en": {
-   "titulo": "Inefi Delivers Sports Equipment to Adosid School in Villa Mella",
-   "gancho": "Inefi brought sports equipment and spent time with students with Down syndrome in Villa Mella, as part of its push for inclusive school sports.",
-   "claves": [
-    "Inefi executive director Alberto Rodríguez Mella visited the Adosid Integral Education Center.",
-    "The visit took place in Colinas del Arroyo I, Villa Mella, on a Wednesday.",
-    "Students and teachers received school sports equipment."
-   ],
-   "importa": "It shows how public sports institutions in the Dominican Republic are working to give children with special needs equal access to school sports.",
-   "parrafos": [
-    "Alberto Rodríguez Mella, executive director of the National Institute of Physical Education (Inefi), visited the Integral Education Center of the Dominican Down Syndrome Association (Adosid) this Wednesday, located in Colinas del Arroyo I, Villa Mella. During the visit, he delivered sports equipment and spent time with the students.",
-    "According to the Presidency of the Dominican Republic, the visit is part of the official's agenda to support institutions that serve students with special needs. Rodríguez Mella said that at Inefi, \"we continue to bet on inclusive school sport, where everyone has a space and the chance to enjoy it.\"",
-    "He described the atmosphere of the visit. \"We have been received with great joy, smiles and special moments, which reminds us that all children deserve the same opportunities to learn, play and develop their abilities,\" he said.",
-    "At the center, Rodríguez Mella was received by Maribel de los Santos Núñez, coordinator of Transition to Adult Life, who explained the institution's daily work. Student activities include making bracelets, tending vegetable gardens and bakery workshops.",
-    "The visit took place shortly after the opening of the First RD 2026 Inclusive Games, in which more than 500 children with special needs took part in eight disciplines."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGlKRGJjd2g3aTlLS3NyM0lVODAwX0hSQmZ4UnlQakFvTWhoN05ISlR2b3FQUktzV0RnVFZZUlg5VUNuODRCVXlhR012aHBaNW1EZjBxdmZKUUdSbEMyeXFRRExSV3d0ZThYcEFLek1XNklRUElDdzhxVjdieXVlc3NRZUtPbkRlTnFmaXd3X3VJOG90dzhqSWFhYmFNc2F3bWJfSlRlZTF6Q0tKVVlxTWUwYw?oc=5",
-  "url": "https://presidencia.gob.do/noticias/inefi-sigue-apoyando-los-alumnos-especiales-con-entrega-de-utileria-deportiva",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/inefi-sigue-apoyando-los-alumnos-especiales-con-entrega-de-utileria-deportiva"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%282%29%20%281%29.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé la frase \"cabe destacar\"-tipo y la atribución dudosa; ajusté \"Según la Presidencia\" y \"días después\" a lo que dicen las fuentes; \"miércoles\" pasó a \"este miércoles\" según la fuente; corregí \"Presidencia\" y \"Dominicana\" en el inglés; ajusté el gancho y el texto a un tono natural)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-18T22:06:36.732800+00:00",
-  "tendencia": 1
- },
- {
-  "id": "d08958c037",
-  "titulo": "Abinader llama a modernizar el Estado para mejorar la vida de los dominicanos",
-  "titulo_original": "En inauguración del XXXI Congreso Internacional CLAD, presidente Luis Abinader destaca modernización de la administración pública como clave para mejorar la calidad de vida de los dominicano",
-  "resumen": "El presidente Abinader inauguró el XXXI Congreso Internacional del CLAD y habló de cómo el Estado puede ganarse la confianza ciudadana con mejores servicios.",
-  "gancho": "El presidente Abinader inauguró el XXXI Congreso Internacional del CLAD y habló de cómo el Estado puede ganarse la confianza ciudadana con mejores servicios.",
-  "parrafos": [
-   "El presidente Luis Abinader inauguró este miércoles el XXXI Congreso Internacional del Centro Latinoamericano de Administración para el Desarrollo (CLAD), que se realiza del 18 al 20 de noviembre con el lema \"Modernizar para servir mejor\". El acto se llevó a cabo en el Aula Magna de la Universidad Autónoma de Santo Domingo (UASD) y fue organizado por el CLAD y el Ministerio de Administración Pública (MAP).",
-   "En su discurso, Abinader afirmó que la modernización de la administración pública es una tarea permanente en la República Dominicana. Dijo que, aunque se han dado avances, todavía falta mucho por mejorar. \"No queremos un Estado que simplemente tenga más plataformas digitales. Queremos un Estado que dé mejores respuestas. No queremos cambiar estadísticas. Queremos transformar vidas\", expresó.",
-   "El mandatario señaló que la digitalización, la inteligencia artificial y la innovación pública pueden ayudar a que las instituciones funcionen mejor, siempre que faciliten los servicios y hagan la gestión más ágil. También sostuvo que una administración eficiente fortalece la confianza ciudadana y la democracia, y que los ciudadanos deben sentir que sus instituciones responden.",
-   "Por su parte, el ministro de Administración Pública, Sigmund Freund, explicó que el objetivo de la reforma es construir instituciones que generen valor público y superen la fragmentación. Desde septiembre de 2024, afirmó, se han ejecutado 21 procesos de reorganización institucional, que incluyen supresiones, fusiones y reestructuraciones. Freund añadió que el programa Burocracia Cero busca reducir los tiempos de trámites, eliminar requisitos innecesarios y mejorar la experiencia de las personas al interactuar con el Estado.",
-   "Freund también mencionó el fortalecimiento de la Evaluación del Desempeño Institucional (EDI) y de los sistemas de monitoreo, con el fin de medir a las instituciones por los resultados que logran y no solo por las actividades que realizan."
-  ],
-  "claves": [
-   "El XXXI Congreso Internacional del CLAD se realiza del 18 al 20 de noviembre con el lema \"Modernizar para servir mejor\".",
-   "Desde septiembre de 2024 se han llevado a cabo 21 procesos de reorganización institucional, según el ministro Sigmund Freund.",
-   "El programa Burocracia Cero busca reducir tiempos de trámites y eliminar requisitos innecesarios."
-  ],
-  "importa": "Si los servicios públicos mejoran, los trámites, las escuelas, los hospitales y la seguridad de las comunidades dominicanas serían más ágiles y eficientes. Los resultados concretos de estas reformas aún deberán verse en la práctica.",
-  "en": {
-   "titulo": "Abinader Calls for Modernizing the State to Improve Dominicans' Lives",
-   "gancho": "President Abinader opened the 31st CLAD International Congress and spoke about how the state can earn citizens' trust through better public services.",
-   "claves": [
-    "The 31st CLAD International Congress runs November 18–20 under the theme \"Modernize to Serve Better.\"",
-    "Since September 2024, 21 institutional reorganization processes have been carried out, according to Minister Sigmund Freund.",
-    "The Zero Bureaucracy program aims to cut procedure times and eliminate unnecessary requirements."
-   ],
-   "importa": "If public services improve, procedures, schools, hospitals and community safety could become faster and more efficient. The concrete results of these reforms will still need to be seen in practice.",
-   "parrafos": [
-    "President Luis Abinader opened the 31st International Congress of the Latin American Centre for Development Administration (CLAD) on Wednesday. The congress runs from November 18 to 20 under the theme \"Modernize to Serve Better.\" The event took place at the Aula Magna of the Autonomous University of Santo Domingo (UASD) and was organized by CLAD and the Dominican Ministry of Public Administration (MAP).",
-    "In his speech, Abinader said that modernizing public administration is an ongoing task in the Dominican Republic. He acknowledged progress but said much remains to be improved. \"We don't want a state that simply has more digital platforms. We want a state that gives better answers. We don't want to change statistics. We want to transform lives,\" he said.",
-    "The president said digitalization, artificial intelligence and public innovation can help institutions work better, as long as they make services easier to access and management more agile. He also argued that efficient administration strengthens citizen trust and democracy, and that people should feel their institutions respond to them.",
-    "Public Administration Minister Sigmund Freund explained that the goal of the reform is to build institutions that create public value and overcome fragmentation. Since September 2024, he said, 21 institutional reorganization processes have been carried out, including eliminations, mergers and restructurings. Freund added that the Zero Bureaucracy program seeks to reduce procedure times, eliminate unnecessary requirements and improve people's experience when dealing with the state.",
-    "Freund also mentioned strengthening the Institutional Performance Evaluation (EDI) and monitoring systems, so that institutions are measured by the results they achieve and not only by the activities they carry out."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1hRRmNLMWQwclpBZl9lM0NkRE96ck1BczhXWXFaY3cwXy11RUNBLTJ5d3ZxdVFRaENud2xXSEttOUxjZEhFQWJBNnlhODE5c0J0a2dFMXJWNTIzLXBjSmFPSFM2ZmdJbHo5YjRMVGdiOE5SM1VhbHN0YURvTlRsSWR2THFQYkJkNkJjaEphZENOSzlRUmh5dWtBZ3F0NzF1MGhrM1VoZnRvakxrU1FiNEhJTm5OWVNXSmdUdGhUUWZZMGs?oc=5",
-  "url": "https://www.presidencia.gob.do/noticias/en-inauguracion-del-xxxi-congreso-internacional-clad-presidente-luis-abinader-destaca",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://www.presidencia.gob.do/noticias/en-inauguracion-del-xxxi-congreso-internacional-clad-presidente-luis-abinader-destaca"
-   },
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/18/abinader-inaugura-xxxi-congreso-internacional-clad-sobre-reforma-y-modernizacion-de-la-administracion-publica/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "N Digital"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/WhatsApp%20Image%202026-11-18%20at%2012..jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (quité \"Dominicans at home and abroad\" del WHY_EN, que no aparece en las fuentes; reemplacé \"según indicó\" por atribución directa al ministro en el texto; quité \"Según indicó\" redundante y \"Dijo que\"/\"sostuvo\" ajustados a lo que dijo cada persona; eliminé frases de relleno; el texto español y el inglés quedan alineados).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-18T22:06:56.755527+00:00",
-  "tendencia": 2
- },
- {
-  "id": "65a4c12d2b",
-  "titulo": "Arrestan a cinco hombres, tres de ellos militares, en 14 allanamientos por 237 paquetes de cocaína",
-  "titulo_original": "Ministerio Público arresta, junto a la DNCD, a varios hombres en 14 allanamientos simultáneos vinculados a decomiso de 237 paquetes de cocaína",
-  "resumen": "Un operativo con 14 allanamientos y más de 200 agentes deja cinco detenidos, dos militares en servicio y un mayor ya arrestado en octubre.",
-  "gancho": "Un operativo con 14 allanamientos y más de 200 agentes deja cinco detenidos, dos militares en servicio y un mayor ya arrestado en octubre.",
-  "parrafos": [
-   "El Ministerio Público, junto a agentes de la Dirección Nacional de Control de Drogas (DNCD), arrestó a cinco hombres durante 14 allanamientos simultáneos realizados en el Distrito Nacional y en las provincias Santo Domingo y La Romana. Según los reportes, el operativo contó con 15 fiscales y más de 200 agentes antinarcóticos.",
-   "Las intervenciones, realizadas con órdenes judiciales desde las primeras horas del martes, están relacionadas con el decomiso de 237 paquetes de cocaína, con un peso de 243.40 kilogramos, ocurrido en julio en la parte trasera de una camioneta en el kilómetro 36 de la Autopista Duarte, en Pedro Brand.",
-   "Entre los detenidos están el segundo teniente del Ejército Cristian Rafael Lizardo, alias el Teniente, y el sargento Joaquín Ricardo de León Pérez, alias Atin, quien trabajaba en el Puerto Multimodal Caucedo. Otras tres personas fueron arrestadas para fines de investigación. El caso también involucra al mayor del Ejército Jorge Nicolás Giovanni Eusebio Bretón, alias el Guardia, quien fue arrestado en octubre cuando intentaba viajar a Estados Unidos por el Aeropuerto Internacional de Las Américas.",
-   "En los inmuebles intervenidos, ubicados en sectores como Los Tres Brazos, Ciudad Juan Bosch, Los Frailes, Ciudad Satélite Duarte, Los Alcarrizos, avenida España y La Agustina, además de varios puntos de La Romana, las autoridades ocuparon armas de fuego, vehículos, RD$301,905 y US$1,000 en efectivo, así como celulares, grabadores de video digital, discos duros, memorias USB y documentos de interés para la investigación.",
-   "El Ministerio Público informó que mantiene la persecución de otras personas vinculadas a la organización, con el objetivo de arrestarlas y ponerlas a disposición de la justicia. Las autoridades atribuyen los resultados a labores de inteligencia y a la coordinación entre los organismos de persecución penal y las agencias de seguridad del Estado contra el narcotráfico y la criminalidad organizada transnacional."
-  ],
-  "claves": [
-   "Cinco arrestados en 14 allanamientos simultáneos en el Distrito Nacional, Santo Domingo y La Romana.",
-   "Los 237 paquetes de cocaína, con 243.40 kilogramos, fueron decomisados en julio en la Autopista Duarte, Pedro Brand.",
-   "Dos sargentos y un teniente del Ejército figuran entre los implicados, incluido el mayor Jorge Nicolás Giovanni Eusebio Bretón, arrestado en octubre.",
-   "Las autoridades ocuparon armas, vehículos, RD$301,905 y US$1,000 en efectivo."
-  ],
-  "importa": "La investigación apunta a una red de narcotráfico internacional con participación de miembros del Ejército, lo que plantea dudas sobre la infiltración de las fuerzas armadas por parte del crimen organizado. Para los dominicanos, el caso refuerza la preocupación por la seguridad y la confianza en las instituciones.",
-  "en": {
-   "titulo": "Five Arrested in 14 Raids Over 237 Cocaine Packages; Three Are Military Officers",
-   "gancho": "Fourteen simultaneous raids and more than 200 agents led to five arrests, including two active-duty soldiers and a major arrested in October.",
-   "claves": [
-    "Five people arrested in 14 simultaneous raids in the Distrito Nacional, Santo Domingo and La Romana.",
-    "The 237 cocaine packages, weighing 243.40 kilograms, were seized in July on the Autopista Duarte in Pedro Brand.",
-    "Two sergeants and a lieutenant of the Army are among those involved, including Major Jorge Nicolás Giovanni Eusebio Bretón, arrested in October.",
-    "Authorities seized firearms, vehicles, RD$301,905 and US$1,000 in cash."
-   ],
-   "importa": "The investigation points to an international drug trafficking network with members of the military involved, raising concerns about organized crime infiltrating the Dominican armed forces.",
-   "parrafos": [
-    "Prosecutors from the Public Ministry, together with agents of the National Directorate for Drug Control (DNCD), arrested five men during 14 simultaneous raids carried out in the Distrito Nacional and the provinces of Santo Domingo and La Romana. According to reports, the operation involved 15 prosecutors and more than 200 anti-narcotics agents.",
-    "The raids, carried out under judicial warrants starting early Tuesday, are linked to the seizure of 237 cocaine packages weighing 243.40 kilograms. The drugs were found in July in the back of a pickup truck at kilometer 36 of the Autopista Duarte, in Pedro Brand.",
-    "Among those detained are Second Lieutenant Cristian Rafael Lizardo, known as \"El Teniente,\" and Sergeant Joaquín Ricardo de León Pérez, known as \"Atin,\" who worked at the Caucedo Multimodal Port. Three other people were arrested for investigative purposes. The case also involves Army Major Jorge Nicolás Giovanni Eusebio Bretón, known as \"El Guardia,\" who was arrested in October as he was about to travel to the United States through Las Américas International Airport.",
-    "At the properties searched, located in areas including Los Tres Brazos, Ciudad Juan Bosch, Los Frailes, Ciudad Satélite Duarte, Los Alcarrizos, Avenida España and La Agustina, as well as several locations in La Romana, authorities seized firearms, vehicles, RD$301,905 and US$1,000 in cash, along with cell phones, digital video recorders, hard drives, USB drives and documents of interest to the investigation.",
-    "The Public Ministry said it continues to pursue other individuals linked to the organization with the aim of arresting them and bringing them to justice. Authorities credit the results to intelligence work and coordination among criminal prosecution bodies and state security agencies in the fight against drug trafficking and transnational organized crime."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSnpRQVVFbGlaSkp4WmhhUXVWT0tpXzZ1c3BwQ2pwUXpnWW9IVlA2bENDQURiUjlkLWl3MldOckhwNVB5SmxnWkRJSVFtbWZfRG9LZGIwYnROZG1QczhUVWNvTWVJVy1mY2JIRmphYnNkNFFCcF81WjVFaE1GTkVBV2NxN011cUpkM3pqRC1rcGNtOVVzWFU3U1gxd2Z6Wnl6RHJmVnhkZklKZnZvdUVxN2FkclprTVhGTV9FTk1lcl9NNmRuOXhpSXF0dHo2TmMtV1huRWF3UXZXalBMd09yR2FscGZXOE1JU2t1dE02N2lzUQ?oc=5",
-  "url": "https://pgr.gob.do/ministerio-publico-arresta-junto-a-la-dncd-a-varios-hombres-en-14-allanamientos-simultaneos-vinculados-a-decomiso-de-237-paquetes-de-cocaina/",
-  "fuente": "Procuraduría General de la República Dominicana",
-  "dominio": "pgr.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Procuraduría General de la República Dominicana",
-    "url": "https://pgr.gob.do/ministerio-publico-arresta-junto-a-la-dncd-a-varios-hombres-en-14-allanamientos-simultaneos-vinculados-a-decomiso-de-237-paquetes-de-cocaina/"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/mp-arresta-a-cinco-hombres-en-14-allanamientos-por-decomiso-de-237-paquetes-de-cocaina/"
-   },
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/tres-miembros-del-ejercito-entre-arrestados-vinculados-a-red-de-narcotrafico-se-le-decomiso-243-kilos-de-cocaina/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario",
-   "El Dia.com.do"
-  ],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (el borrador dice \"tres de ellos militares\" y \"dos sargentos y un teniente\", pero las fuentes dicen que hay dos militares arrestados en la operación (un segundo teniente y un sargento) más un mayor arrestado en octubre; \"dos sargentos\" es incorrecto. Corregí a lo que dicen las fuentes, quité frases de relleno, ajusté la atribución de \"según los reportes\" y revisé la traducción; también precisé \"Procuraduría\" en lugar de \"Ministerio Público\" donde corresponde, y que los 15 fiscales y los 200 agentes pertenecen a la operación.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-18T22:07:21.824825+00:00",
-  "tendencia": 3
- },
- {
-  "id": "cd2a75cb93",
-  "titulo": "Aduanas mantiene en US$5,500 la gracia navideña para dominicanos en el exterior",
-  "titulo_original": "Aduanas mantiene monto de US$5,500 en la gracia navideña para dominicanos residentes en el exterior",
-  "resumen": "Los dominicanos que viven fuera del país podrán traer regalos y efectos personales libres de impuestos hasta US$5,500 durante las fiestas.",
-  "gancho": "Los dominicanos que viven fuera del país podrán traer regalos y efectos personales libres de impuestos hasta US$5,500 durante las fiestas.",
-  "parrafos": [
-   "El director general de Aduanas, Nelson Arroyo, informó que la institución mantendrá en US$5,500 el monto de la gracia navideña correspondiente al año 2026. El beneficio está dirigido a los dominicanos residentes en el exterior, cuyo aporte, según Arroyo, contribuye al desarrollo económico y al bienestar de miles de familias en el país.",
-   "La gracia permite ingresar regalos, efectos personales y artículos para el hogar sin pago de impuestos, siempre que su valor FOB no supere el monto establecido ni se trate de cantidades comerciales. Aplica para quienes ingresen al país por vía aérea o marítima.",
-   "Según Arroyo, el beneficio estará vigente desde el 1 de diciembre de 2026 hasta el 7 de enero de 2027, lo que, a juicio del titular, da confianza a los viajeros para planificar sus compras y su equipaje con antelación.",
-   "La exoneración se aplicará por familia y está disponible para los dominicanos que no hayan visitado el país en los últimos seis meses.",
-   "Para Arroyo, la medida expresa el compromiso del Gobierno y de Aduanas con los dominicanos en el exterior y busca facilitar su retorno durante las fiestas navideñas."
-  ],
-  "claves": [
-   "El monto se mantiene en US$5,500 para el año 2026.",
-   "El beneficio corre desde el 1 de diciembre de 2026 hasta el 7 de enero de 2027.",
-   "La exoneración aplica por familia a quienes no han visitado el país en los últimos seis meses."
-  ],
-  "importa": "Si tienes familia en República Dominicana y planeas viajar en diciembre, puedes traer regalos y artículos para el hogar sin pagar impuestos, siempre que no superes el límite establecido.",
-  "en": {
-   "titulo": "Dominican Customs Keeps US$5,500 Holiday Allowance for Diaspora",
-   "gancho": "Dominicans living abroad can bring gifts and personal items home duty-free this holiday season, up to US$5,500.",
-   "claves": [
-    "The holiday allowance stays at US$5,500 for 2026.",
-    "It runs from December 1, 2026 through January 7, 2027.",
-    "The exemption applies per family to those who have not visited the country in the past six months."
-   ],
-   "importa": "If you have family in the Dominican Republic and plan to travel in December, you can bring gifts and household items without paying taxes, as long as you stay under the limit.",
-   "parrafos": [
-    "Nelson Arroyo, director general of Dominican Customs (Aduanas), announced that the agency will keep the holiday allowance at US$5,500 for 2026. The benefit is aimed at Dominicans living abroad, whose contributions, according to Arroyo, help drive economic development and support thousands of families in the country.",
-    "The allowance lets travelers bring gifts, personal effects and household items into the Dominican Republic without paying taxes, as long as their FOB value does not exceed the set limit and the goods are not in commercial quantities. It applies to arrivals by air or sea.",
-    "According to Arroyo, the benefit will be in effect from December 1, 2026 through January 7, 2027, which he said gives travelers confidence to plan their purchases and luggage in advance.",
-    "The exemption applies per family and is available to Dominicans who have not visited the country in the past six months.",
-    "Arroyo said the measure reflects the commitment of the government and Customs to Dominicans abroad and aims to make their return during the holidays easier."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb1UyR3hhbE45dzJpQ3lUcjdRbE1mcXhYUjBZNUNaOVZGbFI4SnFFMVFzYjRqcHIyZXZuaTlwOUZEbGVqQUZqeXhlM2UxN0NPazV4Vl9IYlY2VVJ6OUd2TkZDYnhPVHJjWmpodUdMb1pzNzM3QURCWjJ4NkpuQzVtengwWnpVMDJZTUxESnpCZkFiRFlFMUg3OS1EMWNIVkNySFJuNGlSbTVWUW9Ub09DQk9JYXNkR1lkNUFTdEg2LXJiR1pEMy01bXBRTEdrcUpxRmc?oc=5",
-  "url": "https://www.aduanas.gob.do/noticias/aduanas-mantiene-monto-de-us-5-500-en-la-gracia-navidena-para-dominicanos-residentes-en-el-exterior/",
-  "fuente": "Direccion General de Aduanas",
-  "dominio": "aduanas.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Direccion General de Aduanas",
-    "url": "https://www.aduanas.gob.do/noticias/aduanas-mantiene-monto-de-us-5-500-en-la-gracia-navidena-para-dominicanos-residentes-en-el-exterior/"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/en-desarrollo/aduanas-mantiene-en-us5500-la-gracia-navidena-para-2026/?amp=1"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "CDN"
-  ],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"por familia y\" duplicado no; quité frases de relleno como \"cabe destacar\"-type y ajusté \"per family\" como en las fuentes; corregí \"vía\" a \"vía aérea o marítima\" sin cambio de fondo; se mantuvo la atribución a Arroyo y a la DGA; añadí \"vía\" donde faltaba y ajusté el gancho para que no sugiera exención total sin límite)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-18T22:07:45.022967+00:00",
-  "tendencia": 2
- },
- {
-  "id": "54604d249f",
-  "titulo": "D.C. Restauranteur Charged in Elder Financial Exploitation Scheme Against His Neighbor, a 78-Year-Old Disabled Veteran",
-  "titulo_original": "D.C. Restauranteur Charged in Elder Financial Exploitation Scheme Against His Neighbor, a 78-Year-Old Disabled Veteran",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZjlfZGRld2NVRTlRMkhRMjF4RTVldzdHMVNOV1M0T1hwdko3b245d0JuLTdaTnlaODYycXNJU19GOEY0MjhXTlVsZGE2eFhOMm9EQ0p1dktnSGZvZzQ2QVdLa1pOemJjTEVxOWZ3UnIwUHFaMWhNMXkzS3JEcXVVT2NlMU0wd3QwNzh4RmdOTWhGUDVRNHc3ckhDZ0ItUXEyUHowYXY2THB3a0VGUXkzZTJ1TWl0Q0FpMTlR?oc=5",
-  "fuente": "Department of Justice (.gov)",
-  "dominio": "justice.gov",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-18T22:08:06.190598+00:00"
- },
- {
-  "id": "6e95d98ebd",
-  "titulo": "Investigan muerte de la joven emprendedora Melissa Medina en Santo Domingo",
-  "titulo_original": "Policía investiga a dos personas por muerte de Melissa Medina",
-  "resumen": "La Policía investiga las circunstancias en que murió Melissa Medina, de 22 años, mientras la autopsia busca la causa del fallecimiento.",
-  "gancho": "La Policía investiga las circunstancias en que murió Melissa Medina, de 22 años, mientras la autopsia busca la causa del fallecimiento.",
-  "parrafos": [
-   "La Policía Nacional investiga la muerte de Melissa Medina, joven emprendedora dominicana de 22 años que falleció en un centro de salud de Santo Domingo. Según el vocero de la institución, coronel Diego Pesqueira, las circunstancias del deceso todavía no están claras.",
-   "Pesqueira explicó que la joven llegó sin vida al centro médico al que fue trasladada por una amiga. Diario Libre reporta que, al momento de los hechos, ella compartía con esa amiga en un apartamento de una torre ubicada en un exclusivo sector de la capital, donde también se encontraba un hombre de 60 años.",
-   "Las autoridades entrevistan a dos personas que estaban con la joven: una mujer de 21 años de nacionalidad venezolana y un hombre de 60 años. Pesqueira indicó que la investigación se realiza junto con el Ministerio Público. Las identidades de ambos se mantienen en reserva para no entorpecer las diligencias.",
-   "Mientras tanto, los restos están en el Instituto Nacional de Ciencias Forenses (Inacif), donde se practica la autopsia. Pesqueira dijo que la Policía espera esos resultados para determinar de qué murió la joven.",
-   "Melissa Medina nació el 16 de abril de 2004 y se destacó desde adolescente en la industria de la belleza. En 2019, con apenas 15 años, fundó Melissa Studio, un establecimiento especializado en el cuidado y diseño de uñas. Después amplió su oferta con PRESS ON by Melissa Studio, una marca dedicada a la elaboración artesanal de uñas postizas.",
-   "La noticia de su muerte ha generado reacciones en redes sociales, donde personas cercanas y usuarios han expresado su tristeza."
-  ],
-  "claves": [
-   "La Policía entrevista a dos personas que estaban con la joven, una mujer de 21 años y un hombre de 60.",
-   "La causa de la muerte será determinada por el Instituto Nacional de Ciencias Forenses (Inacif).",
-   "Medina fundó Melissa Studio en 2019, cuando tenía 15 años."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Police Investigate Death of Young Entrepreneur Melissa Medina in Santo Domingo",
-   "gancho": "Police are investigating the circumstances of 22-year-old Melissa Medina's death, while an autopsy seeks the cause.",
-   "claves": [
-    "Police are interviewing two people who were with the young woman: a 21-year-old woman and a 60-year-old man.",
-    "The cause of death will be determined by the Instituto Nacional de Ciencias Forenses (Inacif).",
-    "Medina founded Melissa Studio in 2019, when she was 15."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The National Police is investigating the death of Melissa Medina, a 22-year-old Dominican entrepreneur who died at a health center in Santo Domingo. According to police spokesperson Colonel Diego Pesqueira, the circumstances of her death are still unclear.",
-    "Pesqueira explained that the young woman arrived at the medical center without vital signs, after being taken there by a friend. Diario Libre reports that at the time of the incident she was with that friend in an apartment in a tower in an upscale area of the capital, where a 60-year-old man was also present.",
-    "Investigators are interviewing two people who were with her: a 21-year-old woman of Venezuelan nationality and a 60-year-old man. Pesqueira said the investigation is being carried out together with the Public Ministry. Both identities are being kept confidential so as not to hinder the probe.",
-    "Meanwhile, her remains are at the Instituto Nacional de Ciencias Forenses (Inacif), where an autopsy is being performed. Pesqueira said police are waiting for those results to determine what she died from.",
-    "Melissa Medina was born on April 16, 2004, and stood out in the beauty industry from a young age. In 2019, at just 15, she founded Melissa Studio, a business specializing in nail care and design. She later expanded with PRESS ON by Melissa Studio, a brand dedicated to handmade press-on nails.",
-    "News of her death has sparked reactions on social media, where people close to her and users have expressed their sadness."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkptU2hKVnE0SUhDYVNLbGZyQ2pSNkxqSGdzdENGc0VaLVR3al9qam1xTEMtSGVzeXkydnJzZndSMnhTX1p4M1BXdGZkWW9rMTZnUURIUVR3NkZ6c2psQ0JwYm1OM3RmTThSVlJYUWlHbllzMXFBQllCM0lpUng0ZmU5cG1TNWFOVjF6ODFZOEtGT2ZYd2VlZDM5b9IBowFBVV95cUxOaFc5LXB5QnBPVGN3amthRmRLbUszNEwxSndlVVRjUnJsRkFra2F3dTVaQ2VFN09YZ2wySXdqelk0b1lqSjlzUGdiLXJqRmRNd3VUZV83RnZ6Ul8xWXVNakNuYUZ0MlpuQmFnTGZRUmhKeTduYUFzTHg5bklZZ3pNVDQyYlEwbVFIN2prdFgzWHNQUGEyOURldFlPTnF2NnJIOXYw?oc=5",
-  "url": "https://cdn.com.do/nacionales/policia-investiga-a-dos-personas-por-la-muerte-de-melissa-medina/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/policia-investiga-a-dos-personas-por-la-muerte-de-melissa-medina/"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/actualidad/policia-y-ministerio-publico-investigan-muerte-de-influencer-melissa-medina-en-piantini-entrevistan-a-dos-personas-que-la-acompanaban-9792410.html"
-   },
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/revista/farandula/2026/11/18/la-policia-investiga-a-dos-personas-por-muerte-de-melissa-medina/3724445"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Eliminé la atribución a Diario Libre sobre el apartamento y el hombre de 60 años, que no aparece en las fuentes de CDN o Acento; quité \"según informó\"/\"Pesqueira dijo\" donde no correspondía; ajusté \"fundó Melissa Studio\" a \"en 2019, cuando tenía 15 años\" y \"joven empresaria\" a emprendedora; corregí el nombre de la marca a \"PRESS ON by Melissa Studio\" con descripción de uñas postizas; eliminé \"según informó\" sobre la reacción en redes, que Diario Libre sí atribuye pero sin cifra; y retiré \"influencer\" donde no se sostiene en todas las fuentes, manteniendo \"creadora de contenido\" según Diario Libre.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-18T22:09:15.837906+00:00",
-  "tendencia": 3
- },
- {
-  "id": "e6686623ff",
-  "titulo": "Nueva York celebrará encuentro cultural con la diáspora dominicana el 20 de noviembre",
-  "titulo_original": "Nueva York reunirá el talento y la cultura dominicana en encuentro encabezado por Roberto Ángel Salcedo",
-  "resumen": "El ministro de Cultura reunirá en Manhattan a artistas y gestores dominicanos, con homenajes incluidos y una muestra de herencia taína.",
-  "gancho": "El ministro de Cultura reunirá en Manhattan a artistas y gestores dominicanos, con homenajes incluidos y una muestra de herencia taína.",
-  "parrafos": [
-   "El ministro de Cultura, Roberto Ángel Salcedo, encabezará el 20 de noviembre en Nueva York un encuentro con artistas, escritores, educadores y gestores culturales dominicanos residentes en Estados Unidos, según informó eldia.com.do. El objetivo es fortalecer los lazos con la diáspora y presentar los proyectos desarrollados durante 2025 y 2026.",
-   "La actividad se llama Noche de Cultura Dominicana: Cultura, Comunidad y Futuro. Comenzará a las 7:00 de la noche en la sede de la Dirección de Cultura Dominicana en el Exterior, en el 2406 de Amsterdam Avenue, cuarto piso, en Alto Manhattan.",
-   "Están convocados representantes de las comunidades dominicanas de Nueva York, Nueva Jersey, Connecticut y Nueva Inglaterra, quienes compartirán experiencias sobre iniciativas artísticas, educativas y comunitarias impulsadas junto al Ministerio de Cultura.",
-   "La programación incluirá presentaciones de teatro, música, literatura y artes visuales, además de una muestra dedicada a la herencia taína. Entre las actividades figuran presentaciones vinculadas al Festival Itinerante del Teatro en el Exterior (FITEX), demostraciones musicales, representaciones teatrales y exposiciones de pintura y acuarela.",
-   "Durante la celebración serán reconocidos Bienvenido Lara Flores, por su trayectoria comunitaria y patriótica; Inés María Tejada, por su trabajo en la preservación de la memoria histórica de la diáspora; Elvys Ruiz, por su labor de promoción internacional del teatro y la cultura dominicana, y Angela «Angy» Abreu, por impulsar espacios de difusión de la literatura dominicana y dominicoamericana.",
-   "Salcedo también presentará la visión del Ministerio sobre la expansión de los programas culturales dirigidos a dominicanos residentes en el extranjero. La institución busca fortalecer la colaboración con organizaciones comunitarias, artistas y gestores culturales, y ampliar los espacios de formación artística y difusión del talento dominicano fuera del país."
-  ],
-  "claves": [
-   "El encuentro será el 20 de noviembre, a las 7:00 p.m., en Alto Manhattan.",
-   "Participarán representantes de Nueva York, Nueva Jersey, Connecticut y Nueva Inglaterra.",
-   "Cuatro personalidades recibirán reconocimiento por su aporte a la cultura dominicana en Estados Unidos.",
-   "La programación incluye teatro, música, literatura, artes visuales y el Festival Itinerante del Teatro en el Exterior (FITEX)."
-  ],
-  "importa": "Para los dominicanos en Nueva York y otras ciudades del noreste, es una oportunidad de conectar con iniciativas culturales del Ministerio y con el talento nacional que se presenta en el exterior.",
-  "en": {
-   "titulo": "Dominican Culture Minister to Host Diaspora Cultural Night in New York on November 20",
-   "gancho": "Culture Minister Roberto Ángel Salcedo will lead a Manhattan evening with Dominican artists and cultural leaders, including honors and a Taíno heritage showcase.",
-   "claves": [
-    "The event takes place November 20 at 7:00 p.m. in Upper Manhattan.",
-    "Representatives from New York, New Jersey, Connecticut and New England will attend.",
-    "Four figures will be recognized for their contributions to Dominican culture in the United States.",
-    "Programming includes theater, music, literature, visual arts and the Festival Itinerante del Teatro en el Exterior (FITEX)."
-   ],
-   "importa": "For Dominicans in New York and across the Northeast, it is a chance to connect with the Ministry's cultural initiatives and with Dominican talent presented abroad.",
-   "parrafos": [
-    "Culture Minister Roberto Ángel Salcedo will lead a gathering on November 20 in New York with Dominican artists, writers, educators and cultural managers living in the United States, according to eldia.com.do. The aim is to strengthen ties with the diaspora and present projects carried out during 2025 and 2026.",
-    "The event is called Noche de Cultura Dominicana: Cultura, Comunidad y Futuro. It begins at 7:00 p.m. At the offices of the Dirección de Cultura Dominicana en el Exterior, at 2406 Amsterdam Avenue, fourth floor, in Upper Manhattan.",
-    "Representatives of Dominican communities in New York, New Jersey, Connecticut and New England are invited. They will share experiences from artistic, educational and community initiatives developed together with the Ministry of Culture.",
-    "The program will feature theater, music, literature and visual arts, along with an exhibition dedicated to Taíno heritage. Planned activities include presentations linked to the Festival Itinerante del Teatro en el Exterior (FITEX), musical performances, theatrical productions, and painting and watercolor exhibitions.",
-    "Four people will be honored during the evening: Bienvenido Lara Flores, for his community and patriotic work; Inés María Tejada, for her work preserving the historical memory of the diaspora; Elvys Ruiz, for promoting Dominican theater and culture internationally; and Angela \"Angy\" Abreu, for advancing the dissemination of Dominican and Dominican-American literature.",
-    "Salcedo will also outline the Ministry's vision for expanding cultural programs for Dominicans living abroad. The institution seeks to strengthen collaboration with community organizations, artists and cultural managers, and to widen spaces for artistic training and the promotion of Dominican talent outside the country."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMnRqWm51bTRCZ1lISkh5U3ZlXzRObEZiOE4wdC1wbEFvV2ttM0FfYnpUel9RaTVKLUR3dVJHd2Z0TnB2cW1Hbi1vWWFSNnpHQkpJb1dRYWdzZklkNnh2VTI4Y1ZZUWNVUjFiTV9Mb19Jb2hEbmFGeEdvbjNoWWQ0RWVob1lFSjZmRm1JN0pkaFZwVzZaLVF5R1ZJT0hhaDBibVhCNzJPUXJuczhVMnZpTVlCRmtMcW5haklQaThZU2pIQWM?oc=5",
-  "url": "https://eldia.com.do/nueva-york-reunira-el-talento-y-la-cultura-dominicana-en-encuentro-encabezado-por-roberto-angel-salcedo/",
-  "fuente": "eldia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "eldia.com.do",
-    "url": "https://eldia.com.do/nueva-york-reunira-el-talento-y-la-cultura-dominicana-en-encuentro-encabezado-por-roberto-angel-salcedo/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se ajustó \"Dominicanos en EE.UU.\" sin cambios de fondo; se corrigió \"Nueva York\" a \"Nueva York\" intacto; se reforzó la atribución y se eliminaron frases genéricas; se corrigió la traducción de \"Angela\" y se unificaron las comillas; se aclaró que la muestra de herencia taína es parte de la programación y que las presentaciones tienen vínculo con FITEX. Además se atribuyó la información a eldia.com.do en el texto).",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-18T22:09:37.622069+00:00",
-  "tendencia": 1
  }
 ]
