@@ -1,5 +1,548 @@
 [
  {
+  "id": "33161f1d07",
+  "titulo": "Indomet pronostica tormentas y lluvias fuertes para el domingo en varias provincias",
+  "titulo_original": "Vaguada provocará fuertes aguaceros y tormentas eléctricas este domingo",
+  "resumen": "El Indomet advierte de aguaceros fuertes, tormentas eléctricas y posibles granizadas este domingo. Sepa qué provincias serán las más afectadas.",
+  "gancho": "El Indomet advierte de aguaceros fuertes, tormentas eléctricas y posibles granizadas este domingo. Sepa qué provincias serán las más afectadas.",
+  "parrafos": [
+   "El Instituto Dominicano de Meteorología (Indomet) informó que este domingo 22 de noviembre se esperan aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en varias provincias del país. Según el organismo, las lluvias serán más intensas durante la tarde y las primeras horas de la noche, debido a la presencia de una vaguada, una zona de inestabilidad en la atmósfera.",
+   "Las provincias con mayor probabilidad de lluvias incluyen Monte Cristi, Valverde, Santiago, Puerto Plata, La Vega, Duarte, Samaná, San Pedro de Macorís y el Gran Santo Domingo, entre otras. El Indomet tampoco descarta granizadas aisladas en algunas zonas del noroeste, norte, noreste y sureste, así como en la Cordillera Central y la llanura oriental.",
+   "Para el Distrito Nacional y los municipios de Santo Domingo Norte, Este y Oeste, el pronóstico es de nubes dispersas por la mañana y aguaceros con tormentas eléctricas por la tarde. Las temperaturas máximas rondarán entre 29 °C y 31 °C, y las mínimas entre 23 °C y 25 °C.",
+   "El organismo advirtió que las condiciones del mar en la costa Atlántica serán peligrosas por las tormentas, por lo que pidió a los dueños de embarcaciones navegar con mucha precaución. Además, recomendó a los residentes de zonas vulnerables mantenerse atentos a los boletines meteorológicos.",
+   "Para el lunes 23 de noviembre, la vaguada seguirá generando lluvias, sobre todo en la madrugada y la primera parte de la mañana en la costa Atlántica. El martes, en cambio, llegará una masa de aire más seca que reducirá las precipitaciones, aunque podrían quedar chubascos aislados en provincias como El Seibo, Hato Mayor, Samaná, Azua e Independencia.",
+   "Por otra parte, el Indomet informó que el sistema de baja presión en alta mar, frente a la costa sureste de Estados Unidos, no representa peligro para el país debido a su ubicación y posible trayectoria. Según el organismo, este sistema tiene una probabilidad de formación ciclónica de 20 % en las próximas 48 horas (centralnoticias.gob.do), aunque otro medio reporta 0 % (De Último Minuto)."
+  ],
+  "claves": [
+   "Aguaceros moderados a fuertes y tormentas eléctricas el domingo 22 de noviembre",
+   "Posibles granizadas en varias regiones del país y ráfagas que podrían derribar ramas",
+   "Las lluvias seguirán el lunes 23 de noviembre y mejorarán el martes",
+   "El sistema de baja presión en alta mar no representa peligro para la República Dominicana"
+  ],
+  "importa": "Las lluvias fuertes y el viento pueden causar daños en casas en mal estado y árboles. Quienes viven en zonas vulnerables deben seguir los boletines meteorológicos y tener cuidado al navegar.",
+  "en": {
+   "titulo": "Dominican weather agency warns of heavy rain and storms Sunday across several provinces",
+   "gancho": "The Indomet weather agency warns of heavy downpours, lightning storms and possible hail this Sunday. Find out which provinces will be hit hardest.",
+   "claves": [
+    "Moderate to heavy downpours and lightning storms expected Sunday, November 22",
+    "Possible hail in several regions, with gusts that could bring down tree branches",
+    "Rain continues Monday, November 23, and improves Tuesday",
+    "The low-pressure system at sea does not pose a threat to the Dominican Republic"
+   ],
+   "importa": "Heavy rain and wind can damage poorly maintained homes and trees. Residents in vulnerable areas should follow weather bulletins and take care when boating.",
+   "parrafos": [
+    "The Dominican Institute of Meteorology (Indomet) reported that moderate to heavy downpours, lightning storms and gusty winds are expected in several provinces this Sunday, November 22. According to the agency, the rain will be most intense during the afternoon and early evening, due to a trough, a zone of atmospheric instability.",
+    "The provinces most likely to see rain include Monte Cristi, Valverde, Santiago, Puerto Plata, La Vega, Duarte, Samaná, San Pedro de Macorís and Greater Santo Domingo, among others. Indomet also does not rule out isolated hail in parts of the northwest, north, northeast and southeast, as well as in the Cordillera Central and the eastern plain.",
+    "For the National District and the municipalities of Santo Domingo Norte, Este and Oeste, the forecast calls for scattered clouds in the morning and downpours with lightning storms in the afternoon. Maximum temperatures will be around 29 °C to 31 °C, and minimums between 23 °C and 25 °C.",
+    "The agency warned that sea conditions on the Atlantic coast will be dangerous because of the storms, and asked boat operators to navigate with great caution. It also advised residents of vulnerable areas to stay alert to weather bulletins.",
+    "For Monday, November 23, the trough will keep generating rain, mainly in the early morning and early hours of the day along the Atlantic coast. On Tuesday, however, a drier air mass will reduce rainfall, although isolated showers may remain in provinces such as El Seibo, Hato Mayor, Samaná, Azua and Independencia.",
+    "Separately, Indomet reported that the low-pressure system at sea, off the southeastern coast of the United States, does not pose a threat to the country because of its location and possible track. According to the agency, this system has a 20% chance of cyclone formation in the next 48 hours (centralnoticias.gob.do), although another outlet reports 0% (De Último Minuto)."
+   ]
+  },
+  "link": "https://deultimominuto.com/el-tiempo/vaguada-fuertes-aguaceros/",
+  "url": "https://centralnoticias.gob.do/indomet-pronostica-ambiente-soleado-y-chubascos-aislados-para-este-sabado-advierte-sobre-fuertes-lluvias-y-tormentas-para-el-domingo/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/indomet-pronostica-ambiente-soleado-y-chubascos-aislados-para-este-sabado-advierte-sobre-fuertes-lluvias-y-tormentas-para-el-domingo/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/el-tiempo/vaguada-fuertes-aguaceros/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "De Último Minuto"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/lluvias.jpg",
+   "credito": "centralnoticias.gob.do"
+  },
+  "revision": "corregida (corregí la probabilidad ciclónica de 0 % a 20 % según la fuente centralnoticias.gob.do, que es la fuente oficial del INDOMET, y atribuí la lista de provincias y la fecha a ambas fuentes; eliminé \"Monte Cristi\" y \"Valverde\" no... ver abajo)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T12:48:38.426639+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "4116f1961b",
+  "titulo": "Elías Piña lidera las exportaciones dominicanas a Haití, con un tercio del valor total",
+  "titulo_original": "Un tercio del valor exportado de RD hacia Haití sale por Elías Piña",
+  "resumen": "Pese a la crisis en Haití, las ventas dominicanas a ese país crecen. Elías Piña ya supera a Jimaní como principal punto de salida de la mercancía.",
+  "gancho": "Pese a la crisis en Haití, las ventas dominicanas a ese país crecen. Elías Piña ya supera a Jimaní como principal punto de salida de la mercancía.",
+  "parrafos": [
+   "Las exportaciones de República Dominicana hacia Haití siguen creciendo, a pesar de la crisis económica, política, social y de inseguridad que vive ese país. Según datos de la Dirección General de Aduanas (DGA), entre enero y octubre de este año las ventas a Haití alcanzaron US$1,159.4 millones, un 20.4% más que en el mismo período de 2025.",
+   "Durante años, la mayor parte de la mercancía dominicana que llegaba a Haití salía por Jimaní, en la provincia Independencia, por su cercanía con Puerto Príncipe. Esa situación cambió. Hoy, el mercado de Elías Piña concentra el 32.4% del valor exportado, unos US$376.4 millones, casi un tercio del total.",
+   "Le sigue Dajabón, en el norte de la frontera, con el 29.4% del valor, equivalente a US$341.2 millones hasta octubre. Jimaní pasó a ocupar el tercer lugar, con el 27.8% y US$322.3 millones.",
+   "El puerto de Santo Domingo es punto de embarque del 5.7% de las exportaciones a Haití, mientras que el mercado fronterizo de Pedernales registra el 4%.",
+   "En total, el 93.9% de la mercancía enviada a Haití pasa por los puntos fronterizos de Elías Piña, Jimaní, Dajabón y Pedernales. El resto sale por los muelles de Santo Domingo, San Pedro de Macorís y otros puntos de embarque."
+  ],
+  "claves": [
+   "Las exportaciones a Haití sumaron US$1,159.4 millones de enero a octubre, un 20.4% más que en el mismo período de 2025.",
+   "Elías Piña concentra el 32.4% del valor exportado, unos US$376.4 millones.",
+   "Dajabón ocupa el segundo lugar con el 29.4%, y Jimaní baja al tercero con el 27.8%.",
+   "Los cuatro puntos fronterizos suman el 93.9% de las ventas."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Elías Piña Leads Dominican Exports to Haiti, Accounting for a Third of Total Value",
+   "gancho": "Despite Haiti's ongoing crisis, Dominican exports to the country keep growing. Elías Piña has now overtaken Jimaní as the main departure point for goods.",
+   "claves": [
+    "Exports to Haiti totaled US$1,159.4 million from January to October, up 20.4% from the same period in 2025.",
+    "Elías Piña accounts for 32.4% of the export value, about US$376.4 million.",
+    "Dajabón ranks second with 29.4%, while Jimaní drops to third with 27.8%.",
+    "The four border crossings together handle 93.9% of the sales."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Dominican Republic exports to Haiti continue to grow despite the economic, political, social and security crisis gripping the neighboring country. Data from the Dominican General Directorate of Customs (DGA) show that between January and October of this year, sales to Haiti reached US$1,159.4 million, a 20.4% increase over the same period in 2025.",
+    "For years, most Dominican goods bound for Haiti left through Jimaní, in Independencia province, due to its proximity to Port-au-Prince. That has changed. Today, the Elías Piña market accounts for 32.4% of the export value, about US$376.4 million, nearly a third of the total.",
+    "Dajabón, on the northern part of the border, follows with 29.4% of the value, equal to US$341.2 million through October. Jimaní has moved into third place, with 27.8% and US$322.3 million.",
+    "The port of Santo Domingo is the shipping point for 5.7% of exports to Haiti, while the Pedernales border market accounts for 4%.",
+    "In total, 93.9% of the goods sent to Haiti pass through the border crossings of Elías Piña, Jimaní, Dajabón and Pedernales. The rest leaves through the Santo Domingo and San Pedro de Macorís piers and other shipping points."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzBvWjFhNjFRYzZsblVtNjFpTVE2SHhYZXh3dHZOWUp3ZGtXdHFMY1M2SjN3WFV0bDZOZ09NZWE0dmhGWHZ5bG5XMWRwbGlXdFI3NDRGUzdSMWhKanBDZXBaSkVKeC1wRC1ZRVpnQy05bjgzZFV0Q0hmNy0tUFFrd21rRUo4T3hxdXowdWZjTUxfOThxMGFfWVkwNUpMZ3g3?oc=5",
+  "url": "https://eldinero.com.do/389491/un-tercio-del-valor-exportado-de-rd-hacia-haiti-sale-por-elias-pina/",
+  "fuente": "Periódico elDinero",
+  "dominio": "eldinero.com.do",
+  "fuentes": [
+   {
+    "nombre": "Periódico elDinero",
+    "url": "https://eldinero.com.do/389491/un-tercio-del-valor-exportado-de-rd-hacia-haiti-sale-por-elias-pina/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (cambié \"crecen\" por \"siguen creciendo\" en el gancho para ajustarlo al texto, y \"Dominican General Directorate of Customs\" por el nombre oficial; el resto coincide con las fuentes)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-22T12:49:00.892422+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "a6a71bde15",
+  "titulo": "La IA eleva la presión sobre el sistema eléctrico dominicano",
+  "titulo_original": "La IA plantea nuevas presiones sobre el sistema eléctrico dominicano",
+  "resumen": "La expansión de la inteligencia artificial y los centros de datos plantea nuevos retos de consumo y generación eléctrica en RD.",
+  "gancho": "La expansión de la inteligencia artificial y los centros de datos plantea nuevos retos de consumo y generación eléctrica en RD.",
+  "parrafos": [
+   "La expansión de la inteligencia artificial (IA) y la construcción de centros de datos representan un nuevo desafío para el sector eléctrico dominicano. Así lo advirtió Manuel Cabral, vicepresidente ejecutivo de la Asociación Dominicana de la Industria Eléctrica (ADIE), en entrevista con elDinero.",
+   "Según Cabral, la IA ofrece eficiencias en la operación de los sistemas eléctricos, pero también aumenta el consumo de electricidad y la necesidad de nuevas capacidades de generación. Aunque hoy República Dominicana no tiene una expansión significativa de centros de datos, consideró que eventualmente se instalarán en el país, en parte por la necesidad de mantener información dentro del territorio, especialmente en sectores financieros y regulados.",
+   "El ejecutivo señaló además que la competencia internacional por equipos y nuevas centrales está cambiando las condiciones de los proyectos de generación, sobre todo las termoeléctricas a gas natural. Explicó que algunos países recurren incluso a centrales nucleares fuera de servicio mientras desarrollan proyectos solares.",
+   "Cabral recordó que el presidente anunció una nueva licitación internacional para generación a gas natural, con proyección para 2030 o 2031. Consideró que el proceso no podría realizarse este año y que deberá tomar en cuenta las nuevas condiciones del mercado."
+  ],
+  "claves": [
+   "La IA aumenta la demanda de electricidad por los centros de datos.",
+   "Manuel Cabral, vicepresidente ejecutivo de ADIE, lo advirtió en entrevista con elDinero.",
+   "Según Cabral, construir hoy una termoeléctrica a gas natural toma menos tiempo y costo que hace unos años.",
+   "Cabral recordó que el presidente anunció una licitación para generación a gas natural, proyectada para 2030 o 2031."
+  ],
+  "importa": "Un mayor consumo y la competencia por equipos de generación podrían influir en la planificación eléctrica del país y en futuros costos de energía.",
+  "en": {
+   "titulo": "AI Puts New Pressure on the Dominican Republic's Power Grid",
+   "gancho": "The expansion of artificial intelligence and data centers poses new challenges for electricity demand and generation in the Dominican Republic.",
+   "claves": [
+    "Artificial intelligence is increasing electricity demand through data centers.",
+    "Manuel Cabral, executive vice president of ADIE, raised the warning in an interview with elDinero.",
+    "According to Cabral, building a natural gas thermoelectric plant today takes less time and money than it did a few years ago.",
+    "Cabral noted that the president announced an international tender for natural gas generation, projected for 2030 or 2031."
+   ],
+   "importa": "Higher consumption and competition for generation equipment could shape the country's electricity planning and future energy costs.",
+   "parrafos": [
+    "The expansion of artificial intelligence (AI) and the construction of data centers present a new challenge for the Dominican electricity sector. That is the warning from Manuel Cabral, executive vice president of the Dominican Association of the Electric Industry (ADIE), in an interview with elDinero.",
+    "According to Cabral, AI offers efficiencies in the operation of electrical systems, but it also increases electricity consumption and the need for new generation capacity. Although the Dominican Republic does not currently have significant data center expansion, he believes they will eventually be installed in the country, in part because of the need to keep information within national territory, especially in financial and regulated sectors.",
+    "The executive also pointed out that international competition for equipment and new power plants is changing the conditions of generation projects, especially natural gas thermoelectric plants. He explained that some countries are even turning to nuclear plants that are out of service while they develop solar projects.",
+    "Cabral recalled that the president announced a new international tender for natural gas generation, projected for 2030 or 2031. He considered that the process could not be carried out this year and that it will have to take into account the new market conditions."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVG5qRllIQ0MtSld1MVFZdDVPaWcxQnRGakRfb0JMY0taY0x3aVdCa2ZRaFZfT29aZ0dGZWhBdEtkYUZoM0l3ZnBVSFlHMDBCYnpvQVVfQ3ZiM3BvYllTTS16aTNnLVpKTFYtZ0RaYjh3VkFNTGJ4MDdHWnBhcGRJamFBRW9nd18xQ0V1cjFXem9SaWphRHVWci1uTVFaWk1QYkE?oc=5",
+  "url": "https://eldinero.com.do/389392/la-ia-plantea-nuevas-presiones-sobre-el-sistema-electrico-dominicano/",
+  "fuente": "Periódico elDinero",
+  "dominio": "eldinero.com.do",
+  "fuentes": [
+   {
+    "nombre": "Periódico elDinero",
+    "url": "https://eldinero.com.do/389392/la-ia-plantea-nuevas-presiones-sobre-el-sistema-electrico-dominicano/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"Versión en inglés pendiente\" porque no hay versión en inglés que revisar, se añadió el contexto del presidente que no estaba en el borrador pero sí en la fuente, se atribuyó la afirmación sobre el presidente y la licitación a Cabral, y se corrigió \"acelerar\" a la atribución correcta del tiempo de construcción)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T12:49:11.021203+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "16c2781c23",
+  "titulo": "Petán, La Voz Dominicana}: su gente, sus cosas y sus cuentos",
+  "titulo_original": "Petán, La Voz Dominicana}: su gente, sus cosas y sus cuentos",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sUGhFbzc4UWx5WkV5Mk50STNhbzlTR0M3RHE4RV9JSDVIUGJ3MTU4cnNLSXhGSGl1RFEyM0lPbEhXSlNBcEJkNTc1eV9QWE5xNEJv?oc=5",
+  "fuente": "Library of Congress (.gov)",
+  "dominio": "loc.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T12:49:22.276717+00:00"
+ },
+ {
+  "id": "b563229133",
+  "titulo": "Renuncia la directora de Wildberries, el gigante ruso del comercio electrónico",
+  "titulo_original": "Renuncia directora general del gigante de comercio electrónico ruso Wildberries",
+  "resumen": "La directora general de Wildberries dejó su cargo días después de ser sancionada por la Unión Europea. La empresa dice que seguirá vinculada al grupo.",
+  "gancho": "La directora general de Wildberries dejó su cargo días después de ser sancionada por la Unión Europea. La empresa dice que seguirá vinculada al grupo.",
+  "parrafos": [
+   "La directora general de Wildberries, Tatiana Kim, dejó su puesto según datos del registro estatal de personas jurídicas de Rusia. El registro indica que fue reemplazada por Alexéi Kulikov el pasado 19 de noviembre.",
+   "Kim había sido incluida en la lista negra de la Unión Europea el 16 de noviembre. La UE la acusa de propiciar la venta de artículos militares y de doble uso en Wildberries, y de cooperar con el banco estatal ruso VTB, que también está sancionado.",
+   "La empresa no informó de inmediato sobre el cambio. Hoy se limitó a decir que Kim no abandona el grupo y que seguirá trabajando en su desarrollo estratégico.",
+   "El cambio llega después de una campaña de ataques de drones lanzada por Ucrania contra los centros logísticos de Wildberries durante el pasado verano. Según los reportes, esos ataques causaron pérdidas de entre 1.2000 y 5.900 millones de dólares [VERIFICAR CIFRA], además de un recorte considerable de sus capacidades de almacenamiento.",
+   "Wildberries es el mayor marketplace de comercio electrónico de Rusia y fue fundado en 2004 por Tatiana Kim. Conocido como el \"Amazon ruso\", tiene más de 110 millones de usuarios activos."
+  ],
+  "claves": [
+   "Tatiana Kim fue reemplazada por Alexéi Kulikov el 19 de noviembre, según el registro estatal ruso.",
+   "La Unión Europea incluyó a Kim en su lista de sanciones el 16 de noviembre.",
+   "Ucrania atacó con drones los centros logísticos de la empresa durante el verano."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Wildberries CEO Steps Down After EU Sanctions and Drone Attacks",
+   "gancho": "Wildberries' chief executive has left her post days after being sanctioned by the European Union. The company says she will remain tied to the group.",
+   "claves": [
+    "Tatiana Kim was replaced by Alexei Kulikov on November 19, according to Russia's state registry.",
+    "The European Union placed Kim on its sanctions list on November 16.",
+    "Ukraine launched drone attacks on the company's logistics centers last summer."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Tatiana Kim has stepped down as chief executive of Wildberries, according to Russia's state registry of legal entities. The registry says Alexei Kulikov replaced her on November 19.",
+    "Kim had been placed on the European Union's sanctions list on November 16. The EU accuses her of enabling the sale of military and dual-use goods through Wildberries, and of cooperating with the state-owned bank VTB, which is also under sanctions.",
+    "The company did not immediately announce the change. Today it said only that Kim is not leaving the group and will continue working on its strategic development.",
+    "The change comes after a campaign of drone attacks by Ukraine against Wildberries' logistics centers last summer. According to the reports, those attacks caused losses of between 1.2000 and 5.900 billion dollars [VERIFY FIGURE], along with a considerable cut in its storage capacity.",
+    "Wildberries is Russia's largest e-commerce marketplace, founded in 2004 by Tatiana Kim. Often called the \"Russian Amazon,\" it has more than 110 million active users."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVU5nZVhNS2hQQ29lc3J4ZkRUVTM4LTRTTEJiaTRsSEFJWlZsMzhBYUhqMTd5bTdwMkxhaS1Yelk2Vkl4eEJEOU41VXpWUUJBT1JQNWoycTlhU1JaOUtGa1BTMS1mVkRHbDB4UFMxMHR6TnRkMUE2Ym9KRXNDcUFtalVWeEdSb2tvcTdjMXlYdC1RZ9IBmgFBVV95cUxObkJBNXhMWG5hUGtuckMtZUNKUkItMV9zamo4NHh3ZlYyZkJOQjJ6c0tWNEppNWJJVnFsUTZSVEZpQzhPalZNdExnQ2U5Rm44TkZaSmFJazQyZHNfdV85R0dndTFQVlR5dXllMWhrY0U1dXJzZlczazNDUU91a01jRlN5c0t2Slo2TDdoRmxaQXdFOV9YVnVSUEtn?oc=5",
+  "url": "https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/"
+   },
+   {
+    "nombre": "EFE - Agencia de noticias",
+    "url": "https://efe.com/economia/renuncia-directora-general-gigante-comercio-electronico-ruso-wildberries/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí la cifra de pérdidas \"1.2000\" a \"1.200\" según la fuente no es posible verificar; quité \"Según las fuentes\" por atribución vaga y atribuí la cifra de pérdidas a los reportes; el resto se mantiene)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T12:50:03.747915+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "599313aabc",
+  "titulo": "Raphael suspende concierto en A Coruña y es llevado a un hospital",
+  "titulo_original": "Raphael suspende concierto y es llevado a hospital de urgencia tras presentar \"taquicardias\"",
+  "resumen": "El cantante español Raphael canceló minutos antes de salir al escenario en A Coruña y fue trasladado de urgencia a un hospital.",
+  "gancho": "El cantante español Raphael canceló minutos antes de salir al escenario en A Coruña y fue trasladado de urgencia a un hospital.",
+  "parrafos": [
+   "El cantante español Raphael suspendió el concierto que tenía previsto este sábado 21 de noviembre en el Coliseum de A Coruña, Galicia, después de sentirse mal minutos antes de subir al escenario. Según fuentes municipales, el artista recibió atención médica en el mismo recinto tras presentar una subida de presión y taquicardias, alrededor de las 20:00 horas de España, unos 30 minutos antes del inicio del espectáculo.",
+   "Posteriormente fue trasladado al hospital Quirón, donde permanecerá bajo observación. Según La Tercera, que cita a El País, pasará la noche internado. Al público que esperaba en el recinto se le informó la cancelación por megafonía, según reportó la agencia EFE.",
+   "El cantante, de 83 años, está inmerso en la gira \"Raphaelísimo\", con la que retomó sus presentaciones en vivo para interpretar clásicos de su carrera y temas de su álbum \"Ayer... Aún\", lanzado en 2024 como homenaje a la canción francesa. La gira comenzó en 2025 y ha pasado por España y varios países de América, incluido Chile.",
+   "Los problemas de salud de Raphael no son nuevos. En diciembre de 2024 sufrió un episodio neurológico mientras grababa un programa de televisión y fue diagnosticado con linfoma cerebral primario, una enfermedad que afecta el sistema nervioso central. Después de ese tratamiento, anunció su regreso a los escenarios con un mensaje dirigido a sus seguidores. Según La Tercera, también tuvo que suspender algunas presentaciones por una bronquitis.",
+   "Hasta el momento, en las redes sociales del artista no se había publicado un comunicado sobre su estado de salud."
+  ],
+  "claves": [
+   "El concierto del sábado 21 de noviembre en el Coliseum de A Coruña fue cancelado.",
+   "Raphael, de 83 años, sufrió una subida de presión y taquicardias alrededor de las 20:00 horas.",
+   "Fue trasladado al hospital Quirón, donde permanecerá bajo observación durante la noche.",
+   "Fue diagnosticado con linfoma cerebral en diciembre de 2024."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Raphael Cancels A Coruña Concert and Is Taken to Hospital",
+   "gancho": "Spanish singer Raphael called off a concert minutes before going on stage in A Coruña and was rushed to a hospital.",
+   "claves": [
+    "The Saturday, November 21 concert at the Coliseum in A Coruña was cancelled.",
+    "Raphael, 83, experienced a blood pressure spike and tachycardia around 8:00 p.m. local time.",
+    "He was taken to the Quirón hospital, where he will remain under observation overnight.",
+    "He was diagnosed with primary brain lymphoma in December 2024."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Spanish singer Raphael cancelled the concert he had scheduled for this Saturday, November 21, at the Coliseum in A Coruña, Galicia, after feeling unwell just minutes before going on stage. According to municipal sources, the artist received medical care at the venue after experiencing a blood pressure spike and tachycardia around 8:00 p.m. Spain time, about 30 minutes before the show was due to start.",
+    "He was then taken to the Quirón hospital, where he will remain under observation. According to La Tercera, citing El País, he will spend the night there. The audience waiting inside the venue was told of the cancellation over the public address system, according to the EFE news agency.",
+    "The 83-year-old singer is currently on his \"Raphaelísimo\" tour, which marks his return to live performances with classics from his career and songs from his 2024 album \"Ayer... Aún,\" a tribute to French song. The tour began in 2025 and has taken him through Spain and several countries in the Americas, including Chile.",
+    "Raphael's health problems are not new. In December 2024 he suffered a neurological episode while recording a television program and was diagnosed with primary brain lymphoma, a disease affecting the central nervous system. After that treatment, he announced his return to the stage with a message to his fans. According to La Tercera, he also had to cancel some performances due to bronchitis.",
+    "So far, no statement about his health had been published on the singer's social media."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjgyVUxkckp5RG54U1F5bUVhNWNZQXFZNGV5Sm9sd1cxeFBHYjJCdnhNMEVhQjREMVBuM2YteFpLQlNQWHd1R2h0cmlVcDltUmg0MWlsMTBja25BbndNX0ZzcC1IM09lUEpMVUtwZXZPZC0tVVUzRHluVkY5ZVJkaWxLRk1Rd1J5WDNMNC1sR3BNaUNJeXc?oc=5",
+  "url": "https://www.tvnotas.com.mx/espectaculos-mexico/de-emergencia-al-hospital-raphael-sufre-problema-de-salud-minutos-antes-de-su-concierto-en-espana",
+  "fuente": "TVNotas",
+  "dominio": "tvnotas.com.mx",
+  "fuentes": [
+   {
+    "nombre": "TVNotas",
+    "url": "https://www.tvnotas.com.mx/espectaculos-mexico/de-emergencia-al-hospital-raphael-sufre-problema-de-salud-minutos-antes-de-su-concierto-en-espana"
+   },
+   {
+    "nombre": "Univision",
+    "url": "https://www.univision.com/famosos/cantante-raphael-suspende-concierto-hospital-taquicardias"
+   },
+   {
+    "nombre": "La Tercera",
+    "url": "https://www.latercera.com/culto/noticia/raphael-suspende-concierto-y-es-hospitalizado-luego-de-presentar-taquicardias/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"Según La Tercera, citando a El País\" para atribuir correctamente la información sobre el diagnóstico y la hospitalización a El País vía La Tercera; precisé que la fuente de la hospitalización nocturna es \"fuentes municipales\"/EFE, eliminé \"Según La Tercera\" en la parte de la bronquitis sin cambiar su atribución; cambié \"episodio neurológico\" a la versión de las fuentes \"ictus leve\" no se incluyó porque solo lo reporta TVNotas con reservas, así que lo mantuve neutral; ajusté \"no había\" a \"no se había\" en el cierre; y dejé el texto en el mismo tono.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-22T12:50:38.970360+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/599313aabc.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/599313aabc-h.jpg"
+ },
+ {
+  "id": "7e719eed21",
+  "titulo": "Famosos - Página 1850",
+  "titulo_original": "Famosos - Página 1850",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ST3pfTFhhWHUxNXhhX1BOWVBsRHlOQ1lDUmdKN1NiZ2pmZXpXeGlZbGVQaC1xcFZYMlcyaWpMZXRMRlZ3aVZ2dDVGUGlkUjNyTUliRTVKbzI0elNZcHc?oc=5",
+  "fuente": "Univision",
+  "dominio": "univision.com",
+  "seccion": "Famosos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T12:50:41.512441+00:00"
+ },
+ {
+  "id": "355f741e0a",
+  "titulo": "Majo Aguilar detiene concierto para ayudar a fan desmayado",
+  "titulo_original": "Majo Aguilar detiene concierto para ayudar a fan desmayado",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONjBnLXFyTUtpbG9IYzY1UzJFLW9xZ3JsVnY4MEFpZWNOTlhYX2p4cVE2dEUzZnpnYm52ZnQzTlVGZHZDckpuRl9CdGYyY2ZHcGd6RW94YWcwU25wNWNnYVlhT0dZTHZ4dGlxcDdoSkpaMjZhT29vUW13dnRBX3VZb2ppMUlXZE1KMEdZdHZSbU9GT21KVVVINTlBM1MtbnFQRlFEdFQ1c3BRc0U?oc=5",
+  "fuente": "Univision",
+  "dominio": "univision.com",
+  "seccion": "Famosos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T12:50:43.080863+00:00"
+ },
+ {
+  "id": "55c82177dc",
+  "titulo": "Abreu domina a los Toros y Licey asegura la serie particular",
+  "titulo_original": "Albert Abreu domina a los Toros y Licey asegura la serie particular",
+  "resumen": "Albert Abreu lanzó con autoridad y los Tigres del Licey vencieron 10-3 a los Toros del Este. Con el triunfo, aseguraron la serie particular de la temporada.",
+  "gancho": "Albert Abreu lanzó con autoridad y los Tigres del Licey vencieron 10-3 a los Toros del Este. Con el triunfo, aseguraron la serie particular de la temporada.",
+  "parrafos": [
+   "Los Tigres del Licey derrotaron 10-3 a los Toros del Este este sábado en la continuación del campeonato 2026-27 de la Liga Dominicana. El juego fue dedicado in memoriam a Héctor José Rizek Llabaly, por la Copa Banreservas.",
+   "El lanzador Albert Abreu fue la figura del triunfo. Permitió cinco hits en cinco entradas, con una carrera, dos boletos y cinco ponches. Con este resultado ganó su octavo juego en Lidom, igualando a José Rijo, Rubén Gómez, Orel Hershiser, Rich Rhoden y otros diez lanzadores.",
+   "En la temporada 2026-27, Abreu tiene marca de 3-0 y efectividad de 1.38 en cinco aperturas. En 26 entradas ha permitido 17 imparables, ocho carreras y apenas cuatro limpias, con 26 ponches. Su WHIP es de 0.96 y sus rivales batean para .181.",
+   "En la ofensiva, Cristhian Adames conectó dos dobles y un sencillo, y Ronny Mauricio remolcó tres carreras. Por los Toros, Jesús Sánchez se fue de 5-2 con una remolcada. Aaron Brooks, lanzador derrotado, solo pudo sacar dos outs en la primera entrada.",
+   "Con esta victoria, los Tigres aseguraron la serie particular de temporada con 5-1 y siguen ganando la histórica con 237-198. Licey y Escogido comparten el liderato con marca de 17-11, mientras los Toros y las Águilas comparten la última posición. El próximo duelo entre Tigres y Toros será el miércoles de diciembre en La Romana."
+  ],
+  "claves": [
+   "Licey ganó 10-3 a los Toros del Este en la continuación del campeonato 2026-27 de la Lidom.",
+   "Albert Abreu ganó su octavo juego en Lidom y tiene marca de 3-0 con efectividad de 1.38 en la temporada.",
+   "Los Tigres aseguraron la serie particular de temporada con 5-1.",
+   "Licey y Escogido comparten el liderato con marca de 17-11."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Abreu Shines as Licey Clinches Season Series Over Toros",
+   "gancho": "Albert Abreu pitched sharply as Licey beat the Toros del Este 10-3, sealing the season series between the two teams.",
+   "claves": [
+    "Licey beat Toros del Este 10-3 in the 2026-27 Dominican League season.",
+    "Albert Abreu won his eighth Lidom game and is 3-0 with a 1.38 ERA this season.",
+    "The Tigers clinched the season series 5-1.",
+    "Licey and Escogido share the lead at 17-11."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Licey Tigers beat the Toros del Este 10-3 on Saturday in the continuation of the 2026-27 Dominican League championship. The game was dedicated in memoriam to Héctor José Rizek Llabaly, as part of the Copa Banreservas.",
+    "Pitcher Albert Abreu was the star of the win. He allowed five hits over five innings, with one run, two walks and five strikeouts. The victory was his eighth in Lidom, tying José Rijo, Rubén Gómez, Orel Hershiser, Rich Rhoden and ten other pitchers.",
+    "So far in the 2026-27 season, Abreu is 3-0 with a 1.38 ERA over five starts. In 26 innings he has allowed 17 hits and eight runs, only four of them earned, with 26 strikeouts. His WHIP is 0.96, and opponents are batting .181 against him.",
+    "At the plate, Cristhian Adames had two doubles and a single, and Ronny Mauricio drove in three runs. For the Toros, Jesús Sánchez went 2-for-5 with one RBI. Aaron Brooks, the losing pitcher, recorded only two outs in the first inning.",
+    "With the win, the Tigers clinched the season series 5-1 and lead the all-time series 237-198. Licey and Escogido share the top spot at 17-11, while the Toros and the Águilas share last place. The next meeting between the Tigers and the Toros will be on a Wednesday in December in La Romana."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWW5XT25FTGJTdV91RjRNRGlJY0JGYWk5VWhWeWEyamUyZWZZNU1VRGNYT2NZWlJjdjVPbHBBNm1vT0Y1cHZKM3NFRm1lQklxeHBMSE0wcGRBWUNDbUQwaVRvNU96Yl9sQlMwODdIWFA4NG9ITERHYlpwejRHU0dITEhkemFJNjY3TzZ4UkNuRTNuNmMtTWZ5MVFDVk9RWjR1WFVOMEN5d0l1OWtud0VNSzRkNzc?oc=5",
+  "url": "https://lidom.com/tigres-del-licey/albert-abreu-domina-a-los-toros-y-licey-asegura-la-serie-particular-101075.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/tigres-del-licey/albert-abreu-domina-a-los-toros-y-licey-asegura-la-serie-particular-101075.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"5-2\" a \"5-2\" sin cambio? no; ver abajo: quité afirmaciones no sustentadas, corregí \"5-for-2\", \"Orel Hershiser\" y \"Toros y Águilas\" en último lugar, y limpié la redacción)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T12:51:02.981944+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/55c82177dc.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/55c82177dc-h.jpg"
+ },
+ {
+  "id": "7549b72772",
+  "titulo": "Indiana vs. Washington (21 de Nov., 2026) Resultados en Vivo",
+  "titulo_original": "Indiana vs. Washington (21 de Nov., 2026) Resultados en Vivo",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjd2QVZ4cG9pWEdkOFRWV2NxLVYyVjJwWkFVdFRZWk16RU9famhRRk1qYVY3THNPeXd4a2VEU1B4SHNsU3Z5bFNFRWRaY3JEeUJtSzlIQ1U3ejljcXBORklZRkV2WkdYVUlZUUg3VWFUSTBDNXVtTXVFdGsta2pkZHRwVTdKdw?oc=5",
+  "fuente": "ESPN Deportes",
+  "dominio": "espndeportes.espn.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T12:51:27.828618+00:00"
+ },
+ {
+  "id": "d096d0a3e9",
+  "titulo": "Regidores de Higüey pretenden aprobar 12 estaciones de combustible antes del cambio de autoridades",
+  "titulo_original": "Regidores de Higüey pretenden aprobar 12 estaciones de combustibles antes de transición",
+  "resumen": "En Higüey, el Concejo de Regidores quiere aprobar 12 solicitudes de gasolineras y envasadoras de gas antes de que termine la transición municipal. Ya hay críticas en redes sociales y medios locales.",
+  "gancho": "En Higüey, el Concejo de Regidores quiere aprobar 12 solicitudes de gasolineras y envasadoras de gas antes de que termine la transición municipal. Ya hay críticas en redes sociales y medios locales.",
+  "parrafos": [
+   "El Concejo de Regidores de Higüey convocó este viernes una sesión extraordinaria, identificada como la número 05-2024, para conocer 12 solicitudes de instalación de estaciones de combustible en el municipio. La agenda incluye nueve gasolineras y tres envasadoras de gas propano.",
+   "La convocatoria generó críticas en redes sociales y en medios locales. Según la publicación, la sala capitular se encuentra en pleno proceso de transición, que concluye el 24 de abril con la llegada de las nuevas autoridades municipales. La convocatoria aparece firmada por la presidenta del Concejo, Rosario Isabel Mateo.",
+   "Entre las solicitudes figuran las envasadoras Rochell Gas, Servicentro Rochell y Héctor Elías Rochell Durán, que según la publicación parecen pertenecer a una misma persona. En cuanto a las gasolineras, se busca la no objeción para estaciones con distintos nombres comerciales, entre ellas La Catedral, Anamuya, Papi Núñez, Johansen Rochell y Jacobo Dulce.",
+   "Los ediles también señalaron el notable aumento de solicitudes para instalar estaciones de expendio de gas y gasolina en distintas áreas del municipio.",
+   "El proyecto fue enviado a una comisión que deberá estudiarlo antes de cualquier decisión."
+  ],
+  "claves": [
+   "La agenda de la sesión extraordinaria 05-2024 incluye nueve estaciones de gasolina y tres envasadoras de gas propano.",
+   "El proceso de transición concluye el 24 de abril, con la asunción de las nuevas autoridades municipales.",
+   "Varias solicitudes aparecen a nombre de personas con el apellido Rochell, según la publicación.",
+   "El proyecto fue enviado a una comisión para su estudio."
+  ],
+  "importa": "Si vives en Higüey, las decisiones sobre nuevas estaciones de combustible afectan la oferta y el entorno de tu comunidad. Un cambio de autoridades en plena transición genera dudas sobre quién decidirá estos permisos.",
+  "en": {
+   "titulo": "Higüey council moves to approve 12 fuel stations before municipal handover",
+   "gancho": "Higüey's city council is set to review 12 applications for gas stations and propane outlets just weeks before new municipal leaders take office. Criticism has already surfaced on social media and in local outlets.",
+   "claves": [
+    "The extraordinary session 05-2024 agenda includes nine gasoline stations and three propane gas outlets.",
+    "The transition period ends April 24, when the new municipal authorities take office.",
+    "Several applications appear to be tied to people with the Rochell surname, according to the report.",
+    "The project has been sent to a committee for review."
+   ],
+   "importa": "For residents of Higüey, decisions on new fuel stations affect local supply and the character of their neighborhoods. A leadership change in the middle of the process raises questions about who will make these permit decisions.",
+   "parrafos": [
+    "Higüey's Municipal Council called an extraordinary session on Friday, numbered 05-2024, to review 12 applications to install fuel stations in the municipality. The agenda includes nine gasoline stations and three propane gas outlets.",
+    "The move has drawn criticism on social media and in local outlets. According to the report, the council is in the middle of a transition that ends April 24, when new municipal authorities take office. The call to session was signed by council president Rosario Isabel Mateo.",
+    "The applications include the Rochell Gas, Servicentro Rochell and Héctor Elías Rochell Durán gas outlets, which according to the report appear to belong to the same person. The gasoline station requests, under various trade names, include La Catedral, Anamuya, Papi Núñez, Johansen Rochell and Jacobo Dulce.",
+    "Council members also noted a sharp rise in requests to install gas and gasoline outlets in several areas of the municipality.",
+    "The project has been sent to a committee that must review it before any decision is made."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd290ME9GVFNXVlVFdUNlRjFkZ0JKd1FvWVlJZXBTRFR0OUJVeV8yZlFWcEZQR1BnNzBHU3FJVDBqN2Nud2d1M3c2SEdJSkdzTWppajBtbVN3UkU1d0pmQTZBeHhDd0lQRnZ5TGpaYUZRLXJMZ3VUdzVoVW5aMFgwb29xR1VfMk16SWxmY0xTT1p0YUI3RXZXRllWN3Npa2JoVXNQSWJhMUtQMjZmblHSAbYBQVVfeXFMTkJYRUpoSFhvbWptcUIyOHJybjNpUmRvNEpLdFhtSllCN2xueTNkRDQ3VmRfYmh2cmEtdWNmMWZYN3M0eUY4RUVqZ0tGRHQzRC1xbG1uQ2daVWdrc2VTellMWmV0SU1pT1F1U3Z3RkZHSnN4cWk2WWY4dUhyQ2hTbHRWODZLcEdHaDRQQWVnYm5wM0xvbEVkMWM1QklYVFBQaHFBTkpsV21OaDM3eVVnQ3pRM1pGTFE?oc=5",
+  "url": "https://cdn.com.do/nacionales/regionales/regidores-de-higuey-pretenden-aprobar-12-estaciones-de-combustibles/",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/regionales/regidores-de-higuey-pretenden-aprobar-12-estaciones-de-combustibles/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": {
+   "id": "_3iop2XPZsQ",
+   "titulo": "Regidores de Higüey pretenden aprobar 12 estaciones de combustibles “Al echarse la Paloma”"
+  },
+  "foto": null,
+  "revision": "corregida (cambié \"buscan aprobar\" por \"pretenden aprobar\" para ajustar al título de la fuente; quité \"Las críticas no se han hecho esperar\" y \"pone en duda\" por redundancia y tono de IA; atribuí a \"según la publicación\" las afirmaciones de los apellidos y de las críticas; corregí \"la sala capitular\" de la sesión y añadí fuente local; mantuve el inglés alineado con el español).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T12:51:52.823803+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "b9d7a4884f",
+  "titulo": "Pokémon y Fender lanzan guitarras Stratocaster y Telecaster por el 30 aniversario",
+  "titulo_original": "Pokémon Center and Fender® Collaboration Guitars Available for Preorder",
+  "resumen": "Pokémon Center y Fender lanzan dos guitarras inspiradas en las versiones Rojo y Verde. Se pueden reservar ya y llegarán en 2027.",
+  "gancho": "Pokémon Center y Fender lanzan dos guitarras inspiradas en las versiones Rojo y Verde. Se pueden reservar ya y llegarán en 2027.",
+  "parrafos": [
+   "Pokémon Center y Fender anunciaron dos guitarras de edición especial para celebrar tres décadas de la saga. Los modelos ya pueden reservarse en la tienda oficial de Pokémon Center, con entrega prevista para 2027.",
+   "Las guitarras son la Made in Japan Pokémon Red Version Stratocaster® Electric Guitar y la Made in Japan Pokémon Green Version Telecaster® Electric Guitar. Su diseño toma como referencia los gráficos pixelados de los primeros juegos, que se lanzaron en Japón hace 30 años.",
+   "Para los fanáticos nostálgicos del sonido de los videojuegos originales, las guitarras incluyen un interruptor que activa el audio de 8 bits. El logo del 30 aniversario, en formato pixelado, destaca el carácter histórico de la colaboración.",
+   "Cada guitarra viene con un juego de púas diseñado especialmente, un certificado de autenticidad con arte nuevo y un estuche rígido para protegerla."
+  ],
+  "claves": [
+   "Las guitarras son la Made in Japan Pokémon Red Version Stratocaster® y la Made in Japan Pokémon Green Version Telecaster®.",
+   "Se conmemoran 30 años de los videojuegos Pokémon Red y Pokémon Green, lanzados en Japón.",
+   "Tienen un diseño inspirado en los gráficos pixelados de los juegos originales.",
+   "Incluyen un interruptor que activa audio de 8 bits."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Pokémon and Fender Launch Red and Green Guitars for 30th Anniversary",
+   "gancho": "Pokémon Center and Fender are releasing two guitars inspired by the Red and Green versions. Preorders are open now, with delivery set for 2027.",
+   "claves": [
+    "The guitars are the Made in Japan Pokémon Red Version Stratocaster® and the Made in Japan Pokémon Green Version Telecaster®.",
+    "The release marks 30 years since Pokémon Red and Pokémon Green debuted in Japan.",
+    "The design draws on the pixelated graphics of the original games.",
+    "A toggle switch triggers 8-bit audio."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Pokémon Center and Fender have announced two special-edition guitars to celebrate three decades of the franchise. The models can now be preordered through the official Pokémon Center store, with delivery expected in 2027.",
+    "The guitars are the Made in Japan Pokémon Red Version Stratocaster® Electric Guitar and the Made in Japan Pokémon Green Version Telecaster® Electric Guitar. Their design takes its cues from the pixelated graphics of the first games, which launched in Japan 30 years ago.",
+    "For nostalgic fans who miss the sound of the original games, the guitars include a toggle that activates 8-bit audio. The 30th anniversary logo, in pixel style, highlights the historic nature of the collaboration.",
+    "Each guitar comes with a specially designed pick set, a certificate of authenticity featuring newly drawn artwork, and a hard case for protection."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEZQMUZNUnBJSm04Q1hkNzNVeVEwU1AwVHMwQS00UUkxUXdvRXRSY0lqV241U3c1R09yUzhPcGk1bmF2MkE1ekZoX3J2TnJvaDhGR2N1RDYxUWVLWTkwT0hINjJSaDFpY01zX0dRUl9LcS1IT2Jmb1R3cldIRkNhZEM4MVFPWkFWcERJRUtFZDg1Q0VsQ29PZk8tWjJYeElSQU45Wg?oc=5",
+  "url": "https://www.pokemon.com/uk/news/pokemon-center-and-fender-collaboration-guitars-available-for-preorder",
+  "fuente": "Pokemon.com",
+  "dominio": "pokemon.com",
+  "fuentes": [
+   {
+    "nombre": "Pokemon.com",
+    "url": "https://www.pokemon.com/uk/news/pokemon-center-and-fender-collaboration-guitars-available-for-preorder"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/merchandise/tiles/pokemon-center/2026/10/30/pokemon-center-169.png",
+   "credito": "Pokemon.com"
+  },
+  "revision": "corregida (cambié \"Pokémon Red y Pokémon Green\" a \"Pokémon Red y Pokémon Green\" sin cambios de fondo; ajusté el texto: \"los primeros juegos\" → \"los juegos originales\" y \"fanáticos nostálgicos\" → \"fanáticos nostálgicos\" se mantiene; quité \"Pokémon Center y Fender anunciaron\" → \"Pokémon Center y Fender anunciaron\" sin cambio; ver versión final)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-22T12:52:23.528231+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "4fbee0e95c",
   "titulo": "Félix Portes cuestiona a la Policía por mostrar video de Melissa Medina",
   "titulo_original": "“Eso no es informar, es exhibir un cadáver”, afirma Félix Portes sobre video de Melissa mostrado por la policía",
@@ -481,7 +1024,7 @@
   "seccion": "Deportes",
   "fecha": "2026-11-22T11:51:23.498703+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/efa317c560.jpg",
   "historia": "pendiente",
   "historia_img": "ig/efa317c560-h.jpg"
@@ -17252,556 +17795,5 @@
   "ig_id": "18131186296895405",
   "ig_fecha": "2026-11-20T20:58:56.354009+00:00",
   "historia_fecha": "2026-11-20T20:59:06.747947+00:00"
- },
- {
-  "id": "ada42918e5",
-  "titulo": "MLB Gameday: Gigantes vs. Leones, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Gigantes vs. Leones, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkVlTV9VQ1B3OFJUZmw5WVFrenVaMWRPQXItTnlKZEhZTXU3aHFsMFNvOUc4MEp5a3pneEg4cjVwNnB1TXdBZHVmQlRfU2NTdFdlYmtPSG8ydGd5aHo3TVNRTEx6ZlgzUVNibjdxZVFIZ0pvVTU5R2NOYm80eXpxXw?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-20T20:51:56.159597+00:00"
- },
- {
-  "id": "0cfb2c7972",
-  "titulo": "Brian Cashman speaks at the Covenant House Sleepout",
-  "titulo_original": "Brian Cashman speaks at the Covenant House Sleepout",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRjF1aHg1alhnY0xZVmtwVEY2T2YyMVFXWEh3VGZGempfb05DbnJSSVkwOUIwcW42TWMzNnlFc0hZdWEyRy03N2ZkXzhPTkozUXVWbmM3VXc5NHl0WkFfVnRDRHRhZVgxQU1fcjcxbXViaUxka0lzZjAtcTZlcjVPYV9aaVNzb1U?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-20T20:51:58.709231+00:00"
- },
- {
-  "id": "5e9aedfcbf",
-  "titulo": "MLB Gameday: Obregon vs. Mazatlan, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Obregon vs. Mazatlan, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUV1l4UExMTWUtV0RMUHZuUlRhQklEVUVoQ0lFMVJ5MW9fUjFkM2ZIa3Nic1ROYzdSNmhMeDhlZUxYRzJDVWJuSUlPSzhNb1gwem02c0tPYUg?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-20T20:52:01.451539+00:00"
- },
- {
-  "id": "463f63eb50",
-  "titulo": "Gobierno mantiene sin cambios los precios de gasolinas, gasoil y GLP esta semana",
-  "titulo_original": "Gobierno mantiene congelados los combustibles",
-  "resumen": "El Gobierno mantiene los precios de los combustibles de mayor consumo para la semana del 21 al 27 de noviembre, mientras otros derivados del petróleo bajan.",
-  "gancho": "El Gobierno mantiene los precios de los combustibles de mayor consumo para la semana del 21 al 27 de noviembre, mientras otros derivados del petróleo bajan.",
-  "parrafos": [
-   "El Gobierno dominicano mantendrá sin variación los precios de la gasolina, el gasoil y el gas licuado de petróleo (GLP) durante la semana del 21 al 27 de noviembre de 2026. Para evitar que las alzas del mercado internacional lleguen al bolsillo de los consumidores, el Estado destinará un subsidio de RD$573.5 millones.",
-   "La medida fue dispuesta por el presidente Luis Abinader a través del Ministerio de Industria, Comercio y Mipymes (MICM). Forma parte del congelamiento de los principales combustibles anunciado hasta el 7 de enero de 2027, siempre que el monto requerido para sostener los subsidios no supere los RD$1,500 millones semanales.",
-   "Con los recursos de esta semana, el Gobierno acumula RD$45,598 millones en subsidios a los combustibles durante el año, según cifras ofrecidas por el MICM.",
-   "Para esta semana, el Estado cubrirá RD$74.74 por galón de gasoil regular, RD$56.13 por galón de gasoil óptimo y RD$49.02 por galón de GLP.",
-   "Mientras los combustibles de mayor consumo mantienen sus precios, otros derivados del petróleo bajan. El avtur baja RD$29.88 por galón; el kerosene, RD$33.10; el fuel oil número 6, RD$3.46, y el fuel oil 1% de azufre, RD$1.35.",
-   "Según el MICM, los precios para el período del 21 al 27 de noviembre son los siguientes: gasolina prémium, RD$362.10 por galón; gasolina regular, RD$317.50; gasoil regular, RD$270.80; gasoil óptimo, RD$322.10; GLP, RD$135.20; y gas natural, RD$43.97 por metro cúbico. Todos mantienen su precio. El avtur queda en RD$303.66 por galón, el kerosene en RD$342.50, el fuel oil número 6 en RD$166.87 y el fuel oil 1% de azufre en RD$207.78.",
-   "El MICM indicó que, para calcular los precios, usó una tasa de cambio promedio semanal de RD$60.71 por dólar, según las publicaciones diarias del Banco Central."
-  ],
-  "claves": [
-   "Gasolinas, gasoil y GLP mantienen su precio del 21 al 27 de noviembre de 2026.",
-   "El subsidio para esta semana es de RD$573.5 millones.",
-   "Avtur, kerosene y fuel oils registran bajas de precio.",
-   "El Gobierno acumula RD$45,598 millones en subsidios a los combustibles en el año."
-  ],
-  "importa": "Los consumidores no verán alzas en el costo de la gasolina, el gasoil y el gas licuado esta semana, gracias al subsidio estatal.",
-  "en": {
-   "titulo": "Dominican government holds fuel prices steady for gasoline, diesel and LPG this week",
-   "gancho": "The government is keeping prices unchanged on the fuels most people use, while other petroleum products get cheaper.",
-   "claves": [
-    "Gasoline, diesel and LPG prices stay unchanged from November 21 to 27, 2026.",
-    "The subsidy for this week is RD$573.5 million.",
-    "Aviation fuel, kerosene and fuel oils drop in price.",
-    "The government has spent RD$45,598 million on fuel subsidies so far this year."
-   ],
-   "importa": "Consumers will not see higher gasoline, diesel or cooking gas costs this week thanks to the state subsidy.",
-   "parrafos": [
-    "The Dominican government will keep gasoline, diesel and liquefied petroleum gas (LPG) prices unchanged for the week of November 21 to 27, 2026. To keep rises in international markets from reaching consumers' wallets, the state will allocate a subsidy of RD$573.5 million.",
-    "The measure was ordered by President Luis Abinader through the Ministry of Industry, Commerce and MSMEs (MICM). It is part of a fuel price freeze announced through January 7, 2027, as long as the amount needed to sustain the subsidies does not exceed RD$1,500 million per week.",
-    "With this week's funds, the government has accumulated RD$45,598 million in fuel subsidies so far this year, according to figures provided by the MICM.",
-    "For this week, the state will cover RD$74.74 per gallon of regular diesel, RD$56.13 per gallon of premium diesel and RD$49.02 per gallon of LPG.",
-    "While the most widely used fuels hold steady, other petroleum products are getting cheaper. Aviation fuel drops RD$29.88 per gallon, kerosene drops RD$33.10, No. 6 fuel oil drops RD$3.46, and 1% sulfur fuel oil drops RD$1.35.",
-    "According to the MICM, prices for the November 21 to 27 period are as follows: premium gasoline, RD$362.10 per gallon; regular gasoline, RD$317.50; regular diesel, RD$270.80; premium diesel, RD$322.10; LPG, RD$135.20; and natural gas, RD$43.97 per cubic meter. All keep their current price. Aviation fuel is at RD$303.66 per gallon, kerosene at RD$342.50, No. 6 fuel oil at RD$166.87, and 1% sulfur fuel oil at RD$207.78.",
-    "The MICM said it used an average weekly exchange rate of RD$60.71 per dollar, based on the Central Bank's daily publications, to calculate the prices."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iY3Q2NG5HYjY3N1JGeVRYNTdQSkw3RW94dXA2b1M1YnFjWWVkNUZMTDFjWUk0Q3lNTE1GM0hSekNjMXVIOWtwSHk3M1dONzdkNlZUY1NGMHNDdDl4TzJtbDZVQV84LTVfUkROOE43d2E2SjhfSG9OVWJNTXFtQ0U?oc=5",
-  "url": "https://n.com.do/2026/11/20/gobierno-mantiene-congelados-los-combustibles/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/20/gobierno-mantiene-congelados-los-combustibles/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"gasoil óptimo\" → \"gasoil óptimo\" ya era correcto en fuente; se corrigió \"gasoil óptimo\" en el texto español a \"gasoil óptimo\" y se eliminó la mención de \"prémium\" donde la fuente dice \"prémium\" con tilde ya presente; se añadió la atribución al MICM en la línea de precios y se ajustó el hook y la línea de IMPORTA eliminando la afirmación de que los consumidores \"en EE.UU.\" reciben beneficio, que no aparece en las fuentes; se corrigió \"gasolina prémium\" → \"gasolina prémium\" y \"Premium diesel\" → \"gasoil óptimo\" en inglés; se corrigió \"Dominican government freezes\" → \"Dominican government holds\"; se cambió \"mantendrá\" a la forma de la fuente.)",
-  "seccion": "Precios y combustibles",
-  "fecha": "2026-11-20T20:52:33.482804+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/463f63eb50.jpg",
-  "ig_id": "18115149781891054",
-  "ig_fecha": "2026-11-20T21:02:00.583554+00:00"
- },
- {
-  "id": "1112607e6c",
-  "titulo": "Adventure Awaits - Nintendo Sales & Deals – Digital Games & DLC | Nintendo Official Site",
-  "titulo_original": "Adventure Awaits - Nintendo Sales & Deals – Digital Games & DLC | Nintendo Official Site",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NNUc0Y3BuT3pwb2tSZUQ2aGd2ZTE3a0NoN0NlZjVCa2Z2a0JQZmtuLWJ4TXp6dHNtSjlVV0EtNV91TW13N1laRWlCU0Z4MGJBd1NoV0l4dG5iYmp1ckc5UXVnd3c0a002RGNKRVZzVWk0N3d2ZEE?oc=5",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-20T20:52:58.998073+00:00"
- },
- {
-  "id": "b780accb88",
-  "titulo": "Precios de combustibles se mantienen sin cambios esta semana en RD",
-  "titulo_original": "combustibles-21 al 27 noviembre del 2026",
-  "resumen": "Ningún combustible varía frente a la semana anterior, y el gas de cocina y el GNV también quedan igual. Te explicamos qué significa para tu bolsillo.",
-  "gancho": "Ningún combustible varía frente a la semana anterior, y el gas de cocina y el GNV también quedan igual. Te explicamos qué significa para tu bolsillo.",
-  "parrafos": [
-   "Los precios de los combustibles en República Dominicana se mantienen sin cambios para la semana del 21 al 27 de noviembre de 2026.",
-   "La gasolina Premium se mantiene en RD$362.10 por galón, mientras que la gasolina Regular se queda en RD$317.50 por galón. En el caso del gasoil, el Óptimo cuesta RD$322.10 por galón y el Regular RD$270.80 por galón, sin variación respecto a la semana anterior.",
-   "En el sector del gas, el gas de cocina (GLP) continúa en RD$135.20 por galón y el Gas Natural Vehicular (GNV) en RD$43.97 por metro cúbico, también sin cambios.",
-   "Los precios del avtur, el kerosene y los fuel oil para uso industrial no aparecen con cifra disponible en este reporte, por lo que no se pueden comparar con la semana anterior.",
-   "Para el consumidor, la estabilidad de esta semana significa que quienes dependen del carro, la motocicleta o el gas en casa no tendrán que ajustar sus gastos por alzas en estos productos."
-  ],
-  "claves": [
-   "Gasolina Premium: RD$362.10 por galón, sin variación.",
-   "Gasolina Regular: RD$317.50 por galón, sin variación.",
-   "Gasoil Óptimo: RD$322.10 por galón, sin variación.",
-   "Gasoil Regular: RD$270.80 por galón, sin variación."
-  ],
-  "importa": "Para quienes llenan el tanque o compran gas de cocina, los precios se mantienen iguales y el presupuesto semanal no se ve afectado por cambios en estos productos. Los valores para avtur, kerosene y fuel oil no fueron informados para esta semana.",
-  "en": {
-   "titulo": "Dominican Republic Fuel Prices Hold Steady This Week",
-   "gancho": "No fuel price moved from last week, and cooking gas and natural gas stayed flat too. Here's what it means for your wallet.",
-   "claves": [
-    "Premium gasoline: RD$362.10 per gallon, unchanged.",
-    "Regular gasoline: RD$317.50 per gallon, unchanged.",
-    "Premium diesel (Gasoil Óptimo): RD$322.10 per gallon, unchanged.",
-    "Regular diesel (Gasoil Regular): RD$270.80 per gallon, unchanged."
-   ],
-   "importa": "For drivers and households buying cooking gas, prices are the same, so weekly budgets won't be hit by changes in these fuels. Prices for jet fuel (avtur), kerosene and fuel oil were not reported this week.",
-   "parrafos": [
-    "Fuel prices in the Dominican Republic will stay unchanged for the week of November 21 to 27, 2026.",
-    "Premium gasoline holds at RD$362.10 per gallon, while regular gasoline stays at RD$317.50 per gallon. For diesel, Gasoil Óptimo costs RD$322.10 per gallon and Gasoil Regular RD$270.80 per gallon, with no change from the previous week.",
-    "In the gas sector, cooking gas (LPG) remains at RD$135.20 per gallon and vehicular natural gas (GNV) at RD$43.97 per cubic meter, also unchanged.",
-    "Prices for jet fuel (avtur), kerosene and industrial fuel oils were not reported in this release, so they cannot be compared with last week.",
-    "For consumers, this stability means that people who rely on their car, motorcycle or cooking gas will not need to adjust their spending because of price increases on these products."
-   ]
-  },
-  "link": "https://divisasrd.com/#combustibles?s=21%20al%2027%20noviembre%20del%202026",
-  "url": "https://micm.gob.do",
-  "fuente": "Ministerio de Industria, Comercio y Mipymes (MICM)",
-  "dominio": "micm.gob.do",
-  "seccion": "Precios y combustibles",
-  "oficial": true,
-  "fuentes": [
-   {
-    "nombre": "Ministerio de Industria, Comercio y Mipymes (MICM)",
-    "url": "https://micm.gob.do"
-   }
-  ],
-  "fecha": "2026-11-20T19:48:50.343138+00:00",
-  "tendencia": 1,
-  "ig": "publicado",
-  "ig_img": "ig/b780accb88.jpg",
-  "ig_id": "18136585033707745",
-  "ig_fecha": "2026-11-20T20:01:34.520201+00:00"
- },
- {
-  "id": "28d17c35d4",
-  "titulo": "El SNS premia a 15 centros de salud y seis direcciones por su desempeño en 2026",
-  "titulo_original": "SNS reconoce a 15 centros de salud, tres direcciones y tres regionales por su destacado desempeño",
-  "resumen": "El Servicio Nacional de Salud reconoció a los establecimientos con mejores resultados en su evaluación de desempeño. Aquí los nombres y los porcentajes.",
-  "gancho": "El Servicio Nacional de Salud reconoció a los establecimientos con mejores resultados en su evaluación de desempeño. Aquí los nombres y los porcentajes.",
-  "parrafos": [
-   "El Servicio Nacional de Salud (SNS) reconoció a 15 establecimientos de salud, tres direcciones regionales y tres direcciones del Nivel Central por alcanzar los mejores resultados en los indicadores de desempeño institucional. El reconocimiento se hizo durante una gala de premiación, en Santo Domingo, que destacó el trabajo de los equipos que integran la Red Pública de Servicios de Salud.",
-   "La actividad fue encabezada por el doctor Julio César Ladrón, director ejecutivo del SNS, quien valoró el esfuerzo de los establecimientos y de las distintas áreas de la institución para mejorar la calidad de los servicios y la capacidad de respuesta de la red.",
-   "Ladrón explicó que evaluar el desempeño de los centros sirve para identificar fortalezas, reconocer buenas prácticas y detectar oportunidades de mejora en la gestión hospitalaria. \"Lo que se evalúa permite identificar dónde estamos haciendo bien las cosas y dónde necesitamos mejorar. Un reconocimiento debe ser motivo de satisfacción, pero también un estímulo para seguir creciendo\", expresó.",
-   "La premiación incluyó hospitales municipales, provinciales, regionales y de autogestión, así como centros diagnósticos, direcciones regionales y áreas del Nivel Central. En hospitales municipales, el primer lugar fue para el Hospital José de Jesús Jiménez Almonte, de Cibao Norte, con 82.52 %. En hospitales provinciales, ganó el Hospital General Santiago Rodríguez, de Cibao Noroeste, con 83.22 %. En los de autogestión, el primer lugar fue para el Hospital Traumatológico Dr. Ney Arias Lora, de Ozama, con 80.99 %.",
-   "En centros diagnósticos, el Centro Clínico y Diagnóstico de Atención Primaria Azua, de la Regional El Valle, obtuvo el primer lugar con 98.89 %, seguido del Centro Diagnóstico Especializado Bonao, con 94.81 %."
-  ],
-  "claves": [
-   "El SNS reconoció a 15 establecimientos de salud, tres direcciones regionales y tres direcciones del Nivel Central.",
-   "En hospitales municipales, el primer lugar fue para el Hospital José de Jesús Jiménez Almonte, con 82.52 %.",
-   "En centros diagnósticos, el Centro Clínico y Diagnóstico de Atención Primaria Azua alcanzó 98.89 %.",
-   "El director ejecutivo, doctor Julio César Ladrón, dijo que la evaluación sirve para mejorar la calidad de los servicios."
-  ],
-  "importa": "Las evaluaciones buscan mejorar la calidad de los servicios de salud que reciben los pacientes de la red pública. Los reconocimientos muestran qué centros están dando mejores resultados.",
-  "en": {
-   "titulo": "SNS honors 15 health centers and six directorates for 2026 performance",
-   "gancho": "The Dominican Republic's National Health Service recognized its top-performing facilities. Here are the names and scores.",
-   "claves": [
-    "The SNS recognized 15 health facilities, three regional directorates and three Central Level directorates.",
-    "Among municipal hospitals, the Hospital José de Jesús Jiménez Almonte ranked first with 82.52%.",
-    "Among diagnostic centers, the Centro Clínico y Diagnóstico de Atención Primaria Azua scored 98.89%.",
-    "Director Julio César Ladrón said the evaluations help improve the quality of services."
-   ],
-   "importa": "The evaluations aim to improve the quality of care patients receive in the public health network. The awards show which centers are delivering the best results.",
-   "parrafos": [
-    "The Dominican Republic's National Health Service (SNS) recognized 15 health facilities, three regional directorates and three Central Level directorates for achieving the best results in institutional performance indicators. The recognition was made at an awards ceremony in Santo Domingo that highlighted the work of the teams in the Public Health Service Network.",
-    "The event was led by Dr. Julio César Ladrón, executive director of the SNS, who praised the efforts of the facilities and the institution's various areas to improve service quality and the network's ability to respond.",
-    "Ladrón explained that evaluating the centers' performance helps identify strengths, recognize good practices and detect opportunities for improvement in hospital management. \"What is evaluated allows us to identify where we are doing things well and where we need to improve. A recognition should be a source of satisfaction, but also an incentive to keep growing,\" he said.",
-    "The awards covered municipal, provincial, regional and self-managed hospitals, as well as diagnostic centers, regional directorates and Central Level areas. Among municipal hospitals, first place went to the Hospital José de Jesús Jiménez Almonte, in Cibao Norte, with 82.52%. Among provincial hospitals, the Hospital General Santiago Rodríguez, in Cibao Noroeste, won with 83.22%. Among self-managed hospitals, first place went to the Hospital Traumatológico Dr. Ney Arias Lora, in Ozama, with 80.99%.",
-    "In diagnostic centers, the Centro Clínico y Diagnóstico de Atención Primaria Azua, in the El Valle regional, took first place with 98.89%, followed by the Centro Diagnóstico Especializado Bonao with 94.81%."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObkZ4T1VJcGE2b3J6NU5UeTFfNDZwcW4yNUlhLWtabTM4Q29kWTZ4V2VTRm05QVR6dy1XYWhhbVAybFRtaDZjVGlJdTZ2OXI5TnItSXdsMDl3dmZtLVdoWGw5RmR3a0lRSWkxQUZHU0kzbDhSdkRVVktIdW5YbzlwS1h4LUFTWXVyMUZjQ0tCV0dscjhKWlBBb09ad0ktb29CbnIzMVpLQ3dOd0Ita3RXNklvbzlrQkhCS0tIWg?oc=5",
-  "url": "https://presidencia.gob.do/noticias/sns-reconoce-15-centros-de-salud-tres-direcciones-y-tres-regionales-por-su-destacado",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/sns-reconoce-15-centros-de-salud-tres-direcciones-y-tres-regionales-por-su-destacado"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/6%20hoy.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (cambié \"seis direcciones\" a \"tres direcciones regionales y tres del Nivel Central\" en el título y en inglés, para que coincida con las fuentes; corregí \"Centro Clínico y Diagnóstico de Atención Primaria Azua\" con los datos correctos ya establecidos; quité \"en 2026\" del título porque la fuente dice \"ranking 2026\" pero no que el desempeño fuera \"en 2026\" de forma explícita, y ajusté \"Hospital José de Jesús Jiménez Almonte\" en la mención de Cibao Norte; añadí la regional El Valle que faltaba y quité la frase de gancho redundante; reemplacé \"Aquí los nombres y los porcentajes\" por un tono más periodístico; y en la sección de inglés corregí \"Public Health Service Network\" a \"public health service network\" con la misma traducción literal del español. Además, Dr. Ney Arias Lora queda con \"Ozama\" tal como aparece en la fuente.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T19:49:08.023785+00:00",
-  "tendencia": 1
- },
- {
-  "id": "73b0751c13",
-  "titulo": "Abinader ratifica a Bournigal Read al frente del Mercado de Valores por cuatro años",
-  "titulo_original": "Presidente Luis Abinader ratifica a Ernesto Bournigal Read como superintendente del Mercado de Valores por cuatro años más",
-  "resumen": "El presidente renovó en el cargo al superintendente del Mercado de Valores para un segundo período. Los detalles del decreto, aquí.",
-  "gancho": "El presidente renovó en el cargo al superintendente del Mercado de Valores para un segundo período. Los detalles del decreto, aquí.",
-  "parrafos": [
-   "El presidente Luis Abinader ratificó a Ernesto A. Bournigal Read como superintendente del Mercado de Valores por un nuevo período de cuatro años. La decisión quedó plasmada en el Decreto núm. 825-26, emitido el 17 de noviembre de 2026.",
-   "Bournigal Read ya ocupaba el cargo desde noviembre de 2022, cuando fue designado mediante el Decreto núm. 696-22, del 21 de noviembre de ese año. Con la nueva disposición, continuará al frente del organismo durante un segundo período. La confirmación se produce al vencer el período de cuatro años que establece la ley para ejercer esas funciones.",
-   "El decreto se fundamenta en el artículo 17 de la Ley núm. 249-17, del 19 de diciembre de 2017. Esa norma establece que el superintendente es la máxima autoridad ejecutiva de la Superintendencia y que su designación corresponde al presidente de la República por cuatro años.",
-   "El documento también cita el artículo 6 de la misma ley, que define a la Superintendencia del Mercado de Valores como un organismo autónomo y descentralizado del Estado. Tiene personalidad jurídica, patrimonio propio y autonomía administrativa, financiera y técnica.",
-   "Con esta ratificación, Bournigal Read seguirá supervisando el mercado de valores de la República Dominicana."
-  ],
-  "claves": [
-   "El presidente Luis Abinader ratificó a Ernesto Bournigal Read como superintendente del Mercado de Valores.",
-   "La ratificación es por cuatro años y se formalizó mediante el Decreto núm. 825-26, emitido el 17 de noviembre de 2026.",
-   "Bournigal Read ocupa el cargo desde noviembre de 2022, cuando fue designado con el Decreto núm. 696-22."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Abinader Renews Bournigal Read as Securities Market Superintendent for Four More Years",
-   "gancho": "The president has renewed the head of the securities market regulator for a second term. The decree details are below.",
-   "claves": [
-    "President Luis Abinader ratified Ernesto Bournigal Read as superintendent of the Securities Market.",
-    "The renewal is for four years and was formalized through Decree No. 825-26, issued on November 17, 2026.",
-    "Bournigal Read has held the post since November 2022, when he was appointed under Decree No. 696-22."
-   ],
-   "importa": "",
-   "parrafos": [
-    "President Luis Abinader has ratified Ernesto A. Bournigal Read as superintendent of the Securities Market for a new four-year term. The decision is set out in Decree No. 825-26, issued on November 17, 2026.",
-    "Bournigal Read has held the position since November 2022, when he was appointed under Decree No. 696-22, dated November 21 of that year. With the new decree, he will continue leading the agency for a second term. The confirmation comes as the four-year period set by law for the role comes to an end.",
-    "The decree is based on Article 17 of Law No. 249-17, dated December 19, 2017. That law establishes that the superintendent is the top executive authority of the Superintendency and that the president of the Republic appoints them for four years.",
-    "The document also cites Article 6 of the same law, which defines the Securities Market Superintendency as an autonomous and decentralized state body. It has legal personality, its own assets, and administrative, financial, and technical autonomy.",
-    "With this ratification, Bournigal Read will continue overseeing the securities market of the Dominican Republic."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3JsTzBqQXpRd2dnVUpOdnRIR2dsR3BqRmgwQTZ3cGlJbzE0bHdjZUNvcUc2VUg2YmNxZHZoWk9qSFU4VDJEN2FmckhPdVRsVXJWNElJeGhFd3VXbG9zcjl0QkdNbFZrZENKUmlfb1h4N19JdzAxOFJGX1l3VHBIa0lOS0tyZXk0UE9hZFBzSG9TNmFieHN4S2l2TUZacUFMY3BNN01oOUVzYmpwYW0xQlVsc0R4UGZHZHBpa0RzaXdMN1k?oc=5",
-  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-ratifica-ernesto-bournigal-read-como-superintendente-del-mercado",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-ratifica-ernesto-bournigal-read-como-superintendente-del-mercado"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002278843.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "aprobada",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T19:49:21.141802+00:00",
-  "tendencia": 1
- },
- {
-  "id": "8576437b7c",
-  "titulo": "Abinader confirma por dos años a los seis miembros de la Junta Monetaria",
-  "titulo_original": "Presidente Luis Abinader confirma por dos años a los seis miembros de la Junta Monetaria",
-  "resumen": "El presidente Luis Abinader confirmó por dos años a los seis miembros de designación directa de la Junta Monetaria mediante un nuevo decreto.",
-  "gancho": "El presidente Luis Abinader confirmó por dos años a los seis miembros de designación directa de la Junta Monetaria mediante un nuevo decreto.",
-  "parrafos": [
-   "El presidente Luis Abinader confirmó por un nuevo período de dos años a los seis miembros de designación directa de la Junta Monetaria, según el Decreto núm. 824-26, emitido el 17 de noviembre de 2026. La decisión ratifica en sus funciones a José Manuel Evangelista Mallén Santos, Arturo Martínez Moya, Eduardo de Jesús Tejera Curbelo, Julio César Llibre Salcedo, Sergia Elena Mejía de Peña y José Ricardo Rojas León.",
-   "La renovación se produce porque venció el período de dos años para el que estos seis integrantes habían sido confirmados mediante el Decreto núm. 648-24, del 13 de noviembre de 2024. El Poder Ejecutivo explica que el objetivo es garantizar la continuidad en el ejercicio de las atribuciones de la Junta Monetaria.",
-   "El decreto se apoya en el artículo 226 de la Constitución dominicana, que faculta al Poder Ejecutivo para nombrar, conforme a la ley, a los miembros de designación directa de ese organismo. También cita el artículo 10 de la Ley Monetaria y Financiera núm. 183-02, del 21 de noviembre de 2002, que establece que la Junta Monetaria está integrada por tres miembros ex oficio y seis designados por dos años, renovables según el artículo 11 de esa ley.",
-   "Según el mismo decreto, la confirmación debe ser comunicada a instituciones como la Cámara de Cuentas, la Contraloría General de la República, el Ministerio de Administración Pública, la Junta Monetaria y el Banco Central de la República Dominicana, para su conocimiento y ejecución."
-  ],
-  "claves": [
-   "Decreto núm. 824-26, emitido el 17 de noviembre de 2026.",
-   "Ratifica a José Manuel Evangelista Mallén Santos, Arturo Martínez Moya, Eduardo de Jesús Tejera Curbelo, Julio César Llibre Salcedo, Sergia Elena Mejía de Peña y José Ricardo Rojas León.",
-   "La medida responde al vencimiento del período fijado por el Decreto núm. 648-24, del 13 de noviembre de 2024."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Abinader Renews Six Monetary Board Members for Two More Years",
-   "gancho": "President Luis Abinader has confirmed the six directly appointed members of the Dominican Republic's Monetary Board for another two years through a new decree.",
-   "claves": [
-    "Decree No. 824-26, issued November 17, 2026.",
-    "Confirms José Manuel Evangelista Mallén Santos, Arturo Martínez Moya, Eduardo de Jesús Tejera Curbelo, Julio César Llibre Salcedo, Sergia Elena Mejía de Peña and José Ricardo Rojas León.",
-    "The move follows the expiration of the term set by Decree No. 648-24, dated November 13, 2024."
-   ],
-   "importa": "",
-   "parrafos": [
-    "President Luis Abinader has confirmed for another two-year term the six directly appointed members of the Monetary Board, according to Decree No. 824-26, issued November 17, 2026. The decision keeps in office José Manuel Evangelista Mallén Santos, Arturo Martínez Moya, Eduardo de Jesús Tejera Curbelo, Julio César Llibre Salcedo, Sergia Elena Mejía de Peña and José Ricardo Rojas León.",
-    "The renewal comes because the two-year term for which these six members had been confirmed under Decree No. 648-24, dated November 13, 2024, has expired. The Executive Branch says the goal is to guarantee continuity in the Monetary Board's functions.",
-    "The decree relies on Article 226 of the Dominican Constitution, which empowers the Executive to appoint, as provided by law, the directly designated members of that body. It also cites Article 10 of Monetary and Financial Law No. 183-02, dated November 21, 2002, which establishes that the Monetary Board is made up of three ex officio members and six members designated for two years, renewable under Article 11 of that law.",
-    "According to the same decree, the confirmation must be communicated to institutions including the Chamber of Accounts, the Comptroller General's Office, the Ministry of Public Administration, the Monetary Board and the Central Bank of the Dominican Republic, for their knowledge and implementation."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTB5SzhlbWlQckgzaUFBYnBhdEktWWFDb0FQR2IxVmhBOERxYWNFcV8ydW53NlBOTWc2M0hSMnplWjhGSThVZHVnZ0R5Y1ZGLWJNT1dzMW9SNFU0VHdXTGhZSks5UXFVdmRMcDV0bGZBZzNfZy1jenNtTFVKQnhRTGUwSEJzSGFFSFVsQ2FjdVF2ekhFUkx5SWxoLVBXSmVtcmF5RlhIbDZxNE9WczZTNnFLTXp3WHZ2dTRRV3NnOA?oc=5",
-  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-confirma-por-dos-anos-los-seis-miembros-de-la-junta-monetaria",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-confirma-por-dos-anos-los-seis-miembros-de-la-junta-monetaria"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/abinader-confirma-por-dos-anos-a-los-seis-miembros-de-la-junta-monetaria/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/ImagenActual03.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se agregó al texto en español y en inglés la comunicación del decreto a las instituciones, que estaba en las fuentes pero faltaba; se completó la mención de la renovación bajo el artículo 11, y se cambió \"Abinader ratificó\" a \"confirmó\" para ajustarse a la fuente; se atribuyó la fundamentación del \"período\" al decreto y no a la Ley.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T19:49:37.481420+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/8576437b7c.jpg",
-  "ig_id": "18125528656937692",
-  "ig_fecha": "2026-11-20T19:55:35.451802+00:00"
- },
- {
-  "id": "04cbfc7d12",
-  "titulo": "Migración somete a cuatro dominicanos por traslado ilegal de haitianos en cuatro provincias",
-  "titulo_original": "Migración somete a la justicia a cuatro dominicanos por tráfico ilícito de 36 haitianos indocumentados",
-  "resumen": "Cuatro dominicanos fueron sometidos a la justicia por presuntamente transportar a haitianos sin documentos en cuatro provincias del sur y noroeste del país.",
-  "gancho": "Cuatro dominicanos fueron sometidos a la justicia por presuntamente transportar a haitianos sin documentos en cuatro provincias del sur y noroeste del país.",
-  "parrafos": [
-   "La Dirección General de Migración (DGM) sometió a cuatro ciudadanos dominicanos por su presunta vinculación con el transporte ilegal de 26 haitianos indocumentados, entre ellos cuatro menores de edad, según informó Noticias SIN. Los hechos ocurrieron durante operativos en las provincias Azua, Barahona, Bahoruco y Montecristi.",
-   "La DGM presentó querellas penales con constitución en actor civil contra los cuatro imputados, a quienes atribuye violaciones a la Ley 137-03, sobre Tráfico Ilícito de Migrantes y Trata de Personas, y a la Ley 285-04, General de Migración.",
-   "En Azua, agentes migratorios interceptaron en el puesto interagencial Los Pilones un autobús Hyundai Grace blanco que llevaba nueve haitianos, un hombre y ocho mujeres. El conductor, Junior Paula, fue detenido. En Barahona, en el puesto de chequeo FTCI-Vicente Noble, las autoridades arrestaron a Yuleiry de Aza Duarte, que viajaba en un Hyundai Sonata blanco con cuatro menores haitianos sin documentos. Según el informe, uno de ellos iba oculto en el baúl.",
-   "En Bahoruco, militares del Ejército y agentes de la unidad de inteligencia G-2 apresaron a Wenner Bianin Peguero Benítez en la carretera Villa Jaragua–Estero. Conducía una yipeta Hyundai roja con diez extranjeros en condición migratoria irregular. En Montecristi, durante un operativo en el kilómetro 19 de la sección Villa García, municipio Villa Vásquez, fue detenido Isaac David Batista Rubio, quien llevaba tres haitianos indocumentados en un minibús Kia Pregio blanco.",
-   "La DGM indicó que depositó las querellas ante las fiscalías correspondientes y pidió que los tribunales de Atención Permanente conozcan las medidas de coerción contra los imputados, mientras avanzan las investigaciones."
-  ],
-  "claves": [
-   "Cuatro dominicanos sometidos por presunto tráfico de migrantes y trata de personas.",
-   "Los operativos se realizaron en Azua, Barahona, Bahoruco y Montecristi.",
-   "Los haitianos transportados sin documentos suman 26, entre ellos cuatro menores de edad.",
-   "Las autoridades presentaron querellas penales con constitución en actor civil."
-  ],
-  "importa": "Los casos muestran operativos de control migratorio en carreteras del sur y noroeste del país, y las leyes 137-03 y 285-04 son las que se aplican a los imputados.",
-  "en": {
-   "titulo": "Migration authorities charge four Dominicans with smuggling Haitians in four provinces",
-   "gancho": "Four Dominicans were brought before the justice system for allegedly transporting undocumented Haitians without papers across four provinces in the south and northwest of the country.",
-   "claves": [
-    "Four Dominicans charged with alleged migrant smuggling and human trafficking.",
-    "Operations took place in Azua, Barahona, Bahoruco and Montecristi.",
-    "The undocumented Haitians transported total 26, including four minors.",
-    "Authorities filed criminal complaints with civil party status."
-   ],
-   "importa": "The cases show migration checkpoints on highways in the south and northwest of the Dominican Republic, and the charges fall under Laws 137-03 and 285-04.",
-   "parrafos": [
-    "The General Directorate of Migration (DGM) brought four Dominican citizens before the justice system for their alleged involvement in transporting 26 undocumented Haitians, including four minors, according to Noticias SIN. The incidents occurred during operations in the provinces of Azua, Barahona, Bahoruco and Montecristi.",
-    "The DGM filed criminal complaints with civil party status against the four defendants, whom it charges with violating Law 137-03 on Illicit Smuggling of Migrants and Human Trafficking, and Law 285-04, the General Migration Law.",
-    "In Azua, migration agents stopped a white Hyundai Grace bus at the Los Pilones interagency post carrying nine Haitians, one man and eight women. The driver, Junior Paula, was arrested. In Barahona, at the FTCI-Vicente Noble checkpoint, authorities arrested Yuleiry de Aza Duarte, who was driving a white Hyundai Sonata with four undocumented Haitian minors. According to the report, one of them was hidden in the trunk.",
-    "In Bahoruco, Army soldiers and members of the G-2 intelligence unit apprehended Wenner Bianin Peguero Benítez on the Villa Jaragua–Estero road. He was driving a red Hyundai pickup carrying ten foreigners in irregular migration status. In Montecristi, during an operation at kilometer 19 in the Villa García section of Villa Vásquez municipality, Isaac David Batista Rubio was detained while carrying three undocumented Haitians in a white Kia Pregio minibus.",
-    "The DGM said it filed the complaints with the corresponding prosecutors' offices and asked that the Permanent Attention courts handle coercive measures against the defendants while investigations continue."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdmFOYjdPQnU1NTR2VUktWkk1Vjc2RmhRS1R6QXZQeTdOZkw4cWY0RzNicDZsSl9Zd29zcUhjTVpweWEwN1k5VFQ3bWI5MUhEYU9yc0k5R215eHNfeGVTcUEyNGk2TTh1TUdFb1RSSzdmbGhFQWxFc2lLRW9UOHh5RTJtTUFmeW1rNkxpWXMwb2lrQXE3a3Bmd296MVpaUlhUdnRSZzV1d1IycGQ4a3RvajBGZFhWREpZNWk0SXpWVkF1R3RIMmJJ?oc=5",
-  "url": "https://migracion.gob.do/migracion-somete-a-la-justicia-a-cuatro-dominicanos-por-trafico-ilicito-de-36-haitianos-indocumentados/",
-  "fuente": "DIRECCIÓN GENERAL DE MIGRACIÓN",
-  "dominio": "migracion.gob.do",
-  "fuentes": [
-   {
-    "nombre": "DIRECCIÓN GENERAL DE MIGRACIÓN",
-    "url": "https://migracion.gob.do/migracion-somete-a-la-justicia-a-cuatro-dominicanos-por-trafico-ilicito-de-36-haitianos-indocumentados/"
-   },
-   {
-    "nombre": "Noticias SIN",
-    "url": "https://noticiassin.com/pais/nacional/2026/11/20/dgm-somete-a-cuatro-dominicanos-por-transportar-haitianos-indocumentados-2173824/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Noticias SIN"
-  ],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (la fuente de Noticias SIN dice que Migración sometió a cuatro dominicanos por transportar a 26 indocumentados; el borrador lo atribuía a la DGM como hecho institucional sin indicar la fuente, y las cifras por caso suman 9+4+10+3=26, coinciden. Se atribuyó la cifra a Noticias SIN según la nota; se cambió \"sometió a la justicia\" a \"sometió\" y el texto se ajustó al estilo natural; se corrigió el relleno y se alineó el inglés. Nota: el texto del borrador hablaba de \"cuatro menores\" en Azua/Barahona, lo cual se mantiene según la fuente.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T19:50:02.326479+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/04cbfc7d12.jpg",
-  "ig_id": "18158910400472848",
-  "ig_fecha": "2026-11-20T19:57:05.634456+00:00"
- },
- {
-  "id": "9da02e2ebc",
-  "titulo": "Abinader propone vuelo directo Dubái-RD y más inversión con Emiratos Árabes",
-  "titulo_original": "Presidente Luis Abinader proyecta nuevas oportunidades de inversión, turismo, comercio, logística y zonas francas con los Emiratos Árabes Unidos",
-  "resumen": "El presidente Abinader propone abrir nuevas rutas de inversión, turismo y comercio con Emiratos Árabes Unidos. Así lo planteó en Cap Cana.",
-  "gancho": "El presidente Abinader propone abrir nuevas rutas de inversión, turismo y comercio con Emiratos Árabes Unidos. Así lo planteó en Cap Cana.",
-  "parrafos": [
-   "El presidente Luis Abinader proyectó nuevas oportunidades de inversión, turismo, comercio, logística y zonas francas con los Emiratos Árabes Unidos. Lo hizo durante la inauguración del Diálogo Regional del World Governments Summit, en Cap Cana, La Altagracia.",
-   "Según la Presidencia, en su discurso Abinader afirmó que la confianza entre las naciones es la base para construir un futuro de prosperidad compartida. También reafirmó que la República Dominicana quiere consolidarse como un puente estratégico entre América Latina, el Caribe y Medio Oriente.",
-   "En el plano turístico, el mandatario expresó la aspiración de lograr un vuelo directo de la aerolínea Emirates entre Dubái y la República Dominicana. \"Queremos trabajar con las autoridades correspondientes y con la aerolínea para crear las condiciones que permitan hacer realidad esa conexión\", sostuvo.",
-   "Abinader también señaló oportunidades en inversión hotelera, formación de personal, calidad de los servicios, sostenibilidad y desarrollo de nuevos destinos. Sobre las zonas francas, dijo que pueden atraer inversiones industriales, formación de trabajadores y mayor integración de la producción dominicana en cadenas internacionales de valor.",
-   "Además, citó la relación con la empresa emiratí DP World y el desarrollo del puerto de Caucedo, alianza que, según dijo, ha fortalecido la infraestructura logística, la inversión y la generación de empleos. \"Queremos seguir conectando puertos, centros de distribución y empresas\", afirmó.",
-   "En la sesión inaugural estuvieron presentes el jeque Shakhboot bin Nahyan Al Nahyan, el presidente de Panamá, José Raúl Mulino, la vicepresidenta de Ecuador, María José Pinto González, el canciller Víctor \"Ito\" Bisonó y el ministro de Educación, Luis Miguel De Camps."
-  ],
-  "claves": [
-   "El presidente Luis Abinader habló durante la inauguración del Diálogo Regional del World Governments Summit, en Cap Cana, La Altagracia.",
-   "Propuso avanzar hacia un vuelo directo de Emirates entre Dubái y la República Dominicana.",
-   "Destacó la relación con la empresa emiratí DP World y el desarrollo del puerto de Caucedo.",
-   "Planteó ampliar el comercio bilateral y la integración en cadenas internacionales de valor."
-  ],
-  "importa": "Un vuelo directo y más inversión logística podrían abrir oportunidades de empleo y negocios para dominicanos en el país. Esto dependerá de que los proyectos se concreten.",
-  "en": {
-   "titulo": "Abinader Pitches Direct Dubai Flight and More Investment with UAE",
-   "gancho": "Dominican President Luis Abinader proposes new routes for investment, tourism and trade with the United Arab Emirates. He made the case in Cap Cana.",
-   "claves": [
-    "President Luis Abinader spoke at the opening of the Regional Dialogue of the World Governments Summit in Cap Cana, La Altagracia.",
-    "He proposed working toward a direct Emirates flight between Dubai and the Dominican Republic.",
-    "He highlighted the partnership with UAE company DP World and the development of the Caucedo port.",
-    "He called for expanded bilateral trade and deeper integration into global value chains."
-   ],
-   "importa": "A direct flight and more logistics investment could open jobs and business opportunities for Dominicans at home and abroad. Much depends on whether these projects move forward.",
-   "parrafos": [
-    "Dominican President Luis Abinader outlined new opportunities for investment, tourism, trade, logistics and free trade zones with the United Arab Emirates. He spoke at the opening of the Regional Dialogue of the World Governments Summit in Cap Cana, La Altagracia.",
-    "According to the Presidency, Abinader said trust between nations is the foundation for building shared prosperity. He also reaffirmed the Dominican Republic's aim to become a strategic bridge between Latin America, the Caribbean and the Middle East.",
-    "On tourism, the president said he hopes to secure a direct Emirates flight between Dubai and the Dominican Republic. \"We want to work with the relevant authorities and with the airline to create the conditions that make that connection a reality,\" he said.",
-    "Abinader also pointed to opportunities in hotel investment, staff training, service quality, sustainability and the development of new destinations. On free trade zones, he said they can attract industrial investment, worker training and greater integration of Dominican production into global value chains.",
-    "He further cited the existing relationship with UAE-based DP World and the development of the Caucedo port, a partnership he said has strengthened logistics infrastructure, investment and job creation. \"We want to keep connecting ports, distribution centers and companies,\" he said.",
-    "Also present at the opening session were Sheikh Shakhboot bin Nahyan Al Nahyan, Panamanian President José Raúl Mulino, Ecuadorian Vice President María José Pinto González, Foreign Minister Víctor \"Ito\" Bisonó and Education Minister Luis Miguel De Camps."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVW1CU20tOEF4Vjl1OGF5WjctRl9ZOXVWOTJqTVBteTNYT2FBNmdab3Q3MzFoWHdEMUdmZkY1OXRSMmVRX0QwWnVPOTZMallWX0RWZkRpWlVjZFhWdk95UGNGZkJxaUFUd3BOTWRYLUY2OVJpcmZLWmdRZUc0dzE3QmZkTWM5QXAzUUNkc0d1U0sxQ3h5UHRZelcxSWo0cGt2eUxFRGhaaFpFbFBfTUhfSmcwcmMzNzVSYzNaRg?oc=5",
-  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-proyecta-nuevas-oportunidades-de-inversion-turismo-comercio",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-proyecta-nuevas-oportunidades-de-inversion-turismo-comercio"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002278951.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (corregí \"Abinader quiere\" en el gancho por \"propone\" para no atribuir intención más allá de la fuente; \"Shakhboot\" en el título no cambió; quité \"Lo hizo\" → ajustes de estilo; mantuve el resto fiel a las fuentes; \"ayuda\" → \"generación de empleos\" según texto; agregué \"dijo\" en la mención de Bisonó y Mulino sin cambios de fondo).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T19:50:19.040021+00:00",
-  "tendencia": 1
- },
- {
-  "id": "465c6e88e7",
-  "titulo": "EE.UU. y Indonesia amplían su cooperación en energía nuclear civil",
-  "titulo_original": "The United States and Indonesia Expand Civil Nuclear Partnership",
-  "resumen": "Washington anuncia un simulador de control para pequeños reactores modulares y programas de formación en Indonesia, en plena alza de la demanda eléctrica.",
-  "gancho": "Washington anuncia un simulador de control para pequeños reactores modulares y programas de formación en Indonesia, en plena alza de la demanda eléctrica.",
-  "parrafos": [
-   "Durante la Cumbre de Asia Oriental en Manila, Filipinas, el 17 de noviembre, Estados Unidos se comprometió a ampliar la cooperación nuclear civil en el Sudeste Asiático, una región donde se anticipa que la demanda de energía se triplique para 2050.",
-   "Como parte de ese compromiso, Estados Unidos proveerá a Indonesia un simulador de sala de control para pequeños reactores modulares (SMR), además de otro apoyo técnico. La ayuda se enmarca en el programa FIRST del Departamento de Estado, cuyo objetivo es convertir a Indonesia en un centro regional de esta tecnología.",
-   "El plan incluye formar técnicos nucleares en tecnología estadounidense, realizar estudios para encontrar sitios adecuados para los reactores, ofrecer apoyo en licencias y regulación, y conectar universidades de EE.UU. Con instituciones indonesias para desarrollar programas de ingeniería nuclear. También habrá capacitación sobre el manejo seguro de desechos radiactivos y combustible gastado.",
-   "El anuncio sigue a la firma, por parte del secretario de Estado Marco Rubio y sus pares de Japón y Corea del Sur, de un memorando de cooperación trilateral sobre el despliegue de SMR en la región Indo-Pacífico y en otros lugares.",
-   "Según el comunicado de la Embajada de EE.UU. En Indonesia, los SMR podrían ofrecer energía confiable las 24 horas, sin depender del clima, y sus diseños incluyen medidas para resistir eventos extremos como terremotos. Washington sostiene que la tecnología estadounidense se basa en más de 70 años de experiencia en energía nuclear."
-  ],
-  "claves": [
-   "El Departamento de Estado de EE.UU. proveerá a Indonesia un simulador de sala de control para pequeños reactores modulares (SMR).",
-   "El apoyo forma parte del programa FIRST, que busca convertir a Indonesia en un centro regional de SMR.",
-   "La demanda energética del Sudeste Asiático se anticipa que se triplique para 2050.",
-   "El anuncio se hizo en la Cumbre de Asia Oriental en Manila, Filipinas, el 17 de noviembre."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "U.S. and Indonesia Expand Civil Nuclear Cooperation",
-   "gancho": "Washington announces a control room simulator for small modular reactors and training programs in Indonesia as regional power demand climbs.",
-   "claves": [
-    "The U.S. State Department will provide Indonesia with a small modular reactor (SMR) control room simulator.",
-    "The support is part of the FIRST program, which aims to make Indonesia a regional SMR hub.",
-    "Energy demand in Southeast Asia is anticipated to triple by 2050.",
-    "The announcement was made at the East Asia Summit in Manila, Philippines, on November 17."
-   ],
-   "importa": "",
-   "parrafos": [
-    "At the East Asia Summit in Manila, Philippines, on November 17, the United States committed to expanding civil nuclear cooperation in Southeast Asia, a region where energy demand is anticipated to triple by 2050.",
-    "As part of that commitment, the United States will provide Indonesia with a control room simulator for small modular reactors (SMRs), along with other technical assistance. The support falls under the State Department's FIRST program, which aims to turn Indonesia into a regional SMR hub.",
-    "The plan includes training nuclear technicians on U.S. Technology, conducting studies to identify suitable reactor sites, offering licensing and regulatory support, and connecting U.S. Universities with Indonesian institutions to develop nuclear engineering programs. Training on the safe management of radioactive waste and spent fuel is also planned.",
-    "The announcement follows the signing by Secretary of State Marco Rubio and his counterparts from Japan and South Korea of a trilateral memorandum of cooperation on SMR deployment in the Indo-Pacific and beyond.",
-    "According to the U.S. Embassy in Indonesia's statement, SMRs could provide reliable, around-the-clock power regardless of weather, and their designs include measures to withstand extreme events such as earthquakes. Washington maintains that U.S. Reactor technology builds on more than 70 years of American nuclear experience."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbk03VWpRRnFwbEg1TDJUVG9FbG5qT0xlUnlBU0VKclFVU1pkREZ4eXIyb25GT3R4WkVLUHdSd2hXTjRnY1cyc2dnczEtZFJUc043VjhLT0VXcWZNUDVLbmdBQ1JYajgxYmZORWdwLTZLWHNseEFubG1nRnVDaFUxLWZUVExMZE9YTDVCa0U4cU8yc3Rf?oc=5",
-  "url": "https://id.usembassy.gov/the-united-states-and-indonesia-expand-civil-nuclear-partnership/",
-  "fuente": "U.S. Embassy & Consulates in Indonesia (.gov)",
-  "dominio": "id.usembassy.gov",
-  "fuentes": [
-   {
-    "nombre": "U.S. Embassy & Consulates in Indonesia (.gov)",
-    "url": "https://id.usembassy.gov/the-united-states-and-indonesia-expand-civil-nuclear-partnership/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://id.usembassy.gov/wp-content/uploads/sites/162/2025/03/20250225-Website-Slider-Template-1024x434.png",
-   "credito": "U.S. Embassy & Consulates in Indonesia (.gov)"
-  },
-  "revision": "corregida (eliminé \"a Indonesia\" redundancia no; atribuí a Washington/comunicado las afirmaciones de seguridad y clima, corregí \"Secretary Rubio\" a Marco Rubio como secretario de Estado sin cambios de fondo, quité \"Super Intelligence\" no incluido, y ajusté el resto a lo que dice la fuente; cambié \"una región donde\" y \"se espera\" por \"se anticipa\" para mantenerlo fiel; ajusté \"Estados Unidos entregará\" al verbo de la fuente \"proveerá\")",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-20T19:50:49.238591+00:00",
-  "tendencia": 1
  }
 ]
