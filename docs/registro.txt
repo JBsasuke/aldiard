@@ -1,27 +1,34 @@
-Corrida: 2026-11-21 11:47 PM (hora RD)
+Corrida: 2026-11-22 12:47 AM (hora RD)
 [República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
 Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación prioriza el fortalecimiento de los aprendizajes para elevar la calidad educativa
-[República Dominicana] Hospital Luis Bogaert: texto leído 1296 letras -> https://hospitalluisbogaert.gob.do/
-Fuente oficial encontrada: Hospital Luis Bogaert 
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión es la página de inicio del hospital, no una noticia concreta. Solo incluye titulares de otras notas sin su contenido, y el texto restante es publicidad institucional y avisos de seguridad')
-[República Dominicana] Senado de la República Dominicana: texto leído 269 letras -> https://memoriahistorica.senadord.gob.do/items/9200f159-8f78-4515-a2e5-73b2fb9d6ab1
-No se pudo leer el artículo; no se publica para no salir corta: Memoria institucional 2023: Superintendencia de Seguros
-[República Dominicana] Senado de la República Dominicana: texto leído 269 letras -> https://memoriahistorica.senadord.gob.do/items/4d5a25fb-7f4b-45cd-b2fc-583f6796c947
-No se pudo leer el artículo; no se publica para no salir corta: Memoria institucional 2021: Superintendencia de Seguros
-[República Dominicana] De Último Minuto: texto leído 1558 letras -> https://deultimominuto.com/deportes/beisbol/gigantes-licey-y-estrellas-salen-victoriosos-en-la-jornada-sabatina-de-lidom/
-Cambiada de sección: República Dominicana -> Deportes: Gigantes, Licey y Estrellas salen victoriosos en la jornada sabatina de lidom
-Revisión: corregida (Se corrigió "Noelvi Marte también conectó un vuelacerca" en el inglés, que decía "also hit a home run" sin la
-[República Dominicana] De Último Minuto: texto leído 3561 letras -> https://deultimominuto.com/deportes/beisbol/trevor-bauer-domina-a-las-aguilas-y-las-estrellas-consiguen-su-septima-victoria-consecutiva/
-Cambiada de sección: República Dominicana -> Deportes: Trevor Bauer domina a las Águilas y las Estrellas consiguen su séptima victoria consecutiva
-Revisión: corregida (corregí "4-3" y "4-1" a "4-for-3"/"4-for-1" en inglés y en español se mantiene "de 4-3"; ajusté "el sexto sal
 [República Dominicana] De Último Minuto: texto leído 1141 letras -> https://deultimominuto.com/entretenimiento/urbanda-agradece-acogida/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Urbanda agradece acogida en La Peñita Vol. 3 y promete regresar con nueva música
 [República Dominicana] De Último Minuto: texto leído 1607 letras -> https://deultimominuto.com/nacionales/angel-de-la-cruz-integracion/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ángel de la Cruz: integración de Tony Peña en Samaná forma parte de recorrido nacional en apoyo a Collado
-[República Dominicana] De Último Minuto: texto leído 2010 letras -> https://deultimominuto.com/entretenimiento/aramis-camilo-13/
-Cambiada de sección: República Dominicana -> Famosos: Aramis Camilo destaca el valor del merengue en La Peñita Vol. 3 y anuncia nueva producción de bachata
-Revisión: corregida (eliminé "Asimismo" y "Camilo también destacó"... en realidad solo ajusté: "Durante su presentación" ya no apa
+[República Dominicana] El Dia.com.do: texto leído 818 letras -> https://eldia.com.do/registran-temblor-de-magnitud-4-7-al-suroeste-de-higuey/
+[República Dominicana] El Nuevo Día: texto leído 1501 letras -> https://www.elnuevodia.com/noticias/locales/notas/registran-temblor-de-magnitud-44-al-sureste-de-republica-dominicana/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/sismo-de-magnitud-4-6-al-este-de-la-isla-catalina/
+Revisión: corregida (eliminé la mención de Diario Libre y Listín Diario, que no aparecen en las fuentes; atribuí la magnitud 4.7 a
+[República Dominicana] El Dia.com.do: texto leído 3087 letras -> https://eldia.com.do/guyana-rechaza-cualquier-dialogo-con-venezuela-sobre-la-disputada-region-del-esequibo/
+[República Dominicana] EFE - Agencia de noticias: texto leído 3093 letras -> https://efe.com/mundo/guyana-rechaza-dialogos-venezuela-esequibo/
+Cambiada de sección: República Dominicana -> Internacionales: Guyana rechaza cualquier diálogo con Venezuela sobre la disputada región del Esequibo
+Revisión: corregida (eliminé la frase "Lo hizo después de que se publicara una información..." y la reubiqué atribuida; corregí "L
+[República Dominicana] El Dia.com.do: texto leído 2991 letras -> https://eldia.com.do/doncic-ayuda-lakers-en-victoria-sobre-los-kings/
+Cambiada de sección: República Dominicana -> Deportes: Doncic anota 25 puntos y Lakers aprovechan falla de LaVine para superar a Kings
+Revisión: corregida (corregí "Los Lakers" a "Lakers" no; cambié "Los Lakers" por "los Lakers" en el texto; agregué la atribución d
+[República Dominicana] El Dia.com.do: texto leído 4245 letras -> https://eldia.com.do/trump-reaviva-la-polemica-sobre-el-canal-de-panama-al-afirmar-que-obligo-a-china-a-retirarse/
+[República Dominicana] Infobae: texto leído 4677 letras -> https://www.infobae.com/panama/2026/11/21/trump-reaviva-la-polemica-sobre-el-canal-de-panama-al-afirmar-que-obligo-a-china-a-retirarse/
+Cambiada de sección: República Dominicana -> Internacionales: Trump reaviva la polémica sobre el Canal de Panamá al afirmar que obligó a China a retirarse
+Revisión: corregida (se cambió la atribución de la declaración del canciller a El Dia/Infobae de forma precisa, se corrigió "Trump
+[República Dominicana] El Dia.com.do: texto leído 5577 letras -> https://eldia.com.do/sindicato-de-peloteros-gl-propone-acabar-con-los-pre-acuerdos-en-las-firmas-internacionales-sin-draft/
+Cambiada de sección: República Dominicana -> Deportes: Sindicato de peloteros GL propone acabar con los pre-acuerdos en las firmas internacionales, sin draft
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se quitó "sin un sorteo" por no ser exacto a la fuente; se atribuyó a ESPN/El Dia 
+Revisión: corregida (se quitó "sin un sorteo" por no ser exacto a la fuente; se atribuyó a ESPN/El Dia que la propuesta del sindic
+[República Dominicana] El Dia.com.do: texto leído 1915 letras -> https://eldia.com.do/shohei-ohtani-firma-un-acuerdo-millonario-con-new-balance-hasta-su-retirada/
+Cambiada de sección: República Dominicana -> Deportes: Shohei Ohtani firma un acuerdo millonario con New Balance hasta su retirada
+Revisión: corregida (corregí "Los Angeles Dodgers" a "Dodgers" por la duplicación del artículo; ajusté "lo mismo" en el texto espa
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
@@ -39,64 +46,56 @@ Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: prensamercosur.org
 Fuente no confiable, se salta: 2001online.com
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
-[Internacionales] U.S. Embassy & Consulates in China: texto leído 7000 letras -> https://cn.usembassy.gov/fact-sheet-president-donald-j-trump-secures-historic-economic-deals-for-american-workers-and-strengthens-americas-leadership-in-asia/
-Fuente oficial encontrada: The White House (.gov), U.S. Embassy & Consulates in China 
-Rechazada por la revisión: President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security -> cifras que no aparecen en las fuentes: 2600
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un comunicado de la Casa Blanca que resume los logros de un viaje presidencial, sin una noticia concreta con hechos verificables independientes ni versiones de otros medi')
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una transcripción de una rueda de prensa de la Casa Blanca con declaraciones del presidente, en la que se mezclan afirmaciones políticas y de promoción (por ej')
+Error IA: ValueError('respuesta sin el formato esperado: No puedo completar esta tarea tal como está planteada. El material que me pasas es un único texto: una nota de The White House (.gov), presentada como "FUENTE OFICIAL", que además aparece cortada a mi')
 [Internacionales] The White House (.gov): texto leído 4501 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-taps-pentagon-cyber-chief-kirsten-davies-as-national-cyber-director/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Taps Pentagon Cyber Chief Kirsten Davies as National Cyber Director
-Fuente no confiable, se salta: instagram.com
 [Famosos] CDN: texto leído 2278 letras -> https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/
-[Famosos] EFE - Agencia de noticias: texto leído 1216 letras -> https://efe.com/economia/renuncia-directora-general-gigante-comercio-electronico-ruso-wildberries/
-[Famosos] Noticias SIN: texto leído 1477 letras -> https://noticiassin.com/mundo/europa/2026/11/21/tatiana-kim-deja-wildberries-tras-sanciones-de-la-ue-y-ataques-ucranianos-2174441/?amp=1
-Cambiada de sección: Famosos -> Internacionales: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
-Rechazada por la revisión: Renuncia directora general del gigante de comercio electrónico ruso Wildberries -> cifras que no aparecen en las fuentes: 12, 59
+[Famosos] Infobae: texto leído 1227 letras -> https://www.infobae.com/america/agencias/2026/11/21/renuncia-directora-general-del-gigante-de-comercio-electronico-ruso-wildberries/
+No encaja en ninguna sección, se salta: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
 Fuente no confiable, se salta: prensamercosur.org
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
 [Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
-[Famosos] Acento: texto leído 6677 letras -> https://acento.com.do/actualidad/que-se-celebra-hoy-efemerides-del-21-de-noviembre-y-acontecimientos-historicos-9794041.html
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] EL PAÍS Uruguay: texto leído 0 letras -> https://www.elpais.com.uy/vida-actual/efemerides/que-se-celebra-hoy-sabado-21-de-noviembre-de-2026-efemerides-de-un-dia-como-hoy-en-la-historia
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Qué se celebra hoy? Efemérides del 21 de noviembre y acontecimientos históricos
+[Famosos] Noticias SIN: texto leído 4102 letras -> https://noticiassin.com/diaspora/2026/11/21/cultura-anuncia-instituto-superior-de-artes-para-2027-2174528/?amp=1
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Cultura anuncia creación del Instituto Superior de Artes para 2027
+Revisión: corregida (se cambió "Dominican Culture Office Abroad" por "Dirección de Cultura Dominicana en el Exterior" en el inglés
 Fuente no confiable, se salta: elperiodico.com.do
 [Famosos] Noticias SIN: texto leído 3401 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/21/myke-towers-rauw-alejandro-y-nicki-nicole-lideran-estrenos-latinos-2174491/?amp=1
 [Famosos] ElHeraldo.hn: texto leído 3216 letras -> https://www.elheraldo.hn/entretenimiento/estrenos-musica-latina-myke-towers-rauw-alejandro-nicki-nicole-estopa-BG32708485
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Myke Towers, Rauw Alejandro y Nicki Nicole lideran los estrenos musicales de la semana
 Fuente no confiable, se salta: eljaya.com
-[Famosos] Univision: texto leído 2023 letras -> https://www.univision.com/horoscopos/cancer-horoscopo-del-sabado-21-de-noviembre-de-2026
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un horóscopo de entretenimiento, no una noticia concreta con hechos verificables, por lo que no se puede redactar una nota informativa a partir de ella.')
-[Deportes] Lidom: texto leído 3533 letras -> https://lidom.com/gigantes-del-cibao/gigantes-derrotan-6-2-al-escogido-con-jonrones-de-marte-y-ozuna-101057.html
-Revisión: corregida (corregí el cuarto inning que el borrador situó como "primer inning" y el quinto de De la Cruz; corregí la atr
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872057/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: San Juan vs. Santurce, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 301 letras -> https://www.mlb.com/es/news/a-j-ewing-extension-contrato-mets
-No se pudo leer el artículo; no se publica para no salir corta: A.J. Ewing acuerda extensión de ocho años con los Mets (fuente)
+[Famosos] Infobae: texto leído 7000 letras -> https://www.infobae.com/mexico/2026/11/21/el-malilla-da-consejos-amorosos-y-presume-dotes-en-el-regional-mexicano/?outputType=amp-type
+Revisión: corregida (se corrigió "Fernando Hernández Flores" sin cambios necesarios; se quitó "Beliween" no; se ajustó la atribuci
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-gigantes/2026/11/21/851502/final
+No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Leones contra los Gigantes el 21/11/2026 gratis
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/gameday/los-mochis-vs-culiacan/2026/11/21/850404
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Los Mochis at Culiacan, Probable Pitchers, Lineups, and more
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
-[Deportes] MLB.com: texto leído 1605 letras -> https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox
-Rechazada por la revisión: D-backs trade for right-hander Oviedo from Red Sox -> cifras que no aparecen en las fuentes: 2024
-[Deportes] MLB.com: texto leído 5997 letras -> https://www.mlb.com/news/tarik-skubal-changes-after-dodgers-trade
-Revisión: corregida (eliminé "Tras la cirugía en el codo" en el gancho y la frase "Eso sugiere que llegará bien preparado" pasó a 
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 970 letras -> https://www.micm.gob.do/transparencia/finanzas/reporte-de-inventario-en-almacen/category/agosto-131
-Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-Fuente no confiable, se salta: revistamercado.do
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 04:15 PM
+[Deportes] NBA.com: texto leído 0 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_05_15PM.pdf
+No se pudo leer el artículo; no se publica para no salir corta: Injury Report: 11/21/26 05:15 PM
+[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/kia-mvp-ladder-nov-20-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Kia MVP Ladder: Giannis Antetokounmpo charges into Top 3 as scorching Heat streak on
+[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 0 letras -> https://micm.gob.do/wp-content/uploads/2026/11/AVISO-PRE.-SEM.CORTE-21-27-NOV-DE-2026.pdf
+No se pudo leer el artículo; no se publica para no salir corta: AVISO El Ministerio de Industria, Comercio y MiPymes
 Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: identidadcorrentina.com.ar
 Fuente no confiable, se salta: asturiasmundial.com
 Es opinión o editorial, se salta: OPINION: Parada abrupta del financiamiento externo (2)
 Fuente no confiable, se salta: ntelemicro.com
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/juegos-lidom-hoy-21-noviembre-2026/
+No se pudo leer el artículo; no se publica para no salir corta: Juegos LIDOM hoy 21 de noviembre: horarios y posiciones
 [Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
-[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/en-ca/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -131,7 +130,7 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy G
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
-Marcadores: 32 juegos de LIDOM entre hace 3 días y dentro de 5
+Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-9 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 109 · ya cubiertas: 16 · no confiables: 18 · opinión: 1 · con texto leído: 42 · sin texto: 5 · medios juntados: 0 · con fuente oficial: 20 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 0 · error IA: 3 · descartadas por la IA: 25 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 4
+13 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 112 · ya cubiertas: 16 · no confiables: 15 · opinión: 1 · con texto leído: 42 · sin texto: 6 · medios juntados: 4 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 2 · descartadas por la IA: 25 · cambiadas de sección: 6 · largas: 8 · ocultas (cortas): 5

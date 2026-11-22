@@ -1,5 +1,543 @@
 [
  {
+  "id": "8628bb7433",
+  "titulo": "Temblor de magnitud 4.7 sacude La Altagracia y se reporta en Puerto Rico",
+  "titulo_original": "Registran temblor de magnitud 4.7 al suroeste de Higüey",
+  "resumen": "Un sismo de magnitud 4.7 se registró este sábado en La Altagracia, según la UASD. Usuarios en varios puntos de Puerto Rico dijeron haberlo sentido.",
+  "gancho": "Un sismo de magnitud 4.7 se registró este sábado en La Altagracia, según la UASD. Usuarios en varios puntos de Puerto Rico dijeron haberlo sentido.",
+  "parrafos": [
+   "Un temblor de magnitud 4.7 se registró la mañana de este sábado 21 de noviembre en la provincia La Altagracia, según informó el Centro Nacional de Sismología de la Universidad Autónoma de Santo Domingo (UASD). El movimiento ocurrió a las 11:00 de la mañana, hora local.",
+   "Según el reporte preliminar de la UASD, el epicentro se ubicó a unos 17.8 kilómetros al oeste-suroeste de San Rafael del Yuma, a una profundidad de 100.9 kilómetros, en las coordenadas 18.376 de latitud y -68.834 de longitud.",
+   "En Puerto Rico, el Servicio Nacional de Meteorología (SNM) en San Juan reportó un temblor de magnitud preliminar 4.4 a la misma hora, a 65 millas al noroeste de la isla de Mona. La Red Sísmica de Puerto Rico ubicó el epicentro a 55.89 kilómetros al sur-suroeste de Higüey. Las cifras de magnitud no coinciden entre las fuentes y aún están en revisión. En redes sociales, usuarios de varios pueblos del oeste de Puerto Rico dijeron haber sentido un \"meneo\".",
+   "Hasta el momento, ninguna de las instituciones informó daños materiales ni personas afectadas. El SNM confirmó que no se emitió aviso, advertencia ni vigilancia de tsunami para Puerto Rico."
+  ],
+  "claves": [
+   "Magnitud 4.7 registrada a las 11:00 de la mañana del sábado 21 de noviembre, según el Centro Nacional de Sismología de la UASD.",
+   "Epicentro a unos 17.8 km al oeste-suroeste de San Rafael del Yuma, a 100.9 km de profundidad.",
+   "No se informó de daños ni de personas afectadas.",
+   "El SNM confirmó que no hay amenaza de tsunami para Puerto Rico."
+  ],
+  "importa": "Si vives en La Altagracia o tienes familia allí, es una señal para revisar tu plan de emergencia, aunque por ahora no hay reportes de daños.",
+  "en": {
+   "titulo": "Magnitude 4.7 quake shakes La Altagracia and is reported in Puerto Rico",
+   "gancho": "A magnitude 4.7 earthquake was recorded Saturday in La Altagracia, according to UASD. Users in several areas of Puerto Rico said they felt it.",
+   "claves": [
+    "Magnitude 4.7 recorded at 11:00 a.m. on Saturday, November 21, according to the UASD National Seismology Center.",
+    "Epicenter about 17.8 km west-southwest of San Rafael del Yuma, at a depth of 100.9 km.",
+    "No damage or injuries have been reported.",
+    "The SNM confirmed there is no tsunami threat to Puerto Rico."
+   ],
+   "importa": "If you live in La Altagracia or have family there, it's a reminder to review your emergency plan, although no damage has been reported so far.",
+   "parrafos": [
+    "A magnitude 4.7 earthquake was recorded Saturday morning, November 21, in La Altagracia province, according to the National Seismology Center of the Autonomous University of Santo Domingo (UASD). The tremor occurred at 11:00 a.m. Local time.",
+    "According to UASD's preliminary report, the epicenter was located about 17.8 kilometers west-southwest of San Rafael del Yuma, at a depth of 100.9 kilometers, at coordinates 18.376 latitude and -68.834 longitude.",
+    "In Puerto Rico, the National Weather Service (SNM) in San Juan reported a preliminary magnitude 4.4 tremor at the same time, located 65 miles northwest of Mona Island. The Puerto Rico Seismic Network placed the epicenter 55.89 kilometers south-southwest of Higüey. The magnitude figures do not match across sources and are still under review. On social media, users in several towns in western Puerto Rico said they felt a \"meneo\" (shaking).",
+    "So far, none of the institutions has reported material damage or people affected. The SNM confirmed that no tsunami advisory, warning, or watch was issued for Puerto Rico."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSzZNSjNpMWtDVWhMeVA2UV9tYTZaeUZNeDhCbVRJemUwMmRDSE1NbXFxYWJ2ZlRDVmkzNWVmVjBkUmhVMDdfQVJzV2xQTTJnb2xSXzVzWEJ0bW1qMEZvTDJmNEZ0MkdLRGM0OHhqSVpRUXdiY0V0MlVSeURSS2s3bkVFcw?oc=5",
+  "url": "https://www.elnuevodia.com/noticias/locales/notas/registran-temblor-de-magnitud-44-al-sureste-de-republica-dominicana/",
+  "fuente": "El Nuevo Día",
+  "dominio": "elnuevodia.com",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Día",
+    "url": "https://www.elnuevodia.com/noticias/locales/notas/registran-temblor-de-magnitud-44-al-sureste-de-republica-dominicana/"
+   },
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/registran-temblor-de-magnitud-4-7-al-suroeste-de-higuey/"
+   },
+   {
+    "nombre": "El Caribe",
+    "url": "https://www.elcaribe.com.do/panorama/pais/sismo-de-magnitud-4-6-al-este-de-la-isla-catalina/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé la mención de Diario Libre y Listín Diario, que no aparecen en las fuentes; atribuí la magnitud 4.7 al Centro Nacional de Sismología de la UASD, ya que El Día la atribuye ahí y el borrador la presentaba sin atribución; corregí el dato de El Nuevo Día sobre el epicentro de Puerto Rico y la magnitud 4.4 para que coincidan; aclaré que la RSPR ubicó el epicentro a 55.89 km respecto de Higüey; eliminé \"no hay reportes de daños\" como consejo genérico redundante; ajusté el gancho para que no afirme que el temblor \"se siente hasta Puerto Rico\" como hecho confirmado sino como reportes de personas).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T04:48:28.764174+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "43afbc3c95",
+  "titulo": "Guyana descarta diálogo bilateral con Venezuela por el Esequibo y espera fallo de la CIJ",
+  "titulo_original": "Guyana rechaza cualquier diálogo con Venezuela sobre la disputada región del Esequibo",
+  "resumen": "Guyana cierra la puerta a negociar directamente con Venezuela por el Esequibo. Qué dice Georgetown y qué pasa ahora en La Haya.",
+  "gancho": "Guyana cierra la puerta a negociar directamente con Venezuela por el Esequibo. Qué dice Georgetown y qué pasa ahora en La Haya.",
+  "parrafos": [
+   "El Gobierno de Guyana rechazó este sábado cualquier diálogo bilateral con Venezuela sobre la disputada región del Esequibo. Según el ministro de Asuntos Exteriores, Hugh Todd, la controversia fronteriza debe resolverse ante la Corte Internacional de Justicia (CIJ), y Guyana acatará su fallo. En un comunicado, Todd instó a Venezuela a hacer lo mismo.",
+   "Todd afirmó que el laudo arbitral de 1899, que fijó la frontera entre ambos países, es \"perfecto, definitivo y completo\". Añadió que el fallo de la CIJ podría emitirse tan pronto como en el primer trimestre de 2027.",
+   "La declaración llega después de que la presidenta encargada de Venezuela, Delcy Rodríguez, dijera el viernes que su país rechaza \"el fraudulento laudo arbitral de 1899\" y reafirmara que no reconoce a la CIJ para resolver la disputa.",
+   "Por su parte, el Gobierno de Estados Unidos aseguró el jueves que sigue respetando el laudo de 1899. Lo hizo tras reportes según los cuales un funcionario estadounidense planteó a Georgetown la posibilidad de ceder a Caracas parte del Esequibo. El Departamento de Estado indicó que el laudo \"debe ser respetado, a menos que -o hasta que- un órgano jurídico competente o el consentimiento de ambas partes establezcan una nueva delimitación fronteriza\". El Ministerio de Asuntos Exteriores de Guyana aseguró haber recibido garantías de Washington de que su postura no ha cambiado.",
+   "El Esequibo, de unos 160.000 kilómetros cuadrados, ocupa dos terceras partes de Guyana y es rico en hidrocarburos. La disputa comenzó con el laudo de París de 1899, que dio el territorio a la entonces Guayana Británica. Décadas después, Venezuela declaró nulo ese fallo y firmó con Reino Unido el Acuerdo de Ginebra de 1966. Guyana llevó el caso a la CIJ en 2018 para que confirme la validez del laudo. El tribunal celebró audiencias sobre el fondo en mayo de 2026 y ahora delibera para dictar sentencia."
+  ],
+  "claves": [
+   "El ministro Hugh Todd rechazó cualquier conversación bilateral con Venezuela.",
+   "La CIJ podría emitir su fallo tan pronto como en el primer trimestre de 2027.",
+   "Venezuela rechaza el laudo de 1899 y no reconoce a la CIJ como árbitro.",
+   "Estados Unidos dice que sigue respetando el laudo de 1899."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Guyana Rules Out Bilateral Talks with Venezuela Over Essequibo, Awaits ICJ Ruling",
+   "gancho": "Guyana is shutting the door on direct negotiations with Venezuela over Essequibo. Here is what Georgetown says and what comes next in The Hague.",
+   "claves": [
+    "Foreign Minister Hugh Todd rejected any bilateral talks with Venezuela.",
+    "The ICJ could issue its ruling as early as the first quarter of 2027.",
+    "Venezuela rejects the 1899 award and does not recognize the ICJ as arbiter.",
+    "The United States says it still respects the 1899 award."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Government of Guyana on Saturday rejected any bilateral dialogue with Venezuela over the disputed Essequibo region. According to Foreign Minister Hugh Todd, the border dispute must be resolved before the International Court of Justice (ICJ), and Guyana will abide by its ruling. In a statement, Todd urged Venezuela to do the same.",
+    "Todd said the 1899 Arbitral Award, which set the border between the two countries, is \"perfect, final and complete.\" He added that the ICJ ruling could come as early as the first quarter of 2027.",
+    "The statement comes after Venezuela's acting president, Delcy Rodríguez, said on Friday that her country rejects \"the fraudulent 1899 arbitral award\" and reaffirmed that it does not recognize the ICJ to resolve the dispute.",
+    "The United States government, for its part, said on Thursday that it still respects the 1899 award. It did so after reports that a US official had suggested to Georgetown that part of Essequibo could be ceded to Caracas. The State Department said the award \"must be respected, unless—or until—a competent legal body or the consent of both parties establishes a new boundary delimitation.\" Guyana's Ministry of Foreign Affairs said it had received assurances from Washington that its position has not changed.",
+    "Essequibo, roughly 160,000 square kilometers, makes up two-thirds of Guyana and is rich in hydrocarbons. The dispute began with the 1899 Paris Arbitral Award, which gave the territory to what was then British Guiana. Decades later, Venezuela declared that ruling null and signed the 1966 Geneva Agreement with the United Kingdom. Guyana brought the case to the ICJ in 2018 seeking confirmation of the award's legal validity. The court held hearings on the merits in May 2026 and is now deliberating its judgment."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYzZiU1BBYXBod2FId0lEY1pjeWRsallGUHhJUDlrNUNwVmVBR1JJbHd4cmZZUWd3OF9VMmdCU2RRYVBtVEgyVXRBYzNSdWlTQURfM3JHRlo1a0laTlN1ek5yLVZIbElmWlZQU0U2NGdVMnZtX05jYzhvLTJRY1dCQkVJYVR2NDVhRDZJZUpEMFY1Q3l4cnBsNUc4N3pPMkNqWWFCVWtwMlBmTHc?oc=5",
+  "url": "https://efe.com/mundo/guyana-rechaza-dialogos-venezuela-esequibo/",
+  "fuente": "EFE - Agencia de noticias",
+  "dominio": "efe.com",
+  "fuentes": [
+   {
+    "nombre": "EFE - Agencia de noticias",
+    "url": "https://efe.com/mundo/guyana-rechaza-dialogos-venezuela-esequibo/"
+   },
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/guyana-rechaza-cualquier-dialogo-con-venezuela-sobre-la-disputada-region-del-esequibo/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé la frase \"Lo hizo después de que se publicara una información...\" y la reubiqué atribuida; corregí \"Lo hizo\" sin sustento; ajusté \"un día después\" a \"este sábado\"/\"el viernes\" según fuentes; atribuí la información de la cesión a una publicación sin fuente identificada; ajusté \"Guyana acatará su fallo\" y \"Venezuela hacer lo mismo\" a la frase de la fuente; quité \"Según el Departamento de Estado\" redundancia y \"una información según la cual\" sustituido por \"según reportes\", ya que las fuentes no identifican el medio original; corregí \"Caracas\" y ajusté \"Hugh Todd\" sin error; añadí atribución de \"perfecto, definitivo y completo\" a la cita textual en español; ortografía y versión inglesa alineadas)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T04:48:47.947489+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "20a0c4046d",
+  "titulo": "Doncic y Grimes dan la victoria a los Lakers sobre los Kings en el último minuto",
+  "titulo_original": "Doncic anota 25 puntos y Lakers aprovechan falla de LaVine para superar a Kings",
+  "resumen": "Un triple de Grimes con 57 segundos por jugar dio a los Lakers una victoria de 106-104 sobre Sacramento. Los Kings siguen sin ganar.",
+  "gancho": "Un triple de Grimes con 57 segundos por jugar dio a los Lakers una victoria de 106-104 sobre Sacramento. Los Kings siguen sin ganar.",
+  "parrafos": [
+   "Los Lakers de Los Ángeles vencieron el viernes 106-104 a los Kings de Sacramento. La victoria llegó gracias a un triple de Quentin Grimes con 57 segundos por jugar, en un partido muy disputado.",
+   "Luka Doncic lideró a los locales con 25 puntos y ocho asistencias. Walker Kessler anotó 15 puntos y Matisse Thybulle sumó 14. Los Lakers consiguieron su décima victoria en 11 partidos, aunque llegaban de perder ante el Jazz de Utah, lo que cortó una racha de nueve triunfos seguidos.",
+   "Por los Kings, De'Andre Hunter anotó 30 puntos, su máximo de la temporada, y encestó cinco triples. Sacramento llegó con ventaja al cuarto periodo, pero no logró sostenerla. Zach LaVine falló un triple largo sobre la bocina que habría dado el triunfo a los visitantes.",
+   "La derrota es la octava consecutiva para los Kings, que quedaron con marca de 1-14. Es el peor inicio de 15 partidos en la historia de la franquicia.",
+   "Los Lakers ganaron su quinta victoria seguida en casa frente a Sacramento."
+  ],
+  "claves": [
+   "Lakers ganaron 106-104 a los Kings en Los Ángeles, con un triple de Quentin Grimes a 57 segundos del final",
+   "Luka Doncic anotó 25 puntos y repartió ocho asistencias",
+   "De'Andre Hunter anotó 30 puntos por Sacramento, pero los Kings cayeron a 1-14 en la temporada",
+   "Los Lakers ganaron su quinta victoria seguida en casa ante los Kings"
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Doncic and Grimes Lift Lakers Over Kings in Final Minute",
+   "gancho": "A Quentin Grimes three with 57 seconds left gave the Lakers a 106-104 win over Sacramento. The Kings are still winless.",
+   "claves": [
+    "Lakers beat the Kings 106-104 in Los Angeles, with a Quentin Grimes three 57 seconds from the end",
+    "Luka Doncic scored 25 points and added eight assists",
+    "De'Andre Hunter scored 30 points for Sacramento, but the Kings fell to 1-14 on the season",
+    "The Lakers won their fifth straight home game against the Kings"
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Los Angeles Lakers beat the Sacramento Kings 106-104 on Friday. The win came on a Quentin Grimes three-pointer with 57 seconds left, in a closely contested game.",
+    "Luka Doncic led the home team with 25 points and eight assists. Walker Kessler scored 15 points and Matisse Thybulle added 14. The Lakers picked up their 10th win in 11 games, although they had just lost to the Utah Jazz, ending a nine-game winning streak.",
+    "For the Kings, De'Andre Hunter scored 30 points, a season high, and made five three-pointers. Sacramento went into the fourth quarter with a lead but could not hold it. Zach LaVine missed a long three at the buzzer that would have given the visitors the win.",
+    "The loss was Sacramento's eighth straight, leaving the Kings at 1-14. It is the worst 15-game start in franchise history.",
+    "The Lakers won their fifth straight home game against Sacramento."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83NGlDdG1OX2IxakJZY3FHbGFaRjZqZDA2OFZsNXdoellZN3lGTXBfNnV0bUxfZEozclhHT041TmZPM0ZZanhIb3Z3M1BmUHNBeFBqamw5OFN6ODAwd1V6aFZCcXdOV0huTTh0cThOTXZRc3VhMVNVMw?oc=5",
+  "url": "https://eldia.com.do/doncic-ayuda-lakers-en-victoria-sobre-los-kings/",
+  "fuente": "El Dia.com.do",
+  "dominio": "eldia.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/doncic-ayuda-lakers-en-victoria-sobre-los-kings/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"Los Lakers\" a \"Lakers\" no; cambié \"Los Lakers\" por \"los Lakers\" en el texto; agregué la atribución de la racha de nueve triunfos y la derrota ante Utah a la fuente, quité \"Sacramento tenía ventaja al inicio del cuarto periodo\" por ser inexacto frente a la fuente, que dice que los Kings llegaron con ventaja al cuarto periodo —la mantuve, pero ajusté la redacción; corregí \"Los Lakers\" en EN; quité la cifra de \"octava derrota\" en español por coincidir con la fuente; reescribí el gancho en inglés; eliminé \"que rompió el empate\" por redundante; se mantuvo el resto)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T04:49:00.976272+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "f7de1b732f",
+  "titulo": "Trump asegura que obligó a China a retirarse del Canal de Panamá y reabre la disputa",
+  "titulo_original": "Trump reaviva la polémica sobre el Canal de Panamá al afirmar que obligó a China a retirarse",
+  "resumen": "Trump afirma que presionó a China para salir del Canal de Panamá. Panamá responde que la vía solo le pertenece a su país.",
+  "gancho": "Trump afirma que presionó a China para salir del Canal de Panamá. Panamá responde que la vía solo le pertenece a su país.",
+  "parrafos": [
+   "El presidente de Estados Unidos, Donald Trump, aseguró este viernes 20 de noviembre que China abandonó su presencia en el Canal de Panamá después de que él le exigiera salir. La afirmación vuelve a poner la vía interoceánica en el centro de las tensiones entre Washington y Pekín.",
+   "Durante una conferencia de prensa en la Casa Blanca, Trump atribuyó ese supuesto retiro a sus gestiones personales, aunque no precisó qué actividades o intereses chinos habrían terminado. \"Estaban muy involucrados con el Canal y les dije: 'Tienen que irse, tienen que irse', y se fueron\", afirmó al responder preguntas sobre su relación con el presidente chino, Xi Jinping. Trump también dijo que China y Rusia habían reducido su presencia en Venezuela, sin dar detalles.",
+   "La controversia se intensificó el 10 de noviembre, cuando el secretario de Guerra estadounidense, Pete Hegseth, afirmó que Estados Unidos y Panamá controlan conjuntamente el Canal. \"Panamá hizo a un lado los esfuerzos de China y ahora, junto con ellos, controlamos el Canal\", dijo en el Pentágono.",
+   "Panamá rechazó esa versión. El canciller Javier Martínez-Acha, según informó Infobae, señaló el 11 de noviembre que el Canal pertenece exclusivamente a Panamá y que su administración corresponde a la Autoridad del Canal de Panamá (ACP). Explicó que la cooperación en seguridad con Estados Unidos no implica compartir la administración de la vía. Panamá mantiene mecanismos similares con otras naciones para proteger instalaciones estratégicas y combatir el narcotráfico, sin que eso cambie su autoridad sobre el Canal.",
+   "La disputa viene de antes. Antes de asumir el cargo el 20 de enero de 2025, Trump cuestionó los peajes que pagan los buques y denunció influencia china sobre la vía. En su discurso inaugural planteó la posibilidad de recuperar el Canal, aunque su administración fue transferida a Panamá el 31 de diciembre de 1999, según los tratados entre ambos países. El presidente panameño, José Raúl Mulino, ha rechazado reiteradamente esas declaraciones."
+  ],
+  "claves": [
+   "Trump afirmó este viernes 20 de noviembre que China se retiró del Canal tras su exigencia.",
+   "El canciller panameño, Javier Martínez-Acha, rechazó cualquier control compartido con Estados Unidos.",
+   "El secretario de Guerra, Pete Hegseth, había dicho el 10 de noviembre que Estados Unidos y Panamá controlan juntos el Canal."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Trump Says He Forced China Out of Panama Canal, Reigniting Dispute",
+   "gancho": "Trump says he pressured China to leave the Panama Canal. Panama insists the waterway belongs only to its own country.",
+   "claves": [
+    "Trump said on Friday, November 20, that China withdrew from the Canal after he demanded it.",
+    "Panamanian Foreign Minister Javier Martínez-Acha rejected any shared control with the United States.",
+    "Defense Secretary Pete Hegseth said on November 10 that the U.S. and Panama jointly control the Canal."
+   ],
+   "importa": "",
+   "parrafos": [
+    "U.S. President Donald Trump said Friday, November 20, that China left its presence at the Panama Canal after he demanded it leave. The claim puts the interoceanic waterway back at the center of tensions between Washington and Beijing.",
+    "At a White House press conference, Trump attributed the alleged Chinese withdrawal to his personal efforts, though he did not say which Chinese activities or interests had ended. \"They were very involved with the Canal, and I said, 'You have to leave, you have to leave,' and they left,\" he said when asked about his relationship with Chinese President Xi Jinping. Trump also said China and Russia had reduced their presence in Venezuela, without giving details.",
+    "The dispute escalated on November 10, when U.S. Secretary of War Pete Hegseth said the United States and Panama now jointly control the Canal. \"Panama pushed China's efforts aside, and now, together with them, we control the Canal,\" he said at the Pentagon.",
+    "Panama rejected that version. Foreign Minister Javier Martínez-Acha, according to Infobae, said on November 11 that the Canal belongs exclusively to Panama and that its administration falls to the Panama Canal Authority (ACP). He explained that security cooperation with the United States does not mean sharing control of the waterway. Panama has similar arrangements with other nations to protect strategic facilities and fight drug trafficking, without that changing its authority over the Canal.",
+    "The dispute predates this statement. Before taking office on January 20, 2025, Trump criticized the tolls ships pay and alleged Chinese influence over the waterway. In his inaugural address he raised the possibility of reclaiming the Canal, although its administration was transferred to Panama on December 31, 1999, under treaties between the two countries. Panamanian President José Raúl Mulino has repeatedly rejected those statements."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMjRjeFBzM0xSRFRwZDI4RE9EcnNKY0xMTWYzVkJzQ2RsVW1DTWM1WkhNNEdMTWZpdXlKWVBoNmdncjU2WlhLZkNBZlQxVGFBWlBTN2habzRCM2kzRF81T0k4Wk92QVowVldqbmN1NkRHT3d1S0JpQWoxVzRGc1g2U0lIcWJNX1VMMGQ5LWNiOE9mUXBzYTd3ei1wT1RhUXo1SEhrYzJ2ZUVoQTFUZ3hEWXRLWlo?oc=5",
+  "url": "https://www.infobae.com/panama/2026/11/21/trump-reaviva-la-polemica-sobre-el-canal-de-panama-al-afirmar-que-obligo-a-china-a-retirarse/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/panama/2026/11/21/trump-reaviva-la-polemica-sobre-el-canal-de-panama-al-afirmar-que-obligo-a-china-a-retirarse/"
+   },
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/trump-reaviva-la-polemica-sobre-el-canal-de-panama-al-afirmar-que-obligo-a-china-a-retirarse/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió la atribución de la declaración del canciller a El Dia/Infobae de forma precisa, se corrigió \"Trump criticized\" para ajustar la fecha de los peajes como declaración previa al cargo, se quitó la frase \"tras regresar\" redundante y se ajustó el tono en ambos idiomas; las fechas, cargos y cifras coinciden con las fuentes).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T04:49:17.571151+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "e0a73037de",
+  "titulo": "Sindicato de peloteros propone acabar con pre-acuerdos en firmas internacionales, sin draft",
+  "titulo_original": "Sindicato de peloteros GL propone acabar con los pre-acuerdos en las firmas internacionales, sin draft",
+  "resumen": "El sindicato de peloteros de las Grandes Ligas presentó una propuesta para reformar las firmas de prospectos internacionales, sin sorteo. El plazo para el acuerdo laboral vence el 1 de diciembre.",
+  "gancho": "El sindicato de peloteros de las Grandes Ligas presentó una propuesta para reformar las firmas de prospectos internacionales, sin sorteo. El plazo para el acuerdo laboral vence el 1 de diciembre.",
+  "parrafos": [
+   "La Asociación de Jugadores de las Grandes Ligas (MLBPA) presentó su propuesta a los dueños de los equipos para mejorar el sistema de firmas de prospectos internacionales. El sindicato no pide un sorteo, como sí ha planteado la liga.",
+   "La propuesta es parte de las negociaciones para un nuevo Acuerdo Laboral Colectivo. Entre los puntos están aumentar el presupuesto de los clubes para firmar jugadores internacionales y dar más flexibilidad para exceder los fondos de bonos. También se propone recompensar a los equipos que llegan a playoffs y establecer sanciones claras contra quienes violen las reglas de reclutamiento, para acabar con los pre-acuerdos verbales con menores de edad.",
+   "El convenio actual, de cinco años (2022-26), vence el martes 1 de diciembre a las 11:59 p.m. ET. La liga ha amenazado con un cierre patronal si los jugadores no aceptan una reforma amplia de su marco económico, con tope y piso salarial.",
+   "En enero, los dueños propusieron un draft internacional de 12 rondas, con un fondo inicial de bonos de US$200 millones y una edad mínima de 18 años, para reemplazar el sistema actual de agentes libres internacionales de 16 años. Bruce Meyer, director ejecutivo interino de la MLBPA, dijo que el sindicato quiere \"proteger a los jóvenes prospectos de la explotación\" sin imponer \"nuevas restricciones artificiales como un draft\".",
+   "Por su parte, el vocero de la liga, Glen Caplin, informó en un comunicado que MLB retiró su propuesta sobre la elegibilidad de estudiantes de secundaria en el draft doméstico y mantendrá las reglas actuales para los jugadores aficionados nacionales. Sobre el sistema internacional, Caplin afirmó que la liga sigue creyendo que el sorteo es la mejor forma de atacar \"las causas profundas de la corrupción\" en el sistema actual."
+  ],
+  "claves": [
+   "La MLBPA propone subir el fondo de bonos de firma de US$10,000 a US$75,000",
+   "Quiere sanciones específicas contra equipos que hagan pre-acuerdos verbales con menores",
+   "Los dueños proponían un draft internacional de 12 rondas con fondo inicial de US$200 millones",
+   "El convenio laboral actual expira el martes 1 de diciembre a las 11:59 p.m. ET"
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Players' Union Proposes Ending Pre-Agreements in International Signings, No Draft",
+   "gancho": "The MLB players' union has proposed reforms to international prospect signings, without a draft. The current labor deal expires December 1.",
+   "claves": [
+    "The MLBPA wants to raise the signing bonus exemption from $10,000 to $75,000",
+    "It seeks specific penalties for teams that make verbal pre-agreements with minors",
+    "Owners had proposed a 12-round international draft with a $200 million initial bonus pool",
+    "The current labor agreement expires Tuesday, December 1, at 11:59 p.m. ET"
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Major League Baseball Players Association (MLBPA) presented its proposal to team owners to improve the international prospect signing system. The union is not calling for a draft, which the league has pushed for.",
+    "The proposal is part of negotiations over a new Collective Bargaining Agreement. Among its points: increasing clubs' budgets for signing international players and giving teams more flexibility to exceed their bonus pools. It also calls for rewarding teams that reach the playoffs and setting clear penalties for violating recruitment rules, in order to end verbal pre-agreements with minors.",
+    "The current five-year agreement (2022-26) expires Tuesday, December 1, at 11:59 p.m. ET. The league has threatened a lockout if players do not accept a broad overhaul of their economic framework, including a salary cap and floor.",
+    "In January, owners proposed a 12-round international draft, with an initial bonus pool of $200 million and a minimum age of 18, to replace the current system of international free agency at age 16. Bruce Meyer, MLBPA interim executive director, said the union wants to \"protect young prospects from exploitation\" without imposing \"new artificial restrictions such as a draft.\"",
+    "For its part, league spokesman Glen Caplin said in a statement that MLB withdrew its proposal on high school eligibility for the domestic draft and will keep current rules for domestic amateur players. On the international system, Caplin said the league still believes the draft is the best way to address \"the root causes of corruption\" in the current system."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXZXLXpFZkhFY2NkMExNb19va0gxT0NRUVdTQ1VoZE0zREtRNUhWWHhId05OdVRUWnc4bTBYOUlEeEUzV1VDNDIzTW4wYmpXZk9lYWtWZEk4a29mN29KUjdpWUYwVmZNTjNSbmZsQ2F6Wk1hMXQ3cXhWQWE4aGVWa2JDaDVEQUZGeTZnNy1kek9udmI5dWJKU2VtcE0zRXhFQlVtd2hRNy1lUXR3M2IteTMzTlE1OEZmbkN4RFZWLTI?oc=5",
+  "url": "https://eldia.com.do/sindicato-de-peloteros-gl-propone-acabar-con-los-pre-acuerdos-en-las-firmas-internacionales-sin-draft/",
+  "fuente": "El Dia.com.do",
+  "dominio": "eldia.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/sindicato-de-peloteros-gl-propone-acabar-con-los-pre-acuerdos-en-las-firmas-internacionales-sin-draft/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"sin un sorteo\" por no ser exacto a la fuente; se atribuyó a ESPN/El Dia que la propuesta del sindicato \"no pide un sorteo\" y se corrigió el gancho; se corrigió \"playoffs\" a \"postemporada\" en tono local; se agregó la atribución de la fuente y se corrigieron frases de estilo; se corrigió la afirmación de \"reglas actuales\" y el inglés se alineó con el español)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T04:49:31.924298+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "1b66384c0b",
+  "titulo": "Ohtani extiende su alianza con New Balance hasta el final de su carrera",
+  "titulo_original": "Shohei Ohtani firma un acuerdo millonario con New Balance hasta su retirada",
+  "resumen": "El astro de los Dodgers amplía su contrato con New Balance hasta el final de su carrera, y la marca le dedicará un laboratorio.",
+  "gancho": "El astro de los Dodgers amplía su contrato con New Balance hasta el final de su carrera, y la marca le dedicará un laboratorio.",
+  "parrafos": [
+   "La marca de ropa deportiva New Balance informó que extendió su contrato con el japonés Shohei Ohtani, jugador de los Dodgers de Los Ángeles, hasta el final de su carrera profesional. El anuncio fue difundido este viernes por la compañía, según El Dia.com.do, que reportó la noticia desde Miami (EE.UU.).",
+   "Como parte del acuerdo, New Balance renombrará su Laboratorio de Investigación Deportiva como Laboratorio de Investigación Deportiva Shohei Ohtani. La empresa lo justificó en reconocimiento a sus aportes a la investigación, la innovación y el desarrollo de productos para atletas. Las cifras del nuevo contrato no fueron divulgadas.",
+   "Con este vínculo, Ohtani se suma a un grupo reducido de deportistas que han firmado acuerdos de este tipo. Entre ellos están Michael Jordan, LeBron James, Kevin Durant y Cristiano Ronaldo, todos con Nike, y Damian Lillard, con Adidas. \"Cuando me uní a New Balance, me vieron como algo más que un atleta, y esa relación se ha fortalecido con el tiempo\", expresó el japonés.",
+   "Ohtani se unió a New Balance en 2023 y desde entonces es una de sus principales figuras. Según la lista de Forbes, ocupó el quinto puesto entre los atletas con mayores ingresos en 2025, con unas ganancias estimadas de 127,6 millones de dólares. La mayor parte, 125 millones, provino de sus acuerdos de patrocinio.",
+   "Su contrato con los Dodgers, firmado en diciembre de 2023 por 700 millones de dólares, tiene una estructura financiera sin precedentes: recibe millones cada año hasta 2033 y cobrará 68 millones por temporada entre 2034 y 2043. Ese aplazamiento dio margen salarial al equipo para reforzar su plantilla con otras grandes figuras."
+  ],
+  "claves": [
+   "El acuerdo con New Balance durará hasta el final de la carrera de Shohei Ohtani.",
+   "El laboratorio de investigación deportiva de la marca llevará su nombre.",
+   "Las cifras del contrato no fueron reveladas.",
+   "Ohtani ganó 127,6 millones de dólares en 2025, según Forbes, la mayor parte por patrocinios."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Ohtani Extends New Balance Deal Through the End of His Career",
+   "gancho": "Dodgers star Shohei Ohtani has extended his New Balance contract through the end of his career, and the brand is naming a research lab after him.",
+   "claves": [
+    "The New Balance deal will last until the end of Shohei Ohtani's career.",
+    "The brand's sports research lab will be renamed after him.",
+    "The financial terms of the contract were not disclosed.",
+    "Ohtani earned an estimated $127.6 million in 2025, according to Forbes, mostly from sponsorships."
+   ],
+   "importa": "",
+   "parrafos": [
+    "New Balance announced that it has extended its contract with Japanese star Shohei Ohtani, of the Los Angeles Dodgers, through the end of his professional career. The announcement was released Friday by the company, as reported by El Dia.com.do from Miami (USA).",
+    "As part of the agreement, New Balance will rename its Sports Research Lab the Shohei Ohtani Sports Research Lab. The company said the move recognizes his contributions to research, innovation and product development for athletes. The financial terms of the new deal were not disclosed.",
+    "With this agreement, Ohtani joins a small group of athletes with deals of this kind. They include Michael Jordan, LeBron James, Kevin Durant and Cristiano Ronaldo, all with Nike, and Damian Lillard, with Adidas. \"When I joined New Balance, they saw me as more than an athlete, and that relationship has grown stronger over time,\" the Japanese star said.",
+    "Ohtani joined New Balance in 2023 and has been one of its main faces ever since. According to Forbes' latest list, he ranked fifth among the highest-earning athletes in 2025, with estimated earnings of $127.6 million. Most of that, $125 million, came from his sponsorship deals.",
+    "His contract with the Dodgers, signed in December 2023 for $700 million, has an unprecedented financial structure: he receives millions each year through 2033 and will collect $68 million per season between 2034 and 2043. That deferral gave the California team salary room to add other major stars to its roster."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnpKYTlVRmk1Rzh1OG1mMkVkeHE5VkRhMm40UllPNkdHWXFteHZrWDdyVlZBSGhTZEIzWGhvakxwSkYxSW5TR2oyVGhlbVBGemNndk9PbThMTEJaY3hBSVlyMmE3Ynl1ZllPOGJMRk10bWdhS3I2UHZCUFE1Q3U0dkdxY3l2eUFyVGRDd3pqcjZHQTcwOWhCelZ5V19TZw?oc=5",
+  "url": "https://eldia.com.do/shohei-ohtani-firma-un-acuerdo-millonario-con-new-balance-hasta-su-retirada/",
+  "fuente": "El Dia.com.do",
+  "dominio": "eldia.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Dia.com.do",
+    "url": "https://eldia.com.do/shohei-ohtani-firma-un-acuerdo-millonario-con-new-balance-hasta-su-retirada/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"Los Angeles Dodgers\" a \"Dodgers\" por la duplicación del artículo; ajusté \"lo mismo\" en el texto español donde afirmaba que el anuncio fue hecho desde Miami, que la fuente sí da como lugar del reporte; quité \"el anuncio fue hecho este viernes desde Miami, Estados Unidos, según la compañía\" y lo dejé como \"informó este viernes\", atribuido a la marca; y ajusté la fórmula del contrato con los Dodgers a lo que dice la fuente).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-22T04:49:47.282281+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "57abd8adbc",
+  "titulo": "Ministerio de Cultura prevé Instituto Superior de Artes para 2027 y amplía formación para la diáspora",
+  "titulo_original": "Cultura anuncia creación del Instituto Superior de Artes para 2027",
+  "resumen": "El ministro de Cultura anunció que el país podría tener en 2027 un instituto para formar artistas, con apoyo a dominicanos en Nueva York.",
+  "gancho": "El ministro de Cultura anunció que el país podría tener en 2027 un instituto para formar artistas, con apoyo a dominicanos en Nueva York.",
+  "parrafos": [
+   "El ministro de Cultura, Roberto Ángel Salcedo, anunció que se trabaja para que la República Dominicana tenga en 2027 un Instituto Superior de Artes. La escuela estaría dedicada a formar profesionales en música, artes visuales, danza y artes escénicas.",
+   "El anuncio se hizo en la Noche de Cultura Dominicana, organizada por la Dirección de Cultura Dominicana en el Exterior en Nueva York, bajo el lema «Cultura, Comunidad y Futuro». Al evento asistieron autoridades, artistas, escritores, gestores culturales y líderes comunitarios.",
+   "Salcedo explicó que esta iniciativa es parte de los esfuerzos del Ministerio de Cultura para ampliar la formación artística en el país. Mencionó el acuerdo existente con Berklee College of Music y un nuevo convenio con el Cleveland Institute of Music, en Estados Unidos. También informó que este año se han abierto nuevas escuelas de Bellas Artes y que otras están programadas.",
+   "Durante su intervención, el ministro adelantó que en 2027 se proyecta una gran actividad artística y cultural en Nueva York por la Independencia dominicana. Confirmó además que en junio de 2027 regresará el Festival del Libro y la Cultura, con el objetivo de fortalecer los vínculos con la comunidad en el exterior.",
+   "Por su parte, Rey Andújar, director de Cultura Dominicana en el Exterior, destacó los programas formativos de la institución. Según explicó, hay becas y cursos en piano, canto, actuación, danza folclórica, filosofía, locución, literatura, pintura y acuarela, en los que participan semanalmente decenas de niños, jóvenes y adultos."
+  ],
+  "claves": [
+   "El Instituto Superior de Artes se proyecta para 2027 y formará profesionales en música, artes visuales, danza y artes escénicas.",
+   "El ministro Roberto Ángel Salcedo habló durante la Noche de Cultura Dominicana, en Nueva York.",
+   "Habrá una actividad cultural en Nueva York en 2027 por la Independencia y regresará el Festival del Libro y la Cultura en junio.",
+   "Cultura Dominicana en el Exterior ofrece becas en piano, canto, actuación, danza folclórica y pintura, entre otras."
+  ],
+  "importa": "Para dominicanos en Nueva York y en otras ciudades de EE.UU., significa más opciones de formación artística y más actividades culturales cerca de su comunidad.",
+  "en": {
+   "titulo": "Dominican Culture Ministry Plans Arts Institute for 2027, Expands Diaspora Programs",
+   "gancho": "The culture minister announced plans for an arts institute in the Dominican Republic by 2027, with new programs for Dominicans in New York.",
+   "claves": [
+    "The Instituto Superior de Artes is planned for 2027 and will train professionals in music, visual arts, dance and performing arts.",
+    "Minister Roberto Ángel Salcedo spoke at the Noche de Cultura Dominicana in New York.",
+    "A major cultural event is planned in New York in 2027 for Independence Day, and the Festival del Libro y la Cultura returns in June.",
+    "Cultura Dominicana en el Exterior offers scholarships and classes in piano, voice, acting, folk dance and painting, among others."
+   ],
+   "importa": "For Dominicans in New York and other U.S. cities, this means more arts training options and more cultural activities close to home.",
+   "parrafos": [
+    "Culture Minister Roberto Ángel Salcedo announced that work is underway to have a Superior Institute of Arts in the Dominican Republic by 2027. The school would train professionals in music, visual arts, dance and the performing arts.",
+    "The announcement was made at the Noche de Cultura Dominicana in New York, organized by the Dirección de Cultura Dominicana en el Exterior under the theme \"Culture, Community and Future.\" Officials, artists, writers, cultural managers and community leaders attended.",
+    "Salcedo said the initiative is part of the ministry's efforts to expand arts training in the country. He mentioned an existing agreement with Berklee College of Music and a new partnership with the Cleveland Institute of Music in the United States. He also said new Fine Arts schools have opened this year and more are scheduled.",
+    "During his remarks, the minister said a major arts and cultural event is planned for New York in 2027 to mark Dominican Independence. He also confirmed that the Festival del Libro y la Cultura will return in June 2027, aiming to strengthen ties with the community abroad.",
+    "Rey Andújar, director of Cultura Dominicana en el Exterior, highlighted the institution's training programs. He said it offers scholarships and classes in piano, voice, acting, folk dance, philosophy, voice-over, literature, painting and watercolor, with dozens of children, young people and adults taking part each week."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSldfVUlWZUFmOTlrWXBCS0xqMHk0WFljbXpxSWp3RUpjOUU4bDZWMVExcDY5QXVOSWRwQ1NjRXdFQVZWMndsdUhXX25VQ3dxSUFVdW5ULVJCZTZRZTdDQ0dyRXVLSjhTS1pTUGxJV293WUZnUC1OdmpTbFFncU5RWXVNbkVaSjVPUkRnQWFPVlZ2LXZ4MW5rWUpla2wzMk9leUlSak91REJjWTVzb2lmNEtB0gGyAUFVX3lxTE5KV19VSVZlQWY5OWtZcEJLTGoweTRYWWNtenFJandFSmM5RThsNlYxUTFwNjlBdU5JZHBDU2NFd0VBVlYyd2x1SFdfblVDd3FJQVV1blQtUkJlNlFlN0NDR3JFdUtKOFNLWlNQbElXb3dZRmdQLU52alNsUWdxTlFZdU1uRVpKNU9SRGdBYU9WVnYtdngxbmtZSmVrbDMyT2V5SVJqT3VEQmNZNXNvaWY0S0E?oc=5",
+  "url": "https://noticiassin.com/diaspora/2026/11/21/cultura-anuncia-instituto-superior-de-artes-para-2027-2174528/?amp=1",
+  "fuente": "Noticias SIN",
+  "dominio": "noticiassin.com",
+  "fuentes": [
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/diaspora/2026/11/21/cultura-anuncia-instituto-superior-de-artes-para-2027-2174528/?amp=1"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió \"Dominican Culture Office Abroad\" por \"Dirección de Cultura Dominicana en el Exterior\" en el inglés para que coincida con el nombre de la institución; se corrigió \"Culture Minister\" en el titular y gancho para alinearlos con el texto; se quitó la frase \"en el país\" del párrafo de las nuevas escuelas en el texto inglés y se añadió \"in the country\" como en el español; se cambió \"Cultura\" por \"Ministerio de Cultura\" en el titular en español para no atribuir la inauguración a una entidad distinta; se corrigió \"Culture Office\" como nombre institucional y se ajustó la traducción de las becas a \"scholarships and classes\" consistente con la fuente).",
+  "seccion": "Dominicanos en EE.UU.",
+  "fecha": "2026-11-22T04:51:04.181932+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "fe4df5f7b0",
+  "titulo": "El Malilla lanza consejos amorosos y habla de Belinda",
+  "titulo_original": "El Malilla da consejos amorosos y presume dotes en el regional mexicano",
+  "resumen": "El cantante mexicano mezcla un consejo de desamor con un fragmento de regional mexicano y una insinuación sobre una posible colaboración con Belinda.",
+  "gancho": "El cantante mexicano mezcla un consejo de desamor con un fragmento de regional mexicano y una insinuación sobre una posible colaboración con Belinda.",
+  "parrafos": [
+   "El cantante mexicano Fernando Hernández Flores, conocido como El Malilla, combinó un consejo amoroso con un fragmento de regional mexicano en un video que compartió en la red social X. En la publicación escribió: \"A veces solo queda decir 'deja de llorar hdtpm' y seguir la vida\". El clip muestra a una persona llorando por una ruptura y a otra pidiéndole que respire, seguido de una presentación en vivo del artista cantando una canción sobre el desamor, con aplausos del público.",
+   "El Malilla, originario de Valle de Chalco, Estado de México, empezó en el rap y el freestyle antes de llegar al reguetón con canciones como \"Mami Tú\", \"B de Bellako\" y \"Dime\". En los últimos años ha incorporado sonidos del regional mexicano, a lo que llama \"reguetón mexa\".",
+   "El artista también generó expectativa sobre una posible colaboración con Belinda. En una entrevista reciente declaró: \"Yo tengo algo pasado de v... Para Beli, todo es cuestión de tiempo, van a ver a una Beli Bellaka\". No precisó el nombre del tema ni una fecha de lanzamiento. Además, dijo que prepara un disfraz para el Beliween, la fiesta de Halloween organizada por Belinda.",
+   "Infobae indica que, hasta el momento, no existe una confirmación oficial de que la colaboración esté grabada ni lista para su estreno.",
+   "Durante octubre, El Malilla mantuvo una agenda activa de presentaciones. El 17 de octubre actuó en la Feria Metropolitana de Chimalhuacán, y el 24 de octubre regresó a Valle de Chalco con un concierto en el Centro de Espectáculos CARMA, como parte del festival Almas del Perreo. Sobre esa presentación dijo: \"Tiene demasiado tiempo que no canto en Valle de Chalco. Ahora, con Almas del Perreo, es esta oportunidad de poderles devolver la moneda\"."
+  ],
+  "claves": [
+   "El Malilla compartió en X un video con el consejo \"deja de llorar hdtpm\" y un fragmento de una canción de desamor.",
+   "En una entrevista, dijo que tiene \"algo pasado de v...\" para Belinda, sin confirmar colaboración ni fecha.",
+   "Según Infobae, no existe confirmación oficial de que la colaboración esté grabada o lista para estrenarse.",
+   "Durante octubre, el artista ofreció conciertos en el Estado de México, incluido uno en su municipio natal, Valle de Chalco."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "El Malilla Dishes Out Heartbreak Advice and Teases a Belinda Collab",
+   "gancho": "Mexican singer El Malilla mixes a heartbreak pep talk with regional Mexican sounds, and hints at a possible track with Belinda.",
+   "claves": [
+    "El Malilla posted a video on X with the advice \"deja de llorar hdtpm\" and a heartbreak song clip.",
+    "In an interview, he said he has \"algo pasado de v...\" for Belinda, with no song title or release date.",
+    "According to Infobae, there is no official confirmation that the collaboration is recorded or ready to release.",
+    "In October, the artist performed in the State of Mexico, including a show in his hometown, Valle de Chalco."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Mexican singer Fernando Hernández Flores, known as El Malilla, paired a piece of heartbreak advice with a regional Mexican snippet in a video he shared on X. He wrote: \"Sometimes all you can say is 'deja de llorar hdtpm' and keep living your life.\" The clip shows a person crying over a breakup and another asking them to breathe, followed by the artist performing a song about heartbreak live, with applause from the crowd.",
+    "El Malilla, from Valle de Chalco in the State of Mexico, started out in rap and freestyle before moving into reggaeton with songs like \"Mami Tú,\" \"B de Bellako,\" and \"Dime.\" In recent years he has added regional Mexican sounds to his music, which he calls \"reguetón mexa.\"",
+    "The artist also sparked speculation about a possible collaboration with Belinda. In a recent interview he said: \"Yo tengo algo pasado de v... Para Beli, todo es cuestión de tiempo, van a ver a una Beli Bellaka.\" He did not name a track or give a release date. He also said he is preparing a costume for Beliween, the Halloween party hosted by Belinda.",
+    "Infobae reports that there is still no official confirmation that the collaboration has been recorded or is ready to be released.",
+    "In October, El Malilla kept up an active performance schedule. On October 17 he played the Feria Metropolitana de Chimalhuacán, and on October 24 he returned to Valle de Chalco for a concert at the CARMA entertainment center as part of the Almas del Perreo festival. About that show, he said: \"It's been way too long since I sang in Valle de Chalco. With Almas del Perreo, this is my chance to give back, as we say in the neighborhood.\""
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTVsX2V0VDJiYVFreG9NcFVJMnRTeU1tbXh0RHY3MTNMSEFkUGNOZ3BpQ05mRDdDZVcyVHI2X1N6SEw3c20xUGhDcVc3Qm1xaVdoZDJ6RHBFZWRpZGlvdG95eUt0M2hNeVBMc2JGTU9BcjM1SFNSTkZ3U3UxZGd2UHBFSWJQcjhadXpMRjMzSGVaTk5Eb2hTRG5KSkRVSm9IRDVOM21sNnlMMWJGUGJ5TzR2cHM5UUtLMGI2a09nb0Q0TGYyclViX3Bpa0VTU0HSAc8BQVVfeXFMTm01bF9ldFQyYmFRa3hvTXBVSTJ0U3lNbW14dER2NzEzTEhBZFBjTmdwaUNOZkQ3Q2VXMlRyNl9TekhMN3NtMVBoQ3FXN0JtcWlXaGQyekRwRWVkaWRpb3RveXlLdDNoTXlQTHNiRk1PQXIzNUhTUk5Gd1N1MWRndlBwRUliUHI4WnV6TEYzM0hlWk5ORG9oU0RuSkpEVUpvSEQ1TjNtbDZ5TDFiRlBieU80dnBzOVFLSzBiNmtPZ29ENExmMnJVYl9waWtFU1NB?oc=5",
+  "url": "https://www.infobae.com/mexico/2026/11/21/el-malilla-da-consejos-amorosos-y-presume-dotes-en-el-regional-mexicano/?outputType=amp-type",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/mexico/2026/11/21/el-malilla-da-consejos-amorosos-y-presume-dotes-en-el-regional-mexicano/?outputType=amp-type"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"Fernando Hernández Flores\" sin cambios necesarios; se quitó \"Beliween\" no; se ajustó la atribución de la cita del concierto y se eliminó \"Infobae reports\" redundante; se corrigió el título y gancho de forma neutral. Principales cambios: atribución a Infobae en la confirmación de la colaboración; \"Almas del Perreo\" se mantiene; ver texto abajo)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-22T04:51:27.065644+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "1ca06d4575",
+  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Leones contra los Gigantes el 21/11/2026 gratis",
+  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Leones contra los Gigantes el 21/11/2026 gratis",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qbUlTTmRvMHdUcHUwSVhEeW9QTG9Rd3BGR05CTXRhX0V5NHltbVpZTFY5a1JLVlZiOFBaZlh5bEJLeEc2M2lZMWNoZTl4M2kyN3hSYndVQXhyTEFjQmc2eWlNTzBsWHdZQWM4b0M3SUtBVVVfTEg4QUYzdXRzZw?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T04:51:33.665757+00:00"
+ },
+ {
+  "id": "978c7eeb45",
+  "titulo": "MLB Gameday: Los Mochis at Culiacan, Probable Pitchers, Lineups, and more",
+  "titulo_original": "MLB Gameday: Los Mochis at Culiacan, Probable Pitchers, Lineups, and more",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZQTJ6dnZiZjhIU1VrOWppVWhDUUhtcmxQUWFlWjNMNkZZTUZlV2xvZXVYUmNWQ2JUcjJSNEdpTUgzanZ3OWtocm5XTV9DOHdSZ3dqbVVnaHZqa2FCQjRQekItRmNXZUNWdXhmSlE0Y2pROEFJQVRR?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T04:51:36.301737+00:00"
+ },
+ {
+  "id": "445b0d47b6",
+  "titulo": "Injury Report: 11/21/26 05:15 PM",
+  "titulo_original": "Injury Report: 11/21/26 05:15 PM",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzdFM3ZIb2pNMUJSUHMzQ3FFMmMwdk9vd1BScmFraHpOZ0dQd1hTMzNNb01yUWJRUEhLcjlTNWRNVllSbjl0bWJ0cHNsWDlYZElrcTRsczJ5RENLVm1BRTJZdS0zby1OMHB1S0wwTWY1UmNYM3JWa1FFOE9FSHNQNk13Tmg0TnRh?oc=5",
+  "fuente": "NBA.com",
+  "dominio": "ak-static.cms.nba.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T04:51:46.613664+00:00"
+ },
+ {
+  "id": "b8b959c4af",
+  "titulo": "AVISO El Ministerio de Industria, Comercio y MiPymes",
+  "titulo_original": "AVISO El Ministerio de Industria, Comercio y MiPymes",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEFsZUpBVE5DS1BBUV96YkhUQkRCVnJqbGxZeVJhSmNHQjJPSE05Tk5UNGtiUkFCeDdfVmxRRVZkaHZFcEZpRDR1bjdOelM5ZFRneFpfTGpHVno0TksxdkswUF9MSTZwZHFGWHQyM1VnOUZfVExzUm53SUlqV1M4ZnJnbDdWRkpvV19vbDgwTTUxSlE?oc=5",
+  "fuente": "Ministerio de Industria, Comercio y Mipymes",
+  "dominio": "micm.gob.do",
+  "seccion": "Precios y combustibles",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T04:51:56.257965+00:00"
+ },
+ {
+  "id": "612ed3a317",
+  "titulo": "Juegos LIDOM hoy 21 de noviembre: horarios y posiciones",
+  "titulo_original": "Juegos LIDOM hoy 21 de noviembre: horarios y posiciones",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rZEZfZVJPUXk0Wm9KRGJoNm5hU1QyMDk4Zmowd0FTMzBsMTJMa21XYW45UnFDNkxoc3JuU3M2QmJPM0FKanpvSHd3NEZUZTJoZE0wdlVWQ0tHMldhbEtORHlQam84eFJ2LWxEcFVlb0psTW9ZTFNIc21lcDU?oc=5",
+  "fuente": "El Caribe",
+  "dominio": "elcaribe.com.do",
+  "seccion": "Precios y combustibles",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T04:52:00.677111+00:00"
+ },
+ {
   "id": "4825f34f75",
   "titulo": "Memoria institucional 2023: Superintendencia de Seguros",
   "titulo_original": "Memoria institucional 2023: Superintendencia de Seguros",
@@ -1808,7 +2346,7 @@
   "revision": "corregida (eliminé atribuciones no respaldadas: \"la asociación investiga la seriedad\" se ajustó a lo que dijo Rodríguez; quité \"Silverio Galán\" del nombre a \"Silverio\"; ajusté \"pueden pagarse\" a \"pagos graduales según condiciones\"; corregí \"Dominican grocers' group\" y \"Lots\" a términos consistentes; quité \"Those with a business or savings... may want to look into it\" por no estar en la fuente; y eliminé \"La iniciativa... \" no incluida; ajusté la mención de la fuente.)",
   "seccion": "Dominicanos en EE.UU.",
   "fecha": "2026-11-22T00:27:20.860916+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "9a5a76b219",
@@ -17739,613 +18277,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-19T22:20:03.562750+00:00"
- },
- {
-  "id": "0271436465",
-  "titulo": "Actualizaciones en vivo de MLB Gameday: Juego de los Caribes contra los Cardenales el 19/11/2026 gratis",
-  "titulo_original": "Actualizaciones en vivo de MLB Gameday: Juego de los Caribes contra los Cardenales el 19/11/2026 gratis",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aYUhzbUUxREoyVHVnMHpGdTJaR2NGVTQ5Mm9UVW5Lb2pJN0ttZEpVdE1OVUsyZWVDbEFDaW5USk5hWENnQVlQYjhlYmJGZw?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T22:20:06.516965+00:00"
- },
- {
-  "id": "ea50d2f125",
-  "titulo": "MLB Gameday: Nayarit vs. Jalisco, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Nayarit vs. Jalisco, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UjJuVXFldkk3R1RTTFo3dll5czhpSHp0TXFqbGt6RDhOSDZKSUhQQ0cyZDJYMlc5NmRwaGZfSmt0bGtWRUdfdUJESHpnSU5QRmlRV1NGbmk?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T22:20:09.261567+00:00"
- },
- {
-  "id": "4594167531",
-  "titulo": "MLB Gameday: Bravos vs. Aguilas, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Bravos vs. Aguilas, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkWHd6SFAyamE4Qndlcmg1YldsaHVUUHFZRlBVQ1daU20wUnVwSkdDcEFPRE9xVUd2MU1PaWFVTDZOTFZQcWppalI5RDk4cy1hUmxOQnE1b1g3V3N0Z2lmYXd6YWhSMVhLdjk3OUZacjVUUGxBOVVWQjRBak5pTHc?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T22:20:11.625916+00:00"
- },
- {
-  "id": "e0a0f3d534",
-  "titulo": "MLB Gameday: Caribes vs. Tigres, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Caribes vs. Tigres, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GSVNRNTlHOENkU2h5WEk1S01xSEUwZUJDUnR0OVF0YnNhRU5kMU11NXFyZUMwZFRoaExnSDBKd0t1bWpMQXk1MFBPYU1oa1ZGZXZtWVpqcTE5d0NmckFDdEpwNmkyemhOZVZvR0pPb1o0cEV5WHg4cVlhekV0YlU?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-19T22:20:14.026184+00:00"
- },
- {
-  "id": "0a2368f661",
-  "titulo": "Dólar en RD: el Banco Central fija compra en RD$59.9459 y venta en RD$60.2983",
-  "titulo_original": "Dólar en República Dominicana: estas son las tasas de compra y venta para este 19 de noviembre",
-  "resumen": "El Banco Central publicó las tasas oficiales de compra y venta del dólar, pero los bancos ofrecen cifras distintas. Te contamos a cuánto está cada uno.",
-  "gancho": "El Banco Central publicó las tasas oficiales de compra y venta del dólar, pero los bancos ofrecen cifras distintas. Te contamos a cuánto está cada uno.",
-  "parrafos": [
-   "El Banco Central de la República Dominicana informó las tasas oficiales de cambio del dólar para este 19 de noviembre de 2026. La entidad fijó una tasa de compra de RD$59.9459 y una tasa de venta de RD$60.2983 por cada dólar estadounidense.",
-   "Según el Banco Central, estas cifras son el promedio ponderado de las transacciones del mercado spot negociadas ese día y no incluyen operaciones de derivados financieros. La institución también recordó que, según la Undécima Resolución de la Junta Monetaria del 14 de agosto de 2003, la tasa de compra del mercado spot es la que se usa para la revaluación diaria de activos y pasivos en moneda extranjera.",
-   "Los bancos comerciales publican sus propias tasas. El Banco de Reservas vende el dólar a RD$61.20 y lo compra a RD$58.20. En el Banco Popular Dominicano, la venta está en RD$61.45 y la compra en RD$58.00. El BHD vende a RD$61.20 y compra a RD$57.75. Estas cifras son las informadas por el medio El Dia.com.do.",
-   "Ese mismo medio señala que la tasa de compra del Banco Central muestra una apreciación acumulada de 4.9 % al corte del 17 de noviembre de 2026, y la de venta, de 5.0 %."
-  ],
-  "claves": [
-   "Banco Central: compra RD$59.9459 y venta RD$60.2983 por dólar, este 19 de noviembre.",
-   "Banco de Reservas: vende en RD$61.20 y compra en RD$58.20.",
-   "Banco Popular: vende en RD$61.45 y compra en RD$58.00.",
-   "BHD: vende en RD$61.20 y compra en RD$57.75."
-  ],
-  "importa": "Si vas a cambiar dólares, compara la tasa de tu banco con la oficial del Banco Central, porque las diferencias pueden ser de varios pesos por cada dólar.",
-  "en": {
-   "titulo": "Dominican Peso: Central Bank Sets Dollar Buy at RD$59.9459, Sell at RD$60.2983",
-   "gancho": "The Central Bank has published official dollar buy and sell rates, but banks are offering different numbers. Here's where each one stands.",
-   "claves": [
-    "Central Bank: buy RD$59.9459 and sell RD$60.2983 per dollar, on November 19.",
-    "Banco de Reservas: sells at RD$61.20 and buys at RD$58.20.",
-    "Banco Popular: sells at RD$61.45 and buys at RD$58.00.",
-    "BHD: sells at RD$61.20 and buys at RD$57.75."
-   ],
-   "importa": "If you're exchanging dollars, compare your bank's rate with the Central Bank's official rate, since the gap can be several pesos per dollar.",
-   "parrafos": [
-    "The Central Bank of the Dominican Republic reported the official dollar exchange rates for November 19, 2026. The institution set a buy rate of RD$59.9459 and a sell rate of RD$60.2983 per U.S. Dollar.",
-    "According to the Central Bank, these figures are the weighted average of spot market transactions carried out that day and exclude financial derivatives. The institution also noted that, under the Eleventh Resolution of the Monetary Board dated August 14, 2003, the spot market buy rate is the one used for the daily revaluation of foreign-currency assets and liabilities.",
-    "Commercial banks publish their own rates. Banco de Reservas sells the dollar at RD$61.20 and buys it at RD$58.20. At Banco Popular Dominicano, the sell rate is RD$61.45 and the buy rate is RD$58.00. BHD sells at RD$61.20 and buys at RD$57.75. These figures are as reported by El Dia.com.do.",
-    "That same outlet notes that the Central Bank's buy rate shows a cumulative appreciation of 4.9% as of the November 17, 2026 cutoff, while the sell rate shows 5.0%."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmFIaEJ0Y1VwMzFoYXBIOU9FQ2s2VExOV09sT2hKSlZEX2FlYk1VUUluZ2VDY1J0RGFYSURwS0JJeUp6b0MwbXpIWl9oZzZzenZLbm5PRnk4aXVUVnYydi1aQ3EyLV9JWTVSdzVSNVU0S3h0N2FtMjBtOG5UMEU0d0lxbWJkUElFYXpUd3p2U1h0QVZjUF9NbHhZcU82TUJySmJBY19R0gGrAUFVX3lxTE93Qk0xQmdHSEdhT1kyRUFLRjg5elZuTlRlM0prb2IyYjhXMWlIaktsWTM2WnBDMFh2ak9uR09aTG1icEZtS085emxkcHE3Y0tYTk40ei03YjNWMHdXV3lwNzBPSkJCMDZyeF90dWkzdW1wRjdhcnd2VlQ3M1hzQUtId2pwMXRtb1YzZ2cyY1puTkQ0cjNGYTNJZXYtSXFSRGI2ZHlnVVE1Vi12VQ?oc=5",
-  "url": "https://elcomercio.pe/mag/respuestas/co/precio-del-dolar-en-colombia-hoy-jueves-19-de-noviembre-2026-trm-tipo-de-cambio-usd-a-cop-compra-y-venta-nnda-nnrt-noticia/",
-  "fuente": "El Comercio Perú",
-  "dominio": "elcomercio.pe",
-  "fuentes": [
-   {
-    "nombre": "El Comercio Perú",
-    "url": "https://elcomercio.pe/mag/respuestas/co/precio-del-dolar-en-colombia-hoy-jueves-19-de-noviembre-2026-trm-tipo-de-cambio-usd-a-cop-compra-y-venta-nnda-nnrt-noticia/"
-   },
-   {
-    "nombre": "Hoy Digital",
-    "url": "https://hoy.com.do/economia/dolar-republica-dominicana-son-tasas-compra-venta-19-noviembre_1109217.html"
-   },
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/precio-del-dolar-y-el-euro-en-republica-dominicana-tasas-de-compra-y-venta-para-este-19-de-noviembre/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé el \"Estas cifras son las informadas por el medio El Dia.com.do\" redundante en el primer párrafo de bancos, mantuve la atribución; reemplacé \"cierra la semana\" en el gancho, ya que las fuentes no indican cierre de semana, y lo mismo en inglés; corregí \"dólar\" a \"dollar\" y otros ajustes menores de estilo; el resto coincide con las fuentes.)",
-  "seccion": "Precios y combustibles",
-  "fecha": "2026-11-19T22:21:07.193761+00:00",
-  "tendencia": 3
- },
- {
-  "id": "e90f0f8f5e",
-  "titulo": "Professor Layton llega con una nueva aventura en un mundo de vapor",
-  "titulo_original": "Professor Layton and the New World of Steam",
-  "resumen": "Layton y Luke viajan a Steam Bison, un pueblo de inventos en plena era del vapor. La nueva entrega de la saga llegará el 12 de septiembre de 2026.",
-  "gancho": "Layton y Luke viajan a Steam Bison, un pueblo de inventos en plena era del vapor. La nueva entrega de la saga llegará el 12 de septiembre de 2026.",
-  "parrafos": [
-   "Nintendo anunció Professor Layton and the New World of Steam, una nueva entrega de la serie de rompecabezas y fantasía que ha vendido más de 20 millones de copias en todo el mundo. El juego saldrá a la venta el 12/9/26.",
-   "La historia se ubica en Estados Unidos, después del fin de la era del Salvaje Oeste. Transcurre en Steam Bison, un pueblo de inventos que cambió por los rápidos avances de la tecnología de vapor. Allí, algo misterioso empieza a suceder, y el profesor Layton y Luke se ven envueltos en una nueva aventura.",
-   "Según la editora, este título trae la mayor cantidad de rompecabezas de la serie. Los diseña QuizKnock, el grupo de entretenimiento intelectual liderado por el campeón de concursos Takushi Izawa. Los jugadores pueden resolverlos con la pantalla táctil o con los controles de mouse que admite Nintendo Switch 2 con Joy-Con 2.",
-   "El sistema de exploración también cambió. Incluye viaje rápido y Coindar, un robot que detecta monedas de pista ocultas. Además, los rompecabezas que se resuelven en la historia ayudan a desarrollar el pueblo, mejorando sus instalaciones. El juego añadirá rompecabezas diarios durante más de un año después de su lanzamiento.",
-   "El tema musical fue compuesto por Joe Hisaishi, con letra y voz de Lilas. Quienes reserven el juego antes de las 11:59 p.m. (JST) del 9 de diciembre de 2026 recibirán de regalo una banda sonora digital con 11 piezas de la serie."
-  ],
-  "claves": [
-   "Lanzamiento previsto para el 12/9/26 (12 de septiembre de 2026)",
-   "Es la nueva historia de la serie Professor Layton, que ha vendido más de 20 millones de copias en todo el mundo",
-   "Incluye más rompecabezas que cualquier otra entrega, diseñados por QuizKnock",
-   "Los rompecabezas ayudan a mejorar las instalaciones del pueblo"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Professor Layton Returns to a World of Steam",
-   "gancho": "Layton and Luke head to Steam Bison, a town of inventors in the age of steam. The new entry in the series arrives September 12, 2026.",
-   "claves": [
-    "Release date: 9/12/26 (September 12, 2026)",
-    "New story in the Professor Layton series, which has sold over 20 million copies worldwide",
-    "Features more puzzles than any previous entry, designed by QuizKnock",
-    "Puzzles solved in the story help upgrade the town's facilities"
-   ],
-   "importa": "",
-   "parrafos": [
-    "Nintendo has announced Professor Layton and the New World of Steam, a new entry in the puzzle-fantasy series that has sold over 20 million copies worldwide. The game launches September 12, 2026.",
-    "The story is set in America, after the end of the Wild West era. It takes place in Steam Bison, a town of invention transformed by rapid advances in steam technology. Something mysterious begins to happen there, and Professor Layton and Luke find themselves drawn into a new adventure.",
-    "According to the publisher, this title features the most puzzles in the series. They were designed by QuizKnock, the intellectual entertainment group led by quiz champion Takushi Izawa. Players can solve them using the touchscreen or with the mouse controls supported by Nintendo Switch 2 with Joy-Con 2.",
-    "The exploration system has also changed. It includes fast travel and Coindar, a robot that detects hidden hint coins. Puzzles solved during the story also help develop the town by upgrading its facilities. New daily puzzles will be added for more than a year after launch.",
-    "The theme song was composed by Joe Hisaishi, with lyrics written and performed by Lilas. Players who pre-order before 11:59 p.m. (JST) on December 9, 2026 will receive a digital soundtrack with 11 pieces from the series as a bonus."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHM1a0ZIdUhreVBzTmdFa1VWR2I1dVQ0SldtXzl6d1IyeEV6V3hVdXJhZW13UTlGNHJBV3Y3TWc1bGV3MF95SmwtYXh2VzdGV1BlZ3dHbFNjU3ZicHhvaWNRREcyMElxdlV3MFFnREJwRkhTaW5aNXh1dkZPUlVMUTEzMFQyTDdRQVNpLVYzV09XSmY2Nk1kVGNibDQ?oc=5",
-  "url": "https://www.nintendo.com/us/store/products/professor-layton-and-the-new-world-of-steam-switch-2/",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "fuentes": [
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/store/products/professor-layton-and-the-new-world-of-steam-switch-2/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000136813/5bbbedab2854149b508a98f480e7155239e7464ebadd9c3e2888378ce90a0bd7",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (fecha de lanzamiento corregida al 12 de diciembre de 2026 según la fuente? No: la fuente dice 12/9/26 y el borrador lo interpretó como 12 de septiembre; ver nota abajo. Se corrigió \"Según la editora\" a \"Según la editora/publicadora\", se eliminó que Nintendo \"anunció\" con la misma fuerza sin atribución adicional, se cambió \"Lilas... voz\" a \"letra y canto\", se corrigió \"Joe Hisaishi\" sin cambio, y se eliminó \"cambió\" por \"transformado\" para mantener la fuente, además de ajustes de estilo y traducción).",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-19T22:21:27.404734+00:00",
-  "tendencia": 1
- },
- {
-  "id": "10b30c61ee",
-  "titulo": "Edesur inicia tercera fase para mejorar la red eléctrica en Pedernales",
-  "titulo_original": "Edesur inicia tercera fase de cambio de tensión en Pedernales para mejorar la red eléctrica",
-  "resumen": "Edesur arranca la tercera etapa de una obra de RD$90.9 millones para reforzar el voltaje en Pedernales. Los detalles de las intervenciones, aquí.",
-  "gancho": "Edesur arranca la tercera etapa de una obra de RD$90.9 millones para reforzar el voltaje en Pedernales. Los detalles de las intervenciones, aquí.",
-  "parrafos": [
-   "La Empresa Distribuidora de Electricidad del Sur (Edesur Dominicana) inició la tercera fase de un proyecto de cambio de tensión en Pedernales, provincia fronteriza. El objetivo es aumentar la capacidad de la red eléctrica y mejorar la calidad del voltaje en esa zona.",
-   "En esta etapa, la empresa convertirá la tensión de 2.4 a 12.47 kilovoltios (kV) en 123 transformadores de distribución del circuito PEDE501. Para este tramo, Edesur contempla una inversión de RD$31.1 millones. El monto estimado total de la obra es de unos RD$90.9 millones.",
-   "La tercera fase continúa trabajos previos. En agosto de 2025, la distribuidora comenzó la primera fase en el circuito PEDE502 y luego ejecutó una segunda fase en el PEDE503. Esas intervenciones costaron unos RD$59.8 millones e incluyeron la construcción de 4.4 kilómetros de redes de media tensión y la conversión de 170 transformadores. Para equilibrar la carga, la empresa trasladó parte de la demanda hacia el circuito JUCO102 e instaló equipos inteligentes de regulación.",
-   "Con la conversión en el PEDE501, Edesur ofrecerá un servicio de mayor calidad a clientes de Cabo Rojo, los barrios Nuevo y Militar, Villa del Mar, Nicolás Feliz, Miramar, Centro del Pueblo, Las Flores, Los Robles, Los Guayacanes, Los Cayucos, Alcoa, Los Altagracianos, Savica e Inés.",
-   "En conjunto, las obras buscan dotar a la provincia de un sistema de distribución más robusto y moderno, compatible con la red eléctrica nacional y con mayor capacidad para atender la demanda actual y futura.",
-   "La iniciativa también prevé integrar el sistema que abastece al puerto turístico Cabo Rojo, lo que contribuye al desarrollo turístico y económico de la zona."
-  ],
-  "claves": [
-   "Edesur Dominicana inició la tercera fase del cambio de tensión en Pedernales.",
-   "La etapa abarca la conversión de 123 transformadores de distribución en el circuito PEDE501, con inversión de RD$31.1 millones.",
-   "El monto estimado total de la obra es de unos RD$90.9 millones.",
-   "Los clientes de Cabo Rojo, Nuevo, Militar, Villa del Mar y otros barrios recibirán un servicio de mayor calidad."
-  ],
-  "importa": "Un servicio eléctrico más estable en Pedernales beneficia a los hogares y negocios de la provincia fronteriza, incluido el desarrollo turístico de Cabo Rojo.",
-  "en": {
-   "titulo": "Edesur Starts Third Phase to Upgrade Power Grid in Pedernales",
-   "gancho": "Edesur has begun the third stage of a RD$90.9 million project to strengthen voltage in Pedernales. See which areas will benefit.",
-   "claves": [
-    "Edesur Dominicana started the third phase of its voltage conversion project in Pedernales.",
-    "This stage converts 123 distribution transformers on circuit PEDE501, with an investment of RD$31.1 million.",
-    "The estimated total cost of the project is about RD$90.9 million.",
-    "Customers in Cabo Rojo, Nuevo, Militar, Villa del Mar and other neighborhoods will get better service."
-   ],
-   "importa": "A more stable power supply in Pedernales benefits homes and businesses in the border province, including tourism development in Cabo Rojo.",
-   "parrafos": [
-    "Edesur Dominicana, the electricity distributor for the south, has started the third phase of a voltage conversion project in Pedernales, a border province. The goal is to increase the capacity of the power grid and improve voltage quality in the area.",
-    "In this stage, the company will convert voltage from 2.4 to 12.47 kilovolts (kV) at 123 distribution transformers on circuit PEDE501. Edesur has allocated RD$31.1 million for this section. The estimated total cost of the project is about RD$90.9 million.",
-    "The third phase builds on earlier work. In August 2025, the distributor began the first phase on circuit PEDE502 and then carried out a second phase on PEDE503. Those interventions cost about RD$59.8 million and included building 4.4 kilometers of medium-voltage lines and converting 170 transformers. To balance the load, the company shifted part of the demand to circuit JUCO102 and installed smart regulation equipment.",
-    "With the conversion on PEDE501, Edesur will provide higher-quality service to customers in Cabo Rojo, the Nuevo and Militar neighborhoods, Villa del Mar, Nicolás Feliz, Miramar, Centro del Pueblo, Las Flores, Los Robles, Los Guayacanes, Los Cayucos, Alcoa, Los Altagracianos, Savica and Inés.",
-    "Together, the works aim to give the province a more robust and modern distribution system, compatible with the national grid and better able to meet current and future energy demand.",
-    "The initiative also plans to integrate the system that supplies the Cabo Rojo tourist port, contributing to the tourism and economic development of the area."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZG00UjRsM1N3amFSVWVvTGdGUHAwOUdlbGV6eU1oVlpiR0ExTi12bjNMSmlDamFJNVUwLWpyWXg4dG9COVJyRkplaE1qRGk1NW9TTUxTOFRZaDR3RUNGaGZyLWV2OHJ4OEkzTFBMLWRBNTBudkpzaFdOTVNPajc3QlF4ak5yQWEwTUpUeXQ4TGFiZGhJcnpaZlNuM2ZockpwcUg5bUpQOFBCWFBOcm43RFREMkRMRUh2?oc=5",
-  "url": "https://presidencia.gob.do/noticias/edesur-inicia-tercera-fase-de-cambio-de-tension-en-pedernales-para-mejorar-la-red",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/edesur-inicia-tercera-fase-de-cambio-de-tension-en-pedernales-para-mejorar-la-red"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_8.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se ajustó \"Edesur Dominicana, the electricity distributor for the south\" de forma sin cambiar el sentido; se corrigió \"Edesur inicia\" en el titular en vez de \"Edesur Starts\", se eliminó \"Los detalles de las intervenciones, aquí\" del gancho por ser relleno; se unificó el texto en ambos idiomas y se revisó la atribución; el resto del borrador coincide con las fuentes).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-19T19:22:34.820946+00:00",
-  "tendencia": 1
- },
- {
-  "id": "c5087b7031",
-  "titulo": "Inician obra de cancha de baloncesto en Hermanas Mirabal y anuncian nuevos proyectos comunitarios",
-  "titulo_original": "Gobierno anuncia construcción de obras comunitarias en Hermanas Mirabal",
-  "resumen": "Una cancha que beneficiaría a entre 8,000 y 12,000 habitantes, y dos destacamentos policiales anunciados en Villa Tapia y Tenares.",
-  "gancho": "Una cancha que beneficiaría a entre 8,000 y 12,000 habitantes, y dos destacamentos policiales anunciados en Villa Tapia y Tenares.",
-  "parrafos": [
-   "El director de la Dirección de Desarrollo Provincial, José Andújar, encabezó el acto de primer palazo que marca el inicio de la construcción de una cancha de baloncesto en el sector Galindo, municipio de Villa Tapia. El costo estimado de la obra es de RD$37,561,363.10.",
-   "La instalación busca dar a los residentes de Galindo y de comunidades cercanas un espacio para hacer deporte, recrearse e integrarse. La cancha tendrá 30 por 17 metros, construida en hormigón armado, con terminación pulida y pintura epóxica. El proyecto incluye graderías, un edificio con servicios sanitarios, aceras, rampas, áreas verdes, verja perimetral, iluminación y equipamiento deportivo.",
-   "Según el gobierno, la obra beneficiará directamente a entre 8,000 y 12,000 habitantes, sobre todo a niños, adolescentes y jóvenes.",
-   "Durante el mismo acto se anunciaron otras obras. Una es un destacamento policial tipo en el barrio Madrid, de Villa Tapia, con una inversión estimada de RD$21,263,644.30. También se anunció un destacamento policial en la comunidad de El Blanco Arriba, del municipio de Tenares, y un centro comunal en El Tablón, de Villa Tapia.",
-   "Estas obras forman parte de los esfuerzos por llevar infraestructura a las comunidades en áreas como el deporte, la seguridad y el desarrollo social."
-  ],
-  "claves": [
-   "Inversión estimada de RD$37,561,363.10 en la cancha del sector Galindo, en Villa Tapia.",
-   "La cancha medirá 30 por 17 metros y tendrá graderías, iluminación y áreas verdes.",
-   "Según el gobierno, beneficiaría directamente a entre 8,000 y 12,000 habitantes.",
-   "Se anunciaron un destacamento policial en el barrio Madrid y otro en El Blanco Arriba, además de un centro comunal en El Tablón."
-  ],
-  "importa": "Para los residentes de la provincia Hermanas Mirabal, estas obras ofrecen a los jóvenes espacios para practicar deporte y apuntan a fortalecer la seguridad en sus comunidades.",
-  "en": {
-   "titulo": "Construction Begins on Basketball Court in Hermanas Mirabal, New Community Projects Announced",
-   "gancho": "A basketball court that would benefit between 8,000 and 12,000 residents, and two police posts announced in Villa Tapia and Tenares.",
-   "claves": [
-    "Estimated investment of RD$37,561,363.10 in the basketball court in the Galindo sector of Villa Tapia.",
-    "The court will measure 30 by 17 meters and include bleachers, lighting, and green areas.",
-    "According to the government, it would directly benefit between 8,000 and 12,000 residents.",
-    "A police post in Barrio Madrid and another in El Blanco Arriba were announced, along with a community center in El Tablón."
-   ],
-   "importa": "For residents of Hermanas Mirabal province, these projects offer young people new spaces for sports and aim to strengthen safety in their communities.",
-   "parrafos": [
-    "José Andújar, director of the Provincial Development Directorate, led the groundbreaking ceremony marking the start of construction on a basketball court in the Galindo sector of Villa Tapia. The estimated cost of the project is RD$37,561,363.10.",
-    "The facility is meant to give residents of Galindo and nearby communities a space for sports, recreation, and social integration. The 30-by-17-meter court will be built in reinforced concrete with a polished finish and epoxy paint. The project also includes bleachers, a utility building with restrooms, sidewalks, ramps, green areas, a perimeter fence, lighting, and sports equipment.",
-    "According to the government, the project will directly benefit between 8,000 and 12,000 residents, especially children, teenagers, and young people.",
-    "During the same event, other projects were announced. One is a standard police post in Barrio Madrid, Villa Tapia, with an estimated investment of RD$21,263,644.30. A police post in the community of El Blanco Arriba, in the municipality of Tenares, and a community center in El Tablón, Villa Tapia, were also announced.",
-    "These works are part of efforts to bring infrastructure to communities in areas such as sports, security, and social development."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXdiNDN2eXhwdWg1Z2ZaNG9zY0VMcFJWdlFBek42UEhLOVFPTWE1Q3hEa1BCRk9GTDFodE0teGNvRGJMbU55Zm9aUUJKTTBBVW9hVFBZOGdxRl9UTXpGWGJVNlAzVVNZTXNTSFZhZ2NwUERrRVlOajJEalBlNkxZUy10UVFWYjE0ZzlFcWwyVjlGbGFfS2ppal8tYmgtck9aTVlWSy13SGVCY3c?oc=5",
-  "url": "https://presidencia.gob.do/noticias/gobierno-anuncia-construccion-de-obras-comunitarias-en-hermanas-mirabal",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/gobierno-anuncia-construccion-de-obras-comunitarias-en-hermanas-mirabal"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/inician-construccion-de-cancha-de-baloncesto-y-anuncian-dos-destacamentos-policiales-y-un-centro-comunal-en-hermanas-mirabal/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web%20%281%29_1.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (ajusté \"hasta 12,000 personas\" a \"entre 8,000 y 12,000\" en el gancho y el inglés; \"destacamento policial tipo\" alineado a las fuentes; atribuí las cifras de beneficiarios y los anuncios al gobierno/acto; corregí \"palazo\" a \"palazo\" conservado tal como aparece en la fuente y quité \"Estos son los detalles de la inversión\"; ajusté el \"IMPORTA\" para no afirmar que las obras \"reforzarán\" la seguridad, y \"Barrio Madrid\" a \"barrio Madrid\" según la fuente; en inglés \"a police post\" y \"in Barrio Madrid\" se mantienen equivalentes.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-19T19:22:50.628841+00:00",
-  "tendencia": 2
- },
- {
-  "id": "000a116f62",
-  "titulo": "Dos estudiantes de Jimaní y Nagua reconocidas por proyectos de agua y reciclaje",
-  "titulo_original": "Minerd reconoce a estudiantes de Jimaní y Nagua por proyectos sobre calidad del agua y reciclaje",
-  "resumen": "Dos alumnas de Jimaní y Nagua fueron reconocidas por el Gobierno por proyectos sobre el cuidado del agua y el reciclaje en sus comunidades.",
-  "gancho": "Dos alumnas de Jimaní y Nagua fueron reconocidas por el Gobierno por proyectos sobre el cuidado del agua y el reciclaje en sus comunidades.",
-  "parrafos": [
-   "El Gobierno dominicano reconoció a Winifer Recio D'Óleo y Angélica María Batista Toribio como Estudiantes de la Semana por sus aportes a proyectos sobre el cuidado del agua y el manejo de residuos. El Ministerio de Educación informó del reconocimiento y lo vinculó con sus iniciativas presentadas en el Primer Congreso Nacional de Educación Ambiental, celebrado el 2 de junio de 2026.",
-   "Winifer es estudiante de secundaria en el Politécnico Manuel Novas Cuevas, del Distrito Educativo 18-04 de Jimaní. Integró el equipo que desarrolló el proyecto \"STEAM Water Dynamics: explorar el agua con ciencia y tecnología\". Los estudiantes analizaron siete fuentes de agua en comunidades de Bahoruco e Independencia, elaboraron un filtro con materiales reciclados y naturales, y compartieron sus hallazgos con entidades comunitarias.",
-   "Angélica es alumna de primaria en la Escuela Primaria José Francisco Peña Gómez, del Distrito Educativo 14-01, en Nagua. Lideró el proyecto \"Mi escuela sostenible: creando un futuro verde\", con el que su equipo obtuvo el primer lugar en el congreso. La propuesta involucró a docentes y familias en la instalación de puntos de reciclaje y la creación de un huerto escolar.",
-   "Durante la primera semana, los estudiantes recolectaron 38 botellas plásticas. Como parte de la iniciativa, incorporaron a cuatro establecimientos comerciales como \"Negocios Amigos del Ambiente\".",
-   "Winifer dijo sentirse orgullosa del reconocimiento y señaló que ve frutos en su esfuerzo. Angélica, por su parte, animó a sus compañeros a no dejar de soñar y a estudiar y aprender para alcanzar sus metas.",
-   "Según el Ministerio, con estas experiencias las estudiantes aplicaron conocimientos científicos y promovieron la participación comunitaria en el cuidado de los recursos naturales, en línea con la competencia Ética y Ciudadana del currículo dominicano."
-  ],
-  "claves": [
-   "Winifer Recio D'Óleo, de Jimaní, analizó siete fuentes de agua en Bahoruco e Independencia.",
-   "Angélica María Batista Toribio, de Nagua, recolectó 38 botellas plásticas en su primera semana de proyecto.",
-   "Cuatro establecimientos comerciales fueron incorporados como \"Negocios Amigos del Ambiente\".",
-   "Ambas fueron presentadas en el Primer Congreso Nacional de Educación Ambiental, celebrado el 2 de junio de 2026."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Two Dominican students from Jimaní and Nagua recognized for water and recycling projects",
-   "gancho": "Two students from Jimaní and Nagua were recognized by the government for projects on water care and recycling in their communities.",
-   "claves": [
-    "Winifer Recio D'Óleo from Jimaní analyzed seven water sources in Bahoruco and Independencia.",
-    "Angélica María Batista Toribio from Nagua collected 38 plastic bottles in her project's first week.",
-    "Four businesses were added as \"Friends of the Environment\" businesses.",
-    "Both were featured at the First National Congress on Environmental Education, held June 2, 2026."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Dominican government recognized Winifer Recio D'Óleo and Angélica María Batista Toribio as Students of the Week for their contributions to projects on water care and waste management. The Ministry of Education announced the recognition, linking it to their projects presented at the First National Congress on Environmental Education, held June 2, 2026.",
-    "Winifer is a secondary student at the Manuel Novas Cuevas Polytechnic in Jimaní, part of Education District 18-04. She was part of the team behind the project \"STEAM Water Dynamics: exploring water with science and technology.\" The students analyzed seven water sources in communities in Bahoruco and Independencia, built a filter from recycled and natural materials, and shared their findings with community organizations.",
-    "Angélica is a primary school student at the José Francisco Peña Gómez Primary School in Nagua, part of Education District 14-01. She led the project \"My Sustainable School: Creating a Green Future,\" with which her team took first place at the congress. The initiative involved teachers and families in setting up recycling points and creating a school garden.",
-    "During the first week, the students collected 38 plastic bottles. As part of the initiative, they enlisted four businesses as \"Friends of the Environment.\"",
-    "Winifer said she was proud of the recognition and that she sees her efforts bearing fruit. Angélica encouraged her classmates never to stop dreaming, and to study and learn in order to reach their goals.",
-    "According to the Ministry, through these experiences the students applied scientific knowledge and encouraged community participation in caring for natural resources, in line with the Ethics and Citizenship competency of the Dominican curriculum."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ05MUnFTUnhuNW9LNEVjT2EzaWhnb2ZFVU5FaVpvb3E0TUxsandoZG4taVZ1TTVyQzZJeERVY21pLW9CY043ZjJSZE9CbkFCV3FnVVI4Q2M3RmMtU3BraGJpNFYzZ182NzhsSG90YXBYZzRaQ0o4OURQejh4VFFpckpyQzh5eV9DZmQ5UHNmeDdQLUE5cUFwY24zNm11eTAzVUxrS2JYbDBDVV94a0stUkJmRmw2V3FBenZETzBFTU1UUQ?oc=5",
-  "url": "https://www.presidencia.gob.do/noticias/minerd-reconoce-estudiantes-de-jimani-y-nagua-por-proyectos-sobre-calidad-del-agua-y",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://www.presidencia.gob.do/noticias/minerd-reconoce-estudiantes-de-jimani-y-nagua-por-proyectos-sobre-calidad-del-agua-y"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_9.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se eliminaron \"En línea\"/\"in line\" ya no aplica; se quitó la atribución a \"Ministerio\" en la frase de competencias para usar \"Según el Ministerio\" tal como en la fuente, y se corrigió la frase \"Cuatro establecimientos comerciales\" y el apellido \"D'Óleo\"; se ajustó el uso de la fuente en cuanto a la frase \"aplicaron conocimientos científicos\" y se añadió que la fuente es el Ministerio de Educación para la atribución).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-19T19:23:06.840532+00:00",
-  "tendencia": 1
- },
- {
-  "id": "c57d72cb85",
-  "titulo": "Cancillería lanza alianza para conectar empresas dominicanas con mercados internacionales",
-  "titulo_original": "Canciller Víctor Bisonó anuncia alianza para conectar sectores productivos con mercados internacionales",
-  "resumen": "El Mirex usará sus embajadas y consulados para abrir mercados y atraer inversiones a los sectores productivos del país.",
-  "gancho": "El Mirex usará sus embajadas y consulados para abrir mercados y atraer inversiones a los sectores productivos del país.",
-  "parrafos": [
-   "El ministro de Relaciones Exteriores, Víctor \"Ito\" Bisonó, anunció la creación de la Alianza Diplomática por la Competitividad, una iniciativa del Ministerio de Relaciones Exteriores (Mirex) para conectar a los sectores productivos dominicanos con oportunidades internacionales. El anuncio se hizo en Santiago, durante el almuerzo anual de la Asociación de Industriales de la Región Norte (Airen), celebrado en el Centro de Convenciones de la Universidad Tecnológica de Santiago (Utesa).",
-   "La idea es aprovechar la presencia internacional de las embajadas y consulados dominicanos para identificar compradores, inversionistas y socios estratégicos. Las misiones también informarían sobre cambios arancelarios, nuevas regulaciones y requisitos para entrar a otros mercados.",
-   "Para ponerla en marcha, el Mirex creará un mecanismo de diálogo permanente con los gremios empresariales, con el fin de conocer sus prioridades y las barreras que enfrentan. Esa información servirá para orientar a las misiones diplomáticas y coordinar acciones con el Ministerio de Industria, Comercio y Mipymes, ProDominicana y otras instituciones públicas.",
-   "En su discurso, el canciller invitó a la Airen a participar de forma activa, identificando las necesidades del sector industrial y vinculando las capacidades productivas del Cibao con oportunidades en el exterior. Según Bisonó, el éxito de la alianza se medirá por su aporte a superar barreras comerciales, acompañar inversiones y generar empleos.",
-   "Bisonó también habló de los desafíos que enfrenta el país ante los cambios del comercio mundial y la reorganización de las cadenas de suministro. Destacó el potencial industrial y exportador del Cibao y la posibilidad de cooperar en sectores como semiconductores, manufactura avanzada y minerales críticos.",
-   "Según AlMomento.net, el canciller también se refirió a su reciente visita oficial a Canadá, en la que participaron empresarios dominicanos, y adelantó que los detalles del Plan de Modernización de la Cancillería serán presentados el próximo 24 de noviembre."
-  ],
-  "claves": [
-   "Se llama Alianza Diplomática por la Competitividad.",
-   "Embajadas y consulados buscarán compradores, inversionistas y socios estratégicos.",
-   "Habrá diálogo permanente con los gremios empresariales.",
-   "El éxito se medirá por superar barreras comerciales, acompañar inversiones y generar empleos."
-  ],
-  "importa": "Si tu negocio o trabajo depende de exportar o atraer inversión, esta iniciativa podría abrirte acceso a nuevos mercados. Por ahora, los detalles prácticos aún no se han dado a conocer.",
-  "en": {
-   "titulo": "Foreign Ministry Launches Alliance to Connect Dominican Companies With International Markets",
-   "gancho": "The Dominican foreign ministry will use its embassies and consulates to open markets and attract investment for the country's productive sectors.",
-   "claves": [
-    "The initiative is called the Diplomatic Alliance for Competitiveness.",
-    "Embassies and consulates will seek buyers, investors and strategic partners.",
-    "A permanent dialogue with business associations will be established.",
-    "Success will be measured by overcoming trade barriers, supporting investment and creating jobs."
-   ],
-   "importa": "If your business or job depends on exports or attracting investment, this initiative could open access to new markets. The practical details have not yet been announced.",
-   "parrafos": [
-    "Dominican Foreign Minister Víctor \"Ito\" Bisonó announced the creation of the Diplomatic Alliance for Competitiveness, an initiative of the Ministry of Foreign Affairs (Mirex) to connect Dominican productive sectors with international opportunities. The announcement was made in Santiago, during the annual luncheon of the Association of Industrialists of the Northern Region (Airen), held at the Convention Center of the Technological University of Santiago (Utesa).",
-    "The idea is to use the international presence of Dominican embassies and consulates to identify buyers, investors and strategic partners. The missions would also provide information on tariff changes, new regulations and requirements for entering other markets.",
-    "To put it into action, Mirex will create a permanent dialogue mechanism with business associations to learn their priorities and the barriers they face. That information will guide the diplomatic missions and coordinate efforts with the Ministry of Industry, Commerce and MSMEs, ProDominicana and other public institutions.",
-    "In his speech, the minister invited Airen to take an active role, helping identify the needs of the industrial sector and linking the productive capacities of the Cibao region with opportunities abroad. According to Bisonó, the alliance's success will be measured by its contribution to overcoming trade barriers, supporting investment and creating jobs.",
-    "Bisonó also addressed the challenges the country faces amid changes in world trade and the reorganization of supply chains. He highlighted the industrial and export potential of the Cibao and the possibility of cooperation in sectors such as semiconductors, advanced manufacturing and critical minerals.",
-    "According to AlMomento.net, the minister also referred to his recent official visit to Canada, which included Dominican businesspeople, and previewed that details of the Foreign Ministry's Modernization Plan will be presented on November 24."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUW1lVzNyYVc0ZWRuRTQ1cVJDQ2FiR25JMHZOX3RRV29oQWhEbkNyNE9UMFYxcFJiQ2VicUxFRVdwZ1dFRUdobGpuWG9hY29VYlNFYmFwWnh0R0dmMm8zbHYzSUlHNkNEOGhoQWZ2NXBTLXRJMkltU0xTdlNnbnhkT0JRdENTZERJbnBwdTB2Vl9YNzM5MmxOS1ZyeHB6OF9XX1d1ZkcwNEEtYV9PMnNBSkZhaGRiLUpaTnBlY3NNVkM?oc=5",
-  "url": "https://presidencia.gob.do/noticias/canciller-victor-bisono-anuncia-alianza-para-conectar-sectores-productivos-con-mercados",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/canciller-victor-bisono-anuncia-alianza-para-conectar-sectores-productivos-con-mercados"
-   },
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/crean-alianza-conectar-empresas-rd-a-mercados-internacionales/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "AlMomento.net"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web%20%281%29_0.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (quité \"Cancillería lanza... productos dominicanos a mercados extranjeros\" en título por \"alianza para conectar empresas con mercados internacionales\" para ajustarlo a lo anunciado; atribuí a AlMomento.net/EFE la entrevista y la visita a Canadá, que no fueron parte del discurso; corregí \"entrevista\" a \"intervención\" donde correspondía; y eliminé \"según indicó en su intervención\" redundante; el resto se mantuvo).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-19T19:23:33.101818+00:00",
-  "tendencia": 2
- },
- {
-  "id": "46da60354a",
-  "titulo": "Miami HEAT y República Dominicana se unen para promover el turismo",
-  "titulo_original": "República Dominicana y Miami HEAT establecen alianza estratégica de promoción turística internacional",
-  "resumen": "El equipo campeón de la NBA se alía con el Ministerio de Turismo dominicano para atraer viajeros desde Florida.",
-  "gancho": "El equipo campeón de la NBA se alía con el Ministerio de Turismo dominicano para atraer viajeros desde Florida.",
-  "parrafos": [
-   "El Ministerio de Turismo de la República Dominicana, a través de la marca turística República Dominicana, y el equipo Miami HEAT anunciaron una alianza para la temporada 2026–2027. El objetivo es unir la afición por el baloncesto con el interés por conocer el destino dominicano. Miami HEAT, que ha ganado tres campeonatos de la NBA, es uno de los equipos más reconocidos de la liga.",
-   "La colaboración tiene un peso especial en Florida, uno de los estados que más turistas envía a República Dominicana. Con esta alianza, el país busca acercarse a los aficionados de ese mercado y establecer una relación con posibles viajeros a partir de la pasión compartida por el baloncesto.",
-   "El anuncio llega en un momento de crecimiento para el turismo dominicano, que proyecta cerrar 2026 con más de 12 millones de visitantes. En ese contexto, el país sigue ampliando su promoción internacional para dar a conocer su oferta.",
-   "David Collado, ministro de Turismo de la República Dominicana, afirmó que \"el deporte conecta a las personas y nos permite acercar República Dominicana a nuevas audiencias\". Según el ministro, la alianza busca que la emoción del baloncesto despierte el deseo de conocer el país, y destacó la importancia de Florida como mercado turístico.",
-   "Por su parte, John Vidalin, vicepresidente ejecutivo y director comercial de Miami HEAT, dijo que el equipo quiere compartir con sus aficionados la cultura y las experiencias del país. Según Vidalin, la alianza permitirá crear vínculos que van más allá de la cancha.",
-   "Con esta colaboración, República Dominicana pretende despertar el interés por sus playas, su naturaleza, su gastronomía y sus expresiones culturales, integrando el deporte a su estrategia de promoción turística."
-  ],
-  "claves": [
-   "La alianza es para la temporada 2026–2027 y se enfoca en el mercado de Florida.",
-   "El Ministerio de Turismo, a través de la marca República Dominicana, firma el acuerdo con Miami HEAT.",
-   "El país proyecta cerrar 2026 con más de 12 millones de visitantes.",
-   "Miami HEAT es un equipo de la NBA con tres campeonatos."
-  ],
-  "importa": "Para los dominicanos en Estados Unidos y en el país, la campaña busca fortalecer el turismo, una de las principales fuentes de ingresos de la nación.",
-  "en": {
-   "titulo": "Miami HEAT and Dominican Republic Team Up to Promote Tourism",
-   "gancho": "The NBA champions are partnering with the Dominican Ministry of Tourism to attract travelers from Florida.",
-   "claves": [
-    "The partnership covers the 2026–2027 season and targets the Florida market.",
-    "The Ministry of Tourism, through the Dominican Republic tourism brand, is signing the deal with Miami HEAT.",
-    "The country projects it will close 2026 with more than 12 million visitors.",
-    "Miami HEAT is an NBA team with three championships."
-   ],
-   "importa": "For Dominicans in the U.S. and at home, the campaign aims to strengthen tourism, one of the country's main sources of income.",
-   "parrafos": [
-    "The Dominican Republic's Ministry of Tourism, through the Dominican Republic tourism brand, and the Miami HEAT announced a partnership for the 2026–2027 season. The goal is to connect basketball fans with an interest in visiting the Dominican destination. Miami HEAT, which has won three NBA championships, is one of the league's most recognized teams.",
-    "The collaboration carries special weight in Florida, one of the states that sends the most tourists to the Dominican Republic. Through the deal, the country hopes to reach fans in that market and build a relationship with potential travelers through their shared passion for basketball.",
-    "The announcement comes at a time of growth for Dominican tourism, which projects more than 12 million visitors by the close of 2026. In that context, the country continues expanding its international promotion to showcase what it offers.",
-    "David Collado, Dominican Minister of Tourism, said that \"sport connects people and allows us to bring the Dominican Republic to new audiences.\" According to the minister, the partnership aims to turn the excitement of basketball into a desire to discover the country, and he highlighted Florida's importance as a tourism market.",
-    "For its part, John Vidalin, Executive Vice President and Chief Commercial Officer of Miami HEAT, said the team wants to share the country's culture and experiences with its fans. Vidalin said the partnership will create bonds that go beyond the court.",
-    "With this collaboration, the Dominican Republic aims to spark interest in its beaches, nature, gastronomy, and cultural expressions, integrating sports into its tourism promotion strategy."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTzhMS2RsWUhTZm1oSGlkaHZiWVZDclZBU3gxSFNfd3F4NWxYN01xa3g1bWJKbWN0T2FwQTZnSmdVOHR0bzB3MjV1NVQwMWVwaEttYXI2cnVhRVY2NDh6dXMyUTBXT1NUR1BxTlJXMnY1czVfbjFaRmZIS1Btd1V2U255bkE2c0JnYVdjOHUyWjhDSzVkemhXYkpBdGpnd0VUWmlCdFd3TE04UFdzbW9EeXpXcGtiNUZ0VzNDRzdPSjMxUTcwYWpSckxDUG5BY3lqeHRwLXFDNThUUUJ5dm9sVXEyTHFrdUNWNmfSAeoBQVVfeXFMT084TEtkbFlIU2ZtaEhpZGh2YllWQ3JWQVN4MUhTX3dxeDVsWDdNcWt4NW1iSm1jdE9hcEE2Z0pnVTh0dG8wdzI1dTVUMDFlcGhLbWFyNnJ1YUVWNjQ4enVzMlEwV09TVEdQcU5SVzJ2NXM1X24xWkZmSEtQbXdVdlNueW5BNnNCZ2FXYzh1Mlo4Q0s1ZHpoV2JKQXRqZ3dFVFppQnRXd0xNOFBXc21vRHl6V3BrYjVGdFczQ0c3T0ozMVE3MGFqUnJMQ1BuQWN5anh0cC1xQzU4VFFCeXZvbFVxMkxxa3VDVjZn?oc=5",
-  "url": "https://www.telemundo51.com/comunidad/republica-dominicana-y-miami-heat-establecen-alianza-estrategica-de-promocion-turistica-internacional/2851641/?amp=1",
-  "fuente": "Telemundo Miami",
-  "dominio": "telemundo51.com",
-  "fuentes": [
-   {
-    "nombre": "Telemundo Miami",
-    "url": "https://www.telemundo51.com/comunidad/republica-dominicana-y-miami-heat-establecen-alianza-estrategica-de-promocion-turistica-internacional/2851641/?amp=1"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Estos son los detalles\" del gancho en ambos idiomas, por ser relleno; el resto coincide con las fuentes: cargos, cifras, fechas, cita de Collado y de Vidalin con su atribución correcta, y el inglés refleja el español.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-19T19:24:34.101974+00:00",
-  "tendencia": 1
- },
- {
-  "id": "3625390562",
-  "titulo": "Karol G reprograma para abril de 2027 su concierto en Santo Domingo",
-  "titulo_original": "Karol G reprograma para abril de 2027 su concierto en República Dominicana",
-  "resumen": "La cantante colombiana cambia la fecha de su show en el Estadio Olímpico. Estas son las opciones para quienes ya compraron boletas.",
-  "gancho": "La cantante colombiana cambia la fecha de su show en el Estadio Olímpico. Estas son las opciones para quienes ya compraron boletas.",
-  "parrafos": [
-   "Karol G reprogramó su concierto en República Dominicana para el viernes 9 de abril de 2027. El show estaba previsto para el 19 de febrero de ese mismo año en el Estadio Olímpico Félix Sánchez, en Santo Domingo. El cambio, casi dos meses después de la fecha original, se debe a circunstancias logísticas imprevistas, según explicaron los organizadores en un comunicado difundido por Gamal Haché en sus redes sociales.",
-   "El espectáculo forma parte de la gira «Viajando por el Mundo Tropitour», con la que la artista colombiana planeaba presentarse ante el público dominicano.",
-   "Los organizadores informaron que las boletas compradas para la fecha anterior seguirán siendo válidas para el nuevo espectáculo, sin necesidad de hacer ningún cambio.",
-   "Quienes no puedan asistir el 9 de abril y quieran un crédito o el reembolso del dinero pagado tendrán que enviar su solicitud entre el 19 de noviembre y el 9 de diciembre de 2026. Según el comunicado, el trámite debe hacerse al correo reclamaciones@uepa.com, desde la misma dirección de correo usada en la compra.",
-   "El concierto también marcará el regreso de la artista al Estadio Olímpico Félix Sánchez, donde se presentó en marzo de 2024 con dos conciertos de su gira «Mañana Será Bonito»."
-  ],
-  "claves": [
-   "El concierto pasó del 19 de febrero al viernes 9 de abril de 2027.",
-   "Las boletas de la fecha original seguirán siendo válidas.",
-   "Quienes no puedan asistir podrán pedir crédito o reembolso entre el 19 de noviembre y el 9 de diciembre de 2026."
-  ],
-  "importa": "Si compraste boletas para el concierto, no tienes que cambiarlas. Si no podrás asistir en la nueva fecha, debes pedir tu crédito o reembolso dentro del plazo indicado, usando el mismo correo de la compra.",
-  "en": {
-   "titulo": "Karol G Postpones Dominican Republic Concert to April 2027",
-   "gancho": "The Colombian singer moves her Santo Domingo show to a new date. Here's what ticket holders need to know.",
-   "claves": [
-    "The concert moved from February 19 to Friday, April 9, 2027.",
-    "Tickets bought for the original date will remain valid.",
-    "Fans who can't attend can request a credit or refund between November 19 and December 9, 2026."
-   ],
-   "importa": "If you bought tickets, you don't need to exchange them. If you can't attend on the new date, you must request a credit or refund within the deadline, using the same email address you used for the purchase.",
-   "parrafos": [
-    "Colombian singer Karol G has rescheduled her concert in the Dominican Republic to Friday, April 9, 2027. The show was originally set for February 19 of that year at the Estadio Olímpico Félix Sánchez in Santo Domingo. The change, nearly two months after the original date, is due to unforeseen logistical circumstances, according to a statement from the organizers shared by Gamal Haché on social media.",
-    "The concert is part of the \"Viajando por el Mundo Tropitour,\" the tour with which the Colombian artist planned to perform for Dominican audiences.",
-    "Organizers said tickets bought for the original date will remain valid for the new show, with no need to make any change.",
-    "Those who can't attend on April 9 and want a credit or a refund of the money paid must submit their request between November 19 and December 9, 2026. According to the statement, the process must be done by emailing reclamaciones@uepa.com from the same address used for the purchase.",
-    "The concert will also mark the singer's return to the Estadio Olímpico Félix Sánchez, where she performed two shows in March 2024 as part of her \"Mañana Será Bonito\" tour."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTVJqRlQ2dDdpWFhRdWdka2tseHNPRE00ZmZIaUdna2pVbnJ5bzUzX0tkeWxXUnB2T2FNS0N4Sk5ObFlUdkdPZEJDb0tFSXlMY19qZnd6UEI4dVpYUlVBdGYxcWJZWUtoTFZzM2Z5QmxWQkstdURzNEZ0VFRaTkRacjRBdzB3X0lacllZRUdDS2txWnMxdHdDbmdzRmM?oc=5",
-  "url": "https://noticiassin.com/vida-y-estilo/conciertos/2026/11/19/karol-g-reprograma-para-abril-de-2027-su-concierto-en-santo-domingo-2173183/",
-  "fuente": "Noticias SIN",
-  "dominio": "noticiassin.com",
-  "fuentes": [
-   {
-    "nombre": "Noticias SIN",
-    "url": "https://noticiassin.com/vida-y-estilo/conciertos/2026/11/19/karol-g-reprograma-para-abril-de-2027-su-concierto-en-santo-domingo-2173183/"
-   },
-   {
-    "nombre": "eldia.com.do",
-    "url": "https://eldia.com.do/karol-g-reprograma-para-abril-de-2027-su-concierto-en-republica-dominicana/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí el nombre \"Gamal Haché\" en la versión española: el borrador dice \"Gamal Haché\" y la fuente lo confirma en Noticias SIN, así que se mantiene; cambié \"Viajando por el mundo\" a la forma de la fuente \"Viajando por el Mundo Tropitour\"; eliminé la frase de la fuente que sugiere que la información proviene de Gamal RD sin distinguir la atribución; y quité el aviso sobre el formato del correo porque no es necesario, ya que el correo aparece igual en eldia.com.do y el comunicado lo confirma. Además, la atribución del correo queda en el comunicado de los organizadores.)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-19T19:25:11.344716+00:00",
-  "tendencia": 2
- },
- {
-  "id": "f2b76c38f6",
-  "titulo": "Karol G pospone su concierto en RD para abril de 2027",
-  "titulo_original": "Posponen concierto de Karol G en República Dominicana",
-  "resumen": "El show de Karol G en el Estadio Olímpico cambia de fecha. Esto es lo que deben saber quienes ya compraron boletas.",
-  "gancho": "El show de Karol G en el Estadio Olímpico cambia de fecha. Esto es lo que deben saber quienes ya compraron boletas.",
-  "parrafos": [
-   "El concierto de la cantante colombiana Karol G en el Estadio Olímpico Félix Sánchez, previsto para el 19 de febrero de 2027, fue pospuesto para el viernes 9 de abril de ese mismo año. La empresa promotora Gamal confirmó el cambio y lo atribuyó a «circunstancias de logística imprevistas».",
-   "Según la organización, las boletas adquiridas antes del anuncio seguirán siendo válidas para la nueva fecha. El aviso se publicó en las redes sociales de la promotora.",
-   "Los asistentes que no puedan ir en abril podrán solicitar un crédito o la devolución del dinero entre el 19 de noviembre y el 9 de diciembre de 2026. Para hacer el trámite, deberán escribir al correo electrónico indicado por la promotora, usando la misma dirección que se asoció a la compra original de las boletas.",
-   "La artista también reprogramó un concierto en Ciudad de México. Según un comunicado conjunto de OCESA y Ensō, la presentación en el Estadio GNP Seguros, prevista para el domingo 15 de noviembre, pasó al martes 17 de noviembre por motivos de salud de la cantante. El comunicado señala que la decisión prioriza la salud y el bienestar de la artista."
-  ],
-  "claves": [
-   "El concierto del 19 de febrero de 2027 pasa al viernes 9 de abril del mismo año.",
-   "Las boletas compradas siguen siendo válidas para la nueva fecha.",
-   "Quienes no puedan asistir podrán pedir crédito o reembolso entre el 19 de noviembre y el 9 de diciembre de 2026."
-  ],
-  "importa": "Quienes compraron entradas para este concierto deben revisar el correo de compra si quieren pedir un crédito o devolución.",
-  "en": {
-   "titulo": "Karol G Postpones Dominican Republic Concert to April 2027",
-   "gancho": "Karol G's show at the Estadio Olímpico has a new date. Here's what ticket holders need to know.",
-   "claves": [
-    "The February 19, 2027 concert moves to Friday, April 9, of the same year.",
-    "Tickets already purchased remain valid for the new date.",
-    "Fans who can't attend can request a credit or refund between November 19 and December 9, 2026."
-   ],
-   "importa": "Anyone who bought tickets for this show should check their purchase email if they want a credit or refund.",
-   "parrafos": [
-    "Colombian singer Karol G's concert at the Estadio Olímpico Félix Sánchez in the Dominican Republic, originally set for February 19, 2027, has been postponed to Friday, April 9 of the same year. The promoter, Gamal, confirmed the change and attributed it to \"unforeseen logistical circumstances.\"",
-    "According to the organization, tickets bought before the announcement will remain valid for the new date. The notice was published on the promoter's social media accounts.",
-    "Attendees who cannot go in April may request a credit or a refund between November 19 and December 9, 2026. To do so, they must email the address provided by the promoter, using the same email associated with the original ticket purchase.",
-    "Karol G also rescheduled a concert in Mexico City. According to a joint statement from OCESA and Ensō, the show at the Estadio GNP Seguros, planned for Sunday, November 15, has moved to Tuesday, November 17, for health reasons affecting the singer. The statement says the decision prioritizes the artist's health and well-being."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3ZJRDlwUWRGQVBvUTdobXlIZ3phdnNzNUZGLURYYVdEWWRwQ2lpWTBsVjNtSldWSHZLYzNqVVFmdWJuZXFJMlMwNW5RSjJkVE5EMlBLM3lhR29XT25SenBQeVp2Uk15LXJaVmM1RnR3cGg1YUJJZ1ZPbkpVNG5ZVnB0WHlYOWVUM2RjT1h0eFV3NHlmQXlFQWNPdXF5eURsUXdGRnY2ZXVZT0djb1HSAbYBQVVfeXFMTzFidEg4cXF2cnRQcFN2OXJtLVNmeVpfYUpzeXRpRnh4dHFDNl9oTGh6MzJlOVhIUGlKREYwUjVDOVRKaFk2LWxKY1lZSm1FXzl4VHhfb1EwNENwdFhUMGZBQXFzSHZYb1Jid1lySHBGXzBreUg4YmtDSWJhU2xfeWlEODVpY19ZNjhjTlE3cElLTWNoR1VWUkpnU3JLMTkyS1lEYzRTZEEwTEhQc0VQeXotSXVhTmc?oc=5",
-  "url": "https://cdn.com.do/entretenimiento/posponen-concierto-de-karol-g-en-republica-dominicana-hasta-abril-de-2027/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/entretenimiento/posponen-concierto-de-karol-g-en-republica-dominicana-hasta-abril-de-2027/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé la frase \"Por otro lado\" y ajusté el tono; el resto coincide con las fuentes; en inglés cambié \"Separately\" por \"Also\" para sonar más natural y corregí \"in the Dominican Republic\" para que coincida con el español).",
-  "seccion": "Famosos",
-  "fecha": "2026-11-19T19:25:23.912544+00:00",
-  "tendencia": 2
  }
 ]
