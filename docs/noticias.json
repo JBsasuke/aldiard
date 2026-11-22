@@ -527,10 +527,13 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T21:51:50.618224+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/0203254a6b.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/0203254a6b-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/0203254a6b-h.jpg",
+  "ig_id": "18132397855829923",
+  "ig_fecha": "2026-11-22T21:56:55.610922+00:00",
+  "historia_fecha": "2026-11-22T21:57:08.056185+00:00"
  },
  {
   "id": "8db06acbaa",
@@ -1092,10 +1095,13 @@
   "seccion": "Deportes",
   "fecha": "2026-11-22T20:52:29.555237+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/0976c43884.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/0976c43884-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/0976c43884-h.jpg",
+  "ig_id": "17985484272135430",
+  "ig_fecha": "2026-11-22T21:58:37.092874+00:00",
+  "historia_fecha": "2026-11-22T21:58:49.676615+00:00"
  },
  {
   "id": "33dfe15524",
@@ -2371,10 +2377,12 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T18:51:00.338732+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/c3f111332d.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/c3f111332d-h.jpg"
+  "historia": "error",
+  "historia_img": "ig/c3f111332d-h.jpg",
+  "ig_id": "18144195712736878",
+  "ig_fecha": "2026-11-22T22:00:14.377726+00:00"
  },
  {
   "id": "9e276031ca",
@@ -3750,10 +3758,13 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-22T15:49:45.405316+00:00",
   "tendencia": 4,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/994d51a489.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/994d51a489-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/994d51a489-h.jpg",
+  "ig_id": "18143016424755045",
+  "ig_fecha": "2026-11-22T21:53:31.757383+00:00",
+  "historia_fecha": "2026-11-22T21:53:45.070949+00:00"
  },
  {
   "id": "39fdf9f9bf",
@@ -3870,10 +3881,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-22T15:50:32.416835+00:00",
   "tendencia": 4,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/77dbb8632a.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/77dbb8632a-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/77dbb8632a-h.jpg",
+  "ig_id": "18392466562226725",
+  "ig_fecha": "2026-11-22T21:55:14.025634+00:00",
+  "historia_fecha": "2026-11-22T21:55:26.814878+00:00"
  },
  {
   "id": "d96aadd794",
