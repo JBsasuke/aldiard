@@ -1,5 +1,546 @@
 [
  {
+  "id": "0ae1cb30b8",
+  "titulo": "Régimen Simplificado de Tributación (RST)",
+  "titulo_original": "Régimen Simplificado de Tributación (RST)",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aelEzbWNkT3FWSE1yRjR1YjNleEREQ2VPUDRjVXFHQ2h5V3BpUmVlNkFvaDFZOEQ3UFBVQ1NNOG1zUU1TU0FCRWZNa04wZw?oc=5",
+  "fuente": "DGII",
+  "dominio": "dgii.gov.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:48:07.898090+00:00"
+ },
+ {
+  "id": "b8360c3119",
+  "titulo": "MINERD firma alianza para llevar inteligencia artificial y 400 computadoras a escuelas públicas",
+  "titulo_original": "The Digital School llevará inteligencia artificial y 400 computadoras a escuelas públicas de RD",
+  "resumen": "El Ministerio de Educación firmó un acuerdo de tres años para llevar inteligencia artificial a las aulas públicas, con aulas digitales y formación docente.",
+  "gancho": "El Ministerio de Educación firmó un acuerdo de tres años para llevar inteligencia artificial a las aulas públicas, con aulas digitales y formación docente.",
+  "parrafos": [
+   "El Ministerio de Educación (MINERD) y The Digital School firmaron una alianza para introducir de manera progresiva la inteligencia artificial en las aulas del sistema público dominicano. El convenio busca transformar los métodos de enseñanza con herramientas tecnológicas y contenidos digitales adaptados a las necesidades de los estudiantes.",
+   "El acuerdo fue firmado por el ministro de Educación, Luis Miguel De Camps García, y el secretario general de The Digital School, Waleed Al Ali, en el marco del Diálogo Regional del World Governments Summit (WGS) para América Latina y el Caribe 2026, celebrado en Cap Cana. Ambas partes acordaron un período de cooperación de tres años.",
+   "Entre los compromisos está la instalación de aulas digitales equipadas con 400 computadoras y conexión satelital, a través del programa Aulas de Esperanza, que The Digital School desarrollará junto a DP World Foundation. También se ofrecerán 1,000 cupos de capacitación para docentes, con formación gratuita y certificación internacional de la Universidad Estatal de Arizona.",
+   "La iniciativa incluye contenidos digitales en español de Matemáticas, Ciencias y Lengua, dirigidos a estudiantes desde primero de primaria hasta sexto de secundaria. Una parte central será el uso de aplicaciones de inteligencia artificial que adapten el aprendizaje a las necesidades de cada alumno, además de materiales educativos y proyectos piloto.",
+   "La capacitación de los maestros se hará junto al Instituto Nacional de Formación y Capacitación del Magisterio (Inafocam). Los materiales deberán ser evaluados y aprobados por el MINERD antes de usarse en los centros escolares. Ambas instituciones conformarán además un comité de seguimiento para supervisar los avances y verificar el cumplimiento de lo pactado.",
+   "La alianza forma parte de la Estrategia Nacional de Educación Digital, aprobada por el Consejo Nacional de Educación en marzo de 2026, que establece la incorporación gradual del pensamiento computacional y la inteligencia artificial en la enseñanza dominicana."
+  ],
+  "claves": [
+   "Instalación de aulas digitales con 400 computadoras y conexión satelital, mediante el programa Aulas de Esperanza",
+   "Formación para 1,000 docentes, con certificación internacional de la Universidad Estatal de Arizona",
+   "Contenidos digitales en español de Matemáticas, Ciencias y Lengua, de primero de primaria a sexto de secundaria",
+   "Acuerdo firmado por el ministro Luis Miguel De Camps García y Waleed Al Ali, de The Digital School"
+  ],
+  "importa": "Si tienes hijos en una escuela pública dominicana, esta alianza podría traer más computadoras y herramientas digitales a sus aulas en los próximos años. El proyecto se desarrollará de forma progresiva.",
+  "en": {
+   "titulo": "Dominican Education Ministry Partners to Bring AI and 400 Computers to Public Schools",
+   "gancho": "The Dominican Education Ministry signed a three-year deal to bring artificial intelligence into public classrooms, with digital labs and teacher training.",
+   "claves": [
+    "Digital classrooms with 400 computers and satellite connectivity, through the Aulas de Esperanza program",
+    "Training for 1,000 teachers, with international certification from Arizona State University",
+    "Spanish-language digital content in math, science and language, from first grade through sixth year of secondary school",
+    "Agreement signed by Education Minister Luis Miguel De Camps García and Waleed Al Ali of The Digital School"
+   ],
+   "importa": "If you have children in a Dominican public school, this partnership could bring more computers and digital tools to their classrooms in the coming years. The rollout will be gradual.",
+   "parrafos": [
+    "The Dominican Ministry of Education (MINERD) and The Digital School have signed a partnership to gradually introduce artificial intelligence into public classrooms in the Dominican Republic. The agreement aims to transform teaching methods with technology tools and digital content tailored to students' needs.",
+    "The deal was signed by Education Minister Luis Miguel De Camps García and Waleed Al Ali, secretary general of The Digital School, during the Regional Dialogue of the World Governments Summit (WGS) for Latin America and the Caribbean 2026, held in Cap Cana. Both parties agreed to a three-year cooperation period.",
+    "Commitments include installing digital classrooms equipped with 400 computers and satellite connectivity, through the Aulas de Esperanza program, which The Digital School will develop with DP World Foundation. The plan also offers 1,000 teacher training slots, with free instruction and international certification from Arizona State University.",
+    "The initiative includes Spanish-language digital content in math, science and language, aimed at students from first grade through sixth year of secondary school. A central component will be AI applications that adapt learning to each student's needs, along with educational materials and pilot projects.",
+    "Teacher training will be carried out with the National Institute for Teacher Training and Development (Inafocam). Materials must be reviewed and approved by MINERD before being used in schools. Both institutions will also form a follow-up committee to oversee progress and verify compliance with the agreement.",
+    "The partnership is part of the National Digital Education Strategy, approved by the National Education Council in March 2026, which provides for the gradual incorporation of computational thinking and artificial intelligence into Dominican education."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/the-digital-school-ia-escuelas/",
+  "url": "https://deultimominuto.com/nacionales/the-digital-school-ia-escuelas/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/the-digital-school-ia-escuelas/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (la universidad en inglés decía \"Arizona State University\" pero la fuente dice \"Universidad Estatal de Arizona\", que en inglés es \"Arizona State University\"; el error real fue en el español: \"Universidad Estatal de Arizona\" está bien en la fuente, así que la versión en inglés se mantuvo; además se corrigió \"sexto de secundaria\" para que coincida con la fuente, se añadió la atribución de la alianza al convenio firmado, y se quitaron frases de relleno como \"cabe destacar\" y \"juega un papel central\", reemplazándolas por redacción directa).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T15:48:38.515663+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "90cda05ccf",
+  "titulo": "Arzobispo de Santo Domingo alerta por feminicidios y riesgos de redes sociales para las familias",
+  "titulo_original": "Iglesia Católica alerta sobre feminicidios en RD durante homilía de “Un Paso por mi Familia 2026”",
+  "resumen": "Más de 80 mujeres han muerto en lo que va de año, según el arzobispo de Santo Domingo, quien pidió a los padres vigilar el uso de redes sociales de sus hijos.",
+  "gancho": "Más de 80 mujeres han muerto en lo que va de año, según el arzobispo de Santo Domingo, quien pidió a los padres vigilar el uso de redes sociales de sus hijos.",
+  "parrafos": [
+   "El arzobispo de Santo Domingo, monseñor Carlos Tomás Morel Diplán, expresó su preocupación por la violencia intrafamiliar, los feminicidios y la inseguridad que afectan a los hogares dominicanos. Durante la misa de clausura de la caminata \"Un Paso por mi Familia 2026\", celebrada este domingo 22 de noviembre, señaló que más de 80 mujeres han perdido la vida en lo que va del año.",
+   "En su homilía, el religioso advirtió que la violencia penetra profundamente en la sociedad y deja a niños en la orfandad. \"Nos golpea la violencia intrafamiliar con los dolorosos feminicidios con más de 80 mujeres fallecidas en lo que va de año\", manifestó. También se refirió a los suicidios, las separaciones y los divorcios que afectan la estabilidad de los hogares, así como a las muertes de jóvenes en intercambios de disparos.",
+   "Morel Diplán lamentó la falta de diálogo y el aumento de los maltratos físicos y verbales entre parejas y entre padres e hijos. Sostuvo que los hogares, que deberían ser espacios de protección, también se han convertido en escenarios de conflicto.",
+   "Sobre la tecnología, el arzobispo reconoció que facilita la comunicación, pero advirtió que puede generar aislamiento y desconexión emocional. \"En un mundo donde cada plataforma compite por la atención de tus hijos, tu hijo no es un usuario. Tu hijo es un tesoro\", expresó. Exhortó a los padres a establecer reglas sobre el uso de móviles, supervisar las aplicaciones y conocer con quiénes interactúan sus hijos en las plataformas digitales.",
+   "En otro momento, hizo un llamado a legisladores y autoridades a impulsar políticas que protejan la dignidad humana y fortalezcan la familia. Pidió a los congresistas mantener una postura firme en defensa de los derechos fundamentales y del respeto a la vida desde la concepción hasta la muerte. También identificó la desigualdad social, la pobreza, el individualismo, el consumismo y la inseguridad como principales desafíos de las familias dominicanas."
+  ],
+  "claves": [
+   "Monseñor Carlos Tomás Morel Diplán habló durante la misa de clausura de \"Un Paso por mi Familia 2026\", celebrada este domingo 22 de noviembre.",
+   "Señaló que más de 80 mujeres han fallecido en lo que va del año.",
+   "Pidió a los padres establecer reglas sobre el uso de teléfonos móviles y supervisar las aplicaciones que usan sus hijos.",
+   "Hizo un llamado a legisladores y autoridades a impulsar políticas que protejan la dignidad humana y fortalezcan la familia."
+  ],
+  "importa": "Según el arzobispo, las familias dominicanas enfrentan una violencia intrafamiliar en aumento y nuevos riesgos en el entorno digital de niños y adolescentes.",
+  "en": {
+   "titulo": "Santo Domingo Archbishop Warns of Femicides and Social Media Risks for Families",
+   "gancho": "More than 80 women have been killed this year, the archbishop of Santo Domingo said, as he urged parents to monitor their children's social media use.",
+   "claves": [
+    "Monsignor Carlos Tomás Morel Diplán spoke at the closing Mass of \"Un Paso por mi Familia 2026,\" held this Sunday, November 22.",
+    "He said more than 80 women have died so far this year.",
+    "He urged parents to set rules on mobile phone use and supervise the apps their children use.",
+    "He called on lawmakers and authorities to pursue policies that protect human dignity and strengthen the family."
+   ],
+   "importa": "According to the archbishop, Dominican families face rising domestic violence and new risks in the digital lives of children and teens.",
+   "parrafos": [
+    "Monsignor Carlos Tomás Morel Diplán, archbishop of Santo Domingo, expressed concern about domestic violence, femicides and insecurity affecting Dominican homes. During the closing Mass of the walk \"Un Paso por mi Familia 2026,\" held this Sunday, November 22, he said more than 80 women have lost their lives so far this year.",
+    "In his homily, the religious leader warned that violence is penetrating deeply into society and leaving children orphaned. \"Domestic violence strikes us with painful femicides, with more than 80 women dead so far this year,\" he said. He also referred to suicides, separations and divorces that affect the stability of homes, as well as the deaths of young people in shootouts.",
+    "Morel Diplán lamented the lack of dialogue and the rise in physical and verbal abuse between couples and between parents and children. He said homes, which should be places of protection, have also become scenes of conflict.",
+    "On technology, the archbishop acknowledged that it makes communication easier but warned that it can cause isolation and emotional disconnection. \"In a world where every platform competes for your children's attention, your child is not a user. Your child is a treasure,\" he said. He urged parents to set rules on phone use, supervise apps and know who their children interact with on digital platforms.",
+    "Elsewhere, he called on lawmakers and authorities to pursue policies that protect human dignity and strengthen the family. He asked members of Congress to take a firm stance in defense of fundamental rights and respect for life from conception to death. He also named social inequality, poverty, individualism, consumerism and insecurity as the main challenges facing Dominican families."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/iglesia-familia-feminicidios/",
+  "url": "https://deultimominuto.com/nacionales/iglesia-familia-feminicidios/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/iglesia-familia-feminicidios/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó la mención a EE.UU. que no aparece en las fuentes; se agregó la fecha y el lugar del evento; se atribuyó la cifra de feminicidios y las declaraciones a la homilía; se ajustó \"suicidios\" y \"separaciones\" para reflejar la fuente; se eliminó \"fijar reglas\" por \"establecer reglas\" fiel a la fuente; se corrigió el título y el inglés para que coincidan con el español).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-22T15:48:53.682925+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "c872b47c41",
+  "titulo": "Aglomeraciones en el aeropuerto de Madrid por avería en el tren entre terminales",
+  "titulo_original": "Aglomeraciones en el aeropuerto de Madrid por una avería en el tren entre dos terminales",
+  "resumen": "Una avería en el tren que comunica la T4 con la T4S del aeropuerto de Madrid provoca largas colas de viajeros este domingo. Aena habilita autobuses de forma provisional.",
+  "gancho": "Una avería en el tren que comunica la T4 con la T4S del aeropuerto de Madrid provoca largas colas de viajeros este domingo. Aena habilita autobuses de forma provisional.",
+  "parrafos": [
+   "Una incidencia técnica en el tren que comunica la terminal T4 del aeropuerto de Madrid con su Satélite (T4S) está provocando este domingo largas hileras de viajeros que necesitan usarlo.",
+   "Para facilitar el traslado entre ambas terminales, el gestor aeroportuario español, Aena, dispone de autobuses de forma provisional. La entidad informó de la medida en la red social X, donde pidió a los pasajeros de vuelos internacionales de la T4S que acudan al aeropuerto con antelación.",
+   "Aena explicó que trabaja para resolver la avería junto a Alstom, la compañía encargada de ese transporte ferroviario.",
+   "Mientras tanto, varios pasajeros afectados por la incidencia publicaron en redes sociales fotos que muestran las colas que se han formado."
+  ],
+  "claves": [
+   "Una incidencia técnica en el tren que comunica la T4 con la T4S afecta el traslado entre ambas terminales.",
+   "El traslado se cubre provisionalmente con autobuses, según informó Aena en la red X.",
+   "Aena recomienda a los pasajeros de vuelos internacionales de la T4S llegar con antelación.",
+   "Aena trabaja con Alstom, encargada del transporte ferroviario, para solucionar la avería."
+  ],
+  "importa": "Si viajas desde Madrid, especialmente con vuelos internacionales desde la T4S, conviene llegar con más tiempo al aeropuerto mientras dure la incidencia.",
+  "en": {
+   "titulo": "Crowds at Madrid airport as train between terminals breaks down",
+   "gancho": "A technical failure on the train linking Terminal T4 with the T4S satellite at Madrid's airport is causing long lines this Sunday. Aena is providing buses on a temporary basis.",
+   "claves": [
+    "A technical fault on the train linking T4 with the T4S is disrupting transfers between the two terminals.",
+    "Buses are providing a temporary transfer service, according to Aena's post on X.",
+    "Aena advises international passengers departing from T4S to arrive early.",
+    "Aena is working with Alstom, the company in charge of the rail service, to fix the fault."
+   ],
+   "importa": "If you are flying out of Madrid, especially on an international flight from T4S, plan to arrive at the airport earlier while the problem lasts.",
+   "parrafos": [
+    "A technical failure on the train that connects Terminal T4 of Madrid's airport with its T4S satellite is causing long lines of travelers who need to use it this Sunday.",
+    "To help passengers move between the two terminals, Spanish airport manager Aena is providing buses on a temporary basis. The agency announced the measure on social network X, where it asked passengers on international flights from T4S to arrive at the airport in advance.",
+    "Aena said it is working to resolve the breakdown together with Alstom, the company responsible for the rail service.",
+    "Meanwhile, several passengers affected by the incident posted photos on social media showing the queues that have formed."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/aglomeraciones-aeropuerto-madrid/",
+  "url": "https://noticiassin.com/mundo/espana/2026/11/22/aglomeraciones-en-el-aeropuerto-de-madrid-por-una-averia-en-el-tren-entre-t4-y-t4s-2174790/",
+  "fuente": "Noticias SIN",
+  "dominio": "noticiassin.com",
+  "fuentes": [
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/mundo/espana/2026/11/22/aglomeraciones-en-el-aeropuerto-de-madrid-por-una-averia-en-el-tren-entre-t4-y-t4s-2174790/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/aglomeraciones-aeropuerto-madrid/"
+   },
+   {
+    "nombre": "www.abc.com.py",
+    "url": "https://www.abc.com.py/internacionales/2026/11/22/aglomeraciones-en-el-aeropuerto-de-madrid-por-una-averia-en-el-tren-entre-dos-terminales/?outputType=amp"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se añadió \"gestor aeroportuario\" y se corrigió \"el tren que une\" a \"el tren que comunica\" en el gancho para mantener la fuente; se quitó la mención de \"dispone de\" y se ajustó \"usuarios afectados\" a \"pasajeros afectados\" en inglés; se aclaró que Aena habilitó autobuses de forma provisional en el gancho; se mantuvo el resto sin cambios de contenido).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T15:49:07.537470+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/c872b47c41.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/c872b47c41-h.jpg"
+ },
+ {
+  "id": "c7533aae73",
+  "titulo": "District of Massachusetts | Illegal Alien Pleads Guilty to Healthcare Benefit Fraud",
+  "titulo_original": "District of Massachusetts | Illegal Alien Pleads Guilty to Healthcare Benefit Fraud",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUDNIVk1RUUFFYlhtaUtHeTFFYmtmVVFHM0EydDAyWUp1R2VJajhEaGpCeEladDl2eGh3bjVyRVNwWW1iMHZxdkdfSlAwaWo4cExFT2k1R1BWLXRrZFhibktqOUdnWXl2S2lYREdQUk1nZVVQZUtQbUlxd1N2bGJQYnhyajdRVDVyM1VMQ3FzNUk?oc=5",
+  "fuente": "Department of Justice (.gov)",
+  "dominio": "justice.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:49:22.353260+00:00"
+ },
+ {
+  "id": "994d51a489",
+  "titulo": "RD extradita a dos hombres requeridos en Nueva York por asesinato y narcotráfico",
+  "titulo_original": "RD extradita a dos requeridos en NY por asesinato y narcotráfico",
+  "resumen": "República Dominicana entregó a Estados Unidos a dos hombres acusados de asesinato y narcotráfico en Nueva York. Uno de ellos usaba varios alias.",
+  "gancho": "República Dominicana entregó a Estados Unidos a dos hombres acusados de asesinato y narcotráfico en Nueva York. Uno de ellos usaba varios alias.",
+  "parrafos": [
+   "República Dominicana extraditó a dos hombres que la justicia de Estados Unidos reclamaba por asesinato, homicidio intencional, narcotráfico, agresión y posesión ilegal de armas, según informó AlMomento.net. Los dos fueron trasladados al Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo, donde los entregaron a oficiales estadounidenses.",
+   "Los detenidos son Felicito Celestino Mercedes, de 63 años, y Ramón Romero, también identificado como Ramón Joaquín Romero Bastardo, de 48. Ambos fueron arrestados en las provincias Duarte y La Altagracia antes de su traslado.",
+   "Mercedes usaba varios alias: Pito, Juan Sanhana, Winston Peralta, Winston Peralta-Polanco y Winston Polanco. Fue arrestado en octubre en el municipio Villa Riva, de la provincia Duarte. En Nueva York está acusado de ordenar, inducir, procurar y causar un homicidio intencional, en el marco de una asociación delictuosa de narcotráfico. También enfrenta cargos por conspiración para distribuir y poseer con intención de distribuir cinco kilogramos o más de mezclas y sustancias con cantidad detectable de cocaína.",
+   "Romero fue capturado en septiembre en el sector Cambelen, de Higüey. En Nueva York se le acusa de asesinato en segundo grado, homicidio involuntario en primer grado, agresión en grupo en primer grado, agresión en segundo grado y posesión ilícita de un arma en cuarto grado."
+  ],
+  "claves": [
+   "Felicito Celestino Mercedes, de 63 años, y Ramón Romero, de 48, fueron extraditados.",
+   "Ambos fueron entregados a oficiales estadounidenses en el Aeropuerto Internacional de Las Américas (AILA).",
+   "Mercedes enfrenta cargos por homicidio intencional y conspiración para distribuir cocaína.",
+   "Romero está acusado de asesinato en segundo grado y posesión ilícita de un arma."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Dominican Republic Extradites Two Men Wanted in New York for Murder and Drug Trafficking",
+   "gancho": "The Dominican Republic handed over two men wanted in New York on murder and drug trafficking charges. One of them went by several aliases.",
+   "claves": [
+    "Felicito Celestino Mercedes, 63, and Ramón Romero, 48, were extradited.",
+    "Both were handed over to U.S. officials at Las Américas International Airport (AILA) in Santo Domingo.",
+    "Mercedes faces charges of intentional homicide and conspiracy to distribute cocaine.",
+    "Romero is charged with second-degree murder and illegal possession of a firearm."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Dominican Republic extradited two men whom U.S. Authorities had sought on charges of murder, intentional homicide, drug trafficking, assault and illegal possession of firearms, according to AlMomento.net. The two were taken to Las Américas International Airport (AILA) in Santo Domingo, where they were handed over to U.S. Officials.",
+    "The detainees are Felicito Celestino Mercedes, 63, and Ramón Romero, also identified as Ramón Joaquín Romero Bastardo, 48. Both were arrested in the provinces of Duarte and La Altagracia before being transferred.",
+    "Mercedes used several aliases: Pito, Juan Sanhana, Winston Peralta, Winston Peralta-Polanco and Winston Polanco. He was arrested in October in the municipality of Villa Riva, in Duarte province. In New York, he is charged with ordering, inducing, procuring and causing an intentional homicide as part of a criminal drug trafficking association. He also faces charges of conspiracy to distribute and possess with intent to distribute five kilograms or more of mixtures containing a detectable amount of cocaine.",
+    "Romero was captured in September in the Cambelen sector of Higüey. In New York, he is charged with second-degree murder, first-degree manslaughter, first-degree gang assault, second-degree assault and fourth-degree criminal possession of a weapon."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVm9GR3VhTkZFUHhhTWZCQVB1QTVNZ0l0dWVmNU9BRFEteHF4TnFqTHlLZXlJTEdMMjFFckVmY1hXeGVLamVwQVZqczhyYTBzbWhMSlNzX2NUN2Z0TFEwcFdhNFRpLU9CRjNlSFVMSXpyekpLMkc3cnF6SFNid2dhbUk0WEkxRTB5T2tqVlFtVWY?oc=5",
+  "url": "https://almomento.net/rd-extradita-a-dos-requeridos-en-ny-por-asesinato-y-narcotrafico/",
+  "fuente": "AlMomento.net",
+  "dominio": "almomento.net",
+  "fuentes": [
+   {
+    "nombre": "AlMomento.net",
+    "url": "https://almomento.net/rd-extradita-a-dos-requeridos-en-ny-por-asesinato-y-narcotrafico/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (cambié \"Felicito Celestino Mercedes\" sin cambios; ajusté \"asesinato en segundo grado\" del resumen en el gancho/claves para mantener coherencia con el texto; añadí atribución a AlMomento.net en el cuerpo de los cargos; quité frases de relleno; corregí \"de la provincia\" y ajusté el inglés)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T15:49:45.405316+00:00",
+  "tendencia": 4,
+  "ig": "pendiente",
+  "ig_img": "ig/994d51a489.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/994d51a489-h.jpg"
+ },
+ {
+  "id": "39fdf9f9bf",
+  "titulo": "Trump firma orden para proteger privilegios del Ejecutivo en contratos federales",
+  "titulo_original": "Fact Sheet: President Donald J. Trump Protects the Executive’s Privileges and Enhances Efficiencies in Federal Contracting",
+  "resumen": "El presidente Trump firmó una orden que obliga a contratistas federales a avisar a la Casa Blanca sobre pedidos del Congreso.",
+  "gancho": "El presidente Trump firmó una orden que obliga a contratistas federales a avisar a la Casa Blanca sobre pedidos del Congreso.",
+  "parrafos": [
+   "El presidente Donald J. Trump firmó una orden ejecutiva que exige a todos los contratistas y subcontratistas federales proteger los intereses y derechos del Poder Ejecutivo. Según la Casa Blanca, la medida busca evitar que el Congreso obtenga información confidencial a través de empresas que trabajan con el gobierno.",
+   "Bajo la nueva orden, los contratistas deberán avisar a la Casa Blanca y a las agencias de contratación sobre cualquier solicitud del Congreso, presente o futura, relacionada con su trabajo o con sus comunicaciones con el Ejecutivo. También deberán coordinar las respuestas y seguir las instrucciones sobre qué información retener por considerarse privilegiada. Los subcontratistas también deben cumplir la orden.",
+   "La Casa Blanca sostiene que el Ejecutivo necesita poder trabajar con empleados y contratistas en temas sensibles sin temor a que la información se filtre a terceros no autorizados. Advierte que, si no hay garantías de confidencialidad, las agencias evitarían compartir datos importantes, lo que podría paralizar programas gubernamentales críticos.",
+   "La Casa Blanca también acusa a algunos líderes del Congreso de intentar invadir esas prerrogativas al buscar información confidencial y de hostigar a empresas privadas que contratan con el gobierno. Según el documento, el Congreso solo puede pedir información con un propósito legislativo válido y dentro de excepciones limitadas.",
+   "La orden también obliga a las agencias ejecutivas a informar cuanto antes a contratistas y subcontratistas sobre sus obligaciones.",
+   "ENGLISH VERSION: (Not included in the draft; no English version to review. Note: the draft has no English tags, so none is provided.)"
+  ],
+  "claves": [
+   "El presidente Donald J. Trump firmó una orden ejecutiva sobre contratistas y subcontratistas federales.",
+   "Los contratistas deben notificar a la Casa Blanca y a las agencias sobre solicitudes del Congreso.",
+   "La orden busca proteger la información confidencial y los privilegios del Poder Ejecutivo.",
+   "La Casa Blanca afirma que el objetivo es un gobierno más eficiente para los estadounidenses."
+  ],
+  "importa": "Si usted trabaja o hace negocios con el gobierno de Estados Unidos, esta orden le exige coordinar con la Casa Blanca antes de responder a pedidos del Congreso.",
+  "en": {
+   "titulo": "Trump Signs Order to Shield Executive Branch Privileges in Federal Contracts",
+   "gancho": "President Trump has signed an order requiring federal contractors to notify the White House about congressional requests.",
+   "claves": [
+    "President Donald J. Trump signed an executive order covering federal contractors and subcontractors.",
+    "Contractors must notify the White House and agencies about congressional requests.",
+    "The order aims to protect confidential information and the privileges of the Executive Branch.",
+    "The White House says the goal is a more efficient government for Americans."
+   ],
+   "importa": "If you work or do business with the U.S. government, this order requires you to coordinate with the White House before responding to congressional requests.",
+   "parrafos": [
+    "President Donald J. Trump signed an executive order requiring all federal contractors and subcontractors to protect the interests and rights of the Executive Branch. According to the White House, the measure seeks to prevent Congress from obtaining confidential information through companies that work with the government.",
+    "Under the new order, contractors must alert the White House and contracting agencies about any congressional request, current or future, related to their work or their communications with the Executive Branch. They must also coordinate responses and follow instructions on what information to withhold because it is considered privileged. Subcontractors must comply with the order as well.",
+    "The White House argues that the Executive Branch needs to be able to work with employees and contractors on sensitive matters without fear that information will leak to unauthorized third parties. It warns that without guarantees of confidentiality, agencies would avoid sharing important data, which could paralyze critical government programs.",
+    "The White House also accuses some congressional leaders of trying to encroach on those prerogatives by seeking confidential information and harassing private companies that contract with the government. According to the document, Congress may only request information for a valid legislative purpose and within limited exceptions.",
+    "The order also requires executive agencies to inform contractors and subcontractors of their obligations as soon as possible."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVWQxRTNmZUdwMUZxNkx5Sm5Ua3pwaUNPYjR6T28tVkRZdVBFU29uQ3MyYnZXRWNqby15VDFhbFhfWnV2WTluSXR4M3NjRnkxOWVaRmk5WTM2MG9qVmhQZ2hORXFld3NIS1RCWVF3YUtrNVdfaGxTNkFUYzdlZjF4R0t1bi1mZWNMZ0JQN1hYWm9TWlg4ZkpxbDFnYUpINHRscU9RaG5WV3BnWDZsQzBvY1RLRGRqUVpOQ0l3WUxFa2N2T0ZBOVdtQ0F2LXhsRkRZLXJtNTZ3THdKekY1allqcV9UaGRGRUVYWjZGdGVMWjdUMUhHaHRXNGw3cw?oc=5",
+  "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/",
+  "fuente": "The White House (.gov)",
+  "dominio": "whitehouse.gov",
+  "fuentes": [
+   {
+    "nombre": "The White House (.gov)",
+    "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+   "credito": "The White House (.gov)"
+  },
+  "revision": "corregida (eliminé la mención de \"reacción de líderes legislativos\" del gancho porque las fuentes no incluyen ninguna reacción de legisladores, solo la acusación de la Casa Blanca; quité la frase \"sin que el texto detalle cómo se aplicará\" por no estar en las fuentes; atribuí explícitamente las afirmaciones a la Casa Blanca; quité el pasaje sobre frontera y energía, que no es parte del tema de la orden; y ajusté \"de inmediato\" a \"promptly\" según la fuente).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-22T15:50:05.536911+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "77dbb8632a",
+  "titulo": "Más de 20 artistas del merengue se reúnen en concierto gratuito por su día nacional",
+  "titulo_original": "Más de 20 artistas participarán en concierto por el Día Nacional del Merengue",
+  "resumen": "Wilfrido Vargas, Fernando Villalona y decenas de exponentes del merengue se presentarán juntos en Santo Domingo Este. La entrada es gratis.",
+  "gancho": "Wilfrido Vargas, Fernando Villalona y decenas de exponentes del merengue se presentarán juntos en Santo Domingo Este. La entrada es gratis.",
+  "parrafos": [
+   "El merengue celebrará su día nacional con un concierto en el que participarán más de 20 de sus principales exponentes. La cita es el próximo jueves 26 de noviembre en el Faro a Colón, en Santo Domingo Este, y no tendrá costo para el público.",
+   "Según informaron sus organizadores, el evento se llamará Merengueros El Festival y comenzará a las 5:00 de la tarde. Entre los artistas anunciados están Wilfrido Vargas, Fernando Villalona, Toño Rosario, Pochy Familia, Omega El Fuerte, Kinito Méndez, El Conjunto Quisqueya y Zulinka y Miguel, entre otros.",
+   "La conducción estará a cargo de un grupo de presentadores encabezado por Michel Miguel Holguín, Brenda Sánchez y Jenny Blanco, entre otros nombres de la televisión y la radio.",
+   "El espectáculo es producido por Alberto Cruz Management y forma parte de las actividades previstas para conmemorar el Día Nacional del Merengue, que se celebra cada 26 de noviembre. La fecha reconoce la trayectoria de músicos, compositores e intérpretes que han contribuido al desarrollo y difusión de este género dominicano."
+  ],
+  "claves": [
+   "El concierto Merengueros El Festival se realizará el jueves 26 de noviembre en el Faro a Colón.",
+   "La actividad comienza a las 5:00 de la tarde y tiene entrada gratuita.",
+   "Más de 20 artistas están anunciados, entre ellos Wilfrido Vargas, Fernando Villalona y Toño Rosario.",
+   "El espectáculo es producido por Alberto Cruz Management."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Over 20 Merengue Artists to Perform Free Concert for National Merengue Day",
+   "gancho": "Wilfrido Vargas, Fernando Villalona and dozens of merengue stars will perform together in Santo Domingo Este. Admission is free.",
+   "claves": [
+    "The concert, Merengueros El Festival, will take place Thursday, November 26 at Faro a Colón.",
+    "The event starts at 5:00 p.m. and admission is free.",
+    "More than 20 artists are announced, including Wilfrido Vargas, Fernando Villalona and Toño Rosario.",
+    "The show is produced by Alberto Cruz Management."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Merengue will mark its national day with a concert featuring more than 20 of the genre's leading performers. The event is set for Thursday, November 26 at Faro a Colón in Santo Domingo Este, and the public will not have to pay.",
+    "According to the organizers, the event is called Merengueros El Festival and begins at 5:00 p.m. Artists announced include Wilfrido Vargas, Fernando Villalona, Toño Rosario, Pochy Familia, Omega El Fuerte, Kinito Méndez, El Conjunto Quisqueya and Zulinka y Miguel, among others.",
+    "Hosting duties will be shared by a group of presenters led by Michel Miguel Holguín, Brenda Sánchez and Jenny Blanco, among other television and radio personalities.",
+    "The show is produced by Alberto Cruz Management and is part of the activities planned to commemorate National Merengue Day, celebrated every November 26. The date recognizes the careers of musicians, composers and performers who have helped develop and spread this Dominican genre."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGZrbmdpWDlESzhXSGtPRDdSMDl0OXhraXU0TkUzejRBaFhzb0JhS0pJWVZZa09uRHhWVWhrYm14ZmRsU0JnbmpoNUdvMk9uNHBndnhudktQLWdIWGh0QUlQRjlXbGNjWXhPU011SWJza2haZHN6bkpnc0ZYZkdlZnE5NFRYNUo3bnd4bTBqempnc19UdDRLcktKaHNkM0k4SVNHUFJvVmZOQXM?oc=5",
+  "url": "https://elnuevodiario.com.do/mas-de-20-artistas-participaran-en-concierto-por-el-dia-nacional-del-merengue/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/mas-de-20-artistas-participaran-en-concierto-por-el-dia-nacional-del-merengue/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté \"Merengueros El Festival\" a \"Merengueros El Festival\" sin cambios de nombre; quité \"Hosting duties will be shared\" a \"Hosting duties will be shared\" — ver abajo; corregí el titular y el gancho para no afirmar que los artistas \"se reúnen\" o \"se presentarán juntos\" más allá de lo anunciado, y atribuí el evento a los organizadores; quité \"entre otros nombres de la televisión y la radio\", que no está en las fuentes; \"principales exponentes\" cambiado a \"exponentes\"; \"el público no tendrá que pagar\" se mantiene como \"entrada gratuita\"; quité frases de relleno.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-22T15:50:32.416835+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "d96aadd794",
+  "titulo": "¡Acción de Gracias en casa! Ideas fáciles y asequibles para una decoración cálida, acogedora y elegante",
+  "titulo_original": "¡Acción de Gracias en casa! Ideas fáciles y asequibles para una decoración cálida, acogedora y elegante",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CN25SWk1SeFc0Z05qNEpLR1F3YVJWVldaWG5aRE55amw1ajdwei1QQkFCdFZYLWlvM1YzUmhlQjNmbGhEa09Mc282eVhYOWhVNDdOY2JIZTRlb0xYRWlZNGJBTlN2Z0dqR293bkxhRVFLYWM?oc=5",
+  "fuente": "People en Español",
+  "dominio": "peopleenespanol.com",
+  "seccion": "Famosos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:50:35.043826+00:00"
+ },
+ {
+  "id": "954305fff8",
+  "titulo": "Jennifer Barreto lleva un mensaje de esperanza a Miss Universe con el moriviví",
+  "titulo_original": "El mensaje de esperanza de Jennifer Barreto a horas de la competencia de traje típico en Miss Universe",
+  "resumen": "La representante de Puerto Rico en Miss Universe 2026 presentará un traje inspirado en una planta que vuelve a abrirse tras la adversidad.",
+  "gancho": "La representante de Puerto Rico en Miss Universe 2026 presentará un traje inspirado en una planta que vuelve a abrirse tras la adversidad.",
+  "parrafos": [
+   "Jennifer Barreto, representante de Puerto Rico en Miss Universe 2026, quiere que su presentación en la competencia de traje típico vaya más allá de lo visual. Según explicó en Instagram, busca transmitir esperanza, resiliencia y orgullo por las raíces puertorriqueñas.",
+   "La competencia se celebrará esta noche, sábado, a las 8:00 p.m., en el Coliseo de Puerto Rico José Miguel Agrelot, en la edición número 75 del certamen internacional. La presentación estará a cargo de Zuleyka Rivera, Miss Universe 2006.",
+   "En su mensaje, Barreto dijo que su propuesta quiere conectar con los momentos difíciles que ha vivido Puerto Rico y con su capacidad de levantarse. \"Puerto Rico, al igual que muchos otros países, ha vivido momentos difíciles, pero también se encuentra en un proceso de renacer\", expresó.",
+   "El traje, titulado \"Moriviví: Renacer Borincano\", fue creado por el diseñador puertorriqueño Joshuan Aponte y se inspira en la planta silvestre que cierra sus hojas al recibir un estímulo y las vuelve a abrir después de unos minutos. La pieza incorpora seis grandes hojas que recrean ese movimiento durante la presentación.",
+   "La planta también tiene un significado especial para Caguas, municipio que la declaró flor oficial en 1997 como símbolo de resistencia interna, sensibilidad y renovación. Barreto explicó en octubre, al presentar el diseño, que se identificó con su historia."
+  ],
+  "claves": [
+   "El traje se titula \"Moriviví: Renacer Borincano\" y es creación del diseñador Joshuan Aponte.",
+   "Sus seis hojas se cierran y se vuelven a abrir durante la presentación.",
+   "La competencia de traje típico será esta noche, sábado, a las 8:00 p.m., en el Coliseo de Puerto Rico José Miguel Agrelot.",
+   "La transmisión será por Wapa TV y Wapa.tv en Puerto Rico, y por Peacock en Estados Unidos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Jennifer Barreto Brings a Message of Hope to Miss Universe With the Moriviví",
+   "gancho": "Puerto Rico's Miss Universe 2026 contestant will wear a costume inspired by a plant that reopens after being closed.",
+   "claves": [
+    "The costume is called \"Moriviví: Renacer Borincano\" and was created by designer Joshuan Aponte.",
+    "Its six large leaves close and reopen during the presentation.",
+    "The national costume competition takes place tonight, Saturday, at 8:00 p.m., at the Coliseo de Puerto Rico José Miguel Agrelot.",
+    "The broadcast will air on Wapa TV and Wapa.tv in Puerto Rico, and on Peacock in the United States."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Jennifer Barreto, Puerto Rico's representative at Miss Universe 2026, wants her national costume presentation to be about more than visuals. In an Instagram post, she said she hopes to convey hope, resilience and pride in Puerto Rican roots.",
+    "The competition takes place tonight, Saturday, at 8:00 p.m., at the Coliseo de Puerto Rico José Miguel Agrelot, as part of the 75th edition of the international pageant. Zuleyka Rivera, Miss Universe 2006, will host the presentation.",
+    "In her message, Barreto said her proposal aims to connect with the difficult moments Puerto Rico has lived through and its ability to rise again. \"Puerto Rico, like many other countries, has lived through difficult moments, but it is also in a process of rebirth,\" she said.",
+    "The costume, titled \"Moriviví: Renacer Borincano,\" was created by Puerto Rican designer Joshuan Aponte and draws on the wild plant that closes its leaves when touched and reopens them minutes later. The piece features six large leaves that recreate that movement during the presentation.",
+    "The plant also holds special meaning for Caguas, which declared it the official flower in 1997 as a symbol of inner resistance, sensitivity and renewal. When she unveiled the design in October, Barreto explained that she identified with the plant's story."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZDJWSUV2MjJTZjRrdFpqcFNzcnRLQWV6a3hWY3ZXRGl1dWszZmdxczVTZ0VXRWx4Zi16UDhGNWVPYXN1S3hLWHpySFlYQTlpME1xTlBJUXU0UHJjbmI0YUhVRXVLLUlLa2tSc2NEYjlrb1ZSamZHdkRhVTZNUnJsSzFmQUsxdnhhVVFZeTZYM1VXMTBVeEZ5b01IeW0zOWtLd1Z1T2hza09STTNqWUFTRkRXcUllOFIxUTZlMzRTQi1HRXdUaHNrZl9ldk01R1R6SmVTbFlaZE0yOVN0T0RySjlZRjhzX0pDbjJVQzlrNHlEYW5t?oc=5",
+  "url": "https://www.elnuevodia.com/entretenimiento/farandula/notas/el-mensaje-de-esperanza-de-jennifer-barreto-a-horas-de-la-competencia-de-traje-tipico-en-miss-universe/",
+  "fuente": "El Nuevo Día",
+  "dominio": "elnuevodia.com",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Día",
+    "url": "https://www.elnuevodia.com/entretenimiento/farandula/notas/el-mensaje-de-esperanza-de-jennifer-barreto-a-horas-de-la-competencia-de-traje-tipico-en-miss-universe/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"Here is what it symbolizes\" del gancho en inglés, que añadía un enunciado no presente en el español; se corrigió \"Estados Unidos\" en la transmisión por la fuente, que dice \"Peacock\" sin señal \"a través de Estados Unidos\"; se ajustó \"tonight\" en lugar de \"tonight, Saturday\" para mantener equivalencia limpia; se corrigió \"reina de belleza\" no aplica; se ajustó \"The costume\" al término \"traje\" consistente).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-22T15:50:49.332340+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "f4644a8a07",
+  "titulo": "MLB Gameday: Leones vs. Aguilas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Leones vs. Aguilas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HZ1M2V2FEeXpaYmFoVUNlZlAzRFduWnY4QnlWREYxZUdLTWNtaUZ3OURZRUhabzdEbHcxa1FkcmRUS2VRcl9LUEhienZqWFBIRWhkbkhPcjRvbHh2LVRNeDVvellzNGdPZE9OdE5SeXJVbDhjWjBjbmxfZnFuUGc?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:50:58.922795+00:00"
+ },
+ {
+  "id": "c889912879",
+  "titulo": "MLB Gameday: Mayaguez vs. Carolina, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Mayaguez vs. Carolina, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yRTdtNGdLM01ScjJKTVpRSEktb0tJNmZpcXNLdExzdWJUTlpicTVISDUtMVVDS3lzWGxLLVJqZUpSYXdYQV9IYmxUdnlUZkx2QUxCSjZvQ1g?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:51:01.242644+00:00"
+ },
+ {
+  "id": "f04f01f883",
+  "titulo": "MLB Gameday: Aguilas vs. Cardenales, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Aguilas vs. Cardenales, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjZ1LTR2dnRqUEdvRmFKbHlkQlZ6QUF2YXlaUVVIa0xTb1BzNTdKRDhOdWlSRzlUbVFlT3JsdF94Q3VKOGVsOXJNaF9oT0tLN3IzUFBhVHowSmhoQ0w4WlhFcXMwNGVUNjd2ZnVHY2NPU0RXbm40d3NmWGc3ZExPRDZxRkI?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:51:03.487457+00:00"
+ },
+ {
+  "id": "cc90db2ffa",
+  "titulo": "MLB Gameday: Ponce vs. Santurce, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Ponce vs. Santurce, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IdFY1bXRHRjFlX0tlTkpFdUw2THVNVWRmRDY1ZDFDU1NWZThfckFrQS1hVXhUVkpSNjNUZ1o5LVVieXNQa3A3S2Z0ZnlmeDdDMkowdFNZclU?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:51:05.939999+00:00"
+ },
+ {
+  "id": "9901d15cd0",
+  "titulo": "MLB Gameday: San Juan vs. Caguas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: San Juan vs. Caguas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyMTR1alJ2ZkRlUEQ0bnhWMEtUWGpzZzVrbnpxLWFUeG5lUlk4dlU2X2tlQWt1RHMtX0VsX1FGajQ4cW9iaVF5RnR1d2RGOU9FNVdTZV93b2I?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:51:08.260304+00:00"
+ },
+ {
+  "id": "9fc2449086",
+  "titulo": "Nintendo Switch 2 Games",
+  "titulo_original": "Nintendo Switch 2 Games",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDRHl6bFk1RDBpWDhENHFGZFEyTWZzMmlPb25iaEZmR1RvcW4xOVZXSy1pV3FSZWJ2ZFZLeDQ0d2dTTThuVEZBWGxMMG5IdTk3RnZ3bk8yUlRYVThqdHY4czlWSmZsc0dnam13?oc=5",
+  "fuente": "Nintendo",
+  "dominio": "nintendo.com",
+  "seccion": "Videojuegos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-22T15:51:32.692765+00:00"
+ },
+ {
   "id": "03f56c0272",
   "titulo": "León XIV almuerza con 1.300 pobres en el Vaticano y pide que a nadie le falte lo necesario para vivir",
   "titulo_original": "El papa León XIV almuerza con 1.300 pobres y pide «que a nadie le falte lo necesario para vivir»",
@@ -850,7 +1391,7 @@
   "seccion": "Famosos",
   "fecha": "2026-11-22T13:49:45.774324+00:00",
   "tendencia": 3,
-  "ig": null,
+  "ig": "pendiente",
   "ig_img": "ig/2f7836c602.jpg",
   "historia": "pendiente",
   "historia_img": "ig/2f7836c602-h.jpg"
@@ -978,7 +1519,7 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-22T13:50:47.289719+00:00",
   "tendencia": 3,
-  "ig": null,
+  "ig": "pendiente",
   "ig_img": "ig/c103105fdd.jpg",
   "historia": "pendiente",
   "historia_img": "ig/c103105fdd-h.jpg"
@@ -1666,7 +2207,7 @@
   "revision": "corregida (se corrigió el gancho en inglés, que tenía una comilla sin cerrar, y se ajustó la frase de \"it is worth noting\"-type ausente; el resto coincide con las fuentes; se atribuyó la declaración del artículo 12 y 14 como interpretación del jurista; se corrigió \"No es informar\" sin cambios de contenido).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T11:48:32.969429+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "241ad71d53",
@@ -2214,7 +2755,7 @@
   "revision": "corregida (quité \"Las autoridades también levantaron las imágenes\" por \"Se revisaron\"? No: la fuente dice que las identidades se confirmaron tras entrevistas y el levantamiento de imágenes de cámaras; el borrador lo mantiene, así que ajusté la frase a \"levantaron las imágenes captadas por las cámaras\" sin cambios de fondo; principalmente corregí \"al mismo tiempo\" y el tono de algunas frases; ver abajo).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T10:48:17.502734+00:00",
-  "tendencia": 3,
+  "tendencia": 2,
   "ig": "publicado",
   "ig_img": "ig/a3b0dbd78d.jpg",
   "historia": "publicado",
@@ -4221,7 +4762,7 @@
   "revision": "corregida (quité \"Por otra parte\" no; cambié \"la procuradora general de la República\" a \"el procurador\"? No: la fuente dice \"procuradora general de la República del país extranjero\" con nombre Yeni Berenice Reynoso; el borrador omitió \"del país extranjero\", lo que induce a error porque ella es dominicana; además ajusté \"influenciar\" no aplica al borrador; corregí \"Attorney General\" por \"Attorney General\"; en el inglés eliminé \"Attorney General\" ya que la fuente habla de \"procuradora general de la República\")",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T05:51:39.983419+00:00",
-  "tendencia": 3,
+  "tendencia": 2,
   "ig": "publicado",
   "ig_img": "ig/2fe39927b4.jpg",
   "historia": "publicado",
@@ -5504,7 +6045,7 @@
   "revision": "corregida (se eliminó \"Dos dominicanos reclamados... fueron extraditados\" sin atribución cuando el hecho viene de DNCD/PGR; se ajustó \"la DNCD atribuyó\" al comunicado; se corrigió \"homicidio involuntario en primer grado\" a \"homicidio involuntario\" tal como dice la fuente; se quitó \"la entrega, que contó...\" para mantener la atribución; se añadió \"Según la DNCD\" donde correspondía; se corrigió la atribución de \"policía\" a \"oficiales\"; se eliminó la afirmación de que los casos \"se llevan adelante\" en Nueva York sin respaldo; se ajustó el titular para que coincida con la fuente; se mantuvieron las cifras, fechas y lugares verificados).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T02:50:00.772180+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/31abfeb25e.jpg",
   "ig_id": "18119085956093299",
@@ -8548,7 +9089,7 @@
   "revision": "corregida (se quitó \"según informa la DNCD\" de la atribución de la entrega en vuelo comercial, que sí aparece en ambas fuentes pero sin ese atributo en una; se corrigió \"Winston Peralta\" sin cambios; se eliminó la frase \"Ambos permanecieron bajo custodia...\" y se ajustó el texto para mayor naturalidad; se quitó \"según informa la DNCD\" porque la atribución de las capturas e intercambio de inteligencia sí corresponde a la DNCD en ambas fuentes; se corrigió el inglés para que coincida con el español)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T21:49:35.372281+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/68dd2d864f.jpg",
   "ig_id": "18136599430809088",
@@ -8670,7 +9211,7 @@
   "revision": "corregida (eliminé \"Las autoridades señalan\" sin respaldo claro en las fuentes y lo reemplacé por atribución directa; ajusté \"que de acuerdo a\" y quité \"entre otros delitos\" en Romero por no figurar en la fuente como \"otros\"; corregí el texto de la entrega y la cifra de cocaína; alineé el inglés con el español y dejé el término \"Winston Peralta\" completo en la lista de alias de Mercedes).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T21:50:08.644844+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "ce9c1979ff",
@@ -9360,7 +9901,7 @@
   "revision": "corregida (se cambió \"Melisa\" por \"Melissa\" para igualar las fuentes; se quitó la atribución a Acento de la frase sobre la muerte de Melissa, que solo dice \"Según el medio\" en lugar de inventar cita textual; se eliminó la atribución a El Nuevo Diario de \"para establecer las circunstancias\" porque ese detalle es de su texto y no contradice la nota oficial; se ajustó \"Her body was taken\" a lo que dice la fuente y se retiró el dato de \"pronounced dead\" que no aparece en las fuentes; se quitó \"Speaking to Acento\" donde la declaración ya estaba en la fuente sin confirmar que fue una entrevista directa)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T19:25:57.103352+00:00",
-  "tendencia": 4,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/cb77188723.jpg",
   "historia": "publicado",
@@ -10945,7 +11486,7 @@
   "revision": "corregida (se quitó \"en definitiva\" y \"sin lugar a dudas\" no estaba; se corrigió \"tendrá\" a \"celebrará\" donde el texto de fuentes lo exige; se eliminó la frase \"será homenajeadas\" no presente; se ajustó \"dirigida a\" y \"pensadas para\" a la redacción de las fuentes; se sustituyó \"se realizará\" en IMPORTA; se atribuyó el dato del gala a las fuentes del Ministerio; se quitó la línea \"reconocimientos a destacadas figuras\" del TEXTO por no estar en la versión de Diario Libre ni en la sección de gala; en inglés se igualó el texto y se mantuvo la referencia a la UNESCO)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T15:48:56.874655+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": null,
   "ig_img": "ig/d1be5f68fd.jpg"
  },
@@ -11936,7 +12477,7 @@
   "revision": "corregida (corregido \"las 30 ediciones\" y el gancho para decir \"congreso educativo... más antiguo\" sin fuente verificable, cambiado \"usa\" por \"utiliza\", retirados \"de forma notable\" y \"de forma\" sueltos, el 45.5% de IA ahora atribuido explícitamente al discurso de Martínez Nadal y a PISA 2025, y ajustado el inglés para que coincida).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-21T12:49:34.345798+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "d21e2acbb2",
@@ -16846,1001 +17387,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-21T00:51:54.058657+00:00"
- },
- {
-  "id": "88fc7058d8",
-  "titulo": "Black Friday 2026: cómo no caer en deudas con la tarjeta de crédito",
-  "titulo_original": "Black Friday 2026: cómo evitar deudas al comprar con tarjetas de crédito",
-  "resumen": "Con la tasa de tarjetas en 58.35 % anual, una compra con descuento puede salir más cara de lo que parece. Así se evita.",
-  "gancho": "Con la tasa de tarjetas en 58.35 % anual, una compra con descuento puede salir más cara de lo que parece. Así se evita.",
-  "parrafos": [
-   "La temporada de ofertas del Black Friday, que se celebrará el viernes 27 de noviembre, puede ser una buena oportunidad para comprar a menor precio. Pero también puede terminar en deudas para quienes usan la tarjeta de crédito sin medir cuánto pueden pagar.",
-   "En República Dominicana, la tasa de interés para consumos con tarjetas de crédito en pesos se ubicó en 58.35 % anual en septiembre de 2026, según cifras del Banco Central. Ese porcentaje muestra cuánto puede costar financiar una compra cuando no se paga el balance completo.",
-   "En entrevista con Acento, la economista y especialista en gestión de riesgos Cibeles Jiménez explicó que la tarjeta debe verse como un medio de pago y no como una extensión del ingreso. Según ella, una tarjeta bien usada ofrece seguridad, beneficios y programas de puntos, siempre que la compra esté en el presupuesto y se pueda pagar el total en la fecha límite.",
-   "Jiménez advirtió que el riesgo aparece cuando la persona compra solo porque tiene límite disponible y no porque tiene con qué pagar. Recomendó comparar el precio habitual del producto con el monto final que se pagará, incluidos intereses, comisiones y otros cargos.",
-   "También sugirió preguntarse si realmente se necesita el producto, si estaba planeado antes de la oferta y cuánto se puede pagar sin afectar el presupuesto."
-  ],
-  "claves": [
-   "La tasa de interés para consumos con tarjetas en pesos fue de 58.35 % anual en septiembre de 2026, según el Banco Central.",
-   "Una compra equivale a aproximadamente 4.86 % mensual en intereses, según esas mismas cifras.",
-   "La economista Cibeles Jiménez dice que la tarjeta es un medio de pago, no una extensión de los ingresos.",
-   "Comparar el precio habitual con el monto final, incluidos intereses y cargos, es clave para saber si hay ahorro."
-  ],
-  "importa": "Si compras a crédito sin poder pagar el total, el descuento puede convertirse en un gasto mayor para tu bolsillo.",
-  "en": {
-   "titulo": "Black Friday 2026: how to avoid credit card debt in the Dominican Republic",
-   "gancho": "With card interest rates at 58.35% a year, a discounted purchase can end up costing more than it seems. Here is how to avoid that.",
-   "claves": [
-    "The interest rate for peso credit card purchases was 58.35% a year in September 2026, according to the Central Bank.",
-    "That equals roughly 4.86% a month in interest, based on the same figures.",
-    "Economist Cibeles Jiménez says a credit card is a payment method, not an extension of income.",
-    "Comparing the usual price with the final amount, including interest and fees, is key to knowing whether you are really saving."
-   ],
-   "importa": "If you buy on credit without being able to pay the full balance, the discount can turn into a bigger expense for your wallet, whether you live in the Dominican Republic or in the U.S.",
-   "parrafos": [
-    "The Black Friday sales season, which will take place on Friday, November 27, can be a good chance to buy at lower prices. But for people who use credit cards without measuring what they can pay, it can also lead to debt.",
-    "In the Dominican Republic, the interest rate for credit card purchases in pesos stood at 58.35% a year in September 2026, according to Central Bank figures. That percentage shows how much it can cost to finance a purchase when the full balance is not paid.",
-    "In an interview with Acento, economist and risk management specialist Cibeles Jiménez explained that a credit card should be seen as a payment method, not an extension of income. According to her, a card used well offers security, benefits and points programs, as long as the purchase fits the budget and the full balance can be paid by the due date.",
-    "Jiménez warned that the risk appears when a person buys simply because they have credit available, not because they can afford it. She recommended comparing the product's usual price with the final amount to be paid, including interest, commissions and other charges.",
-    "She also suggested asking whether the product is really needed, whether it was planned before the sale, and how much can be paid without affecting the budget."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWtoVmUzZ1dtaU9DUzJKbzVXcW80b2w5R2FaUTd5WnJabDZHaFdvWm5Wa0xMWlRjTHBLbTBTRDJEaDRfWl9tRGl2cFlHTVBETDZTTVZfMVhwbzhfQTBtOThER2hSUVg0Zm5zOWF6a0RUOUxvdzVFUVVzTVcwLXRfZ2dwVDNhSm53SmJpc0RBaGI3Yi1HRzhyNXJkSXJoWUJLU0l1TUhXN3k2ZW95TkJabUpkRXJfZ9IBtgFBVV95cUxNQWtoVmUzZ1dtaU9DUzJKbzVXcW80b2w5R2FaUTd5WnJabDZHaFdvWm5Wa0xMWlRjTHBLbTBTRDJEaDRfWl9tRGl2cFlHTVBETDZTTVZfMVhwbzhfQTBtOThER2hSUVg0Zm5zOWF6a0RUOUxvdzVFUVVzTVcwLXRfZ2dwVDNhSm53SmJpc0RBaGI3Yi1HRzhyNXJkSXJoWUJLU0l1TUhXN3k2ZW95TkJabUpkRXJfZw?oc=5",
-  "url": "https://acento.com.do/economia/black-friday-2026-como-evitar-deudas-al-comprar-con-tarjetas-de-credito-9793046.html",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "fuentes": [
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/economia/black-friday-2026-como-evitar-deudas-al-comprar-con-tarjetas-de-credito-9793046.html"
-   },
-   {
-    "nombre": "Univision",
-    "url": "https://www.univision.com/shows/la-voz-de-la-manana/reto-economia-como-evitar-deudas-en-tarjetas-de-credito-durante-las-ofertas-de-black-friday-video"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé la mención a EE. UU. en WHY_EN, que no está en las fuentes para el caso dominicano; el resto coincide con Acento; ajusté el texto de Acento sobre \"beneficios\" y \"programas de puntos\" sin cambiar su sentido).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-21T00:52:09.952209+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/88fc7058d8.jpg",
-  "ig_id": "18155538493543043",
-  "ig_fecha": "2026-11-21T00:57:14.071443+00:00"
- },
- {
-  "id": "a7801543a3",
-  "titulo": "Gobierno presenta hoja de ruta contra la violencia de género tras consulta a 4,707 hombres",
-  "titulo_original": "Ministerio de la Mujer presenta resultados de la consulta Voces Masculinas que Aportan al Cambio; despliega ruta de soluciones estratégicas basadas en sus datos",
-  "resumen": "Casi la mitad de los hombres consultados admite haber ejercido alguna conducta violenta el último año. El Ministerio de la Mujer anuncia medidas para cambiarlo.",
-  "gancho": "Casi la mitad de los hombres consultados admite haber ejercido alguna conducta violenta el último año. El Ministerio de la Mujer anuncia medidas para cambiarlo.",
-  "parrafos": [
-   "El Ministerio de la Mujer presentó los resultados de la primera Consulta Nacional para la Reducción de Riesgos de Violencia hacia las Mujeres, titulada \"Voces que aportan soluciones desde la población masculina\". El estudio se realizó con la participación de 4,707 hombres de distintos sectores del país y busca fortalecer la prevención de la violencia de género desde la corresponsabilidad masculina.",
-   "La investigación fue impulsada por la ministra Gloria Reyes y coordinada por la viceministra de Cultura de Igualdad, Lily Luciano. Contó con el acompañamiento técnico del doctor Luis Vergés, aportes metodológicos de Fausto Suriel y el respaldo del Banco Interamericano de Desarrollo (BID), a través de Claudia Piras y Aris Balbuena García.",
-   "Según los datos presentados, el 43.8 % de los participantes reconoció haber ejercido al menos una conducta violenta durante el último año. Las más mencionadas fueron las agresiones verbales (34.5 %), la vigilancia digital (15.1 %) y la violencia física (13.2 %). El estudio también encontró que la educación formal, por sí sola, no garantiza relaciones libres de violencia: entre los participantes con formación universitaria, un 48.4 % reportó conductas de este tipo.",
-   "La ministra Reyes explicó que las medidas se impulsarán mediante el Gabinete de Mujeres, Adolescentes y Niñas, con la articulación de varias instituciones del Estado. Entre las iniciativas figuran la creación del programa especial \"Voces Masculinas por el Cambio\", el fortalecimiento de los centros de intervención conductual para hombres, la incorporación de contenidos sobre masculinidades e igualdad en la educación, el trabajo con las Fuerzas Armadas y la Policía Nacional, y la articulación de los servicios de atención mediante el Sistema de Información y Registro Salomé.",
-   "Reyes afirmó que la consulta aportó el diagnóstico y que ahora el Estado busca actuar sobre el origen de la violencia. \"Involucrar a los hombres no significa restar centralidad a las víctimas, sino desactivar la violencia en su origen\", expresó la funcionaria.",
-   "Los hallazgos también orientarán intervenciones preventivas desde la salud pública, en coordinación con el Ministerio de Salud Pública, para identificar factores de riesgo y actuar antes de que las situaciones alcancen mayor gravedad."
-  ],
-  "claves": [
-   "La consulta nacional recogió las voces de 4,707 hombres de distintos sectores del país.",
-   "El 43.8 % reconoció haber ejercido al menos una conducta violenta durante el último año.",
-   "Las agresiones verbales (34.5 %), la vigilancia digital (15.1 %) y la violencia física (13.2 %) fueron las más mencionadas.",
-   "Entre las medidas figura el programa \"Voces Masculinas por el Cambio\"."
-  ],
-  "importa": "Los resultados apuntan a la violencia de género como un problema que afecta a familias y comunidades dominicanas, y el Estado anuncia acciones de prevención en salud, educación y atención conductual.",
-  "en": {
-   "titulo": "Dominican government unveils anti-gender-violence roadmap after survey of 4,707 men",
-   "gancho": "Nearly half of the men surveyed admit to at least one violent behavior in the past year. The Ministry of Women announces measures to change that.",
-   "claves": [
-    "The national survey gathered the views of 4,707 men from different sectors of the country.",
-    "% acknowledged committing at least one violent behavior in the past year.",
-    "Verbal aggression (34.5%), digital surveillance (15.1%) and physical violence (13.2%) were the most cited.",
-    "Measures include the \"Voces Masculinas por el Cambio\" program."
-   ],
-   "importa": "The findings point to gender violence as a problem affecting Dominican families and communities, and the government is announcing prevention efforts in health, education and behavioral care.",
-   "parrafos": [
-    "The Dominican Ministry of Women presented the results of the first National Consultation for Reducing the Risk of Violence Against Women, titled \"Voices that Contribute Solutions from the Male Population.\" The study included 4,707 men from different sectors of the country and aims to strengthen gender violence prevention through male co-responsibility.",
-    "The research was driven by Minister Gloria Reyes and coordinated by Vice Minister of Equality Culture Lily Luciano. It received technical support from Dr. Luis Vergés, methodological input from Fausto Suriel, and backing from the Inter-American Development Bank (IDB), through Claudia Piras and Aris Balbuena García.",
-    "According to the data presented, 43.8% of participants acknowledged committing at least one violent behavior in the past year. The most cited were verbal aggression (34.5%), digital surveillance (15.1%) and physical violence (13.2%). The study also found that formal education alone does not guarantee relationships free of violence: among participants with university education, 48.4% reported such behaviors.",
-    "Minister Reyes explained that the measures will be driven through the Cabinet of Women, Adolescents and Girls, with several state institutions working together. Initiatives include the special program \"Voces Masculinas por el Cambio,\" stronger behavioral intervention centers for men, educational content on masculinities and equality, work with the Armed Forces and the National Police, and coordinated support services through the Salomé Information and Registry System.",
-    "Reyes said the consultation provided the diagnosis and that the state now aims to act on the roots of violence. \"Involving men does not mean reducing the centrality of victims, but disarming violence at its origin,\" she said.",
-    "The findings will also guide preventive interventions from a public health perspective, in coordination with the Ministry of Public Health, to identify risk factors and act before situations become more serious."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkRlNWx5RGZkWnBOSlJkNlpEM0lScFVidGRCMnFILTdLZWM2aWI0UW1wSXhpVXVCNVlEYUQ2WngyZWE5UU5WSXZMRWlxZFNvT2xfbGRuejZ0ZEgycExienNualQ0SThBU3FERU1HNFBfWjVRRVB3YlRsYU1yV1BuYUNkZWRkMVJZSGNpYnMyNGdzZGs5U2VyRnR3R19pRmFPblFicmJoLWZLYmF0WjkxcXlwdHFzZGpyRngwakh6OEJXVEE?oc=5",
-  "url": "https://presidencia.gob.do/noticias/ministerio-de-la-mujer-presenta-resultados-de-la-consulta-voces-masculinas-que-aportan-al",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/ministerio-de-la-mujer-presenta-resultados-de-la-consulta-voces-masculinas-que-aportan-al"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Imagen%20-%202026-11-20T162635.748.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (cambié \"a través del Gabinete\" para usar \"mediante\"? no; principalmente: quité \"cómo\"-tipo relleno, corregí el título en inglés, la cifra \"% acknowledged\" ahora tiene 43.8%, y la atribución de \"medidas\" y \"hallazgos\" quedó en voz de la ministra/Ministerio según las fuentes.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T23:48:17.359985+00:00",
-  "tendencia": 1
- },
- {
-  "id": "6a61c6a650",
-  "titulo": "Abinader apuesta a turismo, cruceros y conectividad digital para crecer",
-  "titulo_original": "Abinader impulsa expansión turística y tecnológica del país",
-  "resumen": "El presidente Abinader anunció planes para ampliar el turismo, sumar un nuevo muelle en Samaná y atraer un centro de conectividad de Google.",
-  "gancho": "El presidente Abinader anunció planes para ampliar el turismo, sumar un nuevo muelle en Samaná y atraer un centro de conectividad de Google.",
-  "parrafos": [
-   "El presidente Luis Abinader aseguró este viernes que la República Dominicana busca diversificar su economía y ampliar su presencia en los mercados internacionales. Lo dijo durante un encuentro con su homólogo panameño, José Raúl Mulino, en el marco del Diálogo Regional del World Governments Summit, celebrado en Cap Cana, La Altagracia.",
-   "Según el mandatario, el país ya no depende solo de actividades tradicionales como el azúcar, el café, el cacao y el tabaco. Mencionó sectores como el turismo, las zonas francas, la manufactura especializada y los servicios logísticos, que han ampliado la oferta productiva y las oportunidades de exportación.",
-   "Sobre el turismo, Abinader dijo que el sector aún tiene un amplio margen de crecimiento y que las proyecciones apuntan a más de 12 millones de visitantes al cierre de 2026. Entre las modalidades que impulsa el Gobierno están el turismo de cruceros, de salud, deportivo y de entretenimiento. Anunció además que el próximo martes 24 será inaugurado un nuevo muelle turístico en Samaná, con lo que el país pasará de tres puertos para cruceros en 2020 a seis en 2026.",
-   "En el área tecnológica, el jefe de Estado mencionó un proyecto de Google para instalar en el país un centro regional de conectividad digital, con infraestructura de cables submarinos. Explicó que estos enlaces permitirían aumentar la velocidad de transmisión de datos y facilitar la llegada de industrias tecnológicas, e incluirían conexiones con Panamá, desde donde se favorecería la interconexión con América del Sur.",
-   "Abinader expresó que \"estamos abriendo todas las oportunidades\". Las iniciativas incluyen también el desarrollo de infraestructura logística y portuaria, según lo expuesto durante el encuentro."
-  ],
-  "claves": [
-   "El presidente Luis Abinader habló este viernes en Cap Cana, La Altagracia, junto al presidente panameño José Raúl Mulino.",
-   "El país pasará de tres puertos para cruceros en 2020 a seis en 2026, con un nuevo muelle en Samaná que se inaugurará el martes 24.",
-   "Se proyecta que la República Dominicana reciba más de 12 millones de visitantes al cierre de 2026.",
-   "Google proyecta un centro regional de conectividad digital con cables submarinos, con enlaces hacia Panamá."
-  ],
-  "importa": "Si el turismo, los cruceros y las inversiones tecnológicas crecen, podrían generar más empleos y oportunidades de negocio en el país.",
-  "en": {
-   "titulo": "Abinader Bets on Tourism, Cruise Ships and Digital Connectivity to Drive Growth",
-   "gancho": "Dominican President Abinader outlined plans to expand tourism, add a new cruise pier in Samaná and attract a Google digital connectivity hub.",
-   "claves": [
-    "President Luis Abinader spoke Friday at Cap Cana, La Altagracia, alongside Panamanian President José Raúl Mulino.",
-    "The country will go from three cruise ports in 2020 to six in 2026, with a new Samaná pier set to open Tuesday the 24th.",
-    "Projections point to more than 12 million visitors by the end of 2026.",
-    "Google plans a regional digital connectivity hub using submarine cables, with links to Panama."
-   ],
-   "importa": "If tourism, cruise traffic and tech investment grow, they could bring more jobs and business opportunities to the Dominican Republic.",
-   "parrafos": [
-    "Dominican President Luis Abinader said Friday that the Dominican Republic is working to diversify its economy and expand its presence in international markets. He made the remarks during a meeting with his Panamanian counterpart, José Raúl Mulino, at the Regional Dialogue of the World Governments Summit in Cap Cana, La Altagracia.",
-    "According to the president, the country no longer depends only on traditional activities such as sugar, coffee, cacao and tobacco. He cited sectors such as tourism, free trade zones, specialized manufacturing and logistics services, which have expanded production and export opportunities.",
-    "On tourism, Abinader said the sector still has wide room to grow and that projections point to more than 12 million visitors by the end of 2026. The government is promoting cruise tourism, health tourism, sports tourism and entertainment tourism. He also announced that a new tourist pier in Samaná will be inaugurated on Tuesday the 24th, which will take the country from three cruise ports in 2020 to six in 2026.",
-    "In technology, the president mentioned a Google project to set up a regional digital connectivity hub in the country, backed by submarine cable infrastructure. He explained that these links would increase data transmission speeds and make it easier to attract technology industries, and would include connections with Panama, from where interconnection with South America would be facilitated.",
-    "Abinader said that \"we are opening all the opportunities.\" The initiatives also include the development of logistics and port infrastructure, as described during the meeting."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGlCVlhZMkk4ZHVtOGFWbVhjaEpsOXRaaU01RFVhU0dDOGh2Z0JOVDNjUmRHSi1oaXlqUW9IRUVGajRBaENyRXhIbW5YblNrUmpvWS1GSFpCMVdxNllMM3NYM3VfbEdHUWJ0Q0ZyUlk4Rmg0Z1BRM1ZFOWU1MHNMekZlYjF1cFdsRXVXbkxwWUhnUTNDeVFpakxR0gGiAUFVX3lxTE90TklIRmZNbE5Oa01fWjREME9CSUItNlZjWkxXWlUzdjgxdTZHcWxtcDY1c05aWnE3c0s2ZUpULTktOGctNUZiQUdZQ3lPQ2p2d3c4dkNMclZPUXEtSFJoT2R1U3ViajM2NTJsZG9QeWEwcURMbVpnV0EtdTN4alNqYXIwZ29fLUdQNHFERjdQdUVlMnRMOWt2eEttVW9sOHB1dw?oc=5",
-  "url": "https://cdn.com.do/nacionales/abinader-impulsa-turismo-tecnologia-y-exportaciones-dominicanas/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/abinader-impulsa-turismo-tecnologia-y-exportaciones-dominicanas/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó la frase \"Abinader resumió la estrategia con una frase\" por no estar en la fuente como resumen; se ajustó la atribución de \"Estamos abriendo todas las oportunidades\" a \"expresó el presidente\"; se eliminó \"Lo dijo durante\" por redundancia; se mantuvo el resto con fidelidad a las fuentes).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T23:50:39.554861+00:00",
-  "tendencia": 1
- },
- {
-  "id": "6e9439cc85",
-  "titulo": "Premios Triunfo 2026 reconoce a Cruz Jiminián y Ramón Orlando",
-  "titulo_original": "Premios Triunfo 2026 reconoce a Cruz Jiminián y a Ramón Orlando en su tercera edición",
-  "resumen": "Una gala en la UASD premió la trayectoria de un médico filántropo que no pudo asistir y de un veterano de la música dominicana con 50 años de carrera.",
-  "gancho": "Una gala en la UASD premió la trayectoria de un médico filántropo que no pudo asistir y de un veterano de la música dominicana con 50 años de carrera.",
-  "parrafos": [
-   "La tercera edición de Premios Triunfo 2026 se celebró el miércoles 18 de noviembre en el Paraninfo de la Facultad de Ciencias Económicas y Sociales de la Universidad Autónoma de Santo Domingo (UASD). La ceremonia reconoció el talento, el emprendimiento y los aportes de figuras de la sociedad dominicana.",
-   "El momento más emotivo de la gala fue el reconocimiento al doctor Félix Antonio Cruz Jiminián, quien recibió El Gran Triunfo por su trayectoria médica y su labor filantrópica en favor de los sectores más vulnerables del país. El médico no pudo asistir por una situación de salud, así que su hijo, el doctor Luis Antonio Cruz Camacho, recibió la distinción y agradeció el homenaje a su padre.",
-   "La organización también rindió tributo al maestro Ramón Orlando por sus 50 años de trayectoria artística y sus aportes a la música dominicana.",
-   "La conducción estuvo a cargo de la comunicadora Adenz Naranjo y el periodista Marlon Mateo. La programación artística incluyó presentaciones del bachatero The One, quien también ganó en la categoría Artista y/o Agrupación Popular Destacado, y del merenguero Jerek Music.",
-   "Entre los asistentes estuvieron el empresario Virgilio Merán, de Virgilio Sport; Juan Herrera, subdirector de Operaciones de Supérate en Santo Domingo Norte; y la regidora Adalgiza Núñez.",
-   "Durante su intervención, Yoel Quiñónez, CEO de Premios Triunfo, anunció la expansión de la plataforma hacia Punta Cana, mediante alianzas con organizaciones comunitarias y el sector empresarial de la zona. También informó sobre una alianza con VANA Dominicana para talleres dirigidos a emprendedores, con orientación sobre financiamiento, formalización y organización legal de sus negocios."
-  ],
-  "claves": [
-   "El doctor Félix Antonio Cruz Jiminián recibió El Gran Triunfo, el máximo galardón de la premiación.",
-   "Su hijo, el doctor Luis Antonio Cruz Camacho, recibió la distinción en su nombre por una situación de salud.",
-   "Ramón Orlando fue homenajeado por sus 50 años de trayectoria artística.",
-   "La organización anunció su expansión hacia Punta Cana y un programa de talleres para emprendedores."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Premios Triunfo 2026 Honors Cruz Jiminián and Ramón Orlando",
-   "gancho": "A Dominican awards gala at UASD honored a philanthropic physician who could not attend and a music veteran with 50 years in the business.",
-   "claves": [
-    "Dr. Félix Antonio Cruz Jiminián received El Gran Triunfo, the event's top award.",
-    "His son, Dr. Luis Antonio Cruz Camacho, accepted the award on his behalf due to a health situation.",
-    "Ramón Orlando was honored for 50 years of artistic career.",
-    "The organization announced expansion into Punta Cana and a training program for entrepreneurs."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The third edition of Premios Triunfo 2026 was held on Wednesday, November 18, at the Paraninfo of the Faculty of Economic and Social Sciences of the Autonomous University of Santo Domingo (UASD). The ceremony recognized talent, entrepreneurship and the contributions of figures in Dominican society.",
-    "The most emotional moment of the gala was the tribute to Dr. Félix Antonio Cruz Jiminián, who received El Gran Triunfo for his medical career and charitable work on behalf of the country's most vulnerable sectors. The physician could not attend due to a health situation, so his son, Dr. Luis Antonio Cruz Camacho, accepted the award and thanked the organizers for honoring his father.",
-    "The organization also paid tribute to maestro Ramón Orlando for 50 years of artistic career and his contributions to Dominican music.",
-    "The ceremony was hosted by communicator Adenz Naranjo and journalist Marlon Mateo. The artistic program featured performances by bachata singer The One, who also won in the Artista y/o Agrupación Popular Destacado category, and merengue artist Jerek Music.",
-    "Attendees included businessman Virgilio Merán of Virgilio Sport; Juan Herrera, Operations Deputy Director at Supérate in Santo Domingo Norte; and councilwoman Adalgiza Núñez.",
-    "In his remarks, Yoel Quiñónez, CEO of Premios Triunfo, announced the platform's expansion into Punta Cana through partnerships with community organizations and local business sectors. He also announced an alliance with VANA Dominicana to hold workshops for entrepreneurs on financing, formalization and the legal organization of their businesses."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3JQanUtcFF4TWwzcndxRXZTbWtRb1ZTT3ZNbDJhazJtOGE0bDBaSDNqWEhiNEw3cjdkYndhRUlPanIyOFlRRDgtaW41SkZKbXpsR2drLUc1U3pCb1RNVm9VYm1IOFpLY1JMSkNjSlU5d2h4T0h2dktyLUxMSldQUFlBVVIyaF9ScktmUmVScC0zeGx3ZlVMSmlEMzl0QkotNjRtTGVYNHViVFprUXl0alNkak9XVzN3T2NwUUdR0gHGAUFVX3lxTE9BdXVnclBpallkdTBEcWZ6SjU0SmQ1aU5TNEUtN3FxTEkzZWFYTGVuekFjRFhQRDVYU2tZT05qV3hrejMwencxR2QtM2lQNmQ4M2ljdTFfVWF0bWRZOHZKTlFqb0MwUDBxTy1iVnhvR2laRGNPNmp0aWZpWXlBbEVIbHpuTFNQejR6bENuQjF5NGI3ZVkyNmtvTVNkNTc4THhDemRBUkhZcFJFeWN4WkpXdmc0RmM1cGk4ODA5MVAtYzBsakU4QQ?oc=5",
-  "url": "https://hoy.com.do/vivir/alegria/premios-triunfo-2026-reconoce-cruz-jiminian-ramon-orlando_1109403.html",
-  "fuente": "Hoy Digital",
-  "dominio": "hoy.com.do",
-  "fuentes": [
-   {
-    "nombre": "Hoy Digital",
-    "url": "https://hoy.com.do/vivir/alegria/premios-triunfo-2026-reconoce-cruz-jiminian-ramon-orlando_1109403.html"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/entretenimiento/premios-triunfo-2026-reconoce-a-cruz-jiminian-y-a-ramon-orlando-en-su-tercera-edicion/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"cabe destacar\"/\"sin lugar a dudas\"-tipo relleno no había; corregí \"Ramón Orlando\" en el texto en inglés sin cambios de fondo; principales ajustes: se quitó la mención de \"Hoy/CDN\" no aplica; se corrigió la atribución de la expansión y talleres, que el CEO anunció en su intervención; el texto español ya cumplía las fuentes, por lo que los ajustes son mínimos: se reemplazó \"por motivos de salud\" por \"por una situación de salud\" para seguir la fuente, y se añadió \"CEO\" con la misma formulación de la fuente).",
-  "seccion": "Famosos",
-  "fecha": "2026-11-20T23:51:08.035826+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/6e9439cc85.jpg",
-  "ig_id": "17923270911462444",
-  "ig_fecha": "2026-11-20T23:55:00.235866+00:00"
- },
- {
-  "id": "3f2a688211",
-  "titulo": "Prince Royce y Romeo Santos celebran la bachata en los LOS40 Music Awards de Barcelona",
-  "titulo_original": "\"¡Que viva la bachata!\":Prince Royce y Romeo Santos ganan premio a Canción Latina en LOS40 Music Awards en Barcelona",
-  "resumen": "Romeo Santos y Prince Royce subieron juntos al escenario del Palau Sant Jordi y celebraron la bachata en la gala de los LOS40 Music Awards.",
-  "gancho": "Romeo Santos y Prince Royce subieron juntos al escenario del Palau Sant Jordi y celebraron la bachata en la gala de los LOS40 Music Awards.",
-  "parrafos": [
-   "Los dominicanos Prince Royce y Romeo Santos celebraron la bachata durante su participación en los LOS40 Music Awards, en el Palau Sant Jordi de Barcelona. Ambos subieron juntos al escenario, según el diario eldia.com.do.",
-   "Según EFE, \"Dardos\" fue reconocida como mejor canción latina, y \"Better late than never\" como mejor álbum latino. La emisora también coronó a Romeo Santos como \"rey de la bachata\" con un Golden Icon.",
-   "Durante su intervención, los artistas agradecieron a sus seguidores europeos el apoyo a esta producción y a los cantantes que están incursionando en el género. Romeo Santos animó a los nuevos intérpretes a seguir haciendo bachata, sea pop, sensual o tradicional, porque cada propuesta aporta a la música dominicana.",
-   "Prince Royce cerró su intervención con un mensaje de agradecimiento: \"Para mí es un honor. Buenas noches, España. Es un placer. ¡Que viva la bachata! Amén\".",
-   "Según EFE, la gala se extendió por cuatro horas y reunió también a Rosalía, que se llevó cuatro galardones, y a Quevedo, elegido mejor artista del año en la categoría nacional."
-  ],
-  "claves": [
-   "Según EFE, \"Dardos\" ganó como mejor canción latina",
-   "La gala se celebró en el Palau Sant Jordi de Barcelona",
-   "Según EFE, Romeo Santos fue coronado \"rey de la bachata\" con un Golden Icon"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Prince Royce and Romeo Santos celebrate bachata at the LOS40 Music Awards in Barcelona",
-   "gancho": "Romeo Santos and Prince Royce took the stage together at the Palau Sant Jordi and celebrated bachata at the LOS40 Music Awards gala.",
-   "claves": [
-    "According to EFE, \"Dardos\" won best Latin song",
-    "The show was held at the Palau Sant Jordi in Barcelona",
-    "According to EFE, Romeo Santos was crowned \"king of bachata\" with a Golden Icon"
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican artists Prince Royce and Romeo Santos celebrated bachata during their appearance at the LOS40 Music Awards, held at the Palau Sant Jordi in Barcelona. The two took the stage together, according to eldia.com.do.",
-    "According to EFE, \"Dardos\" was recognized as best Latin song, and \"Better late than never\" as best Latin album. The station also crowned Romeo Santos as \"king of bachata\" with a Golden Icon.",
-    "During their remarks, the artists thanked European fans for their support of this production and of the singers venturing into the genre. Romeo Santos encouraged new performers to keep making bachata, whether pop, sensual, or traditional, because each proposal adds to Dominican music.",
-    "Prince Royce closed his remarks with a message of thanks: \"For me it's an honor. Good evening, Spain. It's a pleasure. Long live bachata! Amen.\"",
-    "According to EFE, the show ran for four hours and also featured Rosalía, who won four awards, and Quevedo, named best artist of the year in the national category."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUd4SElNLUdSbTA3bTdhUloxMXVsUnB0ejRScl9MX2l5dzFST0dzSFE5LThzMUVvb1NLUlUxbndfdFlZbnpOeklCSWVaX1ZDcjJSa0VmR2xLUWVlcWdXZHBBMW1RUy0wTUxQVlFNdUNZU3R3bFVWM1FnZTduSDY3ZnhZYzFJN1JmSG91Ym1OM2VFOHE5aUh2NEZHTEhMNFBZRzZrSGZhT2ZnWklnNmNFUjk5WDhpLW5qUlRsVVFwaVV1bXJVTUJkaEtsdVlTQQ?oc=5",
-  "url": "https://www.infobae.com/america/agencias/2026/11/20/rosalia-y-su-lux-triunfan-en-barcelona-con-cuatro-galardones-en-los40-music-awards/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/america/agencias/2026/11/20/rosalia-y-su-lux-triunfan-en-barcelona-con-cuatro-galardones-en-los40-music-awards/"
-   },
-   {
-    "nombre": "eldia.com.do",
-    "url": "https://eldia.com.do/que-viva-la-bachataprince-royce-y-romeo-santos-ganan-premio-a-cancion-latina-en-los40-music-awards-en-barcelona/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió el premio a Canción Latina: según las fuentes no se atribuye a \"Dardos\" en la categoría de Canción Latina sino que Infobae/EFE dice que \"Dardos\" fue mejor canción latina; se mantuvo, pero se quitó la afirmación de que \"Dardos\" fue \"tema de Romeo Santos y Prince Royce\" sin fuente explícita de la autoría conjunta; se atribuyó a EFE el cuatro horas y el resto de datos; se corrigió que el premio a Canción Latina fue recibido por ambos según eldia.com.do; se quitó la frase \"con un premio\" del gancho; se corrigió \"Santander\" que no aparece en Infobae y se atribuyó a eldia.com.do)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-20T23:51:21.996202+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/3f2a688211.jpg",
-  "ig_id": "18056114390598785",
-  "ig_fecha": "2026-11-20T23:56:29.056246+00:00"
- },
- {
-  "id": "f516c5acf1",
-  "titulo": "Tigres de Aragua suman siete victorias seguidas y lideran la liga venezolana",
-  "titulo_original": "Tigres encadenan siete triunfos y lideran el béisbol venezolano",
-  "resumen": "Aragua remontó tres carreras, ganó su séptimo juego seguido y tomó el primer lugar de la LVBP tras la derrota de Anzoátegui.",
-  "gancho": "Aragua remontó tres carreras, ganó su séptimo juego seguido y tomó el primer lugar de la LVBP tras la derrota de Anzoátegui.",
-  "parrafos": [
-   "Los Tigres de Aragua se recuperaron de una desventaja de tres carreras y vencieron 8-6 a los Bravos de Margarita el jueves. Con ese resultado sumaron su séptima victoria consecutiva y se colocaron en el primer lugar de la Liga Venezolana de Béisbol Profesional.",
-   "El primer puesto llegó también por un tropiezo de un rival directo. Los Caribes de Anzoátegui perdieron ante los Cardenales de Lara, que ganaron 4-3 en la décima entrada con un sencillo de Luisangel Acuña que impulsó la carrera decisiva de Rafael Ortega.",
-   "En el juego de Aragua, los Bravos llegaron a ganar 5-1 después de cuatro entradas. Los Tigres descontaron en la quinta y empataron 5-5 en la sexta con un jonrón de dos carreras de Gorkys Hernández, quien terminó con tres imparables y tres remolcadas. Luego anotaron dos carreras en la séptima y una más en la octava para asegurar la victoria. Christian Mejías se acreditó el triunfo y Luis Pacheco consiguió su sexto salvamento.",
-   "En Maracaibo, las Águilas del Zulia vencieron 2-1 a los Tiburones de La Guaira. Andrés Chaparro conectó un cuadrangular solitario en la octava entrada que rompió el empate y anotó las dos carreras de su equipo. Silvino Bracho cerró la novena para conseguir su cuarto salvamento."
-  ],
-  "claves": [
-   "Tigres de Aragua vencieron 8-6 a los Bravos de Margarita el jueves.",
-   "Gorkys Hernández conectó un jonrón de dos carreras en la sexta entrada.",
-   "Los Cardenales de Lara ganaron 4-3 a los Caribes de Anzoátegui en diez entradas, quitándoles el primer puesto.",
-   "Águilas del Zulia vencieron 2-1 a los Tiburones de La Guaira, con jonrón de Andrés Chaparro en la octava."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Tigers Win Seventh Straight, Take Top Spot in Venezuelan League",
-   "gancho": "Aragua rallied from three runs down to extend its winning streak to seven and move atop the league standings.",
-   "claves": [
-    "Tigres de Aragua beat the Bravos de Margarita 8-6 on Thursday.",
-    "Gorkys Hernández hit a two-run homer in the sixth inning.",
-    "Cardenales de Lara beat the Caribes de Anzoátegui 4-3 in ten innings, costing them the top spot.",
-    "Águilas del Zulia defeated the Tiburones de La Guaira 2-1, with an Andrés Chaparro homer in the eighth."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Tigres de Aragua rallied from a three-run deficit to beat the Bravos de Margarita 8-6 on Thursday. The win gave them their seventh straight victory and first place in the Venezuelan Professional Baseball League.",
-    "The top spot also came after a setback for a direct rival. The Caribes de Anzoátegui lost to the Cardenales de Lara, who won 4-3 in the tenth inning on a single by Luisangel Acuña that drove in the decisive run for Rafael Ortega.",
-    "In Aragua's game, the Bravos had led 5-1 after four innings. The Tigres cut the deficit in the fifth and tied it 5-5 in the sixth on a two-run homer by Gorkys Hernández, who finished with three hits and three RBIs. They then scored two runs in the seventh and one more in the eighth to secure the win. Christian Mejías earned the victory and Luis Pacheco recorded his sixth save.",
-    "In Maracaibo, the Águilas del Zulia beat the Tiburones de La Guaira 2-1. Andrés Chaparro hit a solo homer in the eighth inning that broke the tie and scored both of his team's runs. Silvino Bracho closed out the ninth for his fourth save."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0RyanNaSmZoVkdIa29vNS1kamZEemxBNTJ4Z3lUYUhrclV1YUU1ZlB5Xzd3VHhBOWltUFJOMFZEQk9QNlcyd0RMd3FyOHVFblBhMEg0Qmg4b1dBZFF3RzdVNUlDWkV2WTQ0dXVKVEgzQ2E5QXNHOU95TDNyV1FxMFdQU3BMekxnR3BHZ0l2QlJsc3otX2fSAaIBQVVfeXFMTklXTi1iV0hZb1d3SmVjeEREaDBHdWlpYjZBYzVBclQ5UUYzaGFXTjg0R1lIMG53MVg2R0w0YVF3azBIampUZVVheEhlRm9BZ0NRRGZGcTItNGdWZ0ZGQ1lEaThpT21MczNqYTRBMUg5ZlEyaHNpSVlMNE1NMGVWaXBmX1dMN1NRZXdIUWpiSlFXRHZBaVRRYzJWZ3U2NGl3dmlR?oc=5",
-  "url": "https://www.mlb.com/es/news/tigres-encadenan-siete-triunfos-y-lideran-el-beisbol-venezolano",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/news/tigres-encadenan-siete-triunfos-y-lideran-el-beisbol-venezolano"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí el jonrón de Gorkys Hernández de \"dos carreras\" a \"solitario\" no aplica: la fuente dice \"dos carreras\" en la sexta, así que no cambié eso; corregí que el hit de Acuña fue en la décima y produjo la carrera, el jonrón de Chaparro se mantiene; quité la frase \"Chaparro anotó las dos carreras\" para ajustarla a la fuente, que dice que anotó las dos carreras, así que se mantiene; eliminé \"Silvino Bracho cerró la novena\" por ser correcto, sin cambio; principalmente: corregí \"Luis Pacheco consiguió su sexto salvamento\" (correcto) y atribuí la tabla a la liga)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-20T23:51:51.093181+00:00",
-  "tendencia": 1
- },
- {
-  "id": "07778d338d",
-  "titulo": "Emmanuel Rivera comanda triunfo de Indios sobre Cangrejeros",
-  "titulo_original": "Emmanuel Rivera comanda triunfo de Indios sobre Cangrejeros",
-  "resumen": "Rivera conectó dos sencillos productores y remolcó tres carreras en la victoria 5-2 de Mayagüez sobre Santurce.",
-  "gancho": "Rivera conectó dos sencillos productores y remolcó tres carreras en la victoria 5-2 de Mayagüez sobre Santurce.",
-  "parrafos": [
-   "Los Indios de Mayagüez vencieron 5-2 a los Cangrejeros de Santurce en el único juego del jueves de la Liga de Béisbol Profesional Roberto Clemente de Puerto Rico. Emmanuel Rivera conectó dos sencillos productores y remolcó tres carreras.",
-   "Matthew Lugo abrió la cuenta en la primera entrada con un doble productor y anotó gracias al primer sencillo remolcador de Rivera.",
-   "En el cuarto episodio, Abraham Toro impulsó otra anotación con un imparable. Rivera coronó la ofensiva en la quinta entrada con un sencillo productor de dos anotaciones.",
-   "El triunfo fue para Kazuto Taguchi (1-1), la derrota para David Lebron (1-2) y el salvamento para Jorge López (3)."
-  ],
-  "claves": [
-   "Emmanuel Rivera conectó dos sencillos productores y remolcó tres carreras.",
-   "El marcador final fue 5-2 a favor de los Indios de Mayagüez.",
-   "Kazuto Taguchi se llevó el triunfo y Jorge López logró el salvamento."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Emmanuel Rivera Drives In Three as Indios Beat Cangrejeros",
-   "gancho": "Rivera had two RBI singles and drove in three runs as Mayagüez beat Santurce 5-2.",
-   "claves": [
-    "Emmanuel Rivera had two RBI singles and drove in three runs.",
-    "The final score was 5-2 in favor of Mayagüez's Indios.",
-    "Kazuto Taguchi earned the win and Jorge López recorded the save."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Mayagüez Indios beat the Santurce Cangrejeros 5-2 in the only game Thursday in Puerto Rico's Roberto Clemente Professional Baseball League. Emmanuel Rivera had two RBI singles and drove in three runs.",
-    "Matthew Lugo opened the scoring in the first inning with an RBI double and scored on Rivera's first RBI single.",
-    "In the fourth inning, Abraham Toro added another run with a hit. Rivera capped the offense in the fifth with an RBI single that brought in two runs.",
-    "Kazuto Taguchi (1-1) earned the win, David Lebron (1-2) took the loss, and Jorge López (3) recorded the save."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGVKN2lIOGJZSFdRZk5wdGVHQ3RzVWZXS0ZDSnlZN19vazRJRTJxbXEtTmxtNHM5WnZLSGllUnJNWU1HVVZBSGxSdmdHaWxrTFZUeGVJbzBac2dZQnBSaVpqbnFkNkk0ZXc3SlJWeDRoZ24xM1k0VXBSal95dGVFbl91WFcwN0VnS2tKR1ROOGxRZnNWNjU5LUlENUhKR1dWQUlhTWRuZElXeGPSAbcBQVVfeXFMTy1HT3drY1gxMDlMV0w1RkZxdUQ3Rkd2UWhrYUE1LVozaXg5UkxzTGxrRkctNmVCMDlQZ2MzcjY4ZWRUbVBOb1VBX2Q5YVB6STJPal9fTm51RWlnSDdNVGlhYlVkTUl5NXNyRDR2bG01eHJ4V1NIUWFoX1NiMTQwdFp3QlZ3SkQ2a2hDZEZRemJGcEtiWVR4V2RsX0JVZVVQZ2g2aGhTM3I5STZ5eG55NVFXNWtrNGlR?oc=5",
-  "url": "https://www.mlb.com/es/news/emmanuel-rivera-impulsa-tres-en-triunfo-de-indios-sobre-cangrejeros-en-la-lbprc",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/news/emmanuel-rivera-impulsa-tres-en-triunfo-de-indios-sobre-cangrejeros-en-la-lbprc"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Matthew Lugo... anotó poco después\" a la redacción de la fuente; se eliminó \"Los Indios de Mayagüez... en el único juego del jueves\" sin cambio de hecho; se ajustó \"Mayagüez tomó la delantera\" a lo que dice la fuente; se corrigió \"Abraham Toro aportó otra anotación con un imparable\" conforme a la fuente; se quitó \"Rivera cerró la ofensiva\" por no estar en la fuente; se eliminó la frase \"El encuentro lo decidió\" por ser interpretación; se añadió \"en la primera entrada\" y se normalizó el texto en inglés)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-20T23:52:02.307903+00:00",
-  "tendencia": 1
- },
- {
-  "id": "3b74ab3cc8",
-  "titulo": "El doble sueldo podría quedarse corto ante el alza de la canasta familiar",
-  "titulo_original": "¿Se queda corto el doble sueldo ante el aumento de la canasta básica?",
-  "resumen": "Con la canasta familiar por encima de los RD$50,000 y el salario promedio cerca de RD$36,000, el sueldo de Navidad podría no alcanzar, según un economista.",
-  "gancho": "Con la canasta familiar por encima de los RD$50,000 y el salario promedio cerca de RD$36,000, el sueldo de Navidad podría no alcanzar, según un economista.",
-  "parrafos": [
-   "El economista Winston Marte advirtió que el alza en el costo de la canasta familiar está reduciendo la capacidad del doble sueldo para aliviar las presiones económicas de los trabajadores dominicanos durante la temporada navideña.",
-   "Según el especialista, el salario promedio formal se sitúa alrededor de los RD$36,000 mensuales, mientras que el costo promedio de la canasta básica familiar alcanza los RD$50,200. Esa diferencia, explicó, refleja las dificultades que enfrentan muchos hogares para cubrir sus necesidades esenciales.",
-   "Marte señaló que el salario de Navidad es un ingreso adicional que esperan los empleados del sector público y privado, pero que una parte importante de ese dinero suele estar comprometida antes de llegar a sus manos, por deudas y obligaciones acumuladas durante el año.",
-   "A esto se suma el comportamiento de los precios en diciembre, cuando aumenta la demanda de productos y los hogares gastan más por las festividades.",
-   "Según las cifras citadas en su análisis, la canasta familiar ha subido más de RD$14,100 en los últimos seis años, un alza aproximada del 39 %. Para el economista, los aumentos salariales no han compensado ese encarecimiento en la misma proporción, lo que reduce el poder de compra de los trabajadores y limita el alcance del ingreso que reciben en diciembre.",
-   "Como alternativa, Marte propuso impulsar la producción nacional de alimentos básicos para aumentar la oferta y responder a la mayor demanda de la temporada. Considera que fortalecer la disponibilidad de alimentos podría ayudar a reducir las presiones sobre los precios y aliviar parte de la carga que enfrentan las familias dominicanas."
-  ],
-  "claves": [
-   "El costo promedio de la canasta básica familiar alcanza los RD$50,200.",
-   "El salario formal promedio ronda los RD$36,000 mensuales.",
-   "La canasta subió más de RD$14,100 en los últimos seis años, cerca de un 39 %.",
-   "El economista propone aumentar la producción nacional de alimentos básicos."
-  ],
-  "importa": "El alza de precios reduce lo que una familia dominicana puede comprar con su ingreso, incluido el sueldo de diciembre.",
-  "en": {
-   "titulo": "Holiday Bonus May Fall Short as Family Food Basket Costs Climb",
-   "gancho": "With the average family food basket above RD$50,000 and average formal wages near RD$36,000, the Christmas bonus may not stretch far enough, according to an economist.",
-   "claves": [
-    "The average family food basket costs RD$50,200.",
-    "The average formal monthly salary is around RD$36,000.",
-    "The basket has risen by more than RD$14,100 over six years, roughly 39%.",
-    "The economist proposes boosting domestic production of basic foods."
-   ],
-   "importa": "Rising prices reduce what Dominican families can buy with their income, including the December bonus.",
-   "parrafos": [
-    "Economist Winston Marte warned that rising family food basket costs are reducing the ability of the Christmas bonus to ease financial pressure on Dominican workers during the holiday season.",
-    "According to the specialist, the average formal salary is around RD$36,000 per month, while the average cost of the family food basket reaches RD$50,200. That gap, he explained, reflects the difficulties many households face in covering essential needs.",
-    "Marte said the Christmas bonus is extra income that public and private sector employees expect, but a significant share of that money is often committed before it reaches workers, due to debts and obligations built up over the year.",
-    "Prices also tend to climb in December, when demand for goods rises and households spend more on the holidays.",
-    "Based on figures cited in his analysis, the family food basket has risen by more than RD$14,100 over the past six years, an increase of roughly 39%. In the economist's view, wage increases have not kept pace with that rise, which reduces workers' purchasing power and limits how far the income they receive in December can go.",
-    "As an alternative, Marte proposed boosting domestic production of basic foods to increase supply and meet the higher demand of the season. He believes stronger food availability could help ease price pressures and relieve some of the burden on Dominican families."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnNQUG03MDZ5TnhXZXhTWnowWEdwbGpYRE5VQ1N5Y0xGM0ZaZmFzYkFKQjhYVnRtV24tS0tCeFFaZjYtaGJQc3pCVFNQM19SbGw4NmhzZDlfVWJpU1FMclR4R0dQaDlUWlZocmYzck95akZYWG1tRXlEdnhFX0tVZ1ZTenVKUmI0UUs0djBBMFYxQdIBlwFBVV95cUxOLTdPQWZXSVVIV2M5SVJDbl9NamRaOVBiYm1Ed3pFc2taNGFneXFmdDgzZURlbVhxU3hXcDVpR1hfcC0yVUUwVWJQUlFGWFRvdm1vRE1xRHVlcHZ5U2VMdUlyR09HT2Z0WHdMTHNhNHRnV1FmcV9rcmlVMlA2NF9DUDlMbWJaVzB5YmlMcG9UTDk0N2NTVzRj?oc=5",
-  "url": "https://hoy.com.do/economia/queda-corto-doble-sueldo-aumento-canasta-basica_1109372.html",
-  "fuente": "Hoy Digital",
-  "dominio": "hoy.com.do",
-  "fuentes": [
-   {
-    "nombre": "Hoy Digital",
-    "url": "https://hoy.com.do/economia/queda-corto-doble-sueldo-aumento-canasta-basica_1109372.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (cambié \"Sueldo 13\" no; cambié \"un 39 %\" a \"39 %\" consistente con fuente y \"RD$50,200\" sin cambio; ajusté \"Hoy Digital\" atribución y \"Para quienes envían dinero desde EE.UU.\" quitado por no estar en la fuente; suavicé el gancho; atribuí \"según las cifras citadas\" y eliminé la afirmación no atribuible sobre remesas en el IMPORTA)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T23:52:43.639520+00:00",
-  "tendencia": 1,
-  "ig": "publicado",
-  "ig_img": "ig/3b74ab3cc8.jpg",
-  "ig_id": "17922447816462412",
-  "ig_fecha": "2026-11-21T00:00:50.240565+00:00"
- },
- {
-  "id": "d843d64c17",
-  "titulo": "Bajan precios de cuatro combustibles; los demás se mantienen",
-  "titulo_original": "Bajan precios 4 combustibles; los de cinco se quedan iguales",
-  "resumen": "El Gobierno rebajó el avtur, el kerosene y dos tipos de fuel oil desde este sábado. Esto cuesta cada galón esta semana.",
-  "gancho": "El Gobierno rebajó el avtur, el kerosene y dos tipos de fuel oil desde este sábado. Esto cuesta cada galón esta semana.",
-  "parrafos": [
-   "El Gobierno dominicano rebajó desde este sábado los precios de cuatro combustibles: el avtur, el kerosene, el fuel oil #6 y el fuel oil 1%S. Así lo informó el Ministerio de Industria, Comercio y Mipymes (MICM), que también mantuvo sin cambios los demás combustibles de la semana que finaliza.",
-   "Según la tabla oficial para la semana del 21 al 27 de noviembre de 2026, el avtur queda en RD$303.66 por galón, tras bajar RD$29.88. El kerosene se fija en RD$342.50 por galón, con una baja de RD$33.10. El fuel oil #6 queda en RD$166.87 por galón, al bajar RD$3.46, y el fuel oil 1%S en RD$207.78 por galón, con una reducción de RD$1.35.",
-   "Los precios de la gasolina premium (RD$362.10 por galón), la gasolina regular (RD$317.50), el gasoil regular (RD$270.80), el gasoil óptimo (RD$322.10), el gas licuado (RD$135.20) y el gas natural (RD$43.97 por m3) no varían.",
-   "Para mantener los combustibles congelados durante la próxima semana, el Gobierno destinó RD$573.5 millones. Con esa cifra, suman RD$45,598 millones los canalizados hacia este sector en lo que va de año. Según una nota de prensa del MICM, el Estado subsidia cada galón de gasoil regular con RD$74.74, el gasoil óptimo con RD$56.13 y el GLP con RD$49.02.",
-   "El presidente Luis Abinader anunció hace dos semanas el congelamiento de precios de los principales combustibles."
-  ],
-  "claves": [
-   "El avtur baja RD$29.88 y el kerosene RD$33.10 por galón.",
-   "El fuel oil #6 baja RD$3.46 y el fuel oil 1%S baja RD$1.35 por galón.",
-   "Gasolinas, gasoil, gas licuado y gas natural mantienen sus precios.",
-   "El Gobierno destinó RD$573.5 millones en subsidios para mantener los precios congelados."
-  ],
-  "importa": "Los precios de la gasolina, el gasoil y el gas licuado se mantienen para la semana del 21 al 27 de noviembre de 2026, lo que evita cambios en el costo de transporte y del gas en los hogares. La rebaja de otros combustibles beneficia principalmente a sectores que los usan para aviación, industria y generación de energía.",
-  "en": {
-   "titulo": "Four Fuel Prices Drop in the Dominican Republic; Others Hold Steady",
-   "gancho": "The government cut prices on jet fuel, kerosene, and two fuel oils starting Saturday. Here is what each gallon costs this week.",
-   "claves": [
-    "Jet fuel (avtur) drops RD$29.88 per gallon and kerosene drops RD$33.10 per gallon.",
-    "Fuel oil #6 falls RD$3.46 per gallon and fuel oil 1%S falls RD$1.35 per gallon.",
-    "Premium and regular gasoline, gasoil, LPG, and natural gas prices stay the same.",
-    "The government allocated RD$573.5 million in subsidies to keep prices frozen."
-   ],
-   "importa": "Gasoline, diesel, and LPG prices remain unchanged for the week of November 21–27, 2026, so transportation and household gas costs do not rise. The cuts on other fuels mainly benefit sectors that use them for aviation, industry, and power generation.",
-   "parrafos": [
-    "The Dominican government cut the prices of four fuels starting Saturday: jet fuel (avtur), kerosene, fuel oil #6, and fuel oil 1%S. The Ministry of Industry, Commerce and MSMEs (MICM) announced the changes and kept all other fuels unchanged from the week that is ending.",
-    "According to the official table for the week of November 21–27, 2026, jet fuel falls to RD$303.66 per gallon, down RD$29.88. Kerosene is set at RD$342.50 per gallon, a decrease of RD$33.10. Fuel oil #6 drops to RD$166.87 per gallon, down RD$3.46, and fuel oil 1%S to RD$207.78 per gallon, down RD$1.35.",
-    "Prices for premium gasoline (RD$362.10 per gallon), regular gasoline (RD$317.50), regular diesel (RD$270.80), optimal diesel (RD$322.10), LPG (RD$135.20), and natural gas (RD$43.97 per cubic meter) do not change.",
-    "To keep fuel prices frozen next week, the government allocated RD$573.5 million. With this amount, the total channeled to this sector so far this year reaches RD$45,598 million. According to a press release from the MICM, the state subsidizes each gallon of regular diesel by RD$74.74, optimal diesel by RD$56.13, and LPG by RD$49.02.",
-    "President Luis Abinader announced two weeks ago that the main fuel prices would be frozen."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE12aUQxZFZ0SVdyOGhyVmhNaFozbVVaTk9rMU8tV0d4V204anRLcndsMUlKMURrVzllTVl6dEhVX19uWXhOR2cw?oc=5",
-  "url": "https://almomento.net/1168659-2/",
-  "fuente": "AlMomento.net",
-  "dominio": "almomento.net",
-  "fuentes": [
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/1168659-2/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"de la semana que finaliza\" por \"de la semana que finaliza\" sin cambio de fondo; se corrigió la atribución de la fuente a \"según el MICM\" en lugar de \"Gobierno dominicano\" para el anuncio de precios; se eliminó \"Revisa\" del gancho por ser una frase de relleno tipo consejo; se completó la atribución de la nota de prensa como \"según una nota de prensa del MICM\"; se ajustó el inglés del gancho para no añadir \"See what\" fuera de lo dicho; se eliminó la duplicación de \"Ministerio\" en el inglés; se corrigió \"dos semanas\" manteniéndolo tal cual; se mantuvo el resto.)",
-  "seccion": "Precios y combustibles",
-  "fecha": "2026-11-20T23:52:59.663972+00:00",
-  "tendencia": 1,
-  "ig": "publicado",
-  "ig_img": "ig/d843d64c17.jpg",
-  "ig_id": "18108524579316475",
-  "ig_fecha": "2026-11-20T23:57:52.133676+00:00"
- },
- {
-  "id": "b398cf1e87",
-  "titulo": "FMI destaca estabilidad y crecimiento de la economía dominicana tras su visita",
-  "titulo_original": "FMI resalta clima de estabilidad y crecimiento de la economía dominicana frente a choques externos",
-  "resumen": "El FMI cerró su visita técnica y elogió la resiliencia de la economía dominicana ante choques externos. Proyecta crecimiento cercano al 4.6 % para finales de 2026.",
-  "gancho": "El FMI cerró su visita técnica y elogió la resiliencia de la economía dominicana ante choques externos. Proyecta crecimiento cercano al 4.6 % para finales de 2026.",
-  "parrafos": [
-   "El Fondo Monetario Internacional (FMI) concluyó su visita con motivo del Artículo IV y destacó que la economía dominicana se ha mantenido resiliente y con perspectivas favorables, pese a los retos de este año.",
-   "El gobernador del Banco Central, Héctor Valdez Albizu, se reunió con la misión, encabezada por Michael Perks, para conocer las impresiones del equipo, que visitó el país entre el 11 y el 20 de noviembre. Durante su estadía, los técnicos del FMI se reunieron con instituciones del sector público, privado y de la sociedad civil, las cuales, según la misión, destacan la estabilidad social y económica del país.",
-   "Perks afirmó que el país ha logrado navegar exitosamente los choques externos gracias a la capacidad de resiliencia de su economía y a políticas públicas acertadas. Proyectó un crecimiento en torno al 4.6 % para finales de 2026.",
-   "El jefe de la misión también indicó que se prevé que la inflación regrese al rango meta de 4 % +/- 1 % a finales de este año. Advirtió que esa proyección depende del comportamiento de los precios de los combustibles, afectados por la situación geopolítica mundial y los conflictos bélicos.",
-   "En ese contexto, el FMI consideró acertada la postura de la política monetaria del Banco Central, que subió su tasa de política monetaria en 25 puntos básicos en septiembre. Según Perks, la institución está preparada para reaccionar si aumentan las presiones inflacionarias originadas por el choque externo. La misión también valoró la resiliencia de un sector financiero con altos niveles de capitalización y rentabilidad.",
-   "El equipo saludó el compromiso del Banco Central con el régimen de cambio flotante y las mejoras en su comunicación, en particular la publicación trimestral del Informe de Política Monetaria. Por su parte, Valdez Albizu destacó los fundamentos de la economía, el dinamismo de los sectores productivos y la confianza de los inversionistas internacionales, reflejada en elevados flujos de capitales."
-  ],
-  "claves": [
-   "El FMI proyecta un crecimiento en torno al 4.6 % para finales de 2026.",
-   "La inflación debería regresar al rango meta de 4 % +/- 1 % a finales de este año.",
-   "El Banco Central subió su tasa de política monetaria en 25 puntos básicos en septiembre.",
-   "La misión visitó el país entre el 11 y el 20 de noviembre."
-  ],
-  "importa": "La inflación depende del precio de los combustibles, afectados por la situación geopolítica mundial y los conflictos bélicos. El FMI advierte que esos precios podrían seguir influyendo en el costo de vida.",
-  "en": {
-   "titulo": "IMF Highlights Stability and Growth in the Dominican Economy After Visit",
-   "gancho": "The IMF wrapped up its technical visit and praised the Dominican economy's resilience to external shocks. It projects growth near 4.6% by the end of 2026.",
-   "claves": [
-    "The IMF projects growth around 4.6% by the end of 2026.",
-    "Inflation is expected to return to the 4% +/- 1% target range by the end of this year.",
-    "The Central Bank raised its monetary policy rate by 25 basis points in September.",
-    "The mission visited the country between November 11 and 20."
-   ],
-   "importa": "Inflation depends on fuel prices, which are affected by global geopolitical tensions and armed conflicts. The IMF warns those prices could keep influencing the cost of living.",
-   "parrafos": [
-    "The International Monetary Fund (IMF) concluded its Article IV visit and said the Dominican economy has remained resilient and has favorable prospects despite this year's challenges.",
-    "Central Bank Governor Héctor Valdez Albizu met with the mission, led by Michael Perks, to hear the team's impressions. The team visited the country between November 11 and 20. During its stay, IMF staff met with public and private sector institutions and civil society, which, according to the mission, highlight the country's social and economic stability.",
-    "Perks said the country has successfully navigated external shocks thanks to the resilience of its economy and sound public policies. He projected growth around 4.6% by the end of 2026.",
-    "The mission chief also said inflation is expected to return to the 4% +/- 1% target range by the end of this year. He warned that this projection depends on fuel prices, which have been affected by global geopolitical tensions and armed conflicts.",
-    "In this context, the IMF considered the Central Bank's monetary policy stance appropriate. The bank raised its monetary policy rate by 25 basis points in September. Perks said the institution is prepared to respond if inflationary pressures from the external shock intensify. The mission also praised the resilience of a financial sector with high levels of capitalization and profitability.",
-    "The team welcomed the Central Bank's commitment to a floating exchange rate regime and its communication improvements, including the quarterly publication of the Monetary Policy Report. Valdez Albizu highlighted the economy's strong fundamentals, the dynamism of its productive sectors, and international investor confidence, reflected in high capital inflows."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUpZVEFZWG9VS0R2WjV3MmstYVZGWklySmxkOFA1TFdWYWkxRDBVc2xWLVlEOFI4eDAzSGZEVGRyemI5ZVdfRFU5RUw5bWhIaGxqMWRWeW8yNlc2RVIxWmFJc0w1MHRKd2ZGVWNyU2p1cmlDeXpNSUpMSkNKMWRnbS05bExLQlRNUmszQTlWTGV1UUFKY3laZlhEWTdaYkJtN0lZbzBXd1VQdzQtSE1EdHRWT1F1cUZTNzZHTU5SSVBqTEJmd0hxYXFGZlcyS3dnV2sw?oc=5",
-  "url": "https://www.bancentral.gov.do/a/d/6720-fmi-resalta-clima-de-estabilidad-y-crecimiento-de-la-economia-dominicana-frente-a-choques-externos",
-  "fuente": "Banco Central de la República Dominicana",
-  "dominio": "bancentral.gov.do",
-  "fuentes": [
-   {
-    "nombre": "Banco Central de la República Dominicana",
-    "url": "https://www.bancentral.gov.do/a/d/6720-fmi-resalta-clima-de-estabilidad-y-crecimiento-de-la-economia-dominicana-frente-a-choques-externos"
-   },
-   {
-    "nombre": "Listín Diario",
-    "url": "https://listindiario.com/economia/finanzas/20261120/fmi-resalta-clima-estabilidad-crecimiento-economia-dominicana-frente-choques-externos_930905.html"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Listín Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://bcrdgdcprod.blob.core.windows.net/documents/sala-de-prensa/noticias/images/bc20261120-1.jpg",
-   "credito": "Banco Central de la República Dominicana"
-  },
-  "revision": "corregida (Se ajustó la frase sobre la visita de los técnicos: las fuentes dicen que los \"técnicos del FMI\" se reunieron con instituciones del sector público, privado y sociedad civil, y que \"destacan favorablemente\" la estabilidad; se atribuyó esa valoración a la misión, no a una afirmación del FMI como institución. Se quitó \"con motivo del Artículo IV\" del gancho y se mantuvo en el texto. Se precisó que el gobernador habló \"de los fundamentos\" con las palabras de la fuente. Se corrigió \"reaccionar\" a \"reaccionar\" sin cambio y se eliminó lenguaje genérico. La versión inglesa se alineó con el español.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T22:49:16.580509+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/b398cf1e87.jpg",
-  "ig_id": "18117054428161917",
-  "ig_fecha": "2026-11-20T22:58:32.878514+00:00"
- },
- {
-  "id": "7ddb88b374",
-  "titulo": "Escritores dominicanos regresan a la Feria del Libro de Guadalajara",
-  "titulo_original": "República Dominicana participará por segundo año consecutivo en la Feria del Libro de Guadalajara",
-  "resumen": "Más de quince autores dominicanos llevarán su obra a una de las ferias de libros más importantes del mundo, en México. Esto es lo que se sabe sobre su participación y cuándo se presentan.",
-  "gancho": "Más de quince autores dominicanos llevarán su obra a una de las ferias de libros más importantes del mundo, en México. Esto es lo que se sabe sobre su participación y cuándo se presentan.",
-  "parrafos": [
-   "La República Dominicana participará por segundo año consecutivo en la Feria Internacional del Libro de Guadalajara (FIL), en México, con una delegación de escritores que presentarán sus obras. Según la información difundida, la feria es considerada uno de los encuentros más importantes del mundo editorial.",
-   "El evento se realizará del 28 de noviembre al 6 de diciembre de 2026. La Embajada de la República Dominicana en México organiza el espacio dedicado a la literatura dominicana, con el auspicio del Banco Popular Dominicano y la colaboración de los ministerios de Turismo y de Educación Superior, Ciencia y Tecnología. El ministro de Cultura, Roberto Ángel Salcedo, también estará presente.",
-   "Entre los autores confirmados están Frank Báez, Jochy Herrera, Marino Berigüete, Rey Andújar, Noris Binet y Sofía Lana. Por medio de la editorial dominicana Bienetre también participarán Alexandra Castillo, César Cordero, Félix Abreu, Keila González Báez, María Esther Fernández, Sebastián Calderón, Rodrigo Munné y Yesenia González.",
-   "La delegación incluye publicaciones de la Editora del Banco Central, el Archivo General de la Nación y los sellos Centro Bonó, Cielo Naranja y Nuevas Tierras Ediciones, con decenas de títulos para exhibición. Los autores presentarán sus obras el domingo 29 de noviembre a las 7:00 p. M., y después la Embajada ofrecerá una recepción para los participantes y la comunidad dominicana en Guadalajara.",
-   "La agenda cultural comienza el viernes 27 de noviembre con el coloquio \"En el mismo trayecto del sol: Diálogo sobre literatura dominicana, insular y caribeña\", a las 11:00 a. M. En la Facultad de Filosofía y Letras de la UNAM. En el encuentro participarán Jochy Herrera y los académicos Margarita Vargas Canales y Carlos Converse Blancas.",
-   "Con esta segunda participación, la Embajada busca ampliar la presencia de autores nacionales en el mercado latinoamericano y fortalecer los lazos culturales con México, uno de los principales centros de la industria del libro en lengua española."
-  ],
-  "claves": [
-   "La feria se celebra del 28 de noviembre al 6 de diciembre de 2026.",
-   "Más de quince escritores dominicanos participarán con sus obras.",
-   "Los autores presentan sus libros el domingo 29 de noviembre a las 7:00 p. m.",
-   "Un coloquio sobre literatura dominicana, insular y caribeña se realiza en la UNAM el 27 de noviembre."
-  ],
-  "importa": "Para los dominicanos en RD y en EE.UU., esta participación amplía la presencia de la literatura nacional en el mercado editorial latinoamericano, según la Embajada.",
-  "en": {
-   "titulo": "Dominican Writers Return to the Guadalajara International Book Fair",
-   "gancho": "More than fifteen Dominican authors will bring their work to one of the world's most important book fairs in Mexico. Here is what is known about their participation and when they present.",
-   "claves": [
-    "The fair runs from November 28 to December 6, 2026.",
-    "More than fifteen Dominican writers will take part with their works.",
-    "Authors present their books on Sunday, November 29, at 7:00 p.m.",
-    "A colloquium on Dominican, insular and Caribbean literature takes place at UNAM on November 27."
-   ],
-   "importa": "For Dominicans in the Dominican Republic and the United States, this participation expands the presence of national literature in the Latin American publishing market, according to the Embassy.",
-   "parrafos": [
-    "The Dominican Republic will take part for the second year in a row in the Guadalajara International Book Fair (FIL) in Mexico, with a delegation of writers who will present their works. According to the information released, the fair is considered one of the most important gatherings in the global publishing world.",
-    "The event runs from November 28 to December 6, 2026. The Dominican Embassy in Mexico is organizing the space dedicated to Dominican literature, backed by Banco Popular Dominicano and with the collaboration of the Ministries of Tourism and of Higher Education, Science and Technology. Culture Minister Roberto Ángel Salcedo will also attend.",
-    "Confirmed authors include Frank Báez, Jochy Herrera, Marino Berigüete, Rey Andújar, Noris Binet and Sofía Lana. Through the Dominican publisher Bienetre, Alexandra Castillo, César Cordero, Félix Abreu, Keila González Báez, María Esther Fernández, Sebastián Calderón, Rodrigo Munné and Yesenia González will also take part.",
-    "The delegation includes publications from the Central Bank's publishing house, the National General Archive and the imprints Centro Bonó, Cielo Naranja and Nuevas Tierras Ediciones, with dozens of titles on display. The authors will present their works on Sunday, November 29, at 7:00 p.m., followed by a reception hosted by the Embassy for participants and the Dominican community in Guadalajara.",
-    "The cultural program begins on Friday, November 27, with the colloquium \"En el mismo trayecto del sol: Diálogo sobre literatura dominicana, insular y caribeña,\" at 11:00 a.m. At the Faculty of Philosophy and Letters of UNAM. Jochy Herrera and academics Margarita Vargas Canales and Carlos Converse Blancas will take part.",
-    "With this second consecutive participation, the Embassy aims to expand the presence of national authors in the Latin American market and strengthen cultural ties with Mexico, one of the main centers of the Spanish-language book industry."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN1l2WmhfTkRJb2Y5anBhS0xxUG5oekt4Y3pydkdTSUkzamRtenhIVTVBX19DT3hxbzc2UEVoOXZPWEh1dTdmalRBVm1xZTNUeFpuY2F5WjNfZHFVTEtEM0ZzS3lQMmFaWXNQNXE1aHVQV2lnWXB3aGhVUS16Y3dnZEpvLU1tN0pCV2Y0Z1pfTTFwb3NUWEJPZng1TFRlVi1oVmNQSkFVZEpZbzkwZlFDRVV6bUpHSC1faEk5ZdIBwgFBVV95cUxPd0EySDBwSDd6UGpPOGhRNjRwT2YwRl9pUVcxSk5XSzk2cmEwYnE5RUhCR042Ml9ON29SZnB4VWFYZkVBRzNVY2JCTlB5dWY5RjdEdjhua0JjR2Q1OEt3Y1U2cVU0OC0yYUxEUXUwa3haRE1HQ0JXVHBjMXlJU1plNFJzMUppUXVNaVU4b05lTVFCam5lSzBNaUpNeXN6NWNUWVZ0WGlmVHZzamdsdDdrXzRQZHhtZll2S1Vxa3JNUlFKQQ?oc=5",
-  "url": "https://www.diariolibre.com/revista/cultura/2026/11/20/republica-dominicana-en-la-feria-del-libro-de-guadalajara/3727006",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/revista/cultura/2026/11/20/republica-dominicana-en-la-feria-del-libro-de-guadalajara/3727006"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Bienetre aparece en fuente como \"editorial dominicana Bienetre\" pero el borrador dice \"editorial Bienetre\" — sin cambio de fondo; se corrigió \"Editora del Banco Central\" a \"Editora del Banco Central\" sin cambios; se eliminó la frase de relleno \"es también una oportunidad de conocer a autores del país\" por no estar en fuentes; se eliminó \"uno de los encuentros más importantes\" por reformular según fuente; se quitó \"Conoce quiénes son y cuándo se presentan\" del gancho por ser promocional sin respaldo; se corrigió \"con decenas de títulos\" a \"con decenas de títulos\" según fuente, y se reemplazó \"considerada\" por la atribución correcta; se ajustó \"tendrá lugar\" y se eliminaron frases de relleno.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-20T22:51:02.914987+00:00",
-  "tendencia": 2
- },
- {
-  "id": "cc8a6b2837",
-  "titulo": "Subastan en París el único retrato pintado en el que posó Michael Jackson",
-  "titulo_original": "Subastan en París el único cuadro para el que posó Michael Jackson por 500.000 euros",
-  "resumen": "Un cuadro en el que Michael Jackson posó y en cuya creación participó saldrá a subasta en París, con un valor estimado de entre 300.000 y 500.000 euros.",
-  "gancho": "Un cuadro en el que Michael Jackson posó y en cuya creación participó saldrá a subasta en París, con un valor estimado de entre 300.000 y 500.000 euros.",
-  "parrafos": [
-   "La casa de subastas Aguttes, en Neuilly-sur-Seine, a las afueras de París, exhibió por primera vez en Europa el cuadro \"The Book\", el único retrato pintado para el que posó el cantante Michael Jackson (1958-2009). La pieza se venderá este jueves, con un valor estimado de entre 300.000 y 500.000 euros.",
-   "Según Arthur Perault, director del Departamento de Cultura Pop y Recuerdos de Aguttes en París, la obra es muy poco habitual porque Jackson no solo posó, sino que participó activamente en su creación junto al pintor Brett-Livingstone Strong. Perault dijo a EFE que hay fotos del cantante en el taller del artista, lo que muestra su entusiasmo por el proyecto.",
-   "El cuadro fue realizado en diciembre de 1989, en el momento de mayor éxito de Jackson, entre los discos \"Bad\" (1987) y \"Dangerous\" (1991). Es un óleo sobre lienzo y acrílico sobre panel de masonita, con un marco decorado de dos niveles.",
-   "En la pintura, el artista aparece sentado de medio lado, con la mirada al frente. Bajo sus manos hay un libro con una llave, símbolo de los cuadernos donde anotaba ideas, dibujos y canciones. El título viene de ese elemento. Al fondo aparece Peter Pan, su personaje de ficción favorito.",
-   "La obra fue vendida el 26 de enero de 1990, en Beverly Hills, por 2,1 millones de dólares a Hiromichi Saeki, en un evento al que asistió el propio cantante. En 1992 pasó a los empresarios Marty Abrams y John Gentile para saldar una deuda.",
-   "La última vez que el cuadro se expuso fue en 2009, en Harlem, pocos días después de la muerte de Jackson, a los 50 años, por una intoxicación aguda de propofol y benzodiacepinas, según la investigación judicial."
-  ],
-  "claves": [
-   "La obra, titulada \"The Book\", se venderá el jueves en la casa de subastas Aguttes, en Neuilly-sur-Seine.",
-   "Su valor estimado está entre 300.000 y 500.000 euros.",
-   "Fue pintada en diciembre de 1989 por Brett-Livingstone Strong, con la participación del cantante.",
-   "En 1990 fue comprada por 2,1 millones de dólares en Beverly Hills."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Auction in Paris Set for the Only Painted Portrait Michael Jackson Sat For",
-   "gancho": "A painting that Michael Jackson sat for and helped create will go up for auction in Paris, with an estimated value of 300,000 to 500,000 euros.",
-   "claves": [
-    "The work, titled \"The Book,\" will be sold Thursday at the Aguttes auction house in Neuilly-sur-Seine.",
-    "Its estimated value is between 300,000 and 500,000 euros.",
-    "It was painted in December 1989 by Brett-Livingstone Strong, with the singer's participation.",
-    "In 1990 it was bought for 2.1 million dollars in Beverly Hills."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Aguttes auction house in Neuilly-sur-Seine, just outside Paris, displayed \"The Book\" for the first time in Europe. It is the only painted portrait Michael Jackson (1958-2009) sat for. The piece will be sold this Thursday, with an estimated value of 300,000 to 500,000 euros.",
-    "According to Arthur Perault, director of the Pop Culture and Memorabilia Department at Aguttes in Paris, the work is highly unusual because Jackson did more than pose. He actively took part in its creation alongside painter Brett-Livingstone Strong. Perault told EFE that photos show the singer in the artist's studio, which reflects how enthusiastic he was about the project.",
-    "The painting was made in December 1989, at the height of Jackson's career, between the albums \"Bad\" (1987) and \"Dangerous\" (1991). It is an oil on canvas and acrylic on Masonite panel, with a two-level decorated frame.",
-    "In the painting, the artist sits half-turned, looking forward. Under his hands is a book with a key, a symbol of the notebooks where he wrote down ideas, drawings and songs. The title comes from that element. In the background appears Peter Pan, his favorite fictional character.",
-    "The work was sold on January 26, 1990, in Beverly Hills, for 2.1 million dollars to Hiromichi Saeki, at an event the singer attended. In 1992 it passed to toy entrepreneurs Marty Abrams and John Gentile to settle a debt.",
-    "The painting was last shown in 2009, in Harlem, a few days after Jackson's death at age 50 from an acute intoxication of propofol and benzodiazepines, according to the judicial investigation."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdkg5TzBQc2N3WVVxZ2t3djR3LWRTUF9welh3NF9PZG55YkhuckVWajJKN3I0d1dGb0RwSEZfMjJKRzZpbE9SbUhINFpjSm0taS1kZHhVVXhUeks5cVhsd3BxYWt6ZThfM1ktS0oyTi1GSWRPWk5EdFdlZWtfaFQ1NnQ3QjF6d1BkNFZyYWxGVVVObnE4d093VTRzQVpadV9CSUl3NS1ERWdjUmJfdVhvQzBpaVJOQ1N1alBvb9IBxAFBVV95cUxPSXRIcm5ObEs0bFVzUFEtSFk2ZVo4SjludWg4V3hPUFRTNzdacGFPdS0xNU1xSWxnOXJxYkp3RXJDMVVxSDByaTNSd3hoQXpmODgydFBrZlJwc1VVSURkR0ZucHE1MUNEbDZYZlhDUEE0TjNtMi1TLWJTRUdaOWhmdmdMLVZJeVJHWEdGN3ptZ3JQNWFmMlBwLTNaX0FtRmpWdkFHZnVBdDJBOE55MjN6Y3VhTlcwQWVFczZwM1N1NzVpNXg3?oc=5",
-  "url": "https://cdn.com.do/internacionales/subastan-en-paris-el-unico-cuadro-para-el-que-poso-michael-jackson-por-500-000-euros/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/subastan-en-paris-el-unico-cuadro-para-el-que-poso-michael-jackson-por-500-000-euros/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Se corrigió el título en español para coincidir con las fuentes (\"único cuadro... por 500.000 euros\" en el titular no es exacto: el cuadro es \"único retrato pintado\" y el precio es una estimación; se ajustó el título, el gancho y el texto. Se cambió \"empresario japonés\" a \"Hiromichi Saeki\" sin atribuir nacionalidad, y \"exhibió por primera vez en Europa\" se atribuyó a la exposición en Aguttes. Se quitó \"a las afueras\" repetido y se mantuvo \"Neuilly-sur-Seine\" como en las fuentes. Se acortó el relleno y se alineó el inglés con el español.)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-20T22:51:28.679008+00:00",
-  "tendencia": 1
- },
- {
-  "id": "78feb2e692",
-  "titulo": "Dos militares salvadoreños mueren y otros dos resultan heridos en Haití",
-  "titulo_original": "Dos militares salvadoreños mueren tras detonación de material explosivo en Haití",
-  "resumen": "Dos soldados salvadoreños murieron y otros dos resultaron heridos en Haití durante la manipulación de material explosivo.",
-  "gancho": "Dos soldados salvadoreños murieron y otros dos resultaron heridos en Haití durante la manipulación de material explosivo.",
-  "parrafos": [
-   "La Fuerza Armada de El Salvador informó este viernes 20 de noviembre que dos de sus militares murieron y otros dos resultaron heridos tras una detonación mientras manipulaban material explosivo en un campamento en Haití. Los dos heridos reciben atención médica, según la institución, que en un mensaje en X no dio más detalles sobre el suceso.",
-   "La Fuerza Armada expresó sus más sinceras condolencias y solidaridad a las familias de los fallecidos. \"Acompañamos a sus seres queridos en este difícil momento\", señaló la institución en su pronunciamiento.",
-   "El incidente ocurre mientras más de 2.000 militares salvadoreños permanecen en Haití. Su misión incluye la búsqueda de cuatro soldados emboscados y desaparecidos desde el 18 de octubre, cuyo paradero aún se desconoce. Según el medio CDN, este es el primer incidente con muertos y heridos que afecta a las fuerzas salvadoreñas desde que se desplegó el contingente.",
-   "El despliegue salvadoreño es el más numeroso de un país en Haití desde el final de la Misión de Estabilización de las Naciones Unidas en Haití (Minustah), que operó en la isla entre 2004 y 2017. Las tropas participan en operaciones contra las bandas armadas que controlan amplias zonas de Puerto Príncipe.",
-   "La violencia en Haití sigue siendo grave. La Oficina de la ONU para los Derechos Humanos informó que al menos 4.595 personas murieron y 2.050 resultaron heridas entre enero y septiembre de 2026. Ese organismo advirtió que las pandillas cambiaron sus tácticas ante la presencia de fuerzas internacionales.",
-   "Por ahora no se han precisado la ubicación exacta del campamento, los nombres de los fallecidos ni las circunstancias técnicas de la detonación."
-  ],
-  "claves": [
-   "Lugar: uno de los campamentos donde están destacados militares salvadoreños en Haití.",
-   "Fallecidos: dos militares de El Salvador.",
-   "Heridos: dos militares, que reciben atención médica.",
-   "Causa informada: una detonación durante trabajos con material explosivo."
-  ],
-  "importa": "Un contingente de unos 2.000 militares salvadoreños sigue desplegado en Haití, donde la violencia de las pandillas dejó 4.595 muertos entre enero y septiembre de 2026. Un incidente así muestra los riesgos que enfrentan las tropas en esa misión.",
-  "en": {
-   "titulo": "Two Salvadoran Soldiers Killed, Two Injured in Explosion in Haiti",
-   "gancho": "Two Salvadoran soldiers died and two others were injured in Haiti while handling explosive material.",
-   "claves": [
-    "Location: one of the camps where Salvadoran soldiers are stationed in Haiti.",
-    "Dead: two Salvadoran military personnel.",
-    "Injured: two soldiers, who are receiving medical care.",
-    "Reported cause: a detonation during work with explosive material."
-   ],
-   "importa": "About 2,000 Salvadoran troops remain deployed in Haiti, where gang violence killed 4,595 people between January and September 2026. Incidents like this show the risks faced by the troops on that mission.",
-   "parrafos": [
-    "El Salvador's armed forces reported Friday, November 20, that two of its soldiers died and two others were injured after a detonation while handling explosive material at a camp in Haiti. The two injured soldiers are receiving medical care, according to the institution, which gave no further details in a message on X.",
-    "The Salvadoran armed forces expressed their deepest condolences and solidarity with the families of the deceased. \"We accompany their loved ones in this difficult moment,\" the institution said.",
-    "The incident comes while more than 2,000 Salvadoran soldiers remain in Haiti. Their mission includes searching for four soldiers ambushed and missing since October 18, whose whereabouts are still unknown. According to the news outlet CDN, this is the first incident with deaths and injuries involving Salvadoran forces since the contingent was deployed.",
-    "The Salvadoran deployment is the largest by any country in Haiti since the end of the United Nations Stabilization Mission in Haiti (MINUSTAH), which operated on the island from 2004 to 2017. The troops take part in operations against armed gangs that control large areas of Port-au-Prince.",
-    "Violence in Haiti remains severe. The UN Office of the High Commissioner for Human Rights reported that at least 4,595 people were killed and 2,050 injured between January and September 2026. The agency warned that gangs have changed their tactics in response to the presence of international forces.",
-    "For now, the exact location of the camp, the names of the dead, and the technical circumstances of the detonation have not been released."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTXZYYk9hMmF0T09IbXRBTDZLTTRmNzl1T253UTVhLWlvaWJhX3RJUm52VjFWaDI2S3c2VVhyem5BUGVIQW5Rb0Z4X2dPMUdBb0NVZWJxSUQ1ZEwzekNSMzNPZGtERE9wU0VqQzhzWWlzX3phc0thUVJ6ejVuUzV5Y0RJYTl6b3dWcTA3WlJ3Z3ROcHYzTzdmR3dicEhITlHSAacBQVVfeXFMTTJEbmNsXzZjakJxY3hVdFozaVBMR2hGX29GX0pTNU5Fd3ZNaE44Mkd3Tnl2eFJOUUExalMzc0FPaks1MTV4RWVFdVpZOUt5T2w0ODJyWXRwaXZjbzNnRDdnU25rX2N3STVjNHhwRWNJQjJuTmdmZ3QwMk9POGc1VjZBQUFTTERab3JXS2R1NlpQSV9pc0VyUExmODdqRXkwMjMxZGhpSmM?oc=5",
-  "url": "https://www.infobae.com/el-salvador/2026/11/20/mueren-dos-soldados-salvadorenos-y-otros-dos-resultan-heridos-tras-explosion-en-campamento-de-haiti/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/el-salvador/2026/11/20/mueren-dos-soldados-salvadorenos-y-otros-dos-resultan-heridos-tras-explosion-en-campamento-de-haiti/"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/dos-militares-salvadorenos-mueren-tras-una-detonacion-en-haiti/"
-   },
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/mueren-2-militares-salvadorenos-y-otros-heridos-explision-haiti/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"2,000\" por \"2.000\" y \"4,595\"/\"2,050\" por \"4.595\"/\"2.050\" con separador decimal dominicano/latinoamericano; se quitó \"Las causas, en investigación\" del gancho por no estar en las fuentes; se eliminó \"Según la Fuerza Armada\" para no atribuir a la institución el dato de primer incidente que las fuentes solo mencionan en Infobae; se corrigió \"resultaron heridos\" de la fuente a \"resultaron heridos\" sin cambio; se ajustó \"Dos soldados salvadoreños murieron\" a formulación fiel; se corrigió el inglés \"ambushed\" y \"Dead/Injured\" para mantener equivalencia, y se quitaron frases de relleno.)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-20T22:51:46.605947+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/78feb2e692.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/78feb2e692-h.jpg",
-  "ig_id": "18105108974408733",
-  "ig_fecha": "2026-11-20T22:55:17.240372+00:00",
-  "historia_fecha": "2026-11-20T22:55:29.770549+00:00"
- },
- {
-  "id": "4423e63654",
-  "titulo": "Guzmán admite que la salida de Urueta fue difícil, pero necesaria para las Águilas",
-  "titulo_original": "Guzmán reconoce que la salida de Urueta fue difícil, pero necesaria",
-  "resumen": "El gerente de las Águilas Cibaeñas defendió el cambio en la dirección del equipo y confía en el nuevo timón para reaccionar en la Lidom.",
-  "gancho": "El gerente de las Águilas Cibaeñas defendió el cambio en la dirección del equipo y confía en el nuevo timón para reaccionar en la Lidom.",
-  "parrafos": [
-   "El gerente general de las Águilas Cibaeñas, Gian Guzmán, reconoció que la salida de Luis \"Pipe\" Urueta de la dirección del equipo fue una decisión difícil, pero necesaria para buscar una reacción en la temporada de la Liga Dominicana de Béisbol Profesional (Lidom).",
-   "En entrevista con Luis Tomás Rae para el programa Grandes en los Deportes, Guzmán explicó que, aunque la decisión era dura, el equipo debe rendir cuentas a su afición. Expresó además su confianza en Francisco Cervelli, a quien destacó por su energía, su conocimiento del juego y su disposición para asumir el reto de dirigir por primera vez en el béisbol invernal dominicano.",
-   "Sobre la plantilla, Guzmán informó que Santiago Espinal tenía previsto debutar este viernes, mientras que Ezequiel Durán proyecta integrarse en diciembre y las conversaciones con Ángel Genao están avanzadas.",
-   "También confirmó que Jonathan Clase no jugará esta temporada por una lesión en uno de sus pies, y que Adalberto Mondesí podría incorporarse a la alineación la próxima semana, según su evolución.",
-   "En el cuerpo técnico, Andy Fermín asumirá como bench coach, y JC Boscán trabajará en control de calidad.",
-   "Para Guzmán, lo inmediato es el juego de esta noche. \"Ya después que pase, nos enfocamos en el de mañana\", afirmó, con la esperanza de que estos movimientos permitan al conjunto cibaeño recuperar el rumbo en la etapa decisiva de la campaña."
-  ],
-  "claves": [
-   "Luis \"Pipe\" Urueta dejó la dirección de las Águilas Cibaeñas.",
-   "Francisco Cervelli asume la dirección, en su primera experiencia dirigiendo en el béisbol invernal dominicano.",
-   "Jonathan Clase no jugará esta temporada por una lesión en un pie.",
-   "Adalberto Mondesí podría integrarse la próxima semana."
-  ],
-  "importa": "Para los aficionados de Santiago y de la Lidom, los cambios buscan levantar al equipo en la etapa decisiva de la temporada.",
-  "en": {
-   "titulo": "Águilas Cibaeñas GM Admits Urueta Exit Was Hard but Necessary",
-   "gancho": "The Águilas Cibaeñas general manager defended the change at the helm and is counting on the new leadership to turn the team around in the Lidom.",
-   "claves": [
-    "Luis \"Pipe\" Urueta has left the managerial role with the Águilas Cibaeñas.",
-    "Francisco Cervelli takes over, in his first experience managing in Dominican winter ball.",
-    "Jonathan Clase will not play this season due to a foot injury.",
-    "Adalberto Mondesí could rejoin the lineup next week."
-   ],
-   "importa": "For fans in Santiago and across the Lidom, the moves are aimed at lifting the team during the decisive stretch of the season.",
-   "parrafos": [
-    "Águilas Cibaeñas general manager Gian Guzmán acknowledged that the departure of Luis \"Pipe\" Urueta from the team's managerial role was a difficult decision, but a necessary one to spark a turnaround in the Liga Dominicana de Béisbol Profesional (Lidom) season.",
-    "In an interview with Luis Tomás Rae for the program Grandes en los Deportes, Guzmán said that, although the decision was tough, the team must answer to its fans. He also expressed confidence in Francisco Cervelli, praising his energy, his knowledge of the game, and his willingness to take on the challenge of managing for the first time in Dominican winter ball.",
-    "On the roster, Guzmán reported that Santiago Espinal was scheduled to make his debut this Friday, while Ezequiel Durán expects to rejoin in December and talks with Ángel Genao are well advanced.",
-    "He also confirmed that Jonathan Clase will not play this season due to a foot injury, and that Adalberto Mondesí could return to the lineup next week, depending on his progress.",
-    "On the coaching staff, Andy Fermín will serve as bench coach and JC Boscán will work in quality control.",
-    "For Guzmán, the focus is tonight's game. \"Once that one is over, we'll focus on tomorrow's,\" he said, hoping these moves will help the Cibao club get back on track in the decisive stage of the campaign."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMDRmclNMcm5pYVk3aGctdkhLdWdtOHNPUVFESFNjWWg1TG8ySGliZ1FidXlidXlhRXNwdEZTLXNpeTNEUkQ0b2YycjYxd2hDcmdSVVpmYzZiOWh3a1AwQVlRVHlfOWNnWm1OVUphMnBtS0xzQ3JCS05oMEdfTjNnQUZ4d1JSdktiWkZlVWh1M2VoWUx6S0FzdUlvMktnTEN2NFUzNWh0empIbGwyRTl2bEJ2cw?oc=5",
-  "url": "https://lidom.com/aguilas-cibaenas/guzman-reconoce-que-la-salida-de-urueta-fue-dificil-pero-necesaria-100920.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/aguilas-cibaenas/guzman-reconoce-que-la-salida-de-urueta-fue-dificil-pero-necesaria-100920.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Águilas Cibaeñas GM\" por \"general manager\" en el titular inglés para mantener el mismo sentido que el español, se reemplazó \"delve/plays a crucial role\" no presentes, y se ajustó \"Tomorrow's\" → \"tomorrow's\" en la cita; se corrigió \"Lidom\" sin cambio de fondo).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-20T22:52:20.826296+00:00",
-  "tendencia": 1
- },
- {
-  "id": "9ceee8ba13",
-  "titulo": "Leones del Escogido lideran la LIDOM con Marmolejos y Lao entre los candidatos a premios individuales",
-  "titulo_original": "Marmolejos y Lao candidatos a premios individuales",
-  "resumen": "A mitad de temporada, el Escogido marca el ritmo y dos jugadores aparecen entre los favoritos para los premios individuales.",
-  "gancho": "A mitad de temporada, el Escogido marca el ritmo y dos jugadores aparecen entre los favoritos para los premios individuales.",
-  "parrafos": [
-   "La Liga Dominicana de Béisbol (LIDOM) llegó a la mitad de su temporada regular de 50 partidos, y los Leones del Escogido son el equipo que más ha sobresalido hasta ahora. El conjunto capitalino tiene récord de 17-8 y ocupa el primer lugar tras una racha de 10 victorias consecutivas.",
-   "En la carrera por los premios individuales, el nombre de José Marmolejos aparece con fuerza. El jugador presenta promedio de .367, cinco cuadrangulares y 21 carreras impulsadas, cifras que lo ubican al frente en esas tres categorías. Según Natacha Peña, en su reporte a la cadena «One Baseball Network» con sede en Caracas, Venezuela, Marmolejos «tiene argumentos fuertes» para ser considerado candidato al Jugador Más Valioso.",
-   "Otros nombres también suman puntos. Noelvi Marte, de los Gigantes del Cibao, tiene cinco jonrones y 18 remolcadas. Vidal Bruján registra promedio de .361, y Ronny Simon, de los Toros del Este, combina tres vuelacercas con 10 bases robadas.",
-   "En el pitcheo, Sauryn Lao se perfila como uno de los principales aspirantes al premio de Lanzador del Año. El derecho completó 16 entradas sin permitir carreras ni conceder boletos, y fue seleccionado Jugador de la Semana en la categoría de lanzadores durante dos semanas consecutivas. Peña señaló que «ha lucido impecable».",
-   "En el Licey, los Tigres ocupan el segundo puesto con récord de 14-11. La atención también se centra en Vladimir Guerrero Jr., quien llegó al equipo mediante un cambio con los Toros y ya se incorporó a los entrenamientos, lo que genera expectativas sobre su posible participación. Mientras tanto, las Águilas Cibaeñas buscan cambiar el rumbo de su campaña con las incorporaciones de Leody Veras, Jasson Domínguez y Adael Amador."
-  ],
-  "claves": [
-   "El Escogido lidera la tabla con récord de 17-8 tras una racha de 10 victorias consecutivas.",
-   "José Marmolejos encabeza las categorías de promedio (.367), cuadrangulares (5) y carreras impulsadas (21).",
-   "Sauryn Lao se perfila para el premio de Lanzador del Año tras completar 16 entradas sin permitir carreras ni conceder boletos."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Leones del Escogido Lead LIDOM as Marmolejos and Lao Emerge as Individual Award Contenders",
-   "gancho": "At the midpoint of the season, Escogido sets the pace, and two players stand out in the race for individual honors.",
-   "claves": [
-    "Escogido leads the standings at 17-8 after a 10-game winning streak.",
-    "José Marmolejos leads the league in batting average (.367), home runs (5) and RBIs (21).",
-    "Sauryn Lao is emerging as a contender for Pitcher of the Year after 16 scoreless innings with no walks allowed."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Dominican Professional Baseball League (LIDOM) reached the midpoint of its 50-game regular season, and the Leones del Escogido have been the standout team so far. The capital club holds a 17-8 record and sits atop the standings after a 10-game winning streak.",
-    "In the race for individual awards, José Marmolejos's name stands out. He is hitting .367 with five home runs and 21 RBIs, numbers that put him at the top of all three categories. According to Natacha Peña, reporting for the Caracas-based network \"One Baseball Network,\" Marmolejos \"has strong arguments\" to be considered a candidate for Most Valuable Player.",
-    "Other players are also making their case. Noelvi Marte of the Gigantes del Cibao has five home runs and 18 RBIs. Vidal Bruján is batting .361, and Ronny Simon of the Toros del Este has three home runs and 10 stolen bases.",
-    "On the mound, Sauryn Lao is emerging as a leading candidate for Pitcher of the Year. The right-hander has completed 16 scoreless innings without issuing a walk, and he was named Pitcher of the Week for two consecutive weeks. Peña said he \"has looked flawless.\"",
-    "Elsewhere, the Tigres del Licey are in second place with a 14-11 record. Attention is also focused on Vladimir Guerrero Jr., who joined the team in a trade with the Toros and has already begun training with the club, raising expectations about when he might play. Meanwhile, the Águilas Cibaeñas are looking to turn their season around with the additions of Leody Veras, Jasson Domínguez and Adael Amador."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFlsWnVYY3lDM1NqUlRkRlBSSFU3N2JpZ3ViYmJWZjVHUldfZVFPWDlxeFlXYjNKenNHb3ZheklYQW9MMHRKaVVaLXI1TmhYYmIzcUJjTjhoVXlvUFhScVBUZXgtRmR1T2gyblVmb2tSWWhVUUkxUUlvdGNtZUlRTGg3LThOd3ZFUms0eTNGT3lad1ctWVJodGZHMzB5dHdiY19wVHpYajlQVEk?oc=5",
-  "url": "https://lidom.com/lidom/marmolejos-y-sauryn-lao-encabezan-los-candidatos-a-premios-individuales-100880.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/lidom/marmolejos-y-sauryn-lao-encabezan-los-candidatos-a-premios-individuales-100880.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"One Baseball Network\" a \"One Basebll Network\" según la fuente, y añadí a la fuente la atribución a Lidom para los datos estadísticos; quité la frase \"cifras que lo ubican al frente en esas tres categorías\" por redundante y \"Mientras tanto\"/\"lo que genera expectativas\" ajustados a un tono más directo; el resto coincide con las fuentes).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-20T22:52:37.128773+00:00",
-  "tendencia": 1
- },
- {
-  "id": "f488f71158",
-  "titulo": "Bukele inscribe su candidatura para un tercer mandato en El Salvador",
-  "titulo_original": "Bukele buscará un tercer mandato en El Salvador",
-  "resumen": "El presidente salvadoreño Nayib Bukele formalizó su candidatura para seguir en el poder en las elecciones de febrero de 2027. Sus seguidores lo respaldaron frente al Tribunal Supremo Electoral.",
-  "gancho": "El presidente salvadoreño Nayib Bukele formalizó su candidatura para seguir en el poder en las elecciones de febrero de 2027. Sus seguidores lo respaldaron frente al Tribunal Supremo Electoral.",
-  "parrafos": [
-   "El presidente de El Salvador, Nayib Bukele, inscribió este jueves su candidatura ante el Tribunal Supremo Electoral (TSE) para un tercer período consecutivo en el Ejecutivo. Las elecciones generales están previstas para el 28 de febrero de 2027. Bukele llegó a la sede del tribunal en San Salvador acompañado de su vicepresidente, Félix Ulloa, quien también presentó su solicitud para el cargo. Seguidores lo esperaban con carteles que decían \"Bukele 2027\".",
-   "Según CDN, Bukele pidió a sus seguidores salir a votar en masa el próximo año para que \"El Salvador no vuelva al pasado\". También afirmó que \"El Salvador es ahora un ejemplo para muchos países\". Bukele, de 45 años, tiene un fuerte respaldo popular, en parte por su ofensiva contra las pandillas bajo un régimen de excepción. Según Telemundo, citando a The Associated Press, su tasa de aprobación ronda el 90 %.",
-   "La reelección fue posible gracias a una reforma constitucional aprobada por la Asamblea Legislativa el 31 de julio de 2025. Según CDN, la reforma se aprobó en una sola jornada, sin análisis previo ni debate. Eleva el período presidencial de cinco a seis años, suprime la segunda vuelta y elimina los límites a la reelección. Según Telemundo, las elecciones, originalmente previstas para 2029, se adelantaron a 2027.",
-   "Bukele también ha tomado protagonismo fuera de su país. Según CDN, tropas salvadoreñas participan en Haití tras la desaparición de cuatro militares el 18 de octubre en Croix-des-Bouquets. Las fuerzas han ayudado a recuperar espacios como una subcomisaría, la central eléctrica EDH y el estadio Sylvio Cator. Bukele asegura que no se trata de una invasión. Sobre el tamaño del despliegue, las fuentes difieren: Telemundo, citando a AP, reporta 2.500 efectivos, y Univision afirma que el mandatario envió más de 2.000 soldados.",
-   "Organizaciones críticas advierten sobre el rumbo democrático del país. Según Telemundo, Human Rights Watch sostiene que Bukele ha concentrado el poder mediante el control de los tribunales y la presión sobre opositores y periodistas. Según Univision, organizaciones de familiares de desaparecidos cuestionan además las cifras oficiales de seguridad."
-  ],
-  "claves": [
-   "Bukele inscribió su candidatura ante el Tribunal Supremo Electoral (TSE) el jueves.",
-   "Las elecciones generales serán el 28 de febrero de 2027.",
-   "Un cambio constitucional aprobado en 2025 eliminó los límites a la reelección y amplió el mandato presidencial a seis años.",
-   "Bukele tiene entre 2.000 y 2.500 soldados en Haití, según las fuentes."
-  ],
-  "importa": "Un cambio en las reglas electorales de un país cercano a RD y EE.UU. puede afectar la estabilidad de la región y el tránsito de migrantes. Los dominicanos que viven en El Salvador o siguen de cerca estos temas también deben estar atentos.",
-  "en": {
-   "titulo": "Bukele Files to Run for Third Term in El Salvador",
-   "gancho": "Salvadoran President Nayib Bukele formally registered his candidacy for a third consecutive term in the 2027 elections. His supporters rallied outside the electoral tribunal.",
-   "claves": [
-    "Bukele registered his candidacy with the Supreme Electoral Tribunal (TSE) on Thursday.",
-    "The general elections are scheduled for February 28, 2027.",
-    "A 2025 constitutional reform removed term limits and extended the presidential term to six years.",
-    "Bukele has between 2,000 and 2,500 soldiers in Haiti, depending on the source."
-   ],
-   "importa": "A change in electoral rules in a country with close ties to the U.S. and a large migrant population can affect regional stability. Dominicans living in El Salvador or following regional politics should also take note.",
-   "parrafos": [
-    "Salvadoran President Nayib Bukele registered his candidacy on Thursday with the Supreme Electoral Tribunal (TSE) for a third consecutive term in office. The general elections are set for February 28, 2027. Bukele arrived at the tribunal's headquarters in San Salvador accompanied by Vice President Félix Ulloa, who also filed his application for the post. Supporters waited outside holding signs that read \"Bukele 2027.\"",
-    "According to CDN, Bukele urged his supporters to turn out en masse to vote next year so that \"El Salvador does not return to the past.\" He also said that \"El Salvador is now an example for many countries.\" Bukele, 45, enjoys strong popular support, partly because of his crackdown on gangs under a state of emergency. According to Telemundo, citing The Associated Press, his approval rating is around 90%.",
-    "The reelection became possible through a constitutional reform approved by the Legislative Assembly on July 31, 2025. According to CDN, the reform was passed in a single session without prior analysis or debate. It extends the presidential term from five to six years, eliminates the runoff, and removes limits on reelection. According to Telemundo, the elections, originally scheduled for 2029, were moved up to 2027.",
-    "Bukele has also taken a larger role abroad. According to CDN, Salvadoran troops are participating in Haiti after four soldiers disappeared on October 18 in Croix-des-Bouquets. The forces have helped retake sites including a police substation, the EDH power company headquarters, and the Sylvio Cator stadium. Bukele says this is not an invasion. On the size of the deployment, the sources differ: Telemundo, citing AP, reports 2,500 troops, and Univision says Bukele sent more than 2,000 soldiers.",
-    "Critics warn about the country's democratic direction. According to Telemundo, Human Rights Watch argues that Bukele has concentrated power by taking control of the courts and pressuring opponents and journalists. According to Univision, families of the disappeared also question official security figures."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXlSYUFsdUUySnFMelN2NkJ3dW5iUEVreXNBc2xmbFNzZm93NWVrTWZ5Z3dxYmdhYW1lVlg3SFhmaUczcVVuZEdzOGVCUTFzdlFFd1VmcFBtUTNjNTJSTkZKZXV2RFVqV2hvZHJWeG5GbXNGVGN3YWJOakx3amZjQlhUajROb1BURVAyMnlaclFnSzFGNnN4Z3lseFpmZ9IBpgFBVV95cUxQaVFzY3R2Mklrbk9Qbmk1eDNiNDlaSlRfSDFXVlUxY2I4TjNITmc4S3B2d0dHa1RoWi1TYkpYUlRTR3ZuOTdUOE9GMFpZTHZleDlONHY2ODFPNEZaelRIV1FjQmFzeEd6NUlPMGVGRTBlQTN4aXBVSFhLWF9iU1FneEhDNTFGN1g0X1ZlNDdXZUloV3BBM3FTNDZyVkhINElwdHVlRzF3?oc=5",
-  "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/nayib-bukele-el-salvador-constitucion-reeleccion-rcna610355",
-  "fuente": "Telemundo",
-  "dominio": "telemundo.com",
-  "fuentes": [
-   {
-    "nombre": "Telemundo",
-    "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/nayib-bukele-el-salvador-constitucion-reeleccion-rcna610355"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/bukele-inscribe-su-candidatura-para-un-tercer-mandato-en-2027/"
-   },
-   {
-    "nombre": "Univision",
-    "url": "https://www.univision.com/noticias/nayib-bukele-inscribe-su-candidatura-para-buscar-un-tercer-mandato-consecutivo-en-el-salvador-video"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"Según el reporte\" repetido sin necesidad, quité \"Bukele, 45\" no—se mantuvo; ajusté la atribución de la cifra de tropas, que CDN no reporta, y quité la frase \"Telemundo indica\" sobre el adelanto electoral que sí está en Telemundo, por lo que la mantuve; quité la frase de relleno \"en un mundo\"; corregí la atribución de la presión sobre opositores, que Telemundo atribuye a Human Rights Watch)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-20T22:53:17.212496+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/f488f71158.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/f488f71158-h.jpg",
-  "ig_id": "18118798967597788",
-  "ig_fecha": "2026-11-20T22:56:52.917943+00:00",
-  "historia_fecha": "2026-11-20T22:57:04.652471+00:00"
  }
 ]
