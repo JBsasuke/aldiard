@@ -1,5 +1,7 @@
-Corrida: 2026-11-22 09:48 AM (hora RD)
-Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender divisas
+Corrida: 2026-11-22 10:47 AM (hora RD)
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1609 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/prepara-educacion-secundaria-de-personas-jovenes-y-adultas
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+Error IA: ValueError('respuesta sin el formato esperado: Esta versión no contiene una noticia. Es una ficha de servicio del Ministerio de Educación (página de trámite con requisitos, horarios y contactos) más comentarios de usuarios. No hay un hecho recient')
 [República Dominicana] Banco Central de la República Dominicana: texto leído 1033 letras -> https://repositoriocultural.bancentral.gov.do/statistics/items/3c689ad1-4240-4406-8a20-0c98693a0285
 Fuente oficial encontrada: Banco Central de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Statistics for Boletín mensual, mayo de 1986
@@ -9,95 +11,84 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre
 [República Dominicana] DGII: texto leído 1552 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/ecf-para-servicios-de-construccin-bajo-la-norma-general-072007-cmo-se-reporta-el-itbis-sobre-el-10/6b01f8d84895ae0f6ef24e50
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): e-CF para servicios de construcción bajo la Norma General 07-2007: ¿cómo se reporta el ITBIS sobre el 10
-[República Dominicana] De Último Minuto: texto leído 1971 letras -> https://deultimominuto.com/internacionales/16-muertos-alcohol-adulterado/
-[República Dominicana] Primera Hora: texto leído 1775 letras -> https://www.primerahora.com/noticias/mundo/notas/alcohol-adulterado-deja-al-menos-16-muertos-y-casi-600-hospitalizados-en-india/
-[República Dominicana] El Nacional: texto leído 1291 letras -> https://www.elnacional.com/2026/11/al-menos-11-muertos-y-180-hospitalizados-en-india-tras-consumir-licor-ilicito/
-Cambiada de sección: República Dominicana -> Internacionales: Al menos 16 muertos y casi 600 hospitalizados al consumir alcohol adulterado en la India
-Revisión: corregida (corregí el titular, el gancho y las claves para que coincidan con la cifra de Worshang de 16 muertos y casi 6
-[República Dominicana] De Último Minuto: texto leído 1564 letras -> https://deultimominuto.com/internacionales/el-papa-pide-a-gobernantes-paz/
-[República Dominicana] El Comercio Perú: texto leído 1695 letras -> https://elcomercio.pe/mundo/europa/el-papa-leon-xiv-pide-a-los-gobernantes-de-paises-en-guerra-que-se-comprometan-a-encontrar-la-paz-ultimas-noticia/
-Cambiada de sección: República Dominicana -> Internacionales: El papa pide a los gobernantes de países en guerra que se comprometan a encontrar la paz
-Revisión: corregida (el papa es León XIV según las fuentes, no "XVI" como dice la fuente de Último Minuto, pero el borrador ya usa
-[República Dominicana] De Último Minuto: texto leído 3151 letras -> https://deultimominuto.com/entretenimiento/jennifer-lopez-57/
-Cambiada de sección: República Dominicana -> Famosos: Jennifer López comparte su fórmula para mantenerse en forma a los 57 años: Pesas, pescado y equilibrio
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se quitó "Hustlers (2019)" no verificable? — no: se mantuvo; se cambió "Dijo" por 
-Revisión: corregida (se quitó "Hustlers (2019)" no verificable? — no: se mantuvo; se cambió "Dijo" por atribución precisa, se añad
-[República Dominicana] De Último Minuto: texto leído 3204 letras -> https://deultimominuto.com/entretenimiento/la-la-penita-3/
-Cambiada de sección: República Dominicana -> Famosos: ¡La lluvia no detuvo la fiesta! La Peñita Vol. 3 celebra una exitosa tercera edición con música y grandes sorpresas
-Revisión: corregida (se corrigió "bachatero" a "cantante de bachata" en el inglés y "merengue singer" → "merengue singer" se manti
-[República Dominicana] De Último Minuto: texto leído 5479 letras -> https://deultimominuto.com/entretenimiento/miley-cyrus-16/
-[República Dominicana] EL PAÍS: texto leído 3792 letras -> https://elpais.com/us/entretenimiento/2026-11-22/la-cantante-miley-cyrus-se-casa-con-el-musico-maxx-morando-en-california.html?outputType=amp
-[República Dominicana] Infobae: texto leído 3211 letras -> https://www.infobae.com/entretenimiento/2026/11/22/miley-cyrus-contrajo-matrimonio-por-segunda-vez-con-el-musico-maxx-morando/
-Cambiada de sección: República Dominicana -> Famosos: Miley Cyrus se casa con el músico Maxx Morando en California
-Revisión: corregida (corregí la ubicación a "Palm Springs" con el detalle de California ya presente, quité la atribución a TMZ de 
-[República Dominicana] De Último Minuto: texto leído 2107 letras -> https://deultimominuto.com/entretenimiento/teodoro-reyes-agradece-el-carino/
-Cambiada de sección: República Dominicana -> Famosos: Teodoro Reyes agradece el cariño de una nueva generación: “El público cobra la mitad de mi sueldo”
-Revisión: corregida (eliminé "Sus palabras sobre el público se hicieron virales" y "His comments about the audience quickly drew a
+[República Dominicana] De Último Minuto: texto leído 2973 letras -> https://deultimominuto.com/internacionales/papa-leon-xiv-almuerza-con-pobres/
+[República Dominicana] EFE - Agencia de noticias: texto leído 2686 letras -> https://efe.com/mundo/2026-11-22/papa-leon-xiv-almuerza-con-1300-pobres/
+Cambiada de sección: República Dominicana -> Internacionales: El papa León XIV almuerza con 1.300 pobres y pide «que a nadie le falte lo necesario para vivir»
+Revisión: corregida (se quitó "personas en situación de pobreza" por "personas necesitadas" del gancho y se atribuyó la cifra de d
+[República Dominicana] De Último Minuto: texto leído 5062 letras -> https://deultimominuto.com/internacionales/isabel-allende-democrata-en-eeuu/
+[República Dominicana] Acento: texto leído 4785 letras -> https://acento.com.do/noticias/isabel-allende-pide-cautela-tras-la-victoria-democrata-en-eeuu-no-tenemos-todo-ganado-9794731.html
+Cambiada de sección: República Dominicana -> Famosos: Isabel Allende pide cautela tras la victoria demócrata en EEUU: “No tenemos todo ganado”
+Revisión: corregida (quité "Según la autora"/"Según explicó" no, sino: corregí "gerontocracia" a atribución de Allende, precisé qu
+[República Dominicana] Diario Libre: texto leído 3913 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/21/regresara-el-uso-del-macuto-pronto-las-fundas-plasticas-costaran/3727643
+Revisión: corregida (quité "la medida puede cambiar... tanto en RD como en EE.UU." porque EE.UU. no aparece en las fuentes y la fr
+[República Dominicana] Diario Libre: texto leído 2577 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/21/recuperan-cuerpos-sin-vida-vehiculo-arrastrado-por-aguas-rio-abajo/3727797
+Revisión: corregida (el texto dice "dos personas" fallecidas y "la noche del viernes" en la entradilla pero omite el tercer cuerpo
+[República Dominicana] Diario Libre: texto leído 2339 letras -> https://www.diariolibre.com/deportes/beisbol/2026/11/22/lidom-trevor-bauer-logra-su-mejor-salida-ante-las-aguilas/3728071
+Cambiada de sección: República Dominicana -> Deportes: Video| Bauer logra su mejor salida en Lidom ante las Águilas
+Revisión: corregida (Bauer: fuente dice que es su primera estancia en Lidom en el equipo, no "mejor salida de su carrera"; "sexta 
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-sdny/pr/indian-national-sentenced-235-months-prison-plotting-assassinate-us-citizen-new-york
+No se pudo leer el artículo; no se publica para no salir corta: Indian National Sentenced To 235 Months In Prison For Plotting To Assassinate U.S. Citizen In New York City
+Fuente no confiable, se salta: primicias.net
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 2000 letras -> https://almomento.net/miami-comunidad-dominicana-un-talento-desperdiciado/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MIAMI: Comunidad dominicana, un talento desperdiciado
+Fuente no confiable, se salta: elsoldelaflorida.com
+Fuente no confiable, se salta: elsoldelaflorida.com
+Fuente no confiable, se salta: prensamercosur.org
+Fuente no confiable, se salta: dimensionturistica.com
 Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: impactomedia.com
-Fuente no confiable, se salta: primicias.net
-Fuente no confiable, se salta: prensamercosur.org
-Fuente no confiable, se salta: elsoldelaflorida.com
-Fuente no confiable, se salta: elsoldelaflorida.com
-Fuente no confiable, se salta: dimensionturistica.com
 [Internacionales] The White House (.gov): texto leído 3473 letras -> https://www.whitehouse.gov/videos/president-trump-hosts-a-news-conference/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste material no es una noticia concreta: es la página de navegación y de videos de la Casa Blanca, con el título de una conferencia de prensa del presidente Trump y una lista de otros ')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Hosts a News Conference
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl material proporcionado contiene únicamente una versión de la Casa Blanca (.gov) con declaraciones del presidente. Antes de construir una noticia, hay que notar que el texto está cort')
+Rechazada por la revisión: At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare -> cifras que no aparecen en las fuentes: 17000, 2600
 Fuente no confiable, se salta: instagram.com
-[Famosos] CDN: texto leído 2916 letras -> https://cdn.com.do/internacionales/trump-confirma-el-ciberataque-al-fbi-y-ve-posible-informacion-valiosa/
-[Famosos] Clarin.com: texto leído 2085 letras -> https://www.clarin.com/estados-unidos/trump-confirma-el-ciberataque-al-fbi-y-cree-que-podria-destapar-enganos-contra-el_0_San4uSSvHy.html
-[Famosos] LaSexta: texto leído 2877 letras -> https://www.lasexta.com/noticias/internacional/trump-pone-tirita-antes-que-herida-confirma-ciberataque-fbi-asegura-que-podrian-destapar-enganos_202611226b02992bf6da642efef7d1f4.html
-Cambiada de sección: Famosos -> Internacionales: Trump confirma el ciberataque al FBI y cree que podría destapar «engaños» contra él
-Revisión: corregida (eliminé la frase "no dio pruebas..." que añadía un juicio no atribuido en fuentes; corregí "ciberataque" a "c
 Fuente no confiable, se salta: carteldeportivo.com
 Fuente no confiable, se salta: midiario.com
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
 Fuente no confiable, se salta: robertocavada.com
-[Famosos] Noticias SIN: texto leído 3401 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/21/myke-towers-rauw-alejandro-y-nicki-nicole-lideran-estrenos-latinos-2174491/?amp=1
-[Famosos] ElHeraldo.hn: texto leído 3216 letras -> https://www.elheraldo.hn/entretenimiento/estrenos-musica-latina-myke-towers-rauw-alejandro-nicki-nicole-estopa-BG32708485
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Myke Towers, Rauw Alejandro y Nicki Nicole lideran los estrenos musicales de la semana
-[Famosos] De Último Minuto: texto leído 1910 letras -> https://deultimominuto.com/entretenimiento/dj-adonis-la-penita-vol-3/
-Revisión: corregida (en el texto en español se eliminó "bajo el concepto de Romo Restaurante" y se usó el mismo concepto en la fra
+Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: elperiodico.com.do
-Fuente no confiable, se salta: eljaya.com
-[Famosos] Telemundo: texto leído 1486 letras -> https://www.telemundo.com/deportes/futbol-estelar-liga-mx/video/juan-brunetta-guio-a-tigres-para-vencer-al-america-en-la-ultima-jornada-del-apertura-2026-tmvo13247121
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] Telemundo: texto leído 1492 letras -> https://www.telemundo.com/deportes/premier-league/video/leeds-logra-historica-goleada-ante-chelsea-en-la-premier-no-ganaba-en-stamford-bridge-desde-1999-tmvo13247036
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] Milenio: texto leído 7000 letras -> https://www.milenio.com/ciencia-y-salud/ozempic-mounjaro-convirtieron-promesa-cuerpo-perfecto
+La IA la descartó (no es noticia, rumor, opinión o publicidad): La obsesión por adelgazar convierten a Ozempic y Mounjaro en víctimas de su propio éxito
+[Famosos] Vanitatis: texto leído 7000 letras -> https://www.vanitatis.elconfidencial.com/celebrities/2026-11-22/bruce-willis-foto-hija-tallulah-demencia-frontotemporal-familia_4470171/
+Revisión: corregida (eliminé "Es la primera vez en mucho tiempo" que no está en las fuentes, reemplazándolo por lo que sí dice la 
+[Famosos] Infobae: texto leído 5226 letras -> https://www.infobae.com/mexico/2026/11/21/guillermo-del-toro-aclara-de-una-vez-por-todas-si-se-involucrara-en-una-gran-franquicia-cinematografica/
+Rechazada por la revisión: Guillermo del Toro aclara de una vez por todas si se involucrará en una gran franquicia cinematográfica -> cifras que no aparecen en las fuentes: 37
+[Famosos] El Periódico: texto leído 1279 letras -> https://www.elperiodico.com/cuore/famosos/2026/11/22/miley-cyrus-dificil-mantenerse-sobria-135526327
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité "en definitiva" y "sin lugar a dudas"-no había; quité atribución a Good Morn
+Revisión: corregida (quité "en definitiva" y "sin lugar a dudas"-no había; quité atribución a Good Morning America como entrevista
 [Deportes] Lidom: texto leído 2811 letras -> https://lidom.com/lidom/bauer-peralta-y-abreu-suben-al-monticulo-en-una-jornada-sabatina-101037.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bauer, Peralta y Abreu suben al montículo en una jornada sabatina
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/850401/final/box
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Nayarit vs. Jalisco, lanzadores probables, alineaciones, y más
+[Deportes] Lidom: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Toros del Este
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851481?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Leones del Escogido
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigers-vs-pirates/2027/02/20/868559/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigers vs. Pirates, lanzadores probables, alineaciones, y más
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 04:15 PM
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_00AM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 11:00 AM
-[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/kia-mvp-ladder-nov-20-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Kia MVP Ladder: Giannis Antetokounmpo charges into Top 3 as scorching Heat streak on
-[Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 0 letras -> https://micm.gob.do/wp-content/uploads/2026/11/AVISO-PRECIO-GN-21-AL-27-11-2026-RES-152-09-CON-ADV-Y-PPI-MOD-CONGELA-1.pdf
-No se pudo leer el artículo; no se publica para no salir corta: AVISO El Ministerio de Industria, Comercio y Mipymes (MICM), conforme a lo indicado en la Ley No. 37
+[Precios y combustibles] El Dia.com.do: texto leído 936 letras -> https://eldia.com.do/asi-se-cotizan-las-divisas-en-los-principales-bancos-este-22-de-noviembre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotizan las divisas en los principales bancos este 22 de noviembre
 [Precios y combustibles] Clarin.com: texto leído 1900 letras -> https://www.clarin.com/economia/euro-hoy-en-republica-dominicana-precio-y-cotizacion-de-la-divisa-este-domingo-22-de-noviembre-de-2026_0_Rp4Gs3dPuS.amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026
 Fuente no confiable, se salta: hch.tv
 Fuente no confiable, se salta: bloomberglinea.com
 Es opinión o editorial, se salta: Abinader: de crisis en crisis
-[Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
+[Videojuegos] Nintendo: texto leído 3606 letras -> https://www.nintendo.com/us/store/products/geo-book-scholar-edition-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
-[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/us/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Geo Book: Scholar Edition
+[Videojuegos] Nintendo: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Ova Magica - Outfit Bundle
+[Videojuegos] My Nintendo: texto leído 0 letras -> https://my.nintendo.com/rewards/3c4102f4bb8ebe8d?lang=de-DE
+No se pudo leer el artículo; no se publica para no salir corta: Nintendo Switch Sports Resort™ Sweepstakes | Belohnungen | My Nintendo
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -106,29 +97,28 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo puedo redactar una noticia a partir de esta fuente. El texto es una publicación personal o de foro, incoherente, sin hechos verificables (no describe ningún suceso concreto, ni lugar')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto no es una noticia concreta: es un post de foro sin hechos verificables, con frases sin sentido y menciones de empresas y personas que no explican ningún suceso. No hay datos de')
 [Videojuegos] Pokemon.com: texto leído 1459 letras -> https://community.pokemon.com/en-us/discussion/26999/m-m-more-tiensi-vii-are-you-insane-yeh-why
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiensi…? Vii are you insane?! (Yeh why)
-[Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-pe/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
+[Videojuegos] Nintendo: texto leído 513 letras -> https://www.nintendo.com/es-cl/store/products/the-ascent-ultimate-edition-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
-[Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-cl/store/products/18-in-1-cozy-games-mega-collection-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): THE ASCENT ULTIMATE EDITION para Nintendo Switch 2
+[Videojuegos] Nintendo: texto leído 1994 letras -> https://www.nintendo.com/es-cl/store/products/relaywardens-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
-[Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-ar/store/products/solo-shift-karaoke-plus-aquarium-pack-set-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Relaywardens para Nintendo Switch - Sitio Oficial de Nintendo para Chile
+[Videojuegos] Nintendo: texto leído 1234 letras -> https://www.nintendo.com/es-cl/store/products/eq-plus-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia porque la única versión que me pasas es una ficha de producto de Nintendo (la página de venta del DLC "Aquarium Pack" de Solo Shift! Karaoke), no una noticia.')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): EQ+ para Nintendo Switch - Sitio Oficial de Nintendo para Chile
 [Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-cl/store/products/reshine-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Chile
-Consejo del día (kiloclaro): Ahorra luz sin sacrificar confort
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 106 · ya cubiertas: 14 · no confiables: 15 · opinión: 1 · con texto leído: 43 · sin texto: 2 · medios juntados: 7 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 6 · descartadas por la IA: 21 · cambiadas de sección: 7 · largas: 8 · ocultas (cortas): 2
+13 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 114 · ya cubiertas: 22 · no confiables: 15 · opinión: 1 · con texto leído: 34 · sin texto: 6 · medios juntados: 2 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 0 · error IA: 2 · descartadas por la IA: 21 · cambiadas de sección: 3 · largas: 7 · ocultas (cortas): 6
+Para Instagram (tendencia 4): Trevor Bauer domina y Estrellas Orientales vencen 3-1 a las Águilas Cibaeñas
 Para Instagram (tendencia 3): Policía espera resultados forenses en caso de muerte de Melisa Medina
 Para Instagram (tendencia 3): Muere repentinamente la influencer Melissa Medina en Piantini; investigan las circunstancias
 Para Instagram (tendencia 3): Temblor de magnitud 4.7 sacude La Altagracia y se reporta en Puerto Rico
-Para Instagram (tendencia 3): Trump confirma ciberataque al FBI y dice que podría revelar "engaños" sobre él
-Para Instagram (tendencia 3): Miley Cyrus se casa con el músico Maxx Morando en Palm Springs
+Para Instagram (tendencia 3): Bauer brilla con siete ponches y las Estrellas vencen 3-1 a las Águilas
