@@ -1,14 +1,11 @@
-Corrida: 2026-11-22 05:47 AM (hora RD)
-[República Dominicana] centralnoticias.gob.do: texto leído 985 letras -> https://centralnoticias.gob.do/tag/campeonato-panamericano-de-beisbol-sub-12/
-[República Dominicana] El Nacional — La voz de todos: texto leído 3431 letras -> https://elnacional.com.do/deportes/venezuela-supera-republica-dominicana-campeonato-panamericano-beisbol-sub-12_586858.html
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nacional — La voz de todos
-Cambiada de sección: República Dominicana -> Deportes: Campeonato Panamericano de Béisbol Sub-12 archivos
-Revisión: corregida (corregido "Venezuela vence 9-6" en el título para mantener consistencia; se mantuvo el resto. Ajustes: "Venez
+Corrida: 2026-11-22 06:47 AM (hora RD)
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/policia-nacional-informa-avances-en-investigacion-por-fallecimiento-de-melisa-medina-espera-resultados-de-patologia-forense/
+[República Dominicana] Ensegundos.do: texto leído 1561 letras -> https://ensegundos.do/2026/11/21/la-policia-espera-resultados-de-patologia-forense-para-determinar-causa-de-muerte-de-melisa-medina/
+Revisión: corregida (quité "Las autoridades también levantaron las imágenes" por "Se revisaron"? No: la fuente dice que las identi
 [República Dominicana] DGII: texto leído 1996 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-gastos-menores-dietas-y-viticos-rechazados-como-gastos-deducibles-inconsistencia-ir2/6b01b3333a9daeeaea39c4ef
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre gastos menores, dietas y viáticos rechazados como gastos deducibles – Inconsistencia IR-2
-[República Dominicana] Banco Central de la República Dominicana: texto leído 386 letras -> https://repositoriocultural.bancentral.gov.do/items/c4b3c140-8a20-4f81-975f-273dbf300b8b
-No se pudo leer el artículo; no se publica para no salir corta: Boletín mensual, junio de 1986
 [República Dominicana] De Último Minuto: texto leído 1141 letras -> https://deultimominuto.com/entretenimiento/urbanda-agradece-acogida/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Urbanda agradece acogida en La Peñita Vol. 3 y promete regresar con nueva música
 [República Dominicana] De Último Minuto: texto leído 1607 letras -> https://deultimominuto.com/nacionales/angel-de-la-cruz-integracion/
@@ -16,83 +13,85 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Ángel de la C
 [República Dominicana] De Último Minuto: texto leído 1563 letras -> https://deultimominuto.com/entretenimiento/melissa-nunez-15/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Melissa Núñez eleva la dominicanidad en su presentación de traje típico
 Es opinión o editorial, se salta: Machismo animal vs. hombre
-[República Dominicana] Acento: texto leído 6170 letras -> https://acento.com.do/actualidad/asecom-juramenta-su-nueva-directiva-encabezada-por-el-periodista-abraham-marmolejos-9794473.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ASECOM juramenta su nueva directiva encabezada por el periodista Abraham Marmolejos
+Es opinión o editorial, se salta: Urge que Planeamiento Urbano cumpla con la ley
 [República Dominicana] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/la-cosmolinguistica-de-gerardo-roa-ogando-9792857.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): La cosmolingüística de Gerardo Roa Ogando
+Es opinión o editorial, se salta: De nuevo sobre el Light Steel Frame
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1213 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-20-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 20, 2026
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: asturiasmundial.com
+[Dominicanos en EE.UU.] Diario Libre: texto leído 3570 letras -> https://www.diariolibre.com/amp/actualidad/nacional/2026/11/21/trasladan-a-higuey-a-los-detenidos-por-red-de-narcotrafico/3727602
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Trasladan a Higüey a los 22 detenidos en red de narcotráfico que enviaba drogas a Puerto Rico
+Revisión: corregida (quité "Sources say"/"Según fuentes" sin atribución clara y dejé la fecha como no confirmada; corregí "La inve
+Fuente no confiable, se salta: asturiasmundial.com
+Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: prensamercosur.org
 Fuente no confiable, se salta: dimensionturistica.com
 Fuente no confiable, se salta: 2001online.com
-Fuente no confiable, se salta: primicias.net
-Fuente no confiable, se salta: impactomedia.com
-Fuente no confiable, se salta: asturiasmundial.com
-Fuente no confiable, se salta: primicias.net
 [Internacionales] The White House (.gov): texto leído 3473 letras -> https://www.whitehouse.gov/videos/president-trump-hosts-a-news-conference/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es una página de video del sitio oficial de la Casa Blanca que muestra un título ("President Trump Hosts a News Conference"), una fecha (20 de no')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no contiene una noticia concreta. El texto es la página de navegación y el listado de videos de la Casa Blanca, con el título "President Trump Hosts a News Conference" y la ')
 [Internacionales] The White House (.gov): texto leído 3142 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/president-trump-brings-home-billions-in-economic-growth-and-strengthens-americas-security/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Brings Home Billions in Economic Growth and Strengthens America’s Security
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo completar esta tarea tal como está planteada, porque la única versión que me das es un comunicado oficial de la Casa Blanca, y el texto se corta antes de que aparezca cualquier otra versión d')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una transcripción de una rueda de prensa de la Casa Blanca, con declaraciones del presidente que no siempre pueden verificarse de forma independiente, y el mat')
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: carteldeportivo.com
 Fuente no confiable, se salta: midiario.com
 [Famosos] CDN: texto leído 2278 letras -> https://cdn.com.do/internacionales/tatiana-kim-deja-la-direccion-general-de-wildberries/
-[Famosos] Infobae: texto leído 1227 letras -> https://www.infobae.com/america/agencias/2026/11/21/renuncia-directora-general-del-gigante-de-comercio-electronico-ruso-wildberries/
-No encaja en ninguna sección, se salta: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
+[Famosos] EFE - Agencia de noticias: texto leído 1216 letras -> https://efe.com/economia/renuncia-directora-general-gigante-comercio-electronico-ruso-wildberries/
+[Famosos] Noticias SIN: texto leído 1477 letras -> https://noticiassin.com/mundo/europa/2026/11/21/tatiana-kim-deja-wildberries-tras-sanciones-de-la-ue-y-ataques-ucranianos-2174441/?amp=1
+Cambiada de sección: Famosos -> Internacionales: Renuncia directora general del gigante de comercio electrónico ruso Wildberries
+Rechazada por la revisión: Renuncia directora general del gigante de comercio electrónico ruso Wildberries -> cifras que no aparecen en las fuentes: 12, 59
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
-[Famosos] Acento: texto leído 7000 letras -> https://acento.com.do/cultura/el-poder-frente-a-la-cultura-i-9793688.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El poder frente a la cultura (I)
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: elperiodico.com.do
 [Famosos] Noticias SIN: texto leído 3401 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/21/myke-towers-rauw-alejandro-y-nicki-nicole-lideran-estrenos-latinos-2174491/?amp=1
 [Famosos] ElHeraldo.hn: texto leído 3216 letras -> https://www.elheraldo.hn/entretenimiento/estrenos-musica-latina-myke-towers-rauw-alejandro-nicki-nicole-estopa-BG32708485
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Myke Towers, Rauw Alejandro y Nicki Nicole lideran los estrenos musicales de la semana
 Fuente no confiable, se salta: eljaya.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/we-are-all-human-gala-nueva-york-willy-chavarria-homenajeados-12269812
-No se pudo leer el artículo; no se publica para no salir corta: We Are All Human celebra el talento hispano con una gala llena de estrellas en Nueva York
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/regalo-adamari-lopez-no-haria-hija-navidad-12266989
-No se pudo leer el artículo; no se publica para no salir corta: El regalo que Adamari López no haría a su hija
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851449?ins=previa&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Gigantes del Cibao vs Tigres del Licey
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/mexicali-vs-obregon/2026/11/21/850405/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mexicali 5, Obregon 6 Resultado Final (21/11/2026)
+[Famosos] Infobae: texto leído 5419 letras -> https://www.infobae.com/tendencias/2026/11/22/kim-kardashian-deslumbra-en-la-formula-1-de-las-vegas-con-un-look-de-cuero-rojo-inspirado-en-los-2000/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Kim Kardashian deslumbra en la Fórmula 1 de Las Vegas con un look de cuero rojo inspirado en los 2000
+[Famosos] Infobae: texto leído 3759 letras -> https://www.infobae.com/teleshow/2026/11/21/dolor-por-la-muerte-de-un-legendario-luchador-de-titanes-en-el-ring/
+Cambiada de sección: Famosos -> Deportes: Dolor por la muerte de un legendario luchador de Titanes en el Ring
+Revisión: corregida (se corrigió "Juegos Panamericanos de 1975" a "los Juegos Panamericanos que Santiago de Chile debía organizar 
+[Famosos] Infobae: texto leído 4272 letras -> https://www.infobae.com/teleshow/2026/11/21/wanda-nara-revelo-el-metodo-que-utilizo-para-lograr-su-rotundo-cambio-fisico-tengo-prohibido-los-dulces/
+Revisión: corregida (se quitó "TV host" por "conductora" no aplica; se corrigió "TV host" a "host" no es necesario; cambios reales
 [Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/mlb-free-agents-in-2026-2027-class-who-are-toughest-to-project
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Which version of these top free agents will their next teams be getting?
+Revisión: corregida (corregí "Tyler Mahle, abridor" a "abridor" ya estaba bien; cambié "Trent Grisham, jardinero" sin cambio de da
 [Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que me has pasado es un archivo PDF en bruto (estructura interna, objetos, streams comprimidos), no el texto de una noticia. El único contenido legible es el encabezado: "Injury Report: 11/21/26 04')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que recibí no es una noticia: es el contenido binario de un archivo PDF (encabezados, objetos, streams comprimidos e imágenes codificadas) con el titular genérico "Injury Repor')
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_11_00AM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no contiene una noticia redactable: es el contenido binario de un archivo PDF (un informe de lesiones de la NBA con metadatos y streams comprimidos), sin texto legible sobr')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo que recibí como "Versión 1" no es una noticia. Es el contenido binario de un PDF (encabezados de objetos, metadatos de GemBox y flujos de imagen comprimidos) con un titular genérico,')
+[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/kia-mvp-ladder-nov-20-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Kia MVP Ladder: Giannis Antetokounmpo charges into Top 3 as scorching Heat streak on
+Fuente no confiable, se salta: utahjazz.com
+[Deportes] ESPN Deportes: texto leído 157 letras -> https://espndeportes.espn.com/futbol/espana/nota/_/id/17156747/espana-laliga-como-esta-la-clasificacion-barcelona-real-madrid-temporada-2026-2027
+No se pudo leer el artículo; no se publica para no salir corta: Real Madrid gana y no da tregua al Barcelona: así va la tabla de LaLiga
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 970 letras -> https://www.micm.gob.do/transparencia/finanzas/reporte-de-inventario-en-almacen/category/agosto-131
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Industria, Comercio y Mipymes
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/cinco-municipios-del-noroeste-forman-parte-de-plan-contra-la-sequia/
-No se pudo leer el artículo; no se publica para no salir corta: Cinco municipios del noroeste forman parte de plan contra la sequía
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: hch.tv
-Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: asturiasmundial.com
-Fuente no confiable, se salta: ntelemicro.com
+[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/economia/economista-recomienda-planificar-las-compras-y-comparar-precios-antes-de-aprovechar-el-black-friday-9794089.html
+Revisión: corregida (eliminé "Sus recomendaciones" del gancho sin cambio de hecho; quité "Tampoco existe" por ajuste de tono; atri
 [Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
 [Videojuegos] Nintendo: texto leído 2314 letras -> https://www.nintendo.com/us/store/products/rebirth-blossom-the-spirit-chronicles-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Rebirth Blossom - The Spirit Chronicles
+Revisión: corregida (eliminé "cabe destacar"-tipo relleno no presente; ajusté "Según el editor" a "Según el editor" → "Según la de
+[Videojuegos] Nintendo: texto leído 1283 letras -> https://www.nintendo.com/us/store/products/ova-magica-outfit-bundle-70050000085535-switch-2/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ova Magica - Outfit Bundle
 [Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
@@ -105,22 +104,22 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiens
 [Videojuegos] Pokemon.com: texto leído 1220 letras -> https://community.pokemon.com/en-us/discussion/26989/forever-friends-potential-update
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Forever friends potential update
-[Videojuegos] Nintendo: texto leído 2436 letras -> https://www.nintendo.com/es-pe/store/products/i-fell-for-the-florist-a-suspense-romance-adventure-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
-[Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-pe/store/products/reshine-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Peru
-[Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-pe/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
+[Videojuegos] Nintendo: texto leído 462 letras -> https://www.nintendo.com/es-cl/store/products/cooking-tycoons-3-in-1-bundle-discovery-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Cooking Tycoons - 3 in 1 Bundle Discovery Edition
 [Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-cl/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
-[Videojuegos] Nintendo: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Brain Training Jigsaw Puzzle World Scenery
+[Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-cl/store/products/reshine-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es la página oficial de Nintendo para Chile que describe el juego Reshine para Nintendo Switch. No es una noticia: se trata de una ficha de producto con texto publicitario, por lo que no c')
+[Videojuegos] Nintendo: texto leído 2945 letras -> https://www.nintendo.com/es-mx/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
+[Videojuegos] Nintendo: texto leído 3437 letras -> https://www.nintendo.com/es-mx/store/products/killer-clown-boy-his-final-show-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Killer Clown Boy: Her Final Show
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 120 · ya cubiertas: 16 · no confiables: 21 · opinión: 1 · con texto leído: 33 · sin texto: 7 · medios juntados: 1 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 1 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 25 · cambiadas de sección: 1 · largas: 1 · ocultas (cortas): 7
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 114 · ya cubiertas: 15 · no confiables: 17 · opinión: 3 · con texto leído: 38 · sin texto: 3 · medios juntados: 1 · con fuente oficial: 17 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 22 · cambiadas de sección: 3 · largas: 7 · ocultas (cortas): 2
