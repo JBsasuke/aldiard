@@ -1,132 +1,126 @@
-Corrida: 2026-11-22 11:48 AM (hora RD)
-[República Dominicana] DGII: texto leído 137 letras -> https://dgii.gov.do/rst/indexrst.aspx
-No se pudo leer el artículo; no se publica para no salir corta: Régimen Simplificado de Tributación (RST)
+Corrida: 2026-11-22 12:22 PM (hora RD)
+[República Dominicana] Vicepresidencia de la Republica Dominicana: texto leído 5414 letras -> https://vicepresidencia.gob.do/raquel-pena-destaca-que-la-transformacion-educativa-comienza-con-el-compromiso-de-las-familias-y-las-escuelas/
+Fuente oficial encontrada: Vicepresidencia de la Republica Dominicana 
+Revisión: corregida (quité "Esto dijo." del gancho y "Lo dijo" a "afirmó" para evitar la repetición; corregí "moving the speech" n
+[República Dominicana] centralnoticias.gob.do: texto leído 1546 letras -> https://centralnoticias.gob.do/uasd-cierra-con-exito-los-xlv-juegos-deportivos-tony-barreiro-2026/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: República Dominicana -> Deportes: UASD cierra con éxito los XLV Juegos Deportivos Tony Barreiro 2026
+Revisión: corregida (eliminé "con éxito" y "cerró/closed successfully" por no estar en la fuente; la fuente dice "celebró el acto 
+[República Dominicana] centralnoticias.gob.do: texto leído 1379 letras -> https://centralnoticias.gob.do/destacan-compromiso-de-carolina-mejia-con-las-oportunidades-y-el-desarrollo-de-la-juventud/
+Fuente oficial encontrada: centralnoticias.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Destacan compromiso de Carolina Mejía con las oportunidades y el desarrollo de la juventud
 [República Dominicana] Banco Central de la República Dominicana: texto leído 1033 letras -> https://repositoriocultural.bancentral.gov.do/statistics/items/3c689ad1-4240-4406-8a20-0c98693a0285
 Fuente oficial encontrada: Banco Central de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido corresponde a la página de estadísticas de un repositorio digital (un registro de visitas a un archivo PDF del Boletín mensual de mayo de 1986 del Banco Central). No d')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Statistics for Boletín mensual, mayo de 1986
 [República Dominicana] DGII: texto leído 1996 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/consulta-sobre-gastos-menores-dietas-y-viticos-rechazados-como-gastos-deducibles-inconsistencia-ir2/6b01b3333a9daeeaea39c4ef
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta sobre gastos menores, dietas y viáticos rechazados como gastos deducibles – Inconsistencia IR-2
 [República Dominicana] DGII: texto leído 1552 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/ecf-para-servicios-de-construccin-bajo-la-norma-general-072007-cmo-se-reporta-el-itbis-sobre-el-10/6b01f8d84895ae0f6ef24e50
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): e-CF para servicios de construcción bajo la Norma General 07-2007: ¿cómo se reporta el ITBIS sobre el 10
-[República Dominicana] De Último Minuto: texto leído 3161 letras -> https://deultimominuto.com/nacionales/the-digital-school-ia-escuelas/
-Revisión: corregida (la universidad en inglés decía "Arizona State University" pero la fuente dice "Universidad Estatal de Arizona
-[República Dominicana] De Último Minuto: texto leído 4336 letras -> https://deultimominuto.com/nacionales/iglesia-familia-feminicidios/
-Revisión: corregida (se quitó la mención a EE.UU. que no aparece en las fuentes; se agregó la fecha y el lugar del evento; se atri
-[República Dominicana] De Último Minuto: texto leído 1003 letras -> https://deultimominuto.com/internacionales/aglomeraciones-aeropuerto-madrid/
-[República Dominicana] www.abc.com.py: texto leído 507 letras -> https://www.abc.com.py/internacionales/2026/11/22/aglomeraciones-en-el-aeropuerto-de-madrid-por-una-averia-en-el-tren-entre-dos-terminales/?outputType=amp
-[República Dominicana] Noticias SIN: texto leído 1256 letras -> https://noticiassin.com/mundo/espana/2026/11/22/aglomeraciones-en-el-aeropuerto-de-madrid-por-una-averia-en-el-tren-entre-t4-y-t4s-2174790/
-Cambiada de sección: República Dominicana -> Internacionales: Aglomeraciones en el aeropuerto de Madrid por una avería en el tren entre dos terminales
-Revisión: corregida (se añadió "gestor aeroportuario" y se corrigió "el tren que une" a "el tren que comunica" en el gancho para m
-[República Dominicana] De Último Minuto: texto leído 1563 letras -> https://deultimominuto.com/entretenimiento/melissa-nunez-15/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Melissa Núñez eleva la dominicanidad en su presentación de traje típico
-[República Dominicana] El Nuevo Diario: texto leído 3528 letras -> https://elnuevodiario.com.do/carolina-mejia-es-reconocida-por-juntas-de-vecinos-de-cristo-rey/
-[República Dominicana] Ayuntamiento del Distrito Nacional: texto leído 3624 letras -> https://adn.gob.do/carolina-mejia-es-reconocida-por-juntas-de-vecinos-de-cristo-rey/
-Fuente oficial encontrada: Ayuntamiento del Distrito Nacional | para completar: El Nuevo Diario
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Carolina Mejía es reconocida por juntas de vecinos de Cristo Rey
-[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 0 letras -> https://www.justice.gov/usao-ma/pr/illegal-alien-pleads-guilty-healthcare-benefit-fraud
-No se pudo leer el artículo; no se publica para no salir corta: District of Massachusetts | Illegal Alien Pleads Guilty to Healthcare Benefit Fraud
+[República Dominicana] De Último Minuto: texto leído 1617 letras -> https://deultimominuto.com/nacionales/politica/senador-johnson-carolina/
+Revisión: corregida (se quitó "Dominican" en TEXT_EN por redundancia y se ajustó el inglés a "primera presidenta"; el resto coinci
+[República Dominicana] De Último Minuto: texto leído 2523 letras -> https://deultimominuto.com/nacionales/politica/fellito-subervi-carolina-prm/
+Revisión: corregida (eliminé "prácticamente" duplicado en el primer párrafo de inglés; "Dominican Republic" agregado a "PRM leader
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 2000 letras -> https://almomento.net/miami-comunidad-dominicana-un-talento-desperdiciado/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MIAMI: Comunidad dominicana, un talento desperdiciado
-Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: prensamercosur.org
 Fuente no confiable, se salta: dimensionturistica.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2452 letras -> https://elnuevodiario.com.do/sergio-chocolate-radio-toribio-reafirma-su-proyeccion-internacional/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Sergio “Chocolate Radio” Toribio reafirma su proyección internacional
-Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: impactomedia.com
-Fuente no confiable, se salta: primicias.net
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 1372 letras -> https://almomento.net/rd-extradita-a-dos-requeridos-en-ny-por-asesinato-y-narcotrafico/
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: RD extradita a dos requeridos en NY por asesinato y narcotráfico
-Revisión: corregida (cambié "Felicito Celestino Mercedes" sin cambios; ajusté "asesinato en segundo grado" del resumen en el ganch
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 2676 letras -> https://almomento.net/por-que-tantos-dominicanos-hicieron-de-washington-su-casa/
+Revisión: corregida (eliminé "cabe destacar"-tipo relleno no presente; corregí la fecha de Galíndez en el texto para que no se atr
 [Internacionales] The White House (.gov): texto leído 3473 letras -> https://www.whitehouse.gov/videos/president-trump-hosts-a-news-conference/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Hosts a News Conference
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es la portada/página de videos de The White House (.gov). No contiene el contenido de una noticia concreta: solo muestra el menú de navegación del sitio, una lista de enlac')
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una transcripción de un briefing de prensa de la Casa Blanca y no contiene una noticia concreta de un hecho verificable: se compone de declaraciones y afirmaciones del pr')
-[Internacionales] The White House (.gov): texto leído 5149 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-protects-the-executives-privileges-and-enhances-efficiencies-in-federal-contracting/
-Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (eliminé la mención de "reacción de líderes legislativos" del gancho porque las fuentes no incluyen ninguna re
-Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: carteldeportivo.com
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un comunicado de la Casa Blanca (whitehouse.gov) sobre un briefing de prensa del presidente Trump. El texto que me pasaste está cortado y además contiene únicamente decla')
+[Internacionales] The White House (.gov): texto leído 3830 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/national-adoption-month-2026/
+[Internacionales] U.S. Senator Amy Klobuchar (.gov): texto leído 2185 letras -> https://www.klobuchar.senate.gov/public/index.cfm/news-releases?ID=85B9C10E-C14A-4928-9DCB-CED1E69AF77D
+Fuente oficial encontrada: The White House (.gov), U.S. Senator Amy Klobuchar (.gov) 
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se ajustó "Super Intelligence" no aplica; se corrigió la atribución del premio y s
+Revisión: corregida (se ajustó "Super Intelligence" no aplica; se corrigió la atribución del premio y se eliminó "Trump proclama" 
+[Famosos] El Dia.com.do: texto leído 2347 letras -> https://eldia.com.do/merengueros-el-festival-sera-el-gran-evento-del-dia-nacional-del-merengue/
+Cambiada de sección: Famosos -> Deportes: Merengueros el Festival será el gran evento del Día Nacional del Merengue
+Revisión: corregida (SECCION cambiada de Deportes a Cultura/Espectáculos; "Ala Jaza" omitido en la versión en español del párrafo 
+[Famosos] Diario Libre: texto leído 4612 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/21/piden-prision-preventiva-para-arrestados-en-red-de-narcotrafico/3727723
+Cambiada de sección: Famosos -> República Dominicana: Un regidor de Higüey entre los 22 imputados por narcotráfico para quienes piden prisión preventiva
+Revisión: corregida (quité "Fiscalía" como sinónimo sin fuente... en realidad lo mantengo; cambié "sobre todo" por "principalmente
 [Famosos] El Nuevo Diario: texto leído 5481 letras -> https://elnuevodiario.com.do/el-arte-dominicano-mira-al-futuro-a-traves-del-legado-de-juan-jose-bellapart/
 No encaja en ninguna sección, se salta: El arte dominicano mira al futuro a través del legado de Juan José Bellapart
-[Famosos] El Nuevo Diario: texto leído 1326 letras -> https://elnuevodiario.com.do/mas-de-20-artistas-participaran-en-concierto-por-el-dia-nacional-del-merengue/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté "Merengueros El Festival" a "Merengueros El Festival" sin cambios de nombre
-Revisión: corregida (ajusté "Merengueros El Festival" a "Merengueros El Festival" sin cambios de nombre; quité "Hosting duties wil
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: remolacha.net
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/decoracion-accion-de-gracias-12244812
-No se pudo leer el artículo; no se publica para no salir corta: ¡Acción de Gracias en casa! Ideas fáciles y asequibles para una decoración cálida, acogedora y elegante
 Fuente no confiable, se salta: yucatan.com.mx
 Fuente no confiable, se salta: hoy.com.py
 Fuente no confiable, se salta: cooperativa.cl
-Fuente no confiable, se salta: instagram.com
-[Famosos] El Nuevo Día: texto leído 3164 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/el-mensaje-de-esperanza-de-jennifer-barreto-a-horas-de-la-competencia-de-traje-tipico-en-miss-universe/
-Revisión: corregida (se quitó "Here is what it symbolizes" del gancho en inglés, que añadía un enunciado no presente en el español
+Fuente no confiable, se salta: informador.mx
+[Famosos] El Nuevo Día: texto leído 5521 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/los-momentos-mas-impactantes-del-desfile-de-trajes-nacionales-de-miss-universe-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Los momentos más impactantes del Desfile de Trajes Nacionales de Miss Universe 2026
+Fuente no confiable, se salta: teleantioquia.co
+Fuente no confiable, se salta: lasestrellas.tv
+[Famosos] Infobae: texto leído 5524 letras -> https://www.infobae.com/entretenimiento/2026/11/22/ocho-casas-de-famosos-que-se-convirtieron-en-museos-y-conservan-recuerdos-de-sus-vidas/
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. Me pides escribir una noticia propia a partir de versiones de medios ajenos que, según veo en el texto, son en su mayoría notas d')
+[Famosos] Diario AS: texto leído 2206 letras -> https://as.com/tikitakas/famosos/ferran-adria-64-anos-sobre-la-inmigracion-en-espana-si-puedo-le-pago-un-poco-mas-porque-esta-lejos-de-su-familia-f202611-n/
+Revisión: corregida (se cambió "Ferran Adrià" a "chef Ferran Adrià"? No: se corrigió la atribución del programa y la cita de afect
 [Deportes] Lidom: texto leído 2811 letras -> https://lidom.com/lidom/bauer-peralta-y-abreu-suben-al-monticulo-en-una-jornada-sabatina-101037.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bauer, Peralta y Abreu suben al montículo en una jornada sabatina
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-aguilas/2026/11/27/851551/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones vs. Aguilas, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872042/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mayaguez vs. Carolina, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/aguilas-vs-cardenales/2026/11/25/869960/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas vs. Cardenales, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872043/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Ponce vs. Santurce, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872044/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: San Juan vs. Caguas, lanzadores probables, alineaciones, y más
-Fuente no confiable, se salta: cubanet.org
-Fuente no confiable, se salta: hch.tv
+[Deportes] MLB.com: texto leído 5638 letras -> https://www.mlb.com/news/brady-ebel-matthew-wood-excelling-for-brewers-in-minor-leagues
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto de la versión 1 es una nota de MLB.com sobre prospectos de los Cerveceros de Milwaukee, con perfiles de jugadores y una selección de posibles revelaciones para 2027. Aunque tra')
+[Deportes] MLB.com: texto leído 1373 letras -> https://www.mlb.com/news/non-tendered-mlb-free-agents-2026-2027
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Complete list of non-tendered players
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-21_04_15PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/21/26 04:15 PM
+Fuente no confiable, se salta: utahjazz.com
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_06_30PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/20/26 06:30 PM
+[Deportes] NBA.com: texto leído 1699 letras -> https://www.nba.com/game/sac-vs-lal-0022600051/blueprint
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Sacramento Kings vs Los Angeles Lakers Nov 20, 2026 NBA Blueprint
 Fuente no confiable, se salta: bloomberglinea.com
 Es opinión o editorial, se salta: Abinader: de crisis en crisis
 Fuente no confiable, se salta: ntelemicro.com
-Fuente no confiable, se salta: diariodigitalrd.com
 [Precios y combustibles] El Dia.com.do: texto leído 932 letras -> https://eldia.com.do/asi-se-cotizan-las-divisas-en-los-principales-bancos-este-22-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotizan las divisas en los principales bancos este 22 de noviembre
 [Precios y combustibles] Clarin.com: texto leído 1900 letras -> https://www.clarin.com/economia/euro-hoy-en-republica-dominicana-precio-y-cotizacion-de-la-divisa-este-domingo-22-de-noviembre-de-2026_0_Rp4Gs3dPuS.amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026
-[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/attack-on-titan-3-switch-2/
+[Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una página de navegación del sitio oficial de Nintendo (menús, enlaces de tienda y soporte) con el título de un juego, pero no contiene una noticia concreta: no describe ')
-[Videojuegos] Nintendo: texto leído 269 letras -> https://www.nintendo.com/my/games/switch2/lineup/index.html
-No se pudo leer el artículo; no se publica para no salir corta: Nintendo Switch 2 Games
-[Videojuegos] Pokemon.com: texto leído 5452 letras -> https://www.pokemon.com/us/features/art-of-the-pokemon-tcg-mega-evolution-delta-reign-expansion
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Art of the Pokémon TCG: Mega Evolution—Delta Reign Expansion
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
 [Videojuegos] Pokemon.com: texto leído 2321 letras -> https://community.pokemon.com/en-us/discussion/26990/tiensi-announcement-about-pause-in-posts
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tiensi Announcement About Pause In Posts
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es un post de foro sin estructura informativa, con afirmaciones incoherentes, referencias a personas y empresas sin contexto verificable y sin hechos concr')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Why I choose to play Pokemon the cowboy way, and why you might and not even know it.
 [Videojuegos] Pokemon.com: texto leído 1459 letras -> https://community.pokemon.com/en-us/discussion/26999/m-m-more-tiensi-vii-are-you-insane-yeh-why
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiensi…? Vii are you insane?! (Yeh why)
-[Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-cl/store/products/18-in-1-cozy-games-mega-collection-switch/
+[Videojuegos] Pokemon.com: texto leído 470 letras -> https://access.pokemon.com/login
+No se pudo leer el artículo; no se publica para no salir corta: Play! Pokémon-account - Pokemon.com
+[Videojuegos] Pokemon.com: texto leído 702 letras -> https://community.pokemon.com/en-us/discussion/26997/we-need-to-talk
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): We need to talk…
+[Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-ar/store/products/solo-shift-karaoke-plus-aquarium-pack-set-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Solo Shift! Karaoke + Aquarium Pack Set
 [Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-cl/store/products/reshine-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Esta entrada no corresponde a una noticia concreta: es la ficha de producto de un juego en la tienda oficial de Nintendo (la página del sitio chileno de Nintendo), con su descripción comercial, requis')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Chile
 [Videojuegos] Nintendo: texto leído 2945 letras -> https://www.nintendo.com/es-mx/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
-[Videojuegos] Nintendo: texto leído 3437 letras -> https://www.nintendo.com/es-mx/store/products/killer-clown-boy-his-final-show-switch/
+[Videojuegos] Nintendo: texto leído 1841 letras -> https://www.nintendo.com/es-mx/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Killer Clown Boy: Her Final Show
-Traducidas al inglés: 1 (quedan 0 por traducir)
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-16 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 87 · ya cubiertas: 20 · no confiables: 21 · opinión: 1 · con texto leído: 32 · sin texto: 9 · medios juntados: 2 · con fuente oficial: 16 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 17 · cambiadas de sección: 2 · largas: 7 · ocultas (cortas): 9
+10 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 104 · ya cubiertas: 22 · no confiables: 16 · opinión: 1 · con texto leído: 38 · sin texto: 1 · medios juntados: 1 · con fuente oficial: 18 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 3 · error IA: 4 · descartadas por la IA: 24 · cambiadas de sección: 3 · largas: 9 · ocultas (cortas): 1
 Para Instagram (tendencia 4): RD extradita a dos hombres requeridos en Nueva York por asesinato y narcotráfico
+Para Instagram (tendencia 3): Piden prisión preventiva para 22 imputados de red de narcotráfico que operaba desde Higüey y Miches
 Para Instagram (tendencia 3): Temblor de magnitud 4.7 sacude La Altagracia y se reporta en Puerto Rico
-Para Instagram (tendencia 3): Aglomeraciones en el aeropuerto de Madrid por avería en el tren entre terminales
-Para Instagram (tendencia 3): Trump confirma ciberataque al FBI y dice que podría revelar "engaños" sobre él
-Para Instagram (tendencia 3): Miley Cyrus se casa con el músico Maxx Morando en Palm Springs
+Para Instagram (tendencia 3): Gran concierto gratuito celebrará el Día Nacional del Merengue en Santo Domingo Este
+Para Instagram (tendencia 3): Más de 20 artistas del merengue se reúnen en concierto gratuito por su día nacional
