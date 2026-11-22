@@ -1,26 +1,44 @@
-Corrida: 2026-11-22 05:48 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 6412 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-inaugura-el-liceo-proverbios-de-salomon-con-24-aulas-en-el
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (corregí el nombre del liceo a "Los Proverbios de Salomón" según la nota de prensa, quité "gratuito" del trans
-[República Dominicana] De Último Minuto: texto leído 3172 letras -> https://deultimominuto.com/uncategorized/luis-gil-acuerda-contrato-de-un-ano-y-us2-3-millones-con-los-tigres-de-detroit/
-[República Dominicana] El Dia.com.do: texto leído 1920 letras -> https://eldia.com.do/luis-gil-acuerda-con-detroit-por-un-ano-y-us2-3-millones/
-Cambiada de sección: República Dominicana -> Deportes: Luis Gil acuerda contrato de un año y US$2.3 millones con los Tigres de Detroit
-Revisión: corregida (ajusté la atribución de la fecha del acuerdo al New York Daily News y corregí "Yankees" en la oración de Red 
-[República Dominicana] De Último Minuto: texto leído 2242 letras -> https://deultimominuto.com/nacionales/intrant-detecta-2-personas/
-[República Dominicana] Noticias SIN: texto leído 2758 letras -> https://noticiassin.com/pais/nacional/2026/11/22/intrant-detiene-a-dos-buscados-y-retiene-12-vehiculos-en-operativos-2174852/
-Revisión: corregida (corregí la ortografía y la traducción de las claves en inglés, completé "drivers" y "vehicles" en las claves,
-[República Dominicana] De Último Minuto: texto leído 4899 letras -> https://deultimominuto.com/uncategorized/dirigente-del-escogido-apuesta-a-la-ejecucion-y-la-confianza-para-frenar-mala-racha/
-Cambiada de sección: República Dominicana -> Deportes: Dirigente del Escogido apuesta a la ejecución y la confianza para frenar mala racha
-Revisión: corregida (quité "Según explicó" del primer párrafo para que no sobre atribución; el borrador ya atribuye la fuente corr
-[República Dominicana] De Último Minuto: texto leído 2874 letras -> https://deultimominuto.com/nacionales/marchan-congreso-ley-mirabal/
-Revisión: corregida (se cambió "Dra." por "doctora" en inglés "Dr." → sin cambio de título; se quitó "Dr." para mantener el título
+Corrida: 2026-11-22 06:30 PM (hora RD)
+[República Dominicana] centralnoticias.gob.do: texto leído 1409 letras -> https://centralnoticias.gob.do/noticias/
+Fuente oficial encontrada: centralnoticias.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Noticias archivos - Central de Noticias %
+[República Dominicana] De Último Minuto: texto leído 2163 letras -> https://deultimominuto.com/internacionales/democratas-con-258-escanos/
+[República Dominicana] Univision: texto leído 6978 letras -> https://www.univision.com/noticias/estados-unidos/los-democratas-obtienen-una-mayoria-historica-al-ganar-258-escanos-en-la-camara-de-representantes-su-mayor-victoria-desde-1992
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] El Nuevo Herald: texto leído 0 letras -> https://amp.elnuevoherald.com/noticias/estados-unidos/article318204321.html
+Cambiada de sección: República Dominicana -> Internacionales: Los demócratas obtienen 258 escaños en la Cámara de Representantes, un récord en décadas
+Revisión: corregida (eliminé "Según esos mismos medios" y lo reemplacé por atribución explícita; quité la mención a Irán como caus
+[República Dominicana] De Último Minuto: texto leído 3000 letras -> https://deultimominuto.com/nacionales/modernizacion-sistema-aviacion/
+Revisión: corregida (se quitó "en el marco" → corregido el lugar del acuerdo; se eliminó la frase de relleno "El objetivo es" se m
+[República Dominicana] De Último Minuto: texto leído 2660 letras -> https://deultimominuto.com/deportes/anuncian-duelo-del-caribe-5/
+Cambiada de sección: República Dominicana -> Deportes: LIDOM y FENAPEPRO anuncian el Duelo del Caribe entre República Dominicana y Puerto Rico
+Revisión: corregida (se quitó "Vea quiénes integrarán cada selección" del gancho, se ajustó "Es una oportunidad..." a lo que dice 
+[República Dominicana] De Último Minuto: texto leído 2214 letras -> https://deultimominuto.com/deportes/beisbol/tarik-skubal-acuerda-con-los-mets-por-nueve-anos-y-us450-millones/
+[República Dominicana] MLB.com: texto leído 3244 letras -> https://www.mlb.com/es/news/tarik-skubal-acuerda-con-los-mets-por-nueve-anos-y-us-450-millones-fuente
+Cambiada de sección: República Dominicana -> Deportes: Tarik Skubal acuerda con los Mets por nueve años y US$450 millones
+Revisión: corregida (eliminé "según informó una fuente a MLB.com" → atribución correcta a MLB.com/Mark Feinsand; corregí "Detroit 
+[República Dominicana] De Último Minuto: texto leído 4867 letras -> https://deultimominuto.com/nacionales/frente-amplio-plantea-reforma/
+Revisión: corregida (se aclaró que las denuncias sobre muertes atribuidas a enfrentamientos policiales vienen de Cándido Mercedes 
+[República Dominicana] De Último Minuto: texto leído 6971 letras -> https://deultimominuto.com/nacionales/justicia/red-de-rompeolas-cocaina-caballo/
+[República Dominicana] El Dia.com.do: texto leído 3893 letras -> https://eldia.com.do/operacion-rompeolas-la-red-movia-7000-kilos-de-cocaina-al-ano-hacia-puerto-rico/
+No encaja en ninguna sección, se salta: Red de narcotráfico del caso Rompeolas movía cocaína a lomo de caballos en Miches, según MP
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/tag/olga-dina-llaverias/
+No se pudo leer el artículo; no se publica para no salir corta: Olga Diná Llaverías archivos
+[República Dominicana] Acento: texto leído 5766 letras -> https://acento.com.do/actualidad/quienes-son-y-como-operaban-los-involucrados-en-la-operacion-rompeolas-9794862.html
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/operacion-rompeolas-quienes-son-los-22-acusados/
+Revisión: corregida (se quitaron frases de relleno; se corrigió la atribución de la cifra de 140 millones y de los roles, que en e
 [Dominicanos en EE.UU.] Ministerio de Turismo de la República Dominicana: texto leído 3300 letras -> https://noticias.mitur.gob.do/reportajes/la-isabela-historica-y-arqueologica-destino-turistico-con-un-fresco-y-magico-sabor/
 Fuente oficial encontrada: Ministerio de Turismo de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): La Isabela Histórica y Arqueológica, destino turístico con un fresco y mágico sabor
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es un texto promocional del Ministerio de Turismo sobre el destino La Isabela, sin una noticia concreta: no hay un hecho nuevo, fecha, cifras ni desenlace, y su tono es de p')
+[Dominicanos en EE.UU.] En Salud Digital: texto leído 1936 letras -> https://ensaluddigital.gob.do/hospitales-de-la-red-publica-continuaran-realizando-pruebas-pcr-gratis/
+Fuente oficial encontrada: En Salud Digital 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Hospitales de la Red Pública continuarán realizando pruebas PCR gratis
+Revisión: corregida (se cambió "Ministerio de Salud" por "ministro de Salud" en la atribución del anuncio, se precisó que el anunc
 Fuente no confiable, se salta: newsinamerica.com
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 2000 letras -> https://almomento.net/miami-comunidad-dominicana-un-talento-desperdiciado/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MIAMI: Comunidad dominicana, un talento desperdiciado
-Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: dimensionturistica.com
@@ -28,62 +46,43 @@ Fuente no confiable, se salta: espaciodeprensa.com
 Fuente no confiable, se salta: prensa-latina.cu
 Fuente no confiable, se salta: newsinamerica.com
 Fuente no confiable, se salta: impactomedia.com
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3005 letras -> https://elnuevodiario.com.do/hilario-taveras-califica-de-descomunal-el-respaldo-a-leonel-fernandez-en-taino-towers/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Hilario Taveras califica de «descomunal» el respaldo a Leonel Fernández en Taíno Towers
 [Internacionales] The White House (.gov): texto leído 3907 letras -> https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una transcripción de una rueda de prensa de la Casa Blanca con declaraciones del presidente Trump, publicada en el sitio oficial whitehouse.gov. Aunque se trat')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una transcripción de una rueda de prensa de la Casa Blanca con declaraciones del presidente. No es una noticia concreta redactada por un medio, sino un comunic')
 [Internacionales] The White House (.gov): texto leído 770 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-5284-h-r-8352-and-h-r-10159-signed-into-law/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Congressional Bills H.R. 5284, H.R. 8352, and H.R. 10159 Signed into Law
-[Internacionales] US Embassy Online Auction (.gov): texto leído 2355 letras -> https://online-auction.state.gov/
-Fuente oficial encontrada: US Embassy Online Auction (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Online Auction Home Page
-Fuente no confiable, se salta: carteldeportivo.com
+Revisión: corregida (se añadieron atribuciones a la Casa Blanca en el gancho y en la primera línea del texto ya estaban; se elimin
 Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: midiario.com
+[Famosos] El Nuevo Diario: texto leído 925 letras -> https://elnuevodiario.com.do/bochinche-chary-y-georgina-duluc-protagonizan-polemica-en-torno-a-alofoke/
+Revisión: corregida (eliminé "según reporta/El Nuevo Diario" repetido por atribución excesiva en la última frase, corregí "de que 
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: momentodeportivord.com
-Fuente no confiable, se salta: latingrammy.com
-Fuente no confiable, se salta: gritaradio.com
-Fuente no confiable, se salta: elpais.com.co
-Fuente no confiable, se salta: oem.com.mx
-Fuente no confiable, se salta: economiadigital.es
-Fuente no confiable, se salta: ritmoromantica.pe
-Fuente no confiable, se salta: harpersbazaar.com
 [Famosos] HOLA: texto leído 4974 letras -> https://www.hola.com/viajes/20261122936204/alberto-san-juan-pueblo-cuenca-canamares/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): El pueblo de Cuenca que marcó la infancia de Alberto San Juan: "Es gran parte de mi origen y mi historia"
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. Me pides escribir una noticia propia a partir de un único texto fuente, y lo que trae la versión que me pasaste es una semblanza ')
 [Famosos] HOLA: texto leído 5228 letras -> https://www.hola.com/decoracion/20261122936209/alex-baena-casa-soltero-chalet-moderno-madrid/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así es la espectacular casa de soltero del jugador Álex Baena en Madrid: un chalet contemporáneo sin estridencias, espacios abiertos y jardín con piscina
 [Famosos] HOLA: texto leído 5325 letras -> https://www.hola.com/horoscopo/geminis/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Géminis hoy: predicción y características del signo
 [Famosos] HOLA: texto leído 6150 letras -> https://www.hola.com/horoscopo/aries/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Aries hoy: predicción y características del signo
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/vendedora-hispana-que-tenia-su-puesto-de-comida-muere-tragicamente-12258458
-No se pudo leer el artículo; no se publica para no salir corta: Matan a vendedora ambulante hispana mientras trabajaba en las calles de Los Ángeles
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/hijo-prende-fuego-padre-esposa-victima-lo-escucha-por-telefono-12264666
-No se pudo leer el artículo; no se publica para no salir corta: Hijo prende fuego a su padre mientras la esposa de la víctima lo escucha horrorizada por teléfono
-[Deportes] MLB.com: texto leído 340 letras -> https://www.mlb.com/es/video/carter-beck-on-being-drafted-to-the-braves
-No se pudo leer el artículo; no se publica para no salir corta: Carter Beck on being drafted to the Braves
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/navegantes-vs-tiburones/2026/11/25/869961/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Navegantes vs. Tiburones, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 2247 letras -> https://www.mlb.com/es/video/lidom-live-gigantes-vs-aguilas-251494
-La IA la descartó (no es noticia, rumor, opinión o publicidad): LIVE: Gigantes del Cibao @ Águilas Cibaeñas | 22/11/2026
-[Deportes] MLB.com: texto leído 1156 letras -> https://www.mlb.com/es/cubs/news/luis-gil-llega-a-un-acuerdo-con-los-tigres-fuente
-Revisión: corregida (quité "de 28 años" del texto? No: se mantuvo; cambié "primeros cuatro meses de 2025" sin cambios; corregí "AL
-[Deportes] MLB.com: texto leído 5638 letras -> https://www.mlb.com/news/brady-ebel-matthew-wood-excelling-for-brewers-in-minor-leagues
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es un artículo de análisis deportivo sobre prospectos de los Cerveceros de Milwaukee en el sistema de ligas menores, con opiniones y valoraciones de la redacción (por ejemp')
-[Deportes] MLB.com: texto leído 1925 letras -> https://www.mlb.com/news/luis-gil-tigers-deal
-Revisión: corregida (corregí "en 2024... 15-7 con efectividad de 3.50 en 29 aperturas" sin cambios de cifras; quité "Sin embargo" 
+[Famosos] Infobae: texto leído 5419 letras -> https://www.infobae.com/tendencias/2026/11/22/kim-kardashian-deslumbra-en-la-formula-1-de-las-vegas-con-un-look-de-cuero-rojo-inspirado-en-los-2000/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Kim Kardashian deslumbra en la Fórmula 1 de Las Vegas con un look de cuero rojo inspirado en los 2000
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-gigantes-vs-aguilas-251494
+No se pudo leer el artículo; no se publica para no salir corta: LIVE: Gigantes del Cibao @ Águilas Cibaeñas | 22/11/2026
+[Deportes] MLB.com: texto leído 4122 letras -> https://www.mlb.com/es/amp/news/naranjeros-vapulea-a-mayos-en-la-lmp.html
+Revisión: corregida (corregí "4-3" a "4-for-3" en inglés, que ya estaba bien; los cambios reales: "Hermosillo anotó siete carreras
+[Deportes] MLB.com: texto leído 2722 letras -> https://www.mlb.com/news/tarik-skubal-mets-contract
+Revisión: corregida (quité "Skubal ganó el premio Cy Young en 2024 y 2025" del texto en español? No: corregí "Tarik Skubal" a "Tar
 [Precios y combustibles] El Dia.com.do: texto leído 932 letras -> https://eldia.com.do/asi-se-cotizan-las-divisas-en-los-principales-bancos-este-22-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotizan las divisas en los principales bancos este 22 de noviembre
-[Precios y combustibles] Acento: texto leído 3389 letras -> https://acento.com.do/economia/produccion-de-larimar-supera-las-372000-libras-en-diez-meses-segun-energia-y-minas-9794795.html
-[Precios y combustibles] Hoy Digital: texto leído 4282 letras -> https://hoy.com.do/economia/produccion-larimar-supera-372-000-libras-primeros-diez-meses-2026_1109485.html
-[Precios y combustibles] Ensegundos.do: texto leído 3501 letras -> https://ensegundos.do/2026/11/22/produccion-de-larimar-supera-las-372000-libras-entre-enero-y-octubre-de-2026/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Producción de larimar supera las 372,000 libras en diez meses, según Energía y Minas
-Revisión: corregida (se corrigió "diez meses" a "primeros diez meses" en el titular para precisar el período según las fuentes; se
 [Precios y combustibles] Clarin.com: texto leído 1900 letras -> https://www.clarin.com/economia/euro-hoy-en-republica-dominicana-precio-y-cotizacion-de-la-divisa-este-domingo-22-de-noviembre-de-2026_0_Rp4Gs3dPuS.amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026
+Fuente no confiable, se salta: cubanet.org
+Es opinión o editorial, se salta: Abinader: de crisis en crisis
 [Videojuegos] Nintendo: texto leído 918 letras -> https://www.nintendo.com/en-ca/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Official Site - Canada - Consoles, Games, and More
@@ -93,24 +92,28 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Joy-Con 2 feel
 [Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
-[Videojuegos] Nintendo Support: texto leído 1285 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/68507/~/unusual-noise-coming-from-the-joy-con%26nbsp%3B2
-Fuente oficial encontrada: Nintendo Support 
-Revisión: corregida (eliminé "Nintendo explica" del título y "Nintendo" del gancho por no ser exacto respecto a la fuente oficial;
+[Videojuegos] Pokemon.com: texto leído 2192 letras -> https://community.pokemon.com/en-us/discussion/27017/x-y-in-online-expanded-format
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): X&Y in online Expanded format
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto de la Versión 1 no es una noticia concreta: es un post de foros de Pokémon, de tono personal y humorístico, con frases sin sentido (como "la nota de los frijoles que se importa')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Why I choose to play Pokemon the cowboy way, and why you might and not even know it.
 [Videojuegos] Pokemon.com: texto leído 987 letras -> https://www.pokemon.com/uk/play-pokemon/internationals/2027/latin-america/event-results
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon Latin America International Championships Event Results
+[Videojuegos] Pokemon.com: texto leído 1459 letras -> https://community.pokemon.com/en-us/discussion/26999/m-m-more-tiensi-vii-are-you-insane-yeh-why
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): M-m-more Tiensi…? Vii are you insane?! (Yeh why)
 [Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-cl/store/products/reshine-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Chile
+Traducidas al inglés: 1 (quedan 0 por traducir)
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
 13 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 3 · ya vistas: 89 · ya cubiertas: 17 · no confiables: 21 · opinión: 0 · con texto leído: 32 · sin texto: 4 · medios juntados: 4 · con fuente oficial: 12 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 15 · cambiadas de sección: 3 · largas: 9 · ocultas (cortas): 4
-Para Instagram (tendencia 4): Más de 20 artistas del merengue se reúnen en concierto gratuito por su día nacional
-Para Instagram (tendencia 4): RD extradita a dos hombres requeridos en Nueva York por asesinato y narcotráfico
-Para Instagram (tendencia 3): Producción de larimar supera las 372,000 libras en los primeros diez meses de 2026
-Para Instagram (tendencia 3): Defensor del Pueblo y AECID impulsan proyecto para fortalecer derechos en el país
-Para Instagram (tendencia 3): Trevor Bauer gana su primer juego en la Lidom y Estrellas Orientales vencen 3-1 a las Águilas
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 94 · ya cubiertas: 25 · no confiables: 13 · opinión: 1 · con texto leído: 35 · sin texto: 4 · medios juntados: 4 · con fuente oficial: 13 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 18 · cambiadas de sección: 4 · largas: 11 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Caso Rompeolas: Ministerio Público pide prisión para 22 acusados de narcotráfico
+Para Instagram (tendencia 3): Demócratas alcanzan 258 escaños en la Cámara de Representantes de EE.UU., la mayor cifra en décadas
+Para Instagram (tendencia 3): Falla técnica en Delta retrasa miles de vuelos en el aeropuerto de Atlanta
+Para Instagram (tendencia 3): Gran concierto gratuito celebrará el Día Nacional del Merengue en Santo Domingo Este
+Para Instagram (tendencia 3): Aglomeraciones en el aeropuerto de Madrid por avería en el tren entre terminales
