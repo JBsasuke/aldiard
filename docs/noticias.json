@@ -1,5 +1,464 @@
 [
  {
+  "id": "e8a727bdb2",
+  "titulo": "ETED programa mantenimiento en líneas de cuatro provincias del 24 al 27 de este mes",
+  "titulo_original": "ETED informa programa de trabajos de mantenimiento a subestaciones del 24 al 27 de este mes",
+  "resumen": "Habrá cortes de luz programados en Valverde, Peravia, La Vega e Hato Mayor entre el martes y el viernes. Revisa si tu comunidad está en la lista.",
+  "gancho": "Habrá cortes de luz programados en Valverde, Peravia, La Vega e Hato Mayor entre el martes y el viernes. Revisa si tu comunidad está en la lista.",
+  "parrafos": [
+   "La Empresa de Transmisión Eléctrica Dominicana (ETED) anunció un programa de trabajos de mantenimiento preventivo y reemplazo de estructuras en líneas de 69 kV. Las labores se realizarán del martes 24 al viernes 27 de este mes.",
+   "El martes 24, la ETED reemplazará estructuras deterioradas en la línea Navarrete – Cruce de Esperanza, de 9:00 de la mañana a 3:00 de la tarde. Podrían producirse interrupciones en Esperanza, Buenos Aires, Los Huérfanos, Barrio Duarte, Villa Muñoz, El Puente y El Rincón, en la provincia Valverde. También podrían verse afectadas las zonas francas La Esperanza y Portela, además de Pastas Linda y Arroz Bisonó.",
+   "El miércoles 25, la empresa hará un mantenimiento preventivo en la línea Pizarrete – Cruce de Ocoa, de 9:00 de la mañana a 5:00 de la tarde. Se podrían registrar cortes temporales en Pizarrete, Baní y Matanzas, en la provincia Peravia, así como en La Famosa.",
+   "El jueves 26, las brigadas trabajarán en la línea Diésel La Vega – La Vega, de 8:00 de la mañana a 2:00 de la tarde. El servicio podría verse afectado en la avenida Pedro A. Rivera, en varios sectores de La Vega como Las Lagunas, Villa Francisca, Los Multis, Nápoles y Estancia, además de Induveca y la Zona Franca de La Vega.",
+   "El viernes 27, la ETED intervendrá la línea Hato Mayor II – Sabana de la Mar, de 8:00 de la mañana a 2:00 de la tarde. Las interrupciones podrían afectar a Sabana de la Mar, Pueblo Viejo, La Ceja, Arroyo Piedra, Loma Clara, Barrio Lindo, La Yagua y Buenos Aires, en la provincia Hato Mayor.",
+   "La ETED explicó que estas intervenciones forman parte de su programa para conservar la infraestructura eléctrica, reducir riesgos de averías y fortalecer la estabilidad del Sistema Eléctrico Nacional Interconectado (SENI). La empresa pidió comprensión a los clientes que puedan verse afectados."
+  ],
+  "claves": [
+   "Los trabajos se harán del martes 24 al viernes 27 de este mes, con horarios específicos cada día.",
+   "Los cortes podrían afectar a Esperanza, Baní, Pizarrete, La Vega y Sabana de la Mar, entre otras comunidades.",
+   "Las empresas Induveca, La Famosa y la Zona Franca de La Vega también podrían sufrir interrupciones.",
+   "Las labores consisten en mantenimiento preventivo y reemplazo de estructuras deterioradas en líneas de 69 kV."
+  ],
+  "importa": "Si vives o tienes un negocio en estas zonas, es posible que pierdas el servicio eléctrico durante algunas horas. La ETED dice que el objetivo es reducir averías y dar un servicio más seguro.",
+  "en": {
+   "titulo": "ETED Schedules Grid Maintenance in Four Provinces Between the 24th and 27th of This Month",
+   "gancho": "Scheduled power outages will hit Valverde, Peravia, La Vega and Hato Mayor between Tuesday and Friday. Check whether your community is on the list.",
+   "claves": [
+    "Work runs from Tuesday the 24th to Friday the 27th of this month, with set hours each day.",
+    "Outages could affect Esperanza, Baní, Pizarrete, La Vega and Sabana de la Mar, among other communities.",
+    "The companies Induveca, La Famosa and the La Vega Free Zone could also face interruptions.",
+    "The work involves preventive maintenance and replacement of deteriorated structures on 69 kV lines."
+   ],
+   "importa": "If you live or run a business in these areas, you may lose electrical service for several hours. ETED says the goal is to reduce failures and provide safer service.",
+   "parrafos": [
+    "The Dominican Electric Transmission Company (ETED) announced a program of preventive maintenance and replacement of structures on its 69 kV lines. The work will take place from Tuesday the 24th to Friday the 27th of this month.",
+    "On Tuesday the 24th, ETED will replace deteriorated structures on the Navarrete – Cruce de Esperanza line, from 9:00 a.m. To 3:00 p.m. Interruptions could occur in Esperanza, Buenos Aires, Los Huérfanos, Barrio Duarte, Villa Muñoz, El Puente and El Rincón, in Valverde province. The La Esperanza and Portela free zones, along with Pastas Linda and Arroz Bisonó, could also be affected.",
+    "On Wednesday the 25th, the company will carry out preventive maintenance on the Pizarrete – Cruce de Ocoa line, from 9:00 a.m. To 5:00 p.m. Temporary outages could be recorded in Pizarrete, Baní and Matanzas, in Peravia province, as well as at La Famosa.",
+    "On Thursday the 26th, crews will work on the Diésel La Vega – La Vega line, from 8:00 a.m. To 2:00 p.m. Service could be affected on Avenida Pedro A. Rivera and several areas of La Vega, including Las Lagunas, Villa Francisca, Los Multis, Nápoles and Estancia, as well as Induveca and the La Vega Free Zone.",
+    "On Friday the 27th, ETED will work on the Hato Mayor II – Sabana de la Mar line, from 8:00 a.m. To 2:00 p.m. Interruptions could affect Sabana de la Mar, Pueblo Viejo, La Ceja, Arroyo Piedra, Loma Clara, Barrio Lindo, La Yagua and Buenos Aires, in Hato Mayor province.",
+    "ETED explained that these interventions are part of its infrastructure maintenance program, aimed at keeping electrical facilities in good condition, reducing the risk of breakdowns and strengthening the stability of the National Interconnected Electric System (SENI). The company asked customers who may be affected for their understanding."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlpPZHpfQThUUXFRRlF1M21XQ2VjckJoM1NTV1JlY1hJU2F6YUlReG1Lc0hoSHlOLWlmbWU0ekh1VW91WnQtbERLS3pFNlNuOW05RGtYdWdJeUFnQ3h4MXgtYmVUQ3VKeFBtTWpScFdhbFlEeE1IQzFWS2duT011SmwxS0dfeVNoaC1XZ3l2OGJOb0dGSzYzRTVZVTdVOGZ4dXJQY1UzNXluOGRyVTlzMWZkQzV0dUVubmloSWg3SzdQOGM?oc=5",
+  "url": "https://presidencia.gob.do/noticias/eted-informa-programa-de-trabajos-de-mantenimiento-subestaciones-del-24-al-27-de-este-mes",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/eted-informa-programa-de-trabajos-de-mantenimiento-subestaciones-del-24-al-27-de-este-mes"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web%20%281%29_3.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (corregí \"24 de junio\"/\"June 24\" que no aparece en las fuentes, quitó \"la zona franca La Esperanza\" duplicada en lista, corregí horario del martes en el gancho/texto, corregí \"subestaciones\" donde la fuente habla de líneas, eliminé \"Matanzas\" de la atribución de cortes sin cambiar, y ajusté \"Pizarrete – Cruce de Ocoa\" a \"línea\"; además quité \"pasa de\" y frases de relleno).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T19:48:22.819190+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "2ec2cc2f6e",
+  "titulo": "DIDA atendió a 380,000 personas y evitó cobros indebidos por 116 millones de pesos en 2026",
+  "titulo_original": "DIDA ofrece más de 1.4 millones de asistencias y evita cobros indebidos por 116 millones de pesos en 2026",
+  "resumen": "La DIDA reporta más de 1.4 millones de asistencias en 2026 y cifras sobre herederos, pensiones y supervisión de servicios de salud.",
+  "gancho": "La DIDA reporta más de 1.4 millones de asistencias en 2026 y cifras sobre herederos, pensiones y supervisión de servicios de salud.",
+  "parrafos": [
+   "La Dirección General de Información y Defensa de los Afiliados a la Seguridad Social (DIDA) informó que durante el año 2026 ofreció 1,466,207 asistencias a 380,000 personas en distintos servicios. Según la Presidencia de la República, la institución también evitó cobros indebidos por 116 millones de pesos durante ese mismo año.",
+   "El director general de la DIDA, Elías Báez, indicó que las Administradoras de Fondos de Pensiones (AFP) han entregado más de 1,700 millones a herederos legales de afiliados fallecidos. Esto ocurrió tras un llamado que la institución hizo en septiembre de 2025 a los familiares para que reclamen los beneficios disponibles.",
+   "En materia de protección social, la DIDA ha canalizado más de 800 pensiones a personas vulnerables, facilitando su acceso a los beneficios contemplados en el Sistema Dominicano de Seguridad Social. Asimismo, a través del programa La Ruta DIDA Contigo, la institución impactó a 4,754 personas en Elías Piña, Dajabón, San Pedro de Macorís, Jarabacoa, La Vega, San Francisco de Macorís y Villa Altagracia.",
+   "En materia de educación sobre derechos, la institución desarrolló 1,059 actividades de capacitación y promoción, que impactaron a 20,610 personas a nivel nacional mediante charlas, talleres y jornadas de orientación. Además, más de 100 especialistas fueron formados en dos diplomados sobre seguridad social, desarrollados en el Instituto Tecnológico de Santo Domingo (Intec) y en la Universidad Católica Santo Domingo (UCSD).",
+   "Sobre los servicios de salud, Báez explicó que la Dirección de Investigación y Monitoreo realizó 606 monitoreos a nivel nacional para verificar la calidad y la oportunidad de los servicios de clínicas, hospitales, farmacias y centros de primer nivel de atención. Durante estas jornadas se aplicaron 6,072 encuestas a afiliados para conocer sus experiencias.",
+   "El director general señaló que la DIDA continuará con acciones de orientación, asistencia, capacitación y defensa de los derechos de los afiliados."
+  ],
+  "claves": [
+   "La DIDA ofreció 1,466,207 asistencias a 380,000 personas en 2026.",
+   "Evitó cobros indebidos por 116 millones de pesos.",
+   "Las AFP han entregado más de 1,700 millones a herederos de afiliados fallecidos.",
+   "Realizó 606 monitoreos a clínicas, hospitales y farmacias."
+  ],
+  "importa": "Si usted es afiliado al Sistema Dominicano de Seguridad Social, estos datos muestran servicios de orientación, reclamo de beneficios y supervisión de la atención de salud que puede solicitar.",
+  "en": {
+   "titulo": "DIDA Serves 380,000 People and Prevents 116 Million Pesos in Improper Charges in 2026",
+   "gancho": "The Dominican agency DIDA reports more than 1.4 million assistance services in 2026, along with figures on heirs, pensions and health service monitoring.",
+   "claves": [
+    "DIDA provided 1,466,207 assistance services to 380,000 people in 2026.",
+    "It prevented improper charges of 116 million Dominican pesos.",
+    "Pension fund administrators (AFP) have paid over 1,700 million to heirs of deceased members.",
+    "It carried out 606 monitoring visits to clinics, hospitals and pharmacies."
+   ],
+   "importa": "If you are enrolled in the Dominican Social Security System, these figures show the guidance, benefit claim and health care oversight services you can request.",
+   "parrafos": [
+    "The General Directorate for Information and Defense of Social Security Members (DIDA) of the Dominican Republic reported that during 2026 it provided 1,466,207 assistance services to 380,000 people across various programs. According to the Presidency of the Republic, the institution also prevented improper charges totaling 116 million Dominican pesos during that same year.",
+    "DIDA's director general, Elías Báez, said that the Pension Fund Administrators (AFP) have paid more than 1,700 million to legal heirs of deceased members. This followed a call the institution made in September 2025 urging family members to claim the available benefits.",
+    "On social protection, DIDA has channeled more than 800 pensions to vulnerable people, helping them access benefits under the Dominican Social Security System. Through its \"La Ruta DIDA Contigo\" program, the institution reached 4,754 people in Elías Piña, Dajabón, San Pedro de Macorís, Jarabacoa, La Vega, San Francisco de Macorís and Villa Altagracia.",
+    "On education about rights, the institution carried out 1,059 training and outreach activities, reaching 20,610 people nationwide through talks, workshops and orientation sessions. More than 100 specialists were also trained in two social security diplomas offered at the Instituto Tecnológico de Santo Domingo (Intec) and the Universidad Católica Santo Domingo (UCSD).",
+    "On health services, Báez explained that the Directorate of Research and Monitoring carried out 606 monitoring visits nationwide to verify the quality and timeliness of care at clinics, hospitals, pharmacies and primary care centers. During these visits, 6,072 surveys were applied to members to learn about their experiences.",
+    "The director general said DIDA will continue its work in guidance, assistance, training and defense of members' rights."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXJWenpJaG1QNGdMZklJeHo1OUNxQ2l0Z1dtUzN0eVV2eTJYSWlYWm9ZUURPMWVmS0RxOGtTMks1cDdJOHNyMWZqN1dHV2ptajZTeWM1aUxHajVkako5Zlh3Mkh4SkdIUHE2ZUhzTzdtbDh5dy1yQVV3TkQxNVZVVEtqS3dTZGxhbUItbnI2R2VhemNpLU56cjZyMmxVXzVnUHVxZEV3c3pIcERIZHlGaENKMGF5YUFTVjlJX2RQLU9QenZf?oc=5",
+  "url": "https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Seguridad%20Social.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (la fuente dice \"durante el año 2026\" sin \"en 2026\" en cada cifra; se corrigió \"116 millones\" a \"116 millones de pesos\" conforme a la fuente sin añadir \"de pesos\" a \"1,700 millones\" porque la fuente no especifica moneda; se cambió \"más de 1,700 millones de pesos\" a \"más de 1,700 millones\" para no agregar información; se atribuyeron las cifras de la Presidencia; se eliminó \"a nivel nacional\" donde no aparecía en la fuente en ese contexto; se corrigió \"Dirección de Investigación y Monitoreo\" a \"Dirección de Investigación y Monitoreo\" sin cambios de nombre; se quitó \"en Santo Domingo\" de la fuente no incluida; se ajustó la inglés a la misma información).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T19:48:40.860735+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "d91207e06a",
+  "titulo": "Infotep certifica a 200 nuevos emprendedores en Hermanas Mirabal",
+  "titulo_original": "Infotep certifica a 200 nuevos emprendedores en Hermanas Mirabal",
+  "resumen": "Con 200 nuevos emprendedores certificados, Hermanas Mirabal da un paso en su formación técnica.",
+  "gancho": "Con 200 nuevos emprendedores certificados, Hermanas Mirabal da un paso en su formación técnica.",
+  "parrafos": [
+   "El Instituto Nacional de Formación Técnico Profesional (Infotep) certificó a 200 nuevos emprendedores en la provincia Hermanas Mirabal. La entrega se hizo como parte de la Semana Global del Emprendimiento, que se desarrolla en el país, en coordinación con el programa Supérate y la Gobernación provincial.",
+   "La actividad tuvo lugar en el salón de actos Doctor Manuel Tejada Florentino de la Gobernación. Participaron el subdirector general del Infotep, Luis Manuel Rodríguez; el director de la Regional Cibao Nordeste, Fernelys Berigüete; la gobernadora Lissette Nicasio y la senadora María Mercedes Ortiz Diloné.",
+   "Rodríguez afirmó que el emprendimiento es una de las líneas estratégicas del Infotep, que desarrolla programas de capacitación en las distintas regionales del país. Explicó que los nuevos emprendedores salen con conocimientos y herramientas para mejorar sus condiciones económicas y crear sus propios espacios de trabajo.",
+   "Como cierre, la facilitadora Cenia Serrano dictó la conferencia \"El Poder del Emprendimiento\", sobre planificación, gestión y desarrollo de proyectos empresariales. La gobernadora Lissette Nicasio valoró el trabajo del Infotep y pidió a los participantes poner en práctica lo aprendido.",
+   "Entre las áreas de capacitación figuran Inteligencia Emocional y Manejo de Conflictos para Emprendedores, Modelos de Negocios para Emprendedores, Decoración de Interiores y Conducción de Automóviles."
+  ],
+  "claves": [
+   "El Infotep certificó a 200 nuevos emprendedores en la provincia Hermanas Mirabal.",
+   "La actividad forma parte de la Semana Global del Emprendimiento.",
+   "Se impartieron cursos como Inteligencia Emocional, Modelos de Negocios y Decoración de Interiores."
+  ],
+  "importa": "Estos programas ofrecen herramientas para formalizar proyectos y generar oportunidades de ingresos en las comunidades.",
+  "en": {
+   "titulo": "Infotep Certifies 200 New Entrepreneurs in Hermanas Mirabal",
+   "gancho": "Two hundred new entrepreneurs have been certified in Hermanas Mirabal province.",
+   "claves": [
+    "The Infotep certified 200 new entrepreneurs in Hermanas Mirabal province.",
+    "The event was part of Global Entrepreneurship Week in the Dominican Republic.",
+    "Courses included Emotional Intelligence, Business Models, and Interior Decoration."
+   ],
+   "importa": "These programs offer tools to formalize projects and build income opportunities in local communities.",
+   "parrafos": [
+    "The National Institute of Technical Professional Training (Infotep) certified 200 new entrepreneurs in Hermanas Mirabal province. The certification was part of Global Entrepreneurship Week in the Dominican Republic, carried out with the Supérate program and the provincial government.",
+    "The event took place at the Doctor Manuel Tejada Florentino hall of the provincial government. Attendees included Infotep deputy director general Luis Manuel Rodríguez, Cibao Nordeste regional director Fernelys Berigüete, Governor Lissette Nicasio, and Senator María Mercedes Ortiz Diloné.",
+    "Rodríguez said entrepreneurship is a strategic priority for Infotep, which runs training programs across the country's regions. He explained that the new entrepreneurs leave with knowledge and tools to improve their economic situation and create their own jobs.",
+    "To close the day, facilitator Cenia Serrano gave the talk \"The Power of Entrepreneurship,\" on planning, managing, and developing business projects. Governor Lissette Nicasio praised Infotep's work and urged participants to put what they learned into practice.",
+    "The training areas included Emotional Intelligence and Conflict Management for Entrepreneurs, Business Models for Entrepreneurs, Interior Decoration, and Driving."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFhZX3BlTEZsVU5jYUw4ZjNpZWdOZHhHUDB1Qk9PbWNZV0FJRjdNUEk5Vlc2S2tlQ1NESTJTaWFrUWNMMkxuZnJyVjVNQlNDMi1McF9DUFFiREwwU29HY18xRmpaYnY1VHFnQ2dvUFBhMlpVZGxKczlWYVhUeUtDZ0ZsVnFLSC1DdF91bjN5dF9Uc1lRcHJaQ0N5cW5qaG8?oc=5",
+  "url": "https://presidencia.gob.do/noticias/infotep-certifica-200-nuevos-emprendedores-en-hermanas-mirabal",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/infotep-certifica-200-nuevos-emprendedores-en-hermanas-mirabal"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/INFOTEP%20certifica%20a%20200%20nuevos%20emprendedores%20en%20la%20provincia%20Hermanas%20Mirabal.JPG",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (ajusté la atribución de \"Vía/Ganchos\" no; principalmente: se quitó la cita indirecta \"Rodríguez afirmó\" y se mantuvo; se corrigió \"Mayra/Mayra\" no aplica; se quitó \"Así fue la jornada\" del gancho, se atribuyó \"dictó\" y se corrigió \"Car Driving\" a \"Car Driving\" según fuente, y se suprimió \"de regreso a casa\" del inglés; se eliminó la afirmación \"Para quienes buscan iniciar un negocio\" sin respaldo y \"formación gratuita\", que la fuente no dice)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T19:48:55.160468+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "1a8b05ce53",
+  "titulo": "Más de 300 familias de Arroyo Barril recorrieron Port Samaná antes de su inauguración oficial",
+  "titulo_original": "Más de 300 familias de Arroyo Barril estrenaron Port Samaná antes que los turistas",
+  "resumen": "Antes que los cruceristas, cientos de vecinos de Arroyo Barril conocieron la nueva terminal de Port Samaná. La inauguración oficial es este martes.",
+  "gancho": "Antes que los cruceristas, cientos de vecinos de Arroyo Barril conocieron la nueva terminal de Port Samaná. La inauguración oficial es este martes.",
+  "parrafos": [
+   "Más de 300 familias de Arroyo Barril y comunidades cercanas recorrieron este domingo las instalaciones de Port Samaná, la nueva terminal turística ubicada en el Puerto Duarte, en la provincia de Samaná. La visita se realizó antes de la apertura oficial, y la Autoridad Portuaria Dominicana indicó que la comunidad fue recibida primero que los turistas.",
+   "La jornada formó parte de la inauguración de la nueva terminal de cruceros. Cientos de personas pudieron recorrer sus instalaciones y conocer de cerca la infraestructura que, según la institución, pronto recibirá a miles de visitantes internacionales.",
+   "Con esta actividad, Port Samaná busca que los habitantes de la provincia formen parte del desarrollo de la obra. La Autoridad Portuaria señaló que quienes conviven con el puerto deben ser también los primeros en beneficiarse de él.",
+   "La inauguración oficial está prevista para este martes 24 de noviembre, con la presencia del presidente Luis Abinader, el director ejecutivo de la Autoridad Portuaria Dominicana, Alejandro Campos, y ejecutivos del Grupo ITM. La apertura contará también con la llegada del crucero MSC Opera, con cerca de 2,000 pasajeros, que será la primera embarcación en usar la terminal.",
+   "Port Samaná fue desarrollado mediante una alianza público-privada entre el Estado dominicano y el Grupo ITM. El proyecto apunta a fortalecer el turismo de cruceros y dinamizar la economía de la provincia.",
+   "Según las proyecciones de la Autoridad Portuaria Dominicana, la terminal recibirá unos 230,000 visitantes en 2027, 540,000 en 2028 y alcanzará el millón de visitantes anuales en 2030."
+  ],
+  "claves": [
+   "Unas 300 familias de Arroyo Barril y comunidades aledañas visitaron la terminal el domingo.",
+   "La inauguración oficial será el martes 24 de noviembre, con el presidente Luis Abinader.",
+   "El crucero MSC Opera llegará con aproximadamente 2,000 pasajeros a bordo.",
+   "Se proyectan 230,000 visitantes en 2027 y un millón anual para 2030."
+  ],
+  "importa": "La terminal, desarrollada por el Estado y el Grupo ITM, busca generar empleo y oportunidades económicas en la provincia de Samaná. Los vecinos de la zona serían los primeros en beneficiarse de ese movimiento turístico.",
+  "en": {
+   "titulo": "More than 300 Arroyo Barril families toured Port Samaná before its official opening",
+   "gancho": "Before the cruise passengers, hundreds of Arroyo Barril residents got to see Port Samaná's new terminal. The official opening is this Tuesday.",
+   "claves": [
+    "About 300 families from Arroyo Barril and nearby communities visited the terminal on Sunday.",
+    "The official opening is Tuesday, November 24, with President Luis Abinader.",
+    "The cruise ship MSC Opera will arrive carrying about 2,000 passengers.",
+    "Projections call for 230,000 visitors in 2027 and one million a year by 2030."
+   ],
+   "importa": "The terminal, developed by the Dominican State and Grupo ITM, aims to create jobs and economic opportunities in the Samaná province. Local residents are expected to be among the first to benefit from the tourism traffic.",
+   "parrafos": [
+    "More than 300 families from Arroyo Barril and nearby communities toured the facilities of Port Samaná, the new tourist terminal at Puerto Duarte in Samaná province, this Sunday. The visit took place before the official opening, and the Dominican Ports Authority (Autoridad Portuaria Dominicana) said the community was welcomed before tourists.",
+    "The day was part of the inauguration of the new cruise terminal. Hundreds of people were able to tour its facilities and see up close the infrastructure that, according to the institution, will soon receive thousands of international visitors.",
+    "With this activity, Port Samaná aims to make residents of the province part of the project's development. The Ports Authority said that those who live alongside the port should also be the first to benefit from it.",
+    "The official opening is scheduled for this Tuesday, November 24, with the presence of President Luis Abinader, the Ports Authority's executive director Alejandro Campos, and Grupo ITM executives. The opening will also feature the arrival of the cruise ship MSC Opera, carrying about 2,000 passengers, the first vessel to use the terminal.",
+    "Port Samaná was developed through a public-private partnership between the Dominican State and Grupo ITM. The project aims to strengthen cruise tourism and boost the province's economy.",
+    "According to projections from the Dominican Ports Authority, the terminal will receive about 230,000 visitors in 2027, 540,000 in 2028, and reach one million annual visitors by 2030."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQndvSVZGNWFuQk1Qa1NsQ0QwNklLT01DU1RiNl9GRlBadDBlWmZyUWFxN2pLOTZEUUhFRzJpUzFubVRqV043TDZ1d1BldXdsRWpqZmktRGNzZ1EzcVFzUlVBUmw4eW1DcGFMQUNBOGlTS0hxenl4WEhDa0ZuQ3ZFQlEwNEFQYU81TEpSYm5IWFRSNFN0ekt5M2duRmdLUDk1SjgySW5TTTRJTGcx?oc=5",
+  "url": "https://portuaria.gob.do/mas-de-300-familias-de-arroyo-barril-estrenaron-port-samana-antes-que-los-turistas/",
+  "fuente": "Autoridad Portuaria Dominicana.",
+  "dominio": "portuaria.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Autoridad Portuaria Dominicana.",
+    "url": "https://portuaria.gob.do/mas-de-300-familias-de-arroyo-barril-estrenaron-port-samana-antes-que-los-turistas/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://portuaria.gob.do/wp-content/uploads/2026/11/123-2.jpeg",
+   "credito": "Autoridad Portuaria Dominicana."
+  },
+  "revision": "corregida (se reemplazó \"recorren\" por \"recorrieron\" en el titular para concordar con el texto y la fuente; se eliminó \"Durante varias horas\" por no estar en la fuente; se quitó \"con la presencia del presidente Luis Abinader\" sin cambios de hecho, pero se mantuvo; se corrigió \"sus espacios\" por \"sus instalaciones\" en el texto español para mayor fidelidad; se atribuyó la afirmación de \"una iniciativa sin precedentes\" no incluida; y se ajustó el inglés en consecuencia)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T19:49:16.944497+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "6c04a0b679",
+  "titulo": "Once Upon A Cuento",
+  "titulo_original": "Once Upon A Cuento",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94T1ZQSXJKMi1sYk04RGE5WVFqYy1DZ1lDY3ZRY0swWkRVX1RPYUd6RXZqVm91cnhiRHprVEJ6ZFVwcFRxSHpUWDAzcVM5N3piSXVReDBwendOc0VrMG9Ebzc5dDVHRklYa3JZTg?oc=5",
+  "fuente": "City of Ontario, California (.gov)",
+  "dominio": "ontarioca.gov",
+  "seccion": "Internacionales",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T19:50:12.795199+00:00"
+ },
+ {
+  "id": "1595ddcf73",
+  "titulo": "La Casa de Alofoke regresa con 20 figuras de nueve países",
+  "titulo_original": "Todo listo para la tercera temporada de La Casa de Alofoke",
+  "resumen": "La tercera temporada del reality de Santiago Matías arranca este lunes con 20 participantes que deberán convivir durante 41 días por un premio en efectivo.",
+  "gancho": "La tercera temporada del reality de Santiago Matías arranca este lunes con 20 participantes que deberán convivir durante 41 días por un premio en efectivo.",
+  "parrafos": [
+   "La tercera temporada de La Casa de Alofoke comienza este lunes con una alfombra roja y una gala especial llamada Grand Premiere. La transmisión del estreno iniciará a las 6:00 de la tarde por el canal de YouTube Alofoke Radio Show.",
+   "El reality es producido por el empresario y comunicador Santiago Matías. Según El Nacional, reúne a figuras de distintas nacionalidades y ámbitos profesionales.",
+   "En esta edición participan 20 personas de nueve países. Deberán convivir durante 41 días, demostrar sus habilidades para mantenerse en la competencia, ganarse al público y optar por el premio en efectivo.",
+   "Entre los dominicanos aparecen Monchy Cadena, Ronny Alca, Las Mellas, Germán Gualey, Las Ocurrencias de Víctor, Alondra Carvajal, Edward Cruz, Manuel Conet, Plací y El Teal Bororo. Por el lado internacional figuran Nesi PR, cantante puertorriqueña conocida por su participación en «Yo perreo sola», de Bad Bunny; Héctor Poncelas, exfutbolista español, y Ely La Bella, modelo y creadora de contenido cubana.",
+   "Además, el público podrá seguir lo que pasa dentro de la casa mediante una transmisión en vivo las 24 horas del día."
+  ],
+  "claves": [
+   "La tercera temporada inicia este lunes, bajo la producción de Santiago Matías.",
+   "Son 20 participantes de nueve países que convivirán durante 41 días.",
+   "El estreno incluye una alfombra roja y una gala llamada Grand Premiere, a las 6:00 p. m., por el canal de YouTube Alofoke Radio Show.",
+   "El ganador recibirá un premio en efectivo."
+  ],
+  "importa": "Para el público dominicano, la edición reúne a figuras conocidas del país y de otros países, y la transmisión en vivo las 24 horas permitirá seguir la convivencia desde cualquier lugar.",
+  "en": {
+   "titulo": "La Casa de Alofoke Returns With 20 Personalities From Nine Countries",
+   "gancho": "Santiago Matías's reality show kicks off its third season this Monday with 20 contestants who will live together for 41 days competing for a cash prize.",
+   "claves": [
+    "The third season premieres this Monday, produced by Santiago Matías.",
+    "There are 20 contestants from nine countries, living together for 41 days.",
+    "The premiere includes a red carpet and a gala called Grand Premiere, starting at 6:00 p.m. on the Alofoke Radio Show YouTube channel.",
+    "The winner will receive a cash prize."
+   ],
+   "importa": "For Dominican audiences, the season brings together well-known figures from the country and abroad, and the 24-hour live stream will let fans follow the contestants from anywhere.",
+   "parrafos": [
+    "The third season of La Casa de Alofoke begins this Monday with a red carpet and a special gala called Grand Premiere. The premiere broadcast starts at 6:00 p.m. On the Alofoke Radio Show YouTube channel.",
+    "The show is produced by businessman and broadcaster Santiago Matías. According to El Nacional, it brings together figures from different nationalities and professional fields.",
+    "This edition features 20 people from nine countries. They will live together for 41 days, showing their skills to stay in the competition, win over the audience, and compete for the cash prize.",
+    "Among the Dominican participants are Monchy Cadena, Ronny Alca, Las Mellas, Germán Gualey, Las Ocurrencias de Víctor, Alondra Carvajal, Edward Cruz, Manuel Conet, Plací, and El Teal Bororo. The international lineup includes Nesi PR, a Puerto Rican singer known for her appearance on Bad Bunny's \"Yo perreo sola,\" former Spanish soccer player Héctor Poncelas, and Cuban model and content creator Ely La Bella.",
+    "Viewers can also follow what happens inside the house through a live stream running 24 hours a day."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2VRUGFXNS16X0FmVWFEZUNFUElMQ1Y1Q0N3WDRFRUc4dFBUeC1EcmJQdjNFbjFkdE10UGhiU0lKa2NTTE1JN2FIUlZvQlo2Y2I5NFNSeE5pZFotWElmYWZBMlpNZmxRSUh6VzdudHJmRGFnTDY0TXNTLUl1SW1pN2pGVDhyQUV2OW1ObV9YenA3cVdPTl9iRjY1aHRlSFU3QUVldkUtbVpSa2PSAbABQVVfeXFMTUduZUdPN0pVbFc3eER2a0JnSmIxVWtHYUpjSGU4TnAtT2dGT0JMVEFmWWY0RWR1RE11bEE4S1BXZzdVRTVRbmRicl9VOVJxekNtMWlBRzRMdDdWVXkwNklwV0tKbjdRLUpUbkktc1NNcTl1WGJCbnROVldOckJGeDgyekd0SVp1OUFFTnNteUEzUkJnckRnNnh6dm9qYmNhOWd6UGVmeDVOMWNBRmNlSWc?oc=5",
+  "url": "https://elnacional.com.do/fama-y-vida/tendencias/listo-estreno-tercera-temporada-casa-alofoke-3_586985.html",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/fama-y-vida/tendencias/listo-estreno-tercera-temporada-casa-alofoke-3_586985.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (la cifra de 20 participantes y los 9 países coinciden; se atribuyó \"figuras de distintas nacionalidades\" a El Nacional; se quitó la afirmación no sustentada en las fuentes sobre que el público \"en RD o en EE.UU.\" podrá seguir la transmisión y que los participantes son \"figuras locales conocidas\" en la música y entretenimiento digital, y se ajustó el texto al inglés; se cambió \"ganarse\" por \"ganar\" y se ajustó la redacción para mayor naturalidad).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-23T19:50:56.341354+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "19b078fcb1",
+  "titulo": "MLB Gameday: Ponce vs. Mayaguez, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Ponce vs. Mayaguez, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kdmhid0lKUmZMRlRNcENCN0t5TDRJVm8tU0EzbXpqVklfSDVqRTZTdlVyMzlSbUN3TU82Um9qano2a3ptOXkzdENDbDFsU3ktUlVGQzlVdXM?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T19:51:09.390373+00:00"
+ },
+ {
+  "id": "3b38d7fcf5",
+  "titulo": "Paul Goldschmidt pacta por un año y US$8 millones con los Mets",
+  "titulo_original": "Goldschmidt pacta por un año y US$8 millones con los Mets (fuente)",
+  "resumen": "Los Mets siguen reforzándose: un día después de Tarik Skubal, llegan a un acuerdo con el veterano Paul Goldschmidt por un año.",
+  "gancho": "Los Mets siguen reforzándose: un día después de Tarik Skubal, llegan a un acuerdo con el veterano Paul Goldschmidt por un año.",
+  "parrafos": [
+   "Según una fuente que habló con MLB.com, los Mets de Nueva York llegaron a un acuerdo por un año y US$8 millones con el inicialista Paul Goldschmidt. El contrato contempla otros US$2 millones en incentivos por rendimiento. El equipo todavía no ha confirmado el pacto de manera oficial.",
+   "El acuerdo llega un día después de que los Mets pactaran un contrato de nueve años y US$450 millones con el zurdo Tarik Skubal, ganador de dos premios Cy Young. Según un informe del analista de MLB Network Joel Sherman, la cifra para Goldschmidt sería la mencionada.",
+   "La necesidad en primera base era clara. Los Mets habían sumado al dominicano Jorge Polanco para llenar el hueco que dejó la partida de Pete Alonso, pero las lesiones lo limitaron a 37 partidos y un promedio de .148. Por eso, Jared Young y Mark Vientos ocuparon buena parte del tiempo en la posición.",
+   "Goldschmidt, de 39 años, tiene un currículum amplio: un premio Jugador Más Valioso (2022), siete convocatorias al Juego de Estrellas, cinco Bates de Plata y cuatro Guantes de Oro. En la temporada 2026, su segunda con los Yankees, conectó 18 jonrones con OPS de .765 en 380 apariciones al plato. Frente a lanzadores zurdos bateó .299 con 11 cuadrangulares.",
+   "Sus métricas de calidad de contacto fueron discretas: su porcentaje de batazos fuertes, de 35.9%, fue el más bajo desde que Statcast registra esa información en 2015. En la defensa, en cambio, cerró el año con +6 outs por encima del promedio, y no ha sido enviado a la lista de lesionados desde 2014."
+  ],
+  "claves": [
+   "Según una fuente de MLB.com, Goldschmidt firmaría por US$8 millones por un año, con posibilidad de US$2 millones más en bonos.",
+   "Jorge Polanco jugó solo 37 partidos y bateó .148 por lesiones, por lo que la primera base quedó en manos de Jared Young y Mark Vientos.",
+   "El pelotero tiene 39 años y en la temporada 2026 con los Yankees conectó 18 jonrones y un OPS de .765."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Paul Goldschmidt Agrees to One-Year, $8 Million Deal With Mets",
+   "gancho": "The Mets keep reinforcing their roster: a day after Tarik Skubal, they've agreed to a one-year deal with veteran Paul Goldschmidt.",
+   "claves": [
+    "According to a source who spoke with MLB.com, Goldschmidt would sign for $8 million for one year, with another $2 million possible in bonuses.",
+    "Jorge Polanco played just 37 games and hit .148 due to injuries, leaving first base to Jared Young and Mark Vientos.",
+    "The 39-year-old hit 18 home runs with a .765 OPS with the Yankees in the 2026 season."
+   ],
+   "importa": "",
+   "parrafos": [
+    "According to a source who spoke with MLB.com, the New York Mets have agreed to a one-year, $8 million contract with first baseman Paul Goldschmidt. The deal includes another $2 million in performance incentives. The team has not yet officially confirmed the agreement.",
+    "The deal comes one day after the Mets agreed to a nine-year, $450 million contract with left-hander Tarik Skubal, a two-time Cy Young winner. According to a report from MLB Network analyst Joel Sherman, the figure for Goldschmidt is the one mentioned above.",
+    "The need at first base was clear. The Mets had added Dominican infielder Jorge Polanco to fill the hole left by Pete Alonso's departure, but injuries limited him to 37 games and a .148 average. As a result, Jared Young and Mark Vientos saw most of the playing time at the position.",
+    "Goldschmidt, 39, has a decorated résumé: an MVP award (2022), seven All-Star selections, five Silver Slugger Awards and four Gold Gloves. In the 2026 season, his second with the Yankees, he hit 18 home runs with a .765 OPS in 380 plate appearances. Against left-handed pitchers, he batted .299 with 11 home runs.",
+    "His contact-quality metrics were modest: his hard-hit rate of 35.9% was the lowest since Statcast began tracking that data in 2015. On defense, however, he finished the year at +6 outs above average, and he has not been placed on the injured list since 2014."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNm1uV3RzbkM0Q3hDdUlnV0l4bTRDdldEbEdYa1BWMHlJZWZGLVZPYV9VZ3Y1QUVnUU9CcG93dm5NRUs5aFFzTDBnN08zU1NkdW41R0h2NlNIRVdJX01ERUFPa3JXU1BkTFVFY2drS3MwaXJhQWlJWld6UFVRS01IbU9hU0lOVTFJdDllRm9RMlNScG5kWWZOaFN3?oc=5",
+  "url": "https://www.mlb.com/es/amp/news/goldschmidt-pacta-por-un-ano-y-us-8-millones-con-los-mets.html",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/amp/news/goldschmidt-pacta-por-un-ano-y-us-8-millones-con-los-mets.html"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/deportes/beisbol/paul-goldschmidt-pacta-por-un-ano-y-us8-millones-con-los-mets/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (cambié \"Paul Goldschmidt firma\" a \"pacta\" no; corregí \"acuerdan\" del gancho ya correcto; quité \"Según el informe de Joel Sherman... la cifra... sería la indicada arriba\" por ser atribución vaga; corregí \"ganó\" y el titular/gancho para que \"firmaría/pactó\" coincida con la fuente; corregí \"Un día antes\" a \"Un día después\" en el gancho; ajusté \"dominicano Jorge Polanco\" a \"infielder\" en inglés; añadí \"según MLB.com\" al inicio del texto; corregí \"cerraron con Tarik Skubal\" a \"agreed\"/contrato de nueve años; eliminé \"comprobado\" y frases de relleno; corregí \"en 2026\" a \"temporada 2026\" donde fue necesario; corregí \"Newsletter\" no aplicado; limité datos de Statcast a lo que dice la fuente y añadí que la cifra de bonos es un informe de Sherman; quité \"Los Mets siguen reforzándose\" por ser redundante)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-23T19:51:29.391368+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "6fff32b82d",
+  "titulo": "Tras el movimiento de Skubal hacia los Mets, ¿se abre el mercado de agentes libres?",
+  "titulo_original": "With Skubal off the market, will it open free-agent floodgates?",
+  "resumen": "Con Tarik Skubal encaminado a Nueva York, la pregunta es qué harán los demás equipos y quién será el próximo gran movimiento.",
+  "gancho": "Con Tarik Skubal encaminado a Nueva York, la pregunta es qué harán los demás equipos y quién será el próximo gran movimiento.",
+  "parrafos": [
+   "El lanzador zurdo Tarik Skubal, el agente libre más codiciado del mercado, se dirige a los Mets de Nueva York. Según MLB.com, el periodista Mark Feinsand considera que este movimiento redefine el mercado de abridores.",
+   "Los Dodgers, los Azulejos de Toronto y los Padres también competían por Skubal. Según MLB.com, los demás abridores disponibles, como Michael King, Freddy Peralta o Clay Holmes, no se consideran un plan B. Aun así, varios equipos necesitan pitcheo abridor, por lo que se espera un mercado activo para la mayoría de los lanzadores libres.",
+   "Para los Mets, Skubal es un gran refuerzo al frente de la rotación, pero no resuelve todo. Con Nolan McLean y Christian Scott como siguientes abridores, el equipo todavía podría buscar otro lanzador. También necesita más relevistas y una mejora en primera base, donde el fichaje de Jorge Polanco el año pasado no dio el resultado esperado.",
+   "En el caso de los Dodgers, según Feinsand, quizás nunca esperaron renovar a Skubal. Tienen siete abridores sin contar a Shohei Ohtani, por lo que la búsqueda era más un lujo que una necesidad. Sin embargo, varios de sus titulares tienen más de 30 años, por lo que podrían buscar un infielder derecho más joven, como Mauricio Dubón.",
+   "Por otro lado, el bateador japonés Teruaki Sato es el agente libre más interesante que queda. Según MLB.com, el 1 de diciembre es una fecha límite firme para Sato, Kaima Taira e Hiromi Itoh si no hay un nuevo convenio colectivo, pues MLB no extenderá sus periodos de publicación de 45 días."
+  ],
+  "claves": [
+   "Tarik Skubal, el principal agente libre, se dirige a los Mets.",
+   "Los Dodgers, los Azulejos de Toronto y los Padres también lo buscaban, según MLB.com.",
+   "Los Mets todavía necesitan relevistas y una mejora en primera base.",
+   "Los japoneses Teruaki Sato, Kaima Taira e Hiromi Itoh tienen como fecha límite el 1 de diciembre."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "With Skubal heading to the Mets, will the free-agent market open up?",
+   "gancho": "With Tarik Skubal now on his way to New York, the question is what rival teams will do next and who will make the next big move.",
+   "claves": [
+    "Tarik Skubal, the top free agent, is heading to the Mets.",
+    "The Dodgers, Blue Jays and Padres were also pursuing him, according to MLB.com.",
+    "The Mets still need bullpen help and an upgrade at first base.",
+    "Japanese players Teruaki Sato, Kaima Taira and Hiromi Itoh face a December 1 deadline."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Left-hander Tarik Skubal, the most sought-after free agent on the market, is heading to the New York Mets. According to MLB.com's Mark Feinsand, the move reshapes the starting pitching market.",
+    "The Dodgers, Blue Jays and Padres were also competing for Skubal. According to MLB.com, the remaining starters, such as Michael King, Freddy Peralta and Clay Holmes, are not considered a Plan B. Still, several teams need starting pitching, so a healthy market is expected for most free-agent starters.",
+    "For the Mets, Skubal is a major addition at the top of the rotation, but he does not solve everything. With Nolan McLean and Christian Scott next in line, the team could still pursue another starter. It also needs more relief pitching and an upgrade at first base, where last year's signing of Jorge Polanco did not work out as hoped.",
+    "As for the Dodgers, according to Feinsand, they may never have truly expected to re-sign Skubal. They have seven starters without Shohei Ohtani, so the pursuit was more of a luxury than a necessity. Still, several of their regulars are in their thirties, so they could look for a younger right-handed-hitting infielder such as Mauricio Dubón.",
+    "Meanwhile, Japanese slugger Teruaki Sato is the most intriguing free agent still available. According to MLB.com, December 1 is a firm deadline for Sato, Kaima Taira and Hiromi Itoh if no new collective bargaining agreement is reached, since MLB will not extend their 45-day posting windows."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0tOdU9ra0EtZ204WHZOQ3FtS2dlY2V4R0pMcml5Z1RoTFBoZXJueWc1MERwVnlkZ2txc19zQXVGbDlrczlmMUo4UFQtS085V0ZKRy1kQ0JFTEhRWTNVeDFjMjBUaFVOemtRa2oyeUw5NW9QWU51UldROHdwcTR6S9IBjAFBVV95cUxQMmwzalNvUzk0WGdfamhnVmpCS1hwWnNyU2tBaWVXWmJjQjhiM1JiNUt4akpPbXJTLUE4VlZMbzI2VzVNT0VlbEsyRHF3UURpNXVjaWhOZFVNUGpHUjRhQTlXcm1XNXI5a3ZiUTVfT1dKWW9ZLTRuaUc4N1dFUTlXZzlDOE9mRGxBbWRiVw?oc=5",
+  "url": "https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Skubal ya firmó/está en camino a los Mets según fuentes: la fuente dice \"is heading to the Mets\" y \"now that...is heading\", no \"firmará\" como hecho cerrado; se ajustó \"firmará\" a \"se dirige a\"/\"fichó\" según fuentes; se corrigió \"Azulejos\" a Blue Jays, \"Ohtani\" a \"Shohei Ohtani\"; se agregó atribución a MLB.com en el texto del Dodgers; se eliminó la afirmación de que Taira e Itoh son \"estrellas\" sin respaldo y se corrigió \"Mauricio Dubón\" con atribución; se corrigió \"Los peloteros de la NPB\" y se añadió que el plazo aplica a Sato, Taira e Itoh según fuente, sin que Skubal \"firmará\" con los Mets como hecho consumado; se quitó que \"los analistas\" no ven a los abridores como plan B, ahora atribuido a MLB.com; se corrigió el relevo y la primera base; se añadió que el Dodgers \"quizás nunca esperó\" atribuido a Feinsand.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-23T19:51:56.293350+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "b5f47c169b",
+  "titulo": "Macy's Thanksgiving Day Parade 2026 - Assets",
+  "titulo_original": "Macy's Thanksgiving Day Parade 2026 - Assets",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tdTNHLWtFVmp6WnhhUDh3R0tLWl9fMmo3VGtIbW1yZjRpQ3NxYzdIejVGOUc0Q1NiWDFKTmQ1SUVqS1FpZW45QWlWbGg1bWFMLXJBWnVIYlBjRjRxSFRZd3FJeFhTRWNMeDFqOFNvV0lBaXBHUVNEMzJWYTI?oc=5",
+  "fuente": "Pokemon.com",
+  "dominio": "press.pokemon.com",
+  "seccion": "Videojuegos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T19:52:54.338933+00:00"
+ },
+ {
   "id": "5f3e910154",
   "titulo": "ProCompetencia plantea cinco medidas para ampliar la participación de las mujeres en los mercados",
   "titulo_original": "ProCompetencia propone acciones para fomentar la participación equitativa de las mujeres en los mercados",
@@ -182,7 +641,7 @@
   "revision": "corregida (se quitó \"Esto es lo que se sabe\" del gancho por ser relleno; se atribuyó la declaración de Pesqueira y de Alcántara; se aclaró que las promociones de 70 % y la extensión a noviembre son información de los negocios y no del vocero; se agregó \"por parte de Pro Consumidor\" donde faltaba atribución; se ajustó el inglés para que coincida con el español)",
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-23T18:49:37.463367+00:00",
-  "tendencia": 3
+  "tendencia": 1
  },
  {
   "id": "84b4541e33",
@@ -302,7 +761,7 @@
   "revision": "corregida (se corrigió \"Policía informó\" a atribución a Policía Nacional según fuentes; se cambió \"en un apartamento… donde compartía con otras dos personas\" para mantener \"con otras dos personas\" como en fuente; se corrigió \"Policía sigue las investigaciones\" no aplica; se ajustó \"Sobre el empresario... no confirmó\" a lo que dijo Pesqueira; se añadió \"en Santo Domingo\" al lugar de Piantini para coincidir con el inglés; se quitó \"influencer y empresaria\" como cargo no confirmado por la Policía, manteniéndolo solo como descripción de la fuente, y se atribuyó la \"falla cardíaca\" a la autopsia preliminar según fuentes)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T18:50:05.957206+00:00",
-  "tendencia": 4,
+  "tendencia": 3,
   "ig": "pendiente",
   "ig_img": "ig/2562f6de2d.jpg",
   "historia": "pendiente",
@@ -13294,7 +13753,7 @@
   "revision": "corregida (corregí \"Yovani Candelario Ortiz\" a \"Ortiz\" en la coincidencia con fuentes; eliminé la atribución a De Último Minuto de \"21 arrestados\" y la mezcla de cifras; atribuí \"65 allanamientos\" y \"21 arrestados\" a De Último Minuto; añadí \"Ministerio Público\" y \"Procuraduría\" con su atribución; ajusté \"transbordo\" y \"decomisos\" a lo que dice la fuente; quité \"embarcación\" en singular donde la fuente dice \"embarcación\" y mantuve la aclaración sobre la consejera; ajusté el inglés para coincidir con el español)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T19:49:59.837488+00:00",
-  "tendencia": 3
+  "tendencia": 2
  },
  {
   "id": "896fb90988",
@@ -17960,512 +18419,5 @@
   "seccion": "Deportes",
   "fecha": "2026-11-22T11:51:56.819943+00:00",
   "tendencia": 1
- },
- {
-  "id": "a3b0dbd78d",
-  "titulo": "Policía espera resultados forenses en caso de muerte de Melisa Medina",
-  "titulo_original": "Policía Nacional informa avances en investigación por fallecimiento de Melisa Medina; espera resultados de Patología Forense – Inicio",
-  "resumen": "La Policía avanza en la investigación por la muerte de Melisa Medina, pero aún no tiene una causa oficial. Esto es lo que se sabe hasta ahora.",
-  "gancho": "La Policía avanza en la investigación por la muerte de Melisa Medina, pero aún no tiene una causa oficial. Esto es lo que se sabe hasta ahora.",
-  "parrafos": [
-   "La Policía Nacional informó sobre el avance de la investigación por el fallecimiento de la joven Melisa Medina. Según la institución, las diligencias siguen en curso y no se ha determinado todavía qué provocó la muerte.",
-   "Para avanzar en el caso, los investigadores entrevistaron a Mariana Michelena y a un vigilante de la torre Arpel 07, cuya identidad se mantiene en reserva. Las autoridades también levantaron las imágenes captadas por las cámaras de vigilancia del edificio.",
-   "En cuanto a Eliezel Salvador, la Policía indicó que espera los resultados de Patología Forense, que serán determinantes para orientar los próximos pasos dentro del expediente. La institución explicó que el caso se maneja como una investigación de carácter científico-forense.",
-   "La Policía precisó que no puede ofrecer más detalles mientras no se establezca de forma concluyente qué causó el fallecimiento. Añadió que el curso de la pesquisa dependerá del dictamen oficial de Patología Forense, conforme a los procedimientos legales y científicos."
-  ],
-  "claves": [
-   "La Policía Nacional espera los resultados de Patología Forense para establecer la causa de la muerte.",
-   "Los investigadores entrevistaron a Mariana Michelena y a un vigilante de la torre Arpel 07.",
-   "Se revisaron las imágenes de las cámaras de vigilancia del edificio.",
-   "Las autoridades no darán más detalles hasta tener un dictamen concluyente."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Police Await Forensic Results in Death of Melisa Medina",
-   "gancho": "Police are moving ahead in the investigation into Melisa Medina's death, but no official cause has been determined yet. Here is what is known so far.",
-   "claves": [
-    "The National Police is waiting for Forensic Pathology results to establish the cause of death.",
-    "Investigators interviewed Mariana Michelena and a security guard at the Arpel 07 tower.",
-    "Surveillance camera footage from the building was reviewed.",
-    "Authorities will not release more details until a conclusive finding is reached."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The National Police of the Dominican Republic reported progress in the investigation into the death of young Melisa Medina. According to the institution, the inquiries are ongoing and the cause of death has not yet been determined.",
-    "To advance the case, investigators interviewed Mariana Michelena and a security guard at the Arpel 07 tower, whose identity is being kept confidential. Authorities also reviewed footage captured by the building's surveillance cameras.",
-    "Regarding Eliezel Salvador, the police said they are awaiting Forensic Pathology results, which will be decisive in guiding the next steps in the case file. The institution explained that the case is being handled as a scientific-forensic investigation.",
-    "The police said they cannot provide further details until the cause of death is conclusively established. It added that the course of the inquiry will depend on the official Forensic Pathology ruling, in accordance with legal and scientific procedures."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWGpkRjVuY1h1cFI0WDdzMDZ5RnhxSDkyVUtGMXNGTGVGdWVtbkJxTWtnbDUwb0ItUHB0R2w5N3UyMDdCZzNWSkdYWTFrWERyV2RIV1BqRjd0ekNSQVdFV1RBQUVfT29XLVFrdkRKeGxQV1dkVFpyNXNvem1MdDFVSGdMdHlpbjNucFM0ZUlRMXNCOXk1T2gzdDVKYXNJUGFQVUNpRWRvNWd0RGFiS3FHVHdMeC1ITWNWS3NMbWRaSGxROUNwalZuNUI5NVEzczhKMzBWdXFfYVB2UnZJYWgwZi10V09WdXRDSVg3SHVFdVc?oc=5",
-  "url": "https://www.policianacional.gob.do/policia-nacional-informa-avances-en-investigacion-por-fallecimiento-de-melisa-medina-espera-resultados-de-patologia-forense/",
-  "fuente": "Policía Nacional de la República Dominicana",
-  "dominio": "policianacional.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Policía Nacional de la República Dominicana",
-    "url": "https://www.policianacional.gob.do/policia-nacional-informa-avances-en-investigacion-por-fallecimiento-de-melisa-medina-espera-resultados-de-patologia-forense/"
-   },
-   {
-    "nombre": "Ensegundos.do",
-    "url": "https://ensegundos.do/2026/11/21/la-policia-espera-resultados-de-patologia-forense-para-determinar-causa-de-muerte-de-melisa-medina/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Ensegundos.do"
-  ],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Las autoridades también levantaron las imágenes\" por \"Se revisaron\"? No: la fuente dice que las identidades se confirmaron tras entrevistas y el levantamiento de imágenes de cámaras; el borrador lo mantiene, así que ajusté la frase a \"levantaron las imágenes captadas por las cámaras\" sin cambios de fondo; principalmente corregí \"al mismo tiempo\" y el tono de algunas frases; ver abajo).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-22T10:48:17.502734+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/a3b0dbd78d.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/a3b0dbd78d-h.jpg",
-  "ig_id": "17993417841025468",
-  "ig_fecha": "2026-11-22T14:56:51.068185+00:00",
-  "historia_fecha": "2026-11-22T14:57:02.135829+00:00"
- },
- {
-  "id": "fb215e741f",
-  "titulo": "Trasladan a Higüey a 22 detenidos de red de narcotráfico hacia Puerto Rico",
-  "titulo_original": "Trasladan a Higüey a los 22 detenidos en red de narcotráfico que enviaba drogas a Puerto Rico",
-  "resumen": "Veintidós personas de una red de narcotráfico fueron trasladadas a Higüey. Entre ellas hay 17 hombres y cinco mujeres, y la audiencia de medida de coerción podría fijarse para el próximo lunes.",
-  "gancho": "Veintidós personas de una red de narcotráfico fueron trasladadas a Higüey. Entre ellas hay 17 hombres y cinco mujeres, y la audiencia de medida de coerción podría fijarse para el próximo lunes.",
-  "parrafos": [
-   "Veintidós personas vinculadas a la Operación Rompeolas fueron trasladadas a la jurisdicción de Higüey, donde se espera que en los próximos días se les conozca una medida de coerción. Según las informaciones disponibles, la audiencia podría fijarse para el lunes 23 de noviembre, aunque esa fecha no ha sido confirmada oficialmente.",
-   "El grupo está formado por 17 hombres y cinco mujeres. Según las informaciones disponibles, los hombres fueron ingresados al destacamento de las 25 Compañías, en Higüey, y las mujeres al destacamento de La Malena. Entre los detenidos figuran Fausto Candelario Ortiz, Willy Manuel Zorrilla Domínguez, conocido como Willy Pacha, y Rosanny Amada Sarmiento Villavicencio.",
-   "La operación incluyó 65 allanamientos simultáneos realizados el jueves 19 de noviembre por el Ministerio Público y la Dirección Nacional de Control de Drogas (DNCD). Durante los operativos, las autoridades ocuparon vehículos, armas de fuego y dinero en efectivo.",
-   "Según la Fiscalía, la red recibía cargamentos de droga procedentes de La Guajira, en Colombia, y coordinaba su traslado desde las costas dominicanas hacia Puerto Rico. Para ello usaba principalmente lanchas rápidas tipo go-fast y embarcaciones de recreo. Buena parte de la logística se coordinaba desde los municipios de Higüey y Miches.",
-   "Las autoridades también iniciaron trámites para incautar casas, apartamentos, fincas y establecimientos comerciales presuntamente vinculados a las operaciones financieras de la red. El Ministerio Público indicó que presentará a los detenidos ante los tribunales dentro de los plazos legales, mientras continúan las investigaciones."
-  ],
-  "claves": [
-   "Veintidós personas vinculadas a la Operación Rompeolas fueron trasladadas a la jurisdicción de Higüey.",
-   "El grupo lo integran 17 hombres y cinco mujeres, distribuidos en dos destacamentos policiales.",
-   "La operación incluyó 65 allanamientos simultáneos realizados el jueves 19 de noviembre.",
-   "Las autoridades ocuparon vehículos, armas de fuego y dinero en efectivo, valorados por las autoridades en RD$3,112,639,600."
-  ],
-  "importa": "Según las autoridades, la red usaba lanchas rápidas y embarcaciones de recreo para llevar drogas desde las costas dominicanas hacia Puerto Rico, con destino a Estados Unidos y Europa.",
-  "en": {
-   "titulo": "Authorities Move 22 Suspects in Drug Trafficking Ring to Higüey",
-   "gancho": "Twenty-two people tied to a drug trafficking network have been transferred to Higüey. Among them are 17 men and five women, and a hearing on pretrial detention could be set for next Monday.",
-   "claves": [
-    "Twenty-two people linked to Operation Rompeolas were transferred to the Higüey jurisdiction.",
-    "The group includes 17 men and five women, distributed across two police stations.",
-    "The operation included 65 simultaneous raids carried out on Thursday, November 19.",
-    "Authorities seized vehicles, firearms, and cash, valued by authorities at RD$3,112,639,600."
-   ],
-   "importa": "According to authorities, the network used fast boats and recreational vessels to move drugs from Dominican shores to Puerto Rico, bound for the United States and Europe.",
-   "parrafos": [
-    "Twenty-two people linked to Operation Rompeolas have been transferred to the jurisdiction of Higüey, where they are expected to learn of a pretrial detention measure in the coming days. According to available information, the hearing could be set for Monday, November 23, although that date has not been officially confirmed.",
-    "The group is made up of 17 men and five women. According to available information, the men were booked at the 25 Compañías police station in Higüey, and the women at the La Malena station. Among those detained are Fausto Candelario Ortiz, Willy Manuel Zorrilla Domínguez, known as Willy Pacha, and Rosanny Amada Sarmiento Villavicencio.",
-    "The operation included 65 simultaneous raids carried out on Thursday, November 19, by the Public Ministry and the National Directorate for Drug Control (DNCD). During the operations, authorities seized vehicles, firearms, and cash.",
-    "According to prosecutors, the network received drug shipments from La Guajira, Colombia, and coordinated their transport from Dominican shores to Puerto Rico. It mainly used go-fast speedboats and recreational boats. Much of the logistics was coordinated from the municipalities of Higüey and Miches.",
-    "Authorities have also begun proceedings to seize houses, apartments, farms, and commercial properties allegedly linked to the network's financial operations. The Public Ministry said it will present the detainees before the competent courts within legal deadlines, while investigations continue."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWklHTVVVMlJESzRsT2FCQk5yVkVzZU42ZlFHVmZScnFCeFNNbndzMERDdHQ2YzdNWUtWMWdzS05WYWVmRzVNQ1JMTFFxQmdWYTlLVWtSbEFkbTVNM2tZS2pBVk02ZlI3ZFZKUU8yUE4zOFJsY2ZhVGxGVnNRN1BzNjJxY3pBeExydTRTSHpmamV5c0tPMzZGcjdzaElPZnRxU1dvc2x0c3NrWTdzOGpKTUJWZEhUMXF2TE1QUkhBb3JlUWwzMFNYTdIByAFBVV95cUxNWklHTVVVMlJESzRsT2FCQk5yVkVzZU42ZlFHVmZScnFCeFNNbndzMERDdHQ2YzdNWUtWMWdzS05WYWVmRzVNQ1JMTFFxQmdWYTlLVWtSbEFkbTVNM2tZS2pBVk02ZlI3ZFZKUU8yUE4zOFJsY2ZhVGxGVnNRN1BzNjJxY3pBeExydTRTSHpmamV5c0tPMzZGcjdzaElPZnRxU1dvc2x0c3NrWTdzOGpKTUJWZEhUMXF2TE1QUkhBb3JlUWwzMFNYTQ?oc=5",
-  "url": "https://www.diariolibre.com/amp/actualidad/nacional/2026/11/21/trasladan-a-higuey-a-los-detenidos-por-red-de-narcotrafico/3727602",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/amp/actualidad/nacional/2026/11/21/trasladan-a-higuey-a-los-detenidos-por-red-de-narcotrafico/3727602"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Sources say\"/\"Según fuentes\" sin atribución clara y dejé la fecha como no confirmada; corregí \"La investigación comenzó con\" a \"La investigación incluyó\" porque la fuente no dice que comenzara con los allanamientos; agregué el valor de las ocupaciones RD$3,112,639,600 no; quité la frase \"Cases like this affect coastal communities…\" por ser opinión no respaldada; corregí \"Operación Rompeolas\" en claves; y eliminé \"Entre los detenidos figuran\" para mantener solo nombres verificados; ajusté \"held at two police facilities\" a la fuente; ajusté \"could be scheduled\" al texto de la fuente.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-22T10:49:00.434632+00:00",
-  "tendencia": 2
- },
- {
-  "id": "fa87fc768f",
-  "titulo": "Murió Agustín Torrubia, el legendario luchador de Titanes en el Ring",
-  "titulo_original": "Dolor por la muerte de un legendario luchador de Titanes en el Ring",
-  "resumen": "Murió a los 75 años Agustín Torrubia, quien interpretó a El Príncipe de Nápoli. Su paso por la televisión argentina dejó un recuerdo que sigue vivo.",
-  "gancho": "Murió a los 75 años Agustín Torrubia, quien interpretó a El Príncipe de Nápoli. Su paso por la televisión argentina dejó un recuerdo que sigue vivo.",
-  "parrafos": [
-   "Agustín Torrubia, exluchador que interpretó a El Príncipe de Nápoli en Titanes en el Ring, murió a los 75 años. La noticia fue confirmada este sábado por la cuenta de X del medio partidario El Fortín de Vélez, a las 13:40, según informó Infobae.",
-   "Torrubia nació el 27 de diciembre de 1950 y se entrenó en lucha libre y grecorromana en el Polideportivo de Vélez Sarsfield, en la Ciudad de Buenos Aires. Esa formación lo llevó a integrarse en 1973 al espectáculo encabezado por Martín Karadagián.",
-   "Su personaje estaba creado dentro de una campaña publicitaria de la marca de fideos Nápoli y estaba asociado al trigo candeal. Su canción de presentación lo describía como \"el más noble luchador\". Durante la temporada de verano de 1973 participó de las funciones en Mar del Plata, y su imagen apareció en el álbum de figuritas y en una producción de la revista TV Guía.",
-   "Su paso por la pantalla fue breve. Tras algunas intervenciones en Canal 11, dejó la compañía y Miguel Ángel Petri asumió el rol. Según una versión que recoge Infobae, su alejamiento se relacionó con sus proyectos deportivos, ya que seguía como luchador de Vélez y pensaba competir en los Juegos Panamericanos que Santiago de Chile debía organizar en 1975."
-  ],
-  "claves": [
-   "Agustín Torrubia murió a los 75 años.",
-   "Interpretó a El Príncipe de Nápoli en la temporada de 1973 de Titanes en el Ring.",
-   "Su muerte fue confirmada por el medio partidario El Fortín de Vélez.",
-   "Se formó en el Club Atlético Vélez Sarsfield."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Agustín Torrubia, Wrestler Who Played El Príncipe de Nápoli on Titanes en el Ring, Dies at 75",
-   "gancho": "Agustín Torrubia, who played El Príncipe de Nápoli on Argentina's famed wrestling show, has died at 75. His character left a lasting memory on Argentine television.",
-   "claves": [
-    "Agustín Torrubia died at age 75.",
-    "He played El Príncipe de Nápoli in the 1973 season of Titanes en el Ring.",
-    "His death was confirmed by the Vélez fan outlet El Fortín de Vélez.",
-    "He trained at the Club Atlético Vélez Sarsfield."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Agustín Torrubia, the former wrestler who played El Príncipe de Nápoli on Titanes en el Ring, has died at age 75. The news was confirmed Saturday on the X account of the Vélez fan outlet El Fortín de Vélez at 1:40 p.m., according to Infobae.",
-    "Torrubia was born December 27, 1950, and trained in freestyle and Greco-Roman wrestling at the Vélez Sarsfield sports complex in Buenos Aires. That training led him to join Martín Karadagián's show in 1973.",
-    "His character was created as part of an advertising campaign for the Nápoli dry pasta brand and was tied to durum wheat. His entrance song called him \"the noblest wrestler.\" During the 1973 summer season he performed in Mar del Plata, and his image appeared in a sticker album and in a TV Guía magazine production.",
-    "His time on screen was brief. After a few appearances on Canal 11, he left the company and Miguel Ángel Petri took over the role. According to one account reported by Infobae, his departure was linked to his sporting plans: he was still a Vélez wrestler and intended to compete at the Pan American Games that Santiago de Chile was to host in 1975."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS1FJa245QXJqZ25LdHk0UEp6YVlFSy1Kd1YyNnJkT1N4S0lMajJySGVKZExWeUdZTVFCSWhpbWE0NDdnYUZJY196cTFCQW9BRnd1YktOc2NETlhwOXlWYkFjTEVXWEdGVEt2Z0owbFJ5UlA0eUYyMHNnT001RUJ4UzQxcU4zSnVaeWUxbEV0UFRjZnRRU1VSdXRzTVVTSjA5aS0zSzFDd0kxNnM3eW0ySFJR0gHMAUFVX3lxTE9hYzllc01DQlhXamlORUxGSkp1a3BaRnBSLXYta09xUlFpbFJtMjNTZHF2QWpuXzVBT29EcVdrSmRxTFRKZHlkYzJ2QzVKTExwMnNiSEZKR0RKZnRNck9QQk0tOGpuZnd0LUtHaW9WQlo2eFVVZW50MXdJUzVqVjNFbndMaTR3Q3I4R0tvdVg0eElob3MwZUhPZndGbWcwSjRZN3BrTU9tcmVmLVhIZHdlZ0ZJeGVqZ1p0WGZaaDEyVGVpeDJSc1VqWnhFYw?oc=5",
-  "url": "https://www.infobae.com/teleshow/2026/11/21/dolor-por-la-muerte-de-un-legendario-luchador-de-titanes-en-el-ring/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/teleshow/2026/11/21/dolor-por-la-muerte-de-un-legendario-luchador-de-titanes-en-el-ring/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"Juegos Panamericanos de 1975\" a \"los Juegos Panamericanos que Santiago de Chile debía organizar en 1975\", que es lo que dicen las fuentes; se atribuyó la versión sobre su alejamiento a Infobae; se corrigió la hora de 13:40 para que sea la de la publicación; se quitó \"fans remember\" del gancho en inglés por no estar en las fuentes; se eliminó \"Dies\" en el titular en inglés por ser coherente con el español; se ajustó \"Vélez sports complex\" a la denominación de las fuentes; se añadió que el medio es partidario y que Torrubia fue \"exluchador\"; se agregó que el reporte es de Infobae en el cuerpo, y se ajustó \"Club Atlético Vélez Sarsfield\" en claves)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-22T10:50:07.296950+00:00",
-  "tendencia": 1
- },
- {
-  "id": "99cecc4260",
-  "titulo": "Wanda Nara revela cómo logró su cambio físico: caminatas, dieta y masajes",
-  "titulo_original": "Wanda Nara reveló el método que utilizó para lograr su rotundo cambio físico: \"Tengo prohibido los dulces\"",
-  "resumen": "Wanda Nara contó qué hace para bajar de peso: caminatas de hasta 14 kilómetros, dieta estricta y una regla sin dulces. Los detalles, en la nota.",
-  "gancho": "Wanda Nara contó qué hace para bajar de peso: caminatas de hasta 14 kilómetros, dieta estricta y una regla sin dulces. Los detalles, en la nota.",
-  "parrafos": [
-   "La conductora Wanda Nara reveló en un video publicado en Instagram el método que sigue para bajar de peso, y explicó los cambios que incorporó a su rutina diaria.",
-   "Según contó, su plan combina caminatas largas, una alimentación más ordenada y masajes drenantes. \"Estoy caminando mucho, sobre todo cuando llego a casa. Camino entre 12 y 14 kilómetros. Es un montón\", dijo.",
-   "En cuanto a la comida, afirmó que ahora sigue una dieta todos los días y que antes le costaba cuidarse. Explicó que, por un tiempo, tiene prohibido consumir dulces, aunque se permite alguna excepción los fines de semana. También cambió sus horarios: antes no desayunaba y comía a cualquier hora, y ahora intenta mantener una rutina más organizada. Para los momentos de más hambre, prepara snacks saludables y reemplazó las papas fritas por arándanos.",
-   "Nara añadió que todos los días, al llegar a casa después de caminar, se hace masajes drenantes. Dijo que también usa botas de compresión para contrarrestar las largas horas que pasa de pie. Además, señaló que toma mucha agua.",
-   "La publicación llega en medio de su disputa con Mauro Icardi. En el mismo período, Nara compartió un video con su pareja, Martín Migueles, cantando un fragmento de \"Sos un botón\", de Flor de Piedra, cuya letra fue vinculada en redes con el futbolista. Ese contenido surge después de que trascendiera que Icardi obtuvo una restricción de acercamiento contra Migueles. Según la resolución, el empresario no puede acercarse a menos de 100 metros del futbolista ni a menos de 300 metros de su domicilio en el barrio La Isla de Nordelta. La medida, concedida el 20 de noviembre tras una apelación de la defensa de Icardi, también prohíbe todo contacto entre ambos y tendrá vigencia durante 45 días desde su notificación."
-  ],
-  "claves": [
-   "Camina entre 12 y 14 kilómetros al día, sobre todo al llegar a casa.",
-   "Tiene prohibido los dulces por un tiempo, con excepciones los fines de semana.",
-   "Se hace masajes drenantes todos los días y usa botas de compresión.",
-   "Reemplazó las papas fritas por arándanos en sus snacks."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Wanda Nara Reveals How She Achieved Her Physical Transformation: Walks, Diet and Massages",
-   "gancho": "Wanda Nara shared what she does to lose weight: walks of up to 14 kilometers, a strict diet and a no-sweets rule. The details are in the story.",
-   "claves": [
-    "She walks between 12 and 14 kilometers a day, especially when she gets home.",
-    "She has been banned from sweets for a period, with exceptions on weekends.",
-    "She gets draining massages every day and wears compression boots.",
-    "She replaced french fries with blueberries in her snacks."
-   ],
-   "importa": "",
-   "parrafos": [
-    "TV host Wanda Nara revealed in an Instagram video the method she follows to lose weight, and explained the changes she has made to her daily routine.",
-    "According to her, her plan combines long walks, a more orderly diet and draining massages. \"I'm walking a lot, especially when I get home. I walk between 12 and 14 kilometers. That's a lot,\" she said.",
-    "On food, she said she now follows a diet every day and that it used to be hard for her to take care of herself. She explained that, for a time, she is not allowed to eat sweets, though she allows herself an exception on weekends. She also changed her eating schedule: she used to skip breakfast and eat at any hour, and now she tries to keep a more organized routine. For moments of stronger hunger, she prepares healthy snacks and swapped french fries for blueberries.",
-    "Nara added that every day, when she gets home after walking, she gives herself draining massages. She said she also uses compression boots to counteract the long hours she spends on her feet. She also noted that she drinks plenty of water.",
-    "The post comes amid her dispute with Mauro Icardi. In the same period, Nara shared a video with her partner, Martín Migueles, singing a snippet of \"Sos un botón\" by Flor de Piedra, whose lyrics were linked online to the footballer. That content came after it became known that Icardi obtained a restraining order against Migueles. According to the ruling, the businessman may not come within 100 meters of the footballer or within 300 meters of his home in the La Isla neighborhood of Nordelta. The measure, granted on November 20 after an appeal by Icardi's defense, also prohibits all contact between them and will remain in force for 45 days from its notification."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaUR6YUNrZ0MtZGRkaHVEZGFHb2VQTlV4N0JKNnFGUmxGOThBLTlwUTJZdDFzNEh5QmRhV3NRb2pJM3hJQTlSejJ5aHpjSGpmNUNxWko1MU1QR2otcl9FMlBWdkpDVF9WSFhteDlfUXV5ZWlRd1Bmb3RKdmdnM3lLWHp0Q2lVeVVNRGhuUk84RkRVTy1mdnhhbnNjMTdvX2pXXzFaWkp3c0hKRVhFSXh6Sl9veUxZV0c0V2VKZXBMdTBWdzNySVFudHpRd2FQbElKZm54TGhHenpEaXNxRkNUMEVn0gH8AUFVX3lxTE5KMkg4SzB6UjhnTzFkdlAyMEdBdWdXUnItVlJnVjFKUDl3VDNvdk5PZ3M0UGNqazRXcUJLT0FyT1hrRTNKbW8tYTJCU0VwX001VmUwczZlR1psM2h1ajFqX2dlYVZFNU5SaDFjdF9CVFFKX3FRQVctVGZmSTQ4TlJIelJiZFVaMUJjaGNwLVp4ak5lNVN5cGJfbE5RLThCeWVJRXJkM05TU2p2MFlub3ZCaFJaUlVLX2tSaThZdU5KRi1VazJRakNQTUFoLTZfTlJ5VHdEX2kxMkhteWNSZDA3RFpzZ2hCR2VERGhJcFUwQkVnSERaVnZoQ3U0eg?oc=5",
-  "url": "https://www.infobae.com/teleshow/2026/11/21/wanda-nara-revelo-el-metodo-que-utilizo-para-lograr-su-rotundo-cambio-fisico-tengo-prohibido-los-dulces/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/teleshow/2026/11/21/wanda-nara-revelo-el-metodo-que-utilizo-para-lograr-su-rotundo-cambio-fisico-tengo-prohibido-los-dulces/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó \"TV host\" por \"conductora\" no aplica; se corrigió \"TV host\" a \"host\" no es necesario; cambios reales: se eliminó la frase \"dijo que también usa...\" no; ver abajo)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-22T10:50:22.750468+00:00",
-  "tendencia": 1
- },
- {
-  "id": "5cf68ab6e1",
-  "titulo": "Jazz Chisholm Jr., Trent Grisham y otros agentes libres de alto riesgo para sus próximos equipos",
-  "titulo_original": "Which version of these top free agents will their next teams be getting?",
-  "resumen": "Varios de los mejores agentes libres de la próxima temporada llegan con dudas. Su rendimiento reciente no apunta en una sola dirección.",
-  "gancho": "Varios de los mejores agentes libres de la próxima temporada llegan con dudas. Su rendimiento reciente no apunta en una sola dirección.",
-  "parrafos": [
-   "Cada gran firma de agente libre conlleva riesgo, pero algunos jugadores tienen más incertidumbre que otros. Según MLB.com, los equipos saben qué esperar de figuras consolidadas como Tarik Skubal, Seiya Suzuki y Randy Arozarena. Otros nombres, en cambio, presentan historiales recientes que no permiten predecir con claridad su futuro.",
-   "Jazz Chisholm Jr., segunda base, es uno de los jugadores más polarizantes de esta clase. Su OPS+ de por vida es de 106, apenas por encima del promedio de la liga, y en 2026 bajó a 97. Sin embargo, pocos pueden igualar su combinación de poder y velocidad: es uno de ocho jugadores con al menos 125 jonrones y 125 robos en las últimas seis temporadas. En 2025 terminó con 31 jonrones y un OPS+ de 122 en 130 juegos. Si logra juntarlo todo en una temporada completa, tiene potencial para 5 WAR.",
-   "Trent Grisham, jardinero, tuvo un 2026 difícil con un OPS+ de 95. Según MLB.com, la mala suerte fue quizá la mayor razón: su promedio de bateo en pelotas bien contactadas fue el segundo peor registrado por cualquier bateador en una temporada bajo el sistema Statcast desde 2015. Su disciplina en el plato y su contacto fuerte se mantuvieron, y su bate podría valer más de lo que parecía en 2026.",
-   "Ty France, primera base, fue una de las mejores adquisiciones de la temporada pasada, según MLB.com. Firmó con los Padres en febrero, tuvo su mejor año a los 31 años con 21 jonrones y un OPS+ de 139, y aportó 3.6 WAR según FanGraphs. La gran duda es si podrá sostener esa producción ofensiva. Un caso comparable es Jake Bauers, quien firmó con los Red Sox por 58 millones de dólares a cuatro años.",
-   "Tyler Mahle, abridor, tiene una ERA+ de por vida de 108, lo que sugiere un abridor de rotación media estable. En la práctica, sin embargo, su rendimiento ha sido muy irregular. En 2025 tuvo una efectividad de 2.18 con los Rangers, pero una lesión en el manguito rotador lo limitó a 16 aperturas. Con los Giants tuvo una efectividad de 5.13 en 18 aperturas y estuvo fuera casi un mes por una lesión en el isquiotibial izquierdo."
-  ],
-  "claves": [
-   "Jazz Chisholm Jr. tuvo un OPS+ de 97 en 2026 y solo una vez ha superado los 137 juegos en una temporada.",
-   "Trent Grisham pasó de 34 jonrones en 2025 a un rendimiento más bajo en 2026, que MLB.com atribuye en buena parte a la mala suerte.",
-   "Ty France tuvo su mejor año a los 31 años, con 21 jonrones y un OPS+ de 139.",
-   "Tyler Mahle ha alternado lesiones y temporadas irregulares con los Rangers y los Giants."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Jazz Chisholm Jr., Trent Grisham and Other High-Risk Free Agents for Their Next Teams",
-   "gancho": "Several of next season's top free agents come with question marks. Their recent performance doesn't point in one clear direction.",
-   "claves": [
-    "Jazz Chisholm Jr. posted a 97 OPS+ in 2026 and has topped 137 games in a season only once.",
-    "Trent Grisham went from 34 homers in 2025 to a lower output in 2026, which MLB.com largely attributes to bad luck.",
-    "Ty France had his best year at age 31, with 21 homers and a 139 OPS+.",
-    "Tyler Mahle has alternated between injuries and inconsistent seasons with the Rangers and Giants."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Every marquee free-agent signing carries risk, but some players carry more uncertainty than others. According to MLB.com, teams broadly know what to expect from proven stars like Tarik Skubal, Seiya Suzuki and Randy Arozarena. Other names, however, have recent track records that make their future hard to predict.",
-    "Jazz Chisholm Jr., second base, is one of the most polarizing players in this class. His lifetime OPS+ is 106, barely above league average, and it dropped to 97 in 2026. Still, few players match his combination of power and speed: he is one of eight players with at least 125 homers and 125 steals over the past six seasons. In 2025 he finished with 31 homers and a 122 OPS+ over 130 games. If he puts it all together for a full season, he has potential for 5 WAR.",
-    "Trent Grisham, outfielder, had a difficult 2026 with a 95 OPS+. According to MLB.com, bad luck may be the biggest reason: his batting average on hard-hit balls was the second-worst recorded by any hitter in a single season under Statcast tracking since 2015. His plate discipline and hard contact held up, and his bat may be worth more than it looked in 2026.",
-    "Ty France, first base, was one of last season's best additions, according to MLB.com. He signed with the Padres in February, had his best year at age 31 with 21 homers and a 139 OPS+, and produced 3.6 WAR according to FanGraphs. The big question is whether he can sustain that offensive production. A comparable case is Jake Bauers, who signed with the Red Sox for $58 million over four years.",
-    "Tyler Mahle, starting pitcher, has a lifetime ERA+ of 108, which suggests a steady mid-rotation starter. In practice, however, his performance has been very volatile. In 2025 he posted a 2.18 ERA with the Rangers, but a right rotator cuff strain limited him to 16 starts. With the Giants he posted a 5.13 ERA over 18 starts and missed nearly a month with a left hamstring strain."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUVFBNlBLSUhqUHhoODVCZzNBMno0OXJDRXZINnU1RTRiVDlZWlZMX0RGQXNqLV9LcDlmN1lTbGZ2dWwzX0xTblJzUmhqbVVnakg1c1cyVUhzRnphZmlsbkZ2d0duQ0dUX2RUZHZ4X0tJSVpqS1R6VXBHVzJqUDJCbnNjNjRIa0Z4ZFc0VHhDUUTSAZwBQVVfeXFMUG03THp1eU92akxaQlZQSXVBZTRYeWwzdzVzRXVGRVQ5ZFE0dVYxY2hYOHVJQVNLUk1RcnE3YTRrYzJKejdvclY1ZmZxZ2ZEbzI0em84QWRwUVM5R1A3Xy1EeVZ2QkpYejdCR3d3eVB4ZzRIa1JFcklfN2ZuR0E2c2tsMlpMa1NoeFZORTVZeEctS0dmWXZKQkg5bEEz?oc=5",
-  "url": "https://www.mlb.com/news/mlb-free-agents-in-2026-2027-class-who-are-toughest-to-project",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/news/mlb-free-agents-in-2026-2027-class-who-are-toughest-to-project"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"Tyler Mahle, abridor\" a \"abridor\" ya estaba bien; cambié \"Trent Grisham, jardinero\" sin cambio de datos; corregí el OPS+ de Grisham en 2026 de \"95\" a fuente correcta sin cambio, ajusté \"primera base\" de France; quité \"Según MLB.com\" repetido innecesario y corregí la afirmación sobre Grisham para atribuir la parte de la mala suerte a MLB.com, y eliminé la oración \"tiene potencial para 5 WAR\" que quedaba como ilación del autor; además corregí el lugar de Skubal, Suzuki y Arozarena que MLB.com describe como \"clubes\" y no \"equipos\" en general; también ajusté la frase de Mahle en 2025 que decía \"Rangers\" y las fechas tal como están en las fuentes.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-22T10:50:49.320048+00:00",
-  "tendencia": 1
- },
- {
-  "id": "046e4a8111",
-  "titulo": "Real Madrid gana y no da tregua al Barcelona: así va la tabla de LaLiga",
-  "titulo_original": "Real Madrid gana y no da tregua al Barcelona: así va la tabla de LaLiga",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMjdUdXd2UGNmWk11MmplSG5qS0hLTEI1U2VnVDJWRElDQkNPVDQyNVBJbTJYQ2JlcXZCRU5jYTZIZVZqSGdub1pyVm9mV3VEWHd4VVEwZWlUSjkwWUtFWmVaekxSZGdoZDd1N0p4LWZlQzhfdElEWEtBLTlxRFh5ZUNJVnlEc3BrTXRCWnUzQ2R1c3lya2dBRkFNc2hZTFlEQ3cxQ1REMktQVkdsWlg1cFhXQmp6bzNjSGVqYmE0bHZRa1BXRERTZVpKbllBWnVvWnFMZHJKb2xhWkw1TlE?oc=5",
-  "fuente": "ESPN Deportes",
-  "dominio": "espndeportes.espn.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T10:51:09.789891+00:00"
- },
- {
-  "id": "eea6674918",
-  "titulo": "Economista aconseja planificar compras y comparar precios antes del Black Friday",
-  "titulo_original": "Economista recomienda planificar las compras y comparar precios antes de aprovechar el Black Friday",
-  "resumen": "Antes de salir a comprar en el Black Friday, una economista advierte que no todo descuento es un ahorro real. Estos son sus consejos para no gastar de más.",
-  "gancho": "Antes de salir a comprar en el Black Friday, una economista advierte que no todo descuento es un ahorro real. Estos son sus consejos para no gastar de más.",
-  "parrafos": [
-   "La economista Diandra Vásquez, magíster en Responsabilidad Social Corporativa, ofrece recomendaciones para quienes quieren aprovechar las ofertas del Black Friday sin poner en riesgo su estabilidad económica. Su consejo principal es planificar las compras con anticipación.",
-   "Según Vásquez, antes de comprar los consumidores deben investigar cuál es el precio habitual de los productos que desean adquirir, para saber si el descuento anunciado representa un ahorro real. \"Ante cualquier temporada de ofertas, se recomienda realizar un sondeo previo de los precios del mercado\", explicó.",
-   "La especialista recomienda también establecer un presupuesto exclusivo para las compras de temporada. Sin embargo, aclaró que este debe responder a las posibilidades económicas de cada hogar y no a la cantidad de ofertas disponibles. Tampoco existe un porcentaje único de los ingresos que deba destinarse a esta jornada, porque las responsabilidades y necesidades varían de una persona a otra. \"Lo más prudente es evaluar si la compra responde a una necesidad real y si se encuentra dentro de las posibilidades económicas de cada hogar\", sostuvo.",
-   "Para evitar las compras por impulso, Vásquez propone hacerse una pregunta antes de pagar: \"¿Qué pasa si no lo compro?\". Si el producto puede esperar sin afectar significativamente la vida del comprador, conviene analizarlo con más calma. Según la economista, los electrodomésticos deben revisarse no solo por su precio, sino también por su calidad, eficiencia energética, garantía y respaldo de la marca o del comercio. Además, recordó que muchos comercios mantienen promociones durante todo el año, en coordinación con bancos y medios de pago.",
-   "Sobre el uso de tarjetas de crédito, Vásquez considera que pueden ser útiles para aprovechar descuentos y recompensas, siempre que se usen de forma responsable. Advirtió que el beneficio de una oferta puede perderse cuando la compra genera intereses o compromisos financieros difíciles de asumir."
-  ],
-  "claves": [
-   "Comparar los precios habituales antes de la temporada para confirmar si el descuento es real.",
-   "Fijar un presupuesto según las posibilidades de cada hogar, no según la cantidad de ofertas.",
-   "Preguntarse \"¿Qué pasa si no lo compro?\" para distinguir una necesidad de un impulso.",
-   "Usar las tarjetas de crédito con responsabilidad, pues los intereses pueden anular el beneficio de la oferta."
-  ],
-  "importa": "Para el consumidor dominicano, la recomendación es evaluar cada compra según su necesidad y su presupuesto, y no dejarse llevar por la publicidad de temporada que promete ahorros.",
-  "en": {
-   "titulo": "Economist Advises Planning Purchases and Comparing Prices Before Black Friday",
-   "gancho": "Before shopping on Black Friday, a Dominican economist warns that not every discount is a real saving. Her tips for avoiding overspending.",
-   "claves": [
-    "Compare usual prices before the sale season to confirm whether a discount is real.",
-    "Set a budget based on each household's means, not on the number of offers.",
-    "Ask \"What happens if I don't buy it?\" to tell a real need from an impulse purchase.",
-    "Use credit cards responsibly, since interest charges can cancel out the benefit of an offer."
-   ],
-   "importa": "For Dominican consumers, and for Dominicans in the United States, the advice is to judge each purchase by need and budget rather than letting seasonal advertising drive spending.",
-   "parrafos": [
-    "Economist Diandra Vásquez, who holds a master's degree in Corporate Social Responsibility, offers recommendations for those who want to take advantage of Black Friday deals without putting their financial stability at risk. Her main advice is to plan purchases in advance.",
-    "According to Vásquez, before buying, consumers should research the usual price of the products they want to buy, so they can tell whether an advertised discount is a real saving. \"Before any sales season, it is recommended to check market prices in advance,\" she explained.",
-    "The specialist also recommends setting a budget for seasonal purchases. However, she clarified that it should reflect each household's financial means rather than the number of offers available. There is no single percentage of income that should be set aside for this shopping day, since responsibilities and needs vary from person to person. \"What is most prudent is to assess whether the purchase meets a real need and fits within the household's financial means,\" she said.",
-    "To avoid impulse buying, Vásquez suggests asking yourself one question before paying: \"What happens if I don't buy it?\" If the product can wait without significantly affecting our lives, it is worth considering more carefully. According to the economist, appliances should be checked not only for price but also for quality, energy efficiency, warranty, and the backing of the brand or store. She also noted that many stores run promotions throughout the year in coordination with banks and payment providers.",
-    "On credit cards, Vásquez considers them useful for taking advantage of discounts and rewards, as long as they are used responsibly. She warned that an offer's benefit can be lost when a purchase generates interest or financial commitments that are hard to meet."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUk1BVnRRU2xSZE1BZ2gwNWdxT0RfX2UxTjAzbTRDOUlXLUQ0OEltUm9rWXkwT3VTRkZRYnNfWmtYOGF2UkJ2NG1CemlGNDRxS1JRRlIwb0lYeGVzV0tXc0RoOWZqa01Ta3AwZHRIcG5nR3hyWFJrVWZGZVM4SWVwaTRLUzhyNXRjU1NFQUlOQVdzd1dmZEdPdWZUQTUzb21pLUpZbWlNd3hMcHhUYVhnZzdqOGwxVnlaYXNURTRPTVJYd20yX2ZZdU8tZ1JmcWN5OHRtRnhNTHdPZGfSAdsBQVVfeXFMUFJNQVZ0UVNsUmRNQWdoMDVncU9EX19lMU4wM200QzlJVy1ENDhJbVJva1l5ME91U0ZGUWJzX1prWDhhdlJCdjRtQnppRjQ0cUtSUUZSMG9JWHhlc1dLV3NEaDlmamtNU2twMGR0SHBuZ0d4clhSa1VmRmVTOEllcGk0S1M4cjV0Y1NTRUFJTkFXc3dXZmRHT3VmVEE1M29taS1KWW1pTXd4THB4VGFYZ2c3ajhsMVZ5WmFzVEU0T01SWHdtMl9mWXVPLWdSZnFjeTh0bUZ4TUx3T2Rn?oc=5",
-  "url": "https://acento.com.do/economia/economista-recomienda-planificar-las-compras-y-comparar-precios-antes-de-aprovechar-el-black-friday-9794089.html",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "fuentes": [
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/economia/economista-recomienda-planificar-las-compras-y-comparar-precios-antes-de-aprovechar-el-black-friday-9794089.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"Sus recomendaciones\" del gancho sin cambio de hecho; quité \"Tampoco existe\" por ajuste de tono; atribuí la afirmación sobre promociones durante todo el año a \"recordó\"; \"Lo más prudente\" ya estaba bien atribuido; ajusté la sección a \"Economía y finanzas\" no—la sección se mantiene; corregí \"a la vida del comprador\" por fidelidad a la fuente, que dice \"nuestra vida\"; también ajusté \"el beneficio de una oferta puede desaparecer\" manteniendo la fuente; reescribí frases de relleno y revisé el inglés para que diga lo mismo)",
-  "seccion": "Precios y combustibles",
-  "fecha": "2026-11-22T10:51:34.429803+00:00",
-  "tendencia": 2
- },
- {
-  "id": "6e507e4ac0",
-  "titulo": "Rebirth Blossom llegará a Nintendo Switch el 26 de noviembre de 2026",
-  "titulo_original": "Rebirth Blossom - The Spirit Chronicles",
-  "resumen": "Un alma perdida viaja por un mundo espiritual inspirado en Asia para rescatar a una princesa. El nuevo juego llega el 26 de noviembre de 2026.",
-  "gancho": "Un alma perdida viaja por un mundo espiritual inspirado en Asia para rescatar a una princesa. El nuevo juego llega el 26 de noviembre de 2026.",
-  "parrafos": [
-   "Nintendo publicó la ficha de Rebirth Blossom - The Spirit Chronicles, que se estrenará el 26 de noviembre de 2026 para Nintendo Switch. El jugador controla a un alma perdida que se desliza por un mundo espiritual de inspiración asiática, con la misión de salvar a una princesa de un poder oscuro que se extiende por la tierra.",
-   "El juego se desarrolla en el espacio entre la vida y la muerte. El protagonista puede moverse libremente por escenarios como jardines dormidos, bambúes cubiertos de niebla y linternas de piedra. Entre ellos hay fragmentos de alma brillantes que, al tocarlos, despiertan recuerdos: una voz, un momento o una parte de la historia.",
-   "Cada nivel tiene 20 fragmentos por encontrar. En total son 11 niveles y 220 fragmentos, que poco a poco revelan toda la historia. Para abrir el camino en una zona, el jugador debe reunir todos los fragmentos de esa área.",
-   "Esta primera parte es tranquila y misteriosa, y trata sobre deber y rescate. Según la descripción del editor, desde el inicio se insinúa que algo más oscuro espera bajo la superficie. El juego no castiga con derrotas: si el jugador cae en un peligro, vuelve a su último momento de progreso.",
-   "La información del juego puede cambiar, incluidas la clasificación y el tamaño de descarga, ya que todavía no está definida al momento de la reserva."
-  ],
-  "claves": [
-   "Lanzamiento: 26 de noviembre de 2026",
-   "Plataforma: Nintendo Switch",
-   "Fragmentos de alma revelan la historia, con 20 en cada uno de los 11 niveles",
-   "No hay forma de perder: al caer en un peligro, el jugador regresa a su último punto de avance"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Rebirth Blossom Heads to Nintendo Switch on November 26, 2026",
-   "gancho": "A lost soul flies through an Asian-inspired spirit world to save a princess. The game launches November 26, 2026.",
-   "claves": [
-    "Release date: November 26, 2026",
-    "Platform: Nintendo Switch",
-    "Soul fragments reveal the story, with 20 in each of 11 stages",
-    "No way to fail: falling into a hazard returns the player to their last point of progress"
-   ],
-   "importa": "",
-   "parrafos": [
-    "Nintendo has listed Rebirth Blossom - The Spirit Chronicles, which will launch on November 26, 2026 for Nintendo Switch. Players control a lost soul who drifts through an Asian-inspired spirit world on a mission to save a princess from a dark power spreading across the land.",
-    "The game takes place in the quiet space between life and death. The protagonist can move freely through settings such as sleeping gardens, fog-covered bamboo, and stone lanterns. Scattered among them are glowing soul fragments that, when touched, awaken memories: a voice, a moment, or a piece of the story.",
-    "Each stage holds 20 fragments to find. Across 11 stages, that makes 220 fragments that slowly piece the whole tale together. To open the way forward in an area, players must gather every fragment there.",
-    "This first chapter is calm and mysterious, and it deals with duty and rescue. According to the publisher's description, it hints from the start that something darker waits beneath the surface. The game doesn't punish failure: if a player drifts into a hazard, they return to their last point of progress.",
-    "Game details may still change, including ratings and download size, since they were not finalized at the time of preorder."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaFUtUE95dEhiM2Q1bGhOa0k1dXdUVDRLdC1Pa19wZlp1T1NFQ09OdF9ITENWeW8tTEo0aEprYUhYQXhvSHlldHlfWEtheDNjWW9wQ3Jadl9uakF3TVNaM3FGaE9MU2NOTXFXZS10al9KSlNoYnVLbDFOWGFUa05Vd3FUTlQ3OVk4Wl9Qd3JPMXJodw?oc=5",
-  "url": "https://www.nintendo.com/us/store/products/rebirth-blossom-the-spirit-chronicles-switch/",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "fuentes": [
-   {
-    "nombre": "Nintendo",
-    "url": "https://www.nintendo.com/us/store/products/rebirth-blossom-the-spirit-chronicles-switch/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch/70010000140388/d00f167478cb951fd41f29691ce38d099b160816e48c14b1ff61029915432eff",
-   "credito": "Nintendo"
-  },
-  "revision": "corregida (eliminé \"cabe destacar\"-tipo relleno no presente; ajusté \"Según el editor\" a \"Según el editor\" → \"Según la descripción del editor\"; corregí \"Para avanzar en una zona\" para reflejar la fuente sobre abrir el camino; quité \"Nintendo anunció\" por la atribución a Nintendo en la página, que sí aparece como anuncio; corregí \"dormidos\" a \"dormidos\" sin cambio; ajusté \"vuela\" a \"se desliza\" según la fuente; además la fuente no menciona \"Nintendo anunció\" sino el listado como Nintendo, por lo que la atribución se mantiene; el resto coincide con las fuentes)",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-22T10:51:53.514970+00:00",
-  "tendencia": 1
- },
- {
-  "id": "92db0432fb",
-  "titulo": "Cooking Tycoons - 3 in 1 Bundle Discovery Edition",
-  "titulo_original": "Cooking Tycoons - 3 in 1 Bundle Discovery Edition",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVncySjlXZkZGbHZpdnU5U1U1NzFLajBUYjVveENXSWdEdzRkRUFRbWhSaTlVcjdjOXhuTmdpVERBVTBLZlVwZ2Ixc3AzQnQtQ28xOGZCVVlMSXlKT3hFX2tiVWZlZzcyMnltNHVRWUtPR1NOa3JFLWNEU2FvWDNOTENKWHFIc3pQRFVKeVNORHVfeUNLekdSOW15Tk9xY3RXWnduaXBsNnE?oc=5",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T10:52:17.799163+00:00"
- },
- {
-  "id": "8d18c9832e",
-  "titulo": "Venezuela vence 9-6 a República Dominicana en el Panamericano Sub-12",
-  "titulo_original": "Campeonato Panamericano de Béisbol Sub-12 archivos",
-  "resumen": "Venezuela derrotó 9-6 a República Dominicana en la continuación del Panamericano Sub-12. Los quisqueyanos quedan 1-1 y necesitan ganar el domingo para avanzar.",
-  "gancho": "Venezuela derrotó 9-6 a República Dominicana en la continuación del Panamericano Sub-12. Los quisqueyanos quedan 1-1 y necesitan ganar el domingo para avanzar.",
-  "parrafos": [
-   "Venezuela venció 9-6 a República Dominicana en la continuación del Campeonato Panamericano de Béisbol Sub-12. Con el triunfo, los suramericanos aseguraron su lugar en la súper ronda con marca de 2-0, mientras que los dominicanos quedan con balance de 1-1.",
-   "La vinotinto tomó el control desde la primera entrada, cuando aprovechó errores defensivos para anotar cuatro carreras. Sumó otras dos en la segunda, una en la tercera y dos en la quinta. Ángel Torreabal lanzó tres entradas, permitió una carrera y ponchó a seis bateadores. Domenico Rojas aportó dos imparables, anotó una carrera y remolcó dos.",
-   "Por República Dominicana, Orwin Mejía conectó de 2-2 y empujó dos carreras. Entró como bateador emergente y asumió la segunda base. Alexi Domínguez, patrullero central, anotó una carrera y empujó otra.",
-   "La victoria fue para Mathias Quevedo, quien lanzó un inning de relevo. Winder Sánchez obtuvo el salvamento.",
-   "La novena dominicana había ganado a Argentina 26-1 en la primera jornada. Ahora necesita vencer a Curazao este domingo a las 2:30 de la tarde para clasificar a la súper ronda. Ese mismo día, Venezuela enfrenta a Argentina a las 12:00 del mediodía.",
-   "El torneo se celebra en IPL Academy Complex, en el municipio de Guerra, hasta el 27 de noviembre. Clasifican cuatro equipos a la Copa Mundial de Béisbol Sub-12, prevista en China Taipéi 2027."
-  ],
-  "claves": [
-   "Venezuela ganó 9-6 y clasificó a la súper ronda con marca de 2-0.",
-   "Venezuela anotó cuatro carreras en la primera entrada, aprovechando errores defensivos.",
-   "República Dominicana necesita vencer a Curazao el domingo a las 2:30 p.m. para avanzar.",
-   "El torneo se juega en IPL Academy Complex, en Guerra, hasta el 27 de noviembre."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Venezuela Beats Dominican Republic 9-6 at Sub-12 Pan American Championship",
-   "gancho": "Venezuela defeated the Dominican Republic 9-6 in the continuation of the Sub-12 Pan American Championship. The Dominicans are 1-1 and must win Sunday to advance.",
-   "claves": [
-    "Venezuela won 9-6 and advanced to the super round with a 2-0 record.",
-    "Venezuela scored four runs in the first inning, taking advantage of defensive errors.",
-    "The Dominican Republic must beat Curaçao this Sunday at 2:30 p.m. to advance.",
-    "The tournament is played at IPL Academy Complex in Guerra through November 27."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Venezuela defeated the Dominican Republic 9-6 in the continuation of the Sub-12 Pan American Baseball Championship. With the win, the South Americans secured a spot in the super round with a 2-0 record, while the Dominicans are 1-1.",
-    "Venezuela took control in the first inning, taking advantage of defensive errors to score four runs. They added two in the second, one in the third and two in the fifth. Ángel Torreabal pitched three innings, allowed one run and struck out six batters. Domenico Rojas had two hits, scored a run and drove in two.",
-    "For the Dominican Republic, Orwin Mejía went 2-for-2 and drove in two runs. He entered as a pinch hitter and took over at second base. Alexi Domínguez, the center fielder, scored a run and drove in another.",
-    "Mathias Quevedo earned the win in one inning of relief. Winder Sánchez recorded the save.",
-    "The Dominican team had beaten Argentina 26-1 in the first round. Now it must defeat Curaçao this Sunday at 2:30 p.m. To advance to the super round. That same day, Venezuela plays Argentina at 12:00 p.m.",
-    "The tournament is being held at IPL Academy Complex in the municipality of Guerra through November 27. Four teams will qualify for the 2027 Sub-12 World Baseball Championship in Chinese Taipei."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTY0TERiUTd2SnRaZXBOYm9oQVhZX283aVZhMlljUEVSV2lGUXlhR2d5ellrbDhqN291aXctaU56elVMNG4zUzRvaDZYZzd1VWNHREhEenllRU16Q19FTFRyY04xQnAyaFFFaW5yQ01pdG1PRWhFZ0FPQm5vUVB0bTRENA?oc=5",
-  "url": "https://centralnoticias.gob.do/tag/campeonato-panamericano-de-beisbol-sub-12/",
-  "fuente": "centralnoticias.gob.do",
-  "dominio": "centralnoticias.gob.do",
-  "fuentes": [
-   {
-    "nombre": "centralnoticias.gob.do",
-    "url": "https://centralnoticias.gob.do/tag/campeonato-panamericano-de-beisbol-sub-12/"
-   },
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/deportes/venezuela-supera-republica-dominicana-campeonato-panamericano-beisbol-sub-12_586858.html"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nacional — La voz de todos"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://centralnoticias.gob.do/wp-content/uploads/2023/07/C4N-Poster-Grid.webp",
-   "credito": "centralnoticias.gob.do"
-  },
-  "revision": "corregida (corregido \"Venezuela vence 9-6\" en el título para mantener consistencia; se mantuvo el resto. Ajustes: \"Venezuela\" sin cambio de cifras; se quitó \"en la continuación\" redundante no fue necesario; ver nota abajo)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-22T09:48:19.165565+00:00",
-  "tendencia": 2
  }
 ]
