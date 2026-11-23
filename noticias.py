@@ -121,9 +121,11 @@ IG_DESDE, IG_HASTA = 7, 23   # Instagram: hasta 5 por hora, de 7:00 a. m. a 11:0
 HORA_CONSEJO = 9        # a partir de las 9 a. m. (hora RD) se prepara el primer consejo del día (el tema en tendencia)
 HORA_CONSEJO_2 = 15     # ya no se usa: ahora sale un solo consejo al día
 TENDENCIA_HISTORIA = 3  # si 3 medios o más hablan de la noticia, también va a historias
-MAX_HISTORIAS_DIA = 12  # tope de historias de noticias por día
-IG_POR_CORRIDA = 5      # hasta 5 noticias a Instagram en cada corrida (cada hora), la más en tendencia primero
-MAX_IG_DIA = 45         # tope de noticias en Instagram por día (Instagram deja 100 en 24 horas; así no parece spam)
+MAX_HISTORIAS_DIA = 6   # tope de historias de noticias por día (las historias también gastan del límite de Instagram)
+IG_POR_CORRIDA = 3      # hasta 3 noticias a Instagram en cada corrida (cada hora), la más en tendencia primero
+# Instagram deja unas 50 publicaciones cada 24 horas por la API, y las historias también cuentan.
+# Se usan 42 como máximo para dejar espacio al consejo del día (publicación + historia).
+MAX_IG_24H = 42
 
 ARCHIVO = "docs/noticias.json"
 ARCHIVO_CONSEJOS = "docs/consejos.json"
@@ -1242,10 +1244,15 @@ def historias_de_hoy(todas, consejos):
                and datetime.fromisoformat(n["historia_fecha"]).astimezone(HORA_RD).date() == hoy)
 
 # ================= Instagram: qué se sube esta hora =================
-def publicadas_ig_hoy(todas):
-    hoy = ahora().astimezone(HORA_RD).date()
-    return sum(1 for n in todas if n.get("ig_fecha")
-               and datetime.fromisoformat(n["ig_fecha"]).astimezone(HORA_RD).date() == hoy)
+def publicadas_ig_24h(todas):
+    """Publicaciones + historias de noticias en las últimas 24 horas (así cuenta Instagram su límite)."""
+    desde = ahora() - timedelta(hours=24)
+    def dentro(f):
+        try:
+            return bool(f) and datetime.fromisoformat(f) > desde
+        except Exception:
+            return False
+    return sum(dentro(n.get("ig_fecha")) + dentro(n.get("historia_fecha")) for n in todas)
 
 def elegir_para_instagram(todas):
     """Hasta IG_POR_CORRIDA noticias por corrida. Primero lo que está en tendencia (lo que más medios
@@ -1257,11 +1264,15 @@ def elegir_para_instagram(todas):
     if not (IG_DESDE <= hora_rd < IG_HASTA):
         print(f"Instagram: de madrugada no se publica (solo de {IG_DESDE}:00 a {IG_HASTA}:00, hora RD).")
         return []
-    hoy_ig = publicadas_ig_hoy(todas)
-    cupo = min(IG_POR_CORRIDA, MAX_IG_DIA - hoy_ig)
-    if cupo <= 0:
-        print(f"Instagram: ya salieron {hoy_ig} noticias hoy (el tope es {MAX_IG_DIA}).")
+    usados = publicadas_ig_24h(todas)
+    libres = MAX_IG_24H - usados
+    if libres <= 0:
+        print(f"Instagram: ya se usaron {usados} de {MAX_IG_24H} publicaciones en 24 horas; se espera a que se liberen.")
         return []
+    # se reparte en las horas que faltan del día, para no gastar todo de una vez
+    horas_quedan = max(1, IG_HASTA - hora_rd)
+    cupo = min(IG_POR_CORRIDA, libres, max(1, -(-libres // horas_quedan)))
+    print(f"Instagram: {usados} usadas en 24 horas, quedan {libres}; esta corrida sube hasta {cupo}.")
     limite = ahora() - timedelta(hours=HORAS_IG)
     pool = [n for n in visibles(todas) if n.get("ig") in (None, "") and n.get("id")
             and fecha(n) > limite and n.get("ig_intentos", 0) < 3
@@ -1288,6 +1299,7 @@ def elegir_para_instagram(todas):
             elegidas.append(n)
     os.makedirs("docs/ig", exist_ok=True)
     historias = historias_de_hoy(todas, [])
+    gasto = 0   # publicaciones + historias que salen en esta corrida (no pueden pasar de "libres")
     salen = []
     for mejor in elegidas:
         ruta = f"docs/ig/{mejor['id']}.jpg"
@@ -1297,13 +1309,15 @@ def elegir_para_instagram(todas):
             print("Error imagen:", err)
             continue
         mejor["ig"], mejor["ig_img"] = "pendiente", f"ig/{mejor['id']}.jpg"
-        # si está en tendencia, también va a historias (con tope diario)
+        gasto += 1
+        # si está en tendencia, también va a historias (con tope diario y si queda espacio en el límite de Instagram)
         if (mejor.get("tendencia", 1) >= TENDENCIA_HISTORIA and not mejor.get("historia")
-                and historias < MAX_HISTORIAS_DIA):
+                and historias < MAX_HISTORIAS_DIA and gasto < libres):
             try:
                 imagen_historia(ruta, f"docs/ig/{mejor['id']}-h.jpg", "EN TENDENCIA", "Lee más en aldiard.com")
                 mejor["historia"], mejor["historia_img"] = "pendiente", f"ig/{mejor['id']}-h.jpg"
                 historias += 1
+                gasto += 1
             except Exception as err:
                 print("Error imagen historia:", err)
         salen.append(mejor)
