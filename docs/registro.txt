@@ -1,109 +1,114 @@
-Corrida: 2026-11-23 08:48 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1652 letras -> https://presidencia.gob.do/noticias/turismo-entrega-reconstruida-isleta-en-entrada-de-salcedo
-[República Dominicana] Z Digital: texto leído 1630 letras -> https://z101digital.com/turismo-entrega-isleta-reconstruida-en-salcedo-con-inversion-de-rd10-2-millones/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Z Digital
-Revisión: corregida (se cambió "Turismo entrega isleta reconstruida" por "Turismo entrega isleta reconstruida en Salcedo" en el tí
+Corrida: 2026-11-23 09:48 AM (hora RD)
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el cambio de Banreservas, que en las fuentes figura en RD$58 de compra; el
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 1, 23, 5800')
 [República Dominicana] Presidencia de la República Dominicana: texto leído 3538 letras -> https://presidencia.gob.do/noticias/gobierno-refuerza-la-transparencia-impulsa-la-inversion-publica-y-prepara-medidas-para-la
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Gobierno refuerza la transparencia, impulsa la inversión pública y prepara medidas para la Navidad Gobierno refuerza la transparencia, impulsa la inversión pública y prepara medidas para la Navidad -> cifras que no aparecen en las fuentes: 230
+Revisión: corregida (cambié "desembolsó" por "desembolso", añadí "la Presidencia informó" para atribuir la cifra de la regalía pas
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2741 letras -> https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Rechazada por la revisión: DIDA ofrece más de 1.4 millones de asistencias y evita cobros indebidos por 116 millones de pesos en 2026 -> cifras que no aparecen en las fuentes: 466207
 [República Dominicana] Incart: texto leído 502 letras -> https://incart.gob.do/wp-file-download/reportes-de-cumplimiento-de-encuestas-de-satisfaccion/
 Fuente oficial encontrada: Incart 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Reportes de cumplimiento de Encuestas de Satisfacción archivos
 [República Dominicana] DGII: texto leído 1081 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-del-comprador-en-facturas-de-consumo-electrnicas-e32-menores-de-rd250000/6b03058e3a9daeeaea53b91f
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación del comprador en facturas de consumo electrónicas E32 menores de RD$250,000
-[República Dominicana] De Último Minuto: texto leído 1641 letras -> https://deultimominuto.com/entretenimiento/jandy-ventura-15/
-Cambiada de sección: República Dominicana -> Famosos: Jandy Ventura reconocido por la Escuela Nacional del Ministerio Público por su aporte a la cultura
-Revisión: corregida (se quitó "pasado" de la fecha y se ajustó "Procuradora General" a "procuradora general", se corrigió "Attorne
-Video de YouTube agregado: Jandy Ventura El Legado Del Caballo  - El Jumo
-[República Dominicana] De Último Minuto: texto leído 4403 letras -> https://deultimominuto.com/entretenimiento/christian-nodal-15/
-[República Dominicana] Excélsior: texto leído 3564 letras -> https://www.excelsior.com.mx/espectaculos/christian-nodal-anuncia-retiro-temporal-escenarios-mexico
-Cambiada de sección: República Dominicana -> Famosos: Christian Nodal hará una pausa en su carrera y dice adiós a los escenarios temporalmente
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se atribuyó a De Último Minuto el litigio, las fechas de la marca y el contrato, e
-Revisión: corregida (se atribuyó a De Último Minuto el litigio, las fechas de la marca y el contrato, el registro de denominación,
-[República Dominicana] De Último Minuto: texto leído 2593 letras -> https://deultimominuto.com/internacionales/el-secretario-general-de-la-onu-2/
-[República Dominicana] N Digital: texto leído 1674 letras -> https://n.com.do/2026/11/23/secretario-general-de-la-onu-pide-respaldo-internacional-para-haiti/
-Cambiada de sección: República Dominicana -> Internacionales: El secretario general de la ONU llama a la comunidad internacional a respaldar a Haití ante la crisis de violencia
-Revisión: corregida (se quitó "en medio de" y "de la crisis"; se atribuyó la muerte a la fuerza que la reportó; se ajustó la redac
-[República Dominicana] De Último Minuto: texto leído 1432 letras -> https://deultimominuto.com/entretenimiento/magali-febles-26/
-Cambiada de sección: República Dominicana -> Famosos: Magali Febles, recibe reconocimiento como Directora del Año en el Miss Universo 2026
-Revisión: corregida (se quitó "celebrado" y "Según la información disponible" donde añadían matiz no presente en fuentes; se aclar
-[República Dominicana] De Último Minuto: texto leído 1278 letras -> https://deultimominuto.com/nacionales/agentes-de-la-dicrim-apresan/
-Revisión: corregida (se ajustó "pasola" a "motocicleta" en la cuota de "pasola"? No: se corrigió el texto para incluir la nota de 
+[República Dominicana] De Último Minuto: texto leído 5820 letras -> https://deultimominuto.com/nacionales/migracion-dncd-alerta/
+Revisión: corregida (eliminé "según la nota de prensa" en la atribución de la sentencia sobre la alerta y el derecho a libre tráns
+[República Dominicana] De Último Minuto: texto leído 4572 letras -> https://deultimominuto.com/entretenimiento/lorena-meritano-15/
+Cambiada de sección: República Dominicana -> Famosos: Lorena Meritano: “Estoy harta de recibir fotografías sexuales explícitas de hombres que nadie les pidió”
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se quitó "Argentine actress"? no: se corrigió "Mexico City" sin cambios; se cambió
+Revisión: corregida (se quitó "Argentine actress"? no: se corrigió "Mexico City" sin cambios; se cambió "personas de su entorno di
+[República Dominicana] De Último Minuto: texto leído 4775 letras -> https://deultimominuto.com/entretenimiento/lizbeth-santos-26/
+Cambiada de sección: República Dominicana -> Famosos: Lizbeth Santos destaca en prestigioso festival de cine europeo
+Revisión: corregida (quité "Comem*erda" de la etiqueta de fuentes? No: corregí "Según la información publicada" para atribuir la c
+[República Dominicana] De Último Minuto: texto leído 2287 letras -> https://deultimominuto.com/nacionales/accidente-san-francisco-macoris/
+Revisión: aprobada
 [Dominicanos en EE.UU.] ideice.gob.do: texto leído 7000 letras -> https://ideice.gob.do/documentacion/publicaciones-msg-set-id-1-art-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
 Fuente oficial encontrada: ideice.gob.do 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa
-[Dominicanos en EE.UU.] U.S. Embassy in Bahrain (.gov): texto leído 2480 letras -> https://bh.usembassy.gov/security-alert-u-s-embassy-manama-november-22-2026/
-Fuente oficial encontrada: U.S. Embassy in Bahrain (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Manama – November 22, 2026
-[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Mexico (.gov): texto leído 1721 letras -> https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/
-Fuente oficial encontrada: U.S. Embassy & Consulates in Mexico (.gov) 
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: Ongoing Security Operations & Violence in Ahome, Guamúchil, Guasave, Navolato – U.S. Consulate General Hermosillo (November 21)
-Revisión: corregida (se ajustó "Federal Highway 15" a "Mexican Federal Highway 15" y se precisó que el consulado es "U.S. Consulat
-[Dominicanos en EE.UU.] U.S. Embassy in the Dominican Republic (.gov): texto leído 963 letras -> https://do.usembassy.gov/respecting-u-s-visa-terms-and-periods-of-admission-2/
-Fuente oficial encontrada: U.S. Embassy in the Dominican Republic (.gov) 
-Revisión: corregida (se quitó "cabe destacar" en el gancho original no aparecía; se ajustó "El Departamento de Seguridad Nacional"
 [Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
 Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 5074 letras -> https://almomento.net/ny-pide-jce-extienda-fines-de-semana-operativos-cedulacion/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "En entrevista con AlMomento.net" y "según el funcionario" donde atribuían
-Rechazada por la revisión: NY: Pide JCE extienda fines de semana operativos cedulación -> cifras que no aparecen en las fuentes: 275000
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es un pronóstico marino de rutina del Servicio Meteorológico Nacional (NOAA) para las aguas de Puerto Rico e Islas Vírgenes de EE.UU., no una noticia concreta. Se trat')
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1905 letras -> https://elnuevodiario.com.do/rosario-destaca-la-participacion-diversos-sectores-durante-encuentro-con-lf-en-el-bronx/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Rosario destaca la participación diversos sectores durante encuentro con LF en El Bronx
+Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: prensa-latina.cu
+Fuente no confiable, se salta: newsinamerica.com
+Fuente no confiable, se salta: asturiasmundial.com
+Fuente no confiable, se salta: tributearchive.com
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1922 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-domingo-22-de-noviembre/
+[Dominicanos en EE.UU.] Infobae: texto leído 4080 letras -> https://www.infobae.com/mexico/2026/11/23/sorteo-zodiaco-1769-resultados-de-la-loteria-nacional-del-domingo-22-de-noviembre/
+[Dominicanos en EE.UU.] MILENIO: texto leído 3269 letras -> https://www.milenio.com/comunidad/resultados-sorteo-zodiaco-1769-22-noviembre-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Domingo 22 de noviembre
+Fuente no confiable, se salta: eljaya.com
+Fuente no confiable, se salta: cachicha.com
+Fuente no confiable, se salta: labazuca.com
+Fuente no confiable, se salta: elsoldelaflorida.com
+Fuente no confiable, se salta: newsinamerica.com
+Fuente no confiable, se salta: noticentro.com.do
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1226 letras -> https://elnuevodiario.com.do/luisa-gomez-representara-al-tabaco-dominicano-en-conferencia-en-boston/
+Revisión: corregida (eliminé "Durante la actividad", "Su participación se centrará", "Gómez llegó" sin cambios de hecho; ajusté "c
+Fuente no confiable, se salta: youtu.be
+Fuente no confiable, se salta: eljaya.com
+Fuente no confiable, se salta: espaciodeprensa.com
 [Internacionales] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
 [Internacionales] NHC (.gov): texto leído 714 letras -> https://www.nhc.noaa.gov/mobile/text/refresh/MIATWOSAT+html/231115_MIATWOSAT.html
 Fuente oficial encontrada: NHC (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Perspectivas de las Condiciones del Tiempo en el Trópico
-[Internacionales] NHC (.gov): texto leído 1502 letras -> https://www.nhc.noaa.gov/text/refresh/MIATWOSEP+shtml/222311_MIATWOSEP.shtml?text
-Fuente oficial encontrada: NHC (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Perspectivas de las Condiciones del Tiempo en el Trópico (Text)
-Fuente no confiable, se salta: diario.elmundo.sv
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: momentodeportivord.com
-[Famosos] Univision: texto leído 2419 letras -> https://www.univision.com/famosos/fabian-rios-y-yuly-ferreira-esperan-un-bebe-arcoiris-tendran-a-su-tercer-hijo
-Revisión: corregida (eliminé la mención de "actriz" y cambié "actor" a neutro en la frase de Yuly; corregí "ha" en lugar de "han" 
-[Famosos] Univision: texto leído 3624 letras -> https://www.univision.com/shows/quien-es-la-mascara/patricio-borghetti-es-el-desenmascarado-de-quien-es-la-mascara-el-era-alex-loro-video
-[Famosos] MILENIO: texto leído 2384 letras -> https://amp.milenio.com/espectaculos/famosos/patricio-borghetti-perfil-trayectoria
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste material no es una noticia concreta de la que pueda escribir una nota fiel: la versión de Univision es, en su mayor parte, una página de portada con listados de videos y menús de n')
-[Famosos] Univision: texto leído 2109 letras -> https://www.univision.com/horoscopos/geminis-horoscopo-del-lunes-23-de-noviembre-de-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Géminis, horóscopo del lunes 23 de noviembre de 2026: celebra cada avance, sin juzgarte
-[Famosos] Univision: texto leído 1771 letras -> https://www.univision.com/temas/realidad/page/5
+[Internacionales] City of Fresno (.gov): texto leído 962 letras -> https://agendas.fresno.gov/es/legislation/id-26-1564-22268
+Fuente oficial encontrada: City of Fresno (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Famosos] Univision: texto leído 1885 letras -> https://www.univision.com/horoscopos/capricornio-horoscopo-del-lunes-23-de-noviembre-de-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Capricornio, horóscopo del lunes 23 de noviembre de 2026: conecta o perderás oportunidades valiosas
-[Famosos] Univision: texto leído 2221 letras -> https://www.univision.com/horoscopos/aries-horoscopo-del-lunes-23-de-noviembre-de-2026
-[Famosos] La República: texto leído 0 letras -> https://larepublica.pe/amp/horoscopo/2026/11/22/-descubre-tu-horoscopo-de-hoy-por-jhan-sandoval-que-te-deparan-los-astros-este-lunes-23-de-noviembre-1789018
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Aries, horóscopo del lunes 23 de noviembre de 2026: escucha tu intuición con calma
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/caguas-vs-san-juan/2026/11/23/872054/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Caguas vs. San Juan, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-estrellas/2026/11/25/851522/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-gigantes/2026/11/25/851501/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Gigantes, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/culiacan-vs-navojoa/2026/11/25/850381/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Culiacan vs. Navojoa, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/carolina-vs-mayaguez/2026/12/02/872059/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina vs. Mayaguez, lanzadores probables, alineaciones, y más
+Fuente no confiable, se salta: diario.elmundo.sv
+[Famosos] Infobae: texto leído 4028 letras -> https://www.infobae.com/republica-dominicana/2026/11/22/el-duo-dominicano-formado-por-prince-royce-y-romeo-santos-gana-premio-a-mejor-cancion-latina-en-barcelona/
+Cambiada de sección: Famosos -> Deportes: El dúo dominicano formado por Prince Royce y Romeo Santos gana premio a Mejor Canción Latina en Barcelona
+Revisión: corregida (cambié la sección de "Deportes" a "Espectáculos", atribuí las cifras y datos de Billboard a Infobae, quité la
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: remolacha.net
+[Famosos] Telemundo: texto leído 6397 letras -> https://www.telemundo.com/deportes/deportes-noticias/alcaraz-conquista-las-atp-finals-vence-a-zverev-y-termina-con-28-anos-rcna610699
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. La única versión que me pasaste es de Telemundo y su texto aparece cortado al final, y además contiene elementos de publicidad y ')
+[Famosos] Telemundo: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Un ‘baby shower’ termina en balacera en Ohio: hay 3 muertos, incluido el padre del bebé por nacer
+[Famosos] Telemundo: texto leído 2288 letras -> https://www.telemundo.com/noticias/noticias-telemundo/clima/thanksgiving-viajes-retrasos-lluvias-inundaciones-rcna610689
+Cambiada de sección: Famosos -> Internacionales: El mal tiempo amenaza con aguar Thanksgiving a millones de viajeros en California, Florida y más estados
+Revisión: corregida (se quitó "Según pronósticos meteorológicos" redundante; se agregó atribución a Telemundo y NBC News en el pár
+[Famosos] Telemundo: texto leído 3682 letras -> https://www.telemundo.com/noticias/edicion-noticias-telemundo/temporada-2026/capitulo-94/tve/noticias-fin-de-semana-11-22-tmvo13247300
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Noticias fin de semana 11/22
+[Famosos] Telemundo: texto leído 4253 letras -> https://www.telemundo.com/noticias/noticias-telemundo-en-la-noche/temporada-2026/capitulo-325/tve/noticias-telemundo-en-la-noche-11-21-tmvo13247161
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Noticias Telemundo en la Noche 11/21
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851451?ins=resultado
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Leones del Escogido vs Tigres del Licey
+[Deportes] Lidom: texto leído 1815 letras -> https://lidom.com/estrellas-orientales/hector-borg-atribuye-racha-a-la-defensa-y-el-bateo-oportuno-101178.html
+Revisión: corregida (se cambió "Liga de Béisbol Dominicana" por "Liga de Béisbo Dominicana" según la fuente... en realidad la fuen
 [Deportes] MLB.com: texto leído 3558 letras -> https://www.mlb.com/news/dodgers-rotation-plans-without-tarik-skubal
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Examining Dodgers' rotation options after not re-signing Skubal
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: forbescentroamerica.com
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: prensamercosur.org
-Fuente no confiable, se salta: noticia.do
-Fuente no confiable, se salta: rdteve.com
+[Deportes] MLB.com: texto leído 5673 letras -> https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market
+La IA la descartó (no es noticia, rumor, opinión o publicidad): With Skubal off the market, will it open free-agent floodgates?
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/mlb-teams-that-need-to-make-an-offseason-upgrade-2026-27
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 1 team at each position most in need of an upgrade for 2027
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que recibí no es una noticia: es el contenido binario en bruto de un archivo PDF (un informe de lesiones de la NBA) con objetos, metadatos y datos de imagen comprimidos, sin ni')
 [Precios y combustibles] Infobae: texto leído 3606 letras -> https://www.infobae.com/noticias/2026/11/23/euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-23-de-noviembre/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: cotización de apertura del 23 de noviembre
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar una noticia a partir de estos textos porque solo hay una versión, y es un artículo de Infobae que es en realidad una página de cotizaciones automáticas (euro hoy) mezclada con un inf')
 Fuente no confiable, se salta: cubanet.org
 [Precios y combustibles] De Último Minuto: texto leído 4220 letras -> https://deultimominuto.com/uncategorized/ya-circula-la-edicion-de-noviembre-de-de-ultimo-minuto-impreso/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ya circula la edición de noviembre de De Último Minuto impreso
+Fuente no confiable, se salta: surtidoreslatam.com
+Fuente no confiable, se salta: forbescentroamerica.com
+Fuente no confiable, se salta: surtidoreslatam.com
+Fuente no confiable, se salta: noticia.do
+Fuente no confiable, se salta: rdteve.com
 [Videojuegos] Nintendo: texto leído 925 letras -> https://www.nintendo.com/us/whatsnew/gather-the-crew-for-a-little-multiplayer-mayhem/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gather the crew for a little multiplayer mayhem!
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
+[Videojuegos] Nintendo: texto leído 335 letras -> https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-supremacy-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: S.N.I.P.E.R. - Hunter Scope Supremacy Edition
 [Videojuegos] Nintendo Support: texto leído 1230 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/26317/~/controller-not-responding-after-using-find-controllers-feature-on-nintendoapp/answers/list/kw/%7Bsearch_term_string%7D
 Fuente oficial encontrada: Nintendo Support 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Controller not responding after using Find Controllers feature on Nintendo Switch
@@ -113,15 +118,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius:
 [Videojuegos] Nintendo Support: texto leído 950 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/68494/~/joy-con%26nbsp%3B2-feel-loose-or-wobbly
 Fuente oficial encontrada: Nintendo Support 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Joy-Con 2 feel loose or wobbly
-[Videojuegos] Pokemon.com: texto leído 2192 letras -> https://community.pokemon.com/en-us/discussion/27017/x-y-in-online-expanded-format
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): X&Y in online Expanded format
-[Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Why I choose to play Pokemon the cowboy way, and why you might and not even know it.
 [Videojuegos] Nintendo: texto leído 2328 letras -> https://www.nintendo.com/es-ar/store/products/escape-backrooms-horror-lost-in-darkness-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esa noticia: el material que me pasaste es solo una ficha de producto de la tienda de Nintendo para el videojuego "ESCAPE - BACKROOMS HORROR: Lost in Darkness", con s')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ESCAPE - BACKROOMS HORROR: Lost in Darkness
 [Videojuegos] Nintendo: texto leído 1103 letras -> https://www.nintendo.com/es-co/whatsnew/juega-en-compania-y-diviertete-en-caoticas-partidas-multijugador/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Juega en compañía y diviértete en caóticas partidas multijugador!
@@ -131,12 +130,13 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): EQ+ para Ninte
 [Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-ar/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
+Consejo del día (divisas): Cuida cada peso que envías
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-14 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 67 · ya cubiertas: 12 · no confiables: 10 · opinión: 0 · con texto leído: 42 · sin texto: 6 · medios juntados: 3 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 1 · con foto oficial: 3 · error IA: 4 · descartadas por la IA: 23 · cambiadas de sección: 5 · largas: 9 · ocultas (cortas): 5
+12 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 79 · ya cubiertas: 14 · no confiables: 24 · opinión: 0 · con texto leído: 39 · sin texto: 3 · medios juntados: 0 · con fuente oficial: 18 · aprobadas por la revisión: 1 · corregidas por la revisión: 8 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 22 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 3
 Para Instagram (tendencia 3): Quentin Tarantino y Daniella Pick reciben a su tercer hijo, un niño
 Para Instagram (tendencia 2): Turismo entrega isleta reconstruida en la entrada de Salcedo por RD$10.2 millones
 Para Instagram (tendencia 2): Dos hombres se entregan tras la muerte de un haitiano en un asalto en Navarrete
+Para Instagram (tendencia 2): Prince Royce y Romeo Santos ganan premio a Mejor Canción Latina en Barcelona
 Para Instagram (tendencia 2): Guterres pide a la comunidad internacional respaldar a Haití ante la violencia de las bandas
-Para Instagram (tendencia 2): Christian Nodal anuncia pausa temporal de sus conciertos en México

@@ -1,18 +1,5 @@
 [
  {
-  "fecha": "2026-10-29",
-  "tema": "divisas",
-  "titulo": "Remesas: mira el total",
-  "texto": "Al mandar dinero, fíjate en la comisión y en la tasa que te dan, no solo en una de las dos. Lo que importa es cuánto llega.",
-  "url": "https://divisasrd.com",
-  "sitio": "divisasrd.com",
-  "boton": "Mira la tasa en vivo",
-  "ig": "publicado",
-  "ig_img": "ig/consejo-2026-10-29.jpg",
-  "ig_id": "18118680854060582",
-  "ig_fecha": "2026-10-29T18:01:24.106938+00:00"
- },
- {
   "fecha": "2026-10-30",
   "tema": "divisas",
   "titulo": "Cuida tu dinero entre dos países",
@@ -496,5 +483,20 @@
   "ig_img": "ig/consejo-2026-11-22-kiloclaro.jpg",
   "historia": "pendiente",
   "historia_img": "ig/consejo-2026-11-22-kiloclaro-h.jpg"
+ },
+ {
+  "fecha": "2026-11-23",
+  "tema": "divisas",
+  "titulo": "Cuida cada peso que envías",
+  "texto": "Compara las tasas de cambio y las comisiones antes de cambiar dólares o mandar remesas, porque a veces la diferencia es grande. Revisa el precio del dólar cada semana para elegir mejor el momento de tu envío.",
+  "url": "https://divisasrd.com",
+  "sitio": "divisasrd.com",
+  "titulo_en": "Protect every peso you send",
+  "texto_en": "Compare exchange rates and fees before changing dollars or sending remittances, since the difference can be significant. Check the dollar rate weekly to choose the best time for your transfer.",
+  "boton": "Mira la tasa en vivo",
+  "ig": "pendiente",
+  "ig_img": "ig/consejo-2026-11-23-divisas.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/consejo-2026-11-23-divisas-h.jpg"
  }
 ]
