@@ -1,5 +1,612 @@
 [
  {
+  "id": "1ac95b3b4d",
+  "titulo": "Turismo entrega isleta reconstruida en la entrada de Salcedo por RD$10.2 millones",
+  "titulo_original": "Turismo entrega reconstruida isleta en entrada de Salcedo",
+  "resumen": "El Ministerio de Turismo entregó una isleta renovada a la entrada de Salcedo.",
+  "gancho": "El Ministerio de Turismo entregó una isleta renovada a la entrada de Salcedo.",
+  "parrafos": [
+   "El ministro de Turismo, David Collado, entregó este sábado la isleta reconstruida en la entrada del municipio de Salcedo, provincia Hermanas Mirabal. La obra forma parte de un programa de recuperación de espacios públicos que el Ministerio de Turismo ejecuta en diferentes localidades del país.",
+   "El proyecto tuvo una inversión de RD$10,228,131. Consistió en reconstruir la isleta ubicada en la carretera Manolo Tavárez Justo, cerca de la entrada de Salcedo. El objetivo es reforzar la identidad cultural del municipio y ofrecer un espacio de bienvenida a residentes y visitantes.",
+   "Collado dijo que obras pequeñas como esta producen un cambio visual \"extraordinario\" en la entrada de los municipios, y señaló que responden a un viejo reclamo de la comunidad. \"Desde el Ministerio de Turismo tenemos una clara visión de recuperar espacios públicos para el disfrute de los residentes y los visitantes\", expresó. También destacó el potencial turístico de la provincia y lo que, según él, simboliza para República Dominicana.",
+   "La intervención abarcó unos 780 metros cuadrados. Incluyó área de explanada, escalinatas, rampas y caminos. También se instalaron letrero de marca ciudad, mobiliario urbano, paisajismo, iluminación, señalización, depósitos de basura y cruces peatonales.",
+   "Además, se hicieron trabajos de adecuación de imbornales y contenes, y se colocaron señalizaciones viales para mejorar el tránsito peatonal y vehicular en la zona.",
+   "Al acto de entrega acompañaron al ministro las principales autoridades provinciales y municipales, así como representantes del sector empresarial."
+  ],
+  "claves": [
+   "La obra tuvo una inversión de RD$10,228,131.",
+   "La intervención abarcó unos 780 metros cuadrados en la carretera Manolo Tavárez Justo.",
+   "El proyecto incluyó explanada, escalinatas, rampas, iluminación, paisajismo y señalización.",
+   "El ministro David Collado la entregó este sábado."
+  ],
+  "importa": "Es parte de un programa de recuperación de espacios públicos que el Ministerio de Turismo ejecuta en distintas localidades del país. Para los residentes de la provincia Hermanas Mirabal, responde a un reclamo antiguo de la comunidad sobre la entrada del municipio.",
+  "en": {
+   "titulo": "Tourism Ministry Hands Over Rebuilt Traffic Island at Salcedo Entrance for RD$10.2 Million",
+   "gancho": "The Ministry of Tourism handed over a renovated traffic island at the entrance to Salcedo.",
+   "claves": [
+    "The project cost RD$10,228,131.",
+    "The work covered about 780 square meters on the Manolo Tavárez Justo highway.",
+    "The project included an esplanade, staircases, ramps, lighting, landscaping and signage.",
+    "Minister David Collado handed it over this Saturday."
+   ],
+   "importa": "It is part of a public space recovery program the Ministry of Tourism is carrying out in several localities across the country. For residents of the Hermanas Mirabal province, it answers a long-standing community request regarding the town's entrance.",
+   "parrafos": [
+    "Tourism Minister David Collado handed over the rebuilt traffic island at the entrance to the municipality of Salcedo, in the Hermanas Mirabal province, this Saturday. The project is part of a public space recovery program that the Ministry of Tourism is carrying out in several localities across the country.",
+    "The project had an investment of RD$10,228,131. It involved rebuilding the island on the Manolo Tavárez Justo highway, near the entrance to Salcedo. The goal is to strengthen the municipality's cultural identity and offer a welcoming space for residents and visitors.",
+    "Collado said small projects like this create an \"extraordinary\" visual change at the entrances to towns, and noted they respond to a long-standing community request. \"From the Ministry of Tourism we have a clear vision of recovering public spaces for the enjoyment of residents and visitors,\" he said. He also highlighted the province's tourism potential and what, in his words, it represents for the Dominican Republic.",
+    "The intervention covered about 780 square meters. It included an esplanade, staircases, ramps and walkways. A city brand sign, street furniture, landscaping, lighting, signage, trash receptacles and pedestrian crossings were also installed.",
+    "Work was also done on drainage inlets and curbs, and road signs were installed to improve pedestrian and vehicle traffic in the area.",
+    "The principal provincial and municipal authorities, as well as business sector representatives, accompanied Minister Collado at the handover ceremony."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTJ4SjZRSTZGOGN4dU8yN1QtODBYcldfMXVnUVI3NWgyaE9UeDJBWWtMckV1RE9lalFjRnNoU01rS05pRldxdkFwdktJanJkOHVSXzVieTRoX0NJTl9kTU82RWVWaEp4cGRPX04yOERpekE0SDhyQnJfUURlb284bHpUTXVyUk1OOVl3X25ESTZqWVZoM1N3Vw?oc=5",
+  "url": "https://presidencia.gob.do/noticias/turismo-entrega-reconstruida-isleta-en-entrada-de-salcedo",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/turismo-entrega-reconstruida-isleta-en-entrada-de-salcedo"
+   },
+   {
+    "nombre": "Z Digital",
+    "url": "https://z101digital.com/turismo-entrega-isleta-reconstruida-en-salcedo-con-inversion-de-rd10-2-millones/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [
+   "Z Digital"
+  ],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_26.png",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se cambió \"Turismo entrega isleta reconstruida\" por \"Turismo entrega isleta reconstruida en Salcedo\" en el título ya que mantuve la coherencia; se quitó \"Esto es lo que cambia en el municipio\" del gancho por ser relleno; se corrigió \"Mitur\" a Ministerio de Turismo en la sección de importancia para evitar sigla no introducida; se ajustó \"Hermanas Mirabal\" a \"Hermanas Mirabal\" en el nombre de la provincia; se atribuyó la frase \"lo que simboliza para República Dominicana\" a Collado; se corrigió la traducción del título y se añadió \"in the Hermanas Mirabal province\" para mantener el mismo sentido en inglés; se quitó la frase \"Dominican Tourism Ministry\" por \"Ministry of Tourism\" para coincidir con el español).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T12:48:21.080205+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/1ac95b3b4d.jpg"
+ },
+ {
+  "id": "2c599c831c",
+  "titulo": "Jandy Ventura recibe reconocimiento de la Escuela Nacional del Ministerio Público",
+  "titulo_original": "Jandy Ventura reconocido por la Escuela Nacional del Ministerio Público por su aporte a la cultura",
+  "resumen": "El merenguero Jandy Ventura fue distinguido por la Escuela Nacional del Ministerio Público por su aporte a la cultura dominicana.",
+  "gancho": "El merenguero Jandy Ventura fue distinguido por la Escuela Nacional del Ministerio Público por su aporte a la cultura dominicana.",
+  "parrafos": [
+   "El merenguero Jandy Ventura recibió un reconocimiento especial de la Escuela Nacional del Ministerio Público (IES-ENMP), que lo distinguió por su talento, su trayectoria y su dedicación a la promoción de la cultura dominicana.",
+   "La entrega se realizó durante la Decimotercera Graduación General Ordinaria de la institución, celebrada el 19 de noviembre de 2026 en el Aula Magna de la Universidad Autónoma de Santo Domingo (UASD). Jandy participó como invitado de honor en la ceremonia.",
+   "Al acto asistió la procuradora general de la República, magistrada Yeni Berenice Reynoso, además de autoridades académicas y judiciales. Más de 270 miembros del Ministerio Público recibieron sus títulos de maestría.",
+   "El reconocimiento fue entregado por Marien Montero Beard, rectora del IES-ENMP, quien le entregó una placa que lo distingue por su talento y su compromiso como artista con el merengue.",
+   "El homenaje también resalta la continuidad del legado musical de su padre, el inolvidable Johnny Ventura."
+  ],
+  "claves": [
+   "Jandy Ventura recibió una placa de reconocimiento durante la graduación de maestría de la institución.",
+   "La ceremonia se celebró el 19 de noviembre de 2026 en el Aula Magna de la UASD.",
+   "Más de 270 miembros del Ministerio Público recibieron sus títulos de maestría.",
+   "Jandy Ventura es hijo del inolvidable Johnny Ventura."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Jandy Ventura Honored by Dominican Public Prosecutors' School for Cultural Contribution",
+   "gancho": "Dominican merengue star Jandy Ventura was recognized by the National School of the Public Prosecutor's Office for his contribution to Dominican culture.",
+   "claves": [
+    "Jandy Ventura received a commemorative plaque during the school's master's degree graduation.",
+    "The ceremony took place on November 19, 2026, at the Aula Magna of the Universidad Autónoma de Santo Domingo (UASD).",
+    "More than 270 members of the Public Prosecutor's Office received their master's degrees.",
+    "Jandy Ventura is the son of the late Johnny Ventura."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Dominican merengue musician Jandy Ventura received a special recognition from the National School of the Public Prosecutor's Office (IES-ENMP), which honored him for his talent, career, and dedication to promoting Dominican culture.",
+    "The award was presented during the institution's Thirteenth General Ordinary Graduation, held on November 19, 2026, at the Aula Magna of the Universidad Autónoma de Santo Domingo (UASD). Jandy attended as guest of honor.",
+    "The ceremony was attended by the Attorney General of the Republic, Yeni Berenice Reynoso, along with academic and judicial authorities. More than 270 members of the Public Prosecutor's Office received their master's degrees.",
+    "The recognition was delivered by Marien Montero Beard, rector of the IES-ENMP, who presented him with a plaque honoring his talent and commitment as an artist devoted to merengue.",
+    "The tribute also highlights the continuation of the musical legacy of his father, the late Johnny Ventura."
+   ]
+  },
+  "link": "https://deultimominuto.com/entretenimiento/jandy-ventura-15/",
+  "url": "https://deultimominuto.com/entretenimiento/jandy-ventura-15/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/jandy-ventura-15/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": {
+   "id": "JxDLXxS75d8",
+   "titulo": "Jandy Ventura El Legado Del Caballo  - El Jumo"
+  },
+  "foto": null,
+  "revision": "corregida (se quitó \"pasado\" de la fecha y se ajustó \"Procuradora General\" a \"procuradora general\", se corrigió \"Attorney General\" a \"Prosecutor General\" en inglés, se eliminó \"pasado\" del inglés no aplica; se cambió \"recordado\" por \"inolvidable\" según la fuente, se corrigió \"Decimotercera\" y se sustituyó \"Dominican merengue musician\" por \"Dominican merengue star\" para coincidir con el español; se quitó \"Escuela Nacional del Ministerio Público\" en el gancho por \"institución\" no; ver detalle abajo)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-23T12:48:58.432480+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "15d13f26e9",
+  "titulo": "Christian Nodal anuncia pausa temporal de sus conciertos en México",
+  "titulo_original": "Christian Nodal hará una pausa en su carrera y dice adiós a los escenarios temporalmente",
+  "resumen": "Christian Nodal se despide de los escenarios mexicanos \"hasta nuevo aviso\", tras un concierto en Mérida. Esto es lo que se sabe.",
+  "gancho": "Christian Nodal se despide de los escenarios mexicanos \"hasta nuevo aviso\", tras un concierto en Mérida. Esto es lo que se sabe.",
+  "parrafos": [
+   "Christian Nodal anunció en Instagram que deja los escenarios de México \"hasta nuevo aviso\", un día después de su concierto en el Centro de Espectáculos Montejo, en Mérida, Yucatán. El cantante sonorense se presentó el sábado 21 de noviembre en la Feria Yucatán Xmatkuil 2026, donde interpretó temas como \"Adiós amor\", \"Probablemente\" y \"Dime cómo quieres\".",
+   "En su publicación, Nodal agradeció al público yucateco y escribió: \"anoche me dieron la mejor bienvenida y la mejor despedida de los escenarios de México, hasta nuevo aviso\". No dio razones de su decisión ni precisó cuándo podría volver a presentarse en el país.",
+   "El anuncio llega en un momento de tensión. Según reportes publicados por De Último Minuto, el cantante enfrenta un litigio con su padre, Jesús Jaime González Terrazas, quien conserva la titularidad de la marca \"CN CHRISTIAN NODAL\" hasta 2036. El mismo medio informa que el contrato con la agencia familiar JG Music sigue vigente hasta 2035 y que su rescisión anticipada implicaría indemnizaciones de varios millones de dólares.",
+   "Nodal también tramitó en abril de 2026 el registro de una denominación alternativa, a nombre de Christian Jesús González Nodal, que enfrenta una oposición presentada el 15 de mayo por el Grupo Forajido. Además, Universal Music denunció ante la Fiscalía General de la República a los padres del cantante por presunto fraude procesal, en un caso que se originó en 2022, cuando Nodal dejó el sello Fonovisa para firmar con Sony Music.",
+   "Por otra parte, el cantante se tatuó el fierro de herrar de la hacienda El Soyate, de la familia Aguilar, y su suegro, Pepe Aguilar, lo describió como \"mi batiseñal\". Según De Último Minuto, Nodal respondió públicamente que es \"un honor\" pertenecer a esa familia.",
+   "El mensaje de Nodal se refiere únicamente a sus presentaciones en México. No anunció su retiro definitivo de la música ni precisó si la pausa durará meses o si regresará en 2027."
+  ],
+  "claves": [
+   "El concierto de despedida fue el 21 de noviembre en Mérida, Yucatán, dentro de la Feria Yucatán Xmatkuil.",
+   "Nodal anunció la pausa en Instagram, sin explicar los motivos ni fijar fecha de regreso.",
+   "Su mensaje se da en medio de una disputa legal y familiar sobre el control de su carrera y sus marcas.",
+   "Su carrera musical no termina: el anuncio se refiere solo a presentaciones en México."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Christian Nodal Announces Temporary Break From Mexican Stages",
+   "gancho": "Christian Nodal says goodbye to Mexican stages \"until further notice\" after a Mérida concert. Here's what we know.",
+   "claves": [
+    "The farewell concert took place November 21 in Mérida, Yucatán, as part of the Feria Yucatán Xmatkuil.",
+    "Nodal announced the pause on Instagram, without explaining why or setting a return date.",
+    "The announcement comes amid a legal and family dispute over control of his career and trademarks.",
+    "His music career is not ending: the announcement refers only to performances in Mexico."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Christian Nodal announced on Instagram that he is leaving Mexican stages \"until further notice,\" one day after his concert at the Centro de Espectáculos Montejo in Mérida, Yucatán. The Sonoran singer performed Saturday, November 21, at the Feria Yucatán Xmatkuil 2026, where he sang songs including \"Adiós amor,\" \"Probablemente,\" and \"Dime cómo quieres.\"",
+    "In his post, Nodal thanked Yucatán fans and wrote: \"last night you gave me the best welcome and the best farewell from Mexican stages, until further notice.\" He gave no reason for the decision and did not say when he might perform in the country again.",
+    "The announcement comes amid tension. According to De Último Minuto, the singer is in a legal dispute with his father, Jesús Jaime González Terrazas, who holds the trademark \"CN CHRISTIAN NODAL\" until 2036. The same outlet reports that his contract with the family agency JG Music runs through 2035, and that ending it early would cost several million dollars in compensation.",
+    "Nodal also filed in April 2026 to register an alternative name, under Christian Jesús González Nodal, which faces an opposition filed May 15 by Grupo Forajido. Separately, Universal Music reported the singer's parents to Mexico's Attorney General's Office for alleged procedural fraud, in a case that began in 2022, when Nodal left Fonovisa to sign with Sony Music.",
+    "Meanwhile, the singer tattooed the branding iron of the Aguilar family's El Soyate ranch on his hand. His father-in-law, Pepe Aguilar, called it \"my Batman signal.\" According to De Último Minuto, Nodal publicly responded that it is \"an honor\" to belong to that family.",
+    "Nodal's message refers only to his performances in Mexico. He did not announce a full retirement from music or say whether the break will last months or until 2027."
+   ]
+  },
+  "link": "https://deultimominuto.com/entretenimiento/christian-nodal-15/",
+  "url": "https://deultimominuto.com/entretenimiento/christian-nodal-15/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/christian-nodal-15/"
+   },
+   {
+    "nombre": "Excélsior",
+    "url": "https://www.excelsior.com.mx/espectaculos/christian-nodal-anuncia-retiro-temporal-escenarios-mexico"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se atribuyó a De Último Minuto el litigio, las fechas de la marca y el contrato, el registro de denominación, la denuncia de Universal Music y el tatuaje/declaraciones de Nodal; se quitó \"a la familia\" donde no estaba en las fuentes; se corrigió \"Dime cómo quieres\" como canción interpretada, que sí aparece en Excélsior; se eliminó la frase \"Esto es lo que se sabe\" del gancho por ser relleno; se reemplazó \"Batman\" por \"batiseñal\" fiel a la fuente; se ajustó el inglés para que coincida).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-23T12:49:16.488996+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/15d13f26e9.jpg"
+ },
+ {
+  "id": "6a7130d556",
+  "titulo": "Guterres pide a la comunidad internacional respaldar a Haití ante la violencia de las bandas",
+  "titulo_original": "El secretario general de la ONU llama a la comunidad internacional a respaldar a Haití ante la crisis de violencia",
+  "resumen": "La ONU reclama apoyo internacional para Haití, mientras la fuerza multinacional lanza operaciones contra pandillas en tres zonas del país.",
+  "gancho": "La ONU reclama apoyo internacional para Haití, mientras la fuerza multinacional lanza operaciones contra pandillas en tres zonas del país.",
+  "parrafos": [
+   "El secretario general de la ONU, António Guterres, pidió a la comunidad internacional respaldar a Haití ante la crisis de violencia que vive el país. Según sus declaraciones, la situación está marcada por la acción de las bandas armadas, el debilitamiento de las instituciones del Estado y años sin elecciones nacionales.",
+   "Guterres afirmó que el pueblo haitiano ha soportado una violencia atroz y que la comunidad internacional debe estar a su lado. Señaló que Haití necesita un proceso político liderado por los propios haitianos, que restaure las instituciones democráticas mediante elecciones, reconstruya la autoridad del Estado y ofrezca a los jóvenes alternativas más allá del control de las bandas.",
+   "En paralelo, la Fuerza de Supresión de Pandillas lanzó el domingo 22 de noviembre operaciones simultáneas en Cité Soleil y Tabarre, en Puerto Príncipe, y en las cercanías de Gros-Morne, en el departamento de Artibonito. Según informó ese contingente multinacional, las acciones forman parte de los esfuerzos para desmantelar los bastiones de las bandas armadas y restablecer la seguridad.",
+   "Durante las operaciones, la fuerza reportó la muerte de un integrante de una banda armada.",
+   "La crisis haitiana sigue siendo un desafío para las autoridades nacionales y los organismos internacionales, por la expansión de la violencia, la fragilidad institucional y las dificultades para recuperar el control del Estado en distintos territorios."
+  ],
+  "claves": [
+   "António Guterres pidió a la comunidad internacional respaldar a Haití ante la crisis de violencia.",
+   "Propone un proceso político liderado por los propios haitianos, con elecciones nacionales.",
+   "La Fuerza de Supresión de Pandillas operó el domingo 22 de noviembre en Cité Soleil, Tabarre y Gros-Morne."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "UN Chief Urges International Support for Haiti Amid Gang Violence",
+   "gancho": "UN Secretary-General António Guterres calls on the world to back Haiti as a multinational force launches operations against armed gangs in three areas.",
+   "claves": [
+    "António Guterres urged the international community to support Haiti amid its violence crisis.",
+    "He called for a Haitian-led political process that includes national elections.",
+    "The Gang Suppression Force operated on Sunday, November 22, in Cité Soleil, Tabarre and Gros-Morne."
+   ],
+   "importa": "",
+   "parrafos": [
+    "UN Secretary-General António Guterres called on the international community to back Haiti amid the violence crisis the country is facing. According to his statements, the situation is marked by armed gang activity, the weakening of state institutions and years without national elections.",
+    "Guterres said the Haitian people have endured brutal violence and that the international community must stand by them. He stated that Haiti needs a political process led by Haitians, one that restores democratic institutions through elections, rebuilds state authority and offers young people alternatives beyond gang control.",
+    "Meanwhile, the Gang Suppression Force launched simultaneous operations on Sunday, November 22, in Cité Soleil and Tabarre in Port-au-Prince, and near Gros-Morne in the Artibonite department. According to the multinational contingent, the actions are part of efforts to dismantle armed gangs' strongholds and restore security.",
+    "During the operations, the force reported the death of one armed gang member.",
+    "The Haitian crisis remains a challenge for national authorities and international organizations, given the spread of violence, fragile institutions and the difficulty of regaining state control in several territories."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/el-secretario-general-de-la-onu-2/",
+  "url": "https://deultimominuto.com/internacionales/el-secretario-general-de-la-onu-2/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/el-secretario-general-de-la-onu-2/"
+   },
+   {
+    "nombre": "N Digital",
+    "url": "https://n.com.do/2026/11/23/secretario-general-de-la-onu-pide-respaldo-internacional-para-haiti/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"en medio de\" y \"de la crisis\"; se atribuyó la muerte a la fuerza que la reportó; se ajustó la redacción en español e inglés para decir exactamente lo mismo; se corrigió \"Puerto Príncipe\" sin cambios de fondo; se eliminó la frase \"el país atraviesa\" por redundancia; el inglés ahora sigue el español)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-23T12:49:29.460195+00:00",
+  "tendencia": 2,
+  "ig": "pendiente",
+  "ig_img": "ig/6a7130d556.jpg"
+ },
+ {
+  "id": "505b079b28",
+  "titulo": "Magali Febles recibe reconocimiento como Directora del Año en Miss Universo 2026",
+  "titulo_original": "Magali Febles, recibe reconocimiento como Directora del Año en el Miss Universo 2026",
+  "resumen": "La directora de Miss República Dominicana fue distinguida en Puerto Rico, donde también desfiló Melissa Núñez en la competencia preliminar.",
+  "gancho": "La directora de Miss República Dominicana fue distinguida en Puerto Rico, donde también desfiló Melissa Núñez en la competencia preliminar.",
+  "parrafos": [
+   "Magali Febles, directora nacional de Miss República Dominicana Universo, recibió un reconocimiento como Directora del Año en el Miss Universo 2026, en Puerto Rico.",
+   "Al recibir la distinción, Febles expresó su emoción y agradecimiento. \"Estoy muy emocionada y agradezco grandemente este reconocimiento\", dijo. La directora señaló que no esperaba el premio y destacó que los reconocimientos no tienen paga.",
+   "En la misma jornada, Melissa Núñez, representante de República Dominicana, se destacó durante la competencia preliminar de la edición 75 del certamen. Según De Último Minuto, la dominicana desfiló con gracia y estilo en el desfile de traje de baño y en el de vestidos de gala, en la ceremonia realizada en el Coliseo de Puerto Rico José Miguel Agrelot.",
+   "La gran final está prevista para el martes 24 de noviembre en el mismo coliseo. Las 30 semifinalistas repetirán las rondas de traje de baño y vestido de noche ante el jurado final, antes del corte a los últimos lugares y la pregunta decisiva.",
+   "Fátima Bosch tiene previsto coronar a su sucesora al cierre de la gala."
+  ],
+  "claves": [
+   "Magali Febles, directora nacional de Miss República Dominicana Universo, fue reconocida como Directora del Año.",
+   "El reconocimiento se entregó en el marco del Miss Universo 2026 en Puerto Rico.",
+   "Melissa Núñez, representante dominicana, se destacó en el desfile de traje de baño y de gala.",
+   "La gran final se realizará el martes 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Magali Febles Named Director of the Year at Miss Universe 2026",
+   "gancho": "The director of Miss Dominican Republic was honored in Puerto Rico, where Melissa Núñez also stood out in the preliminary competition.",
+   "claves": [
+    "Magali Febles, national director of Miss Dominican Republic Universe, was recognized as Director of the Year.",
+    "The award was presented during Miss Universe 2026 in Puerto Rico.",
+    "Melissa Núñez, the Dominican representative, stood out in the swimsuit and evening gown parades.",
+    "The grand final will take place Tuesday, November 24, at the José Miguel Agrelot Coliseum in Puerto Rico."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Magali Febles, national director of Miss Dominican Republic Universe, received a Director of the Year award at Miss Universe 2026, in Puerto Rico.",
+    "Upon receiving the honor, Febles expressed her emotion and gratitude. \"I am very excited and deeply grateful for this recognition,\" she said. The director noted that she did not expect the award and stressed that recognitions do not come with pay.",
+    "That same day, Melissa Núñez, Dominican Republic's representative, stood out during the preliminary competition of the 75th edition of the pageant. According to De Último Minuto, the Dominican delegate walked with grace and style in both the swimsuit and evening gown parades, at the ceremony held at the José Miguel Agrelot Coliseum in Puerto Rico.",
+    "The grand final is scheduled for Tuesday, November 24, at the same coliseum. The 30 semifinalists will repeat the swimsuit and evening wear rounds before the final jury, followed by the cut to the last places and the decisive question.",
+    "Fátima Bosch is set to crown her successor at the close of the gala."
+   ]
+  },
+  "link": "https://deultimominuto.com/entretenimiento/magali-febles-26/",
+  "url": "https://deultimominuto.com/entretenimiento/magali-febles-26/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/magali-febles-26/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"celebrado\" y \"Según la información disponible\" donde añadían matiz no presente en fuentes; se aclaró que el reconocimiento se recibió en Puerto Rico como lo indica la fuente; se ajustó la frase de la ronda final a \"las semifinalistas\" según fuente; se corrigió \"Según el reporte\" por atribución al medio; versión inglesa sincronizada)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-23T12:49:40.838763+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "f158f535d3",
+  "titulo": "Arrestan a dos hombres con dinero falso en La Vega",
+  "titulo_original": "Agentes de la DICRIM apresan en flagrante delito a dos reconocidos delincuentes con dinero falso en La Vega",
+  "resumen": "Dos hombres fueron detenidos en La Vega con decenas de billetes presuntamente falsos y una motocicleta sin placa.",
+  "gancho": "Dos hombres fueron detenidos en La Vega con decenas de billetes presuntamente falsos y una motocicleta sin placa.",
+  "parrafos": [
+   "Agentes de la Subdirección Regional de Investigación (DICRIM) en La Vega detuvieron en flagrante delito a dos hombres que, al ser registrados, llevaban consigo una cantidad de dinero que, por sus características y apariencia, es presuntamente falsa, según informó De Último Minuto.",
+   "Los detenidos fueron identificados como Jorge Luis Gómez, alias \"Anemia\", de 30 años, y Domingo Lorenzo, de 40. Al primero le decomisaron 51 billetes de 500 pesos, para un total de 25,500.00 pesos. Al segundo, 44 billetes de 2,000 pesos, para un total de 88,000.00 pesos.",
+   "El arresto se produjo mientras ambos se movilizaban por la avenida Pedro A. Rivera en una motocicleta Tauro Bz Plus 2 que no tenía placa. Los agentes también les ocuparon un teléfono celular dorado y la motocicleta.",
+   "Los dos hombres permanecen bajo custodia policial y serán remitidos al Ministerio Público."
+  ],
+  "claves": [
+   "Los detenidos son Jorge Luis Gómez, alias \"Anemia\", de 30 años, y Domingo Lorenzo, de 40.",
+   "A Gómez le ocuparon 51 billetes de 500 pesos, por un total de 25,500.00 pesos.",
+   "A Lorenzo le ocuparon 44 billetes de 2,000 pesos, por un total de 88,000.00 pesos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Two men arrested in La Vega with suspected counterfeit cash",
+   "gancho": "Two men were detained in La Vega with tens of thousands of pesos in suspected counterfeit bills and an unplated motorcycle.",
+   "claves": [
+    "The detainees are Jorge Luis Gómez, alias \"Anemia,\" 30, and Domingo Lorenzo, 40.",
+    "Police seized 51 bills of 500 pesos from Gómez, totaling 25,500.00 pesos.",
+    "Police seized 44 bills of 2,000 pesos from Lorenzo, totaling 88,000.00 pesos."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Agents of the Regional Investigation Subdirectorate (DICRIM) in La Vega caught two men in the act and detained them. When searched, the men were carrying money that, based on its appearance and characteristics, is suspected to be counterfeit, according to De Último Minuto.",
+    "The detainees were identified as Jorge Luis Gómez, alias \"Anemia,\" 30, and Domingo Lorenzo, 40. Police seized 51 bills of 500 pesos from Gómez, totaling 25,500.00 pesos. From Lorenzo, they seized 44 bills of 2,000 pesos, totaling 88,000.00 pesos.",
+    "The arrest took place as the two men rode along Avenida Pedro A. Rivera on a Tauro Bz Plus 2 motorcycle with no license plate. Officers also seized a gold-colored cell phone and the motorcycle.",
+    "Both men remain in police custody and will be sent to the Public Ministry."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/agentes-de-la-dicrim-apresan/",
+  "url": "https://deultimominuto.com/nacionales/agentes-de-la-dicrim-apresan/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/agentes-de-la-dicrim-apresan/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se ajustó \"pasola\" a \"motocicleta\" en la cuota de \"pasola\"? No: se corrigió el texto para incluir la nota de que el origen es la fuente; se agregó la atribución a De Último Minuto de los detalles de la detención, se cambió \"tenía en su poder\" y se quitó la frase \"para los fines correspondientes\" por ser relleno, y se ajustaron los billetes y la moto según las fuentes)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T12:49:52.136339+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "6281dfbdf0",
+  "titulo": "Operativos y violencia en Sinaloa tras captura de Fausto Isidro Meza-Flores",
+  "titulo_original": "Security Alert: Ongoing Security Operations & Violence in Ahome, Guamúchil, Guasave, Navolato – U.S. Consulate General Hermosillo (November 21)",
+  "resumen": "Operativos, enfrentamientos armados y bloqueos sacuden cuatro municipios de Sinaloa. El Consulado General de EE.UU. pide a sus ciudadanos extremar precauciones.",
+  "gancho": "Operativos, enfrentamientos armados y bloqueos sacuden cuatro municipios de Sinaloa. El Consulado General de EE.UU. pide a sus ciudadanos extremar precauciones.",
+  "parrafos": [
+   "El Consulado General de Estados Unidos en Hermosillo informa que sigue de cerca reportes de operativos de seguridad en curso, enfrentamientos armados, bloqueos en carreteras e incendios de vehículos en los municipios de Ahome, Guamúchil, Guasave y Navolato, en el estado mexicano de Sinaloa.",
+   "Los hechos ocurrieron durante la noche, luego de la detención de Fausto Isidro Meza-Flores. La representación diplomática advierte que los ciudadanos estadounidenses en estas zonas deben mantenerse alerta ante posibles actos de violencia en el estado.",
+   "Las autoridades locales recomiendan a la población resguardarse en sus viviendas, reducir al mínimo sus desplazamientos y evitar la Carretera Federal 15, entre Los Mochis y Culiacán. Además, podrían presentarse interrupciones en los vuelos y en el servicio de autobuses. Quienes viajen por la región deben confirmar con sus aerolíneas que sus vuelos sigan programados.",
+   "El consulado recuerda que Sinaloa aparece clasificado en Nivel 4: No viajar, en la alerta de viaje del Departamento de Estado para México. Entre las recomendaciones están llamar al 911 en caso de emergencia, evitar zonas con actividad policial, buscar refugio, seguir los medios locales y mantener informados a familiares y amigos sobre su ubicación.",
+   "Para asistencia, el consulado indica que desde México se puede llamar al (55) 2579 2000, y desde Estados Unidos al 011 52 55 2579 2000 o al +1-301-985-8843. El Departamento de Estado, Oficina de Asuntos Consulares, atiende en el +1-888-407-4747 o el +1-202-501-4444."
+  ],
+  "claves": [
+   "Operativos y enfrentamientos armados en Ahome, Guamúchil, Guasave y Navolato.",
+   "Ocurrieron durante la noche, tras la captura de Fausto Isidro Meza-Flores.",
+   "Hubo bloqueos carreteros e incendios de vehículos.",
+   "Las autoridades locales piden a los residentes permanecer resguardados."
+  ],
+  "importa": "Los dominicanos que viajen a Sinaloa o transiten por la zona deben tomar precauciones, ya que el Departamento de Estado clasifica al estado en Nivel 4: No viajar. Las aerolíneas y las operaciones de autobuses podrían verse afectadas.",
+  "en": {
+   "titulo": "Security Operations and Violence Hit Sinaloa After Fausto Isidro Meza-Flores Arrest",
+   "gancho": "Overnight armed clashes, road blockades, and vehicle fires rocked four Sinaloa municipalities. The U.S. Consulate General is urging its citizens to take extra precautions.",
+   "claves": [
+    "Security operations and armed clashes in Ahome, Guamúchil, Guasave, and Navolato.",
+    "The violence broke out overnight, following the arrest of Fausto Isidro Meza-Flores.",
+    "Road blockades and vehicle fires were reported.",
+    "Local authorities are asking residents to stay sheltered in place."
+   ],
+   "importa": "Dominicans traveling to Sinaloa or passing through the area should take precautions, since the State Department rates the state Level 4: Do Not Travel. Air and bus services could be disrupted.",
+   "parrafos": [
+    "The U.S. Consulate General in Hermosillo says it is monitoring reports of ongoing security operations, armed clashes, road blockades, and vehicle fires in the Mexican municipalities of Ahome, Guamúchil, Guasave, and Navolato, in the state of Sinaloa.",
+    "The incidents occurred overnight, following the arrest of Fausto Isidro Meza-Flores. The consulate warns that U.S. Citizens in these areas should stay alert for potential violence throughout the state.",
+    "Local authorities recommend that residents remain sheltered in place, minimize movement, and avoid Mexican Federal Highway 15 between Los Mochis and Culiacán. Flights and bus operations may also be disrupted. Travelers in the region should check with their airlines to confirm their flights are still scheduled.",
+    "The consulate notes that Sinaloa is classified as Level 4: Do Not Travel in the State Department's travel advisory for Mexico. Recommendations include calling 911 in an emergency, avoiding areas with law enforcement activity, seeking shelter, monitoring local media, and keeping family and friends informed of your location.",
+    "For assistance, the consulate lists (55) 2579 2000 from within Mexico, and 011 52 55 2579 2000 or +1-301-985-8843 from the United States. The State Department's Bureau of Consular Affairs can be reached at +1-888-407-4747 or +1-202-501-4444."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOamhwUHJVbmVxUno0VXV3WTFNbGI1YjBiUlpDeU5WZ1N4c1d2dXduNXJIaHJkUUpMOFBEdjg2bGtxdjNNcENqVmlRbVVvMmRsRkRzTTl4Mm9xaElUOGN0SmFlU0ZWZGJENmtYQzZ5SEdzYVdUWTVORUg0d0hpWmxCbTdKVHplQkJWaEpxb05NU1VqVkd5SU1CbjVGU0dBajA3U1B2OTlwR3FZZ2NLZXF3TzE4NmpFbUtXMFpjMno4YnZDcU43bHM5Yy15MWVkSldmUlpiUF95cU1XVXFtWV9ucjR0bHg5Q19oM0ZUTnFnd28zWjRz?oc=5",
+  "url": "https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/",
+  "fuente": "U.S. Embassy & Consulates in Mexico (.gov)",
+  "dominio": "mx.usembassy.gov",
+  "fuentes": [
+   {
+    "nombre": "U.S. Embassy & Consulates in Mexico (.gov)",
+    "url": "https://mx.usembassy.gov/security-alert-ongoing-security-operations-violence-in-ahome-guamuchil-guasave-and-navolato-u-s-consulate-general-hermosillo-november-21/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://mx.usembassy.gov/wp-content/uploads/sites/15/2026/09/Security-Alert.png",
+   "credito": "U.S. Embassy & Consulates in Mexico (.gov)"
+  },
+  "revision": "corregida (se ajustó \"Federal Highway 15\" a \"Mexican Federal Highway 15\" y se precisó que el consulado es \"U.S. Consulate General\" en lugar de \"U.S. Consulate\" en el gancho; se corrigió \"Ahome, Guamúchil, Guasave y Navolato\" sin cambios de fondo; se agregó \"de Sinaloa\" donde faltaba; se eliminó \"en todo el estado\" por no aparecer igual en la fuente, quedando \"en el estado\"; se corrigió la atribución de la captura al consulado en lugar de afirmar que las autoridades locales la confirmaron)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-23T12:50:24.832089+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "8320185927",
+  "titulo": "Embajada de EE.UU. advierte sobre el vencimiento de la estadía autorizada en visas",
+  "titulo_original": "Respecting U.S. visa terms and periods of admission",
+  "resumen": "Permanecer más tiempo del permitido en EE.UU. puede costar la visa y hasta la deportación. Así puede revisar su fecha límite.",
+  "gancho": "Permanecer más tiempo del permitido en EE.UU. puede costar la visa y hasta la deportación. Así puede revisar su fecha límite.",
+  "parrafos": [
+   "La Embajada de Estados Unidos en República Dominicana recordó a los viajeros que deben respetar el plazo de permanencia autorizado en el país. Según la institución, quedarse más allá de esa fecha se considera un \"overstay\" y puede tener consecuencias serias.",
+   "La fecha que cuenta no es la que aparece impresa en la visa, sino la que consta en el Formulario I-94, de llegada y salida. La Embajada explica que cada viajero puede consultar ese documento en línea, en el sitio web de Aduanas y Protección Fronteriza de Estados Unidos (CBP) o en la aplicación móvil CBP GO.",
+   "Permanecer en Estados Unidos después de la fecha autorizada puede acarrear la revocación de la visa, la deportación, la inelegibilidad para futuras visas, la prohibición de reingresar al país e incluso un proceso penal.",
+   "Para evitarlo, la Embajada recomienda revisar el I-94 y anotar la fecha \"admit until\" en el calendario, de modo que la salida del país ocurra en o antes de ese día. El Departamento de Seguridad Nacional ofrece además una herramienta en https://I94.cbp.dhs.gov, en la pestaña \"View Compliance\", para verificar el estatus de admisión."
+  ],
+  "claves": [
+   "La fecha límite está en el Formulario I-94, no en la fecha impresa en la visa.",
+   "Se puede consultar el I-94 en el sitio de Aduanas y Protección Fronteriza (CBP) o en la app CBP GO.",
+   "Quedarse más tiempo puede conllevar revocación de la visa, deportación y prohibición de reingreso.",
+   "La Embajada recomienda marcar la fecha \"admit until\" y salir del país antes o en esa fecha."
+  ],
+  "importa": "Si usted viaja a Estados Unidos con visa, revisar su fecha de salida evita perder la visa o ser deportado y afectar futuros viajes.",
+  "en": {
+   "titulo": "U.S. Embassy warns travelers to respect visa stay limits",
+   "gancho": "Staying in the U.S. past your authorized date can cost you your visa and lead to deportation. Here is how to check your deadline.",
+   "claves": [
+    "The deadline is on Form I-94, not the date printed on the visa.",
+    "Travelers can check their I-94 on the CBP website or the CBP GO app.",
+    "Overstaying can lead to visa revocation, deportation and re-entry bans.",
+    "The Embassy advises marking the \"admit until\" date and leaving on or before it."
+   ],
+   "importa": "If you travel to the United States on a visa, checking your departure date can protect your visa and your future travel.",
+   "parrafos": [
+    "The U.S. Embassy in the Dominican Republic reminded travelers that they must respect the authorized period of stay in the country. According to the institution, remaining beyond that date is considered an \"overstay\" and can carry serious consequences.",
+    "The date that counts is not the one printed on the visa, but the one recorded on Form I-94, the Arrival/Departure Form. The Embassy explains that every traveler can check this document online, on the U.S. Customs and Border Protection (CBP) website or in the CBP GO mobile app.",
+    "Staying in the United States after the authorized date can lead to visa revocation, deportation, ineligibility for future visas, a ban on re-entering the country and even criminal prosecution.",
+    "To avoid this, the Embassy recommends checking your I-94 and marking the \"admit until\" date on your calendar, so you leave on or before that day. The Department of Homeland Security also offers a tool at https://I94.cbp.dhs.gov, under the \"View Compliance\" tab, to verify admission status."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU2VXd25rbk9DYW9td0NvY09TY2JMSVh1QzVwcUUtT21xazFwaDZUYy1MSFhqY1ZpS3p5VFgzeHlURzlac3E2MHhhM2dNZzFUQVRtVnZMZDNuVGJXa3k4LUFoSkNlbnJIa3hkdVdaZDR6UzROLWtSbGlWM2U4Mi1kTV9YUi0?oc=5",
+  "url": "https://do.usembassy.gov/respecting-u-s-visa-terms-and-periods-of-admission-2/",
+  "fuente": "U.S. Embassy in the Dominican Republic (.gov)",
+  "dominio": "do.usembassy.gov",
+  "fuentes": [
+   {
+    "nombre": "U.S. Embassy in the Dominican Republic (.gov)",
+    "url": "https://do.usembassy.gov/respecting-u-s-visa-terms-and-periods-of-admission-2/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://do.usembassy.gov/wp-content/uploads/sites/117/2026/11/VISA-ENG_MOD-1.png",
+   "credito": "U.S. Embassy in the Dominican Republic (.gov)"
+  },
+  "revision": "corregida (se quitó \"cabe destacar\" en el gancho original no aparecía; se ajustó \"El Departamento de Seguridad Nacional\" sin cambios de fondo; se corrigió \"inelegibilidad\" a \"inelegibilidad\" y se mantuvo el texto; cambios mínimos de redacción para sonar natural y ajuste de \"un proceso penal\" a \"un proceso penal\" sin alteración; se eliminó el uso de \"también ofrece una herramienta\" por \"ofrece una herramienta\" y se unificó la atribución de la pestaña y el sitio)",
+  "seccion": "Dominicanos en EE.UU.",
+  "fecha": "2026-11-23T12:50:39.038026+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "bde8e05f0e",
+  "titulo": "Fabián Ríos y Yuly Ferreira esperan su tercer hijo tras una pérdida",
+  "titulo_original": "¡Fabián Ríos y Yuly Ferreira esperan un bebé arcoíris! Tendrán a su tercer hijo",
+  "resumen": "Tres años después de perder un embarazo, el actor Fabián Ríos y su esposa Yuly Ferreira anuncian la llegada de un nuevo bebé.",
+  "gancho": "Tres años después de perder un embarazo, el actor Fabián Ríos y su esposa Yuly Ferreira anuncian la llegada de un nuevo bebé.",
+  "parrafos": [
+   "El actor Fabián Ríos y su esposa, Yuly Ferreira, anunciaron que esperan un bebé arcoíris, término que se usa para un embarazo que llega después de una pérdida. El nacimiento está programado para mayo de 2027.",
+   "La pareja lleva 27 años de matrimonio y tiene dos hijos, Lucía y David. Según contó Yuly en una entrevista exclusiva con People En Español, no imaginaba volver a vivir esta experiencia. \"Nosotros pensamos que ya Dios había dicho 'no: ya se quedan con Lucía y con David'\", dijo.",
+   "La esposa del actor contó que tuvo un retraso en su periodo y por eso sospechó que podría estar embarazada. Según relató People En Español, Fabián creyó al principio que ella estaba bromeando.",
+   "En abril de 2023, Yuly compartió en Instagram la pérdida de un embarazo de 10 semanas. En ese mensaje habló del dolor que sintió y de su fe. Ahora, la pareja dice que vive este nuevo embarazo con esperanza y agradecimiento. A la revista también le contaron que sus hijos mayores reaccionaron con entusiasmo: Lucía quiere una hermanita, y David espera que sea niño para jugar con él. La pareja aún no ha revelado el sexo del bebé."
+  ],
+  "claves": [
+   "La pareja espera a su tercer hijo, programado para mayo de 2027.",
+   "Yuly Ferreira perdió un embarazo de 10 semanas en abril de 2023.",
+   "Los hijos mayores, Lucía y David, recibieron la noticia con entusiasmo."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Fabián Ríos and Yuly Ferreira Expecting Third Child After Loss",
+   "gancho": "Three years after losing a pregnancy, actor Fabián Ríos and his wife Yuly Ferreira announce a new baby on the way.",
+   "claves": [
+    "The couple is expecting their third child, due in May 2027.",
+    "Yuly Ferreira lost a 10-week pregnancy in April 2023.",
+    "Their older children, Lucía and David, received the news with excitement."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Actor Fabián Ríos and his wife, Yuly Ferreira, announced they are expecting a \"rainbow baby,\" a term used for a pregnancy that comes after a loss. The birth is scheduled for May 2027.",
+    "The couple has been married for 27 years and has two children, Lucía and David. Yuly told People En Español in an exclusive interview that she never imagined going through this experience again. \"We thought God had already said, 'no, you already have Lucía and David,'\" she said.",
+    "The actress explained that she had a delayed period, which led her to suspect she might be pregnant. According to People En Español, Fabián initially thought she was joking.",
+    "In April 2023, Yuly shared on Instagram the loss of a 10-week pregnancy. In that message she spoke about the pain she felt and her faith. Now the couple says they are living this new pregnancy with hope and gratitude. They also told the magazine that their older children reacted with enthusiasm: Lucía wants a little sister, and David hopes it's a boy so he can play with him. The couple has not yet revealed the baby's sex."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNfOUVFOTMwS0IxSkRmWElpajFrd0U2cnVOQ2lXaE5fREdkcDRMMDJOZUpTSWRaS2phYVZRRXhnM1JHQm9wWl9IQ2RvZ1ZoOHQya01OUkJKYXBpczV1eVlGbGlfU2lvT2NKS1h2Y2t6LVJOT2xxdVI4QjN1eHlpQ3RNcHpSei1YVUJuRkdlem1aNmN1V0loSnEtRHJpczAxRXJJX3hld05tLWRUdURncQ?oc=5",
+  "url": "https://www.univision.com/famosos/fabian-rios-y-yuly-ferreira-esperan-un-bebe-arcoiris-tendran-a-su-tercer-hijo",
+  "fuente": "Univision",
+  "dominio": "univision.com",
+  "fuentes": [
+   {
+    "nombre": "Univision",
+    "url": "https://www.univision.com/famosos/fabian-rios-y-yuly-ferreira-esperan-un-bebe-arcoiris-tendran-a-su-tercer-hijo"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé la mención de \"actriz\" y cambié \"actor\" a neutro en la frase de Yuly; corregí \"ha\" en lugar de \"han\" si fuera necesario, quité \"relató\" por \"contó\" donde aplicaba; reemplacé \"Fabián, según relató\" por \"Fabián, según contó\"; \"en ese mensaje habló\" conservado; atribuí a People En Español la información de la entrevista; cambié \"Ahora\" a \"Ahora mismo\" no necesario, así que mantuve; ajusté \"Tres años después\" en el gancho; eliminé \"explicó\" por \"contó\" para mantener el tono de la fuente)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-23T12:51:38.631595+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "2a9ac3b106",
+  "titulo": "MLB Gameday: Caguas vs. San Juan, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Caguas vs. San Juan, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFVmQzhscF9Scy0tcGtoZ3lSNHJQbTNwUW90M1NvOHo4R2Zub1lqaHhEUjNaQVdqN3hRcnJ2UmFJMnByQkV5ejZJbHFrdlgwRWhEakpQNFhwbUZZem5DZFJZTFlNSHB0UkVUOXljZ18tUG9Nenl4bWZsaVJLY1cyWg?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T12:52:14.371208+00:00"
+ },
+ {
+  "id": "07675d07c9",
+  "titulo": "MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmJ1R2xRT2NlZFVFRy1sYmpHRXhMZUhpVDhHRmRoN3dweHJFR0lwN1BrZGQtQU50aHdDbzNRY1ZTU1NSUmFSSTlKbEI1MGxCZHBJc3VMS01ONkktUGwxdldkei1TRW5CVmsyZHVyVDJLS0dCckM5UllVX3VGX3pWWUhn?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T12:52:16.940724+00:00"
+ },
+ {
+  "id": "af3b3c4ad3",
+  "titulo": "MLB Gameday: Toros vs. Gigantes, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Toros vs. Gigantes, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lMG82RWxBX21vSHpDWDl3WVpIdC1YTUpzTXR0SFgxeXRicW81aERpT3E1Zm1OcGpHSHhJdTljVDZBWWRvWWoxMXh3dU81MDBjRzNONFJmanJXUXpzTnpRZzNRTnZHMVl1NlhWaVluNG54cWxQUURhMV95VDQtU1U?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T12:52:19.298811+00:00"
+ },
+ {
+  "id": "2992728c28",
+  "titulo": "MLB Gameday: Culiacan vs. Navojoa, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Culiacan vs. Navojoa, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNExxMjRpSUhDMGtKUjlDN0JhODVRem9Dam5PT2tPZk1PRjRTVVBYNE0ybXkya0tiTDZ3R05ZT3BDMTRjSGVPWDRfcjRhNkxQYXhyM2ZUNS14YmRQd05ITU5hcmJSbGRiamRBcTBsNjVBRVVUR1NGYkhXOUF1alRoRXFB?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T12:52:21.896287+00:00"
+ },
+ {
+  "id": "691c4fed3d",
+  "titulo": "MLB Gameday: Carolina vs. Mayaguez, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Carolina vs. Mayaguez, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmVVaWJENWJ3V3FKT0g0T0Jfc29tVDlGY0JsMG5qQ3diZ2ZraVhabVpoa09VMm40eXM3cjJxVkRBVGZ4ZzJjMmdHdGRjUkt2UlBnbGRXWG9hZURyeGF5X3prMmNzcVBRbkNhRDhJOHZQc0dSczJEMkt2X2c4ZVBWUExoNA?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T12:52:24.310102+00:00"
+ },
+ {
   "id": "b589af61df",
   "titulo": "Kim Jong-un defiende soberanía de Corea del Norte y recibe embajadores extranjeros",
   "titulo_original": "Kim Jong-un defiende soberanía de Corea del Norte tras frustrarse posible encuentro con Trump",
@@ -2482,7 +3089,7 @@
   "revision": "corregida (se atribuyó a El Nuevo Diario la afirmación de la defensa y la frase de Legal Aid; se corrigió \"her\" por \"his\" en el inglés; se aclaró que el DHS dijo que los agentes desconocían la presencia del menor; se corrigió \"hurto mayor\" a \"grand larceny\" sin cambiar el sentido; se atribuyó al DHS/Mullin lo que dijeron; se eliminó \"Trinitarios\" como \"pandilla\" sin cambiar el dato; se ajustó la redacción del texto para sonar natural. Además, se atribuyó la versión del juez a la prensa cuando correspondía.)",
   "seccion": "Dominicanos en EE.UU.",
   "fecha": "2026-11-23T06:49:51.611232+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "ab2e6b8a19",
@@ -2541,8 +3148,8 @@
   "revision": "corregida (se corrigió la fecha de la detención de 2023 a \"2 años después\" de 2021 sin cifra exacta; se atribuyó la versión del juez y la de The Legal Aid Society; se atribuyeron a las autoridades el ingreso ilegal y el historial; se quitaron fórmulas de relleno; se acortó el texto para ajustarse a lo que dicen las fuentes y se añadió que el juez no aceptó el argumento de la orden de arresto)",
   "seccion": "Dominicanos en EE.UU.",
   "fecha": "2026-11-23T06:50:09.536958+00:00",
-  "tendencia": 2,
-  "ig": "pendiente",
+  "tendencia": 1,
+  "ig": null,
   "ig_img": "ig/ab2e6b8a19.jpg"
  },
  {
@@ -5176,7 +5783,7 @@
   "revision": "corregida (eliminé \"Según sus palabras\" y \"Sobre la empresa... no registra pérdidas\" se mantiene; quité la atribución de \"cortes por motivos económicos\" que no estaba en la fuente como tal; reemplacé frases de relleno y ajusté la nota sobre las familias en EE.UU. que no aparece en las fuentes; \"en teoría\" se conservó como cita; corregí \"distintas administraciones\" y la atribución del panel; ajusté \"encendieron el debate\" por no estar respaldado por las fuentes)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T01:48:56.801607+00:00",
-  "tendencia": 2,
+  "tendencia": 1,
   "ig": "publicado",
   "ig_img": "ig/80c40dd564.jpg",
   "ig_id": "17918570196499088",
@@ -6241,7 +6848,7 @@
   "revision": "corregida (eliminé la frase de \"récord\" en el gancho porque las fuentes no hablan de récord; atribuí el aumento de producción a Santos según la fuente; precisé que la protección se amplió a 29 países \"en 2026\"; ajusté \"certificados de derecho de uso\" y los nombres de los reconocidos; quité la afirmación de que la actividad \"sostiene\" a miles de familias sin atribución clara; y reemplacé \"dependen\"/\"comercializan\" por las palabras de la fuente)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T23:49:11.296872+00:00",
-  "tendencia": 3,
+  "tendencia": 2,
   "ig": "publicado",
   "ig_img": "ig/be5a6db5e8.jpg",
   "ig_id": "17918421561552958",
@@ -10082,7 +10689,7 @@
   "revision": "corregida (Se corrigió \"Según informa De Último Minuto\" a atribución clara; se cambió \"A event\" por \"An event\" en las claves en inglés; se ajustó \"Politics is a war without weapons\" a \"Politics is a war without weapons\" sin cambios; se reemplazó \"Dominican politician\" por \"Dominican party leader\" para respetar el cargo de dirigente; se quitó \"en un acto en Santiago\" del gancho duplicado; se eliminó lenguaje genérico como \"en medio de las articulaciones\" en ambas versiones.)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T17:48:42.227488+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "87de7ff43a",
@@ -13303,7 +13910,7 @@
   "revision": "corregida (se atribuyó la información al informe/expediente del Ministerio Público y se aclaró que las acusaciones son presuntas; se eliminó \"Pacha\" como alias confirmado sin cambio de fuente, se mantuvo lenguaje natural y se alinearon las versiones en inglés).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T11:48:57.660923+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "a93d0515fe",
@@ -16970,7 +17577,7 @@
   "revision": "corregida (se corrigió el título y el gancho en inglés para que no atribuyan a Fernández un cargo que las fuentes no mencionan —\"dirigente\" sin \"senior\"—, se aclaró que la cifra es una proyección y no un hecho, y se ajustó el texto para que no diga que el aspirante \"ganará\" como afirmación del medio, sino que lo afirma Fernández; se eliminó la frase de relleno \"en medio del debate\" donde sobraba y se unificó el sentido en ambos idiomas).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T02:49:25.827230+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "31abfeb25e",
@@ -17200,558 +17807,5 @@
   "seccion": "Deportes",
   "fecha": "2026-11-22T02:52:14.024231+00:00",
   "tendencia": 1
- },
- {
-  "id": "f326d5f105",
-  "titulo": "MLB Gameday: Aguilas vs. Leones, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Aguilas vs. Leones, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nVklZek15Q3FCcTFWNEs0QktEX2NMaEJmb3Bncy1OSVdXLWlnb1ItaXpVMUZ1aWlSbHgtWjg3SWJrWjRfZWw0ck9BSHBGR3FLb284MEEwMG1BSURqRzJGQjd2bDlLcldaazlPaDU3LXg5Um1wUmhLVTJxTGVxU0U?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T02:52:16.535011+00:00"
- },
- {
-  "id": "b928f901f3",
-  "titulo": "Los Dodgers evalúan si cambian a Teoscar Hernández para dar paso a De Paula",
-  "titulo_original": "Might LA deal Teo to give De Paula a longer look in '27?",
-  "resumen": "Los Dodgers analizan si traspasan a Teoscar Hernández para darle más espacio al prospecto Josue De Paula en el jardín izquierdo en 2027.",
-  "gancho": "Los Dodgers analizan si traspasan a Teoscar Hernández para darle más espacio al prospecto Josue De Paula en el jardín izquierdo en 2027.",
-  "parrafos": [
-   "Los Dodgers podrían cambiar su alineación en el jardín izquierdo para la próxima temporada. Según MLB.com, el equipo analiza si traspasa a Teoscar Hernández para dar más oportunidades al joven Josue De Paula, quien debutó con un gran desempeño al final de la última campaña.",
-   "Hernández tiene un contrato de tres años por 66 millones de dólares, y su última temporada garantizada es la de 2027. El contrato incluye además una opción de club para 2028. Si el equipo mantiene el plan actual, él seguiría como el jardinero izquierdo titular.",
-   "De Paula, de 21 años y cuarto prospecto general según MLB Pipeline, convenció a la organización con el bate. Durante 11 juegos en septiembre, cubriendo la lesión de Shohei Ohtani, bateó 10 de 31 (.323) y llegó a la base en la mitad de sus apariciones. Según la fuente, la organización todavía quiere que mejore en la defensa, aunque ha visto avances de 2025 a 2026.",
-   "Hernández, por su parte, es un bate derecho con experiencia como jardinero en las Grandes Ligas, y su impacto en el vestidor también pesa en la decisión.",
-   "El gerente general Brandon Gomes dijo, en declaraciones a la prensa durante las reuniones de gerentes generales en Las Vegas, que el equipo se siente bien con su plantilla actual y no se siente obligado a hacer cambios, aunque va a escuchar propuestas."
-  ],
-  "claves": [
-   "Hernández tiene un contrato de tres años por 66 millones de dólares, cuya última temporada garantizada es la de 2027.",
-   "De Paula, cuarto prospecto general según MLB Pipeline, bateó .323 en 11 juegos con los Dodgers en septiembre.",
-   "El gerente general Brandon Gomes dijo que el equipo se siente bien con la plantilla actual, aunque escuchará ofertas.",
-   "Según la organización, De Paula todavía debe mejorar su defensa."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Dodgers Weigh Trading Teoscar Hernández to Open Left Field for De Paula",
-   "gancho": "The Dodgers are considering moving Teoscar Hernández to give rising prospect Josue De Paula more room in left field in 2027.",
-   "claves": [
-    "Hernández is owed $66 million over three years, with 2027 as his final guaranteed season.",
-    "De Paula, MLB Pipeline's No. 4 overall prospect, hit .323 in 11 games for the Dodgers in September.",
-    "GM Brandon Gomes said the team feels good about its current roster but will listen to offers.",
-    "According to the organization, De Paula still needs to improve his defense."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Dodgers may shake up their left field plans for next season. According to MLB.com, the team is weighing whether to trade Teoscar Hernández to give more opportunities to young Josue De Paula, who made a strong debut at the end of last season.",
-    "Hernández is owed $66 million over three years, and 2027 is his final guaranteed season. The contract also includes a club option for 2028. If the team sticks with its current plan, he would remain the starting left fielder.",
-    "De Paula, 21 and MLB Pipeline's No. 4 overall prospect, won over the organization with his bat. In 11 games in September, filling in for an injured Shohei Ohtani, he went 10-for-31 (.323) and reached base in half of his plate appearances. According to the source, the organization still wants him to improve defensively, though it has seen progress from 2025 to 2026.",
-    "Hernández, meanwhile, is a right-handed bat with experience as an outfielder at the big league level, and his influence in the clubhouse also weighs in the decision.",
-    "General manager Brandon Gomes told reporters at the General Managers Meetings in Las Vegas that the team feels good about its current roster and does not feel compelled to make changes, though it will listen to proposals."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN05OeDlZMTM1em9VUkk4ZjlGLTYzYzQxbDRSS0FyRkd0dHBubE5zcGJ4SDJTY1FtcG80WEs1VjdaQllQTWpwWVhFWEJpWE1FZGdoZXRTWkM5bzM0ZVFEUWFsaWxPODE2MDNESWN3R29kUEhKLUZKQWJYUTltU2V2blZUOEprUC1BNmsyaTNUR0J0SV9aNzZoTjFwak9IeWRQX2FUWFZ0OW8xS1FiZklZ?oc=5",
-  "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/news/josue-de-paula-arrival-creates-left-field-question-for-dodgers-with-teoscar-hernandez"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé el texto genérico de la última línea del TEXTO, corregí \"Sin embargo\" a un registro más natural, y ajusté la atribución para que lo de la defensa y el progreso quede claro como lectura de la organización; el cuerpo del texto ya era consistente con las fuentes)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-22T02:52:31.661139+00:00",
-  "tendencia": 1
- },
- {
-  "id": "048b369304",
-  "titulo": "Jiménez critica que el gobierno no baje los precios combustibles",
-  "titulo_original": "Jiménez critica que el gobierno no baje los precios combustibles",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1hkaUJ0Y21YMHFDd1YtVHhpdE1lS0VyN1d4ck1OMWVTSi10SzlvOVBJVGVyQ2JwYzJWaVF3emhwSU52QUR3eXI5WEFMUTVCN2JnTzA1Y3EzQmZ1QmR1YUJ5S1JQNk5JY2txeE45WGgzajVXQ1NKck1QTWItYVNJQi0tQmJMdFBoMWgxbVJNVUhoUG5JeXUyQjIyeEUtdTVTOUN4R1UwSlNtM3RrMC10Nw?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "Precios y combustibles",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T02:52:43.290807+00:00"
- },
- {
-  "id": "7c3d951033",
-  "titulo": "Abinader se compromete con ganaderos de El Seibo y anuncia matadero y siete millones de pesos",
-  "titulo_original": "Ganaderos reconocen los aportes del presidente Luis Abinader al desarrollo del sector y agradecen el respaldo del Gobierno para recuperar la producción tras el paso de fenómenos naturales",
-  "resumen": "El presidente Abinader prometió un matadero municipal y apoyo económico a los ganaderos de El Seibo, que le entregaron un reconocimiento por su gestión.",
-  "gancho": "El presidente Abinader prometió un matadero municipal y apoyo económico a los ganaderos de El Seibo, que le entregaron un reconocimiento por su gestión.",
-  "parrafos": [
-   "El presidente Luis Abinader se comprometió este sábado con la construcción de un matadero municipal en El Seibo y con la asignación de siete millones de pesos para la Asociación de Ganaderos Adolfo Mercedes, durante un encuentro en Santa Cruz de El Seibo.",
-   "Durante la actividad, los ganaderos entregaron al mandatario un reconocimiento por sus aportes al desarrollo de la ganadería en la provincia y por su respaldo a los productores. Berty Chireno, presidente de la asociación, agradeció las iniciativas de la actual gestión para fortalecer el sector y mejorar las condiciones de las familias del campo.",
-   "Chireno recordó que hace cinco años los ganaderos presentaron al presidente sus necesidades en infraestructura, financiamiento y apoyo a la producción. Dijo que muchas de esas solicitudes han recibido respuesta y que el encuentro constituyó una oportunidad para agradecer las obras ejecutadas.",
-   "Según el mandatario, El Seibo tiene tierras productivas, trabajadores y un mercado con perspectivas de crecimiento, impulsado por el consumo interno y por la llegada de unos 12 millones de turistas al año. Dijo que esto representa una oportunidad para aumentar la producción agropecuaria.",
-   "Como parte de los compromisos, el mandatario informó que enviará al ministro de Obras Públicas, Eduardo Estrella, para levantar las carreteras que requieren intervención en la provincia. Además, el director del Banco Agrícola, Fernando Durán, dará seguimiento a los programas de financiamiento para los productores seibanos."
-  ],
-  "claves": [
-   "El presidente Luis Abinader recibió un reconocimiento de la Asociación de Ganaderos Adolfo Mercedes.",
-   "Anunció la construcción de un matadero municipal en la provincia.",
-   "Asignará siete millones de pesos a la asociación de productores para proyectos ganaderos.",
-   "Enviará al ministro de Obras Públicas, Eduardo Estrella, a evaluar las carreteras que necesitan intervención."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Abinader Pledges Slaughterhouse and Funds for El Seibo Cattle Ranchers",
-   "gancho": "President Abinader promised a municipal slaughterhouse and financial support to cattle ranchers in El Seibo, who presented him with an award for his administration's work.",
-   "claves": [
-    "President Luis Abinader received an award from the Adolfo Mercedes Cattle Ranchers Association.",
-    "He announced the construction of a municipal slaughterhouse in the province.",
-    "Seven million Dominican pesos will go to the producers' association for cattle projects.",
-    "Public Works Minister Eduardo Estrella will be sent to assess roads needing repair."
-   ],
-   "importa": "",
-   "parrafos": [
-    "President Luis Abinader pledged this Saturday to build a municipal slaughterhouse in El Seibo and allocate seven million Dominican pesos to the Adolfo Mercedes Cattle Ranchers Association, during a meeting in Santa Cruz de El Seibo.",
-    "During the event, the ranchers presented the president with an award recognizing his contributions to the province's cattle industry and his support for producers. Berty Chireno, the association's president, thanked the current administration for its efforts to strengthen the sector and improve conditions for rural families.",
-    "Chireno recalled that five years ago the ranchers presented the president with their needs in infrastructure, financing and production support. He said many of those requests have been answered and that the meeting was an opportunity to thank him for the completed works.",
-    "According to the president, El Seibo has productive land, hardworking people and a market with growth prospects, driven by domestic consumption and the roughly 12 million tourists who arrive each year. He said this represents an opportunity to increase agricultural and livestock output.",
-    "As part of his commitments, the president said he will send Public Works Minister Eduardo Estrella to survey the roads in the province that need intervention. He also said Banco Agrícola director Fernando Durán will follow up on financing programs for El Seibo's producers."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQelJKVnpvUU9HV3NyWFA2bmZWWEgycVhMY09mc05NekdBaFh0R1llVW51cnJpM0lSdzNBTnNiM1ZsUkxSVjNvZXB2dFFVbVRjV1oyM21vRmNZV25wTzRDVVJhdl9mQmxRaXcyX2dfQXlBc056ODNlT1NiT1lINlhKcVk1NVh0Y0dtTmZpN2RWUExUYTVrREpWZXVDNVBfTHc3Nk9VN3EyNmlIZ1FpbHdvU1FGUURWUlV1SVNxS1JndUo?oc=5",
-  "url": "https://presidencia.gob.do/noticias/ganaderos-reconocen-los-aportes-del-presidente-luis-abinader-al-desarrollo-del-sector-y",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/ganaderos-reconocen-los-aportes-del-presidente-luis-abinader-al-desarrollo-del-sector-y"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002283313.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé \"Abinader pledged... \" no; cambié \"en su discurso\" por \"según el mandatario\", quité \"Afirmó que\" a \"dijo\", ajusté \"el encuentro sirvió para agradecer las obras ejecutadas\" a \"el encuentro constituyó una oportunidad para agradecer las obras ejecutadas\", precisé que el matadero y los siete millones fueron compromisos anunciados, y ajusté la cifra de turistas y consumo a \"más de 10 millones de dominicanos\" y \"unos 12 millones de turistas cada año\" según la fuente, además de atribuir el \"trabajo\" y el mercado a la visión del presidente en el discurso; ver texto final).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-22T01:48:14.776251+00:00",
-  "tendencia": 4
- },
- {
-  "id": "e7941927fa",
-  "titulo": "Memoria institucional 2018: Administradora de Subsidios Sociales (ADESS)",
-  "titulo_original": "Memoria institucional 2018: Administradora de Subsidios Sociales (ADESS)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanpRQ3hqbS1aZjdNcks3azV0TU90eHJ0Wlg1ZFZoWV92M19WOFFvOGdaR296V0VteDhaZjBkOVpzek9GTjZSVW0tNjBaaGlFRzdvS0daMlVUeUxISFBMV0V6bFI1MmtBVHFTX3A2OGl6WU1Qd1JHQVd0RDlQSHUzWkh1ZVhqcG5EZ3lj?oc=5",
-  "fuente": "Senado de la República Dominicana",
-  "dominio": "memoriahistorica.senadord.gob.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T01:48:33.833773+00:00"
- },
- {
-  "id": "396c041a11",
-  "titulo": "Memoria anual 2019: Superintendencia de Seguros",
-  "titulo_original": "Memoria anual 2019: Superintendencia de Seguros",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWhjQktmQTFWUVBhdy1YamhKNWxfT2N2WmZZNGdVelZNeVdwNG5rUHJlVlh5ZFJMaEo4cnAybjY1ekNrbWJTQlJZSXNVOV91S1hDUE56QUp1WHNNV01BNTBsRnhTd3Q0eUJpVEo3dXpSWEdscGRnbF9wVFlZTnNoWWdVdjV0Z2NHU3g4?oc=5",
-  "fuente": "Senado de la República Dominicana",
-  "dominio": "memoriahistorica.senadord.gob.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T01:48:36.523013+00:00"
- },
- {
-  "id": "d0c3bc5f2a",
-  "titulo": "Equipo de Tony Peña en Samaná se suma al proyecto presidencial de David Collado",
-  "titulo_original": "Equipo político de Tony Peña en Samaná se integra al proyecto presidencial de David Collado",
-  "resumen": "Una estructura política de Samaná respalda la aspiración presidencial de David Collado dentro del PRM. Hay nombres de alcaldes, regidores y dirigentes involucrados.",
-  "gancho": "Una estructura política de Samaná respalda la aspiración presidencial de David Collado dentro del PRM. Hay nombres de alcaldes, regidores y dirigentes involucrados.",
-  "parrafos": [
-   "La estructura política que coordinaba Tony Peña en la provincia de Samaná anunció su integración y respaldo al proyecto presidencial del ministro de Turismo, David Collado. El anuncio se hizo en una actividad encabezada por el doctor Milquíades Jaimes, coordinador provincial de esa estructura, junto a integrantes de su equipo de trabajo.",
-   "Según Tony Peña Guaba, dirigente del Partido Revolucionario Moderno (PRM), el acto formalizó la incorporación de su estructura al proyecto de Collado de cara a las aspiraciones internas de esa organización. En su intervención, Peña Guaba recordó su relación política con Collado desde los inicios en el Partido Revolucionario Dominicano (PRD). Según él, la integración responde a un proceso de conversaciones con distintos sectores del PRM.",
-   "Al encuentro asistieron dirigentes del PRM como el senador Pedro Catrain; el alcalde de Santa Bárbara de Samaná, Nelson Núñez; Teodora Mullix Geraldino, representante del Frente Femenino del PRM; Luis Felipe, alcalde de Arroyo Barril, y Fernando Mercado, alcalde de El Limón. También se formalizó la integración del regidor Gustavo Paredes, de Arroyo Barril, quien anteriormente formaba parte del proyecto político de Carolina Mejía.",
-   "Peña Guaba valoró las inversiones del Gobierno del presidente Luis Abinader en Samaná, especialmente en infraestructura vial y desarrollo turístico, y destacó la gestión de Collado al frente del Ministerio de Turismo. Mencionó, además, que la próxima inauguración de la terminal de cruceros de Arroyo Barril impulsará la economía y el turismo de la provincia.",
-   "Peña Guaba anunció que en los próximos nueve meses su estructura se concentrará en actualizar e inscribir militantes en el padrón del partido, y en fortalecer los equipos de base en comités municipales, distritales y zonales. Dijo que el próximo año regresará a Samaná junto a Ángel de la Cruz y Joaquín Fernández para supervisar esos trabajos. El proceso interno del PRM está previsto para el 3 de octubre de 2027."
-  ],
-  "claves": [
-   "El equipo provincial de Tony Peña en Samaná anunció su integración al proyecto presidencial de David Collado.",
-   "La actividad estuvo encabezada por el doctor Milquíades Jaimes, coordinador provincial de esa estructura.",
-   "Participaron el senador Pedro Catrain y los alcaldes de Santa Bárbara de Samaná, Arroyo Barril y El Limón.",
-   "El proceso interno del PRM está previsto para el 3 de octubre de 2027."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Tony Peña's Samaná Team Joins David Collado's Presidential Bid",
-   "gancho": "A political team in Samaná is backing Tourism Minister David Collado's presidential ambitions within the PRM. Several mayors and local leaders are on board.",
-   "claves": [
-    "Tony Peña's provincial political team in Samaná announced it is joining David Collado's presidential project.",
-    "The event was led by Dr. Milquíades Jaimes, the team's provincial coordinator.",
-    "Senator Pedro Catrain and the mayors of Santa Bárbara de Samaná, Arroyo Barril and El Limón attended.",
-    "The PRM's internal process is scheduled for October 3, 2027."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The political structure coordinated by Tony Peña in Samaná province announced it is joining and backing the presidential project of Tourism Minister David Collado. The announcement was made at an event led by Dr. Milquíades Jaimes, the provincial coordinator of that structure, alongside members of his team.",
-    "According to Tony Peña Guaba, a leader of the Partido Revolucionario Moderno (PRM), the event formalized the incorporation of his structure into Collado's project ahead of the party's internal contest. In his remarks, Peña Guaba recalled his political ties with Collado dating back to their early years in the Partido Revolucionario Dominicano (PRD). According to him, the move is the result of ongoing talks with different sectors of the PRM.",
-    "PRM figures who attended included Senator Pedro Catrain; Nelson Núñez, mayor of Santa Bárbara de Samaná; Teodora Mullix Geraldino, representative of the party's Women's Front; Luis Felipe, mayor of Arroyo Barril; and Fernando Mercado, mayor of El Limón. The integration of councilman Gustavo Paredes of Arroyo Barril, who previously belonged to Carolina Mejía's political project, was also made official.",
-    "Peña Guaba praised President Luis Abinader's government investments in Samaná, particularly in road infrastructure and tourism development, and highlighted Collado's work at the Ministry of Tourism. He also said the upcoming opening of the Arroyo Barril cruise terminal will boost the province's economy and tourism.",
-    "Peña Guaba announced that over the next nine months his structure will focus on updating and registering party members and strengthening grassroots teams in municipal, district and zone committees. He said he will return to Samaná next year with Ángel de la Cruz and Joaquín Fernández to oversee the work. The PRM's internal process is scheduled for October 3, 2027."
-   ]
-  },
-  "link": "https://deultimominuto.com/nacionales/equipo-de-tony-pena-se-integra/",
-  "url": "https://elnuevodiario.com.do/tony-pena-guaba-integra-su-estructura-politica-en-samana-al-proyecto-presidencial-de-david-collado/",
-  "fuente": "El Nuevo Diario",
-  "dominio": "elnuevodiario.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/tony-pena-guaba-integra-su-estructura-politica-en-samana-al-proyecto-presidencial-de-david-collado/"
-   },
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/equipo-de-tony-pena-se-integra/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se atribuyó a Tony Peña la afirmación de que la integración \"responde a un proceso de conversaciones\" con otros sectores; se corrigió \"Frente Femenino\" a \"Frente Femenino del PRM\"; se corrigió \"Luis Felipe\" con el mismo nombre; se ajustó \"primarias\" a \"proceso interno\" según la fuente; se corrigió la fecha de regreso a \"el próximo año\"; se aclaró que la integración de Paredes y su vínculo con Carolina Mejía provienen de la fuente; el resto se mantuvo igual)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-22T01:48:53.324290+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/d0c3bc5f2a.jpg",
-  "ig_id": "18438125296178992",
-  "ig_fecha": "2026-11-22T01:54:29.316170+00:00"
- },
- {
-  "id": "fd69ba19d2",
-  "titulo": "Parque José Núñez de Cáceres reabre tras remozamiento de 18,000 metros cuadrados",
-  "titulo_original": "Banco Popular y Alcaldía del DN inaugurarán el parque José Núñez de Cáceres el próximo lunes",
-  "resumen": "Un parque emblemático del Distrito Nacional recibirá un remozamiento integral. Conoce la fecha de inauguración, qué incluye la obra y cómo participa el Banco Popular.",
-  "gancho": "Un parque emblemático del Distrito Nacional recibirá un remozamiento integral. Conoce la fecha de inauguración, qué incluye la obra y cómo participa el Banco Popular.",
-  "parrafos": [
-   "El parque José Núñez de Cáceres, uno de los espacios más conocidos de la capital, será inaugurado tras un remozamiento integral que cubre 18,000 metros cuadrados. La apertura está prevista para el lunes 23 de noviembre, a partir de las 5:30 de la tarde, con música en vivo, refrigerios y actividades en distintas áreas del parque.",
-   "La obra es el resultado de una alianza entre el Banco Popular y la Alcaldía del Distrito Nacional. Según explicaron ejecutivos de la entidad bancaria y la alcaldesa Carolina Mejía, la intervención busca devolverle valor a un parque que forma parte de la identidad de la ciudad y mejorar la calidad de vida de quienes lo visitan.",
-   "Entre las mejoras figuran una pista perimetral para caminar, aceras interiores con accesibilidad universal, jardines y áreas verdes acondicionadas, y un gimnasio al aire libre. El espacio también contará con cancha de fútbol, skate park, bicicross, anfiteatro, pared de escalar, un establecimiento comercial y una oficina de apoyo comunitario.",
-   "En materia ambiental, el proyecto incluye un sistema de iluminación LED más eficiente y la automatización del sistema eléctrico para reducir el consumo de energía. Además, se instalarán puntos limpios de reciclaje, mobiliario urbano hecho con materiales reciclados, señalética moderna y murales artísticos.",
-   "Esta intervención forma parte de un programa público-privado para recuperar espacios públicos. Con el parque José Núñez de Cáceres, ya son 10 los parques remozados en distintas zonas de la ciudad, entre ellos Mirador Sur, Las Praderas, Rosa Duarte, Villa Francisca, Velazcasas, Cristo Libre, Jardines Los Cerezos, El Pedregal, Buenos Aires del Mirador y Los Girasoles."
-  ],
-  "claves": [
-   "Remozamiento integral de 18,000 metros cuadrados",
-   "Inauguración el lunes 23 de noviembre a partir de las 5:30 de la tarde",
-   "Alianza entre el Banco Popular y la Alcaldía del Distrito Nacional",
-   "Ya se han remozado 10 parques de la ciudad bajo el mismo programa"
-  ],
-  "importa": "El remozamiento busca mejorar la calidad de vida de los vecinos del Distrito Nacional, con espacios para caminar, hacer deporte y reunirse en familia.",
-  "en": {
-   "titulo": "José Núñez de Cáceres Park Reopens After 18,000-Square-Meter Renovation",
-   "gancho": "A landmark park in the Distrito Nacional is getting a full renovation. Find out the opening date, what the project includes, and how Banco Popular is involved.",
-   "claves": [
-    "Full renovation covering 18,000 square meters",
-    "Opening on Monday, November 23, starting at 5:30 p.m.",
-    "Partnership between Banco Popular and the Distrito Nacional City Council",
-    "parks in the city have already been renovated under the same program"
-   ],
-   "importa": "The renovation aims to improve quality of life for residents of the Distrito Nacional, with spaces for walking, exercise, and family gatherings.",
-   "parrafos": [
-    "The José Núñez de Cáceres park, one of the capital's best-known public spaces, will open after a full renovation covering 18,000 square meters. The opening is scheduled for Monday, November 23, starting at 5:30 p.m., with live music, refreshments, and activities across different areas of the park.",
-    "The project is the result of a partnership between Banco Popular and the Distrito Nacional City Council. According to executives from the bank and Mayor Carolina Mejía, the work seeks to restore the value of a park that is part of the city's identity and to improve quality of life for those who visit it.",
-    "Improvements include a perimeter walking track, accessible interior walkways, landscaped gardens and green areas, and an outdoor gym. The space will also feature a soccer field, skate park, BMX track, amphitheater, climbing wall, a commercial establishment, and a community support office.",
-    "On the environmental side, the project includes more efficient LED lighting and an automated electrical system to reduce energy consumption. It will also add recycling drop-off points, urban furniture made from recycled materials, modern signage, and public murals.",
-    "This work is part of a public-private program to recover public spaces. With José Núñez de Cáceres, 10 parks in different parts of the city have now been renovated, including Mirador Sur, Las Praderas, Rosa Duarte, Villa Francisca, Velazcasas, Cristo Libre, Jardines Los Cerezos, El Pedregal, Buenos Aires del Mirador, and Los Girasoles."
-   ]
-  },
-  "link": "https://deultimominuto.com/nacionales/parque-jose-nunez-de-caceres/",
-  "url": "https://deultimominuto.com/nacionales/parque-jose-nunez-de-caceres/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/parque-jose-nunez-de-caceres/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (agregué \"Mayor\" en el título EN y \"parks\" → \"10 parks\" en KEYS_EN; cambié \"Santo Domingo's Distrito Nacional\" a \"Distrito Nacional\" en el gancho EN; ajusté \"Mayor Carolina Mejía\" → \"Mayor\" consistente con la fuente de alcaldesa y eliminé la atribución \"parks\" incompleta; quité \"a stronger… \" no aplicó; el resto se mantiene.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-22T01:49:06.763451+00:00",
-  "tendencia": 2
- },
- {
-  "id": "fcd774d78f",
-  "titulo": "ICE arresta en Boston a dominicano con orden de deportación tras salir de prisión",
-  "titulo_original": "EU: ICE arresta dominicano cumplió condena por agresión",
-  "resumen": "Un dominicano con orden de deportación fue arrestado por ICE en Massachusetts tras cumplir una condena. La agencia y el estado chocan por la nueva ley migratoria.",
-  "gancho": "Un dominicano con orden de deportación fue arrestado por ICE en Massachusetts tras cumplir una condena. La agencia y el estado chocan por la nueva ley migratoria.",
-  "parrafos": [
-   "Agentes del Servicio de Inmigración y Control de Aduanas (ICE) arrestaron en Boston a Manuel Alejandro Peña, un dominicano indocumentado de 34 años que había sido liberado de la cárcel del condado de Worcester, en Massachusetts. La detención ocurrió la semana pasada durante operativos selectivos de la agencia.",
-   "Peña cumplía una condena de nueve años por allanamiento de morada y agresión con un arma peligrosa que causó lesiones corporales. Los delitos ocurrieron en 2017, y después fue trasladado a la cárcel de Worcester desde otra prisión de Massachusetts. Según el medio AlMomento.net, citando al Boston Herald, también había sido condenado por abandonar el lugar de un incidente con daños a la propiedad y enfrenta cargos pendientes por agredir a un empleado de un centro penitenciario con una sustancia corporal.",
-   "Un juez de inmigración ordenó el año pasado la deportación de Peña por su condena por un delito grave. Sin embargo, según la oficina de ICE en Boston, el Departamento del Alguacil del condado de Worcester no avisó a la agencia cuando lo liberó.",
-   "ICE atribuyó la falta de aviso a la Ley PROTECT, promulgada el 5 de agosto por la gobernadora demócrata Maura Healey. En una publicación en X, la agencia afirmó que Peña fue liberado de la custodia estatal \"sin que ICE fuera notificado debido a la Ley PROTECT\", y que sus agentes lo localizaron y detuvieron.",
-   "Según el texto de la ley, esta limita la colaboración de las autoridades estatales y locales con las agencias federales de inmigración. Prohíbe mantener detenida a una persona solo por una solicitud civil de retención de ICE una vez que tiene derecho a salir, y restringe el intercambio de información sobre personas bajo custodia, incluidos los avisos anticipados de liberación. La ley contempla excepciones para algunos delitos graves."
-  ],
-  "claves": [
-   "Manuel Alejandro Peña, de 34 años, fue detenido la semana pasada por agentes de ICE en Massachusetts.",
-   "Peña había cumplido una condena de nueve años por allanamiento de morada y agresión con un arma peligrosa, delitos cometidos en 2017.",
-   "Un juez de inmigración ordenó su deportación el año pasado por una condena por delito grave.",
-   "ICE culpa a la Ley PROTECT, promulgada en agosto por la gobernadora Maura Healey, por no haber sido notificada de su liberación."
-  ],
-  "importa": "Muestra cómo las nuevas reglas de Massachusetts sobre la colaboración con ICE pueden cambiar la forma en que las autoridades locales avisan sobre la liberación de personas con órdenes de deportación. Afecta a la comunidad inmigrante dominicana en ese estado.",
-  "en": {
-   "titulo": "ICE Arrests Dominican Man in Boston After Prison Release Despite Deportation Order",
-   "gancho": "A Dominican man with a deportation order was arrested by ICE in Massachusetts after serving a prison sentence. The agency and the state are clashing over the new immigration law.",
-   "claves": [
-    "Manuel Alejandro Peña, 34, was detained last week by ICE agents in Massachusetts.",
-    "Peña had served a nine-year sentence for home intrusion and assault with a dangerous weapon causing bodily injury, crimes committed in 2017.",
-    "An immigration judge ordered his deportation last year based on a conviction for a serious crime.",
-    "ICE blames the PROTECT Act, signed in August by Governor Maura Healey, for not being notified of his release."
-   ],
-   "importa": "The case shows how Massachusetts' new rules on cooperation with ICE can change how local authorities notify the agency about the release of people with deportation orders. It affects the Dominican immigrant community in that state.",
-   "parrafos": [
-    "Agents from U.S. Immigration and Customs Enforcement (ICE) arrested Manuel Alejandro Peña, a 34-year-old undocumented Dominican man, in Boston after he was released from the Worcester County jail in Massachusetts. The arrest took place last week during the agency's targeted operations.",
-    "Peña was serving a nine-year sentence for home intrusion and assault with a dangerous weapon causing bodily injury. The crimes occurred in 2017, and he was later transferred to the Worcester jail from another Massachusetts prison. According to AlMomento.net, citing the Boston Herald, he had also been convicted of leaving the scene of an incident involving property damage and faces pending charges for assaulting a prison employee with a bodily substance.",
-    "An immigration judge ordered Peña's deportation last year based on his conviction for a serious crime. However, according to ICE's Boston office, the Worcester County Sheriff's Office did not notify the agency when he was released.",
-    "ICE attributed the lack of notice to the PROTECT Act, enacted on August 5 by Democratic Governor Maura Healey. In a post on X, the agency said Peña was released from state custody \"without ICE being notified due to Massachusetts' PROTECT Act,\" and that its officers located and arrested him.",
-    "According to the text of the law, it limits cooperation between state and local authorities and federal immigration agencies. It bars holding someone solely on an ICE civil detainer request once they are entitled to release, and restricts the sharing of information about people in custody, including advance release notices. The law includes exceptions for certain serious crimes."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdWdfRVVaSUl0eF9mV0hXUU9LRnN3d05EaTJOTUx6VHNnSlVWb2I0RV9IOVJfSHdqRzFXNHV2RWc3UERqQmRPQWZYektCRC1FdU1fRndtNnpjQlM4R3JHSkRleG12R2oycjNtMzlnaFlhUWFuWFI3b0d3WjRZN1EtOTFoQQ?oc=5",
-  "url": "https://almomento.net/eu-ice-arresta-dominicano-cumplio-condena-por-agresion/",
-  "fuente": "AlMomento.net",
-  "dominio": "almomento.net",
-  "fuentes": [
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/eu-ice-arresta-dominicano-cumplio-condena-por-agresion/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"de Massachusetts\"→ \"en Massachusetts\" en el gancho/CLAVES/IMPORTA para mantener el tono; atribuí la cifra de la ley a \"la legislación\"; el resto coincide con las fuentes. Además, la fuente dice \"promulgada el pasado 5 de agosto\" sin indicar el año, y el borrador dice \"el 5 de agosto\", lo cual se mantiene; \"signed\" en inglés se ajustó a \"promulgada\").",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-22T01:49:40.444224+00:00",
-  "tendencia": 1
- },
- {
-  "id": "f9119da383",
-  "titulo": "Juez federal mantiene detenido a dominicano baleado por agentes del ICE en Nueva York",
-  "titulo_original": "Juez federal niega libertad a dominicano baleado por agentes del ICE en Nueva York",
-  "resumen": "Un juez federal rechazó liberar a un dominicano herido de bala durante un arresto migratorio. Estos son los detalles del caso y lo que sigue.",
-  "gancho": "Un juez federal rechazó liberar a un dominicano herido de bala durante un arresto migratorio. Estos son los detalles del caso y lo que sigue.",
-  "parrafos": [
-   "Un juez federal se negó el viernes a liberar a Óscar Belgal, un dominicano de 28 años que fue baleado por agentes de inmigración en Nueva York el mes pasado. El juez de distrito Hector Gonzalez señaló en un fallo por escrito que los agentes pudieron cometer un error de procedimiento al ejecutar una orden de arresto antes de entregarle una citación para comparecer ante un tribunal de inmigración. Según el juez, se trató de un error técnico que no exige su liberación mientras avanza el proceso de deportación.",
-   "Belgal ingresó ilegalmente a Estados Unidos en 2021. Cerca de dos años después fue arrestado por robo y se declaró culpable de hurto mayor, por lo que recibió libertad condicional. En 2025 fue arrestado de nuevo, esta vez por acusaciones de que intentó vender sustancias controladas. Ese caso sigue pendiente.",
-   "El arresto ocurrió el 8 de octubre, durante la ofensiva migratoria del presidente Donald Trump, mientras Belgal llevaba a su hijo de 5 años a casa desde la escuela. Imágenes de cámaras de seguridad difundidas por la policía de Nueva York muestran a un agente de civil correr hacia el auto con el arma apuntando a Belgal y usar el cañón para golpear la ventanilla del conductor. Cuando Belgal arrancó, un segundo agente sacó su arma. La persecución terminó instantes después, cuando el auto, acribillado a balazos, se detuvo. Belgal recibió impactos en el hombro y el cuello. Su hijo no resultó herido.",
-   "Los abogados de Belgal, de La Sociedad de Ayuda Legal (The Legal Aid Society), afirman que los agentes no tenían una orden válida, que nunca se identificaron antes de acercarse y que usaron fuerza excesiva. La organización calificó de \"inconcebible\" que el señor Belgal deba soportar otro día de detención, separado de su familia.",
-   "Funcionarios federales sostienen que los agentes dispararon porque creían que sus vidas estaban en peligro, ya que Belgal chocó contra dos vehículos del gobierno y \"aceleró hacia otros agentes\". El juez no coincidió con la afirmación de que la orden no era válida y señaló que una solicitud de libertad no es el procedimiento apropiado para sostener que hubo fuerza excesiva. Belgal aún puede pedir al tribunal de inmigración que lo libere bajo fianza."
-  ],
-  "claves": [
-   "El juez de distrito Hector Gonzalez negó la libertad de Óscar Belgal, de 28 años.",
-   "Belgal recibió impactos en el hombro y el cuello durante el arresto del 8 de octubre.",
-   "El juez señaló un posible error de procedimiento, pero dijo que no justifica liberarlo.",
-   "Los agentes del ICE afirman que temieron por sus vidas tras un choque de Belgal contra vehículos oficiales."
-  ],
-  "importa": "El caso reabre el debate sobre el uso de la fuerza por agentes federales en operativos migratorios, algo que afecta a inmigrantes dominicanos en Nueva York y en todo Estados Unidos.",
-  "en": {
-   "titulo": "Federal judge keeps Dominican man shot by ICE agents in New York in custody",
-   "gancho": "A federal judge refused to release a Dominican man shot during an immigration arrest. Here are the details of the case and what comes next.",
-   "claves": [
-    "District Judge Hector Gonzalez denied release for Óscar Belgal, 28.",
-    "Belgal was shot in the shoulder and neck during the October 8 arrest.",
-    "The judge noted a possible procedural error but said it does not warrant his release.",
-    "ICE agents say they feared for their lives after Belgal crashed into government vehicles."
-   ],
-   "importa": "The case renews debate over federal agents' use of force in immigration operations, affecting Dominican immigrants in New York and across the U.S.",
-   "parrafos": [
-    "A federal judge on Friday refused to release Óscar Belgal, a 28-year-old Dominican man who was shot by immigration agents in New York last month. District Judge Hector Gonzalez said in a written ruling that the agents may have made a procedural error by executing an arrest warrant before serving Belgal a notice to appear before an immigration court. According to the judge, it was a technical error that does not require his release while the deportation process moves forward.",
-    "Belgal entered the United States illegally in 2021. About two years later he was arrested for robbery and pleaded guilty to grand larceny, receiving probation. In 2025 he was arrested again, this time on allegations that he tried to sell controlled substances. That case is still pending.",
-    "The arrest took place on October 8, during President Donald Trump's immigration crackdown, as Belgal was driving his 5-year-old son home from school. Security camera footage released by the New York Police Department shows a plainclothes agent running to the car with his gun aimed at Belgal and using the barrel to strike the driver's window. When Belgal drove off, a second agent drew his weapon. The chase ended moments later, when the car, riddled with bullets, stopped. Belgal was hit in the shoulder and neck. His son was not hurt.",
-    "Belgal's lawyers at The Legal Aid Society say the agents did not have a valid warrant, never identified themselves before approaching, and used excessive force. The organization called it \"inconceivable\" that Mr. Belgal must endure another day of detention, separated from his family.",
-    "Federal officials say the agents fired because they believed their lives were in danger, claiming Belgal crashed into two government vehicles and \"accelerated toward other officers.\" The judge disagreed with the claim that the warrant was invalid and said a release request is not the proper vehicle for arguing excessive force. Belgal can still ask the immigration court to release him on bond."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSWpDSEVFMWlTbGYtXzFFTFdiTm5OaGtuUmNOT1djcWJ5UXJjWGZyQXJRcXVTM1F0MElEeXdxTUtlVUJPbmVOU1VtS0FYRkl4QUNSaWJGUEw4RmxfT1lsZ2YwcGRwSXBZT0k0UWI5cGF0VlFDaUxrWDI4bnczMVJTeDV6c3VQLWowU0VWWEljanNTZER5MTlxdjFRRzFiWF9WX3FvYUNpYURVbE05SHF1TXBaONIBuAFBVV95cUxNbUF5aEpHWEFPUnhjRU9wSWV6RER1NnlBbTBwNnU1QnI2ZE9VMDNTM3dBcGhrNG5icWxXNmM2YzV6OHZsNHdDTVZTVHBTdk96eHVQeTJCSV9oWGt6V0dSZkZEU1MyZkZWWS1CejJVdTlpeTlTN2JoeTdUbTVKSXZTeWkwZWw3ZVVrV0F6NGVKUTFJeUFVYWFTc1FpaW9sWGl2OEVGUXl2MkJnbHY4bjZrWF94Ti12UVdM?oc=5",
-  "url": "https://elnacional.com.do/mundo/juez-federal-niega-libertad-dominicano-baleado-agentes-ice-nueva-york_586811.html",
-  "fuente": "El Nacional — La voz de todos",
-  "dominio": "elnacional.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/mundo/juez-federal-niega-libertad-dominicano-baleado-agentes-ice-nueva-york_586811.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se eliminó la atribución \"según el fallo\" que no aparece en la fuente con esa forma, se corrigió \"el juez dijo\" a la atribución exacta, se precisó que el fallo es por escrito, se atribuyó la versión de los videos a la policía de Nueva York, se corrigió \"arrancó\" y \"disparó\" a \"un segundo agente sacó su arma\", se corrigió \"acribillado\" a la fuente, se precisó que la libertad condicional fue por hurto mayor como en la fuente, se atribuyó la calificación de \"inconcebible\" a la organización, se corrigió \"ingresó ilegalmente\" a la fuente con fecha 2021 y el arresto por robo cerca de dos años después, y se añadió que el juez puede pedir fianza ante tribunal de inmigración. Las etiquetas españolas y el inglés se ajustaron en consecuencia.)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-22T01:49:59.973909+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/f9119da383.jpg",
-  "ig_id": "18148651264595246",
-  "ig_fecha": "2026-11-22T01:55:57.785199+00:00"
- },
- {
-  "id": "290a162136",
-  "titulo": "Miss Universo 2026 presenta este sábado su desfile de trajes típicos: cómo verlo desde RD",
-  "titulo_original": "Miss Universo celebra hoy su desfile de trajes típicos: dónde y a qué hora verlo desde República Dominicana",
-  "resumen": "Representantes de más de un centenar de países desfilarán con trajes inspirados en sus culturas. Así puedes verlo gratis desde República Dominicana.",
-  "gancho": "Representantes de más de un centenar de países desfilarán con trajes inspirados en sus culturas. Así puedes verlo gratis desde República Dominicana.",
-  "parrafos": [
-   "Este sábado 21 de noviembre, el certamen Miss Universo 2026 realiza uno de sus eventos más esperados: el desfile de trajes típicos. En la pasarela, las representantes de más de un centenar de países lucirán diseños inspirados en la cultura, las tradiciones y la identidad de sus naciones.",
-   "La actividad tendrá lugar en el Coliseo de Puerto Rico José Miguel Agrelot, en San Juan, como parte de la edición número 75 del concurso.",
-   "Quienes quieran seguirlo desde República Dominicana podrán hacerlo a partir de las 7:00 de la noche, hora local, por el canal oficial de YouTube de Telemundo Entretenimiento. La transmisión será en vivo y gratuita, y también estará disponible para el público internacional desde celulares, computadoras y televisores inteligentes con acceso a internet.",
-   "El desfile será conducido por Clovis Nienow, Yamilex Hernández y la influencer Marena Sofía. Cada candidata presentará una propuesta artística con vestuarios que suelen incluir referencias históricas, culturales y folclóricas de su país.",
-   "La agenda continúa el domingo 22 de noviembre con la competencia preliminar, en la que las participantes desfilarán en traje de baño y vestido de gala. La gran final será el martes 24 de noviembre, también en Puerto Rico, donde se conocerá a la sucesora de la mexicana Fátima Bosch, la actual Miss Universo."
-  ],
-  "claves": [
-   "El desfile de trajes típicos se celebra este sábado 21 de noviembre en San Juan, Puerto Rico.",
-   "Participan representantes de más de un centenar de países.",
-   "La transmisión es gratuita por el canal de YouTube de Telemundo Entretenimiento.",
-   "Comienza a las 7:00 de la noche, hora local en República Dominicana."
-  ],
-  "importa": "Los dominicanos pueden seguir el evento gratis desde su teléfono, computadora o televisor con internet, sin pagar cable.",
-  "en": {
-   "titulo": "Miss Universe 2026 Presents Its National Costume Parade This Saturday: How to Watch From the Dominican Republic",
-   "gancho": "Representatives from more than one hundred countries will parade in costumes inspired by their cultures. Here's how to watch it free from the Dominican Republic.",
-   "claves": [
-    "The national costume parade takes place this Saturday, November 21, in San Juan, Puerto Rico.",
-    "Representatives from more than one hundred countries are taking part.",
-    "The broadcast is free on Telemundo Entretenimiento's official YouTube channel.",
-    "It starts at 7:00 p.m. local time in the Dominican Republic."
-   ],
-   "importa": "Dominicans can watch the event for free on a phone, computer or internet-connected TV, without paying for cable.",
-   "parrafos": [
-    "This Saturday, November 21, the Miss Universe 2026 pageant holds one of its most anticipated events: the national costume parade. On the runway, representatives from more than one hundred countries will wear designs inspired by the culture, traditions and identity of their nations.",
-    "The event will take place at the José Miguel Agrelot Coliseum in San Juan, Puerto Rico, as part of the pageant's 75th edition.",
-    "Viewers in the Dominican Republic can follow it starting at 7:00 p.m. Local time on Telemundo Entretenimiento's official YouTube channel. The live broadcast is free and will also be available to international audiences on phones, computers and internet-connected smart TVs.",
-    "The parade will be hosted by Clovis Nienow, Yamilex Hernández and influencer Marena Sofía. Each contestant will present an artistic proposal with costumes that often include historical, cultural and folkloric references from her country.",
-    "The schedule continues on Sunday, November 22, with the preliminary competition, in which the contestants will compete in swimsuit and evening gown. The grand final will be held on Tuesday, November 24, also in Puerto Rico, where the successor to Mexico's Fátima Bosch, the current Miss Universe, will be crowned."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2hxWmE4aWI3bkc1QmhTRk1DZ1ozZThSbURFd0x2S1o1Wm9pbzFsakVWNWFRVkVQX1BJb0FKUmd0ZkNBMnRsRVg4Y2NpSjg4V1FmOXV4TjRqM1B4d1BJZW9kVGkwYm5sRzNqcEprTFVBRTlSLVR6RzdlUDN5Ry15UHFxSU9jeTZFRnJrb0QzdzFKVXhsVEhJd0MxSlVVN1M4UGJRYjRXRm1jUUhpNTRuM2lKcWXSAboBQVVfeXFMTnlaaDlCcHJzWlN0M29GSGtXc0NxNXpuZDA5VDV5a1JXanJjTnhha29aTTZKYVM2MWxyVFFOaHlyTDE3VFBkcUhYODBfM21pYXpoOWR5MHkzMC1mWlI4OVhneTVGUmI3NGtQSUplWDVtZ0ptdUExdkdabDl3dWZOZmljYkp0ZnBHb2xJTHVzWHhLRml4cG5aQnd4b0Y5LWJKVWRDV29xSXBsd3p3WmdYdnN3LVA0aE9fZ2JR?oc=5",
-  "url": "https://www.diariolibre.com/revista/cultura/2026/11/21/desfile-de-trajes-tipicos-miss-universo-en-san-juan/3727867",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/revista/cultura/2026/11/21/desfile-de-trajes-tipicos-miss-universo-en-san-juan/3727867"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (cambié \"más de cien candidatas\" por \"más de un centenar de países\" en el gancho y el título no cambió; ajusté \"más de cien países\" a \"más de un centenar de países\" para coincidir con la fuente, quité \"Más de cien candidatas desfilarán\" por \"Representantes de más de un centenar de países desfilarán\", y eliminé \"hoy\" del título para no contradecir la fecha; además atribuí la transmisión a Telemundo y quité \"por el canal oficial\" redundante)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-22T01:50:40.818544+00:00",
-  "tendencia": 1
- },
- {
-  "id": "1965842685",
-  "titulo": "Canó asegura que sigue con hambre de ganar un campeonato con las Estrellas",
-  "titulo_original": "Robinson Canó mantiene intacto su deseo de ganar un campeonato",
-  "resumen": "El veterano Robinson Canó dice que su motivación sigue intacta y que su meta con las Estrellas Orientales es ayudar a ganar el título.",
-  "gancho": "El veterano Robinson Canó dice que su motivación sigue intacta y que su meta con las Estrellas Orientales es ayudar a ganar el título.",
-  "parrafos": [
-   "El veterano Robinson Canó aseguró que sigue con ganas de jugar en el béisbol dominicano y que su principal objetivo con las Estrellas Orientales es contribuir a la conquista del campeonato, tanto con su desempeño en el terreno como con su liderazgo fuera de él.",
-   "En entrevista con Cartel Deportivo, que se transmite por YouTube, el intermedista dijo que todavía disfruta cada oportunidad de jugar. Antes había agradecido el cariño recibido en México, donde viene de una destacada actuación.",
-   "Canó recordó que en algún momento condicionó su retiro a ganar un título con el conjunto verde. \"No hemos ganado, por eso sigo aquí. Que ganemos este año para que usted vea\", expresó entre risas.",
-   "El jugador valoró la profundidad de las Estrellas y consideró que la Lidom presenta una competencia equilibrada, con varios equipos en condiciones de luchar por la clasificación.",
-   "Sobre el momento del conjunto, afirmó: \"El equipo se ve bastante bien. Estábamos hace una semana batallando, pero gracias a Dios el equipo cayó en su forma, hemos ganado unos juegos y nos estamos manteniendo en la pelea\"."
-  ],
-  "claves": [
-   "Canó afirma que mantiene intacta su motivación para jugar en la Lidom.",
-   "Condicionó su retiro a ganar un campeonato con las Estrellas Orientales.",
-   "Dijo que el equipo se recuperó tras una semana de dificultades y se mantiene en la pelea."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Canó says he's still hungry to win a championship with the Estrellas",
-   "gancho": "Veteran Robinson Canó says his motivation is undiminished and his goal with the Estrellas Orientales is to help win the title.",
-   "claves": [
-    "Canó says his motivation to play in the Dominican Winter League (Lidom) remains intact.",
-    "He once tied his retirement to winning a championship with the Estrellas Orientales.",
-    "He said the team recovered its form after a week of struggles and is staying in the fight."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Veteran Robinson Canó says he still has the desire to play in Dominican baseball, and his main goal with the Estrellas Orientales is to help win the championship, both through his performance on the field and his leadership off it.",
-    "In an interview with Cartel Deportivo, which airs on YouTube, the infielder said he still enjoys every chance to play. Earlier, he had thanked the fans in Mexico for the affection he received there, where he has come off an outstanding performance.",
-    "Canó recalled that at one point he conditioned his retirement on winning a title with the green team. \"We haven't won, so that's why I'm still here. Let's win this year so you can see,\" he said, laughing.",
-    "The player praised the depth of the Estrellas and said the Lidom features balanced competition, with several teams in position to fight for a playoff spot.",
-    "On the team's form, he said: \"The team looks pretty good. We were struggling a week ago, but thank God the team found its form, we've won some games, and we're staying in the fight.\""
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczBzUC1BNi1FZXhJYXVNWUU2UUp1SnZqZE1ZNWl2UE4zVzRKazZYRnlVZGQ1WGNrUnpBZGZPRUZRUnN0SVQ2VUwzZzdMbHJxclU4QURwRmFMWXRtZDNYSDByNEJMSWk0VjRwVDEtQlJJcWVDR0IyZHNXMllqMXlNWUVPNnItLU9xdzh4c0xvUkZ2alQxVW9tajlIVUZqaDUyT21QN25GVDBlUF92RWtBTkViaw?oc=5",
-  "url": "https://lidom.com/estrellas-orientales/robinson-cano-mantiene-intacto-su-deseo-de-ganar-un-campeonato-101033.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/estrellas-orientales/robinson-cano-mantiene-intacto-su-deseo-de-ganar-un-campeonato-101033.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Antes había agradecido el cariño\" → se mantiene; ajusté \"dentro como fuera del terreno\" a \"fuera del terreno\" según fuente; corregí \"pero\" en español; quité \"dentro\" del \"tanto dentro como fuera\" para seguir la fuente; cambié \"tuvo una destacada actuación\" a \"viene de una destacada actuación\"; atribuí el \"gracias a Dios\" y el \"primera\" cita correctamente; ajusté \"conquistar\" por \"conquista\"; en el inglés quité \"and is back in the race\" por \"and is staying in the fight\" y \"outstanding season\" → \"outstanding performance\"; \"Dominican Winter League\" → \"Lidom\"; \"fans\" → \"the affection he received\"; \"difficult week\" → \"struggling a week ago\")",
-  "seccion": "Deportes",
-  "fecha": "2026-11-22T01:51:31.052723+00:00",
-  "tendencia": 1
- },
- {
-  "id": "2d9cc4a2ea",
-  "titulo": "Marcell Ozuna amplía ventaja con jonrón",
-  "titulo_original": "Marcell Ozuna amplía ventaja con jonrón",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXY0xfdXRUQVl3NnJ2YXROYWtLSWRzcGVaVlN3ZGFQVFZLaEMtT0lITm1BSmJBQmZUUWpvc1RLemxsR3I5cUVPcVB3ZnRJY0ZfSHZtVTVQT3VxaHhuVmFXdDFfWG00OTgxNGpTSE9BNTVaOV9RSUxz?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T01:51:33.879482+00:00"
- },
- {
-  "id": "4c6525af6a",
-  "titulo": "MLB Gameday: Carolina 5, Caguas 6 Resultado Final (21/11/2026)",
-  "titulo_original": "MLB Gameday: Carolina 5, Caguas 6 Resultado Final (21/11/2026)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2lHZzliWTdJSGp5Znl1R2dWaUlVTmxfOWczbW5JSmxDTGNPTnZsRVNON1hBd3lBTnRzUWtGQXlyUUVleTRVQmVkNkJJalN2T2Q2dmVYNVF2RHdTVmFCNVFPN1BnX0NPODNuV2lvN0xsUWhLX0NhSTUwN0RNREk4RWJfSFc?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T01:51:35.881540+00:00"
  }
 ]
