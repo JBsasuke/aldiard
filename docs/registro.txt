@@ -1,115 +1,104 @@
-Corrida: 2026-11-23 06:47 PM (hora RD)
+Corrida: 2026-11-23 07:47 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2431 letras -> https://presidencia.gob.do/noticias/minerd-acuerda-con-digital-school-fortalecer-el-aprendizaje-digital-en-las-escuelas
 [República Dominicana] Z Digital: texto leído 3023 letras -> https://z101digital.com/educacion-y-the-digital-school-acuerdan-incorporar-inteligencia-artificial-en-las-escuelas-publicas/
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Z Digital
-Rechazada por la revisión: Minerd acuerda con The Digital School fortalecer el aprendizaje digital en las escuelas -> cifras que no aparecen en las fuentes: 0
+Revisión: corregida (Ajusté "Universidad Estatal de Arizona" a "Arizona State University" en inglés, que ya estaba bien; principal
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] DIRECCIÓN GENERAL DE MIGRACIÓN: texto leído 0 letras -> https://migracion.gob.do/foro/Debate/dgm-amplia-intervenciones-en-el-gran-santo-domingo-y-dn/
+No se pudo leer el artículo; no se publica para no salir corta: DGM amplía intervenciones en el Gran Santo Domingo y DN
+[República Dominicana] Dirección de Epidemiología: texto leído 185 letras -> https://viepi.epidemiologia.gob.do/dashboard
+No se pudo leer el artículo; no se publica para no salir corta: - Dirección de Epidemiología
+[República Dominicana] DGII: texto leído 364 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/nombre-de-negocio-a-persona-fisica/6b04afab4895ae0f6e316fd9
+No se pudo leer el artículo; no se publica para no salir corta: Nombre de negocio a persona fisica
 [República Dominicana] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6721-republica-dominicana-declaracion-final-del-personal-tecnico-al-termino-de-la-mision-de-consulta-del-articulo-iv-correspondiente-a-2026
 Fuente oficial encontrada: Banco Central de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los datos que me has pasado. La única versión que tengo es la página de la sala de prensa del Banco Central de la República Dominicana, que contiene ')
-[República Dominicana] DGII: texto leído 515 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/problemas-en-reporte-de-ecf-emitidos/6b04552e3a9daeeaea718398
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): PROBLEMAS EN REPORTE DE ECF EMITIDOS
-[República Dominicana] De Último Minuto: texto leído 1811 letras -> https://deultimominuto.com/nacionales/justicia/operacion-rompeolas-aplazan/
-[República Dominicana] Diario Libre: texto leído 4331 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/23/aplazan-audiencia-contra-acusados-de-operacion-rompeolas/3729406
-[República Dominicana] El Nuevo Diario: texto leído 4612 letras -> https://elnuevodiario.com.do/aplazan-coercion-contra-acusados-en-operacion-rompeolas-regidor-denuncia-persecucion-politica/
-Revisión: corregida (se corrigió "Julio Zorrilla" no aparece en el borrador; se corrigió atribución de "Diario Libre" y "El Nuevo 
-[República Dominicana] De Último Minuto: texto leído 3991 letras -> https://deultimominuto.com/nacionales/paino-henriquez-destaca-parques/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Paíno Henríquez destaca recuperación de parques y califica de «histórica» gestión de Carolina Mejía
-[República Dominicana] De Último Minuto: texto leído 2522 letras -> https://deultimominuto.com/nacionales/merido-torres-califica/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Mérido Torres califica a Carolina Mejía como “la mejor alcaldesa de América Latina”
-[República Dominicana] De Último Minuto: texto leído 1917 letras -> https://deultimominuto.com/internacionales/jair-bolsonaro-es-diagnosticado/
-[República Dominicana] ABC Color: texto leído 1566 letras -> https://www.abc.com.py/internacionales/2026/11/23/bolsonaro-es-diagnosticado-con-neumonia-tras-ser-internado-por-una-obstruccion-intestinal/
-[República Dominicana] El Tiempo: texto leído 5128 letras -> https://www.eltiempo.com/mundo/latinoamerica/expresidente-de-brasil-jair-bolsonaro-es-diagnosticado-con-neumonia-y-seguira-en-cuidados-intensivos-esto-es-lo-que-se-sabe-sobre-su-estado-de-salud-3603546
-Cambiada de sección: República Dominicana -> Internacionales: Jair Bolsonaro es diagnosticado con neumonía tras ser internado por una obstrucción intestinal
-Revisión: corregida (eliminé "Bolsonaro ya responde a los antibióticos" porque solo lo dice El Tiempo y no está atribuido; atribuí
-[República Dominicana] De Último Minuto: texto leído 2713 letras -> https://deultimominuto.com/estilo/leidy-perez-destaca/
-Revisión: corregida (se cambió "El Nuevo Diario" a "El Nuevo Diario TV" en la mención de la entrevista para ser fiel a la fuente; 
-[República Dominicana] De Último Minuto: texto leído 3197 letras -> https://deultimominuto.com/estilo/ligia-bonetti-destaca/
-Revisión: corregida (eliminé "Según Bonetti" del último punto de CLAVES y "dijo" en vez de atribuciones repetidas no necesarias; r
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar una noticia a partir de este material. La única versión que me has pasado es la página web del Banco Central de la República Dominicana, y en el texto solo aparecen menús ')
+[República Dominicana] DGII: texto leído 444 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/descarga-reporte-excell-encf/6b04a89d4895ae0f6e30f2e4
+No se pudo leer el artículo; no se publica para no salir corta: DESCARGA REPORTE EXCELL ENCF
+[República Dominicana] De Último Minuto: texto leído 4010 letras -> https://deultimominuto.com/uncategorized/estados-unidos-supero-3-1-a-rd-en-arranque-de-super-ronda-del-campeonato-panamericano-de-beisbol-sub-12/
+Cambiada de sección: República Dominicana -> Deportes: Estados Unidos superó 3-1 a RD en arranque de súper ronda del Campeonato Panamericano de Béisbol Sub-12
+Revisión: corregida (corregí el orden de la jugada de la primera entrada: García Jr. no conectó cuadrangular, fue Hennessey quien 
+[República Dominicana] De Último Minuto: texto leído 3661 letras -> https://deultimominuto.com/nacionales/garcia-denuncia-proxenetismo/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Hansel García denuncia posible red de proxenetismo tras muerte de camarera en bar de Esperanza
+[República Dominicana] De Último Minuto: texto leído 3571 letras -> https://deultimominuto.com/estilo/rendon-cerrara-cumbre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): JJ Rendón cerrará la Cumbre Latinoamericana con una magistral conferencia sobre campañas sucias y Fake News
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5911 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Instituto Nacional de Formación Técnico Profesional (INFOTEP) -: texto leído 0 letras -> https://infotep.gob.do/noticias/empresario-destaca-el-aporte-del-infotep-a-la-formacion-del-talento-humano-y-al-desarrollo-empresarial/
-No se pudo leer el artículo; no se publica para no salir corta: Empresario destaca el aporte del INFOTEP a la formación del talento humano y al desarrollo empresarial
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2651 letras -> https://centralnoticias.gob.do/pro-consumidor-destruye-mas-de-35-mil-productos-decomisados-en-negocios-chinos/
-[Dominicanos en EE.UU.] N Digital: texto leído 2763 letras -> https://n.com.do/2026/11/23/pro-consumidor-destruye-mas-de-35-mil-productos-decomisados-en-comercios-chinos-por-riesgos-a-la-salud/
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2726 letras -> https://elnuevodiario.com.do/pro-consumidor-destruye-mas-de-35-mil-productos-ilicitos-decomisados-en-negocios-chinos/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: N Digital
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Pro Consumidor destruye más de 35 mil productos decomisados en negocios chinos
-Rechazada por la revisión: Pro Consumidor destruye más de 35 mil productos decomisados en negocios chinos -> cifras que no aparecen en las fuentes: 147, 35000
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Library of Congress (.gov): texto leído 0 letras -> https://www.loc.gov/item/hlas-bi86105456/
-No se pudo leer el artículo; no se publica para no salir corta: Petán, La Voz Dominicana}: su gente, sus cosas y sus cuentos
-[Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
-Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los datos que me has pasado. El único texto disponible es un pronóstico marino de la Oficina Nacional de Meteorología de EE.UU. (NOAA/NWS San Juan, P')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que pegaste está incompleto: solo contiene el menú de navegación y los enlaces del sitio del Ministerio de Administración Pública, y se corta antes de llegar a la noticia. En ')
 [Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 940 letras -> https://www.justice.gov/usao-ct
 Fuente oficial encontrada: Department of Justice (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): About the District of Connecticut
-[Internacionales] The White House (.gov): texto leído 4034 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/
+[Dominicanos en EE.UU.] Borough of Bergenfield, New Jersey (.gov): texto leído 1657 letras -> https://bergenfieldnj.gov/
+Fuente oficial encontrada: Borough of Bergenfield, New Jersey (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Dominicanos en EE.UU.] Acento: texto leído 1265 letras -> https://acento.com.do/entretenimientos/dominicanos-a-simple-vista-llegara-a-univision-el-20-de-diciembre-9795309.html
+[Dominicanos en EE.UU.] Noticias SIN: texto leído 2236 letras -> https://noticiassin.com/vida-y-estilo/streaming/2026/11/23/dominicanos-a-simple-vista-llega-a-univision-con-marianne-cruz-2175234/
+Revisión: corregida (se quitó "Según los textos" y se atribuyó la afirmación sobre el contenido a las fuentes; se precisó que el a
+[Dominicanos en EE.UU.] Diario Libre: texto leído 2941 letras -> https://www.diariolibre.com/amp/usa/actualidad/2026/11/23/dominicano-esta-acusado-de-un-doble-asesinato-en-el-bronx-en-1993/3729019
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Dominicano es extraditado a Nueva York para responder por un doble asesinato cometido en 1993
+Revisión: corregida (eliminé "compareceráa" por "comparecerá"; atribuí a Diario Libre los datos de la pareja, el caso y la acusaci
+Fuente no confiable, se salta: elsoldelaflorida.com
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 3232 letras -> https://eldia.com.do/rd-proyecta-producir-25-millones-de-pollos-en-diciembre-para-atender-demanda-navidena/
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2721 letras -> https://elnuevodiario.com.do/abinader-proyecta-produccion-de-25-mm-de-pollos-en-diciembre-y-destaca-exportacion-de-huevos-a-tres-paises/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: RD proyecta producir 25 millones de pollos en diciembre para atender demanda navideña
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité "Según El Nuevo Diario" porque la fuente de esa atribución no coincide: la c
+Revisión: corregida (quité "Según El Nuevo Diario" porque la fuente de esa atribución no coincide: la cumbre y el primer ministro 
+[Internacionales] The White House (.gov): texto leído 2895 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers
-[Internacionales] U.S. Department of State (.gov): texto leído 1899 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network/
-[Internacionales] U.S. Virtual Embassy Iran (.gov): texto leído 2291 letras -> https://ir.usembassy.gov/severing-the-financial-lifelines-of-irans-shadow-banking-network/
-Fuente oficial encontrada: U.S. Department of State (.gov), U.S. Virtual Embassy Iran (.gov) 
-Revisión: corregida (ajusté "Economic Outcast" a "Operation Economic Outcast" en el español donde faltaba "Operación"; eliminé "en
-[Famosos] CDN: texto leído 1979 letras -> https://cdn.com.do/internacionales/boston-se-prepara-para-la-cumbre-internacional-de-lideres-latinos/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Boston se prepara para la Cumbre Internacional de Líderes Latinos
-[Famosos] Diario Libre: texto leído 2638 letras -> https://www.diariolibre.com/revista/cultura/2026/11/23/museo-del-hombre-dominicano-a-museo-de-antropologia-dominicana/3729407
-Cambiada de sección: Famosos -> República Dominicana: Una cuestión de género: el Museo del Hombre cambiará de nombre
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité "en entrevista con Diario Libre" de la atribución de Salcedo, porque la fuen
-Revisión: corregida (quité "en entrevista con Diario Libre" de la atribución de Salcedo, porque la fuente no dice que fuera entrev
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes
+[Internacionales] The White House (.gov): texto leído 3606 letras -> https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/
+Fuente oficial encontrada: The White House (.gov) 
+Revisión: corregida (se quitó la afirmación de que la cifra de 90 % y las cifras de criminalidad "no fueron verificadas" por otros
 [Famosos] El Dia.com.do: texto leído 4891 letras -> https://eldia.com.do/luis-medrano-a-favor-de-union-de-productores-para-fortalecer-industria-del-entretenimiento/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Luis Medrano a favor de unión de productores para fortalecer industria del entretenimiento
-[Famosos] CDN: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Fucimdres reconoce al embajador dominicano en Francia por su labor diplomática
+[Famosos] CDN: texto leído 1979 letras -> https://cdn.com.do/internacionales/boston-se-prepara-para-la-cumbre-internacional-de-lideres-latinos/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Boston se prepara para la Cumbre Internacional de Líderes Latinos
 [Famosos] Diario Libre: texto leído 3917 letras -> https://www.diariolibre.com/revista/sociales/2026/11/23/firma-dominicana-inaugura-su-nueva-sede/3729388
 La IA la descartó (no es noticia, rumor, opinión o publicidad): La Firma Dominicana inaugura su nueva sede
 [Famosos] El Dia.com.do: texto leído 1974 letras -> https://eldia.com.do/arena-de-santo-domingo-abriria-en-febrero-de-2027-con-capacidad-para-13-mil-personas/
 Cambiada de sección: Famosos -> República Dominicana: Arena de Santo Domingo abriría en febrero de 2027 con capacidad para 13 mil personas
 Rechazada por la revisión: Arena de Santo Domingo abriría en febrero de 2027 con capacidad para 13 mil personas -> cifras que no aparecen en las fuentes: 1000, 13000, 9000
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/jalisco-vs-mexicali/2026/11/26/850395/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Jalisco vs. Mexicali, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/guasave-vs-los-mochis/2026/11/26/850391/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Guasave vs. Los Mochis, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/850375/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Culiacan vs. Guasave, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/850377/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Obregon vs. Los Mochis, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/news/un-equipo-de-cada-posicion-que-necesita-una-mejoria-alli
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNota: No puedo redactar una noticia a partir de estos textos porque no contienen un hecho noticioso concreto que los medios hayan reportado. Son artículos de análisis y especulación de ')
+[Famosos] CDN: texto leído 4750 letras -> https://cdn.com.do/internacionales/tormenta-amenaza-desfile-de-accion-de-gracias-en-nueva-york-y-complica-viajes-en-ee-uu/
+Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Tormenta amenaza desfile de Acción de Gracias en Nueva York y complica viajes en EE. UU.
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (la fuente de los pronósticos es CDN, no CNN; "Centro de Predicción Meteorológica" 
+Revisión: corregida (la fuente de los pronósticos es CDN, no CNN; "Centro de Predicción Meteorológica" se atribuye a la fuente en 
+[Famosos] Diario Libre: texto leído 2656 letras -> https://www.diariolibre.com/actualidad/sucesos/2026/11/23/feminicidios-en-republica-dominicana-estadisticas-alarmantes/3729353
+Cambiada de sección: Famosos -> República Dominicana: Cada tres días y medio asesinan a una mujer o niña por violencia de género en RD
+Revisión: corregida (eliminé "Es un promedio..." redundante en ES; corregí "% of the killings" a "59.9% of the killings" en la cla
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851523?ins=resultado&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas y resultado del juego Toros del Este vs Estrellas Orientales
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/amp/news/un-equipo-de-cada-posicion-que-necesita-una-mejoria-alli.html
+Revisión: corregida (se corrigió la atribución de Posey: el borrador no lo menciona, y se añadió que el análisis es de MLB.com; se
 [Deportes] MLB.com: texto leído 1762 letras -> https://www.mlb.com/news/robert-stephenson-dodgers-minor-league-contract
 Rechazada por la revisión: Dodgers take a flier on reliever Stephenson to bulk up bullpen options (source) -> cifras que no aparecen en las fuentes: 2023
-[Precios y combustibles] Infobae: texto leído 3635 letras -> https://www.infobae.com/noticias/2026/11/23/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-23-de-noviembre/?outputType=amp-type
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia a partir de los textos que me diste. Solo hay una versión, de Infobae, que es un periódico y no una fuente oficial, y su contenido no es una noticia conc')
-Fuente no confiable, se salta: bloomberglinea.com
-[Precios y combustibles] Acento: texto leído 2444 letras -> https://acento.com.do/economia/congresistas-de-eeuu-hablan-de-aranceles-y-comercio-con-canciller-bisono-9795439.html
-[Precios y combustibles] Clarin.com: texto leído 2887 letras -> https://www.clarin.com/estados-unidos/el-canciller-dominicano-habla-con-tres-congresistas-de-ee-uu-sobre-aranceles-y-comercio_0_5m3YWlntH0.html
-[Precios y combustibles] Noticias SIN: texto leído 3145 letras -> https://noticiassin.com/pais/nacional/2026/11/23/bisono-recibe-a-congresistas-de-ee-uu-por-aranceles-y-comercio-2175397/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Congresistas de EEUU hablan de aranceles y comercio con canciller Bisonó
-Revisión: corregida (quité frases de relleno y "impacta", corregí el inglés de "1.042,8 millones" a "$1.0428 billion" y lo alineé 
+[Deportes] MLB.com: texto leído 5763 letras -> https://www.mlb.com/news/brewers-closer-trevor-megill-has-two-elite-pitches
+Revisión: corregida (cambié "Su valor de carrera de +21 lo coloca como el lanzador de relevo con mejor aporte en 2026" a "encabeza
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: robertocavada.com
 [Precios y combustibles] El Dia.com.do: texto leído 1929 letras -> https://eldia.com.do/inespre-beneficiara-a-952000-personas-con-jornadas-de-venta-de-alimentos-en-navidad/
 Rechazada por la revisión: Inespre beneficiará a 952,000 personas con jornadas de venta de alimentos en Navidad -> cifras que no aparecen en las fuentes: 0
+Fuente no confiable, se salta: revistamercado.do
+[Precios y combustibles] De Último Minuto: texto leído 6270 letras -> https://deultimominuto.com/economia/canasta-basica/
+Rechazada por la revisión: La canasta básica está muy por encima del salario mínimo y del promedio -> cifras que no aparecen en las fuentes: 29988
+Fuente no confiable, se salta: diariodigitalrd.com
+[Precios y combustibles] CDN: texto leído 5575 letras -> https://cdn.com.do/nacionales/abinader-anuncia-navidad-360-con-15-millones-de-raciones/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Navidad 360: estas son las ayudas que llegarán a los hogares dominicanos
+Rechazada por la revisión: Navidad 360: estas son las ayudas que llegarán a los hogares dominicanos -> cifras que no aparecen en las fuentes: 88
 [Videojuegos] Nintendo: texto leído 925 letras -> https://www.nintendo.com/us/whatsnew/gather-the-crew-for-a-little-multiplayer-mayhem/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gather the crew for a little multiplayer mayhem!
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo siento, no puedo redactar una noticia a partir de esta fuente. El texto corresponde a la portada del sitio oficial de Nintendo, con anuncios de productos, promociones y términos de s')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
 [Videojuegos] Nintendo Support: texto leído 1230 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/26317/~/controller-not-responding-after-using-find-controllers-feature-on-nintendoapp/answers/list/kw/%7Bsearch_term_string%7D
 Fuente oficial encontrada: Nintendo Support 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Controller not responding after using Find Controllers feature on Nintendo Switch
-[Videojuegos] Nintendo: texto leído 308 letras -> https://www.nintendo.com/us/store/products/paint-for-kids-little-artist-edition-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: Paint For Kids Little Artist Edition
 [Videojuegos] Nintendo: texto leído 2416 letras -> https://www.nintendo.com/us/store/products/little-genius-spot-the-difference-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
-[Videojuegos] Nintendo Support: texto leído 950 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/68494/~/joy-con%26nbsp%3B2-feel-loose-or-wobbly
-Fuente oficial encontrada: Nintendo Support 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Joy-Con 2 feel loose or wobbly
+[Videojuegos] Nintendo: texto leído 719 letras -> https://www.nintendo.com/en-gb/DLC/Barbie-Rewind-Y2K-Style-Pack-3248330.html
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Y2K Style Pack
 [Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Ornament as a Gift with Purchase from Pokémon Center
@@ -122,26 +111,21 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Why I choose t
 [Videojuegos] Pokemon.com: texto leído 3663 letras -> https://press.pokemon.com/en/releases/MEDIA-ALERT-Celebrate-the-Holiday-Season-at-the-Macys-Thanksgiving-Day
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MEDIA ALERT: Celebrate the Holiday Season at the Macy’s Thanksgiving Day Parade® with Pikachu and Eevee
-[Videojuegos] Nintendo: texto leído 5718 letras -> https://www.nintendo.com/es-es/Ayuda/Localizacion-y-resolucion-de-problemas/Battery-replacement/Procedimiento-para-sustituir-la-bateria-del-mando-Pro-de-Nintendo-Switch-2-si-cuenta-con-una-bateria-que-se-puede-sustituir--3231624.html
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se cambió "El modelo BEE-008(-01)... identificado" a "identificado como BEE-008(-01)" en el primer párrafo de
+[Videojuegos] Nintendo: texto leído 468 letras -> https://www.nintendo.com/es-ar/store/products/disney-dreamlight-valley-the-keepsake-sea-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Disney Dreamlight Valley - Edición The Keepsake Sea
 [Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-cl/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
 [Videojuegos] Nintendo: texto leído 3541 letras -> https://www.nintendo.com/es-cl/store/products/killer-clown-girl-her-final-show-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Killer Clown Girl: Her Final Show
-[Videojuegos] Nintendo: texto leído 1509 letras -> https://www.nintendo.com/es-mx/store/products/seedbo-and-that-time-the-sun-exploded-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Seedbo And That Time The Sun Exploded
-[Videojuegos] Nintendo: texto leído 2436 letras -> https://www.nintendo.com/es-co/store/products/i-fell-for-the-florist-a-suspense-romance-adventure-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
-Instagram: 29 usadas en 24 horas, quedan 13; esta corrida sube hasta 3.
+[Videojuegos] Nintendo: texto leído 343 letras -> https://www.nintendo.com/es-cl/store/products/moto-rush-gt-omega-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Moto Rush GT Omega Edition
+Instagram: 33 usadas en 24 horas, quedan 9; esta corrida sube hasta 3.
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-16 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 60 · ya cubiertas: 10 · no confiables: 3 · opinión: 0 · con texto leído: 49 · sin texto: 8 · medios juntados: 7 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 1 · error IA: 6 · descartadas por la IA: 20 · cambiadas de sección: 5 · largas: 8 · ocultas (cortas): 8
-Para Instagram (tendencia 4): Aplazan para el 4 de diciembre audiencia de coerción contra 22 imputados en Operación Rompeolas
-Para Instagram (tendencia 4): Santiago celebra el Día Nacional del Merengue con diálogo y música en vivo sobre el típico
-Para Instagram (tendencia 3): Canciller Bisonó recibe a congresistas de EE.UU. para hablar de aranceles y comercio
+17 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 59 · ya cubiertas: 15 · no confiables: 5 · opinión: 0 · con texto leído: 39 · sin texto: 7 · medios juntados: 3 · con fuente oficial: 18 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 18 · cambiadas de sección: 7 · largas: 10 · ocultas (cortas): 7
+Para Instagram (tendencia 3): RD proyecta 25 millones de pollos en diciembre y amplía exportación de huevos
+Para Instagram (tendencia 3): Redman exige cuentas por RD$75 millones para emprendimientos y cuestiona fondo CONFIE
+Para Instagram (tendencia 3): Gobierno entregará bono navideño de RD$1,500 a 2,753,781 beneficiarios desde el domingo
