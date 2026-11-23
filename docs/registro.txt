@@ -1,88 +1,101 @@
-Corrida: 2026-11-23 11:47 AM (hora RD)
+Corrida: 2026-11-23 12:48 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2812 letras -> https://presidencia.gob.do/noticias/la-republica-dominicana-y-la-oaci-firman-acuerdo-para-modernizar-aviacion-civil
+[República Dominicana] El Nuevo Diario: texto leído 2555 letras -> https://elnuevodiario.com.do/rd-y-la-oaci-acuerdan-modernizar-el-sistema-de-aviacion-civil-dominicano/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (ajusté el título para usar "acuerdo para evaluar" en vez de "acuerdo para modernizar", que sobreafirma; elimi
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2741 letras -> https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: DIDA ofrece más de 1.4 millones de asistencias y evita cobros indebidos por 116 millones de pesos en 2026 -> cifras que no aparecen en las fuentes: 17, 466207
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4723 letras -> https://presidencia.gob.do/noticias/idac-recibe-respaldo-notas-de-estudios-presentadas-en-7a-conferencia-mundial-de-transporte
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "Según el organismo" repetido en el primer párrafo sin atribuir afirmaciones nuevas, quité "con el ap
+Rechazada por la revisión: DIDA ofrece más de 1.4 millones de asistencias y evita cobros indebidos por 116 millones de pesos en 2026 -> cifras que no aparecen en las fuentes: 466207
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2800 letras -> https://presidencia.gob.do/noticias/ministerio-de-deportes-entrega-techado-en-la-guayiga-en-pedro-brand
+[República Dominicana] El Nuevo Diario: texto leído 2670 letras -> https://elnuevodiario.com.do/kelvin-cruz-entrega-techado-en-la-guayiga-y-fortalece-el-desarrollo-deportivo-de-pedro-brand/
+[República Dominicana] Listin Diario: texto leído 2891 letras -> https://listindiario.com/el-deporte/olimpismo/20261122/miderec-entrega-techado-guayiga-fortalece-desarrollo-pedro-brand_931113/amp.html
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Listin Diario
+Rechazada por la revisión: Ministerio de Deportes entrega techado en La Guáyiga, en Pedro Brand -> cifras que no aparecen en las fuentes: 244
+[República Dominicana] Ministerio de Administración Pública: texto leído 5067 letras -> https://map.gob.do/transparencia/compras-y-contrataciones-publicas/
+Fuente oficial encontrada: Ministerio de Administración Pública 
+Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir la noticia con este material, porque la única versión que me pasaste es una página de navegación del portal del Ministerio de Administración Pública: menús, enlaces y categorías como')
 [República Dominicana] DGII: texto leído 1081 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-del-comprador-en-facturas-de-consumo-electrnicas-e32-menores-de-rd250000/6b03058e3a9daeeaea53b91f
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación del comprador en facturas de consumo electrónicas E32 menores de RD$250,000
-[República Dominicana] De Último Minuto: texto leído 4372 letras -> https://deultimominuto.com/economia/anje-respalda-proyecto-de-ley/
-[República Dominicana] El Nuevo Diario: texto leído 4087 letras -> https://elnuevodiario.com.do/anje-respalda-proyecto-de-ley-de-jurisdiccion-contencioso-administrativa-y-presenta-observaciones-tecnicas/
-Revisión: corregida (se corrigió "un tribunal de primera instancia" a "un tribunal contencioso administrativo de primera instancia
-[República Dominicana] De Último Minuto: texto leído 3607 letras -> https://deultimominuto.com/nacionales/policia-identifica-a-los-diez/
-Revisión: corregida (eliminé frases de relleno, corregí "fue indicado" no aplica; ajusté "Pekín" sin cambios, precisé que la lista
-[Dominicanos en EE.UU.] ideice.gob.do: texto leído 7000 letras -> https://ideice.gob.do/documentacion/publicaciones-msg-set-id-1-art-283-actitudes-docentes-ante-la-inclusion-de-estudiantes-con-necesidades-especificas-de-apoyo-educativo-en-la-republica-dominicana
-Fuente oficial encontrada: ideice.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Instituto Dominicano de Evaluación e Investigación de la Calidad Educativa
+[República Dominicana] De Último Minuto: texto leído 2554 letras -> https://deultimominuto.com/internacionales/la-captura-del-narco-mexicano/
+[República Dominicana] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/mundo/america-latina/2026/11/23/sube-a-20-la-cifra-de-muertos-captura-capo-mexicano-chapo-isidro/3729054
+Cambiada de sección: República Dominicana -> Internacionales: La captura del narco mexicano ‘Chapo Isidro’, uno de los más buscados, deja veinte muertos
+Revisión: corregida (corregí el número de detenidos de 16 a 16 militares... no; ver abajo)
+[República Dominicana] De Último Minuto: texto leído 6430 letras -> https://deultimominuto.com/nacionales/conani-celebra-48-anos/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité la mención de "Día Mundial de la Infancia" como fecha de aprobación implícit
+Rechazada por la revisión: En el Día Mundial de la Infancia, CONANI celebra 48 años de compromiso con la niñez y la adolescencia -> cifras que no aparecen en las fuentes: 35000
+[República Dominicana] De Último Minuto: texto leído 7000 letras -> https://deultimominuto.com/nacionales/la-frontera-concentra-pobreza-mas-profunda-del-pais-la-region-ozama-mayor-numero-de-pobres/
+Revisión: corregida (se corrigió "Según el mapa... Ministerio de Hacienda y Economía" con atribución exacta; se agregó "en 2024" a
+[República Dominicana] De Último Minuto: texto leído 1817 letras -> https://deultimominuto.com/nacionales/policia-apresa-hombre-tras-asalto/
+Revisión: corregida (se cambió "La Policía Nacional" por "la Policía Nacional" en el inicio; se corrigió "Preventiva" sin cambios 
 [Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
 Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Dominicanos en EE.UU.] Borough of Bergenfield, New Jersey (.gov): texto leído 1657 letras -> https://bergenfieldnj.gov/
-Fuente oficial encontrada: Borough of Bergenfield, New Jersey (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es la portada del sitio oficial del municipio de Bergenfield, Nueva Jersey, con una lista de avisos recientes (recolección de hojas, una clínica ')
-Fuente no confiable, se salta: tributearchive.com
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1922 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-domingo-22-de-noviembre/
-[Dominicanos en EE.UU.] MILENIO: texto leído 3269 letras -> https://www.milenio.com/comunidad/resultados-sorteo-zodiaco-1769-22-noviembre-2026
-[Dominicanos en EE.UU.] Infobae: texto leído 4080 letras -> https://www.infobae.com/mexico/2026/11/23/sorteo-zodiaco-1769-resultados-de-la-loteria-nacional-del-domingo-22-de-noviembre/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Domingo 22 de noviembre
-Fuente no confiable, se salta: eljaya.com
-Fuente no confiable, se salta: elpregonerord.com
-Fuente no confiable, se salta: cachicha.com
-Fuente no confiable, se salta: labazuca.com
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es un pronóstico marino rutinario del Servicio Nacional de Meteorología de EE.UU. (NOAA) para las aguas de Puerto Rico y las Islas Vírgenes de EE.UU. Es una actualizac')
+Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: elsoldelaflorida.com
-Fuente no confiable, se salta: newsinamerica.com
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1922 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-domingo-22-de-noviembre/
+[Dominicanos en EE.UU.] Infobae: texto leído 4080 letras -> https://www.infobae.com/mexico/2026/11/23/sorteo-zodiaco-1769-resultados-de-la-loteria-nacional-del-domingo-22-de-noviembre/
+[Dominicanos en EE.UU.] MILENIO: texto leído 3269 letras -> https://www.milenio.com/comunidad/resultados-sorteo-zodiaco-1769-22-noviembre-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Domingo 22 de noviembre
 Fuente no confiable, se salta: noticentro.com.do
 Fuente no confiable, se salta: youtu.be
 Fuente no confiable, se salta: eljaya.com
-Fuente no confiable, se salta: espaciodeprensa.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2941 letras -> https://elnuevodiario.com.do/reconocen-a-miami-como-una-de-las-grandes-ciudades-digitales-de-ee-uu/
-Rechazada por la revisión: Reconocen a Miami como «una de las grandes ciudades digitales de EE. UU.» -> cifras que no aparecen en las fuentes: 250000, 499999
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 1905 letras -> https://elnuevodiario.com.do/rosario-destaca-la-participacion-diversos-sectores-durante-encuentro-con-lf-en-el-bronx/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Rosario destaca la participación diversos sectores durante encuentro con LF en El Bronx
 Fuente no confiable, se salta: prensa-latina.cu
 Fuente no confiable, se salta: newsinamerica.com
 [Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 4480 letras -> https://elnacional.com.do/politica/instituto-duartiano-advierte-crisis-haiti-mantiene-republica-dominicana-alto-nivel-amenaza_586959.html
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste se corta antes de terminar y solo tengo una fuente (El Nacional, una versión periodística, no fuente oficial). Puedo redactar la noticia con lo que hay, pero an')
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Instituto Duartiano advierte Haití mantiene a RD con alto nivel de amenaza
+Revisión: corregida (se quitó "en declaraciones publicadas por El Nacional" del lead del texto para no atribuir mal; se corrigió "
+Fuente no confiable, se salta: asturiasmundial.com
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2941 letras -> https://elnuevodiario.com.do/reconocen-a-miami-como-una-de-las-grandes-ciudades-digitales-de-ee-uu/
+Rechazada por la revisión: Reconocen a Miami como «una de las grandes ciudades digitales de EE. UU.» -> cifras que no aparecen en las fuentes: 250000, 499999
+[Dominicanos en EE.UU.] AlMomento.net: texto leído 5074 letras -> https://almomento.net/ny-pide-jce-extienda-fines-de-semana-operativos-cedulacion/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé la frase "En entrevista con AlMomento.net" porque la fuente es una nota de
+Rechazada por la revisión: NY: Pide JCE extienda fines de semana operativos cedulación -> cifras que no aparecen en las fuentes: 275000
 [Internacionales] The White House (.gov): texto leído 1169 letras -> https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-nationalthanksgiving-turkey-pardon-ceremony/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Internacionales] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
-[Internacionales] NHC (.gov): texto leído 714 letras -> https://www.nhc.noaa.gov/mobile/text/refresh/MIATWOSAT+html/231115_MIATWOSAT.html
-Fuente oficial encontrada: NHC (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Perspectivas de las Condiciones del Tiempo en el Trópico
+[Internacionales] The White House (.gov): texto leído 1506 letras -> https://www.whitehouse.gov/releases/2026/11/icymi-white-house-convenes-elite-team-to-prevent-air-traffic-outages-ahead-of-thanksgiving/
+Fuente oficial encontrada: The White House (.gov) 
+Revisión: corregida (se atribuyó a The Daily Wire la información del equipo y las reuniones, que la Casa Blanca no dijo directamen
 [Famosos] El Dia.com.do: texto leído 1974 letras -> https://eldia.com.do/arena-de-santo-domingo-abriria-en-febrero-de-2027-con-capacidad-para-13-mil-personas/
 Cambiada de sección: Famosos -> República Dominicana: Arena de Santo Domingo abriría en febrero de 2027 con capacidad para 13 mil personas
-Rechazada por la revisión: Arena de Santo Domingo abriría en febrero de 2027 con capacidad para 13 mil personas -> cifras que no aparecen en las fuentes: 1000, 13000, 9000
-[Famosos] CDN: texto leído 2523 letras -> https://cdn.com.do/entretenimiento/francisca-espera-su-cuarto-bebe-junto-a-francesco-zampogna/
-[Famosos] Univision: texto leído 2088 letras -> https://www.univision.com/famosos/francisca-embarazada-cuarto-bebe
-[Famosos] Hoy Digital: texto leído 1581 letras -> https://hoy.com.do/vivir/alegria/agranda-familia-francisca-lachapel-anuncia-cuarto-hijo-francesco-zampogna_1109562.html
-Revisión: corregida (eliminé la frase de relleno "Con este embarazo, la familia pasará a ser de seis integrantes" por redundante, 
-[Famosos] CDN: texto leído 1524 letras -> https://cdn.com.do/entretenimiento/daddy-yankee-lleva-casi-dos-anos-soltero-y-no-busca-pareja/
-Revisión: aprobada
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_06_00PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo puedo redactar una noticia a partir de la Versión 1. El texto que recibí es el contenido binario bruto de un archivo PDF (estructura de objetos, streams comprimidos e imágenes codifi')
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_02_00PM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/22/26 02:00 PM
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-22_04_45PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar una noticia a partir de esta versión. Lo que llegó es el contenido binario crudo de un PDF (objetos internos, streams comprimidos e imágenes codificadas), no texto periodístico legib')
-[Deportes] NBA.com: texto leído 1677 letras -> https://www.nba.com/news/brunson-scores-30-bridges-hits-3-at-buzzer-lifting-knicks-over-blazers
-Revisión: corregida (eliminé "Además," y "sin embargo" redundantes; corregí "Advija" no aplica; corregí "llegó a estar a seis punt
-Fuente no confiable, se salta: celtics.com
-[Deportes] NBA.com: texto leído 1840 letras -> https://www.nba.com/news/we-watch-rocky-lebron-james-organizes-76ers-movie-night-with-screening-of-i-play-rocky
-Revisión: corregida (corregidas las frases de relleno y el tono; quitada la mención de "playoffs" y "llegar lejos", que las fuente
-[Precios y combustibles] Banco Central de la República Dominicana: texto leído 75 letras -> https://bancentral.gov.do/a/CustomView/6048-ficha-tecnica?auxiliarParam=266
-No se pudo leer el artículo; no se publica para no salir corta: Pinacoteca Banco Central de la República Dominicana
-Fuente no confiable, se salta: revistamercado.do
-[Precios y combustibles] De Último Minuto: texto leído 4220 letras -> https://deultimominuto.com/uncategorized/ya-circula-la-edicion-de-noviembre-de-de-ultimo-minuto-impreso/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ya circula la edición de noviembre de De Último Minuto impreso
+Rechazada por la revisión: Arena de Santo Domingo abriría en febrero de 2027 con capacidad para 13 mil personas -> cifras que no aparecen en las fuentes: 1000, 13000
+[Famosos] Noticias SIN: texto leído 2449 letras -> https://noticiassin.com/vida-y-estilo/farandula/2026/11/23/jochy-santos-recibira-una-estrella-en-el-bulevar-de-las-estrellas-2175168/?amp=1
+[Famosos] Diario Libre: texto leído 2934 letras -> https://www.diariolibre.com/revista/cultura/2026/11/23/estrella-de-bronce-para-jochy-santos-en-bulevar-de-las-estrellas/3728997
+[Famosos] Ensegundos.do: texto leído 2653 letras -> https://ensegundos.do/2026/11/23/jochy-santos-recibira-una-estrella-en-el-bulevar-de-las-estrellas/
+Revisión: corregida (corregí "Torre Banreservas" en inglés a "Torre Banreservas in Santo Domingo" sin cambio de sentido; atribuí a
+[Famosos] CDN: texto leído 2143 letras -> https://cdn.com.do/entretenimiento/freily-el-f-presenta-su-album-de-merengue-clasicos-a-mi-estilo/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Freily eL F’ presenta su álbum de merengue “Clásicos a mi estilo”
+[Famosos] CDN: texto leído 1949 letras -> https://cdn.com.do/entretenimiento/melissa-nunez-agradece-a-rd-tras-preliminar-de-miss-universo/
+Revisión: corregida (eliminé "en un mundo"/frases de relleno no presentes; ajusté "preliminar" a "competencia preliminar" para coi
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851500/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Gigantes, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851481/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas vs. Leones, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872039/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Santurce vs. San Juan, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851424/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Estrellas vs. Toros, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 2218 letras -> https://www.mlb.com/es/video/padres-top-5-outfield-assists-of-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Padres' Top 5 outfield assists of 2026
+[Deportes] MLB.com: texto leído 4626 letras -> https://www.mlb.com/news/why-logan-webb-is-a-fit-for-the-cubs-via-potential-trade
+Revisión: corregida (corregí "dos veces" en lesionados según fuente; atribuí "según FanSided" la afirmación de que los Giants escu
 Fuente no confiable, se salta: surtidoreslatam.com
+[Precios y combustibles] Periódico elDinero: texto leído 4860 letras -> https://eldinero.com.do/389597/fmi-urge-a-rd-eliminar-subsidios-generalizados-a-combustibles-para-frenar-presion-fiscal-y-deuda/
+Cambiada de sección: Precios y combustibles -> República Dominicana: FMI urge a RD eliminar subsidios generalizados a combustibles para frenar presión fiscal y deuda
+Revisión: corregida (ajusté "de los hogares más vulnerables" a "a los hogares más pobres" en el gancho para mantenerlo fiel al ton
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: surtidoreslatam.com
 Fuente no confiable, se salta: noticia.do
-Es opinión o editorial, se salta: Balaguer, Pepín Corripio, la noticia y los días del BID en SD durante la crisis petrolera de hace cinco decenios
+[Precios y combustibles] Noticias SIN: texto leído 7000 letras -> https://noticiassin.com/videos/el-despertador/2026/11/23/adie-plantea-alternativas-para-distribuidoras-ante-perdidas-del-40-2175160/?amp=1
+Cambiada de sección: Precios y combustibles -> República Dominicana: ADIE plantea evaluar alternativas para las distribuidoras ante pérdidas del 40 %
+Revisión: corregida (se quitó la afirmación de que cada dominicano financia las pérdidas con sus impuestos, que no aparece en las 
+Fuente no confiable, se salta: bloomberglinea.com
+[Precios y combustibles] Acento: texto leído 3986 letras -> https://acento.com.do/economia/comprar-gta-6-requiere-30-7-horas-de-trabajo-con-salario-minimo-en-republica-dominicana-9795239.html
+Cambiada de sección: Precios y combustibles -> Videojuegos: Comprar GTA 6 requiere 30.7 horas de trabajo con salario mínimo en República Dominicana
+Revisión: corregida (se corrigió "Así lo indica" por "Así lo indica" sin cambios de fondo; se ajustó el texto para incluir el dato
 [Videojuegos] Nintendo: texto leído 925 letras -> https://www.nintendo.com/us/whatsnew/gather-the-crew-for-a-little-multiplayer-mayhem/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gather the crew for a little multiplayer mayhem!
@@ -103,28 +116,36 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): X&Y in online Expanded format
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia concreta: es una publicación de foro en la que el autor habla de su manera personal de jugar Pokémon, mezclando referencias sin sentido, nombres y frases qu')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Why I choose to play Pokemon the cowboy way, and why you might and not even know it.
+[Videojuegos] Pokemon.com: texto leído 3663 letras -> https://press.pokemon.com/en/releases/MEDIA-ALERT-Celebrate-the-Holiday-Season-at-the-Macys-Thanksgiving-Day
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): MEDIA ALERT: Celebrate the Holiday Season at the Macy’s Thanksgiving Day Parade® with Pikachu and Eevee
 [Videojuegos] Nintendo: texto leído 1103 letras -> https://www.nintendo.com/es-co/whatsnew/juega-en-compania-y-diviertete-en-caoticas-partidas-multijugador/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Juega en compañía y diviértete en caóticas partidas multijugador!
-[Videojuegos] Nintendo: texto leído 1234 letras -> https://www.nintendo.com/es-ar/store/products/eq-plus-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): EQ+ para Nintendo Switch - Sitio Oficial de Nintendo para Argentina
-[Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-ar/store/products/18-in-1-cozy-games-mega-collection-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
 [Videojuegos] Nintendo: texto leído 2950 letras -> https://www.nintendo.com/es-cl/store/products/gods-of-olympus-capture-and-date-mythical-lovers-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gods of Olympus: Capture & Date Mythical Lovers
-[Videojuegos] Nintendo: texto leído 1457 letras -> https://www.nintendo.com/es-ar/store/products/seedbo-and-that-time-the-sun-exploded-switch/
+[Videojuegos] Nintendo: texto leído 630 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Xenoblade-Chronicles-3-Paquete-de-mejora-a-la-version-Nintendo-Switch-2-Edition-3249750.html
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Seedbo And That Time The Sun Exploded
+Revisión: corregida (se corrigió "K resolution" a "4K resolution" en las claves en inglés; se corrigió "lands" y "world" para que 
+[Videojuegos] Nintendo: texto leído 3541 letras -> https://www.nintendo.com/es-cl/store/products/killer-clown-girl-her-final-show-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Killer Clown Girl: Her Final Show
+[Videojuegos] Nintendo: texto leído 341 letras -> https://www.nintendo.com/es-pe/store/products/hole-io-complete-edition-70070000040851-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Hole io: Complete Edition
+[Videojuegos] Nintendo: texto leído 4711 letras -> https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Winx-Club-Moonlight-Quest-3244107.html
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Winx Club - Moonlight Quest
+[Videojuegos] Nintendo: texto leído 2436 letras -> https://www.nintendo.com/es-co/store/products/i-fell-for-the-florist-a-suspense-romance-adventure-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): I Fell for the Florist: A Suspense Romance Adventure
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 74 · ya cubiertas: 12 · no confiables: 20 · opinión: 1 · con texto leído: 40 · sin texto: 1 · medios juntados: 3 · con fuente oficial: 21 · aprobadas por la revisión: 1 · corregidas por la revisión: 6 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 7 · descartadas por la IA: 18 · cambiadas de sección: 1 · largas: 7 · ocultas (cortas): 1
+18 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 56 · ya cubiertas: 12 · no confiables: 13 · opinión: 0 · con texto leído: 48 · sin texto: 5 · medios juntados: 4 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 13 · rechazadas por la revisión: 6 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 18 · cambiadas de sección: 6 · largas: 13 · ocultas (cortas): 5
+Para Instagram (tendencia 3): Jochy Santos recibirá estrella en el Bulevar de las Estrellas
 Para Instagram (tendencia 3): Francisca Lachapel espera su cuarto hijo junto a Francesco Zampogna
-Para Instagram (tendencia 2): Policía busca a diez hombres señalados por homicidios en Santiago y otras zonas del país
-Para Instagram (tendencia 2): ANJE pide cambios a ley de justicia administrativa para agilizar casos contra el Estado
+Para Instagram (tendencia 2): Instituto Duartiano advierte que crisis en Haití mantiene a RD en alto nivel de amenaza
+Para Instagram (tendencia 2): RD y la OACI firman acuerdo para evaluar el marco legal de la aviación civil dominicana
 Para Instagram (tendencia 1): Dólar en RD: dónde conviene cambiar hoy, con compra y venta por entidad
-Para Instagram (tendencia 2): Comunicadores piden frenar especulaciones sobre la vida privada de Melissa Medina
