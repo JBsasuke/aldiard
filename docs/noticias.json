@@ -115,8 +115,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T14:48:35.196435+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
-  "ig_img": "ig/a0f22e7036.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/a0f22e7036.jpg",
+  "ig_id": "18123449572978114",
+  "ig_fecha": "2026-11-23T15:02:44.737451+00:00"
  },
  {
   "id": "a245dd2f25",
@@ -182,10 +184,13 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-23T14:51:38.798144+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/a245dd2f25.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/a245dd2f25-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/a245dd2f25-h.jpg",
+  "ig_id": "18065655065798428",
+  "ig_fecha": "2026-11-23T14:57:52.913679+00:00",
+  "historia_fecha": "2026-11-23T14:58:02.815593+00:00"
  },
  {
   "id": "f43c07059d",
@@ -596,10 +601,13 @@
   "seccion": "Deportes",
   "fecha": "2026-11-23T14:56:02.949328+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/3ac99687c3.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/3ac99687c3-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/3ac99687c3-h.jpg",
+  "ig_id": "18342585133302273",
+  "ig_fecha": "2026-11-23T14:59:29.912492+00:00",
+  "historia_fecha": "2026-11-23T14:59:40.328403+00:00"
  },
  {
   "id": "42c4b43c0a",
@@ -4486,10 +4494,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-23T06:51:26.245449+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/b2889a56dc.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/b2889a56dc-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/b2889a56dc-h.jpg",
+  "ig_id": "17998734900054580",
+  "ig_fecha": "2026-11-23T15:01:07.028949+00:00",
+  "historia_fecha": "2026-11-23T15:01:16.721244+00:00"
  },
  {
   "id": "5def79cf49",
