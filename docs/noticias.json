@@ -1,5 +1,405 @@
 [
  {
+  "id": "3fc6b3cdb9",
+  "titulo": "Noticias – Página 1041",
+  "titulo_original": "Noticias – Página 1041",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVW56Yks2R3hZQ1N4UE9qRnhFNEhHdEJEMF9NcGtmbURTd05aSU1VSGY1cGRlRndJdTN3NEkyZUhjSFlNYVgxMW9rMnZGZ0tMdjRldlhjM2pSUG8?oc=5",
+  "fuente": "Procuraduría General de la República Dominicana",
+  "dominio": "pgr.gob.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T17:48:49.018111+00:00"
+ },
+ {
+  "id": "38a5706e5a",
+  "titulo": "Campos entrega muelle de Cayo Levantado y anuncia licitación de RD$40 millones",
+  "titulo_original": "Alejandro Campos entrega muelle remozado de Cayo Levantado y anuncia licitación por RD$40 millones para nueva infraestructura",
+  "resumen": "El director de la Autoridad Portuaria entregó el muelle remozado de Cayo Levantado y anunció una nueva obra en Samaná.",
+  "gancho": "El director de la Autoridad Portuaria entregó el muelle remozado de Cayo Levantado y anunció una nueva obra en Samaná.",
+  "parrafos": [
+   "El director ejecutivo de la Autoridad Portuaria Dominicana, Alejandro Campos, encabezó este lunes la entrega de los trabajos de remozamiento del muelle de Cayo Levantado. La intervención tuvo una inversión de RD$7 millones.",
+   "Durante el acto, Campos anunció que este lunes fue publicada la licitación para construir un nuevo muelle en Cayo Levantado. El proyecto contempla una inversión de RD$40 millones.",
+   "La nueva infraestructura forma parte de iniciativas para seguir fortaleciendo el acceso marítimo a este destino turístico de Samaná.",
+   "La agenda de Campos en la provincia comenzó el pasado sábado e incluye supervisiones y entregas de obras portuarias. El recorrido concluirá este martes con la apertura oficial de Port Samaná, en Arroyo Barril, en presencia del presidente Luis Abinader.",
+   "Port Samaná es un proyecto de turismo de cruceros desarrollado mediante una alianza público-privada, considerado pionero en el sector portuario dominicano."
+  ],
+  "claves": [
+   "El muelle de Cayo Levantado fue remozado con una inversión de RD$7 millones.",
+   "Se publicó la licitación para construir un nuevo muelle en Cayo Levantado, con RD$40 millones.",
+   "Alejandro Campos encabeza una agenda de entregas y supervisiones en Samaná.",
+   "El presidente Luis Abinader participará en la apertura de Port Samaná, en Arroyo Barril."
+  ],
+  "importa": "La nueva inversión busca fortalecer el acceso marítimo a uno de los principales destinos turísticos de Samaná.",
+  "en": {
+   "titulo": "Campos Hands Over Cayo Levantado Pier, Announces RD$40 Million Tender",
+   "gancho": "The head of the Dominican Ports Authority handed over a renovated pier in Cayo Levantado and announced a new project in Samaná.",
+   "claves": [
+    "The Cayo Levantado pier was renovated at a cost of RD$7 million.",
+    "A tender was published to build a new pier in Cayo Levantado, with RD$40 million in investment.",
+    "Alejandro Campos is leading a series of handovers and inspections in Samaná.",
+    "President Luis Abinader will attend the official opening of Port Samaná in Arroyo Barril."
+   ],
+   "importa": "The new investment aims to strengthen sea access to one of Samaná's main tourist destinations.",
+   "parrafos": [
+    "Alejandro Campos, executive director of the Dominican Ports Authority (Autoridad Portuaria Dominicana), led the handover of renovation work on the Cayo Levantado pier on Monday. The project cost RD$7 million.",
+    "During the event, Campos announced that a tender was published Monday to build a new pier in Cayo Levantado. The project carries an investment of RD$40 million.",
+    "The new infrastructure is part of efforts to keep strengthening sea access to this tourist destination in Samaná.",
+    "Campos's agenda in the province began last Saturday and includes inspections and handovers of port works. The tour will end Tuesday with the official opening of Port Samaná in Arroyo Barril, attended by President Luis Abinader.",
+    "Port Samaná is a cruise tourism project developed through a public-private partnership, considered a pioneer in the Dominican port sector."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/alejandro-campos-entrega/",
+  "url": "https://deultimominuto.com/nacionales/alejandro-campos-entrega/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/alejandro-campos-entrega/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se eliminó \"Los detalles de la inversión, aquí\" del gancho por ser un llamado genérico sin respaldo en la fuente y se quitó el \"según informó en la actividad\" redundante; se corrigió \"IMPORTA\" para no afirmar impacto más allá de lo dicho; se ajustó la versión en inglés en consecuencia).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T17:49:14.343251+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/38a5706e5a.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/38a5706e5a-h.jpg"
+ },
+ {
+  "id": "0f1462567b",
+  "titulo": "FMI prevé crecimiento de 4.6% para la economía dominicana en 2026",
+  "titulo_original": "FMI destaca repunte de la economía dominicana en 2026",
+  "resumen": "El FMI ve la economía dominicana con buen desempeño en 2026, pero advierte sobre los subsidios y el alza de los combustibles.",
+  "gancho": "El FMI ve la economía dominicana con buen desempeño en 2026, pero advierte sobre los subsidios y el alza de los combustibles.",
+  "parrafos": [
+   "La misión del Fondo Monetario Internacional (FMI), dirigida por Michael Perks, evaluó la economía dominicana del 11 al 20 de noviembre dentro de la consulta del Artículo IV correspondiente a 2026. Según el organismo, la actividad económica ha repuntado con fuerza este año, impulsada por los servicios, especialmente turismo e intermediación financiera, y por la construcción.",
+   "El FMI señala que las perspectivas siguen siendo favorables, aunque los riesgos están sesgados a la baja en medio de una alta incertidumbre mundial. Entre esos riesgos menciona los precios elevados de las materias primas, sobre todo los combustibles, y condiciones financieras más restrictivas.",
+   "Según el informe, el crecimiento cerrará en 4.6% en 2026 y se ubicará en 4.4% en 2027, antes de converger hacia su nivel potencial de 5% a mediano plazo. En cuanto a la inflación, que está por encima del rango meta del Banco Central (4 ± 1%) desde abril de 2026 por el alza de los combustibles, el FMI dice que las expectativas se mantienen ancladas. Prevé que vuelva al rango meta a finales de 2026 y que converja a 4% en 2028.",
+   "Según el FMI, las presiones sobre las finanzas públicas aumentaron por la contención parcial del traspaso de los precios de combustibles y energía a los consumidores. Por eso, el presupuesto reformulado para 2026 contempla un déficit de 4.2% del PIB. El Gobierno, según el organismo, está comprometido con la meta de 3.4% en 2027 bajo la Ley de Responsabilidad Fiscal, para llevar la deuda pública al 40% del PIB en 2035.",
+   "El organismo advierte que el costo de los subsidios a combustibles y electricidad sigue presionando las cuentas públicas, y que las demoras en las reformas de subsidios y en otras reformas estructurales podrían debilitar el crecimiento potencial. Como factores positivos, indica que la economía podría superar lo previsto si bajan los precios internacionales de la energía, si crece más Estados Unidos o si se aceleran las reformas internas."
+  ],
+  "claves": [
+   "Crecimiento proyectado de 4.6% en 2026 y 4.4% en 2027.",
+   "La inflación supera el rango meta del BCRD desde abril de 2026 por los combustibles.",
+   "Déficit fiscal de 4.2% del PIB en 2026, con meta de 3.4% en 2027.",
+   "Los subsidios energéticos siguen presionando las cuentas públicas."
+  ],
+  "importa": "Los precios de los combustibles y la electricidad seguirán influyendo en el bolsillo de los dominicanos, y la vigilancia sobre los subsidios y las finanzas públicas marcará las decisiones del Gobierno en los próximos años.",
+  "en": {
+   "titulo": "IMF Projects 4.6% Growth for Dominican Economy in 2026",
+   "gancho": "The IMF sees the Dominican economy performing well in 2026, but warns about energy subsidies and rising fuel prices.",
+   "claves": [
+    "Projected growth of 4.6% in 2026 and 4.4% in 2027.",
+    "Inflation has been above the central bank's target range since April 2026 due to fuel prices.",
+    "Fiscal deficit of 4.2% of GDP in 2026, with a 3.4% target for 2027.",
+    "Energy subsidies continue to pressure public finances."
+   ],
+   "importa": "Fuel and electricity prices will keep affecting household budgets, and oversight of subsidies and public finances will shape government decisions in the coming years.",
+   "parrafos": [
+    "An International Monetary Fund (IMF) mission led by Michael Perks assessed the Dominican economy from November 11 to 20 as part of the 2026 Article IV consultation. According to the agency, economic activity has picked up strongly this year, driven by services, especially tourism and financial intermediation, and by construction.",
+    "The IMF says the outlook remains favorable, although risks are skewed to the downside amid high global uncertainty. Among those risks it cites high commodity prices, particularly fuel, and tighter financial conditions.",
+    "According to the report, growth will close at 4.6% in 2026 and reach 4.4% in 2027, before gradually converging toward its potential level of 5% over the medium term. On inflation, which has been above the central bank's target range (4 ± 1%) since April 2026 due to higher fuel prices, the IMF says expectations remain anchored. It expects inflation to return to the target range by the end of 2026 and to converge to 4% by 2028.",
+    "According to the IMF, pressures on public finances have increased because fuel and energy price increases have been only partially passed on to consumers. As a result, the revised 2026 budget contemplates a fiscal deficit of 4.2% of GDP. The government, according to the agency, is committed to the 3.4% deficit target for 2027 under the Fiscal Responsibility Law, aiming to bring public debt to 40% of GDP by 2035.",
+    "The agency warns that the cost of fuel and electricity subsidies continues to pressure public accounts, and that delays in subsidy reforms and other key structural reforms could weaken potential growth. As positive factors, it notes the economy could outperform forecasts if international energy prices fall, if U.S. Growth is stronger, or if domestic reforms accelerate."
+   ]
+  },
+  "link": "https://deultimominuto.com/economia/fmi-destaca-repunte-economico/",
+  "url": "https://deultimominuto.com/economia/fmi-destaca-repunte-economico/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/economia/fmi-destaca-repunte-economico/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"fuerza\" repetido y \"perspectivas\" redundantes; ajusté \"por encima del rango meta\" y convergencia de inflación; \"riesgos apuntan a la baja\" → \"sesgados a la baja\"; quité la cifra de 2026 para \"5%\" nivel potencial sin cambios de fondo; añadí \"según el FMI\" donde faltaba atribución; mejoré redacción del inglés para que coincida exactamente con el español; corregí \"Inflación... 4% en 2028\" sin cambios de fondo)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-23T17:49:32.363656+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "352e11ba0b",
+  "titulo": "Ministro de Cultura reconoce a dominicanos en Nueva York en una velada cultural",
+  "titulo_original": "Ministro de Cultura RD encabeza en NY \"Noche de Cultura Dominicana\"",
+  "resumen": "El ministro Roberto Ángel Salcedo encabezó en el Alto Manhattan una noche para reconocer a dominicanos que promueven la cultura del país en Estados Unidos.",
+  "gancho": "El ministro Roberto Ángel Salcedo encabezó en el Alto Manhattan una noche para reconocer a dominicanos que promueven la cultura del país en Estados Unidos.",
+  "parrafos": [
+   "El ministro de Cultura de la República Dominicana, Roberto Ángel Salcedo, encabezó en el Alto Manhattan la \"Noche de Cultura Dominicana\", en la que se reconoció a varios dominicanos por su labor en defensa y promoción de la cultura dominicana en Estados Unidos. Al acto, celebrado en la sede de la Dirección de Cultura Dominicana en el Exterior, asistieron más de un centenar de personas.",
+   "Durante la velada, Salcedo afirmó que el país está \"escribiendo nuevos capítulos\" en materia de identidad, cultura y valores característicos de la República Dominicana. Expuso los cinco pilares que guían la labor del Ministerio: la protección del patrimonio material e inmaterial, la revitalización de la identidad cultural, el impulso a las industrias culturales y creativas, la formación artística y la descentralización cultural.",
+   "En cuanto al patrimonio, recordó que la UNESCO declaró en 2016 el merengue patrimonio cultural inmaterial de la humanidad, y en 2019 hizo lo mismo con la bachata. En 2024, añadió, el reconocimiento se extendió a las tradiciones vinculadas a la elaboración y el consumo del casabe. Sobre formación, informó que se han abierto nuevas escuelas de Bellas Artes y que el Instituto Superior de Artes prevé ofrecer licenciaturas en esas disciplinas en 2027. También mencionó un acuerdo con Berklee College of Music para la formación en música popular.",
+   "Ray Andújar, encargado de Cultura en Nueva York, explicó que la entidad tiene la misión de promover y difundir las expresiones artísticas de los dominicanos en el exterior. Según dijo, existe un sistema de becas y programas formativos en piano, canto, actuación, danza folclórica, filosofía, locución, literatura, pintura y acuarela. \"Decenas de niños, jóvenes y adultos participan cada semana en estos espacios\", indicó.",
+   "Entre los homenajeados figuraron Bienvenido Lara Flores, Inés María Tejada, Elvys Ruiz y Ángela \"Angy\" Abreu."
+  ],
+  "claves": [
+   "El ministro de Cultura, Roberto Ángel Salcedo, encabezó la \"Noche de Cultura Dominicana\" en Nueva York.",
+   "Asistieron más de un centenar de personas a la sede de la Dirección de Cultura Dominicana en el Exterior, en el Alto Manhattan.",
+   "Entre los homenajeados figuraron Bienvenido Lara Flores, Inés María Tejada, Elvys Ruiz y Ángela \"Angy\" Abreu.",
+   "Salcedo expuso cinco pilares de la labor del ministerio, entre ellos la formación artística y la descentralización cultural."
+  ],
+  "importa": "Según informó la entidad, los dominicanos en el exterior tienen acceso a un sistema de becas y programas de formación artística en piano, canto, danza folclórica y pintura, entre otras disciplinas.",
+  "en": {
+   "titulo": "Dominican Culture Minister Honors Dominicans in New York at Cultural Night",
+   "gancho": "Culture Minister Roberto Ángel Salcedo led a night in Upper Manhattan recognizing Dominicans who promote the country's culture in the United States.",
+   "claves": [
+    "Culture Minister Roberto Ángel Salcedo led the \"Dominican Culture Night\" in New York.",
+    "More than a hundred people attended the event at the Dominican Culture Directorate Abroad headquarters in Upper Manhattan.",
+    "Honorees included Bienvenido Lara Flores, Inés María Tejada, Elvys Ruiz and Ángela \"Angy\" Abreu.",
+    "Salcedo outlined five pillars of the ministry's work, including arts education and cultural decentralization."
+   ],
+   "importa": "According to the agency, Dominicans abroad have access to a system of scholarships and arts training programs in piano, singing, folkloric dance and painting, among other disciplines.",
+   "parrafos": [
+    "Dominican Minister of Culture Roberto Ángel Salcedo led the \"Dominican Culture Night\" in Upper Manhattan, where several Dominicans were recognized for their work defending and promoting Dominican culture in the United States. More than a hundred people attended the event, held at the headquarters of the Dominican Culture Directorate Abroad.",
+    "During the evening, Salcedo said the country is \"writing new chapters\" in identity, culture and the values that characterize the Dominican Republic. He outlined the five pillars guiding the ministry's work: protecting tangible and intangible heritage, revitalizing cultural identity, boosting creative and cultural industries, arts education, and cultural decentralization.",
+    "On heritage, he recalled that UNESCO declared merengue an intangible cultural heritage of humanity in 2016, and bachata in 2019. In 2024, he added, the recognition extended to traditions linked to the making and consumption of casabe. On education, he said new Fine Arts schools have opened and the Instituto Superior de Artes plans to offer bachelor's degrees in these disciplines in 2027. He also mentioned an agreement with Berklee College of Music for training in popular music.",
+    "Ray Andújar, the Culture officer in New York, explained that the agency's mission is to promote and spread the artistic expressions of Dominicans abroad. He said there is a system of scholarships and training programs in piano, singing, acting, folkloric dance, philosophy, voice-over, literature, painting and watercolor. \"Dozens of children, young people and adults take part in these spaces every week,\" he said.",
+    "Among the honorees were Bienvenido Lara Flores, Inés María Tejada, Elvys Ruiz and Ángela \"Angy\" Abreu."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZEkxOWFlZnRUMG1sZV9PQjNZRXA3Yi10SGRVQVVoY2sydjVYRmR5UUl0bldZeXFaVjR6NVVZd25NUXFyNUxzZjJWOVJQcklzTWFpSkZfWnR4WHdaWWI5OHUyNmdTcFBSVDZvWDU3OTA0dXMzZlhXMTdwcVlYbWNYSzN3Vi01QlYwWU5pTjRUTl9kUjNiMlhwQUIyVFFqV1gxNnhyVFdpY9IBpwFBVV95cUxOZEkxOWFlZnRUMG1sZV9PQjNZRXA3Yi10SGRVQVVoY2sydjVYRmR5UUl0bldZeXFaVjR6NVVZd25NUXFyNUxzZjJWOVJQcklzTWFpSkZfWnR4WHdaWWI5OHUyNmdTcFBSVDZvWDU3OTA0dXMzZlhXMTdwcVlYbWNYSzN3Vi01QlYwWU5pTjRUTl9kUjNiMlhwQUIyVFFqV1gxNnhyVFdpYw?oc=5",
+  "url": "https://elnacional.com.do/mundo/ministro-cultura-rd-encabeza-ny-noche-cultura-dominicana_586958_amp.html",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nacional — La voz de todos",
+    "url": "https://elnacional.com.do/mundo/ministro-cultura-rd-encabeza-ny-noche-cultura-dominicana_586958_amp.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"Dominicanos en EE.UU.\"? no; se corrigió \"Berklee\" sin cambios; se corrigió la atribución del casabe y la frase de inicio de Salcedo; se ajustó el IMPORTA/WHY para atribuir a la entidad; se quitó \"Ministerio\" inflado y se reescribió el texto para sonar natural; se precisó que el encargado de Cultura en NY es Ray Andújar y que los homenajeados fueron reconocidos por el Ministerio; se eliminó \"a la sede\" ambiguo)",
+  "seccion": "Dominicanos en EE.UU.",
+  "fecha": "2026-11-23T17:50:40.746606+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "703ac58614",
+  "titulo": "Santiago celebra el Día Nacional del Merengue con diálogo y música en vivo sobre el típico",
+  "titulo_original": "Centro Cultural Banreservas celebra el Día Nacional del Merengue con diálogo y música en vivo",
+  "resumen": "Tres exponentes del merengue típico reflexionaron en Santiago sobre sus raíces, su evolución y el reto de transmitir la tradición a las nuevas generaciones.",
+  "gancho": "Tres exponentes del merengue típico reflexionaron en Santiago sobre sus raíces, su evolución y el reto de transmitir la tradición a las nuevas generaciones.",
+  "parrafos": [
+   "En Santiago, el Centro Cultural Banreservas Zona Norte acogió el conversatorio “Un ritmo que no se detiene: La evolución del merengue típico dominicano”. El encuentro reunió a tres exponentes del género, que repasaron sus raíces, los cambios en su sonido y los retos para transmitir esta tradición a las nuevas generaciones.",
+   "La actividad formó parte de la programación con motivo del Día Nacional del Merengue y se realizó en vísperas del primer aniversario del centro. Su gerente, Gladialisa Pereyra, dio la bienvenida a los participantes en nombre del presidente ejecutivo de Banreservas, el doctor Leonardo Aguilera.",
+   "El diálogo, coordinado por la periodista y cronista de arte Susana Veras, abordó la historia del género, los cambios en su instrumentación y su evolución comercial. Las intervenciones se acompañaron de demostraciones musicales en vivo.",
+   "David David, director de La Banda Suprema, recordó su trayectoria como güirero junto a Bartolo Alvarado y Rafelito Román, y explicó cómo incorporó el piano, la batería y los timbales a sus grabaciones. El saxofonista y arreglista Johnny Betances se refirió al papel del teclado en la evolución del sonido típico. Mery Hernández, conocida como La India Canela, compartió su experiencia al llevar el merengue típico a escenarios internacionales y destacó la acogida del público extranjero. La acordeonista, que lleva más de tres décadas al frente de su agrupación, grabó en 2008 el álbum “Merengue Típico from the Dominican Republic” para Smithsonian Folkways.",
+   "Al abordar la enseñanza y la preservación del género, los panelistas pidieron un mayor respaldo de las autoridades. Entre sus propuestas figuran la creación de escuelas y agrupaciones oficiales, y la realización de charlas educativas en distintos puntos del país.",
+   "La jornada concluyó con un concierto de El Norte. El Centro Cultural Banreservas Zona Norte, ubicado en el antiguo Hotel Mercedes de Santiago, ofrece al público una programación gratuita con exposiciones de arte, talleres y encuentros culturales."
+  ],
+  "claves": [
+   "El conversatorio se realizó en el Centro Cultural Banreservas Zona Norte, con motivo del Día Nacional del Merengue.",
+   "Participaron David David, Johnny Betances y Mery Hernández, conocida como La India Canela.",
+   "Los panelistas pidieron más respaldo oficial, con escuelas y agrupaciones estatales.",
+   "La jornada concluyó con un concierto de El Norte."
+  ],
+  "importa": "Para los amantes del merengue típico en RD y en la diáspora, la iniciativa muestra un esfuerzo por preservar el género y acercarlo a los jóvenes, aunque los artistas reclaman más apoyo institucional.",
+  "en": {
+   "titulo": "Santiago Marks National Merengue Day with Live Music and Talks on the Traditional Style",
+   "gancho": "Three leading figures of traditional merengue reflected in Santiago on the genre's roots, its evolution, and the challenge of passing the tradition on to new generations.",
+   "claves": [
+    "The panel was held at the Centro Cultural Banreservas Zona Norte as part of National Merengue Day.",
+    "Participants included David David, Johnny Betances, and Mery Hernández, known as La India Canela.",
+    "The panelists called for more official support, including state schools and ensembles.",
+    "The event concluded with a concert by El Norte."
+   ],
+   "importa": "For fans of traditional merengue in the Dominican Republic and the diaspora, the event reflects efforts to preserve the genre and reach young people, though the artists are asking for more institutional backing.",
+   "parrafos": [
+    "In Santiago, the Centro Cultural Banreservas Zona Norte hosted the discussion \"A Rhythm That Doesn't Stop: The Evolution of Traditional Dominican Merengue.\" Three leading figures of the genre reviewed its roots, changes in its sound, and the challenges of passing the tradition on to new generations.",
+    "The event was part of the programming for National Merengue Day and took place ahead of the center's first anniversary. Its manager, Gladialisa Pereyra, welcomed participants on behalf of Banreservas executive president Dr. Leonardo Aguilera.",
+    "The discussion, moderated by journalist and arts chronicler Susana Veras, covered the genre's history, changes in its instrumentation, and its commercial evolution. The talks were accompanied by live musical demonstrations.",
+    "David David, director of La Banda Suprema, recalled his career as a güira player alongside Bartolo Alvarado and Rafelito Román, and explained how he incorporated piano, drums, and timbales into his recordings. Saxophonist and arranger Johnny Betances spoke about the role of keyboards in the evolution of the traditional sound. Mery Hernández, known as La India Canela, shared her experience bringing traditional merengue to international stages and highlighted the warm reception from foreign audiences. The accordionist, who has led her group for more than three decades, recorded the 2008 album \"Merengue Típico from the Dominican Republic\" for Smithsonian Folkways.",
+    "On teaching and preserving the genre, the panelists called for greater support from authorities. Their proposals include creating official schools and ensembles and holding educational talks across the country.",
+    "The day concluded with a concert by El Norte. Located in the former Hotel Mercedes in Santiago, the Centro Cultural Banreservas Zona Norte offers free programming including art exhibitions, workshops, and cultural gatherings."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHdtMEtiT2RXQk1LUG4zRW1sSWhGaGdlbHJFbmp6eHlLbUFoNVJwLVBlNk1LcnFHdGREclFBRzg2dDEwaUZCMWprR25tZ25pc2FBWWhZdkRZNUNsYm1QLUdjUGpBWmJWSFVIckN4WDY2ODFrN2w3M2hMaVpFR1VVejF3UGZVcFdlbm5fTEppZE5raXgwdUJyRWlOVl9qdEhjaDNocDJxV1F2Z09pZVB2bDZOUDBTWXpzWW9HZTlzMEdrZTNseGxxSXhWR1pCXzJG0gHYAUFVX3lxTE00V2N4ZWgyYmd4a0FxOUNCbldqcy1GUmQzZWVHNEd6S3pyRnpNRnBaano3V3RBSWtMY25MZ1Rja01rZnBaekhmcllJQWZycWJ3bzZmUXJfOE1uN0VxRV93cXozNlY2b3AzY0tsdTlaZWpfeTNIc1dEV1I4LUFEU01OTmtUS3dxNGJaTXJwZzVPRHlHMDhCeUVhX0VkSi1xaDl1amtVbWF2THZ3UUFhUjlOV1Y4bHp1Y3V3ZHcyb2dFZmhidlZiUWRxU3cwNjdWVmZHcjRZYzlFQQ?oc=5",
+  "url": "https://cdn.com.do/nacionales/regionales/centro-cultural-banreservas-celebra-el-dia-nacional-del-merengue-con-dialogo-y-musica-en-vivo/",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/regionales/centro-cultural-banreservas-celebra-el-dia-nacional-del-merengue-con-dialogo-y-musica-en-vivo/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (cambié el título y el gancho al \"Día Nacional del Merengue\" de la fuente, agregué \"exponentes\" de los panelistas que faltaban y \"Smithsonian Folkways\" queda igual; quité \"Pereyra agradeció... y destacó\" para evitar sonar a relleno, ajusté \"buena acogida\" a \"acogida\" según la fuente y corregí \"la jornada cerró\" a \"concluyó\"; además, en el texto español se mantienen los nombres y cifras exactamente como en las fuentes)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-23T17:51:27.654572+00:00",
+  "tendencia": 5,
+  "ig": "pendiente",
+  "ig_img": "ig/703ac58614.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/703ac58614-h.jpg"
+ },
+ {
+  "id": "7e50272a49",
+  "titulo": "Águilas remontan en la novena y vencen 11-10 a Gigantes del Cibao",
+  "titulo_original": "Águilas se llevan batalla de ofensivas contra Gigantes detrás de Rodríguez",
+  "resumen": "Águilas Cibaeñas se llevan un duelo de ofensivas de nueve carreras en la novena entrada, con Aderlin Rodríguez como figura. Así fue la jornada dominical.",
+  "gancho": "Águilas Cibaeñas se llevan un duelo de ofensivas de nueve carreras en la novena entrada, con Aderlin Rodríguez como figura. Así fue la jornada dominical.",
+  "parrafos": [
+   "Las Águilas Cibaeñas remontaron en la novena entrada y derrotaron 11-10 a los Gigantes del Cibao en un dramático encuentro de la Liga Dominicana de Béisbol. El triunfo llegó con un doble productor de Aderlin Rodríguez, quien tuvo una tarde sobresaliente con cinco imparables, incluidos tres dobles, y seis carreras producidas.",
+   "Los Gigantes llegaron al último episodio arriba 10-8, tras un ataque de cinco carreras en la séptima entrada. Sin embargo, las Águilas anotaron tres veces en la novena y se llevaron el juego.",
+   "Santiago Espinal bateó 5-4, impulsó dos carreras y anotó cuatro. Jasson Domínguez conectó dos imparables y remolcó otras dos. Por los Gigantes, Agustín Ramírez produjo cinco anotaciones y Carlos Peguero disparó un cuadrangular de dos carreras.",
+   "En la jornada dominical hubo otros resultados. En la primera parte de la doble cartelera, los Gigantes del Cibao vencieron 8-4 a las Águilas Cibaeñas en la conclusión de un encuentro suspendido desde el 15 de noviembre. Ronel Blanco se acreditó la victoria.",
+   "En San Pedro de Macorís, las Estrellas Orientales derrotaron 9-3 a los Toros del Este, con un ataque de cinco carreras en la segunda entrada impulsado por cuadrangulares de Marco Luciano y Dairon Blanco. Spencer Bivens se acreditó la victoria.",
+   "En Santo Domingo, los Tigres del Licey vencieron 3-2 a los Leones del Escogido en diez entradas. Francisco Mejía conectó el sencillo productor que decidió el partido, después de que el Escogido empatara en la octava entrada."
+  ],
+  "claves": [
+   "Águilas Cibaeñas anotaron tres carreras en la novena entrada y vencieron 11-10 a Gigantes del Cibao.",
+   "Aderlin Rodríguez conectó cinco imparables, incluidos tres dobles, y produjo seis anotaciones.",
+   "Los Gigantes llegaron a la novena con ventaja de 10-8 tras un ataque de cinco carreras en la séptima."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Águilas Rally in the Ninth to Beat Gigantes del Cibao 11-10",
+   "gancho": "The Águilas Cibaeñas won a nine-run slugfest in the ninth inning, with Aderlin Rodríguez leading the way. Here's how Sunday's action unfolded.",
+   "claves": [
+    "The Águilas Cibaeñas scored three runs in the ninth inning to beat Gigantes del Cibao 11-10.",
+    "Aderlin Rodríguez collected five hits, including three doubles, and drove in six runs.",
+    "The Gigantes entered the ninth leading 10-8 after a five-run seventh inning."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Águilas Cibaeñas came back in the ninth inning to beat the Gigantes del Cibao 11-10 in a dramatic game of the Dominican Winter League. The win came on a double by Aderlin Rodríguez, who had a standout day with five hits, including three doubles, and six RBIs.",
+    "The Gigantes entered the final inning ahead 10-8 after a five-run seventh. But the Águilas scored three times in the ninth and took the game.",
+    "Santiago Espinal went 5-4, drove in two runs and scored four. Jasson Domínguez had two hits and drove in two more. For the Gigantes, Agustín Ramírez drove in five runs and Carlos Peguero hit a two-run home run.",
+    "Sunday's schedule had other results. In the first game of the doubleheader, the Gigantes del Cibao beat the Águilas Cibaeñas 8-4 in the completion of a game suspended since November 15. Ronel Blanco earned the win.",
+    "In San Pedro de Macorís, the Estrellas Orientales beat the Toros del Este 9-3, scoring five runs in the second inning on home runs by Marco Luciano and Dairon Blanco. Spencer Bivens picked up the win.",
+    "In Santo Domingo, the Tigres del Licey defeated the Leones del Escogido 3-2 in ten innings. Francisco Mejía's single decided the game after the Escogido tied it in the eighth."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3lLU3dzNXhRN1pHQVN6UWxINlNSQzJLODRycGVVVHpBcnZRMWJzMFV0M2M4YXJLTkVXRldxNzNtQlFtT2F2cHZVUlowemNsT3JLQ24wUE4ta1Vja1RfZTlwNDYyZVVJS3hyYXhGaVdjalU2aERmU1hSaTFWS2kxTnpSNllERk03c0N0amF2MkZHSXJpOEpISndsaDJtUGvSAasBQVVfeXFMUDNSNlVTRjBnbFRxdERrTGRIczdRZ28zX3dRejlkV2tzYmlIb3ZpRnFKYXJBUHB4RGo4T0I4blZBM0EwT3paak9RcDhiWGZsWDRxZWFicTUyaU5Pd0pxTy1FcEpHSU81MUM0YjFMZlNXOXozdzRORmoySlJCUVVsV1AtQzZaTzRyeDdkaF9abzAycVZHSU5WZWcwVmxFWUhYT1otLUVGZkRfMjZz?oc=5",
+  "url": "https://www.mlb.com/es/news/aguilas-ganan-batalla-de-ofensivas-contra-gigantes-detras-de-rodriguez",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/news/aguilas-ganan-batalla-de-ofensivas-contra-gigantes-detras-de-rodriguez"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"5-4\" a \"5-de-4\"/\"5 de 5\" no; ver detalle abajo; cambié el doble y la tabla de 5-4 por lo que dice la fuente, quité frases de relleno y completé el inglés, que estaba cortado)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-23T17:52:03.995638+00:00",
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/7e50272a49.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/7e50272a49-h.jpg"
+ },
+ {
+  "id": "a812317583",
+  "titulo": "Bryan Bros share MLB Open experience at Shadow Creek",
+  "titulo_original": "Bryan Bros share MLB Open experience at Shadow Creek",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzI4SmhMVG54MW1TVU9WTWVPMy14VzA1VENBYTl3WTJmc2hVM3NfeDAyOXcyQ0VhU1UyQkZQVjJVZGswYWljY2xPT2JGak0wcEdYSklZd3hKOG1UN1UwZGwxYkthaDJYLVdaTGwtRnk2eGZNc1Rick56RjhsU19pWGp2a1BtWkZY?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T17:52:06.662338+00:00"
+ },
+ {
+  "id": "7f23383318",
+  "titulo": "MLB Gameday: Caguas vs. Carolina, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Caguas vs. Carolina, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50MXVvZHhfblRRVlVldGtlVUdaUEdXdThtWlY4MjJGYmlodE0yQy0tclpxMEZkdnAwc0tzNnNBODEzeE5nVmNONW5pbTNUTXJ1Y2prel9hUUk?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-23T17:52:09.296706+00:00"
+ },
+ {
+  "id": "ea4cb036b5",
+  "titulo": "Mets firman a Paul Goldschmidt por un año y 8 millones de dólares",
+  "titulo_original": "1B Goldschmidt agrees to deal with busy Mets (source)",
+  "resumen": "Los Mets siguen gastando: aseguran al primera base Paul Goldschmidt, de 39 años, con un contrato de un año. ¿Qué papel tendrá en el equipo?",
+  "gancho": "Los Mets siguen gastando: aseguran al primera base Paul Goldschmidt, de 39 años, con un contrato de un año. ¿Qué papel tendrá en el equipo?",
+  "parrafos": [
+   "Los Mets firmaron al primera base Paul Goldschmidt por un año y 8 millones de dólares, según informó MLB.com citando a una fuente. El equipo todavía no ha confirmado el acuerdo. La firma llega menos de un día después de que el club se comprometiera con Tarik Skubal por casi medio billón de dólares.",
+   "Goldschmidt tiene 39 años y ya no es el jugador que ganó el premio MVP de la Liga Nacional en 2022 con los Cardenales. Con los Yankees, sin embargo, siguió siendo muy efectivo contra zurdos, con un OPS de .967. Por eso se perfila como un complemento para Jared Young, el actual primera base de los Mets, un bateador zurdo que conectó sus nueve jonrones de la temporada pasada frente a lanzadores derechos.",
+   "El acuerdo también deja en una posición más vulnerable a Mark Vientos. Los Mets le ofrecieron contrato antes de la fecha límite, pero el club también ha hablado de él en posibles intercambios, pues tiene un perfil similar al de Goldschmidt.",
+   "Este año, su OPS contra lanzadores derechos fue de .590, la tercera temporada seguida en la que marca un mínimo de su carrera en esa categoría. Su porcentaje de contacto fuerte, de 35.9 por ciento, fue el más bajo desde que Statcast empezó a medir esos datos en 2015.",
+   "Goldschmidt tiene una carrera de nivel para el Salón de la Fama, con 390 jonrones y 65.1 bWAR. Su defensa también fue mejor que la media el año pasado, con +6 Outs sobre el promedio en 77 juegos en primera base.",
+   "Los Mets quedaron sin un primera base efectivo después de que Pete Alonso se fuera a los Orioles. Jorge Polanco, el reemplazo elegido por David Stearns, se perdió más de tres cuartas partes de la temporada por una lesión en el tendón de Aquiles y bateó apenas .148 cuando estuvo disponible. Con Goldschmidt, Young y Vientos podrían repartirse la posición, aunque Brett Baty, que jugará un papel importante en segunda base en 2027, también ha cubierto primera base en ocasiones."
+  ],
+  "claves": [
+   "Contrato de un año por 8 millones de dólares, según una fuente, aunque el equipo no lo ha confirmado.",
+   "Goldschmidt tiene 39 años y fue MVP de la Liga Nacional en 2022 con los Cardenales.",
+   "Con los Yankees, tuvo un OPS de .967 contra zurdos y conectó 18 jonrones en su segunda temporada.",
+   "Su OPS contra lanzadores derechos cayó a .590 esta temporada."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Mets Agree to One-Year, $8 Million Deal With Paul Goldschmidt",
+   "gancho": "The Mets keep spending: they're reportedly signing 39-year-old first baseman Paul Goldschmidt to a one-year deal. Where does he fit on the roster?",
+   "claves": [
+    "One-year contract worth $8 million, according to a source; the team has not confirmed it.",
+    "Goldschmidt is 39 and won the 2022 National League MVP with the Cardinals.",
+    "With the Yankees, he posted a .967 OPS against left-handed pitchers.",
+    "His OPS against right-handed pitching dropped to .590 this season."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Mets have agreed to a one-year, $8 million contract with first baseman Paul Goldschmidt, according to MLB.com, citing a source. The team has not yet confirmed the deal. The signing comes less than a day after the club committed nearly half a billion dollars to Tarik Skubal.",
+    "Goldschmidt, 39, is no longer the player who won the 2022 National League MVP award with the Cardinals. With the Yankees, however, he remained very effective against left-handed pitchers, with a .967 OPS. That makes him a natural complement to Jared Young, the Mets' current first baseman, a left-handed hitter who hit all nine of his home runs last season against right-handed pitchers.",
+    "The deal also makes Mark Vientos even more expendable. The Mets tendered him a contract before the deadline, but the club has also discussed him in trades, since his skillset is similar to Goldschmidt's.",
+    "This season his OPS against right-handed pitching was .590, the third straight season he has set a career low in that category. His 35.9 percent hard-hit rate was the lowest since Statcast began tracking it in 2015.",
+    "Goldschmidt has a Hall of Fame-caliber career, with 390 home runs and 65.1 bWAR. He was also better than average defensively last year, with +6 Outs Above Average in 77 games at first base.",
+    "The Mets were left without an effective first baseman after Pete Alonso signed with the Orioles. Jorge Polanco, the replacement chosen by David Stearns, missed more than three-quarters of the season with an Achilles injury and hit just .148 when healthy. With Goldschmidt, Young and Vientos could split the position, though Brett Baty, who is set to play a significant role at second base in 2027, has also filled in at first on occasion."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13ak1wY0VNUE9uVnpqRFN4OWR4YkNuUzlQMXcwSnQ2bXRqY2k3dmVLWE9NTlRHUWJidFBBRDB4X19ZWHVReWlJYzg2SXc4Tnl5UHBlMkZMeUxSMFAwaF9kaHJZRE1Jdw?oc=5",
+  "url": "https://www.mlb.com/news/paul-goldschmidt-mets-contract",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/news/paul-goldschmidt-mets-contract"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí \"según informó MLB.com citando a una fuente\" sin cambios de fondo; eliminé \"según se ha comentado\" por no estar en la fuente; quité \"Aun así\"/\"Las señales de alerta son claras\" por relleno; ajusté \"Los Mets quedaron sin un primera base efectivo\" a \"primera base\"; aclaré que Young \"es bateador zurdo\" y que su .590 es de este año; corregí \"por lanzadores derechos\"; y añadí que el club \"había ofrecido contrato\" a Vientos según la fuente; también corregí \"en ocasiones\" y \"tiene un perfil parecido\" para reflejar \"similar skillsets\"; y la mención de Stearns como \"elegido\" se mantiene según la fuente)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-23T17:52:35.432064+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "0e7195dff5",
   "titulo": "RD y la OACI firman acuerdo para evaluar el marco legal de la aviación civil dominicana",
   "titulo_original": "La República Dominicana y la OACI firman acuerdo para modernizar aviación civil",
@@ -66,7 +466,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T16:48:24.316268+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/0e7195dff5.jpg"
  },
  {
@@ -306,7 +706,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T16:51:01.094270+00:00",
   "tendencia": 2,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/98d747de4e.jpg"
  },
  {
@@ -1340,7 +1740,7 @@
   ],
   "fecha": "2026-11-23T14:48:17.798043+00:00",
   "tendencia": 1,
-  "ig": "pendiente",
+  "ig": null,
   "ig_img": "ig/48cfef561c.jpg"
  },
  {
@@ -6955,7 +7355,7 @@
   "revision": "corregida (se corrigió \"6-for-5\" a \"6-for-5\"→\"6-5\" no aplica en inglés; se ajustaron \"4-for-2\" y \"5-for-2\" a \"4-for-2\" y \"5-for-2\" según el original, y se corrigió \"6-for-5\" por \"6-for-5\"; se cambió el hook de \"Águilas\" a \"Águilas\" sin tilde en inglés; se quitó la frase de relleno \"dramatic comeback\" por \"comeback\" y se igualó el resto del texto al español)",
   "seccion": "Deportes",
   "fecha": "2026-11-23T03:47:01.839443+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "7e9d6313ab",
@@ -7509,7 +7909,7 @@
   "revision": "corregida (se corrigió \"gobernadora provincial\" a la fuente sin cambios de cifras; se cambió \"Las provincias\" no; se ajustó la atribución de la cita de Peña y de la frase sobre replicación para que sean las fuentes quienes lo dicen; se eliminó \"dijo\" redundante; se ajustó la traducción de \"Ministry of Youth\" y se reforzó la atribución de Campo Joven a Peña; se corrigió la fecha \"San Cristóbal Siembra Futuro\" sin cambios; se eliminó \"y es una iniciativa\" repetido; se mantuvo la cifra de 352 proyectos).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T02:48:26.445229+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/34cda714fc.jpg",
   "ig_id": "17932431663431235",
@@ -9082,7 +9482,7 @@
   "revision": "corregida (corregí el orden de las anotaciones: el jonrón de Suero fue en el cuarto y el empate 4-4 es de esa entrada, no del tercero; eliminé \"Santiago\" de la versión en inglés por no estar en las fuentes; quité frases de relleno y ajusté el texto a las fuentes: las Águilas no ganan desde el 14 de noviembre, el triple de Jiménez fue de dos carreras con dos outs en el sexto, y el partido se disputó en el Estadio Cibao sin que la fuente diga \"en Santiago\")",
   "seccion": "Deportes",
   "fecha": "2026-11-23T00:50:56.168969+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "dc813602ef",
@@ -9310,7 +9710,7 @@
   "revision": "corregida (eliminé la frase de \"récord\" en el gancho porque las fuentes no hablan de récord; atribuí el aumento de producción a Santos según la fuente; precisé que la protección se amplió a 29 países \"en 2026\"; ajusté \"certificados de derecho de uso\" y los nombres de los reconocidos; quité la afirmación de que la actividad \"sostiene\" a miles de familias sin atribución clara; y reemplacé \"dependen\"/\"comercializan\" por las palabras de la fuente)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T23:49:11.296872+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/be5a6db5e8.jpg",
   "ig_id": "17918421561552958",
@@ -11180,7 +11580,7 @@
   "revision": "corregida (quité frases de relleno en ambos idiomas, precisé que el Ministerio de Trabajo \"ofrece\" sus servicios en el gancho y en \"por qué importa\", ajusté \"mecanismo de subrogación\" con la explicación de Florentino, y corregí la fecha de subrogación/atribución de citas; el texto restante coincide con las fuentes)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T20:49:18.594292+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "e49874b72b",
@@ -13893,7 +14293,7 @@
   "revision": "corregida (SECCION cambiada de Deportes a Cultura/Espectáculos; \"Ala Jaza\" omitido en la versión en español del párrafo de cartelera, que en el borrador español solo listaba seis artistas del gancho/claves pero el texto sí incluye Ala Jaza — se mantiene; \"Zulinka y Miguel\" y \"Zulinka y Miguel\" en inglés se dejó en español por ser nombre propio de dúo; \"Jessica\" corregido a \"Jéssica\"; ortografía de \"Didí\" y \"Ebenezer\" verificada; se eliminó \"Según la información publicada\" por ser atribución vaga y se atribuyó a El Dia; se corrigió \"CONFIABLE\" sin cambio; se cambió \"y\" en inglés a \"and\" en el párrafo de animadores; se agregó \"Rusbelt\" ya presente; se mantuvo \"Faro a Colón\" tal como aparece en la fuente)",
   "seccion": "Deportes",
   "fecha": "2026-11-22T16:25:35.663552+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/df723948ac.jpg",
   "historia": "error",
@@ -14421,7 +14821,7 @@
   "revision": "corregida (ajusté \"Merengueros El Festival\" a \"Merengueros El Festival\" sin cambios de nombre; quité \"Hosting duties will be shared\" a \"Hosting duties will be shared\" — ver abajo; corregí el titular y el gancho para no afirmar que los artistas \"se reúnen\" o \"se presentarán juntos\" más allá de lo anunciado, y atribuí el evento a los organizadores; quité \"entre otros nombres de la televisión y la radio\", que no está en las fuentes; \"principales exponentes\" cambiado a \"exponentes\"; \"el público no tendrá que pagar\" se mantiene como \"entrada gratuita\"; quité frases de relleno.)",
   "seccion": "Famosos",
   "fecha": "2026-11-22T15:50:32.416835+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/77dbb8632a.jpg",
   "historia": "publicado",
@@ -15374,7 +15774,7 @@
   "revision": "corregida (se corrigió \"bachatero\" a \"cantante de bachata\" en el inglés y \"merengue singer\" → \"merengue singer\" se mantiene; se quitó la atribución a DJ Adonis que decía \"según explicó en el evento\" para que coincida con la fuente y el resto del texto; se ajustó \"a joven talento\" y la frase de Teodoro Reyes, y se corrigió \"medalla a Jesús Jiménez\" sin cambios de fondo; se eliminó \"Pese a la lluvia, el público se quedó hasta el final de la jornada\" por ser una inferencia no literal de la fuente y se reemplazó por \"Ni siquiera la lluvia impidió que el público disfrutara hasta el final\" para mantener la fidelidad; el resto se mantiene).",
   "seccion": "Famosos",
   "fecha": "2026-11-22T13:49:28.485661+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "2f7836c602",
@@ -17674,308 +18074,5 @@
   "seccion": "Deportes",
   "fecha": "2026-11-22T08:09:06.764240+00:00",
   "tendencia": 1
- },
- {
-  "id": "35baa1beca",
-  "titulo": "Pokémon TCG lanza dos colecciones ultra premium por el 30 aniversario",
-  "titulo_original": "Pokémon TCG: 30th Celebration Ultra-Premium Collections—Day & Night",
-  "resumen": "Pokémon TCG estrena dos colecciones ultra premium con Espeon ex y Umbreon ex para celebrar el 30 aniversario de la franquicia. Esto es lo que trae cada caja.",
-  "gancho": "Pokémon TCG estrena dos colecciones ultra premium con Espeon ex y Umbreon ex para celebrar el 30 aniversario de la franquicia. Esto es lo que trae cada caja.",
-  "parrafos": [
-   "Pokémon TCG celebra el 30 aniversario de la franquicia con dos nuevas colecciones ultra premium, cada una con su propio enfoque. Una está inspirada en el día y gira en torno a Espeon ex. La otra tiene temática de noche y destaca a Umbreon ex.",
-   "Cada colección viene con una carta promocional de Pikachu ex, ilustrada por YOSHIROTTEN, en la versión que corresponde a su tema. También incluye una carta foil de Espeon ex o Umbreon ex, según la colección.",
-   "Los accesorios son amplios: un playmat con Pikachu, Espeon o Umbreon y más, 65 fundas para cartas, una caja para mazos, una moneda de metal con la imagen de Espeon o Umbreon, y seis dados contadores de daño.",
-   "En cuanto a sobres, cada colección trae 29 sobres de la expansión Pokémon TCG: 30th Celebration y un sobre especial de la Classic Collection, con tres cartas de la colección nostálgica de la expansión.",
-   "Cada colección también incluye un código para canjear en Pokémon TCG Live."
-  ],
-  "claves": [
-   "Hay dos colecciones: una temática de día con Espeon ex y una de noche con Umbreon ex.",
-   "Cada colección incluye 29 sobres de la expansión Pokémon TCG: 30th Celebration, más un sobre especial de la Classic Collection con tres cartas.",
-   "Trae una carta promocional de Pikachu ex ilustrada por YOSHIROTTEN, en versión de día o de noche.",
-   "Incluye accesorios como playmat, 65 fundas, caja para mazos, moneda de metal y dados de daño."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Pokémon TCG Launches Two Ultra-Premium Collections for 30th Anniversary",
-   "gancho": "Pokémon TCG is releasing two ultra-premium collections featuring Espeon ex and Umbreon ex to mark the franchise's 30th anniversary. Here's what each box includes.",
-   "claves": [
-    "There are two collections: a day-themed set with Espeon ex and a night-themed set with Umbreon ex.",
-    "Each collection includes 29 Pokémon TCG: 30th Celebration booster packs, plus a special Classic Collection pack with three cards.",
-    "Each comes with a Pikachu ex promo card illustrated by YOSHIROTTEN, in a day or night version.",
-    "Accessories include a playmat, 65 card sleeves, a deck box, a metal coin, and six damage-counter dice."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Pokémon TCG is marking the franchise's 30th anniversary with two new ultra-premium collections, each with its own theme. One is inspired by daytime and centers on Espeon ex. The other has a nighttime theme and highlights Umbreon ex.",
-    "Each collection includes a Pikachu ex promo card, illustrated by YOSHIROTTEN, in the version that matches its theme. It also includes a foil card of Espeon ex or Umbreon ex, depending on the collection.",
-    "The accessories are extensive: a playmat featuring Pikachu, Espeon or Umbreon and more, 65 card sleeves, a deck box, a metal coin with Espeon or Umbreon, and six damage-counter dice.",
-    "For booster packs, each collection contains 29 packs from the Pokémon TCG: 30th Celebration expansion and one special Classic Collection pack, which holds three cards from the expansion's nostalgic Classic Collection.",
-    "Each collection also includes a code card for Pokémon TCG Live."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTk5FSkdKV2REVi1DZFNmaFE4X3Jiamd0d1NTckxOeGNHRHNabnltX1h6V05iZkZXbnh2dlI5Zll0Yl96aWluY091ak5ZYlQ4alZTZUwtQVlqVTRPaGZVUnc5X2dfWC1EZzl5XzVzNmVOWmZad19DTWVKRjZFMm9pVzZWV3gxejBZQVk0RGFpak12UlJ0MVVlZFVFYkVkbEFFQkM4dVJXSi1qYk0?oc=5",
-  "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night",
-  "fuente": "Pokemon.com",
-  "dominio": "pokemon.com",
-  "fuentes": [
-   {
-    "nombre": "Pokemon.com",
-    "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/30th-celebration-ultra-premium-collections-day-night/30th-celebration-ultra-premium-collections-day-night-169-en.png",
-   "credito": "Pokemon.com"
-  },
-  "revision": "corregida (se eliminó la afirmación de \"30 años\" del Pokémon TCG en el gancho y el texto como dato no sustentado por la fuente; se corrigió el número de sobres de expansión de 30 a 29 más el sobre Classic Collection, según la fuente; se corrigió \"cada caja\" por \"cada colección\" donde corresponde; se ajustó el texto inglés para coincidir con el español)",
-  "seccion": "Videojuegos",
-  "fecha": "2026-11-22T08:09:56.850169+00:00",
-  "tendencia": 1
- },
- {
-  "id": "eaf6ad1ad5",
-  "titulo": "Policía reporta 406 entregas voluntarias",
-  "titulo_original": "Policía reporta 406 entregas voluntarias",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemJuaFVQWFBqS3JoMnlVbndubC1XSXU3LXNDYlYtMmtGRHpsSmhHNWJTeFJsa05CaHdQUURybUtEOTQwcjR5R2lfaU14Z0o5b1BIMTR5MGd5TmdvS0xpQUNPZmpDelJkSU10SE9YYW5GVkRoeUdEbVppYTZibkRqekxUeDJjbTRsY1Vr?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T07:48:23.345696+00:00"
- },
- {
-  "id": "63bd521cab",
-  "titulo": "Cultura - Edición Digital",
-  "titulo_original": "Cultura - Edición Digital",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTNFM5YlZVa2JpOVZyZ1VYWTNpeHlFbkgtLXJFbmRUYkxoRXMyT1pkVzZNSjBYeXlEaGpldFpXVGNUamtjNlRHbnliNjc3NVFIWFFkVU9MY2p3QQ?oc=5",
-  "fuente": "elcaribe.com.do",
-  "dominio": "elcaribe.com.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T07:48:25.178433+00:00"
- },
- {
-  "id": "54ce374d35",
-  "titulo": "El cóctel de la violencia en Haití",
-  "titulo_original": "El cóctel de la violencia en Haití",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWRYZ0JFZjhUMkdham1QcDBfNUVocXRDZ29PU0l6Z0tuYTlYTHhDdUE5LXlhQkRERS04S2dFdXdRU1UxVDdITWtKU2pxRzhJeHFMSlF3czNsY3VmQi1OdGVtTEdpbDNIbGQwLW45VlZKeU0ybVhmNzVGVWRHLUMydjR0cnRlck9ubGFHdngzMDhIQQ?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T07:48:26.886956+00:00"
- },
- {
-  "id": "b687ecd8f0",
-  "titulo": "Lluvias, viento y nieve golpearán Nueva York y el norte de California esta semana",
-  "titulo_original": "Lluvias intensas y fuertes vientos afectarán a Nueva York antes del Día de Acción de Gracias",
-  "resumen": "Un sistema de tormentas llegará este fin de semana a Nueva York y al norte de California. Habrá lluvias intensas, ráfagas fuertes y nieve en las montañas.",
-  "gancho": "Un sistema de tormentas llegará este fin de semana a Nueva York y al norte de California. Habrá lluvias intensas, ráfagas fuertes y nieve en las montañas.",
-  "parrafos": [
-   "Nueva York se prepara para un episodio de fuertes lluvias y ráfagas de viento a partir de este domingo, debido a un sistema de tormentas que avanza hacia el área triestatal. Según Diario Libre, el fenómeno podría complicar los desplazamientos previos al Día de Acción de Gracias, y el Servicio Meteorológico Nacional prevé que las nubes empiecen a cubrir la región durante la noche del sábado, con precipitaciones desde el mediodía del domingo.",
-   "Las lluvias alcanzarán su mayor intensidad entre las 5:00 de la tarde del domingo y la medianoche, con riesgo de inundaciones repentinas. Algunas zonas podrían acumular hasta tres pulgadas de lluvia. NYC Emergency Management advirtió que la acumulación de hojas puede obstruir los desagües y provocar inundaciones en calles, autopistas y pasos a desnivel. La agencia recomendó salir con anticipación, y señaló que la noche del domingo será el período más complicado para viajar. El alcalde Zohran Mamdani pidió a los neoyorquinos que viajen antes del feriado que tomen precauciones y dejen tiempo adicional para sus traslados.",
-   "En el norte de California, el Servicio Meteorológico Nacional (NWS) prevé lluvias desde este domingo hasta el lunes, con vientos del sur que podrían alcanzar ráfagas de entre 20 y 30 millas por hora en el valle de Sacramento. Según Univision, las nevadas más fuertes llegarían entre la noche del domingo y la mañana del lunes. El NWS mantiene un aviso de clima invernal para la Sierra Nevada y el Parque Nacional Volcánico Lassen, con acumulaciones de entre 2 y 7 pulgadas de nieve, y hasta 16 pulgadas en los alrededores del Parque Nacional Lassen. Las autoridades advierten sobre carreteras resbaladizas, visibilidad reducida y posibles controles de cadenas.",
-   "Las condiciones comenzarán a mejorar el martes en California, pero el NWS anticipa otro sistema de tormentas entre la noche del martes y el jueves, que podría extenderse hasta el viernes. Según el servicio, podría traer lluvias generalizadas, nevadas abundantes en las montañas y ráfagas de 35 a 45 millas por hora, con riesgo de caída de árboles e interrupciones del servicio eléctrico.",
-   "En Nueva York, después del paso del sistema, las temperaturas bajarán. Para el martes y el miércoles se esperan máximas de entre 4 y 9 grados Celsius, y las lluvias podrían regresar el jueves, coincidiendo con la celebración del feriado."
-  ],
-  "claves": [
-   "Nueva York tendrá lluvias más intensas el domingo por la noche, con acumulaciones de hasta tres pulgadas.",
-   "El norte de California tendrá nevadas de 2 a 7 pulgadas en la Sierra Nevada, y hasta 16 pulgadas cerca del Parque Nacional Lassen.",
-   "Nueva York enfrentará posibles retrasos en vuelos el domingo y el lunes."
-  ],
-  "importa": "Si tiene familia o planes de viaje en Nueva York o en el norte de California durante el feriado de Acción de Gracias, conviene revisar el pronóstico antes de salir y contar con tiempo extra para los desplazamientos.",
-  "en": {
-   "titulo": "Rain, wind and snow to hit New York and Northern California this week",
-   "gancho": "A storm system arrives this weekend in New York and Northern California, bringing heavy rain, strong gusts and mountain snow. Here is what to expect and when.",
-   "claves": [
-    "New York faces heavier rain Sunday night, with totals of up to three inches.",
-    "Northern California could see 2 to 7 inches of snow in the Sierra Nevada, and up to 16 inches near Lassen Volcanic National Park.",
-    "New York may see flight delays on Sunday and Monday."
-   ],
-   "importa": "If you have family or travel plans in New York or Northern California over the Thanksgiving holiday, check the forecast before you leave and leave extra time for your trip.",
-   "parrafos": [
-    "A storm system is set to bring heavy rain and strong winds to New York starting this Sunday, which could complicate travel ahead of Thanksgiving. Diario Libre reports that the National Weather Service expects clouds to build overnight Saturday, with rain arriving around midday Sunday.",
-    "The heaviest rain is expected between 5:00 p.m. Sunday and around midnight, with a risk of flash flooding. Some areas could receive up to three inches of rain. NYC Emergency Management warned that fallen leaves can clog storm drains and cause flooding on streets, highways and underpasses. The agency advised people to leave early, saying Sunday night will be the most difficult period for travel. Mayor Zohran Mamdani urged New Yorkers traveling before the holiday to take precautions and allow extra time for their trips.",
-    "In Northern California, the National Weather Service (NWS) forecasts rain from this Sunday through Monday, with southerly winds that could gust between 20 and 30 mph in the Sacramento Valley. According to Univision, the heaviest snow is expected between Sunday night and Monday morning. The NWS has a winter weather advisory in place for the Sierra Nevada and Lassen Volcanic National Park, with 2 to 7 inches of snow expected, and up to 16 inches around Lassen. Authorities warn of slippery roads, reduced visibility and possible chain controls.",
-    "Conditions are expected to improve Tuesday in California, but the NWS anticipates another storm system from Tuesday night through Thursday, possibly lasting until Friday. According to the service, it could bring widespread rain, heavy mountain snow and gusts of 35 to 45 mph, with a risk of downed trees and power outages.",
-    "In New York, temperatures will drop after the system passes. Highs of 40 to 48 degrees Fahrenheit are expected Tuesday and Wednesday, and rain could return Thursday, coinciding with the holiday."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYmlCQkFvQUZwVTUzN1Vmdnc4S2pCUEtnelJBdWJLQ2dYSm5TV3daTDg3emhDWmhIbnBreWFMY1hsYWx4bzdxbTFQbVF6Y2VRR0Rsdm9MVDl0UXlNWWN1MTNEYWd0c3FsYzJaRldNQXJzNmEzYU5rLThEMXlOLVZtWFFpQUNNQUtlbThQVk52V2F6QjdyaDhRcTJ3cGhBLTdlTzFxQ0FFclgyWGR4ME5uV1Q5M1A3cTYt0gG4AUFVX3lxTFBiaUJCQW9BRnBVNTM3VWZ2dzhLakJQS2d6UkF1YktDZ1hKblNXd1pMODd6aENaaEhucGt5YUxjWGxhbHhvN3FtMVBtUXpjZVFHRGx2b0xUOXRReU1ZY3UxM0RhZ3RzcWxjMlpGV01BcnM2YTNhTmstOEQxeU4tVm1YUWlBQ01BS2VtOFBWTnZXYXpCN3JoOFFxMndwaEEtN2VPMXFDQUVyWDJYZHgwTm5XVDkzUDdxNi0?oc=5",
-  "url": "https://www.diariolibre.com/amp/usa/actualidad/2026/11/21/fuertes-lluvias-en-nueva-york-por-tormenta-tropical/3727854",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/amp/usa/actualidad/2026/11/21/fuertes-lluvias-en-nueva-york-por-tormenta-tropical/3727854"
-   },
-   {
-    "nombre": "Univision",
-    "url": "https://www.univision.com/noticias/meteorologia/clima-en-el-norte-de-california-lluvias-fuertes-vientos-y-nieve-en-las-montanas-este-domingo-15-de-noviembre"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí la atribución de las temperaturas de Nueva York a \"Diario Libre\" y la fecha del sistema, quité \"según el servicio\" repetido, ajusté la hora de inicio de nieve, corregí la ortografía y eliminé la frase de relleno \"Aquí está lo que puede esperar\" del gancho)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-22T07:48:57.556380+00:00",
-  "tendencia": 2
- },
- {
-  "id": "9f83a77830",
-  "titulo": "Jorge Drexler habla de Uruguay, el candombe y la música prohibida",
-  "titulo_original": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
-  "resumen": "El cantautor uruguayo presenta \"Taracá\", su nuevo álbum, y defiende géneros como el reguetón, perseguidos por su contenido sexual.",
-  "gancho": "El cantautor uruguayo presenta \"Taracá\", su nuevo álbum, y defiende géneros como el reguetón, perseguidos por su contenido sexual.",
-  "parrafos": [
-   "Jorge Drexler, cantautor uruguayo, presentó en Miami Beach \"Taracá\", su último álbum. Según la BBC, el concierto se realizó en un teatro cercano, a cuatro cuadras del bar donde el músico conversó con ese medio.",
-   "El disco, explicó Drexler, lo devuelve musicalmente a Uruguay. El músico dice que no ha podido volver a vivir allí, aunque le gustaría, porque sus hijos están en España. Él mismo se mudó a ese país en 1995, con el número de teléfono de Joaquín Sabina como único contacto.",
-   "Según el músico, \"Taracá\" es un neologismo que creó inspirado en el ritmo de uno de los tambores del candombe, género musical afrouruguayo. Después, un joven músico que trabajaba con él le dio un segundo significado, que Drexler incluyó en el estribillo de \"El tambor chico\".",
-   "En la entrevista con la BBC, Drexler describió el candombe como un regalo de África a Uruguay que define su identidad cultural. También defendió el reguetón, un género que, según explicó, ha sido castigado por su contenido sexual, al igual que otros ritmos como la zarabanda, el chuchumbé o el tango.",
-   "Para el cantautor, cantar sobre sexo es tan antiguo como la música misma. Señaló que lo importante es distinguir entre letras con contenido sexual y letras que resulten discriminatorias o vejatorias hacia las mujeres, algo que, según él, no se limita al reguetón."
-  ],
-  "claves": [
-   "Drexler presentó \"Taracá\" en un teatro de Miami Beach, un álbum que lo acerca a su país natal, Uruguay.",
-   "\"Taracá\" es un neologismo inspirado en el ritmo de un tambor del candombe, género afrouruguayo.",
-   "El músico defiende el reguetón y otros ritmos de origen africano que han sido castigados por su contenido sexual.",
-   "Drexler dice que cantar sobre el sexo y el deseo es parte de la historia de la música."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Jorge Drexler Talks Uruguay, Candombe and Banned Music",
-   "gancho": "The Uruguayan singer-songwriter is presenting \"Taracá,\" his new album, and defending genres like reggaeton that have been censored for their sexual content.",
-   "claves": [
-    "Drexler presented \"Taracá\" at a theater in Miami Beach, an album that brings him closer to his native Uruguay.",
-    "\"Taracá\" is a coined word inspired by the rhythm of a candombe drum, an Afro-Uruguayan music genre.",
-    "The musician defends reggaeton and other African-rooted rhythms that have been punished for their sexual content.",
-    "Drexler says singing about sex and desire is part of music's history."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Uruguayan singer-songwriter Jorge Drexler presented \"Taracá,\" his latest album, in Miami Beach. According to the BBC, the concert took place at a theater about four blocks from the bar where the musician spoke with the outlet.",
-    "The album, Drexler explained, brings him back musically to Uruguay. He says he has not been able to live there again, although he would like to, because his children are in Spain. He moved to that country in 1995, with only Joaquín Sabina's phone number as a contact.",
-    "According to the musician, \"Taracá\" is a neologism he created, inspired by the rhythm of one of the drums in candombe, an Afro-Uruguayan music genre. Later, a young musician who was working with him gave it a second meaning, which Drexler included in the chorus of \"El tambor chico.\"",
-    "In the interview with the BBC, Drexler described candombe as a gift from Africa to Uruguay that shapes its cultural identity. He also defended reggaeton, a genre he said has been punished for its sexual content, as were other rhythms such as the zarabanda, the chuchumbé and the tango.",
-    "For the singer, singing about sex is as old as music itself. He said the key is to distinguish between lyrics with sexual content and lyrics that are discriminatory or demeaning toward women, something he says is not limited to reggaeton."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZbXhQUEdOZF9FckZQdGhRT0d5dzVNczUzU24xc0J2Q1c1azZHQUFaNm5BUUlNa0EtTUJKUkY3VWF4NWh5Um5aTFVKR3FNcm5fdEd1ajlXVEdfRm1sM29vMG930gFiQVVfeXFMT1lteFBQR05kX0VyRlB0aFFPR3l3NU1zNTNTbjFzQnZDVzVrNkdBQVo2bkFRSU1rQS1NQkpSRjdVYXg1aHlSblpMVUpHcU1ybl90R3VqOVdUR19GbWwzb28wb3c?oc=5",
-  "url": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo.amp",
-  "fuente": "BBC",
-  "dominio": "bbc.com",
-  "fuentes": [
-   {
-    "nombre": "BBC",
-    "url": "https://www.bbc.com/mundo/articles/c6n90g8p3nlwo.amp"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó \"según la BBC\" repetido en el primer párrafo y se eliminó la frase final \"La BBC no informa de más detalles...\" por ser información sobre el medio, no del entrevistado; se corrigió \"Según la BBC\" para que la atribución quede clara; se ajustó el inglés en consecuencia; se cambió \"sonoramente\" por una formulación más natural; se corrigió \"el reguetón\" sin cambios de hechos)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-22T07:49:59.685046+00:00",
-  "tendencia": 1
- },
- {
-  "id": "41cd1c1787",
-  "titulo": "Israel del Amo critica la actuación de Karol G en los Latin Grammy",
-  "titulo_original": "Israel del Amo, experto musical, sobre Karol G: “Hace cosas que no le están beneficiando nada”",
-  "resumen": "El analista musical Israel del Amo afirma que Karol G \"hace cosas que no le están beneficiando nada\" en su presentación en los Latin Grammy.",
-  "gancho": "El analista musical Israel del Amo afirma que Karol G \"hace cosas que no le están beneficiando nada\" en su presentación en los Latin Grammy.",
-  "parrafos": [
-   "En uno de sus videos recientes, el analista musical Israel del Amo habló sobre la presentación de Karol G en los Premios Latin Grammy y aseguró que no le convenció lo que intentó hacer la cantante colombiana.",
-   "Del Amo, quien fue director de la candidatura española en el Festival de Eurovisión de 2024, explicó que la voz de Karol G suena muy distinta y que parece estar intentando modificarla. Según él, la artista baja la laringe, algo que no le favorece, y por eso su voz se escucha ahogada y un poco engolada.",
-   "El experto señaló que el color vocal de la cantante \"sigue siendo bonito\", pero que su voz se escucha apretada. \"No le beneficia nada lo que está haciendo aquí porque se ahoga\", afirmó.",
-   "Del Amo comentó que, a medida que avanza el tema \"Ese hombre es malo\", la situación mejora ligeramente y la artista se muestra más estable. Sin embargo, también notó que coge aire en momentos inadecuados y corta frases, lo que le hizo pensar que podría estar nervioso.",
-   "Al final, el analista dijo que prefiere ver a Karol G cantando otro tipo de canciones y no en este formato."
-  ],
-  "claves": [
-   "Israel del Amo, experto musical, criticó la actuación de Karol G en los Premios Latin Grammy.",
-   "Según el analista, la colombiana intentó modificar su voz y eso la perjudicó.",
-   "Del Amo dijo que la voz de la cantante se escuchó apretada y ahogada, aunque reconoció que su color vocal sigue siendo bonito.",
-   "La crítica se hizo en uno de sus videos recientes, en el que analizó la canción \"Ese hombre es malo\"."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Music Analyst Israel del Amo Criticizes Karol G's Latin Grammy Performance",
-   "gancho": "Music analyst Israel del Amo says Karol G is \"doing things that aren't benefiting her at all\" in her Latin Grammy performance.",
-   "claves": [
-    "Israel del Amo, a music expert, criticized Karol G's performance at the Latin Grammy Awards.",
-    "According to the analyst, the Colombian singer tried to change her voice, and that hurt her.",
-    "Del Amo said the singer's voice sounded tight and muffled, though he acknowledged her vocal color is still beautiful.",
-    "The criticism came in one of his recent videos, in which he analyzed the song \"Ese hombre es malo.\""
-   ],
-   "importa": "",
-   "parrafos": [
-    "In one of his recent videos, music analyst Israel del Amo spoke about Karol G's Latin Grammy Awards performance and said he was not convinced by what the Colombian singer tried to do.",
-    "Del Amo, who was director of Spain's entry at the 2024 Eurovision Song Contest, explained that Karol G's voice sounds very different and that she seems to be trying to change it. According to him, the artist lowers her larynx, which does not help her, and as a result her voice sounds muffled and somewhat throaty.",
-    "The expert said the singer's vocal color \"still sounds beautiful,\" but that her voice sounds tight. \"What she's doing here doesn't benefit her at all because she's drowning,\" he said.",
-    "Del Amo noted that as the song \"Ese hombre es malo\" progresses, the situation improves slightly and the artist becomes more stable. However, he also observed that she takes breaths at the wrong moments and cuts off phrases, which made him think she might be nervous.",
-    "In the end, the analyst said he would rather see Karol G singing other kinds of songs than this format."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUFTbXlFWC0zdUtNT0g2UHl0RktMT1hKa2M1RUo1UHhOUmdWTjNCVGVQWURDcDc0dHplMF9uZWdlMmJJeEJlLUxodHFZcURKWVdfazZIRHBaOFE3dXVzYmFXRGtpRjhmRUpDcDkyUDZXRmNPTFd4OXREam01UlZRUzhESUowd1ZXM2xhRzJYOXFWUkVyNm9IeXBNNlJhNVY2RnNjd2xHQ1VOZFVkdWg3WmQweTZyWUNZVGR2SXpVdm1ZUmlweWtZMlM2ck3SAeABQVVfeXFMTnRScjJqYmtFdkotU3pyNDd1dk1uUXplY210SW1rQldLbTM5cFFBbzNTS01WOUdlR2g3OGFhTGIyNTJnZmhNMzhlb3FiM1NnTEY4TXFVUGxiOHhHeVZxejVnMEZCU2lOR3kySzN5ZmFMYmJkQ0ZhZ1NUYWt5Nl8wTk05ZGtwdENNcERsVmhvSVhseGotc2d2TGo1YVBEX3NnMkNHU3U0ZzNBYVRRdk1aRmx4UXFIRFlLYVlldFAtVDlXN3h3MGl5dnVyNFRicll3d3NMdFlSOEVCb2pUZ1lISk4?oc=5",
-  "url": "https://as.com/tikitakas/musica/israel-del-amo-experto-musical-sobre-karol-g-hace-cosas-que-lo-le-estan-beneficiando-nada-f202611-n/",
-  "fuente": "Diario AS",
-  "dominio": "as.com",
-  "fuentes": [
-   {
-    "nombre": "Diario AS",
-    "url": "https://as.com/tikitakas/musica/israel-del-amo-experto-musical-sobre-karol-g-hace-cosas-que-lo-le-estan-beneficiando-nada-f202611-n/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"cabe destacar\"-tipo relleno inexistente; ajusté \"sigue siendo\" a la cita, corregí \"cantando\" sin cambios de hechos; el texto ya era fiel, cambié atribución de \"critica\" y \"explicó\" para mayor precisión y eliminé \"en uno de sus videos recientes\" duplicado; aclaré que el tema \"Ese hombre es malo\" es la canción analizada)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-22T07:50:13.752550+00:00",
-  "tendencia": 1
- },
- {
-  "id": "ee4cfa1a35",
-  "titulo": "MLB Gameday: Jalisco vs. Mexicali, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Jalisco vs. Mexicali, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2wyeDhtZi1JY3pNWFZmVGRtSUhuOEpnaTJVQ3lVeVpFbDVtanBZSHJDYnZOSGhHZXN0VFBwVVVmZnZpTzFGTTZScTY3c2ZpVGd3Y2NNQWs1LXU5WW1wNmY0TmNtUG5icW5qeGxxRkFlUWJ5dGNabGpDdEVMbEUzWUx3?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T07:50:20.696712+00:00"
- },
- {
-  "id": "7b2fca05b5",
-  "titulo": "MLB Gameday: Guasave vs. Los Mochis, lanzadores probables, alineaciones, y más",
-  "titulo_original": "MLB Gameday: Guasave vs. Los Mochis, lanzadores probables, alineaciones, y más",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdElUa3BsdGlXVU9ETW5uZjRpQTJiQm02cVFxRHdFNUNnMUlON3ZoNDRVTzF5RndxTHplTUYyc2xUOEcxZGU4aVFwaXdUd1lUZzYzdTNwM0M5b1FlYXpNUDJyeDFQSEtVRTdlUGxyWExkaWdBY1NQaW1VYVFWeW55SmVxcHY?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-22T07:50:23.003512+00:00"
  }
 ]
