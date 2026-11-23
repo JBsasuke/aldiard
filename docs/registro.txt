@@ -1,119 +1,107 @@
-Corrida: 2026-11-23 02:48 AM (hora RD)
-[República Dominicana] Corporación de Acueducto y Alcantarillado de Santo Domingo: texto leído 608 letras -> https://portal.caasd.gob.do/
-Fuente oficial encontrada: Corporación de Acueducto y Alcantarillado de Santo Domingo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Recolección de aguas residuales
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/capturado-en-colombia-profugo-dominicano-dondy-requerido-por-narcotrafico-internacional-lavado-de-activos-y-otros-delitos/
-No se pudo leer el artículo; no se publica para no salir corta: Capturado en Colombia prófugo dominicano “Dondy”, requerido por narcotráfico internacional, lavado de activos y otros delitos – Inicio
+Corrida: 2026-11-23 03:48 AM (hora RD)
 [República Dominicana] DGII: texto leído 1081 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-del-comprador-en-facturas-de-consumo-electrnicas-e32-menores-de-rd250000/6b03058e3a9daeeaea53b91f
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación del comprador en facturas de consumo electrónicas E32 menores de RD$250,000
-[República Dominicana] De Último Minuto: texto leído 3733 letras -> https://deultimominuto.com/entretenimiento/rosalia-comenta-en-publicacion/
-[República Dominicana] La Vanguardia: texto leído 3369 letras -> https://www.lavanguardia.com/gente/20261122/11690533/rosalia-sorprende-inesperado-mensaje-rauw-alejandro-tres-anos-ruptura-ok-banger.html
-[República Dominicana] Vanitatis: texto leído 6922 letras -> https://www.vanitatis.elconfidencial.com/famosos/2026-11-22/rosalia-primer-comentario-rauw-alejandro-ruptura_4470257/
-Cambiada de sección: República Dominicana -> Famosos: Rosalía comenta en publicación de Rauw Alejandro: “Ok banger”
-Revisión: corregida (se corrigió la atribución de la historia "Ok banger" de Vanitatis a Vanitatis y Al Día, se retiró la atribuci
 [República Dominicana] De Último Minuto: texto leído 4648 letras -> https://deultimominuto.com/nacionales/43-8-de-los-hombres-violencia/
 [República Dominicana] AlMomento.net: texto leído 2427 letras -> https://almomento.net/438-hombres-rd-admite-ha-cometido-violencia-de-genero/
-Rechazada por la revisión: 43.8 % de los hombres admite haber ejercido violencia contra mujeres en RD -> cifras que no aparecen en las fuentes: 44, 63
-[República Dominicana] CDN: texto leído 1715 letras -> https://cdn.com.do/nacionales/regionales/monumento-de-santiago-se-viste-de-rojo-por-dia-mundial-del-corazon/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Monumento de Santiago se viste de rojo por Día Mundial del Corazón
-[República Dominicana] Acento: texto leído 2255 letras -> https://acento.com.do/cultura/musicos-del-merengue-tipico-piden-escuelas-y-mayor-apoyo-para-preservar-el-genero-9794849.html
-Revisión: corregida (Se atribuyó la información del conversatorio a Acento; se quitó "coincidieron" por "agreed" más neutro y se a
+Revisión: corregida (corregí el 43.8 % atribuido solo a un periódico, cambié "Según el estudio" y la cita de la ministra a AlMomen
 Es opinión o editorial, se salta: Del puertorriqueño moderno (5)
 Es opinión o editorial, se salta: Advertencia de Napoleón a Jensen Huang de Nvidia
+[República Dominicana] Acento: texto leído 880 letras -> https://acento.com.do/internacional/un-muerto-y-cinco-heridos-por-ataques-ucranianos-contra-regiones-fronterizas-rusas-9794802.html
+Cambiada de sección: República Dominicana -> Internacionales: Un muerto y cinco heridos por ataques ucranianos contra regiones fronterizas rusas
+Revisión: corregida (se atribuyó la afirmación final sobre el origen ucraniano de los drones y las víctimas civiles a la fuente, q
+Es opinión o editorial, se salta: Caso Melissa Medina: lo moral, lo social y lo jurídico
+Es opinión o editorial, se salta: ¿Quién puso el dinero?
+[República Dominicana] N Digital: texto leído 2322 letras -> https://n.com.do/2026/11/22/fedola-remodelacion-pabellon-lucha-centro-olimpico/
+Cambiada de sección: República Dominicana -> Deportes: Federación Dominicana de Lucha pide agilizar remodelación de pabellón en el Centro Olímpico
+Revisión: corregida (corregí "Jean Luis Rodríguez" en la versión inglesa sin cambios; en realidad el borrador era consistente con 
+[República Dominicana] N Digital: texto leído 1573 letras -> https://n.com.do/2026/11/22/bepicolombo-alcanza-la-orbita-de-mercurio-tras-ocho-anos-de-viaje-espacial/
+No encaja en ninguna sección, se salta: BepiColombo alcanza la órbita de Mercurio tras ocho años de viaje espacial
+[Dominicanos en EE.UU.] IDAC - Instituto Dominicano De Aviación Civil: texto leído 474 letras -> https://www.idac.gob.do/
+No se pudo leer el artículo; no se publica para no salir corta: IDAC - Instituto Dominicano De Aviación Civil
 [Dominicanos en EE.UU.] U.S. Embassy in Bahrain (.gov): texto leído 2480 letras -> https://bh.usembassy.gov/security-alert-u-s-embassy-manama-november-22-2026/
 Fuente oficial encontrada: U.S. Embassy in Bahrain (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Manama – November 22, 2026
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] SEC.gov: texto leído 0 letras -> https://www.sec.gov/Archives/edgar/data/1985554/000168316826008986/alphadig_ex1006.htm
+No se pudo leer el artículo; no se publica para no salir corta: Commercial Usufruct, Exclusive Purchase Option, and Site Development and Control ... - SEC.gov
 [Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZCA52.TJSJ.html
 Fuente oficial encontrada: NOAA (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): National Weather Service Marine Forecast FZCA52 TJSJ
+Fuente no confiable, se salta: manhattantimesnews.com
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: tributearchive.com
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: newsinamerica.com
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 2000 letras -> https://almomento.net/miami-comunidad-dominicana-un-talento-desperdiciado/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MIAMI: Comunidad dominicana, un talento desperdiciado
-Fuente no confiable, se salta: prensa-latina.cu
+Fuente no confiable, se salta: noticentro.com.do
+Fuente no confiable, se salta: dimensionturistica.com
+Fuente no confiable, se salta: youtu.be
+Fuente no confiable, se salta: espaciodeprensa.com
 Fuente no confiable, se salta: newsinamerica.com
+Fuente no confiable, se salta: prensa-latina.cu
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: espaciodeprensa.com
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2947 letras -> https://elnuevodiario.com.do/juez-rechaza-liberar-al-dominicano-oscar-belgal-baleado-por-agentes-del-ice-en-nueva-york/
-Revisión: corregida (se atribuyó a El Nuevo Diario la afirmación de la defensa y la frase de Legal Aid; se corrigió "her" por "his
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 3075 letras -> https://almomento.net/ny-juez-niega-liberacion-de-dominicano-baleado-por-ice/
-Revisión: corregida (se corrigió la fecha de la detención de 2023 a "2 años después" de 2021 sin cifra exacta; se atribuyó la vers
 [Internacionales] stories.state.gov!: texto leído 3804 letras -> https://stories.state.gov/thanksgiving-football/
 Fuente oficial encontrada: stories.state.gov! 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Americans pair football with their Thanksgiving feast
-[Internacionales] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
-[Internacionales] sanrafael.gov: texto leído 1128 letras -> https://sanrafael.gov/event/the-young-readers-project-2026-11-22/
-Fuente oficial encontrada: sanrafael.gov 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The Young Readers Project
-[Famosos] Diario Libre: texto leído 2785 letras -> https://www.diariolibre.com/actualidad/politica/2026/11/23/asistencia-medica-dominicana-ha-sido-clave-en-operaciones-en-haiti/3728273
-Cambiada de sección: Famosos -> República Dominicana: RD se mantiene como destino de evacuaciones médicas desde Haití
-Revisión: corregida (corregido el titular y el gancho para reflejar que son "militares y policías"; quitado "desde 2024" en favor 
+Revisión: corregida (Se cambió "Desde 1934, los Detroit Lions reciben partidos" por "Desde 1934, los Detroit Lions juegan en el Dí
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: momentodeportivord.com
-[Famosos] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/rd-debate-confronta-visiones-sobre-crisis-electrica-apagones-y-perdidas-millonarias-en-rd/
-Cambiada de sección: Famosos -> República Dominicana: RD Debate confronta visiones sobre crisis eléctrica, apagones y pérdidas millonarias en RD
-Revisión: corregida (eliminé "según informó El Nuevo Diario" para atribuirlo correctamente, quité frases de relleno y ajusté el te
-Fuente no confiable, se salta: nacionflix.com
-Fuente no confiable, se salta: mundiario.com
-Fuente no confiable, se salta: vietnam.vn
-Fuente no confiable, se salta: sensacine.com
-Fuente no confiable, se salta: nacionflix.com
-[Famosos] MARCA: texto leído 1750 letras -> https://amp.marca.com/tiramillas/cine/2026/11/22/quentin-tarantino-vuelve-padre-63-anos-familia-numerosa.html
-[Famosos] MARCA: texto leído 1869 letras -> https://www.marca.com/tiramillas/cine/2026/11/22/quentin-tarantino-vuelve-padre-63-anos-familia-numerosa.html
-[Famosos] La Vanguardia: texto leído 2733 letras -> https://www.lavanguardia.com/gente/20261122/11690493/quentin-tarantino-daniella-pick-dan-bienvenida-tercer-hijo-son-familia-numerosa.html
-Revisión: corregida (se corrigió "Las Hermanas Pick" a "Las Hermanas Pick" sin cambios; se eliminó la atribución de "familia numer
-Fuente no confiable, se salta: fotogramas.es
-Fuente no confiable, se salta: nacionflix.com
-Fuente no confiable, se salta: los40.cl
+Fuente no confiable, se salta: latinspots.com
 Fuente no confiable, se salta: latingrammy.com
 Fuente no confiable, se salta: dukvitv.com
 Fuente no confiable, se salta: gritaradio.com
 Fuente no confiable, se salta: latingrammy.com
 Fuente no confiable, se salta: elpais.com.co
-Fuente no confiable, se salta: reforma.com
-[Famosos] MARCA: texto leído 2550 letras -> https://www.marca.com/mx/nfl/2026/11/22/quienes-son-the-warning-banda-mexicana-actuara-show-medio-nfl-estadio-azteca.html
-Cambiada de sección: Famosos -> Deportes: ¿Quiénes son The Warning, la banda mexicana que actuará en el Show de Medio Tiempo de NFL en el Estadio Azteca?
-Revisión: corregida (se quitó "es importante resaltar" del texto español y se ajustó "cuatro años" sin cambios de fondo; se corrig
 [Famosos] HOLA: texto leído 4974 letras -> https://www.hola.com/viajes/20261122936204/alberto-san-juan-pueblo-cuenca-canamares/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto de la versión que me has pasado está cortado a mitad de frase y no incluye los hechos completos que me permitan redactar una noticia fiel y verificable. Además, es una única f')
+Error IA: ValueError('respuesta sin el formato esperado: No puedo completar esta tarea tal como está planteada, porque el texto que me pasaste está truncado: la versión 1 termina a mitad de la descripción de Cañamares y no hay más versiones de la noticia. A')
 [Famosos] HOLA: texto leído 5228 letras -> https://www.hola.com/decoracion/20261122936209/alex-baena-casa-soltero-chalet-moderno-madrid/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así es la espectacular casa de soltero del jugador Álex Baena en Madrid: un chalet contemporáneo sin estridencias, espacios abiertos y jardín con piscina
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/gigantes-vs-aguilas/2026/11/22/851553/final/box
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Gigantes 10, Aguilas 11 Resultado Final (22/11/2026)
+[Famosos] HOLA: texto leído 5399 letras -> https://www.hola.com/horoscopo/geminis/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Géminis hoy: predicción y características del signo
+[Famosos] HOLA: texto leído 6181 letras -> https://www.hola.com/horoscopo/aries/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Aries hoy: predicción y características del signo
+[Famosos] Infobae: texto leído 5643 letras -> https://www.infobae.com/teleshow/2026/11/22/el-inesperado-encuentro-de-la-china-suarez-y-mauro-icardi-con-benjamin-vicuna-y-su-novia-en-una-boda-en-uruguay-las-fotos/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): El inesperado encuentro de la China Suárez y Mauro Icardi con Benjamín Vicuña y su novia en una boda en Uruguay: las fotos
+[Famosos] Infobae: texto leído 3534 letras -> https://www.infobae.com/teleshow/2026/11/22/hinchas-de-boca-esperaron-a-guillermo-francella-a-la-salida-del-teatro-tras-el-triunfo-racing-boton/
+[Famosos] Clarin.com: texto leído 2967 letras -> https://www.clarin.com/fama/racing-boton-hinchas-boca-esperaron-guillermo-francella-salida-teatro_0_871Yq4jt9k.html
+Revisión: corregida (quité "Según Clarín" de la mención de Homo Argentum, que sí aparece en Clarín; corregí que el actor no hizo u
 [Deportes] MLB.com: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: ¿Quién cubrirá la 1B de los Yankees? Rice y García no pueden jugar allí al mismo tiempo
-[Deportes] MLB.com: texto leído 5456 letras -> https://www.mlb.com/news/mlb-teams-with-prospects-to-trade-offseason-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): These 7 teams have the prospects to swing a big trade this offseason
-[Deportes] MLB.com: texto leído 6803 letras -> https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027
-Revisión: corregida (se corrigió "Brewers/Cerveceros" en contexto de cifras; se atribuyó la información de la reunión con Skubal y
+No se pudo leer el artículo; no se publica para no salir corta: These 7 teams have the prospects to swing a big trade this offseason
 [Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/notable-braves-contract-extensions
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Looking back at 7 big Braves contract extensions
 [Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/mlb-teams-that-need-to-make-an-offseason-upgrade-2026-27
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 1 team at each position most in need of an upgrade for 2027
+[Deportes] MLB.com: texto leído 5673 letras -> https://www.mlb.com/news/what-tarik-skubal-deal-means-for-free-agent-market
+La IA la descartó (no es noticia, rumor, opinión o publicidad): With Skubal off the market, will it open free-agent floodgates?
+[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/starting-5-november-21-2026
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el material que pegaste está incompleto: solo llega hasta la mitad de la Versión 1 (NBA.com, un boletín de resultados sobre la Copa NBA) y no trae versiones adicionales ni marcas de (F')
+[Deportes] NBA.com: texto leído 111 letras -> https://www.nba.com/watch/video/game-recap-spurs-114-pelicans-91-nov-21
+No se pudo leer el artículo; no se publica para no salir corta: Game Recap: Spurs 114, Pelicans 91 (Nov. 21)
+Fuente no confiable, se salta: cubanet.org
+Es opinión o editorial, se salta: Abinader: de crisis en crisis
+Fuente no confiable, se salta: prensamercosur.org
+Fuente no confiable, se salta: noticia.do
+Fuente no confiable, se salta: rdteve.com
 [Precios y combustibles] El Dia.com.do: texto leído 932 letras -> https://eldia.com.do/asi-se-cotizan-las-divisas-en-los-principales-bancos-este-22-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Así se cotizan las divisas en los principales bancos este 22 de noviembre
 [Precios y combustibles] Clarin.com: texto leído 1900 letras -> https://www.clarin.com/economia/euro-hoy-en-republica-dominicana-precio-y-cotizacion-de-la-divisa-este-domingo-22-de-noviembre-de-2026_0_Rp4Gs3dPuS.amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: precio y cotización de la divisa este domingo 22 de noviembre de 2026
-Fuente no confiable, se salta: cubanet.org
-Fuente no confiable, se salta: prensamercosur.org
-Es opinión o editorial, se salta: Abinader: de crisis en crisis
 [Videojuegos] Nintendo: texto leído 925 letras -> https://www.nintendo.com/us/whatsnew/gather-the-crew-for-a-little-multiplayer-mayhem/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gather the crew for a little multiplayer mayhem!
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
+[Videojuegos] Nintendo Support: texto leído 1230 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/26317/~/controller-not-responding-after-using-find-controllers-feature-on-nintendoapp/answers/list/kw/%7Bsearch_term_string%7D
+Fuente oficial encontrada: Nintendo Support 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Controller not responding after using Find Controllers feature on Nintendo Switch
 [Videojuegos] Nintendo: texto leído 2416 letras -> https://www.nintendo.com/us/store/products/little-genius-spot-the-difference-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
-[Videojuegos] Nintendo Support: texto leído 950 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/68494/~/joy-con%26nbsp%3B2-feel-loose-or-wobbly
-Fuente oficial encontrada: Nintendo Support 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Joy-Con 2 feel loose or wobbly
-[Videojuegos] Nintendo: texto leído 1448 letras -> https://www.nintendo.com/us/store/products/deck-of-robin-hood-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Deck of Robin Hood
+[Videojuegos] Nintendo: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Fangtopia | Nintendo Switch 2
 [Videojuegos] Pokemon.com: texto leído 2192 letras -> https://community.pokemon.com/en-us/discussion/27017/x-y-in-online-expanded-format
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): X&Y in online Expanded format
@@ -122,10 +110,7 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Do you nickname your Pokemon?
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no sirve como noticia. Es una publicación personal y en gran parte incoherente, sin hechos verificables (qué pasó, quién, cuándo o dónde). Mezcla referencias sin sentido, com')
-[Videojuegos] Nintendo: texto leído 2884 letras -> https://www.nintendo.com/es-cl/store/products/reshine-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Reshine para Nintendo Switch - Sitio Oficial de Nintendo para Chile
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nDejo constancia de por qué no puedo redactar una noticia con este material: el único texto disponible es un post de foro sin contenido informativo verificable. Mezcla frases sin sentido')
 [Videojuegos] Nintendo: texto leído 1103 letras -> https://www.nintendo.com/es-co/whatsnew/juega-en-compania-y-diviertete-en-caoticas-partidas-multijugador/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Juega en compañía y diviértete en caóticas partidas multijugador!
@@ -135,8 +120,10 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): EQ+ para Ninte
 [Videojuegos] Nintendo: texto leído 1827 letras -> https://www.nintendo.com/es-ar/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
+[Videojuegos] Nintendo: texto leído 178 letras -> https://www.nintendo.com/es-co/store/products/touhou-spell-bubble-plus-scarlet-devil-land-song-pack-set-70070000040012-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: TOUHOU Spell Bubble + Scarlet Devil Land Song Pack Set
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 31 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-12 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 116 · ya cubiertas: 20 · no confiables: 22 · opinión: 3 · con texto leído: 43 · sin texto: 3 · medios juntados: 4 · con fuente oficial: 19 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 0 · error IA: 2 · descartadas por la IA: 26 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 3
+11 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 5 · ya vistas: 117 · ya cubiertas: 25 · no confiables: 25 · opinión: 5 · con texto leído: 33 · sin texto: 6 · medios juntados: 2 · con fuente oficial: 14 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 23 · cambiadas de sección: 2 · largas: 5 · ocultas (cortas): 6
