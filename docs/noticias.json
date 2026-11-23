@@ -57,8 +57,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T23:48:36.173799+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/c4ff79e629.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/c4ff79e629.jpg",
+  "ig_id": "18044905745833133",
+  "ig_fecha": "2026-11-22T23:53:38.956870+00:00"
  },
  {
   "id": "b1963f2a94",
@@ -182,8 +184,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-22T23:49:11.296872+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/be5a6db5e8.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/be5a6db5e8.jpg",
+  "ig_id": "17918421561552958",
+  "ig_fecha": "2026-11-22T23:55:07.192717+00:00"
  },
  {
   "id": "5969882c5d",
@@ -5072,10 +5076,13 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-22T15:49:07.537470+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/c872b47c41.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/c872b47c41-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/c872b47c41-h.jpg",
+  "ig_id": "18106368680638176",
+  "ig_fecha": "2026-11-22T23:56:34.878732+00:00",
+  "historia_fecha": "2026-11-22T23:56:47.643943+00:00"
  },
  {
   "id": "c7533aae73",
@@ -6282,10 +6289,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-22T13:49:45.774324+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/2f7836c602.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/2f7836c602-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/2f7836c602-h.jpg",
+  "ig_id": "18065428589792922",
+  "ig_fecha": "2026-11-22T23:58:15.681970+00:00",
+  "historia_fecha": "2026-11-22T23:58:27.861016+00:00"
  },
  {
   "id": "663ea71bf2",
@@ -6410,10 +6420,13 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-22T13:50:47.289719+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/c103105fdd.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/c103105fdd-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/c103105fdd-h.jpg",
+  "ig_id": "17941365720124423",
+  "ig_fecha": "2026-11-22T23:59:55.496384+00:00",
+  "historia_fecha": "2026-11-23T00:00:07.203369+00:00"
  },
  {
   "id": "1d6e758f21",
