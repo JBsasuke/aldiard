@@ -1,5 +1,711 @@
 [
  {
+  "id": "7b4770f334",
+  "titulo": "INFORME DE LA SUFICIENCIA FINANCIERA DEL GOBIERNO LOCAL CORRESPONDIENTE AL 3ER. TRIMESTRE 2026. JUNTA DE DISTRITO MUNICIPAL CA",
+  "titulo_original": "INFORME DE LA SUFICIENCIA FINANCIERA DEL GOBIERNO LOCAL CORRESPONDIENTE AL 3ER. TRIMESTRE 2026. JUNTA DE DISTRITO MUNICIPAL CA",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnJFck5xRmZzemtXTHQyQzVLWE9nQ1BoQUtYbFNVUFl4TklUQU5aUW9fakoyMy1vQW8yc01aWUtRa0pEMGYzMGNZYkF6TE1jUXo3MEhHQlg4TUt1WGdTcTlBdjRydWY5eUJBcU9kM2RMLU9ia3pvakRYWmU1dW91TWtKMFFGQUZtWWU2T1lFNlViU0hXZThQSFBRXzhaQ2xQMzFUb1dYV25mYUlFTm9vSlpwZk1TRXdUZ1o1YldadUVyTGVHZzQ1MlVyaw?oc=5",
+  "fuente": "SISMAP",
+  "dominio": "sismap.gob.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T20:49:31.791190+00:00"
+ },
+ {
+  "id": "aa055fd18a",
+  "titulo": "Dos muertos tras choque de camión contra furgón en la Autovía del Este",
+  "titulo_original": "Accidente en la Autovía del Este deja dos muertos cerca de Boca del Soco",
+  "resumen": "Un camión de la empresa Molino del Sol chocó contra un furgón detenido en la Autovía del Este. Dos personas murieron en el accidente.",
+  "gancho": "Un camión de la empresa Molino del Sol chocó contra un furgón detenido en la Autovía del Este. Dos personas murieron en el accidente.",
+  "parrafos": [
+   "Dos personas murieron la tarde de este martes 24 de noviembre en un accidente de tránsito en la Autovía del Este, cerca de la comunidad de Boca del Soco. Según informó De Último Minuto, el camión de la empresa Molino del Sol en el que viajaban chocó contra un furgón que estaba detenido a un lado de la carretera.",
+   "De acuerdo con informaciones preliminares, las víctimas serían el conductor del camión y su ayudante. Las autoridades todavía no han revelado sus identidades.",
+   "El conductor del furgón contó a De Último Minuto que se había detenido en la vía para comprar un refresco en un colmado de la zona. Al escuchar un fuerte estruendo y salir del establecimiento, se encontró con el camión accidentado después del impacto.",
+   "Hasta el momento, las autoridades no han ofrecido detalles oficiales sobre cómo ocurrió la colisión ni han confirmado la identidad de los fallecidos. Se espera que las autoridades esclarezcan las causas del accidente."
+  ],
+  "claves": [
+   "Dos personas murieron la tarde del martes 24 de noviembre.",
+   "El camión de Molino del Sol impactó contra un furgón detenido a un lado de la vía.",
+   "El accidente ocurrió cerca de la comunidad de Boca del Soco.",
+   "Las autoridades aún no han revelado la identidad de las víctimas ni las causas del accidente."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Two Dead After Truck Crashes Into Parked Van on Autovía del Este",
+   "gancho": "A Molino del Sol truck slammed into a van stopped on the Autovía del Este. Two people died in the crash.",
+   "claves": [
+    "Two people died on the afternoon of Tuesday, November 24.",
+    "The Molino del Sol truck hit a van parked on the side of the road.",
+    "The crash happened near the community of Boca del Soco.",
+    "Authorities have not yet released the victims' identities or the cause of the crash."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Two people died on Tuesday afternoon, November 24, in a traffic accident on the Autovía del Este, near the community of Boca del Soco. According to De Último Minuto, the Molino del Sol truck they were riding in crashed into a van stopped on the side of the highway.",
+    "Preliminary reports indicate the victims were the truck's driver and his helper. Authorities have not yet released their names.",
+    "The van's driver told De Último Minuto that he had pulled over to buy a soft drink at a nearby corner store. After hearing a loud crash and coming out of the store, he found the truck wrecked after the impact.",
+    "So far, authorities have not given official details on how the collision happened or confirmed the identities of the dead. Officials are expected to determine the cause of the accident."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/accidente-autovia-este-dos-muerto/",
+  "url": "https://deultimominuto.com/nacionales/accidente-autovia-este-dos-muerto/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/accidente-autovia-este-dos-muerto/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Según informó\" → mantengo atribución; cambié \"cabe\"/relleno, eliminé \"viajaban\" ambiguo no; ajusté \"se encontraba\" y frases genéricas; corregí \"tras el impacto\" a \"después del impacto\"; \"las autoridades competentes\" y \"esclarezcan\" sin cambios de fondo; y añadí atribución al furgón y quité el \"cerca\" ya correcto)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:49:47.777602+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "0b1ddf1aa1",
+  "titulo": "FCES-UASD premia a tres equipos estudiantiles en su Hackathon 2026",
+  "titulo_original": "FCES-UASD clausura Hackathon 2026 con premiación de tres equipos estudiantiles",
+  "resumen": "Noventa y un estudiantes compitieron en el Hackathon FCES 2026 de la UASD, y tres equipos se llevaron becas tras presentar sus proyectos ante un jurado.",
+  "gancho": "Noventa y un estudiantes compitieron en el Hackathon FCES 2026 de la UASD, y tres equipos se llevaron becas tras presentar sus proyectos ante un jurado.",
+  "parrafos": [
+   "La Facultad de Ciencias Económicas y Sociales de la Universidad Autónoma de Santo Domingo (FCES-UASD) clausuró el 20 de noviembre el Hackathon FCES 2026, una iniciativa para promover la innovación, el trabajo en equipo y el desarrollo de soluciones a desafíos reales. La jornada terminó con la premiación de los tres primeros lugares.",
+   "Bajo el lema «De ideas a soluciones con impacto: aprender, crear, transformar», el programa comenzó el 12 de octubre y reunió a 91 estudiantes de la facultad. Durante el proceso recibieron capacitaciones y mentorías para aplicar herramientas de inteligencia artificial y análisis de datos, y para fortalecer los modelos de negocio de sus proyectos.",
+   "De acuerdo con un comunicado, las jornadas presenciales del 19 y 20 de noviembre sirvieron para afinar las propuestas con el apoyo de facilitadores especializados. En la clausura, los equipos presentaron sus proyectos ante el jurado, que seleccionó a los tres primeros lugares.",
+   "El equipo ganador del primer lugar recibió una beca completa de maestría. Al segundo lugar se le otorgó una beca para un diplomado, y al tercero, una beca para un curso.",
+   "En el acto de cierre, la facultad también entregó reconocimientos a los mentores, facilitadores e integrantes del jurado, en agradecimiento por su aporte a la formación de los estudiantes y a la evaluación de los proyectos.",
+   "Con esta iniciativa, la FCES-UASD abrió un espacio para que sus estudiantes pusieran en práctica conocimientos de distintas disciplinas, trabajaran en equipo y defendieran sus propuestas ante profesionales vinculados al Hackathon."
+  ],
+  "claves": [
+   "El Hackathon FCES 2026 fue clausurado el 20 de noviembre por la Facultad de Ciencias Económicas y Sociales de la UASD.",
+   "Participaron 91 estudiantes de la facultad, que trabajaron desde el 12 de octubre.",
+   "El primer lugar recibió una beca completa de maestría; el segundo, una beca para un diplomado; y el tercero, una beca para un curso.",
+   "Los equipos aplicaron herramientas de inteligencia artificial y análisis de datos a sus proyectos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "UASD Economics Faculty Awards Three Student Teams at Hackathon 2026",
+   "gancho": "Ninety-one students competed in the FCES 2026 Hackathon at UASD, and three teams won scholarships after pitching their projects to a judging panel.",
+   "claves": [
+    "The FCES 2026 Hackathon was closed on November 20 by the Faculty of Economic and Social Sciences at UASD.",
+    "Students from the faculty took part, working from October 12 onward.",
+    "First place received a full master's scholarship; second place, a diploma scholarship; third place, a course scholarship.",
+    "Teams applied artificial intelligence and data analysis tools to their projects."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Faculty of Economic and Social Sciences of the Autonomous University of Santo Domingo (FCES-UASD) closed the FCES 2026 Hackathon on November 20, an initiative to promote innovation, teamwork, and the development of solutions to real-world challenges. The event ended with the awards for the top three places.",
+    "Under the motto \"From ideas to solutions with impact: learn, create, transform,\" the program began on October 12 and brought together 91 students from the faculty. Throughout the process, they received training and mentoring to apply artificial intelligence and data analysis tools, and to strengthen the business models behind their projects.",
+    "According to a press release, the in-person sessions on November 19 and 20 were used to refine the proposals with the support of specialized facilitators. At the closing ceremony, the teams presented their projects to the judging panel, which selected the top three.",
+    "The first-place team received a full master's scholarship. The second-place team was awarded a diploma scholarship, and the third-place team, a course scholarship.",
+    "At the closing ceremony, the faculty also presented recognitions to the mentors, facilitators, and judges, in appreciation of their contribution to the students' training and to the evaluation of the projects.",
+    "With this initiative, FCES-UASD opened a space for its students to put knowledge from different disciplines into practice, work as a team, and defend their proposals before professionals related to the Hackathon."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/uasd-clausura-hackathon-2026/",
+  "url": "https://deultimominuto.com/nacionales/uasd-clausura-hackathon-2026/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/uasd-clausura-hackathon-2026/"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/fces-uasd-clausura-hackathon-2026-con-la-premiacion-de-tres-equipos-estudiantiles/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (agregué atribución \"de acuerdo con un comunicado\" donde la fuente lo indica; precisé \"estudiantes de la facultad\" y ajusté \"distintas áreas\" a \"áreas vinculadas al Hackathon\" según la fuente; eliminé \"Luego\" y dejé la secuencia tal como aparece; en inglés corregí \"students\" a \"Students\" y ajusté \"professionals from related fields\")",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:50:02.264109+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "abef5b2817",
+  "titulo": "Port Samaná entra en funcionamiento y abre una nueva etapa para el Nordeste",
+  "titulo_original": "Pedro Catrain destaca puesta en funcionamiento de Port Samaná y su impacto para el desarrollo del Nordeste",
+  "resumen": "El puerto de cruceros de Samaná ya está en funcionamiento. El senador Pedro Catrain lo calificó como un paso clave para el turismo y la economía de la región.",
+  "gancho": "El puerto de cruceros de Samaná ya está en funcionamiento. El senador Pedro Catrain lo calificó como un paso clave para el turismo y la economía de la región.",
+  "parrafos": [
+   "Port Samaná ya está en funcionamiento. La puesta en marcha de esta infraestructura portuaria fue valorada por el senador por la provincia de Samaná, Pedro Catrain, quien la considera un paso importante para el turismo de cruceros y el desarrollo económico de la región Nordeste.",
+   "Según el legislador, el puerto permitirá ampliar la llegada de visitantes internacionales, dinamizar el comercio, generar empleos y abrir nuevas oportunidades para los sectores productivos. Catrain también valoró la inversión y el compromiso asumido para hacer realidad el proyecto.",
+   "En declaraciones publicadas por Último Minuto, el senador afirmó que Port Samaná es una apuesta estratégica para posicionar a Samaná como uno de los principales destinos de cruceros en la República Dominicana.",
+   "Catrain señaló además que este desarrollo debe ir acompañado de obras complementarias que garanticen que los beneficios del turismo lleguen a las comunidades y a la población de toda la provincia.",
+   "Con la apertura de Port Samaná, la provincia entra en una nueva etapa turística y económica, con expectativas de crecimiento en el comercio, el transporte y los servicios vinculados al turismo."
+  ],
+  "claves": [
+   "Port Samaná inició operaciones, según informa Último Minuto.",
+   "El senador por Samaná, Pedro Catrain, valoró la obra y su impacto en la región.",
+   "Se espera más llegada de visitantes internacionales, comercio y empleos."
+  ],
+  "importa": "El puerto podría generar empleos y oportunidades de negocio en Samaná y en el Nordeste, siempre que sus beneficios lleguen a las comunidades locales.",
+  "en": {
+   "titulo": "Port Samaná Opens, Marking a New Era for the Northeast",
+   "gancho": "Samaná's cruise port is now operating. Senator Pedro Catrain called it a key step for tourism and the economy of the region.",
+   "claves": [
+    "Port Samaná has begun operations, according to Último Minuto.",
+    "Samaná Senator Pedro Catrain praised the project and its impact on the region.",
+    "More international visitors, trade, and jobs are expected."
+   ],
+   "importa": "The port could create jobs and business opportunities in Samaná and the Northeast, provided its benefits reach local communities.",
+   "parrafos": [
+    "Port Samaná is now in operation. The launch of this port infrastructure was welcomed by Samaná Senator Pedro Catrain, who considers it an important step for cruise tourism and the economic development of the Northeast region.",
+    "According to the lawmaker, the port will expand the arrival of international visitors, boost trade, create jobs, and open new opportunities for productive sectors. Catrain also praised the investment and commitment behind the project.",
+    "In statements published by Último Minuto, the senator said Port Samaná is a strategic bet to position Samaná as one of the main cruise destinations in the Dominican Republic.",
+    "Catrain also stressed that this development should be accompanied by complementary works that ensure the benefits of tourism reach communities and residents across the entire province.",
+    "With the opening of Port Samaná, the province enters a new stage of tourism and economic growth, with expectations for progress in commerce, transportation, and tourism-related services."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/pedro-catrain-destaca-puesta/",
+  "url": "https://deultimominuto.com/nacionales/pedro-catrain-destaca-puesta/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/pedro-catrain-destaca-puesta/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"es importante\" y \"cabe\"-tipo relleno, ajusté \"destacó\" a \"valoró\" donde correspondía, precisé en el inglés \"welcomed\" y \"stressed\" para mantener fidelidad al español; sin cambios de datos)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:50:11.974389+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "cb95cc27f7",
+  "titulo": "MITUR recibe a estudiantes de la Universidad de Pennsylvania y presenta su estrategia de innovación turística",
+  "titulo_original": "MITUR presenta estrategias de innovación turística a estudiantes de la University of Pennsylvania",
+  "resumen": "Catorce estudiantes de la Universidad de Pennsylvania visitaron el Ministerio de Turismo para conocer cómo el país usa los datos para crecer como destino.",
+  "gancho": "Catorce estudiantes de la Universidad de Pennsylvania visitaron el Ministerio de Turismo para conocer cómo el país usa los datos para crecer como destino.",
+  "parrafos": [
+   "Catorce estudiantes del The Lauder Institute de la University of Pennsylvania visitaron el Ministerio de Turismo de República Dominicana para conocer de cerca cómo funciona el sector y qué estrategias lo han convertido en un referente en la región.",
+   "La actividad se realizó en el salón multiusos del MITUR y fue coordinada por la Dirección de Formación y Extensión Comunitaria. El foco de la jornada fue el uso de la innovación y la inteligencia de datos en la toma de decisiones del sector.",
+   "Durante el encuentro, Liliana Cruz, directora de Inteligencia del MITUR, dio la conferencia \"Data Intelligence in the Tourism Sector\". Explicó que el análisis de datos permite identificar tendencias, optimizar estrategias y fortalecer la competitividad de los destinos turísticos. También destacó los altos niveles de satisfacción de los visitantes como un indicador clave del desempeño del sector.",
+   "En la jornada participaron además Sakeydi de Jesús, de la Dirección de Estudios Económicos, y Melissa Mercedes, encargada del Departamento de Análisis de la Oferta de la Dirección de Inteligencia. Las palabras de bienvenida estuvieron a cargo de Manuel Pacheco, analista de la Dirección de Formación y Extensión Comunitaria, quien subrayó la importancia de estos espacios para fomentar el interés en el turismo como motor de desarrollo.",
+   "Como parte de la experiencia, los visitantes disfrutaron de una muestra cultural del ballet folklórico del MITUR y de una degustación de dulces típicos dominicanos.",
+   "La visita fortalece los vínculos académicos con instituciones internacionales y refuerza la estrategia del país de combinar innovación, cultura y desarrollo sostenible en el turismo."
+  ],
+  "claves": [
+   "Visitaron el MITUR 14 estudiantes del The Lauder Institute de la University of Pennsylvania.",
+   "La conferencia \"Data Intelligence in the Tourism Sector\" estuvo a cargo de Liliana Cruz, directora de Inteligencia.",
+   "El encuentro incluyó una muestra del ballet folklórico del MITUR y degustación de dulces típicos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Dominican Tourism Ministry Hosts University of Pennsylvania Students to Showcase Innovation Strategy",
+   "gancho": "Fourteen University of Pennsylvania students visited the Dominican Tourism Ministry to see how data is helping the country grow as a destination.",
+   "claves": [
+    "Fourteen students from The Lauder Institute at the University of Pennsylvania visited the MITUR.",
+    "Liliana Cruz, the ministry's intelligence director, gave the talk \"Data Intelligence in the Tourism Sector.\"",
+    "The visit included a cultural performance by the MITUR folkloric ballet and a tasting of traditional Dominican sweets."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Fourteen students from The Lauder Institute at the University of Pennsylvania visited the Ministry of Tourism of the Dominican Republic to learn firsthand how the sector works and which strategies have made the country a regional leader.",
+    "The activity took place in the ministry's multipurpose hall and was coordinated by the Directorate of Training and Community Outreach. The day focused on the use of innovation and data intelligence in the sector's decision-making.",
+    "During the event, Liliana Cruz, the ministry's intelligence director, delivered the talk \"Data Intelligence in the Tourism Sector.\" She explained that data analysis helps identify trends, optimize strategies, and strengthen the competitiveness of tourist destinations. She also highlighted high visitor satisfaction levels as a key indicator of the sector's performance.",
+    "Sakeydi de Jesús, of the Directorate of Economic Studies, and Melissa Mercedes, head of the Supply Analysis Department of the Intelligence Directorate, also took part. Manuel Pacheco, an analyst at the Directorate of Training and Community Outreach, gave the welcome remarks, stressing the value of such spaces for encouraging interest in tourism as a driver of development.",
+    "As part of the experience, visitors enjoyed a cultural performance by the MITUR folkloric ballet and a tasting of traditional Dominican sweets.",
+    "The visit strengthens academic ties with international institutions and reinforces the country's strategy of combining innovation, culture, and sustainable development in tourism."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOFNrdzNScVJfaHVXSVdDbnhzb1ZMYjQtT0Z4UEt3R09zVXRsQ1Z6dnFNTkdVOWl5aWFoS2FVc0VOT3BqNmJKRElVSVkwR09ndDNWLVR1VTd0ZTVaWU1RUWp5YkRDRTlIektha3hJTzFLYWhDdGpIaUJpUllYc2JqWFEzTW85VndOY0FSZ0hTWHpfeVRGdUlNQ0dzTUlkSXlwaFNmRi1DWlg5Y0hlZTVxSVhuYnRIZFJkOVlFcUxfRl9mYVptNnV3MG1wU25nTHA0LW5z?oc=5",
+  "url": "https://noticias.mitur.gob.do/noticias/mitur-presenta-estrategias-de-innovacion-turistica-a-estudiantes-de-la-university-of-pennsylvania/",
+  "fuente": "Ministerio de Turismo de la República Dominicana",
+  "dominio": "noticias.mitur.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Ministerio de Turismo de la República Dominicana",
+    "url": "https://noticias.mitur.gob.do/noticias/mitur-presenta-estrategias-de-innovacion-turistica-a-estudiantes-de-la-university-of-pennsylvania/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://noticias.mitur.gob.do/wp-content/uploads/2020/11/LogoMitur.svg",
+   "credito": "Ministerio de Turismo de la República Dominicana"
+  },
+  "revision": "corregida (ajustes de tono y estilo; se quitaron frases genéricas tipo IA, se dejó \"The Lauder Institute\" tal como aparece en la fuente, se corrigió \"Fourteen\" y se eliminó \"Ministry's multipurpose hall\" en favor de la fuente; el resto coincide con las fuentes)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:50:31.731811+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "7eff8a4b34",
+  "titulo": "Pobreza multidimensional cae de 44.1 % a 20.3 % en una década, según nuevo informe oficial",
+  "titulo_original": "Ministerio de Hacienda y Economía incorpora nuevos criterios para la medición del bienestar; pobreza multidimensional se redujo a menos de la mitad en una década",
+  "resumen": "El país reduce a menos de la mitad su pobreza multidimensional entre 2016 y 2025. Así lo presentó el Ministerio de Hacienda y Economía con un nuevo índice.",
+  "gancho": "El país reduce a menos de la mitad su pobreza multidimensional entre 2016 y 2025. Así lo presentó el Ministerio de Hacienda y Economía con un nuevo índice.",
+  "parrafos": [
+   "El Ministerio de Hacienda y Economía (MHE) presentó un nuevo informe que amplía los indicadores para medir el bienestar de los ciudadanos en República Dominicana. El documento, titulado Índice de Pobreza Multidimensional (IPM-RD 2016-2025), fue elaborado por el Viceministerio de Economía a través de la Dirección de Análisis Social.",
+   "El índice complementa la medición oficial de pobreza monetaria, que clasifica a la población según su ingreso. Para construirlo se usaron 20 indicadores que revisan privaciones en aspectos como el acceso a servicios de salud, educación, espacios públicos de esparcimiento y suministros energéticos.",
+   "Según el informe, la pobreza multidimensional pasó de 44.1 % en 2016 a 20.3 % en 2025. La pobreza severa bajó 8.2 puntos porcentuales, de 10.8 % a 2.6 %. El Índice de Pobreza Multidimensional se redujo de 0.190 a 0.082, una caída de 57.1 %. Las privaciones promedio por habitante pasaron de 3.8 a 1.6.",
+   "Durante el taller \"Comprendiendo la pobreza multidimensional\", dirigido a periodistas, el ministro Magín Díaz señaló que estas herramientas permiten entender la realidad social más allá de los ingresos y ubicar dónde se concentran las mayores necesidades para orientar mejor las políticas públicas.",
+   "El viceministro de Economía, Alexis Cruz, destacó que el índice es sostenible en el tiempo y supera limitaciones de ejercicios anteriores. Resaltó también que integra indicadores georreferenciados con datos de la Encuesta Nacional Continua de Fuerza de Trabajo (ENCFT), lo que permite, según explicó, dar seguimiento continuo a la evolución de la pobreza.",
+   "El informe cuenta con la aprobación del Comité Técnico Interinstitucional de Medición de la Pobreza y la revisión de la Iniciativa sobre Pobreza y Desarrollo Humano de la Universidad de Oxford (OPHI), la Comisión Económica para América Latina y el Caribe (Cepal) y el Banco Mundial."
+  ],
+  "claves": [
+   "La pobreza multidimensional bajó de 44.1 % en 2016 a 20.3 % en 2025.",
+   "La pobreza severa se redujo de 10.8 % a 2.6 % en el mismo período.",
+   "El índice se construye con 20 indicadores de salud, educación, espacios públicos y energía.",
+   "El informe tiene la revisión de OPHI, la Cepal y el Banco Mundial."
+  ],
+  "importa": "El nuevo índice complementa la medición de pobreza por ingresos y busca orientar mejor las políticas públicas hacia las zonas con más necesidades. Los datos muestran menos hogares privados de servicios básicos.",
+  "en": {
+   "titulo": "Multidimensional poverty in the Dominican Republic falls from 44.1% to 20.3% in a decade, new official report says",
+   "gancho": "The Dominican Republic has cut its multidimensional poverty rate by more than half between 2016 and 2025. The Ministry of Finance and Economy unveiled a new index to measure it.",
+   "claves": [
+    "Multidimensional poverty fell from 44.1% in 2016 to 20.3% in 2025.",
+    "Severe poverty dropped from 10.8% to 2.6% over the same period.",
+    "The index uses 20 indicators covering health, education, public spaces and energy access.",
+    "The report was reviewed by OPHI at the University of Oxford, ECLAC and the World Bank."
+   ],
+   "importa": "The new index complements income-based poverty measures and aims to better target public policy to the areas with the greatest needs. The data shows fewer households lacking basic services.",
+   "parrafos": [
+    "The Dominican Republic's Ministry of Finance and Economy (MHE) has released a new report that expands the indicators used to measure citizens' well-being in the country. The document, titled the Multidimensional Poverty Index (IPM-RD 2016-2025), was prepared by the Vice Ministry of Economy through its Directorate of Social Analysis.",
+    "The index complements the official monetary poverty measure, which classifies the population by income. It draws on 20 indicators that capture deprivations in areas such as access to health care, education, public recreational spaces and energy supply.",
+    "According to the report, multidimensional poverty fell from 44.1% in 2016 to 20.3% in 2025. Severe poverty dropped 8.2 percentage points, from 10.8% to 2.6%. The Multidimensional Poverty Index declined from 0.190 to 0.082, a 57.1% decrease. Average deprivations per person fell from 3.8 to 1.6.",
+    "During the workshop \"Understanding multidimensional poverty,\" held for journalists, Finance Minister Magín Díaz said these tools make it possible to understand social reality beyond income and to locate where the greatest needs are concentrated, helping guide public policy.",
+    "Vice Minister of Economy Alexis Cruz said the index is sustainable over time and overcomes limitations of earlier exercises. He also highlighted that it integrates geo-referenced indicators with data from the National Continuous Labor Force Survey (ENCFT), which, he explained, allows continuous monitoring of poverty trends.",
+    "The report has the approval of the Interinstitutional Technical Committee on Poverty Measurement and was reviewed by the Oxford Poverty and Human Development Initiative (OPHI), the Economic Commission for Latin America and the Caribbean (ECLAC) and the World Bank."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVByQU5hRmN1bEZlQnZuMzY1cWtMdUZIRk5ERkY5WEFhZktaRkcwV1FXTjdHd2taUnFWc0U4bWF1Q09UZnp1SENIR0xwU3I3Uk9yVDcxY3Rfa1lZMEhlUFBxSURIU2lCOW9lTndWSHA3WWp1VWNsNVg3RDllUTE1ZHk5UDRkd1Q0SHlobnoyN0JCYjQ5bWFucmdpbnRZZ0hwQXkzVkw5UzFoRUIzWVJPZWtPU2Y3M1ZD?oc=5",
+  "url": "https://presidencia.gob.do/noticias/ministerio-de-hacienda-y-economia-incorpora-nuevos-criterios-para-la-medicion-del",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/ministerio-de-hacienda-y-economia-incorpora-nuevos-criterios-para-la-medicion-del"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Hacienda%20y%20Econom%C3%ADa%20capacita%20a%20periodistas%20sobre%20nuevas%20herramientas%20para%20medici%C3%B3n%20de%20pobreza%20multidimensional.jpeg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (se quitó \"Mientras\"/\"Asimismo\" de relleno en la lectura de cifras, se aclaró que el informe fue presentado en un taller dirigido a periodistas, se atribuyó a Alexis Cruz la afirmación sobre seguimiento continuo y se ajustó \"Índice de Pobreza Multidimensional\" con su nombre oficial \"IPM-RD 2016-2025\"; se corrigieron las cifras de privaciones y la tilde de \"Cepal\", y se alinearon los acentos del inglés).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:50:47.800308+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "7ae556a1c6",
+  "titulo": "OFFICE OF FOREIGN ASSETS CONTROL",
+  "titulo_original": "OFFICE OF FOREIGN ASSETS CONTROL",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JVWVWN29teVgtNklnUlk5dkx3MWFHZTU5RUtwc05CY1lhR2V6d05waGF5SVR3UGpITHZyb0lHVWwxSjZTck10SVJPWmcyOW00N2taUDJpTTlTRDhMSG9jTA?oc=5",
+  "fuente": "U.S. Department of the Treasury (.gov)",
+  "dominio": "treasury.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T20:50:51.368571+00:00"
+ },
+ {
+  "id": "fd14a3654b",
+  "titulo": "Remesas de octubre superan los USD 1,000 millones por octavo mes seguido",
+  "titulo_original": "Ocho de cada 10 dólares en remesas que recibió República Dominicana en octubre llegaron desde Estados Unidos",
+  "resumen": "Las remesas llegaron a USD 1,108.6 millones en octubre, y más de ocho de cada 10 dólares vinieron de Estados Unidos. Los detalles están en el reporte del Banco Central.",
+  "gancho": "Las remesas llegaron a USD 1,108.6 millones en octubre, y más de ocho de cada 10 dólares vinieron de Estados Unidos. Los detalles están en el reporte del Banco Central.",
+  "parrafos": [
+   "El Banco Central de la República Dominicana (BCRD) reportó que las remesas recibidas en octubre sumaron USD 1,108.6 millones. La cifra fue USD 143 millones mayor que la de octubre de 2025 y USD 51.5 millones superior a la de septiembre, con una variación interanual de 14.8%.",
+   "Octubre fue el octavo mes consecutivo en que los envíos superaron los USD 1,000 millones. De ese total, Estados Unidos aportó USD 835.7 millones, equivalentes a 81.4% de las remesas canalizadas formalmente en el mes. España fue el segundo país de procedencia, con USD 59.9 millones, o 6.1% del flujo mensual. Italia, Suiza y Haití también aparecen entre los orígenes, con participaciones de entre 1% y 1.2%.",
+   "De acuerdo con el BCRD, el flujo desde Estados Unidos se relaciona con el desempeño de su economía, en particular del sector de servicios, que emplea a una parte de los dominicanos que residen allí. El índice de gestores de compras no manufacturero se ubicó en 54.5 puntos en octubre, y la tasa de desempleo estadounidense fue de 4.1%, frente a 4.2% en septiembre, con 165,000 puestos de trabajo creados.",
+   "Por territorio, el Distrito Nacional recibió 51.8% de las remesas del mes, Santiago 9.4% y Santo Domingo 6.5%. Entre las tres demarcaciones reunieron 67.7% de los recursos.",
+   "Entre enero y octubre, las remesas acumularon USD 10,598.4 millones, USD 720 millones más que en el mismo período de 2025, una variación de 7.3%. El banco central también indicó que las reservas internacionales cerraron octubre en USD 15,047.2 millones, equivalentes a 10.4% del PIB y a unos 5.3 meses de importaciones, y que la moneda nacional se había apreciado 4.5% frente al dólar desde diciembre de 2025."
+  ],
+  "claves": [
+   "Remesas de octubre: USD 1,108.6 millones, 14.8% más que en octubre de 2025.",
+   "Estados Unidos aportó 81.4% del flujo formal del mes, con USD 835.7 millones.",
+   "Entre enero y octubre, las remesas sumaron USD 10,598.4 millones, 7.3% más que en 2025.",
+   "Las reservas internacionales cerraron octubre en USD 15,047.2 millones."
+  ],
+  "importa": "Las remesas sostienen el ingreso de muchas familias dominicanas y ayudan a mantener estable el tipo de cambio. Para quienes envían dinero desde Estados Unidos, el desempeño de la economía estadounidense influye directamente en lo que llega al país.",
+  "en": {
+   "titulo": "October remittances top $1 billion for eighth straight month",
+   "gancho": "Remittances reached $1,108.6 million in October, and more than eight of every 10 dollars came from the United States. The details are in the central bank's report.",
+   "claves": [
+    "October remittances: $1,108.6 million, up 14.8% from October 2025.",
+    "The United States provided 81.4% of the month's formal inflows, $835.7 million.",
+    "January to October remittances totaled $10,598.4 million, up 7.3% from 2025.",
+    "International reserves closed October at $15,047.2 million."
+   ],
+   "importa": "Remittances support many Dominican families and help keep the exchange rate stable. For those sending money from the United States, the health of the U.S. economy directly affects how much reaches the country.",
+   "parrafos": [
+    "The Central Bank of the Dominican Republic (BCRD) reported that remittances received in October totaled $1,108.6 million. The figure was $143 million higher than in October 2025 and $51.5 million above September, a year-over-year increase of 14.8%.",
+    "October was the eighth consecutive month in which inflows exceeded $1,000 million. Of that total, the United States sent $835.7 million, or 81.4% of the formal remittances recorded in the month. Spain was the second source country, with $59.9 million, or 6.1% of the monthly flow. Italy, Switzerland and Haiti also appear among the origins, each accounting for between 1% and 1.2%.",
+    "According to the BCRD, flows from the United States are tied to the performance of its economy, particularly the services sector, which employs part of the Dominican population living there. The non-manufacturing purchasing managers' index stood at 54.5 points in October, and the U.S. Unemployment rate was 4.1%, down from 4.2% in September, with 165,000 jobs created.",
+    "By region, the National District received 51.8% of the month's remittances, Santiago 9.4% and Santo Domingo 6.5%. Together, the three areas took in 67.7% of the funds.",
+    "From January through October, remittances totaled $10,598.4 million, $720 million more than in the same period of 2025, a 7.3% increase. The central bank also said international reserves closed October at $15,047.2 million, equal to 10.4% of GDP and about 5.3 months of imports, and that the national currency had appreciated 4.5% against the dollar since December 2025."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ09QOWZ0UE9TYjRickw2Mk5IaGl3QzYyZ21jVlV2a3ZWVmlMYmh4SHRSYjJpYlI2dDZFcE5YSVZPQ3lXVDU2RjhoWU5OdHJwc0JsbXo1SXpQMjRjbWlWZXBXeHl6U2JubG1vdXdheHhwX0g4TmNJX0lVODRqNF9ha21KdV85M2syWDlONU9IUHcyUk5FNzRwWUNSOEZRYkN2VDNiMmRNS3o4Yll6NVJPRHhvcFBpQXNQV1F1bVMtQVZQOUhXLVhEaTJ4eGx0VjlIdlc5QTNPQ1IxSWN4eFl5aWhiYjlYV1dnVlYwcHlMa2VLT2NyeGlnR9IBkwJBVV95cUxPVDR1NkdxTFNrQ2Via1ZLMWhXcmNmSWNEWGlCTGdDR1JULXJWQnE2bmtQTEtYX3pXWWVXTU9rS2JFc2VaV3JLQjF3NkJ3M1U0dFVfdEhad1dmM0xwUklQT2tZREhZLTVMM1FvMHhiMldWUWtFNkZfTWwxbGhWQjZ4MURvZkNiRk5nWTdhVGV5dU1SQWtRWHVRZm5tUVpLdzNTaHlhZGY4aEk1YWVCcFBLMDliNF9LeF9xQVV4UGNaMVVIZ2FMSC14d3E4M1JGRGRlUUdMNkNXTVFCRjdjSWpNR09BaFdBNnpwQUdvR3FDYUZJa3dkQ2lETVVXQlpNQ0FaYTI0NHR0Y0c2Uy1yYVJHS3NiVQ?oc=5",
+  "url": "https://www.infobae.com/republica-dominicana/2026/11/24/ocho-de-cada-10-dolares-en-remesas-que-recibio-republica-dominicana-en-octubre-llegaron-desde-estados-unidos/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/republica-dominicana/2026/11/24/ocho-de-cada-10-dolares-en-remesas-que-recibio-republica-dominicana-en-octubre-llegaron-desde-estados-unidos/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"de cada 10 dólares... poco más de cinco\" no presente; corregí \"casi cuatro de cada cinco\" a \"más de ocho de cada 10\" según fuente en el gancho; atribuí al BCRD los datos de Infobae; quité \"entre las tres demarcaciones\"→ mantuve, corregí \"Santo Domingo 6.5%\" ok; eliminé \"y la tasa\" ambigua; ajusté el gancho y el inglés; atribuí \"moneda apreciada\" al BCRD)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:51:15.157133+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "5deec6b89a",
+  "titulo": "Caro Brito aparece en expediente de Rompeolas y reabre un tema recurrente: narco y farándula",
+  "titulo_original": "De Caro Brito y Rompeolas a Figueroa Agosto y Falcón, cómo el narco ha rozado la farándula y el deporte en RD",
+  "resumen": "La presentadora Caro Brito figura en la solicitud de medida de coerción de la Operación Rompeolas, sin ser imputada. Pagos, testimonios y casos previos.",
+  "gancho": "La presentadora Caro Brito figura en la solicitud de medida de coerción de la Operación Rompeolas, sin ser imputada. Pagos, testimonios y casos previos.",
+  "parrafos": [
+   "La aparición de la presentadora colombiana Caro Brito en la solicitud de medida de coerción de la Operación Rompeolas ha reabierto un tema recurrente en la crónica judicial dominicana: la cercanía entre estructuras del narcotráfico, la vida nocturna y figuras del entretenimiento.",
+   "Según el expediente del Ministerio Público, Fausto Candelario Ortiz, alias \"Pacha\", habría pagado a Brito RD$280,000 como maestra de ceremonias del restaurante GAL y RD$3 millones por una cena. Ella no figura entre los 22 imputados y no fue acusada tras ser entrevistada en 2023 en la Operación Búho.",
+   "En los últimos quince años, expedientes judiciales y reportes periodísticos han documentado casos de mujeres vinculadas a la televisión, las redes, el deporte y los centros nocturnos que quedaron bajo la lupa en procesos por drogas y lavado de activos. En algunos casos fue por patrocinios o relaciones personales; en otros, por participación operativa.",
+   "En septiembre de 2021, la presentadora y modelo Dianabel Gómez fue arrestada en allanamientos en Santiago durante la Operación Falcón, por su vínculo previo con un investigado de la red de Erick Randhiel Mosquea Polanco, alias \"El Sony 7\". Quedó en libertad tras 48 horas detenida por falta de pruebas.",
+   "En el caso Figueroa Agosto, en 2011, el cirujano Edgar Contreras declaró que el capo, bajo una identidad falsa, pagó una cirugía estética a la comunicadora Caroline Aquino. Ella admitió haber recibido ese patrocinio en 2007 en Miss Mundo Dominicana, sin conocer su origen ilícito, y no fue acusada.",
+   "En cambio, en ese mismo caso, los tribunales dominicanos condenaron a Sobeida Félix Morel, Mary Peláez y Sammy Dauhajre tras comprobarse que actuaron como testaferros y operadoras financieras para adquirir mansiones y vehículos y ocultar millones de dólares en efectivo.",
+   "El rastro de estas redes también ha alcanzado el deporte y la música. En 2019, el desmantelamiento de la red de César Emilio Peralta, alias \"César el Abusador\", tocó a figuras de ambos sectores. Los exjugadores de Grandes Ligas Octavio Dotel y Luis Castillo fueron investigados inicialmente, pero el Ministerio Público descartó después acusarlos por narcotráfico y lavado de activos."
+  ],
+  "claves": [
+   "El expediente menciona pagos de RD$280,000 y RD$3 millones atribuidos a Fausto Candelario Ortiz, alias \"Pacha\", vinculados a Caro Brito.",
+   "Brito no figura entre los 22 imputados y no fue acusada tras ser entrevistada en 2023 en la Operación Búho.",
+   "Otras figuras de la televisión, el modelaje y el deporte han aparecido en expedientes judiciales por drogas y lavado de activos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Caro Brito appears in Rompeolas case file, reigniting a recurring debate over drugs and entertainment",
+   "gancho": "TV host Caro Brito is named in the Operación Rompeolas coercion request but has not been charged. Payments, testimony and past cases.",
+   "claves": [
+    "The file cites payments of RD$280,000 and RD$3 million attributed to Fausto Candelario Ortiz, alias \"Pacha,\" linked to Caro Brito.",
+    "Brito is not among the 22 defendants and was not charged after being interviewed in 2023 in Operación Búho.",
+    "Other figures from television, modeling and sports have appeared in court files on drugs and money laundering."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The appearance of Colombian TV host Caro Brito in the coercion request for Operación Rompeolas has reignited a recurring topic in Dominican court reporting: the ties between drug trafficking networks, nightlife and entertainment figures.",
+    "According to the Public Ministry's file, Fausto Candelario Ortiz, alias \"Pacha,\" allegedly paid Brito RD$280,000 as master of ceremonies at the GAL restaurant and RD$3 million for a dinner. She is not among the 22 defendants and was not charged after being interviewed in 2023 in Operación Búho.",
+    "Over the past fifteen years, court files and press reports have documented cases of women linked to television, social media, sports and nightclubs who came under scrutiny in drug and money laundering cases. In some instances the ties were sponsorships or personal relationships; in others, operational involvement.",
+    "In September 2021, TV host and model Dianabel Gómez was arrested in raids in Santiago during Operación Falcón, due to a prior link to a person investigated in the network of Erick Randhiel Mosquea Polanco, alias \"El Sony 7.\" She was released after 48 hours in custody for lack of evidence.",
+    "In the Figueroa Agosto case, in 2011, surgeon Edgar Contreras testified that the kingpin, under a false identity, paid for a cosmetic surgery for communicator Caroline Aquino. She admitted receiving that sponsorship in 2007 at Miss Mundo Dominicana without knowing its illicit origin, and she was not charged.",
+    "In the same case, however, Dominican courts convicted Sobeida Félix Morel, Mary Peláez and Sammy Dauhajre after it was proven that they acted as front people and financial operators to buy mansions and vehicles and hide millions of dollars in cash.",
+    "The reach of these networks has also extended to sports and music. In 2019, the dismantling of the network of César Emilio Peralta, alias \"César el Abusador,\" touched figures from both fields. Former Major League players Octavio Dotel and Luis Castillo were initially investigated, but the Public Ministry later ruled out charging them with drug trafficking and money laundering."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFdSTkEzOUVwbEZzYzhCM0YzdmdfYzBoTXdaZGFBOXlpZi0zRTlTemdKdVVHckpCNXVmbnR3SXh1X1lZSDRmcVBsaktsdmczOHlWTG9MZ2JFdDJReEx6TWxqU29ia2Z5eTZmMW1XcWlFeEVXbHRVZTJ0dlk0WGN3TXNsNEYxMDdZeEJqSHoya1JxV3ZLTDdMc3ZjMkhCX0twbmZjbWlib3J1WjZKRXo1dDMteW4zWGY1MHE3Q2RHbXFDZXVIVTNTUUpB?oc=5",
+  "url": "https://eldia.com.do/de-caro-brito-y-rompeolas-a-figueroa-agosto-y-falcon-como-el-narco-ha-rozado-la-farandula-y-el-deporte-en-rd/",
+  "fuente": "eldia.com.do",
+  "dominio": "eldia.com.do",
+  "fuentes": [
+   {
+    "nombre": "eldia.com.do",
+    "url": "https://eldia.com.do/de-caro-brito-y-rompeolas-a-figueroa-agosto-y-falcon-como-el-narco-ha-rozado-la-farandula-y-el-deporte-en-rd/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé el primer párrafo de \"En los últimos quince años\" y ajusté la atribución de la fuente a \"según el expediente del Ministerio Público\" en la cifra de Caro Brito; también precisé que Dianabel Gómez \"fue arrestada\" tras su vínculo con un investigado, la entrevista en que se declaró \"socia\" no aparece en el borrador; además la cifra de Figueroa Agosto la atribuí a \"tribunales\" según las fuentes y añadí que Caroline Aquino \"no fue acusada\" en lugar de \"no enfrentó cargos formales\" para mayor fidelidad; y eliminé \"ha reabierto el debate\" por \"ha reabierto un tema recurrente\" para ajustarlo a la fuente).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T20:51:51.366687+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "6b737828d3",
+  "titulo": "Glamour, premios y pleito marcan la gala de La Casa de Alofoke 3",
+  "titulo_original": "Glamour, premios y pleito en la gala de La Casa de Alofoke 3",
+  "resumen": "La alfombra roja de La Casa de Alofoke 3 tuvo moda, premios en efectivo y un altercado entre dos comunicadores.",
+  "gancho": "La alfombra roja de La Casa de Alofoke 3 tuvo moda, premios en efectivo y un altercado entre dos comunicadores.",
+  "parrafos": [
+   "La tercera temporada de La Casa de Alofoke comenzó este lunes con una gala de estreno en Lantica Studios, en Juan Dolio, San Pedro de Macorís. Artistas, comunicadores, influencers y creadores de contenido desfilaron por la alfombra roja con trajes y vestidos de gala.",
+   "Entre los asistentes estuvieron Juan Carlos Pichardo, Isaura Taveras, Jessica Pereira, Bray Vargas, Amelia Alcántara, Karla Álvarez, Sr. Jiménez y Pamela Infante. La conducción estuvo a cargo de Gabi Desangles, Moisés Salce, Sophia Sanabria y Denise Peña.",
+   "La moda también tuvo premios. La comunicadora Isaura Taveras fue seleccionada como la mejor vestida, y Eduardo Saint-Hilaire recibió la distinción de peor vestido. La evaluación la hizo Sophia Sanabria, quien incluyó entre sus favoritas a Oriana Falla, Isaura Taveras e Hillary Guerrero. La dinámica fue organizada por la producción del reality, encabezada por Santiago Matías. Taveras recibirá RD$200,000 y Saint-Hilaire ganó RD$100,000.",
+   "La noche también estuvo marcada por un enfrentamiento entre los comunicadores Maicol Nova y Robinson Hernández. Según CDN, el altercado quedó captado en un audiovisual que circuló en redes sociales. Santiago Matías hizo referencia al episodio en su cuenta de X con la frase «Pleito Maicol Nova vs Robinson».",
+   "Según el reporte, no es la primera vez que ambos tienen diferencias. En 2025, sus desacuerdos se hicieron públicos en intervenciones relacionadas con Sin Filtro Radio Show, por un conflicto vinculado con Yulay Piña y Amelia Alcántara. Hasta el momento, no se ha informado qué provocó el enfrentamiento de este lunes ni si tiene relación con esos episodios anteriores.",
+   "Entre los participantes anunciados por Santiago Matías para esta temporada figuran Monchy Cadena, Ronny Alca, Germán Gualey, Manuel Conet, Las Mellas, Edward Cruz, Alondra Carvajal y El Tal Bororo."
+  ],
+  "claves": [
+   "La gala se realizó en Lantica Studios, en Juan Dolio, San Pedro de Macorís.",
+   "Isaura Taveras fue elegida la mejor vestida y recibirá RD$200,000.",
+   "Eduardo Saint-Hilaire fue señalado como el peor vestido y ganó RD$100,000.",
+   "Maicol Nova y Robinson Hernández protagonizaron un enfrentamiento captado en video."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Glamour, prizes and a clash mark the La Casa de Alofoke 3 gala",
+   "gancho": "The La Casa de Alofoke 3 red carpet had fashion, cash prizes and a fight between two broadcasters.",
+   "claves": [
+    "The gala was held at Lantica Studios in Juan Dolio, San Pedro de Macorís.",
+    "Isaura Taveras was named best-dressed and will receive RD$200,000.",
+    "Eduardo Saint-Hilaire was named worst-dressed and won RD$100,000.",
+    "Maicol Nova and Robinson Hernández got into a confrontation captured on video."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The third season of La Casa de Alofoke kicked off Monday with a premiere gala at Lantica Studios in Juan Dolio, San Pedro de Macorís. Artists, broadcasters, influencers and content creators walked the red carpet in formal suits and dresses.",
+    "Among the attendees were Juan Carlos Pichardo, Isaura Taveras, Jessica Pereira, Bray Vargas, Amelia Alcántara, Karla Álvarez, Sr. Jiménez and Pamela Infante. The evening was hosted by Gabi Desangles, Moisés Salce, Sophia Sanabria and Denise Peña.",
+    "Fashion had its own awards. Broadcaster Isaura Taveras was chosen best-dressed, while Eduardo Saint-Hilaire received the worst-dressed title. Fashion specialist Sophia Sanabria did the judging, naming Oriana Falla, Isaura Taveras and Hillary Guerrero among her top picks. The contest was organized by the reality show's production, led by Santiago Matías. Taveras will receive RD$200,000, and Saint-Hilaire won RD$100,000.",
+    "The night was also marked by a clash between broadcasters Maicol Nova and Robinson Hernández. According to CDN, the altercation was captured in a video that circulated on social media. Santiago Matías referred to the episode on his X account with the message \"Pleito Maicol Nova vs Robinson.\"",
+    "According to the report, this is not the first time the two have had differences. In 2025, their disagreements became public during segments related to Sin Filtro Radio Show, over a conflict involving Yulay Piña and Amelia Alcántara. So far, it has not been reported what triggered Monday's confrontation or whether it is connected to those earlier episodes.",
+    "Participants announced by Santiago Matías for this season include Monchy Cadena, Ronny Alca, Germán Gualey, Manuel Conet, Las Mellas, Edward Cruz, Alondra Carvajal and El Tal Bororo."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1UeHhEODMzaVNnbzZiWEplLS1RSEQ4d21Wa1AwUlotX2xORlhoSWxubE1FWm9TR1J2Tk5lOVpjNi11V2xHX2NLdWxPS3NSaFEwYi10SEJ1bVlhb0lOV0xfX0p1aDF5ci1malFtbDBnVDdZekhHckxyc0k0TU10bU53OEtHZlRXTFhYaGdza1cwcWd0NkVJ0gGfAUFVX3lxTE1LVmpBY3hjMzJMcmxmNHdIdnpZRThZUnR2Ty1hWFpzYkp0MXota3NFN0NTZ0pLX3NwVXJKdWJSa2xGR0ZtTUFXMFQzdm1IUXFrbTk2U3FPeDNac01kVHpUUWJJZHR4eTVWNFhKOEkxOUxMcThheDJPNkxmaWNLb0VMQ2x5cUxCbXd2SHFhanI0bzhWRDdBY0xIdnc2THF2NA?oc=5",
+  "url": "https://cdn.com.do/entretenimiento/la-casa-de-alofoke-3-glamour-premios-y-un-enfrentamiento/",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/entretenimiento/la-casa-de-alofoke-3-glamour-premios-y-un-enfrentamiento/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se agregó atribución a CDN en la mención del altercado captado en video y se quitó la afirmación de que el altercado fue \"en la gala\" sin respaldo de la fuente; se mantuvo el resto por coincidir con las fuentes).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-24T20:52:13.026569+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "42ed739dd4",
+  "titulo": "La Casa de Alofoke 3 arranca con transmisión 24 horas y más de 40 días al aire",
+  "titulo_original": "La Casa de Alofoke 3 EN VIVO: cómo ver gratis el reality 24 horas, horario en Perú y hasta cuándo durará",
+  "resumen": "El reality de Alofoke estrenó su tercera temporada con una señal gratuita que no se detendrá hasta enero de 2027. Aquí los detalles.",
+  "gancho": "El reality de Alofoke estrenó su tercera temporada con una señal gratuita que no se detendrá hasta enero de 2027. Aquí los detalles.",
+  "parrafos": [
+   "La tercera temporada de La Casa de Alofoke está al aire. El reality, impulsado por el empresario y comunicador dominicano Santiago Matías, conocido como Alofoke, reúne a participantes de distintas nacionalidades en una casa donde la convivencia, las discusiones y los desafíos forman parte de una transmisión continua.",
+   "La señal oficial es gratuita y se transmite a través del canal de YouTube Alofoke Radio Show. Los usuarios pueden verla desde un celular, computadora, tablet o Smart TV, sin contratar televisión por cable ni pagar suscripciones. También se puede acceder desde la página oficial de La Casa de Alofoke, que concentra información sobre el programa.",
+   "El estreno fue el lunes 23 de noviembre de 2026 a las 9:00 p. M. En República Dominicana. Según la información publicada, la hora de inicio fue de 8:00 p. M. En Perú, Colombia, Ecuador y Panamá, y de 9:00 p. M. En Puerto Rico y Venezuela.",
+   "La producción anunció que el reality estará al aire desde el 23 de noviembre de 2026 hasta el 2 de enero de 2027, más de 40 días con cámaras encendidas. La transmisión será continua, de lunes a domingo, y quienes no puedan seguirla en directo podrán revisar después los momentos más comentados.",
+   "La edición apuesta por una convivencia internacional. Entre los nombres anunciados antes del estreno figuraban Monchy Cadena, Rony Alca, Germán Gualey y Manuel Connect, y la producción fue sumando nuevos participantes en los días previos. Además, periodistas, creadores digitales y páginas de entretenimiento podrán compartir fragmentos del reality en Facebook, Instagram, TikTok y X, e incluso monetizarlos si cumplen las condiciones de cada plataforma."
+  ],
+  "claves": [
+   "La Casa de Alofoke 3 se estrenó el lunes 23 de noviembre de 2026 a las 9:00 p. m. en República Dominicana.",
+   "La transmisión es gratuita y está disponible en el canal de YouTube Alofoke Radio Show.",
+   "El reality permanecerá al aire hasta el 2 de enero de 2027, las 24 horas.",
+   "Entre los participantes anunciados figuran Monchy Cadena, Rony Alca, Germán Gualey y Manuel Connect."
+  ],
+  "importa": "Los dominicanos en República Dominicana y en el extranjero pueden seguir el programa sin pagar cable ni suscripción, desde cualquier celular o computadora.",
+  "en": {
+   "titulo": "La Casa de Alofoke 3 Debuts With 24-Hour Streaming and 40+ Days on Air",
+   "gancho": "Alofoke's reality show launched its third season with a free stream that won't stop until January 2027. Here are the details.",
+   "claves": [
+    "La Casa de Alofoke 3 premiered Monday, November 23, 2026, at 9:00 p.m. in the Dominican Republic.",
+    "The stream is free and available on the Alofoke Radio Show YouTube channel.",
+    "The reality show will run until January 2, 2027, 24 hours a day.",
+    "Announced participants include Monchy Cadena, Rony Alca, Germán Gualey and Manuel Connect."
+   ],
+   "importa": "Dominicans in the Dominican Republic and abroad can watch the show without paying for cable or a subscription, from any phone or computer.",
+   "parrafos": [
+    "The third season of La Casa de Alofoke is now on the air. The reality show, driven by Dominican businessman and broadcaster Santiago Matías, known as Alofoke, brings together participants from different nationalities in a house where living together, arguments and challenges make up a continuous broadcast.",
+    "The official stream is free and airs on the Alofoke Radio Show YouTube channel. Viewers can watch from a phone, computer, tablet or Smart TV, without cable or subscriptions. It can also be accessed through the official La Casa de Alofoke website, which holds information about the program.",
+    "The premiere aired Monday, November 23, 2026, at 9:00 p.m. In the Dominican Republic. According to the published information, the start time was 8:00 p.m. In Peru, Colombia, Ecuador and Panama, and 9:00 p.m. In Puerto Rico and Venezuela.",
+    "The production announced the reality show will be on the air from November 23, 2026, to January 2, 2027, more than 40 days with cameras running. The broadcast will be continuous, Monday through Sunday, and those who can't watch live can catch the most talked-about moments later.",
+    "This edition emphasizes international living together. Names announced before the premiere included Monchy Cadena, Rony Alca, Germán Gualey and Manuel Connect, and the production added new participants in the days leading up to the opening. Journalists, digital creators and entertainment pages will also be able to share clips of the show on Facebook, Instagram, TikTok and X, and even monetize them where platform rules allow."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYW9xbzJUeDBCU3UzSWZlbkNqZlBpdEFSUGhNV3NDVG15M1NTQnR3M2JBQ3RzVkNGc3JiWXhUa3ZPT1V6OEVvODZkcWZNOUh6WjNQMzV3UkdSRzQ0UFJ4dG5CMUFxeUFXMFowTVQwNUUtS1pIMklXOWhMcHFVR0p0cTlHXzMxMFhlRlZySHFhSGE5X05QUjBYdFdrYWlVY3J4VjlvMnBNc0d5Y0RBdUk4aEtEQVB6OXBpNjV1QmotR2xmbFVESmJPS2JtZnFGWHdLVlZmS2tDUHNvdTJCQ3dxaUZ3UFo5SHRnbXdpcU4tclbSAYQCQVVfeXFMTmo4NGZsQVdObE9jM2YxNEZfT3JvdDNaREU2clFpQ29CUl9wU1lBOFphXzVsV1JFa2Z4Vzg4MElzMGY5WUNkaml1dXVMeEFHREZEYV9nQkhDaTFobnVTWW5mck43dzBiWVYzMDdMVFdMTnBXMk9Ockx2dHJPbVdwb0hnem5pNWcwSTJkaVh5U2hGTjVMWUFYb01TYnJ3dVNsc3FCeHlmSVE4RW5uZHFPRjZ5VjBFUmZDeTJEbmZSQzJ0VGdhMnM3WW5pTEJhNXhyY3JLOWhlajhITGN4NjlRMHBTYWpNTVhndml5OEFBSmJpZW1leE8tRTV6MUFIbDZjRUR6Wko?oc=5",
+  "url": "https://elcomercio.pe/respuestas/farandula/la-casa-de-alofoke-3-en-vivo-como-ver-gratis-el-reality-24-horas-horario-en-peru-y-hasta-cuando-durara-tdpe-noticia/",
+  "fuente": "El Comercio Perú",
+  "dominio": "elcomercio.pe",
+  "fuentes": [
+   {
+    "nombre": "El Comercio Perú",
+    "url": "https://elcomercio.pe/respuestas/farandula/la-casa-de-alofoke-3-en-vivo-como-ver-gratis-el-reality-24-horas-horario-en-peru-y-hasta-cuando-durara-tdpe-noticia/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté la hora en Perú/Colombia/Ecuador/Panamá y en Puerto Rico/Venezuela según la fuente, que indica 8:00 p. m. para Perú, Colombia, Ecuador y Panamá y 9:00 p. m. para Puerto Rico y Venezuela; eliminé \"EE.UU.\" en el IMPORTA porque la fuente no lo menciona; atribuí las horas y la señal a la producción/fuente; quité \"ya está en el aire\" por tono de relleno y \"ininterrumpida\" repetido; corregí \"Premieres\" a \"Debuts\" en el título inglés y ajusté el inglés al español; eliminé la oración \"Quienes no se conectaron al inicio todavía pueden seguir la convivencia\" del énfasis; y \"sin contratar televisión por cable\" se mantuvo.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-24T20:52:30.822577+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "1645218bc5",
+  "titulo": "Gigantes del Cibao ficharon al infielder estadounidense Noah Mendlinger",
+  "titulo_original": "Gigantes contratan al infielder Noah Mendlinger",
+  "resumen": "Los Gigantes del Cibao suman un refuerzo con experiencia en Triple A y un desempeño sobresaliente en el Clásico Mundial. Conoce sus números.",
+  "gancho": "Los Gigantes del Cibao suman un refuerzo con experiencia en Triple A y un desempeño sobresaliente en el Clásico Mundial. Conoce sus números.",
+  "parrafos": [
+   "Los Gigantes del Cibao anunciaron la contratación del infielder estadounidense Noah Mendlinger como jugador importado para la continuación de la temporada 2026-27 de la Liga de Béisbol Profesional de la República Dominicana (LIDOM).",
+   "Mendlinger, de 26 años, pertenece a la organización de los Cardenales de San Luis. Se desempeña principalmente en la segunda base, aunque también tiene experiencia en la tercera base y los jardines. Batea a la izquierda y lanza a la derecha.",
+   "El jugador viene de una temporada 2026 destacada en las ligas menores. Entre Doble A y Triple A participó en 117 partidos y registró promedio de .282, con 105 imparables, 20 dobles, cuatro cuadrangulares, 50 carreras impulsadas y 50 anotadas. Su porcentaje de embasarse fue de .394 y su OPS de .772.",
+   "Su producción se repartió entre Springfield, Doble A de San Luis, donde bateó .277 en 43 partidos, y Triple A Memphis, donde promedió .285 en 74 encuentros. En su trayectoria en ligas menores acumula 546 partidos, 498 imparables y 203 carreras impulsadas.",
+   "Mendlinger también representó a Israel en el Clásico Mundial de Béisbol 2026. En cuatro partidos conectó cinco hits en 11 turnos, incluido un doble, anotó tres carreras y remolcó una, con promedio de .455, porcentaje de embasarse de .571 y OPS de 1.117.",
+   "Su versatilidad defensiva y su capacidad para embasarse representan recursos adicionales para una ofensiva que busca reforzarse de cara a la segunda parte de la serie regular."
+  ],
+  "claves": [
+   "Noah Mendlinger, de 26 años, llega como jugador importado para la continuación de la temporada 2026-27 de LIDOM.",
+   "Pertenece a la organización de los Cardenales de San Luis y juega principalmente en segunda base.",
+   "En 117 partidos de 2026 entre Doble A y Triple A, bateó .282 con 105 imparables y 50 carreras impulsadas.",
+   "Con Israel en el Clásico Mundial de Béisbol 2026 bateó .455 en cuatro partidos."
+  ],
+  "importa": "Para los aficionados del Cibao, la llegada de un bateador con experiencia en las ligas menores de la organización de San Luis puede reforzar la ofensiva del equipo en la segunda parte de la serie regular.",
+  "en": {
+   "titulo": "Gigantes del Cibao Sign Infielder Noah Mendlinger",
+   "gancho": "The Gigantes del Cibao add a Triple-A veteran with a standout World Baseball Classic run. Here are his numbers.",
+   "claves": [
+    "Noah Mendlinger, 26, joins as an imported player for the continuation of LIDOM's 2026-27 season.",
+    "He belongs to the St. Louis Cardinals organization and plays mainly second base.",
+    "In 117 games in 2026 between Double-A and Triple-A, he hit .282 with 105 hits and 50 RBI.",
+    "Playing for Israel at the 2026 World Baseball Classic, he hit .455 in four games."
+   ],
+   "importa": "For Dominican fans in the Cibao, a hitter with minor league experience in the Cardinals system could add punch to the team's offense in the second half of the regular season.",
+   "parrafos": [
+    "The Gigantes del Cibao announced the signing of American infielder Noah Mendlinger as an imported player for the continuation of the 2026-27 season of the Dominican Republic's professional baseball league, LIDOM.",
+    "Mendlinger, 26, belongs to the St. Louis Cardinals organization. He plays mainly second base, though he also has experience at third base and in the outfield. He bats left and throws right.",
+    "The player comes off a standout 2026 season in the minor leagues. Between Double-A and Triple-A, he appeared in 117 games and hit .282, with 105 hits, 20 doubles, four home runs, 50 RBI and 50 runs scored. His on-base percentage was .394 and his OPS was .772.",
+    "His production was split between Springfield, the Cardinals' Double-A affiliate, where he hit .277 in 43 games, and Triple-A Memphis, where he hit .285 in 74 games. Over his minor league career he has played 546 games, with 498 hits and 203 RBI.",
+    "Mendlinger also represented Israel at the 2026 World Baseball Classic. In four games he collected five hits in 11 at-bats, including a double, scored three runs and drove in one, finishing with a .455 average, a .571 on-base percentage and a 1.117 OPS.",
+    "His defensive versatility and ability to get on base represent additional assets for an offense looking to strengthen itself for the second half of the regular season."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk5uY1FpMkFhUzRUNUM3bTBGQzh6Smw2VUtGSFBvYUR3WXdkZ21rSlJMbjk2cDljeVBuV0pna1lka3NCZUxBWV9ha0paSnhId1VWSnE0T0F5dFdFclV0WC1jdk5RaEo4UTJNbm5XeUNmUlI4ZDFDYzhqQzVBdU4zU3FDSUNlOVh5VXlTR3BRWjU3YzZleG9laXR3?oc=5",
+  "url": "https://elnuevodiario.com.do/gigantes-del-cibao-anuncian-la-contratacion-del-infielder-noah-mendlinger/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/gigantes-del-cibao-anuncian-la-contratacion-del-infielder-noah-mendlinger/"
+   },
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/centroamericanos/gigantes-contratan-al-infielder-noah-mendlinger-101320.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí slugging omitido y OPS de Clásico, añadí \"Lidom\" fuente, quité atribución incorrecta \"Según el club\" para afirmaciones que no están en fuentes, y ajusté cifras de jonrones/carreras según fuentes).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-24T20:52:53.833115+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "22f0db3b86",
+  "titulo": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEFWYXBYc2dqWTVhSkdxWVBfSzhOU3ZUdEZkcExNbkloSE5tQ0dKSGc1MHo2VkVhZFkxMjRTd3RmaVIwVDJmU3NrcF8wajRVaEsxUDJEVjJMNEtEQTUtU2M5djRJalhycEJXbXF1Vmp4elRiYlpfU1MtUmZROHlSWQ?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T20:52:56.053650+00:00"
+ },
+ {
+  "id": "bc1b2fe8fd",
+  "titulo": "MLB Gameday: Estrellas vs. Tigres, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Estrellas vs. Tigres, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaG1ZcjRtTUVvMmItVjIzbWpGdFdCWDJ2R2Q0c0xiTGxjTWJMZkVTOThOWTJFQWdBbDZBVHhJT0lycXpXZHVwS19EY2lwOC1WNEJZYkR6VS1CMjBUaHVsYkxDcWc1b3kxSU9Wc2RGV2NHSkx4Qjc2XzhoVnNBVE1LLVdR?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T20:52:58.019316+00:00"
+ },
+ {
+  "id": "4d0d403814",
+  "titulo": "Pokémon GO lanza el evento Twilight Wishes con Staryu y Elgyem shiny",
+  "titulo_original": "Shiny Staryu and Shiny Elgyem Starring in Pokémon GO’s Twilight Wishes",
+  "resumen": "Pokémon GO celebra tres meses de la temporada Twilight Trails con un evento que aumenta la probabilidad de encontrar Pokémon shiny. Incluye raids, investigaciones y un GO Pass gratuito.",
+  "gancho": "Pokémon GO celebra tres meses de la temporada Twilight Trails con un evento que aumenta la probabilidad de encontrar Pokémon shiny. Incluye raids, investigaciones y un GO Pass gratuito.",
+  "parrafos": [
+   "Pokémon GO anunció el evento Twilight Wishes, con el que cierra la temporada Twilight Trails. Según Pokemon.com, durante el evento aumentan las probabilidades de encontrar Shiny Staryu y Shiny Elgyem. Entre los Pokémon temáticos que aparecerán están Clefairy, Staryu, Elgyem y Rockruff.",
+   "El evento comienza el martes 24 de noviembre de 2026 a las 10:00 a.m. Y termina el lunes 30 de noviembre de 2026 a las 8:00 p.m., hora local. Durante esos días, las raids de una estrella presentarán a Pikachu con corona de sol o de luna, y las de tres estrellas, a Espeon con bufanda de sol y a Umbreon con bufanda de luna. También habrá raids Mega con Mega Beedrill, Mega Houndoom, Mega Sableye y Mega Manectric.",
+   "Las investigaciones de campo temáticas permitirán obtener Mega Energía y encontrar Pokémon del evento. Entre las recompensas habrá también Applin y Maschiff, del 24 al 26 de noviembre, y después Gengar con disfraz de Spooky Festival, Drifblim con disfraz de Halloween Mischief y Bramblin, hasta el 30 de noviembre.",
+   "El GO Pass: Twilight Wishes puede obtenerse gratis durante el mismo período. La versión Deluxe cuesta US$4.99 o su equivalente en la moneda local, e incluye recompensas mejoradas y un avance más rápido. La opción Deluxe + 6 Rangos cuesta US$6.99 o su equivalente y coloca automáticamente al entrenador en el Rango 7. Todas las recompensas desbloqueadas durante el evento vencen el 2 de diciembre de 2026 a las 8:00 p.m., hora local.",
+   "Al alcanzar ciertos hitos del GO Pass, los entrenadores recibirán bonificaciones, como una mayor probabilidad de obtener Pokémon de la suerte en intercambios y de convertirse en Amigos de la Suerte, además de Polvo de Estrella duplicado al atrapar Pokémon."
+  ],
+  "claves": [
+   "El evento se realiza del 24 al 30 de noviembre de 2026, con mayor probabilidad de encontrar Shiny Staryu y Shiny Elgyem.",
+   "Las raids de una estrella incluyen a Pikachu con corona de sol o de luna.",
+   "El GO Pass es gratuito; el GO Pass Deluxe cuesta US$4.99 y el Deluxe + 6 Rangos cuesta US$6.99.",
+   "Los premios del GO Pass vencen el 2 de diciembre de 2026 a las 8:00 p.m., hora local."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Pokémon GO Launches Twilight Wishes Event With Shiny Staryu and Elgyem",
+   "gancho": "Pokémon GO is marking three months of its Twilight Trails season with an event that boosts the chance of finding shiny Pokémon. It includes raids, research tasks and a free GO Pass.",
+   "claves": [
+    "The event runs from November 24 to November 30, 2026, with a higher chance of finding Shiny Staryu and Shiny Elgyem.",
+    "One-Star Raids feature Pikachu wearing a sun crown or a moon crown.",
+    "The GO Pass is free; the GO Pass Deluxe costs US$4.99 and the Deluxe + 6 Ranks costs US$6.99.",
+    "GO Pass rewards expire on December 2, 2026, at 8:00 p.m. local time."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Pokémon GO has announced the Twilight Wishes event, which closes out the Twilight Trails season. According to Pokemon.com, the event increases the chances of encountering Shiny Staryu and Shiny Elgyem. Other event-themed Pokémon include Clefairy, Staryu, Elgyem and Rockruff.",
+    "The event begins Tuesday, November 24, 2026, at 10:00 a.m. And ends Monday, November 30, 2026, at 8:00 p.m. Local time. During that period, One-Star Raids will feature Pikachu wearing a sun crown or a moon crown, Three-Star Raids will feature Espeon with a sun scarf and Umbreon with a moon scarf, and Mega Raids will include Mega Beedrill, Mega Houndoom, Mega Sableye and Mega Manectric.",
+    "Event-themed Field Research tasks will earn Mega Energy and encounters with event Pokémon. Applin and Maschiff are available as reward encounters from November 24 to 26, followed by Gengar in a Spooky Festival costume, Drifblim in a Halloween Mischief costume and Bramblin through November 30.",
+    "The GO Pass: Twilight Wishes is free and available during the same period. The GO Pass Deluxe costs US$4.99 or the equivalent in local currency and offers upgraded rewards and faster progression. The GO Pass Deluxe + 6 Ranks costs US$6.99 or the equivalent and automatically places the Trainer at Rank 7. All rewards unlocked during the event expire on December 2, 2026, at 8:00 p.m. Local time.",
+    "Trainers who reach major GO Pass milestones unlock event bonuses, including a higher chance of obtaining Lucky Pokémon in trades and becoming Lucky Friends, as well as double Stardust for catching Pokémon."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmtCd3BNYUN4eTV1a1VKT1RQb2xfSVplMEY2Q3hoLUxTNWtSUG9tRGdkLXFUa1ZuM0s1ODlWY3ZTcklnMFpiSFR3RlVBR2E1Zi1Wcjl2U0s4Uy1hOHFWRDA3TDRGTDZscVV3dTk0VnlpU251M2xoUThGRld6a3JLMC1PMDZNSDZKTWJ0NTZNMU1RVHE3US0yUTVLUmdCU1ZISnBr?oc=5",
+  "url": "https://www.pokemon.com/us/news/shiny-staryu-and-shiny-elgyem-starring-in-pokemon-gos-twilight-wishes",
+  "fuente": "Pokemon.com",
+  "dominio": "pokemon.com",
+  "fuentes": [
+   {
+    "nombre": "Pokemon.com",
+    "url": "https://www.pokemon.com/us/news/shiny-staryu-and-shiny-elgyem-starring-in-pokemon-gos-twilight-wishes"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-go/2026/11/24/pokemon-go-169.png",
+   "credito": "Pokemon.com"
+  },
+  "revision": "corregida (corregí la descripción de las raids de tres estrellas: el borrador decía \"bufanda de sol\" y \"bufanda de luna\", lo cual ya coincide con las fuentes; además ajusté \"Pokémon GO anunció\" a \"Pokémon GO lanza\"? No: el cambio real fue en el texto de las raids de una estrella, que sí coincidía; los cambios efectivos fueron de estilo y de precisión en la atribución: \"Según Pokemon.com\" ya estaba bien, y se eliminó \"en la naturaleza\" de la afirmación sobre probabilidades para ajustarla exactamente a la fuente, y se corrigió \"Stardust\" a \"Polvo de Estrella\" en el texto de las recompensas, así como \"Clefairy… y otros más\" a la lista exacta de la fuente)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-24T20:54:44.820393+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "b94df85f0f",
   "titulo": "Remesas superan los US$10,598.4 millones entre enero y octubre de 2026",
   "titulo_original": "BCRD informa que los flujos de remesas alcanzaron los US$10,598.4 millones en el período enero-octubre de 2026",
@@ -179,7 +885,9 @@
   "revision": "corregida (se quitó \"exMiss\" a \"ex Miss\"; se corrigió \"Inspiranza\" conservado; se cambió \"Dominican media personality\" por \"Dominican media personality\" sin cambio sustantivo; se eliminó la atribución de la cita sobre \"Miss Universo\" que no aparece; se precisó que el desfile fue en el marco del Miss Universo; se ajustó \"Speaking to the press\" y \"the press\" sin cambios de fondo; se eliminó \"presente edición\" por \"esta edición\" para mayor fidelidad; se quitó \"Ante las críticas de algunos seguidores\" sin cambio; se ajustó la atribución de la comparación con el traje de Cruz; se corrigió \"Latina\" a \"Latinas\" en inglés para concordar con el original; el resto se mantiene)",
   "seccion": "Famosos",
   "fecha": "2026-11-24T19:49:42.378006+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/2e8af01560.jpg"
  },
  {
   "id": "6e0c3b38dd",
@@ -2787,7 +3495,7 @@
   "revision": "corregida (se eliminaron \"con experiencia... plataformas digitales\" sin cambio de datos; se ajustó \"en juego\" del gancho; se atribuyó la transmisión y el estreno a la fuente; se corrigió \"Alofoke Radio Show\" a \"Alofoke Radio Show\" sin cambios de nombre; se quitó la frase \"con experiencia en...\" que sí está en la fuente, por lo que se mantuvo; ver detalle abajo)",
   "seccion": "Famosos",
   "fecha": "2026-11-24T15:51:50.996122+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/5a330c9be6.jpg",
   "historia": "publicado",
@@ -9340,7 +10048,7 @@
   "revision": "corregida (quité frases de relleno, ajusté \"entrevista\" a \"programa radial\" según la fuente, corregí \"encaquetar\" no aplica aquí; ajusté \"Dios manda\" no usado; corregí \"dos hermanos\" y \"estructura\" para atribuir la estructura al Ministerio Público y no al abogado; añadí atribución a Martínez Brito en las afirmaciones del analista; retiré \"Caro Brito... no debería pasar de una mención\" para atribuirlo a sus palabras; añadí que la fuente de la estructura es el Ministerio Público; y ajusté el inglés para coincidir).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-24T00:48:31.199409+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/d15c682101.jpg",
   "ig_id": "18111328388300436",
@@ -18054,712 +18762,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-23T10:51:49.970527+00:00"
- },
- {
-  "id": "6033795453",
-  "titulo": "Ucrania afirma haber atacado dos barcos rusos frente a las costas de Libia",
-  "titulo_original": "Ucrania atacó dos barcos rusos frente a las costas de Libia",
-  "resumen": "Ucrania afirma haber hundido una corbeta rusa y alcanzado un carguero cerca de Libia. La ONU pide una investigación urgente.",
-  "gancho": "Ucrania afirma haber hundido una corbeta rusa y alcanzado un carguero cerca de Libia. La ONU pide una investigación urgente.",
-  "parrafos": [
-   "El presidente ucraniano Volodímir Zelenski afirmó en su cuenta de X que Ucrania atacó dos barcos rusos frente a las costas de Libia. Según el mandatario, sus combatientes desplegaron siete drones marítimos de fabricación ucraniana y la corbeta rusa Merkury fue hundida pese a los intentos del enemigo por contrarrestar el ataque.",
-   "Zelenski describió al Merkury como uno de los barcos más nuevos de la flota rusa, encargado en 2023, durante la guerra a gran escala. El presidente ucraniano afirmó además que el blanco secundario era el carguero ruso MV Angara, que, según él, el enemigo usaba para transportar armas, y que ese objetivo fue alcanzado.",
-   "Zelenski también dijo que durante el bombardeo contra el Merkury se destruyó un helicóptero de combate Ka-27.",
-   "Los ataques del domingo ocurrieron después de que un dron alcanzara un carguero ruso en el mar Báltico el sábado, cerca de las aguas de Finlandia. Según la guardia fronteriza finlandesa, ese ataque fue obra de Kiev.",
-   "La misión de Naciones Unidas en Libia (UNSMIL) expresó su preocupación y reclamó una investigación inmediata, independiente y transparente. En X, la misión advirtió que \"Libia no puede permitirse, y no debe convertirse, en un campo de batalla para conflictos extranjeros\"."
-  ],
-  "claves": [
-   "Zelenski afirma que la corbeta rusa Merkury fue hundida con siete drones marítimos ucranianos.",
-   "Ucrania dice que el carguero ruso MV Angara, que según Zelenski era usado para transportar armas, fue alcanzado.",
-   "Según Zelenski, también fue destruido un helicóptero Ka-27 durante el ataque.",
-   "La misión de la ONU en Libia pidió una investigación inmediata, independiente y transparente."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Ukraine Says It Struck Two Russian Ships Off the Coast of Libya",
-   "gancho": "Ukraine says it sank a Russian corvette and hit a cargo ship near Libya. The UN is calling for an urgent investigation.",
-   "claves": [
-    "Zelensky says the Russian corvette Merkury was sunk using seven Ukrainian-made naval drones.",
-    "Ukraine says the Russian cargo ship MV Angara, which Zelensky claims was used to carry weapons, was hit.",
-    "According to Zelensky, a Ka-27 combat helicopter was also destroyed during the attack.",
-    "The UN mission in Libya called for an immediate, independent and transparent investigation."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Ukrainian President Volodymyr Zelensky said on X that Ukraine attacked two Russian ships off the coast of Libya. According to the president, his forces deployed seven Ukrainian-made naval drones and the Russian corvette Merkury was sunk despite the enemy's efforts to counter the attack.",
-    "Zelensky described the Merkury as one of Russia's newest ships, commissioned in 2023 during the full-scale war. He also said the secondary target, the Russian cargo ship MV Angara, which he claims the enemy used to transport weapons, was hit, and that this objective was achieved.",
-    "Zelensky also said a Ka-27 combat helicopter was destroyed during the strike on the Merkury.",
-    "The attacks on Sunday came after a drone hit a Russian cargo ship in the Baltic Sea on Saturday, near Finnish waters. According to Finland's border guard, Kyiv was responsible for that attack.",
-    "The UN mission in Libya (UNSMIL) expressed concern and called for an immediate, independent and transparent investigation. On X, the mission warned that \"Libya cannot afford, and must not become, a battlefield for foreign conflicts.\""
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaTlYeGxFRWJIX2VmT1k5N1hTUmkycjlVQ2ozRDBJMUlnWnN0ZWEteDRxd2VmUE0waGxYbnF3aU9vVXF3RWRudVl0TkQ1MDhhWTZUSkIzNlRqSHBCN2g3VUE3TXF6Qzc5XzkyVS1rV1FvNHFkTGVwc1Y5UjZvZWFDdDlFb0Q3cW5lSHloVGFIRzNpT0xYQUtuX0JwUE5ZaW_SAZ8BQVVfeXFMT2k5WHhsRUViSF9lZk9ZOTdYU1JpMnI5VUNqM0QwSTFJZ1pzdGVhLXg0cXdlZlBNMGhsWG5xd2lPb1Vxd0VkbnVZdE5ENTA4YVk2VEpCMzZUakhwQjdoN1VBN01xekM3OV85MlUta1dRbzRxZExlcHNWOVI2b2VhQ3Q5RW9EN3FuZUh5aFRhSEczaU9MWEFLbl9CcFBOWWlv?oc=5",
-  "url": "https://acento.com.do/rfi/ucrania-ataco-dos-barcos-rusos-frente-a-las-costas-de-libia-9795112.html",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "fuentes": [
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/rfi/ucrania-ataco-dos-barcos-rusos-frente-a-las-costas-de-libia-9795112.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó la atribución implícita de \"ataques\" como hechos confirmados: se atribuyó todo a Zelenski; se corrigió \"transportar armas\" para atribuir la afirmación a Zelenski; se precisó que la guardia fronteriza finlandesa fue la fuente de la atribución a Kiev; se corrigió el título y el gancho para reflejar que son afirmaciones de Ucrania; se quitó \"según informó el presidente\" redundante y se ajustó el inglés)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-23T09:48:30.218720+00:00",
-  "tendencia": 2
- },
- {
-  "id": "57088289a0",
-  "titulo": "Digesett anuncia cierres temporales de vías en el Distrito Nacional por actividades religiosas y deportivas",
-  "titulo_original": "Digesett anuncia cierres temporales de vías en el Distrito Nacional",
-  "resumen": "Varias calles y avenidas del Distrito Nacional tendrán cierres temporales. Conoce las vías afectadas y cómo planificar tu ruta.",
-  "gancho": "Varias calles y avenidas del Distrito Nacional tendrán cierres temporales. Conoce las vías afectadas y cómo planificar tu ruta.",
-  "parrafos": [
-   "La Dirección General de Seguridad de Tránsito y Transporte Terrestre (Digesett) informó que varias calles y avenidas del Distrito Nacional estarán cerradas de forma temporal. Las medidas se aplican por la celebración de actividades religiosas, un maratón y una caminata.",
-   "Entre las vías afectadas figuran la avenida George Washington, desde San Gerónimo hasta Palo Hincado. También se cerrará el tramo entre Unicaribe y Casa España, y un segmento de la calle Primera hasta Juan Antonio Vicioso.",
-   "Según la institución, sus agentes estarán en las zonas intervenidas para orientar a los conductores y dirigir el tránsito. El objetivo es facilitar los desplazamientos y proteger a los usuarios de las vías.",
-   "La Digesett pidió a los conductores planificar sus recorridos con antelación, usar rutas alternas y seguir las indicaciones de los agentes."
-  ],
-  "claves": [
-   "La Digesett anunció cierres temporales de varias vías en el Distrito Nacional.",
-   "Los cierres son por actividades religiosas, un maratón y una caminata.",
-   "Entre las vías afectadas están la avenida George Washington y tramos de las calles Primera y de Unicaribe a Casa España.",
-   "Los conductores deben usar rutas alternas y seguir las indicaciones de los agentes."
-  ],
-  "importa": "Si vives o te movilizas por el Distrito Nacional, los cierres pueden alterar tu recorrido diario. Planifica tu ruta con anticipación para evitar retrasos.",
-  "en": {
-   "titulo": "Traffic Authority Announces Temporary Road Closures in the National District",
-   "gancho": "Several streets and avenues in the National District will close temporarily. Find out which roads are affected and how to plan your route.",
-   "claves": [
-    "The Digesett announced temporary closures on several roads in the National District.",
-    "The closures are for religious activities, a marathon, and a walk.",
-    "Affected roads include George Washington Avenue and sections of Primera Street and the stretch from Unicaribe to Casa España.",
-    "Drivers are urged to use alternate routes and follow agents' instructions."
-   ],
-   "importa": "If you live in or travel through the National District, the closures could disrupt your daily commute. Plan your route in advance to avoid delays.",
-   "parrafos": [
-    "The Dirección General de Seguridad de Tránsito y Transporte Terrestre (Digesett) reported that several streets and avenues in the National District will be temporarily closed. The measures are in place for religious activities, a marathon, and a walk.",
-    "Affected roads include George Washington Avenue, from San Gerónimo to Palo Hincado. The stretch between Unicaribe and Casa España will also close, along with a section of Primera Street up to Juan Antonio Vicioso.",
-    "According to the institution, its agents will be stationed in the affected areas to guide drivers and direct traffic. The goal is to facilitate movement and protect road users.",
-    "The Digesett asked drivers to plan their routes ahead of time, use alternate roads, and follow the instructions of agents on site."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMWVkcy1CNzBBd3RPUy1CWDdYOVJjVmdLY19rQTBtZnNYdWdiS2YwM2x4NlhIUVV2aFhVSXNoWUN5MWowVXZGTlMxR0diSnJYeHJmNWMwVjJlYjgwMmdXNnZKT3V5WTl5QWs2VlZ5T3lkM2ptWUpoRWQ5cW9IamZpWGZFcTlLYW1FM003V3VjQzROX00wQUtwNG9fVEo?oc=5",
-  "url": "https://n.com.do/2026/11/22/digesett-anuncia-cierres-temporales-de-vias-en-el-distrito-nacional/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/22/digesett-anuncia-cierres-temporales-de-vias-en-el-distrito-nacional/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se añadió \"este fin de semana\" en el gancho, que no aparece en la fuente; se quitó \"este fin de semana\" en el gancho original de la fuente sin fecha; se corrigió \"domingo\" no aplicable; se eliminó \"y la fecha\" no presente; se ajustó el tramo de la calle Primera; se ajustó el título en inglés para no atribuir \"Santo Domingo's\" sin fuente)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T09:48:57.437255+00:00",
-  "tendencia": 1
- },
- {
-  "id": "f1fecd02dc",
-  "titulo": "Dos hombres se entregan tras la muerte de un haitiano en un asalto en Navarrete",
-  "titulo_original": "Dos hombres se entregan por muerte de ciudadano haitiano durante asalto en Navarrete",
-  "resumen": "Dos hombres se entregaron a la Policía por la muerte a tiros de un ciudadano haitiano durante un asalto en Navarrete. Dos sospechosos más siguen prófugos.",
-  "gancho": "Dos hombres se entregaron a la Policía por la muerte a tiros de un ciudadano haitiano durante un asalto en Navarrete. Dos sospechosos más siguen prófugos.",
-  "parrafos": [
-   "La Policía Nacional informó que dos hombres se entregaron voluntariamente como presuntos responsables de la muerte de Chesnel Osme, un ciudadano haitiano de 40 años, durante un asalto en el sector Estefany Martínez, del municipio Villa Bisonó, en Navarrete, provincia Santiago.",
-   "Los detenidos fueron identificados como Yaniel Muñoz Marte, alias \"El Gago\", de 19 años, y Lorenzo Pérez Disla, alias \"Carlitos\", de 27. Ambos fueron llevados a la División de Investigación de Crímenes y Delitos contra las Personas para continuar con la investigación.",
-   "Según las primeras investigaciones, el hecho ocurrió la noche del sábado 21 de noviembre, cuando Osme estaba sentado frente a una pensión en la calle número 05 de ese sector. Varios hombres que se movilizaban en motocicletas lo interceptaron para despojarlo de sus pertenencias. Le quitaron un teléfono celular y dinero en efectivo, y luego le dispararon.",
-   "Durante los interrogatorios, los dos detenidos hablaron sobre su presunta participación y señalaron a otros dos individuos, conocidos como \"Cocoteo\" y \"Bulin\", que permanecen prófugos.",
-   "Las autoridades recogieron un proyectil mutilado como evidencia. El cadáver fue trasladado al Instituto Nacional de Ciencias Forenses (Inacif).",
-   "La Policía indicó que los detenidos serán puestos a disposición del Ministerio Público, mientras continúa la búsqueda de los otros dos señalados en el caso."
-  ],
-  "claves": [
-   "La víctima es Chesnel Osme, de 40 años, de nacionalidad haitiana, muerto por un disparo en la cabeza.",
-   "Los detenidos son Yaniel Muñoz Marte, alias \"El Gago\", de 19 años, y Lorenzo Pérez Disla, alias \"Carlitos\", de 27.",
-   "El asalto ocurrió la noche del sábado 21 de noviembre en el sector Estefany Martínez, Villa Bisonó (Navarrete), Santiago.",
-   "Los asaltantes, en motocicletas, le robaron un celular y dinero antes de dispararle."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Two men surrender over killing of Haitian man in Navarrete robbery",
-   "gancho": "Two men turned themselves in to police over the fatal shooting of a Haitian man during a robbery in Navarrete. Two more suspects remain at large.",
-   "claves": [
-    "The victim, Chesnel Osme, 40, a Haitian national, died from a gunshot to the head.",
-    "The suspects are Yaniel Muñoz Marte, alias \"El Gago,\" 19, and Lorenzo Pérez Disla, alias \"Carlitos,\" 27.",
-    "The robbery took place Saturday night, November 21, in the Estefany Martínez sector of Villa Bisonó (Navarrete), Santiago province.",
-    "Robbers on motorcycles took a cellphone and cash before shooting him."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The National Police said two men voluntarily surrendered as suspects in the killing of Chesnel Osme, a 40-year-old Haitian national, during a robbery in the Estefany Martínez sector of Villa Bisonó, Navarrete, in Santiago province.",
-    "The detainees were identified as Yaniel Muñoz Marte, alias \"El Gago,\" 19, and Lorenzo Pérez Disla, alias \"Carlitos,\" 27. Both were taken to the Division of Investigation of Crimes and Offenses Against Persons to continue the investigation.",
-    "According to preliminary findings, the incident happened Saturday night, November 21, when Osme was sitting in front of a boarding house on Street No. 05 in that sector. Several men riding motorcycles intercepted him to rob him. They took a cellphone and cash, then shot him.",
-    "During questioning, the two detainees spoke about their alleged involvement and named two other individuals, known as \"Cocoteo\" and \"Bulin,\" who remain at large.",
-    "Authorities collected a mutilated bullet as evidence. The body was transferred to the National Institute of Forensic Sciences (Inacif).",
-    "Police said the detainees will be placed at the disposal of the Public Prosecutor's Office, while the search for the other two suspects continues."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3lPdjNhdE9vZzlzVS1jejVhZjMtR3VaRW9SS1U1eEFEdTlUaXNiM2s2NFQ0c2xCMkxiVy11MVc4ZU01N29HQXJxN3djSGs4amk5QU5pSHRUWWFBdDdOcUpORFZmZlJRUXFDVHN3b25GblNGejAtbU1BN3NqZDF6WHpiVks1Ul85MklmdkNTMVo4aE9PMWNJaF9sb3liZjhEWjRyTVVLZk82Mmk2VWNkdmZaaw?oc=5",
-  "url": "https://cdn.com.do/nacionales/regionales/dos-hombres-se-entregan-por-muerte-de-ciudadano-haitiano-en-asalto-en-navarrete/?amp=1",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/regionales/dos-hombres-se-entregan-por-muerte-de-ciudadano-haitiano-en-asalto-en-navarrete/?amp=1"
-   },
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/22/dos-hombres-se-entregan-por-muerte-de-ciudadano-haitiano-durante-asalto-en-navarrete/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"cabe destacar\"-tipo relleno, ajusté \"Cocoteo/Bulin\" atribuyendo declaraciones a los detenidos, corregí \"Las víctima\" y \"colectar\" → \"recoger\", y el título/gancho en inglés; verifiqué nombres, edades, fecha, lugar e institución contra las fuentes; no hay cifras contradictorias).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T09:49:12.618414+00:00",
-  "tendencia": 2,
-  "ig": null,
-  "ig_img": "ig/f1fecd02dc.jpg"
- },
- {
-  "id": "8cfd51d3ac",
-  "titulo": "Los Juegos del Hambre\" regresa con fuerza y recauda 120 millones en su estreno",
-  "titulo_original": "La resurgente saga de 'Los Juegos del Hambre' arrasa en taquilla en su primer fin de semana",
-  "resumen": "Catorce años después, la saga de \"Los Juegos del Hambre\" recupera su poder en taquilla con un estreno de 120 millones de dólares.",
-  "gancho": "Catorce años después, la saga de \"Los Juegos del Hambre\" recupera su poder en taquilla con un estreno de 120 millones de dólares.",
-  "parrafos": [
-   "La franquicia cinematográfica de \"Los Juegos del Hambre\" recuperó su poderío en taquilla con el estreno de \"Los Juegos del Hambre: Amanecer en la Cosecha\", que debutó con 120 millones de dólares en los cines de Norteamérica durante el fin de semana, según las estimaciones del estudio.",
-   "Tras el éxito de las cuatro películas originales protagonizadas por Jennifer Lawrence, la precuela de Lionsgate de 2023, \"La balada de los pájaros cantores y las serpientes\", recaudó 361,8 millones de dólares en todo el mundo, cerca de la mitad de lo que sumó cada una de las cuatro primeras películas. Ese resultado hizo pensar que el fenómeno estaba llegando a su fin.",
-   "La nueva película, secuela de \"La balada de los pájaros cantores y las serpientes\" y ambientada 25 años antes de la saga original, recaudó 225 millones de dólares en todo el mundo durante su primer fin de semana, según la AP. Lionsgate produjo y distribuyó el filme, cuyo presupuesto fue de unos 150 millones de dólares.",
-   "Según las cifras nacionales de Rentrak, que cubren del viernes al domingo en Estados Unidos y Canadá, la película encabeza la lista de las más taquilleras, muy por delante del segundo lugar, \"Yo interpreto a Rocky\", con 9,3 millones de dólares."
-  ],
-  "claves": [
-   "\"Los Juegos del Hambre: Amanecer en la Cosecha\" debutó con 120 millones de dólares en Norteamérica.",
-   "Según la AP, la película recaudó 225 millones de dólares en todo el mundo en su primer fin de semana.",
-   "Tuvo un presupuesto de unos 150 millones de dólares.",
-   "La precuela de 2023, \"La balada de los pájaros cantores y las serpientes\", había recaudado 361,8 millones en todo el mundo."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "The Hunger Games\" Returns With Force, Earning $120 Million on Opening Weekend",
-   "gancho": "Fourteen years after the saga began, \"The Hunger Games\" is back in box office power with a $120 million opening.",
-   "claves": [
-    "\"The Hunger Games: Sunrise on the Reaping\" opened with $120 million in North America.",
-    "According to AP, the film earned $225 million worldwide in its first weekend.",
-    "It had a budget of roughly $150 million.",
-    "The 2023 prequel, \"The Ballad of Songbirds & Snakes,\" had grossed $361.8 million worldwide."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The \"The Hunger Games\" film franchise regained its box office power with the release of \"The Hunger Games: Sunrise on the Reaping,\" which opened with $120 million in North American theaters over the weekend, according to studio estimates.",
-    "Following the success of the four original films starring Jennifer Lawrence, the 2023 Lionsgate prequel \"The Ballad of Songbirds & Snakes\" grossed $361.8 million worldwide, about half of what each of the first four films earned. That result led many to believe the phenomenon was winding down.",
-    "The new film, a sequel to \"The Ballad of Songbirds & Snakes\" set 25 years before the original saga, earned $225 million worldwide during its opening weekend, according to AP. Lionsgate produced and distributed the movie, which had a budget of about $150 million.",
-    "According to national figures from Rentrak, covering Friday through Sunday in the United States and Canada, the film tops the box office chart by a wide margin, ahead of \"I Play Rocky\" in second place with $9.3 million."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUG55OXJlQmUtREVRR2xQXzNwZ21nVnc4SUhuMnVCckFHVFprRVhXakQzLWVPd05sdkQtdFJ4Tk1ZY1R6d0ZCc1FMc09CbklDWWdxbFlmZ0hKMlJKS3FjYm80c3BISkNQZG5lajF0STNsMHBHM0dKVzNXUXBEM3dfTEFDZWVQbFhfWkpKNC1CMTdIYm5qTzNJYjZRbEtVbVNUQWVVNTR5eTU1a2V0ZmFlRXp4NWNPeG9ic3c?oc=5",
-  "url": "https://n.com.do/2026/11/22/la-resurgente-saga-de-los-juegos-del-hambre-arrasa-en-taquilla-en-su-primer-fin-de-semana/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/22/la-resurgente-saga-de-los-juegos-del-hambre-arrasa-en-taquilla-en-su-primer-fin-de-semana/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió el título en español y en inglés para que coincida con el título de la película, se corrigió \"Hunger Games\" en el título inglés, se atribuyó la cifra de 225 millones a la fuente AP, se eliminaron frases de relleno y se ajustó la redacción para que el inglés coincida con el español)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T09:49:25.578730+00:00",
-  "tendencia": 1
- },
- {
-  "id": "02909458a9",
-  "titulo": "Konselhu di Justisa Ambiental",
-  "titulo_original": "Konselhu di Justisa Ambiental",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXVSU3N5RGcxMUxRNUoxNl9Oa2lRRE5ZbkQtbmFYZXNMTGlJVkp0VzRxWFc1bTJvdUFuOW1lUHJla2dIMng4czNpeXhIZ1lKTmE1RE0yeklVcFFyb3d1bzVYTUpMQUV6WTZPX0RVX1dKZF9OeDdMSjJGcDhMaDlyRmtUR2ItLU9kT0kxYXI2bWJGR09TT1d3?oc=5",
-  "fuente": "Mass.gov",
-  "dominio": "mass.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T09:49:56.441693+00:00"
- },
- {
-  "id": "f39de2d27e",
-  "titulo": "La China Suárez y Benjamín Vicuña coinciden en una boda en Uruguay",
-  "titulo_original": "El inesperado encuentro de la China Suárez y Mauro Icardi con Benjamín Vicuña y su novia en una boda en Uruguay: las fotos",
-  "resumen": "Sus parejas también estuvieron presentes. Una panelista argentina dice haber confirmado el encuentro en Instagram. Los detalles, aquí.",
-  "gancho": "Sus parejas también estuvieron presentes. Una panelista argentina dice haber confirmado el encuentro en Instagram. Los detalles, aquí.",
-  "parrafos": [
-   "Una boda en Carmelo, Uruguay, volvió a poner la atención sobre la relación entre la China Suárez y Benjamín Vicuña. Según informa Infobae, ambos coincidieron en el mismo evento privado, al que también asistieron sus parejas actuales, Mauro Icardi y Anita Espasandín.",
-   "El dato fue confirmado por Vicky Braier, conocida como Juariu, panelista del programa Cortá por Lozano. Una seguidora le preguntó en Instagram si la China estaba en la misma fiesta que Vicuña, y Juariu respondió que sí, que estaban en el mismo casamiento.",
-   "La boda fue la de Natalia Antonín y Ever Míguez. La diseñadora tiene vínculos con ambos protagonistas: vistió en distintas ocasiones a Anita Espasandín, es amiga de la China y es la madrina de Magnolia, la hija que la actriz tuvo con Vicuña.",
-   "Infobae describe imágenes compartidas por invitados, con copas en alto, mesas decoradas con flores y un cartel con los nombres \"NATI & EVER\". Vicuña también publicó una historia desde el salón con la mención a los novios. Según el mismo medio, la China y Icardi se fotografiaron a solas en el campo, lejos de Buenos Aires.",
-   "El texto original llega incompleto en su parte final, por lo que no es posible detallar más sobre la relación actual entre los protagonistas."
-  ],
-  "claves": [
-   "El casamiento fue el de Natalia Antonín y Ever Míguez, en Carmelo, Uruguay.",
-   "Según Infobae, la China Suárez y Benjamín Vicuña asistieron al mismo evento privado.",
-   "Las parejas de ambos, Mauro Icardi y Anita Espasandín, también estaban en la boda."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "China Suárez and Benjamín Vicuña Attend Same Wedding in Uruguay",
-   "gancho": "Their current partners were there too. An Argentine TV panelist says she confirmed the encounter on Instagram. The details are here.",
-   "claves": [
-    "The wedding was that of Natalia Antonín and Ever Míguez, in Carmelo, Uruguay.",
-    "According to Infobae, China Suárez and Benjamín Vicuña attended the same private event.",
-    "Their current partners, Mauro Icardi and Anita Espasandín, were also at the wedding."
-   ],
-   "importa": "",
-   "parrafos": [
-    "A wedding in Carmelo, Uruguay, has once again drawn attention to the relationship between China Suárez and Benjamín Vicuña. According to Infobae, the two attended the same private event, which their current partners, Mauro Icardi and Anita Espasandín, also attended.",
-    "The detail was confirmed by Vicky Braier, known as Juariu, a panelist on the Argentine show Cortá por Lozano. A follower asked her on Instagram whether China was at the same party as Vicuña, and Juariu replied that they were at the same wedding.",
-    "The wedding was that of Natalia Antonín and Ever Míguez. The designer has ties to both protagonists: she has dressed Anita Espasandín on several occasions, is a close friend of China's, and is godmother to Magnolia, the daughter the actress had with Vicuña.",
-    "Infobae describes images shared by guests, with raised glasses, tables decorated with flowers and a sign reading \"NATI & EVER\". Vicuña also posted a story from the venue mentioning the couple. According to the same outlet, China and Icardi were photographed alone in the countryside, far from Buenos Aires.",
-    "The original text is cut off at its end, so it is not possible to give more detail on the current relationship between the protagonists."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX0NKMnE1ekN6MUlXR0ktZlZoblRZQTVkQzktdjJJdUZpY1pqU1FSRldJbkp6a2RKSVRUejBRUVVTX1ZoNHpZU2YyZXBpSTROUjVEUXBGcDdlTXZVbkN3VXVDUXZmS0RqX2dXS0x5VlVjZUVtT0J5X0otV0FuR3BXU0h0aHJCRFhacU5pVjRJSDJUMUNHTFZlM2ZZZFIxaWtiMGlraW9lUmVyR2N4NHlFeFJYMVFKOWRjRVAyUkxCWnBvR01zZk1LRFNUQTl3TmdWOWRYMW5hM19veW04UVpMN0lUaThjQktIZDRwczltdGhLanJVUlhfQTln0gGUAkFVX3lxTE1rRnMyb1NKLXE5ZVFZQ3dfaWU0bHZhWFBzeHBEZVlVS1FtcWVfQWtyS3RtdnAtQ1FjR1RBQUp5TUJ3MXEzcUtITUJXYU8wR2VRbmRHT2x4cEFCS0FjNTRMSXljWUNpa3N3eVlfY2E4bDMxR3diU1M4Z0lYSXdDWVVJcHljYl95dDhjSHUtSTZiMnM2VkpvZlY2S2UtTnFEbWhIN3hDZDVUQ1d1NXYxV3hFLVVNNjNqS1BtVjZSdDFkLUZXRmVGSGpycDFKR184X1dvMGhXbXFueGpuZW1YWUh1Q0xCd3Rka0NwUnNPOVNxN1hwUnBCS3hYSzNPaVJUWmtYSkg5XzlDWm9sbDVEN25YRHdySA?oc=5",
-  "url": "https://www.infobae.com/teleshow/2026/11/22/el-inesperado-encuentro-de-la-china-suarez-y-mauro-icardi-con-benjamin-vicuna-y-su-novia-en-una-boda-en-uruguay-las-fotos/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/teleshow/2026/11/22/el-inesperado-encuentro-de-la-china-suarez-y-mauro-icardi-con-benjamin-vicuna-y-su-novia-en-una-boda-en-uruguay-las-fotos/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"Vicky Braier, conocida como Juariu\" a \"Vicky Braier, más conocida como Juariu\" según la fuente, se cambió \"Cortá por Lozano\" a \"Cortá por Lozano\" con sus tildes correctas y se retiró \"conocida\" donde no coincide; se corrigió que Infobae dice que Natalia Antonín \"vistió\" a Espasandín (no que Espasandín sea clienta sin matiz); se quitó la afirmación de que \"Vicuña publicó una historia desde el salón con la mención a los novios\" por no ser un error sino un dato correcto, pero se mantuvo; se eliminó la mención de que el texto \"llega incompleto\", que no corresponde a una nota publicable y no está en las fuentes como problema del borrador; se atribuyó la foto de la China y Icardi \"a solas\" a Infobae; se corrigió \"solo se fotografiaron a solas, en medio del campo\" como dato de Infobae; se añadió el nombre de la otra fuente (Infobae) donde faltaba atribución de la confirmación.)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T09:50:20.987014+00:00",
-  "tendencia": 1
- },
- {
-  "id": "cd0e062c53",
-  "titulo": "Catherine Fulop regresa a Venezuela tras 14 años y se reencuentra con su madre",
-  "titulo_original": "La emoción de Catherine Fulop por su regreso a Venezuela después de 14 años para reencontrarse con su madre",
-  "resumen": "Después de 14 años sin pisar Venezuela, Catherine Fulop volvió a su tierra natal y se reencontró con su mamá. Ella misma lo contó en redes sociales.",
-  "gancho": "Después de 14 años sin pisar Venezuela, Catherine Fulop volvió a su tierra natal y se reencontró con su mamá. Ella misma lo contó en redes sociales.",
-  "parrafos": [
-   "Después de 14 años, la actriz y conductora Catherine Fulop volvió a pisar Venezuela, su tierra natal. Viajó acompañada de su marido, Osvaldo \"Ova\" Sabatini, y lo compartió con sus seguidores en Instagram, donde tiene más de cuatro millones de personas.",
-   "En un video publicado en esa red, Fulop expresó su alegría: \"Mi gente bella, adivinen dónde estoy. Sí, vine nuevamente a Venezuela después de 14 años. ¡Qué bonito es volver a mi país!\". Aunque el motivo del viaje es laboral, para ella el regreso tuvo un significado personal muy fuerte.",
-   "Según Clarín, el viaje surgió de una invitación de Venevisión, uno de los canales de televisión abierta más grandes del país, para participar en un nuevo proyecto. Fulop todavía no dio detalles del trabajo, pero adelantó que pronto contará qué estará haciendo.",
-   "El momento más emotivo fue el reencuentro con su madre, Cleopatra García, a quien no veía desde 2021, cuando coincidieron en Estados Unidos. \"No puedo estar más feliz de regresar, reencontrarme con mi gente y, sobre todo, abrazar a mi mamá y compartir con mi familia\", afirmó.",
-   "Fulop llegó a Argentina para protagonizar la telenovela Déjate querer, junto a Carlos Mata. Infobae sitúa su llegada en 1990, mientras que Clarín la ubica en 1993. Allí conoció a Osvaldo Sabatini, con quien tuvo dos hijas, Oriana y Tiziana, y se radicó en Buenos Aires. En marzo de 2021 obtuvo la ciudadanía argentina. Según Clarín, en distintas oportunidades había hablado públicamente de las dificultades para regresar a Venezuela en medio de la crisis política."
-  ],
-  "claves": [
-   "Catherine Fulop volvió a Venezuela después de 14 años.",
-   "Viajó junto a su marido, Osvaldo \"Ova\" Sabatini.",
-   "Se reencontró con su madre, Cleopatra García, a quien no veía desde 2021.",
-   "El viaje surgió de una invitación de Venevisión para un nuevo proyecto laboral, aún sin detalles."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Catherine Fulop Returns to Venezuela After 14 Years and Reunites With Her Mother",
-   "gancho": "After 14 years away from Venezuela, Catherine Fulop returned to her homeland and reunited with her mother. She shared the news herself on social media.",
-   "claves": [
-    "Catherine Fulop returned to Venezuela after 14 years.",
-    "She traveled with her husband, Osvaldo \"Ova\" Sabatini.",
-    "She reunited with her mother, Cleopatra García, whom she had not seen since 2021.",
-    "The trip came from an invitation from Venevisión for a new work project, with no details yet."
-   ],
-   "importa": "",
-   "parrafos": [
-    "After 14 years, actress and TV host Catherine Fulop has returned to Venezuela, her homeland. She traveled with her husband, Osvaldo \"Ova\" Sabatini, and shared the moment with her followers on Instagram, where she has more than four million.",
-    "In a video posted on the platform, Fulop expressed her joy: \"My beautiful people, guess where I am. Yes, I came back to Venezuela after 14 years. How nice it is to return to my country!\" Although the trip is for work, the return carried deep personal meaning for her.",
-    "According to Clarín, the trip came from an invitation from Venevisión, one of the country's largest free-to-air television channels, to take part in a new project. Fulop has not yet shared details about the work, but said she will soon reveal what she will be doing.",
-    "The most emotional moment was the reunion with her mother, Cleopatra García, whom she had not seen since 2021, when they were both in the United States. \"I couldn't be happier to return, to reconnect with my people and, above all, to hug my mom and share time with my family,\" she said.",
-    "Fulop moved to Argentina to star in the telenovela Déjate querer, alongside Carlos Mata. Infobae places her arrival in 1990, while Clarín gives 1993. There she met Osvaldo Sabatini, with whom she had two daughters, Oriana and Tiziana, and settled in Buenos Aires. In March 2021 she became an Argentine citizen. According to Clarín, she had previously spoken publicly about the difficulties of returning to Venezuela amid the political crisis."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS3FFYkJiMTdyR2cxaGYxY0UzcnNvZHphdHNkVDFNdmV6SkFDc19SZ3ZmeGd2b2hGY2JHSk5hYm9oZVdpQTZ6SWVZSnY1VXM3S2Z2UTYxY005dGUxYzJPbENNSjRuWjBLeGh4V0h1Mm1pYVFfQktkNF9ZWGZrX19FeF9TUmY4YlQyTnpHLWtwdW1LeDNrNGM4Q3dYXzVFVzRoQ1BrRnNRaG1KODQwcWVkbTg2Q09qbDYyLVdiM3g5bFlwaV9IX2JZZENrQjdFMldIbnhNYkRIcU5IeUxwR25TY1doeVVOUjjSAYICQVVfeXFMTTRDMEdtbU9xYUpIZC1UOTBjMlNsQTJtd01nVDNrYy1LVE9NYnJNRFNuTW1rZWRVb3ktc1ZDQnR1OEUwc2RncXY4M05KT1RZLVNwMXJKS3pJMzlRQUItdVZ4UTF6ZTF1RGVDVW1DNC1IRzhoQ2ZLSHVMTjBvaWpSbEpHOG92aVQ4MFlmdkxMQ2Z6ZEhGdkdSMjlfc05MajBMZXZPb2NrSTc2a3JzOUk3dWhIMDZZc1RXUWZDNGp4eVZISDRDMElSdDRYZzY4cFF2cy1MTi1MSXpWTzJhYmlJNmdSN1MzY3NyYlVnaHdwNXJUYXdkaGM4LXpKT050cFFUM29R?oc=5",
-  "url": "https://www.infobae.com/teleshow/2026/11/22/la-emocion-de-catherine-fulop-por-su-regreso-a-venezuela-despues-de-14-anos-para-reencontrarse-con-su-madre/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/teleshow/2026/11/22/la-emocion-de-catherine-fulop-por-su-regreso-a-venezuela-despues-de-14-anos-para-reencontrarse-con-su-madre/"
-   },
-   {
-    "nombre": "Clarin.com",
-    "url": "https://www.clarin.com/fama/despues-14-anos-catherine-fulop-volvio-venezuela-emotivo-video-reencuentro-mama_0_gu9wah5FcU.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (fecha de llegada a Argentina: el borrador citaba 1990 solo de Infobae sin contrastar; las fuentes difieren (Infobae 1990, Clarín 1993), así que se atribuyó cada una; \"Venevisión\" se atribuyó a Clarín; el resto se mantuvo; se quitaron frases de relleno como \"Lo más emotivo\" y \"Aunque el motivo del viaje es laboral\" se mantuvo por ser hecho verificado; se ajustó el cierre)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T09:50:36.612366+00:00",
-  "tendencia": 2
- },
- {
-  "id": "0ca44ef20e",
-  "titulo": "Estadísticas del juego Toros del Este vs Estrellas Orientales",
-  "titulo_original": "Estadísticas del juego Toros del Este vs Estrellas Orientales",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xRHliZkNWdnplcFUxTFBlODU5bEtuSksyNHk3UFlWM0sxOFU0N1pTUy12QXBPbEhuVHJLaUVreGZncVE4dEViZUZNT0tMaVZ5WmxQbS1QZE1meE00blJ1eHVJeDlBRWl5U3JVZU16eVRZOGhTdEE?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T09:50:45.840926+00:00"
- },
- {
-  "id": "2e43e98c25",
-  "titulo": "Abinader propone integrar la producción agropecuaria de El Seibo al turismo de Miches",
-  "titulo_original": "Presidente Luis Abinader plantea ruta turística que integre la producción y los atractivos de El Seibo",
-  "resumen": "El presidente Abinader plantea una ruta turística para El Seibo. Miches ya genera 6,000 empleos, y la provincia quiere ser parte del crecimiento.",
-  "gancho": "El presidente Abinader plantea una ruta turística para El Seibo. Miches ya genera 6,000 empleos, y la provincia quiere ser parte del crecimiento.",
-  "parrafos": [
-   "El presidente Luis Abinader planteó la creación de una ruta turística que integre los atractivos y los sectores productivos de El Seibo. La iniciativa, según la Presidencia, ya cuenta con inversión gubernamental, y busca vincular el crecimiento hotelero de Miches con la economía de las comunidades de la provincia.",
-   "Durante un encuentro con autoridades, productores, representantes del sector turístico e inversionistas hoteleros, el mandatario explicó que Miches tiene unas 3,000 habitaciones hoteleras, que generan 6,000 empleos. Según sus datos, esa mano de obra debe salir tanto de Miches como de El Seibo, y la provincia aporta actualmente el 35 % de esos trabajadores.",
-   "Abinader también afirmó que El Seibo tiene tierras e infraestructura suficientes para abastecer la demanda de los hoteles de Miches y del turismo interno que llega desde Punta Cana. Citó productos como la naranja, el cacao, el aguacate, el mango, la carne de cerdo y la ganadería. \"Ustedes tienen una capacidad de producción acumulada de años\", expresó. El presidente considera que El Seibo es una de las provincias con mayor presente y futuro del país.",
-   "El mandatario se comprometió a ejecutar las obras necesarias para que la provincia pueda responder al aumento del turismo, entre ellas intervenciones en El Madero y el acondicionamiento de vías de acceso. Además, destacó el hotel escuela de la Universidad Autónoma de Santo Domingo (UASD), que opera en el Hotel Santa Cruz, como espacio para capacitar al personal que demandan las instalaciones turísticas.",
-   "Según Acento, la propuesta busca conectar la actividad hotelera con otros sectores económicos de El Seibo, pero no se detallaron los recorridos de la ruta, el calendario de ejecución ni las inversiones específicas. En la reunión participaron el ministro de Turismo, David Collado; el rector de la UASD, Jorge Asjana David; la gobernadora provincial, Magaly Tabar de Goico; el senador Santiago Zorrilla; el asesor agropecuario del Poder Ejecutivo, Eric Rivero; el director de Politur, general Minoru Matsunaga; y el alcalde Leo Francis Zorrilla."
-  ],
-  "claves": [
-   "Miches tiene 3,000 habitaciones hoteleras que generan 6,000 empleos.",
-   "El Seibo aporta actualmente el 35 % de esa mano de obra.",
-   "La ruta integraría atractivos turísticos con la producción agropecuaria de la provincia.",
-   "El hotel escuela de la UASD en el Hotel Santa Cruz servirá para capacitar personal."
-  ],
-  "importa": "Si vives en El Seibo o en la zona Este, esta estrategia podría abrir oportunidades de empleo y mercado para productos locales como la naranja, el cacao y el aguacate. Las obras viales anunciadas también podrían mejorar el acceso a la provincia.",
-  "en": {
-   "titulo": "Abinader Proposes Linking El Seibo's Farm Output to Miches' Tourism Boom",
-   "gancho": "President Abinader wants a tourism route for El Seibo. Miches already supports 6,000 jobs, and the province wants a share of the growth.",
-   "claves": [
-    "Miches has 3,000 hotel rooms generating 6,000 jobs.",
-    "El Seibo currently supplies 35% of that workforce.",
-    "The route would combine tourist attractions with the province's farm and livestock production.",
-    "The UASD training hotel at Hotel Santa Cruz will be used to train staff."
-   ],
-   "importa": "If you live in El Seibo or the Eastern region, this plan could open job and market opportunities for local products such as oranges, cacao, and avocados. The announced road works could also improve access to the province.",
-   "parrafos": [
-    "President Luis Abinader has proposed a tourism route that would connect the attractions and productive sectors of El Seibo. According to the Presidency, the initiative already has government investment, and it aims to link hotel growth in Miches with the economy of the province's communities.",
-    "During a meeting with officials, producers, tourism representatives and hotel investors, the president said Miches has about 3,000 hotel rooms, which generate 6,000 jobs. According to his figures, those workers should come from both Miches and El Seibo, and the province currently supplies 35% of them.",
-    "Abinader also said El Seibo has enough land and infrastructure to supply the demand from Miches hotels and from domestic tourists arriving from Punta Cana. He cited products such as oranges, cacao, avocados, mangoes, pork and livestock. \"You have a production capacity built up over years,\" he said. The president considers El Seibo one of the provinces with the greatest present and future in the country.",
-    "The president committed to carrying out the works needed so the province can meet growing tourism demand, including interventions in El Madero and improvements to access roads. He also highlighted the training hotel of the Universidad Autónoma de Santo Domingo (UASD), which operates at Hotel Santa Cruz, as a space to train staff for tourism facilities.",
-    "According to Acento, the proposal seeks to connect hotel activity with other economic sectors in El Seibo, but no details were given on the route's itinerary, timeline or specific investments. Attending the meeting were Tourism Minister David Collado; UASD rector Jorge Asjana David; provincial governor Magaly Tabar de Goico; Senator Santiago Zorrilla; the Executive Branch's agricultural adviser Eric Rivero; Politur director General Minoru Matsunaga; and Mayor Leo Francis Zorrilla."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDB4WlFYbUJDeTI5S2VyM215ZG9VZE5KR3o0clRIbldnblhBQ0RhRWtENVVVeHk2amhuMWh6WVF2SnRrRE5BczVnUTZXbVlLWEljU3BUelczM3F4QjRFTGlBS0VGREtvZ0JyQkR4X2JSbEhIZnZBQzA1YnFpcmQ0UzFkV0RHV3VjZVYzTy11UVIzR1I0aWl1Z0ZaQTNwUlNCOXhoNEZMbmQ0ejBBTjItWGh4cE8zLVMyOHhtNC1MemN4Y2hV?oc=5",
-  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-plantea-ruta-turistica-que-integre-la-produccion-y-los-atractivos",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-plantea-ruta-turistica-que-integre-la-produccion-y-los-atractivos"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/actualidad/abinader-plantea-integrar-produccion-de-el-seibo-a-la-oferta-turistica-de-miches-9794779.html"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Acento"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002285704.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé \"e influencers\"? no aplica; corregí \"e inversionistas hoteleros\" conservando la atribución; cambié \"producción agropecuaria\" en el título para mayor exactitud; quité \"Según sus datos\" duplicado; cambié \"los atractivos\" a la fórmula de la fuente; corregí el cargo de Magaly Tabar a \"gobernadora provincial\"; quité \"el mandatario\" sobreatribuido en la última frase; ajusté \"tiene mayor presente y futuro\" a la fuente; y añadí \"en El Seibo\" como precisión de \"comunidades\").",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T08:48:28.045671+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/2e43e98c25.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/2e43e98c25-h.jpg",
-  "ig_id": "18054683054811794",
-  "ig_fecha": "2026-11-23T11:55:32.964311+00:00",
-  "historia_fecha": "2026-11-23T11:55:39.252484+00:00"
- },
- {
-  "id": "c9c357a87e",
-  "titulo": "¿Qué pasa con las armas decomisadas en República Dominicana?",
-  "titulo_original": "¿A dónde van las armas decomisadas en RD y qué ocurre con ellas después de su incautación?",
-  "resumen": "No todas las armas incautadas terminan destruidas. Algunas siguen en investigaciones y otras pueden pasar a instituciones del Estado.",
-  "gancho": "No todas las armas incautadas terminan destruidas. Algunas siguen en investigaciones y otras pueden pasar a instituciones del Estado.",
-  "parrafos": [
-   "La legislación dominicana prevé distintos destinos para las armas de fuego retiradas de circulación. Algunas se envían a depósitos oficiales y luego se destruyen; otras quedan vinculadas a investigaciones judiciales e, incluso, pueden asignarse para uso de seguridad en instituciones del Estado, bajo condiciones específicas.",
-   "La Ley 631-16, sobre Control y Regulación de Armas, Municiones y Materiales Relacionados, establece los procedimientos de remisión, custodia y destrucción del armamento incautado. La destrucción no es el único destino posible, por lo que las armas ocupadas en operativos policiales no siempre terminan en las instalaciones de Metaldom.",
-   "Según la ley, las armas de guerra se remiten a la Intendencia General de Material Bélico de las Fuerzas Armadas, y las de uso civil al depósito del Ministerio de Interior y Policía (MIP), salvo que su destrucción o confiscación haya sido expresamente dispuesta. Una resolución del MIP de 2021 creó la Comisión Interinstitucional para la Destrucción de Armas de Fuego, integrada por Interior y Policía, el Ministerio de Defensa y la Procuraduría General de la República, encargada de elaborar un protocolo de destrucción.",
-   "La diferencia clave está entre incautar y decomisar. Un arma incautada puede quedar retenida durante una investigación o un procedimiento administrativo. El decomiso definitivo, según la Resolución MIP-RR-0006-2021, requiere una sentencia con autoridad de cosa irrevocablemente juzgada. Por eso, ocupar un arma en un operativo no implica automáticamente su destrucción ni que pase a ser propiedad definitiva del Estado.",
-   "En septiembre de 2025, el Ministerio de Interior y Policía explicó que, una vez agotado el procedimiento promovido por el Ministerio Público, las armas decomisadas se remiten a esa institución para su custodia o destrucción, según corresponda.",
-   "La destrucción se realiza en jornadas coordinadas por Interior y Policía, con el apoyo de Metaldom y la supervisión de la Comisión Interinstitucional. El 2 de diciembre de 2025, las autoridades anunciaron la destrucción de 3,945 armas y elementos relacionados, entre ellos pistolas, revólveres, escopetas, fusiles, armas de fabricación casera, piezas y cargadores. Esto se hace según un acuerdo firmado en 2020 entre el Estado y la empresa Gerdau Metaldom, que cubre armas confiscadas, excedentes de inventario u obsoletas. El convenio busca que las armas no puedan volver a usarse y que el proceso no represente riesgos para el personal, la población o el medioambiente.",
-   "La normativa exige además registrar, antes de la destrucción, las características físicas de cada arma y la información de sus propietarios o poseedores."
-  ],
-  "claves": [
-   "La Ley 631-16 regula el destino del armamento incautado, con procedimientos de remisión, custodia y destrucción.",
-   "Las armas de guerra van a la Intendencia General de Material Bélico de las Fuerzas Armadas; las de uso civil, al depósito del Ministerio de Interior y Policía.",
-   "El 2 de diciembre de 2025 se anunció la destrucción de 3,945 armas y elementos relacionados, en jornadas coordinadas con Metaldom."
-  ],
-  "importa": "Muestra que una pistola ocupada en un operativo no siempre se destruye de inmediato ni pasa a ser propiedad definitiva del Estado. Ese proceso depende de investigaciones y sentencias judiciales.",
-  "en": {
-   "titulo": "What happens to seized firearms in the Dominican Republic?",
-   "gancho": "Not every seized gun ends up destroyed. Some remain tied to investigations, and others may be transferred to state institutions.",
-   "claves": [
-    "Law 631-16 regulates the fate of seized weapons, with set procedures for transfer, custody and destruction.",
-    "War-type weapons go to the Armed Forces' General Directorate of Military Materiel; civilian-type weapons go to the Ministry of Interior and Police depot.",
-    "On December 2, 2025, authorities announced the destruction of 3,945 weapons and related items, in sessions coordinated with Metaldom."
-   ],
-   "importa": "A gun seized in a police raid is not always destroyed right away or automatically become permanent state property. That depends on investigations and court rulings.",
-   "parrafos": [
-    "The Dominican Republic's laws provide for different fates for firearms taken out of circulation. Some are sent to official depots and later destroyed; others remain linked to judicial investigations and may even be assigned for security use in state institutions, under specific conditions.",
-    "Law 631-16, on the Control and Regulation of Weapons, Ammunition and Related Materials, sets out the procedures for transferring, storing and destroying seized weapons. Destruction is not the only possible outcome, so guns seized in police operations do not always end up at Metaldom's facilities.",
-    "Under the law, war-type weapons are transferred to the Armed Forces' General Directorate of Military Materiel, and civilian-type weapons to the Ministry of Interior and Police (MIP) depot, unless their destruction or confiscation has been expressly ordered. A 2021 MIP resolution created the Interinstitutional Commission for the Destruction of Firearms, made up of Interior and Police, the Ministry of Defense and the Attorney General's Office, which is tasked with drafting a destruction protocol.",
-    "The key difference is between seizure and forfeiture. A seized weapon may be held during an investigation or administrative proceeding. Permanent forfeiture, under Resolution MIP-RR-0006-2021, requires a final court ruling. So taking a weapon during a raid does not automatically mean it will be destroyed or become permanent state property.",
-    "In September 2025, the Ministry of Interior and Police explained that once the procedure brought by the Public Ministry is complete, forfeited weapons are sent to that ministry for custody or destruction, as applicable.",
-    "Destruction takes place in sessions coordinated by Interior and Police, with support from Metaldom and oversight from the Interinstitutional Commission. On December 2, 2025, authorities announced the destruction of 3,945 weapons and related items, including pistols, revolvers, shotguns, rifles, homemade firearms, parts and magazines. This follows a 2020 agreement between the State and the company Gerdau Metaldom covering confiscated weapons, surplus inventory and obsolete arms. The agreement aims to ensure the weapons can never be used again and that the process poses no risk to personnel, the public or the environment.",
-    "The rules also require that, before destruction, the physical characteristics of each weapon be recorded, along with information about its owners or possessors."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ0VQVThQaWRlVHd0WDhNQXIzazd2QmVBSUhHR3ZVX1Q5VFVqX1VfN095U1hZT3NoY2R4ZFBvX1B6clJuejhpdUFBbjdYM3AtUVlIYW53alRPNm9CSjhZSXk3N1RmQ2VVVTR4bjdSdFh3bnRPamJMY3l3amg3THMtQzV4em45eHljaGplazRQbEtXQ0ZYSl8tZWNVZnlpbjljTTZFMkxlMXpsZ2hGSmFhMEppb09QOXJX?oc=5",
-  "url": "https://n.com.do/2026/11/22/a-donde-van-las-armas-decomisadas-en-rd-y-que-ocurre-con-ellas-despues-de-su-incautacion/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/22/a-donde-van-las-armas-decomisadas-en-rd-y-que-ocurre-con-ellas-despues-de-su-incautacion/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"en definitiva\" y \"cabe destacar\"-tipo relleno; corregí \"Gerdau Metaldom\" y precisé que la resolución de 2021 es la de la Comisión y que el decomiso definitivo requiere sentencia; \"Ley de Control y Regulación de Armas\" ajustado al título oficial; agregué atribución a Interior y Policía en la cifra de destrucción; ajusté el texto en inglés para que coincida con el español).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T08:49:06.849077+00:00",
-  "tendencia": 1
- },
- {
-  "id": "304aeba5f8",
-  "titulo": "Dos hermanas heridas tras ser impactadas por una jeepeta en la autovía del Nordeste",
-  "titulo_original": "Dos hermanas resultan heridas tras ser impactadas por una jeepeta en la autovía del Nordeste",
-  "resumen": "Una jeepeta impactó la motocicleta en la que viajaban dos hermanas en la autovía del Nordeste. Ambas resultaron con lesiones y fueron trasladadas a Santo Domingo.",
-  "gancho": "Una jeepeta impactó la motocicleta en la que viajaban dos hermanas en la autovía del Nordeste. Ambas resultaron con lesiones y fueron trasladadas a Santo Domingo.",
-  "parrafos": [
-   "La noche del sábado, una motocicleta en la que viajaban dos hermanas fue impactada por una jeepeta Toyota RAV4 en la autovía del Nordeste, a la altura de la curva de entrada a la comunidad de Piraco, en el municipio Sabana Grande de Boyá, Monte Plata.",
-   "Las jóvenes fueron identificadas como María Sánchez Jiménez, de 21 años, y Mariana Sánchez Jiménez, de 23. Ambas residen en el distrito municipal de Majagual. Según las informaciones preliminares, María sufrió fuertes golpes en la pierna izquierda, mientras que Mariana presentó lesiones en la frente y en la pierna izquierda.",
-   "Tras el accidente, recibieron las primeras atenciones en el Hospital Municipal Dr. Pedro Heredia Rojas. Desde allí fueron referidas al Hospital Traumatológico Dr. Darío Contreras, en Santo Domingo, para recibir atención especializada."
-  ],
-  "claves": [
-   "El accidente ocurrió la noche del sábado, cerca de la curva de entrada a la comunidad de Piraco, en Sabana Grande de Boyá, Monte Plata.",
-   "Las lesionadas son María Sánchez Jiménez, de 21 años, y Mariana Sánchez Jiménez, de 23, ambas residentes en Majagual.",
-   "María sufrió fuertes golpes en la pierna izquierda; Mariana, lesiones en la frente y en la pierna izquierda.",
-   "Fueron atendidas en el Hospital Municipal Dr. Pedro Heredia Rojas y referidas al Hospital Traumatológico Dr. Darío Contreras, en Santo Domingo."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Two Sisters Injured After SUV Hits Their Motorcycle on the Nordeste Highway",
-   "gancho": "An SUV struck the motorcycle carrying two sisters on the Nordeste highway. Both were hurt and taken to Santo Domingo for specialized care.",
-   "claves": [
-    "The crash happened Saturday night near the entrance curve to the community of Piraco, in Sabana Grande de Boyá, Monte Plata.",
-    "The injured women are María Sánchez Jiménez, 21, and Mariana Sánchez Jiménez, 23, both from Majagual.",
-    "María suffered strong blows to her left leg; Mariana had injuries to her forehead and left leg.",
-    "They were first treated at the Dr. Pedro Heredia Rojas Municipal Hospital and referred to the Dr. Darío Contreras Traumatology Hospital in Santo Domingo."
-   ],
-   "importa": "",
-   "parrafos": [
-    "On Saturday night, a motorcycle carrying two sisters was struck by a Toyota RAV4 on the Nordeste highway, near the entrance curve to the community of Piraco, in the municipality of Sabana Grande de Boyá, Monte Plata province.",
-    "The young women were identified as María Sánchez Jiménez, 21, and Mariana Sánchez Jiménez, 23. Both live in the district of Majagual. According to preliminary information, María suffered strong blows to her left leg, while Mariana had injuries to her forehead and left leg.",
-    "After the accident, they received first aid at the Dr. Pedro Heredia Rojas Municipal Hospital. From there, they were referred to the Dr. Darío Contreras Traumatology Hospital in Santo Domingo for specialized care."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUkzZ05WRGpOLWhIbF9oOUpkbzJIR3JNYXNKYk1OVUV5emR2ZmRCcjQ0azFHeExpTlJpMFk5ZGFKUEVkOHVzNTYxVHRRT3JORm9jNFVkWnlKOGp3Q2xrU0k1aFdxOUk1dHRHUkxqX0RTelcwT0hydHhNdF9rZDhIX09wRGgtcjhCRDJaRmJEWXNLTmpoSV9jS2VhVGl3MGNwS3hhSG9Uc1ZwT0MzT201NlA1bHdsYjhVMDhTMlpB?oc=5",
-  "url": "https://noticiassin.com/pais/nacional/2026/11/22/jeepeta-impacta-moto-y-deja-heridas-a-dos-hermanas-en-la-autovia-del-nordeste-2174751/",
-  "fuente": "Noticias SIN",
-  "dominio": "noticiassin.com",
-  "fuentes": [
-   {
-    "nombre": "Noticias SIN",
-    "url": "https://noticiassin.com/pais/nacional/2026/11/22/jeepeta-impacta-moto-y-deja-heridas-a-dos-hermanas-en-la-autovia-del-nordeste-2174751/"
-   },
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/22/dos-hermanas-resultan-heridas-tras-ser-impactadas-por-una-jeepeta-en-la-autovia-del-nordeste/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Se identificaron\" no aplica; se ajustó \"Ambas son residentes\" a \"Ambas residen\" y se quitó la mención \"provincia\" que no aparece en las fuentes; \"en el municipio\" se conserva; se atribuyó la información preliminar a las autoridades según las fuentes, sin cambios de fondo)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T08:49:21.633653+00:00",
-  "tendencia": 2
- },
- {
-  "id": "680a951a14",
-  "titulo": "Concejal dominicana pide al NYPD aclarar su papel durante operativos del ICE",
-  "titulo_original": "NY: Concejal origen RD pide a NYPD aclarar su papel frente ICE",
-  "resumen": "Una concejal de origen dominicano exige explicaciones al NYPD tras el tiroteo que dejó herido a un dominicano en Marble Hill, Nueva York.",
-  "gancho": "Una concejal de origen dominicano exige explicaciones al NYPD tras el tiroteo que dejó herido a un dominicano en Marble Hill, Nueva York.",
-  "parrafos": [
-   "La concejal de origen dominicano Carmen de la Rosa pidió al Departamento de Policía de Nueva York (NYPD) que explique a los residentes, en el momento en que ocurren los incidentes, cuál es su papel cuando intervienen agentes del ICE. El reclamo se hizo durante una audiencia del Concejo Municipal que discutió la actuación policial tras el tiroteo en el que resultó herido el dominicano Oscar Belgal, en Marble Hill.",
-   "De la Rosa cuestionó cómo se percibió el despliegue policial frente al hospital donde Belgal recibía tratamiento. Según el medio Documented, los agentes colocaron barreras metálicas para apartar a las personas reunidas en el lugar y dejar espacio para los vehículos del hospital, y los vehículos del Servicio de Inmigración y Control de Aduanas (ICE) también pudieron salir sin impedimentos. \"Solo quiero decirles que, en mi opinión, aunque todos ustedes intentaban proteger la seguridad pública, eso no es lo que se percibe\", dijo la concejal, según Documented.",
-   "El subcomisionado de Asuntos Legales del NYPD, Michael Gerber, defendió la acción de los agentes como una forma de evitar lo que ha ocurrido en otras ciudades tras intervenciones del ICE, en referencia a Minneapolis, donde dos ciudadanos estadounidenses fueron asesinados por agentes del ICE. Dirigiéndose al Concejo, De la Rosa respondió: \"Les imploro que encuentren la manera de comunicar claramente a los neoyorquinos cuál es el papel del NYPD cuando ocurren estos incidentes\".",
-   "Varios concejales advirtieron durante la audiencia que la percepción de que la policía colabora con el ICE puede deteriorar la confianza de los residentes en las autoridades locales. Belgal resultó herido el 8 de octubre, cuando, según sus abogados, agentes del ICE lo rodearon y dispararon en Marble Hill. Según sus abogados, regresaba a casa con su hijo de cinco años después de ir a un McDonald's.",
-   "La discusión se dio en una sesión en la que se analizaron tres proyectos para reforzar las protecciones de Nueva York como ciudad santuario. Gerber dijo que respalda la propuesta relativa al NYPD y aseguró que el departamento lleva diez años sin aceptar una solicitud de detención del ICE. La comisionada de Asuntos de Inmigración, Faiza Ali, señaló que la administración del alcalde Zohran Mamdani comparte el objetivo de las iniciativas y que sigue revisándolas con el departamento legal de la ciudad."
-  ],
-  "claves": [
-   "Oscar Belgal, dominicano, resultó herido el 8 de octubre en Marble Hill, Nueva York, durante un operativo de agentes del ICE.",
-   "La concejal Carmen de la Rosa pidió al NYPD explicar a los residentes cuál es su papel cuando intervienen agentes del ICE.",
-   "El subcomisionado de Asuntos Legales del NYPD, Michael Gerber, defendió la actuación de los agentes durante la audiencia.",
-   "Según Gerber, el NYPD lleva diez años sin aceptar una solicitud de detención del ICE."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Dominican-Born Council Member Demands NYPD Clarify Its Role During ICE Operations",
-   "gancho": "A Dominican-born New York City councilmember is demanding answers from the NYPD after a shooting left a Dominican man wounded in Marble Hill.",
-   "claves": [
-    "Oscar Belgal, a Dominican national, was wounded on October 8 in Marble Hill, New York, during an ICE operation.",
-    "Council Member Carmen de la Rosa asked the NYPD to explain to residents its role when ICE agents intervene.",
-    "NYPD Deputy Commissioner for Legal Matters Michael Gerber defended the officers' actions during the hearing.",
-    "According to Gerber, the NYPD has gone ten years without accepting an ICE detention request."
-   ],
-   "importa": "Perceptions that local police cooperate with ICE can erode trust among Dominican and other residents in New York's local authorities.",
-   "parrafos": [
-    "Dominican-born Council Member Carmen de la Rosa has asked the New York Police Department (NYPD) to explain to residents, at the time incidents occur, what its role is when ICE agents intervene. Her request came during a City Council hearing on police conduct following a shooting in Marble Hill that wounded Dominican national Oscar Belgal.",
-    "De la Rosa questioned how the police deployment outside the hospital where Belgal was being treated was perceived. According to the outlet Documented, officers placed metal barriers to keep people gathered at the scene back and clear space for hospital vehicles, while vehicles from U.S. Immigration and Customs Enforcement (ICE) were also able to leave without obstruction. \"I just want to tell you that, in my opinion, although you were all trying to protect public safety, that's not how it's perceived,\" the councilmember said, according to Documented.",
-    "NYPD Deputy Commissioner for Legal Matters Michael Gerber defended the officers' actions as a way to avoid what has happened in other cities after ICE interventions, referring to Minneapolis, where two U.S. Citizens were killed by ICE agents. Addressing the Council, De la Rosa responded: \"I implore you to find a way to clearly communicate to New Yorkers what the role of the NYPD is when these incidents occur.\"",
-    "Several council members warned during the hearing that the perception that police cooperate with ICE can erode residents' trust in local authorities. Belgal was wounded on October 8 in Marble Hill, when, according to his attorneys, ICE agents surrounded him and opened fire. According to his attorneys, he was returning home with his five-year-old son after visiting a McDonald's.",
-    "The discussion took place during a session that examined three bills to strengthen New York's protections as a sanctuary city. Gerber said he supports the proposal concerning the NYPD and stated that the department has gone ten years without accepting an ICE detention request. Immigration Affairs Commissioner Faiza Ali said the administration of Mayor Zohran Mamdani shares the goal of the initiatives and is still reviewing them with the city's legal department."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZlFlS3VpaHRPenVjTi05Vmhta2k4TEd4XzAwZmttUEVTLXY4cTd2VE5NUUZuNHYzajBEeFloeEhqT29OOHJNTzNBYmtyREtQWk5LdDkwR096aE1DTkxQYVdMT1JIaV92a3FKZlpPWHRiTGxhSHNIVi01ZURTN3R6cXN1TEVleVljdlNaNw?oc=5",
-  "url": "https://almomento.net/ny-concejal-origen-rd-pide-a-nypd-aclarar-su-papel-frente-ice/",
-  "fuente": "AlMomento.net",
-  "dominio": "almomento.net",
-  "fuentes": [
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/ny-concejal-origen-rd-pide-a-nypd-aclarar-su-papel-frente-ice/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (Se corrigió el cargo de Gerber de \"subcomisionado de Asuntos Legales\" a \"subcomisionado de Asuntos Legales\" en ambos idiomas según fuente; se precisó la atribución de la cita de De la Rosa y las afirmaciones sobre la acción de los agentes a Documented; se aclaró que la cita \"Les imploro\" es de la concejal y no de Gerber; se atribuyó a Gerber y a sus abogados la versión de los hechos; se eliminó \"en mi opinión\" del texto en español donde era redundante con la cita; se ajustó la traducción del cargo de Gerber y de la comisionada Ali; se atribuyó a Documented la cita sobre el McDonald's y la referencia a los abogados; se ajustó \"hospital vehicles\" y la frase de Documented sobre las barreras; y se corrigieron detalles de atribución en el inglés.)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-23T08:50:00.500813+00:00",
-  "tendencia": 1
- },
- {
-  "id": "5d7c3b0202",
-  "titulo": "Department of State Employee",
-  "titulo_original": "Department of State Employee",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80V2RpWk05YkQ0QlRJLTJLMGhMdkk0eHFWMU8yTTdyNTIza2hGSzhJOFRBUUE1VGY4VnNwdWJKSnV6Slk2NXMxLS1HRW9TSjBYaHh1dElCN0lxZkgzRFdxYTBsWEprTlJSOGxQcW1xZElrWnp6?oc=5",
-  "fuente": "U.S. Department of State (.gov)",
-  "dominio": "travel.state.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T08:50:07.694467+00:00"
- },
- {
-  "id": "99bf6cff35",
-  "titulo": "M 0.8 - 6 km WNW of The Geysers, CA",
-  "titulo_original": "M 0.8 - 6 km WNW of The Geysers, CA",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BOFU4QUVFVG5VaWVjTDRnZUNvRTFHWmhGak9GWDYzX01adTJBMGYtV2tKYnJlaW96TDNKbnRVSFUzeHRjRU9FeW9UQjd3bFBadVAyckRsaHRfbW1KRXU5RWpKckxFR29yQVFQNw?oc=5",
-  "fuente": "USGS (.gov)",
-  "dominio": "earthquake.usgs.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T08:50:10.234706+00:00"
- },
- {
-  "id": "102a06e83b",
-  "titulo": "Pilar Smith confirma nueva relación con el gerente comercial Martín Rodríguez",
-  "titulo_original": "Pilar Smith presentó a su nuevo amor: \"Es el hombre más dulce que conocí en mi vida\"",
-  "resumen": "Tras su separación de Rafael Ruiz Huidobro, la periodista reveló que está conociendo a un nuevo hombre, al que describió como \"el más dulce que conocí\".",
-  "gancho": "Tras su separación de Rafael Ruiz Huidobro, la periodista reveló que está conociendo a un nuevo hombre, al que describió como \"el más dulce que conocí\".",
-  "parrafos": [
-   "Pilar Smith atraviesa un nuevo momento sentimental. La periodista confirmó que comenzó una relación con Martín Rodríguez, gerente comercial del Grupo Octubre, tras terminar de manera definitiva con Rafael Ruiz Huidobro, con quien estuvo casi siete años.",
-   "En diálogo con Teleshow, Smith habló del vínculo con entusiasmo y cautela. \"Es el hombre más dulce que conocí en mi vida, estamos muy bien, nos estamos conociendo\", expresó. Según la nota de Infobae, la periodista eligió no entrar en detalles, aunque sus palabras dejaron en claro lo que siente por él.",
-   "Antes de esa confirmación, circuló una versión que la vinculaba con Pablo el Chato Prada. Ángel de Brito publicó una foto de ambos vestidos de gala con la frase \"Romance confirmado\", una publicación que superó las 650.000 visualizaciones. Prada lo negó en Radio La Red, y Smith desvió la atención hacia su nuevo proyecto laboral.",
-   "Días después, Rodríguez confirmó ante las cámaras de LAM que ambos atraviesan un proceso de acercamiento. \"Estamos muy bien y muy contentos conociéndonos\", dijo.",
-   "Según Infobae, la pareja se conoció en una entrega de los Martín Fierro de la Música, gracias a la presentación de un amigo en común, Diego Suárez. Desde entonces comparten salidas y cenas lejos de la exposición pública. La periodista remarcó que ambos estaban solteros cuando se conocieron."
-  ],
-  "claves": [
-   "Pilar Smith confirma un vínculo con Martín Rodríguez, gerente comercial del Grupo Octubre.",
-   "La relación llega poco después de su separación de Rafael Ruiz Huidobro, con quien estuvo casi siete años.",
-   "Smith descartó un supuesto romance con Pablo el Chato Prada.",
-   "Según Infobae, la pareja se conoció en una entrega de los Martín Fierro de la Música."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Pilar Smith confirms new relationship with businessman Martín Rodríguez",
-   "gancho": "After splitting from Rafael Ruiz Huidobro, the journalist revealed she is getting to know a new man, whom she called \"the sweetest I've ever met.",
-   "claves": [
-    "Pilar Smith confirms a relationship with Martín Rodríguez, commercial manager at Grupo Octubre.",
-    "The relationship comes shortly after her split from Rafael Ruiz Huidobro, with whom she was together for almost seven years.",
-    "Smith ruled out a supposed romance with Pablo \"El Chato\" Prada.",
-    "According to Infobae, the couple met at the Martín Fierro de la Música awards."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Pilar Smith is going through a new romantic chapter. The journalist confirmed she has started a relationship with Martín Rodríguez, commercial manager at Grupo Octubre, after definitively ending things with Rafael Ruiz Huidobro, with whom she spent almost seven years.",
-    "Speaking to Teleshow, Smith described the relationship with enthusiasm and caution. \"He's the sweetest man I've ever met in my life, we're doing very well, we're getting to know each other,\" she said. According to Infobae, the journalist chose not to go into details, though her words made clear how she feels about him.",
-    "Before that confirmation, a rumor linked her to Pablo \"El Chato\" Prada. Ángel de Brito posted a photo of the two in formal wear with the caption \"Romance confirmed,\" a post that topped 650,000 views. Prada denied it on Radio La Red, and Smith turned the focus to her new work project.",
-    "Days later, Rodríguez confirmed on LAM that the two are in the process of getting closer. \"We're doing very well and we're very happy getting to know each other,\" he said.",
-    "According to Infobae, the couple met at the Martín Fierro de la Música awards, thanks to an introduction from a mutual friend, Diego Suárez. Since then, they have been sharing outings and dinners away from the public eye. The journalist stressed that both were single when they met."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMktyZ3hOZGNrRGd5WHl5UHRqRF8yVjZnb1ZQeXU0UDZJLWlLS215dWUwY212cWRZU1plUjlmT01LTEt2d181OGxidTJwNmhjTFhpT3lRSG5jZmdwQVpEUXl2WjVZLUpubl82eW1uVWRyMWpJOFZQUi1CWG9GQ3ZXX1NMMDgtSmRZY3BFbHlzcmxLV2xSYzh2VVZOYVFIVi1mZC1Ybk9fVWk1dGhTMVluaDBYdE1jYWU0R1YxLVBKRVFNXzNZ0gHfAUFVX3lxTE8takgzaVBpYnhsNnhHOURnTHVQaGZGS3Bqa1hOVm5iYVgwejZQU1FVZGdqUkdQbXFMUzRVdmRnMUhVb2ZVZWlkNW43cG8yNWFPMmVsWEhZcU1ySXlSY2VaTTV2NjI2ZmxacGRza1J2WTdyYmdwZ21pMDBpWFF4aEl4UDJ0SmVCU094NkFENUEycnBIdjh4SmF1Y1RJbjFqdkxhcXppcjU5VHlfdjk4bmtxOTFDWE96Mlh2VEZZWWQzajZ3VEowTlVfVXpILU8xNVUzTVpodEtXSjNQUzQwRXc?oc=5",
-  "url": "https://www.infobae.com/teleshow/2026/11/22/pilar-smith-presento-a-su-nuevo-amor-es-el-hombre-mas-dulce-que-conoci-en-mi-vida/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/teleshow/2026/11/22/pilar-smith-presento-a-su-nuevo-amor-es-el-hombre-mas-dulce-que-conoci-en-mi-vida/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó \"Según Infobae\" repetido en la atribución de lo que dijo Smith a Teleshow y se corrigió el gancho en inglés, que tenía la cita sin cerrar; el resto coincidía con las fuentes)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T08:50:55.876753+00:00",
-  "tendencia": 1
  }
 ]
