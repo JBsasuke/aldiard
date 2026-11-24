@@ -1,23 +1,5 @@
 [
  {
-  "fecha": "2026-10-30",
-  "tema": "divisas",
-  "titulo": "Cuida tu dinero entre dos países",
-  "texto": "Compara siempre la tasa de cambio antes de enviar remesas, porque una casa de cambio con poca comisión puede dejar más dinero a tu familia. Revisa también el precio del dólar y de la gasolina para planear tus gastos sin sorpresas.",
-  "url": "https://divisasrd.com",
-  "sitio": "divisasrd.com",
-  "titulo_en": "Protect your money across two countries",
-  "texto_en": "Always compare exchange rates before sending remittances, since a money transfer service with lower fees can leave more money for your family. Also track the dollar rate and gas prices to plan your spending without surprises.",
-  "boton": "Mira la tasa en vivo",
-  "ig": "publicado",
-  "ig_img": "ig/consejo-2026-10-30.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/consejo-2026-10-30-h.jpg",
-  "ig_id": "17977809822148977",
-  "ig_fecha": "2026-10-30T14:43:04.014685+00:00",
-  "historia_fecha": "2026-10-30T14:43:15.450026+00:00"
- },
- {
   "fecha": "2026-10-31",
   "tema": "divisas",
   "titulo": "Cuida cada peso y cada dólar",
@@ -498,5 +480,20 @@
   "ig_img": "ig/consejo-2026-11-23-divisas.jpg",
   "historia": "pendiente",
   "historia_img": "ig/consejo-2026-11-23-divisas-h.jpg"
+ },
+ {
+  "fecha": "2026-11-24",
+  "tema": "divisas",
+  "titulo": "Cuida tus dólares y tus remesas",
+  "texto": "Antes de cambiar dólares o enviar una remesa, compara tasas y comisiones entre varias casas de cambio y apps. Revisa también la tasa del dólar y los precios de combustibles antes de decidir cuándo convertir o enviar.",
+  "url": "https://divisasrd.com",
+  "sitio": "divisasrd.com",
+  "titulo_en": "Protect Your Dollars and Remittances",
+  "texto_en": "Before exchanging dollars or sending a remittance, compare rates and fees across several exchange houses and apps. Also check the dollar rate and fuel prices before deciding when to convert or send.",
+  "boton": "Mira la tasa en vivo",
+  "ig": "pendiente",
+  "ig_img": "ig/consejo-2026-11-24-divisas.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/consejo-2026-11-24-divisas-h.jpg"
  }
 ]
