@@ -1,5 +1,641 @@
 [
  {
+  "id": "906581e03f",
+  "titulo": "Hombres armados toman un supermercado en Cartagena de Indias y retienen a 30 personas",
+  "titulo_original": "Hombres armados se toman un supermercado de Cartagena de Indias, centro turístico de Colombia",
+  "resumen": "Un grupo armado tiene retenidas a 30 personas en un supermercado de Cartagena, centro turístico de Colombia. Las autoridades ya liberaron a cinco rehenes.",
+  "gancho": "Un grupo armado tiene retenidas a 30 personas en un supermercado de Cartagena, centro turístico de Colombia. Las autoridades ya liberaron a cinco rehenes.",
+  "parrafos": [
+   "Hombres fuertemente armados se tomaron este martes un supermercado de Cartagena de Indias, en la costa caribe de Colombia. Según el presidente Abelardo de la Espriella, unas 30 personas quedaron retenidas en el local, y cinco de ellas, todas mujeres mayores, ya fueron liberadas. El mandatario habló tras más de una hora de la emergencia.",
+   "De acuerdo con la versión que dio el presidente, se trata de delincuentes comunes que intentaban asaltar un carro de valores. Según explicó, las cámaras del centro comercial detectaron a los hombres, los operadores activaron los botones de pánico y la Policía llegó de inmediato. Los sospechosos, dijo, se refugiaron en uno de los locales y retuvieron a clientes y empleados.",
+   "La Policía Nacional, en un breve comunicado, dijo que su prioridad es proteger la vida de todas las personas y que activó capacidades especializadas para lograr una solución segura. Las fuerzas de seguridad desplegaron un operativo para rescatar a los rehenes. El Grupo Éxito, dueño del supermercado, dijo en un comunicado que la protección de la vida y la integridad de las personas es su prioridad y que está atento a las indicaciones de las autoridades.",
+   "La Aeronáutica Civil suspendió temporalmente los aterrizajes en el aeropuerto Rafael Núñez. Media hora después, según informó en un mensaje en X, levantó la restricción y reanudó las operaciones aéreas, aunque los despegues programados se mantuvieron durante la emergencia.",
+   "En videos publicados en redes sociales se ven hombres encapuchados con lo que parecen ser armas largas, y varias personas sentadas de espaldas, mirando hacia afuera del local. Cartagena de Indias es uno de los principales destinos turísticos de Colombia y un centro de referencia para congresos y eventos en Latinoamérica."
+  ],
+  "claves": [
+   "Hombres fuertemente armados se tomaron un supermercado Éxito de Cartagena de Indias este martes.",
+   "El presidente Abelardo de la Espriella dijo que 30 personas quedaron retenidas y que cinco, todas mujeres mayores, ya fueron liberadas.",
+   "La Policía desplegó un operativo para rescatar a los rehenes.",
+   "La Aeronáutica Civil suspendió temporalmente los aterrizajes en el aeropuerto Rafael Núñez y luego reanudó las operaciones."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Armed Men Seize Supermarket in Cartagena de Indias, Holding 30 People",
+   "gancho": "Armed men are holding 30 people at a supermarket in Cartagena, a major tourist hub in Colombia. Authorities have already freed five hostages.",
+   "claves": [
+    "Heavily armed men seized an Éxito supermarket in Cartagena de Indias on Tuesday.",
+    "President Abelardo de la Espriella said 30 people were held and five, all elderly women, have been freed.",
+    "Police launched an operation to rescue the hostages.",
+    "Colombia's Civil Aviation Authority temporarily suspended landings at Rafael Núñez airport, then resumed operations."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Heavily armed men seized a supermarket in Cartagena de Indias, on Colombia's Caribbean coast, on Tuesday. According to President Abelardo de la Espriella, about 30 people were held inside the store, and five of them, all elderly women, have already been freed. The president spoke more than an hour into the emergency.",
+    "According to the president's account, the attackers are common criminals who were trying to rob an armored cash truck. He said mall cameras spotted the men, staff pressed panic buttons, and police arrived immediately. The suspects then took refuge in one of the stores and held clients and employees.",
+    "The National Police said in a brief statement that protecting everyone's life is its priority and that it had activated specialized units to reach a safe resolution. Security forces launched an operation to rescue the hostages. The Éxito Group, which owns the supermarket, said in a statement that protecting the lives and safety of people is its priority and that it is following the authorities' instructions.",
+    "Colombia's Civil Aviation Authority temporarily suspended landings at Rafael Núñez airport. Half an hour later, according to a message posted on X, it lifted the restriction and resumed air operations, although scheduled departures were maintained during the emergency.",
+    "Videos posted on social media show hooded men holding what appear to be long guns, while several people sit with their backs to the camera, facing outward from the store. Cartagena de Indias is one of Colombia's main tourist destinations and a leading hub for conferences and events in Latin America."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/hombres-armados/",
+  "url": "https://efe.com/mundo/2026-11-24/cartagena-indias-toma-supermercado-colombia-hombres-armados/",
+  "fuente": "EFE - Agencia de noticias",
+  "dominio": "efe.com",
+  "fuentes": [
+   {
+    "nombre": "EFE - Agencia de noticias",
+    "url": "https://efe.com/mundo/2026-11-24/cartagena-indias-toma-supermercado-colombia-hombres-armados/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/hombres-armados/"
+   },
+   {
+    "nombre": "EL PAÍS",
+    "url": "https://elpais.com/america-colombia/2026-11-24/un-grupo-de-hombres-armados-toma-varios-rehenes-en-un-supermercado-en-cartagena.html?outputType=amp"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"Hombres fuertemente armados... cinco de las 30 personas\" donde la fuente dice \"cinco de las 30 personas retenidas\" pero el borrador lo tomó bien; se ajustó la atribución de la versión del presidente sobre los asaltantes, que las fuentes presentan como \"según el presidente\", y se quitó la afirmación de que el aeropuerto \"reanudó las operaciones con normalidad\" sin atribución; se eliminó \"en pleno centro turístico\" del gancho por ser redundante; se reemplazó \"Hombres armados\" del titular por \"Hombres armados toman un supermercado\" para reflejar la toma; se corrigió \"decenas\" por la cifra exacta de 30 que dio el presidente; se atribuyó a la Aeronáutica Civil el aviso en X y se eliminó \"con normalidad\" del texto principal al no ser parte de la nota original ya atribuida. Además se revisó el inglés para que coincida con el español.)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-24T17:48:50.710594+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "eb73376abc",
+  "titulo": "Seguidores reciben con entusiasmo el estreno de La Casa de Alofoke 3",
+  "titulo_original": "«Esta televisión no se apaga»: seguidores reciben con entusiasmo el estreno de La Casa de Alofoke 3",
+  "resumen": "La tercera temporada de La Casa de Alofoke ya tiene a sus seguidores en vela. Las Mellas y una pregunta: ¿deben seguir las dos?",
+  "gancho": "La tercera temporada de La Casa de Alofoke ya tiene a sus seguidores en vela. Las Mellas y una pregunta: ¿deben seguir las dos?",
+  "parrafos": [
+   "La tercera temporada de La Casa de Alofoke ya arrancó y sus seguidores están pendientes de cada detalle. Según De Último Minuto, algunos espectadores se quedaron despiertos hasta la madrugada para ver el primer día de transmisión.",
+   "El estreno comenzó con una alfombra roja en Lantica Studios, donde se reunieron artistas, comunicadores y creadores de contenido. El bachatero Chicho Severino y el exponente urbano Bulin 47 amenizaron la gala inaugural. Durante la transmisión, Santiago Matías presentó las instalaciones de la nueva residencia en un recorrido junto a Domingo Bautista y Carlos Durán, quienes destacaron sus dimensiones y su diseño.",
+   "El tema que más ha dividido a los seguidores es la permanencia de las Mellas, María del Carmen y Carmen María, tras una discusión que involucró a las hermanas. Algunos espectadores consultados se declararon \"Team Mella\", mientras que otros defendieron a sus propios favoritos. Otro espectador consultado opinó que solo una de las Mellas debería salir, pues considera que con una de ellas en la casa habría suficiente contenido para el público.",
+   "Los seguidores consultados coincidieron en que esta edición les ha gustado. Uno de ellos afirmó que el estreno le gustó más que la temporada anterior, mientras que otro espera que esta entrega supere a las dos primeras.",
+   "El reality se transmitirá en vivo y de forma gratuita por YouTube, a cargo de Alofoke Media Group, hasta el 2 de enero de 2027."
+  ],
+  "claves": [
+   "La tercera temporada se estrenó con una gala en Lantica Studios.",
+   "La transmisión será en vivo y gratuita por YouTube hasta el 2 de enero de 2027.",
+   "Los seguidores debaten si María del Carmen y Carmen María, conocidas como las Mellas, deben seguir juntas en la competencia.",
+   "Chicho Severino y Bulin 47 amenizaron la gala inaugural."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Fans Welcome the Premiere of La Casa de Alofoke 3",
+   "gancho": "Season three of La Casa de Alofoke is already keeping fans up late. The Mellas and one big question: should both stay in the game?",
+   "claves": [
+    "Season three premiered with a gala at Lantica Studios.",
+    "The show will stream live and free on YouTube until January 2, 2027.",
+    "Viewers are debating whether María del Carmen and Carmen María, known as the Mellas, should remain together in the competition.",
+    "Chicho Severino and Bulin 47 performed at the opening gala."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Season three of La Casa de Alofoke is underway, and its fans are following every detail. According to De Último Minuto, some viewers stayed up until the early morning to watch the first day of broadcast.",
+    "The premiere began with a red carpet at Lantica Studios, where artists, media personalities and content creators gathered. Bachata singer Chicho Severino and urban performer Bulin 47 entertained guests at the opening gala. During the broadcast, Santiago Matías showed off the new house in a tour alongside Domingo Bautista and Carlos Durán, who praised its size and design.",
+    "The issue that has divided viewers most is whether the Mellas, María del Carmen and Carmen María, should stay in the competition after an argument involving the sisters. Some viewers interviewed declared themselves \"Team Mella,\" while others backed their own favorites. Another viewer interviewed said only one of the Mellas should be eliminated, arguing that having one of them in the house would be enough content for audiences.",
+    "The viewers interviewed largely agreed they liked this season so far. One said the premiere was better than last season's, while another hopes this edition will surpass the first two.",
+    "The reality show will stream live and free on YouTube, produced by Alofoke Media Group, until January 2, 2027."
+   ]
+  },
+  "link": "https://deultimominuto.com/entretenimiento/seguidores-reciben-con/",
+  "url": "https://deultimominuto.com/entretenimiento/seguidores-reciben-con/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/seguidores-reciben-con/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se atribuyó a De Último Minuto la información de la nota; se precisó que los seguidores son \"consultados\" y que la opinión sobre una sola Mella es de un espectador; se quitó \"sus rivales\" del gancho; se eliminó \"Según informa\" repetido y se ajustó la redacción; se corrigió el inglés para que coincida con el español).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-24T17:49:21.288089+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "67edac35a9",
+  "titulo": "Banreservas financia US$44.4 millones para el puerto de cruceros Port Samaná",
+  "titulo_original": "Banreservas financia US$44.4 millones para construcción del puerto de cruceros Port Samaná",
+  "resumen": "El Banco de Reservas respaldó con US$44.4 millones la nueva terminal de cruceros en Arroyo Barril. ¿Qué otros proyectos financia?",
+  "gancho": "El Banco de Reservas respaldó con US$44.4 millones la nueva terminal de cruceros en Arroyo Barril. ¿Qué otros proyectos financia?",
+  "parrafos": [
+   "La nueva terminal de cruceros Port Samaná, en Arroyo Barril, ya cuenta con respaldo financiero del Banco de Reservas. Según explicó el presidente ejecutivo de la entidad, Leonardo Aguilera, el banco financió US$44.4 millones de una inversión aproximada de 90 millones de dólares para esta obra.",
+   "Durante el acto inaugural, Aguilera dijo sentirse orgulloso de haber participado en el proyecto. También informó que Banreservas aprobó una línea de crédito adicional de un millón de dólares para capital de trabajo.",
+   "Aguilera afirmó que los financiamientos aprobados por el banco para los proyectos de Cabo Rojo, en Pedernales, y Port Samaná, junto a otros ejes de desarrollo, superan los 114 millones de dólares. Destacó además que la cartera de financiamiento turístico de la entidad supera los RD$61,000 millones.",
+   "Entre los proyectos que menciona el ejecutivo están las inversiones en Miches, donde los financiamientos superan los 276 millones de dólares, incluido el complejo Secrets and Dreams Playa Esmeralda. También citó el respaldo a Punta Bergantín, en Puerto Plata, y desembolsos superiores a los 175 millones de dólares para proyectos turísticos de capital español.",
+   "Sobre la nueva terminal, Aguilera sostuvo que el puerto permitirá recibir grandes embarcaciones y que miles de visitantes conozcan los atractivos naturales, la cultura y la hospitalidad de Samaná. Felicitó al grupo ITM, encabezado por Mauricio Hamui, por su confianza en el país.",
+   "El banco, dijo Aguilera, seguirá acompañando las iniciativas del Gobierno y del sector privado para impulsar el desarrollo nacional."
+  ],
+  "claves": [
+   "La obra requirió una inversión aproximada de 90 millones de dólares.",
+   "Banreservas aprobó además una línea de crédito adicional de un millón de dólares para capital de trabajo.",
+   "La cartera turística de la entidad supera los RD$61,000 millones.",
+   "Los financiamientos para proyectos en Miches superan los 276 millones de dólares."
+  ],
+  "importa": "El proyecto busca atraer más turismo de cruceros a Samaná, lo que, según la institución, impulsa el desarrollo de la provincia. Para la comunidad, significa más inversión en el país.",
+  "en": {
+   "titulo": "Banreservas Finances US$44.4 Million for Port Samaná Cruise Terminal",
+   "gancho": "Dominican state bank Banreservas has backed the new cruise terminal in Arroyo Barril with US$44.4 million. What other projects is it funding?",
+   "claves": [
+    "The project required an investment of roughly US$90 million.",
+    "Banreservas also approved an additional US$1 million credit line for working capital.",
+    "The bank's tourism loan portfolio exceeds RD$61,000 million.",
+    "Financing for projects in Miches exceeds US$276 million."
+   ],
+   "importa": "The project aims to bring more cruise tourism to Samaná, which, according to the bank, supports the province's development. For the community, it means more investment in the country.",
+   "parrafos": [
+    "The new Port Samaná cruise terminal in Arroyo Barril now has financial backing from the Banco de Reservas. According to the bank's chief executive, Leonardo Aguilera, the bank financed US$44.4 million of the roughly US$90 million investment in the project.",
+    "During the inaugural event, Aguilera said he was proud to have taken part in the project. He also reported that Banreservas approved an additional US$1 million credit line for working capital.",
+    "Aguilera said the bank's approved financing for projects in Cabo Rojo, Pedernales, and Port Samaná, along with other development projects, exceeds US$114 million. He also highlighted that the bank's tourism financing portfolio exceeds RD$61,000 million.",
+    "Among the projects he cited are investments in Miches, where financing exceeds US$276 million, including the Secrets and Dreams Playa Esmeralda complex. He also mentioned support for Punta Bergantín in Puerto Plata and disbursements of more than US$175 million for Spanish-capital tourism projects.",
+    "On the new terminal, Aguilera said the port will be able to receive large vessels and let thousands of visitors experience the natural beauty, culture, and hospitality of Samaná. He congratulated the ITM group, led by Mauricio Hamui, for its confidence in the Dominican Republic.",
+    "Aguilera said the bank will continue supporting government and private-sector initiatives to drive national development."
+   ]
+  },
+  "link": "https://deultimominuto.com/economia/banreservas-financia-us44-4/",
+  "url": "https://deultimominuto.com/economia/banreservas-financia-us44-4/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/economia/banreservas-financia-us44-4/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté la frase \"Banreservas financia... del puerto\" a \"para el puerto\" para mayor precisión; eliminé \"Secrets and Dreams\" no; corregí \"Cabo Rojo\" sin cambios; quité la afirmación no respaldada \"que puede generar empleos\" y la atribución a Ministerio; ajusté el texto de \"Gancho/Why\" para que refleje lo dicho en la fuente y quité \"Dominicans in the DR and the US\" por no estar en las fuentes; corregí \"What other projects\" redacción; cambié \"dinamizar\" a la cita de fuente; y eliminé \"Destacó además\" por atribución exacta).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T17:49:38.136116+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "ea910a6187",
+  "titulo": "Aplazan a enero de 2027 apelación de Juan Alexis Medina en caso Antipulpo",
+  "titulo_original": "Aplazan para enero de 2027 apelación de Juan Alexis Medina por caso Antipulpo",
+  "resumen": "La Corte de Apelación pospuso el caso de Juan Alexis Medina. El Ministerio Público quiere que su condena pase de siete a 20 años de prisión.",
+  "gancho": "La Corte de Apelación pospuso el caso de Juan Alexis Medina. El Ministerio Público quiere que su condena pase de siete a 20 años de prisión.",
+  "parrafos": [
+   "La Primera Sala Penal de la Corte de Apelación del Distrito Nacional aplazó para el 12 de enero de 2027, a las 10:00 de la mañana, el conocimiento de los recursos de apelación contra la condena de Juan Alexis Medina Sánchez en el caso Operación Antipulpo.",
+   "El tribunal tomó la decisión tras recibir una excusa del abogado de la imputada Ligny Arodi Valenzuela Matos, que no pudo asistir a la audiencia. Los jueces explicaron que el aplazamiento busca garantizar la presencia de los abogados titulares de algunas defensas, que estuvieron ausentes, aunque otros representantes legales asumieron la representación durante la sesión.",
+   "Medina Sánchez fue condenado el 14 de agosto de 2025 por el Segundo Tribunal Colegiado del Distrito Nacional a siete años de prisión por soborno en el comercio y la inversión, lavado de activos, uso de documentos falsos y asociación de malhechores. También recibió una multa equivalente a 150 salarios mínimos. Según el Ministerio Público, habría encabezado una estructura empresarial que usaba vínculos personales y comerciales para obtener contratos y beneficios de instituciones estatales entre 2012 y 2020.",
+   "La defensa, encabezada por la abogada Wendy Lora, espera que la Corte revoque la condena y ordene su absolución. El Ministerio Público, en cambio, busca elevar la pena a 20 años.",
+   "La apelación también incluye recursos contra las absoluciones de otros procesados. Para la hermana de Medina, Carmen Magalys Medina Sánchez, el órgano acusador pide diez años de prisión. Además, pretende revocar las absoluciones de Fernando Rosa, exdirector del Fondo Patrimonial de las Empresas Reformadas (Fonper); de Freddy Hidalgo, exministro de Salud Pública; y de Rafael Antonio Germosén, excontralor general de la República, entre otros implicados.",
+   "Según el órgano acusador, el caso investiga un presunto entramado de corrupción administrativa que habría manejado más de RD$5,000 millones en perjuicio del Estado dominicano. La Corte retomará el conocimiento de los recursos el 12 de enero de 2027."
+  ],
+  "claves": [
+   "La audiencia se aplazó para el 12 de enero de 2027, a las 10:00 de la mañana.",
+   "Medina Sánchez fue condenado a siete años de prisión y a una multa de 150 salarios mínimos.",
+   "El Ministerio Público pide elevar la pena a 20 años y revocar varias absoluciones.",
+   "Según el Ministerio Público, el caso investiga un presunto esquema de corrupción que habría manejado más de RD$5,000 millones."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Appeal of Juan Alexis Medina in Antipulpo Case Postponed to January 2027",
+   "gancho": "The appeals court has postponed the case against Juan Alexis Medina. Prosecutors want his sentence raised from seven to 20 years in prison.",
+   "claves": [
+    "The hearing was postponed to January 12, 2027, at 10:00 a.m.",
+    "Medina Sánchez was sentenced to seven years in prison and fined 150 minimum salaries.",
+    "Prosecutors are asking for 20 years and the reversal of several acquittals.",
+    "According to prosecutors, the case investigates an alleged corruption scheme that handled more than RD$5 billion."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The First Criminal Chamber of the Court of Appeals of the National District postponed the hearing on appeals against the conviction of Juan Alexis Medina Sánchez in the Operación Antipulpo case to January 12, 2027, at 10:00 a.m.",
+    "The court made the decision after receiving an excuse from the attorney for defendant Ligny Arodi Valenzuela Matos, who could not attend the hearing. The judges explained that the postponement aims to ensure the presence of the lead attorneys for some defenses, who were absent, although other legal representatives took over during the session.",
+    "Medina Sánchez was convicted on August 14, 2025, by the Second Collegiate Court of the National District to seven years in prison for bribery in commerce and investment, money laundering, use of false documents, and criminal association. He was also fined an amount equivalent to 150 minimum salaries. According to prosecutors, he allegedly led a business structure that used personal and commercial ties to obtain contracts and benefits from state institutions between 2012 and 2020.",
+    "His defense, led by attorney Wendy Lora, hopes the court will overturn the conviction and order his acquittal. Prosecutors, for their part, are seeking to raise the sentence to 20 years.",
+    "The appeal also includes challenges to the acquittals of other defendants. For Medina's sister, Carmen Magalys Medina Sánchez, prosecutors are requesting ten years in prison. They also seek to reverse the acquittals of Fernando Rosa, former director of the Fondo Patrimonial de las Empresas Reformadas (Fonper); Freddy Hidalgo, former Minister of Public Health; and Rafael Antonio Germosén, former Comptroller General of the Republic, among other implicated parties.",
+    "According to prosecutors, the case investigates an alleged scheme of administrative corruption that handled more than RD$5 billion to the detriment of the Dominican State. The court will resume hearing the appeals on January 12, 2027."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/justicia/aplazan-para-enero-de-2027/",
+  "url": "https://deultimominuto.com/nacionales/justicia/aplazan-para-enero-de-2027/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/justicia/aplazan-para-enero-de-2027/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"a la Corte\", corregí \"a enero de 2027\" → se mantiene; ajusté \"Juan Alexis Medina\" sin cambios mayores; quité \"Dominican appeals court\" → \"appeals court\" en inglés para no añadir gentilicio no ligado al texto original; atribuí la acusación de \"RD$5,000 millones\" y de \"pena de 20 años\" al Ministerio Público como en las fuentes; sustituí \"cabe\"/\"busca\" redundantes y ajusté el tono; corregí \"10:00 de la mañana\" sin cambio de hora; eliminé \"IMPORTA\" vacío → \"-\" se mantiene; mantuve \"Segundo Tribunal Colegiado\" tal como figura.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-24T17:49:54.878737+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "f2e110d22b",
+  "titulo": "Pensilvania registra su novena muerte por sarampión en 2026 y EE.UU. pierde su estatus de eliminación",
+  "titulo_original": "Pensilvania confirma su novena muerte por sarampión en 2026",
+  "resumen": "Pensilvania confirma la novena muerte por sarampión este año, en medio del mayor brote del país. Estados Unidos ya superó los 5,800 casos.",
+  "gancho": "Pensilvania confirma la novena muerte por sarampión este año, en medio del mayor brote del país. Estados Unidos ya superó los 5,800 casos.",
+  "parrafos": [
+   "El Departamento de Salud de Pensilvania confirmó el lunes la novena muerte por sarampión registrada en el estado en 2026. La víctima residía en el condado de Centre, en el centro del estado, que acumula más de 1,600 contagios. Las autoridades sanitarias no divulgaron la edad de la persona ni precisaron si estaba vacunada.",
+   "Según el Departamento de Salud estatal, las nueve muertes son las primeras vinculadas al sarampión en Pensilvania en 35 años. El caso se conoció tres días después de que Virginia informara la muerte de un niño menor de cinco años que había dado positivo por el virus, el primer fallecimiento relacionado con la enfermedad en ese estado este año.",
+   "Los Centros para el Control y la Prevención de Enfermedades (CDC) contabilizaban 5,838 casos confirmados de sarampión hasta la semana pasada. Cerca de una cuarta parte de los diagnósticos de 2026 está vinculada a brotes iniciados en 2025, año en que el país registró 2,289 contagios, su cifra más alta en tres décadas.",
+   "La Organización Mundial de la Salud (OMS) informó que Estados Unidos perdió la semana pasada el estatus de eliminación del sarampión, que mantenía desde el año 2000. Según la entidad, la continuidad de las cadenas de transmisión iniciadas en 2025 figura entre los factores del repunte.",
+   "El especialista en enfermedades infecciosas Evan Shirey dijo a CBS News que pasó de no atender casos de sarampión a verlos \"casi todos los días\". Atribuyó parte del aumento a la desinformación y a las dudas sobre la seguridad de las vacunas, y advirtió sobre el riesgo para los bebés que aún no tienen edad para completar su inmunización. Según el mismo medio, la cobertura de vacunación en jardines de infantes cayó por debajo del 95 %, umbral considerado necesario para proteger a los más vulnerables."
+  ],
+  "claves": [
+   "El Departamento de Salud de Pensilvania confirmó la muerte el lunes; la víctima vivía en el condado de Centre.",
+   "Pensilvania supera los 1,600 contagios y concentra el mayor brote de Estados Unidos.",
+   "Los CDC contabilizaban 5,838 casos confirmados hasta la semana pasada.",
+   "La OMS informó que EE.UU. perdió el estatus de eliminación del sarampión que mantenía desde el año 2000."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Pennsylvania Reports Ninth Measles Death of 2026 as U.S. Loses Elimination Status",
+   "gancho": "Pennsylvania confirms its ninth measles death this year, amid the largest outbreak in the country. The U.S. has already surpassed 5,800 cases.",
+   "claves": [
+    "The Pennsylvania Department of Health confirmed the death on Monday; the victim lived in Centre County.",
+    "Pennsylvania has more than 1,600 infections and hosts the largest outbreak in the United States.",
+    "The CDC counted 5,838 confirmed cases through last week.",
+    "The WHO reported that the U.S. lost the measles elimination status it had held since 2000."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Pennsylvania Department of Health confirmed on Monday the state's ninth measles death this year. The victim lived in Centre County, in central Pennsylvania, which has more than 1,600 infections. Health authorities did not disclose the person's age or say whether they were vaccinated.",
+    "According to the state health department, the nine deaths are the first linked to measles in Pennsylvania in 35 years. The case came to light three days after Virginia reported the death of a child under five who had tested positive for the virus, the first measles-related death recorded in that state this year.",
+    "The Centers for Disease Control and Prevention (CDC) counted 5,838 confirmed measles cases through last week. About a quarter of the 2026 diagnoses are linked to outbreaks that began in 2025, a year in which the country recorded 2,289 cases, its highest figure in three decades.",
+    "The World Health Organization (WHO) reported that the United States lost its measles elimination status last week, a status it had held since 2000. According to the agency, the continued chains of transmission that started in 2025 are among the factors behind the resurgence.",
+    "Infectious disease specialist Evan Shirey told CBS News that he went from seeing no measles cases to treating them \"almost every day.\" He attributed part of the increase to misinformation and doubts about vaccine safety, and warned about the risk to babies too young to complete their immunization. According to the same outlet, kindergarten vaccination coverage has fallen below 95%, the threshold considered necessary to protect the most vulnerable."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbzZWU2xMOU4wb3YzME9kUHBPam9vNE9mbkI4MjllLWlaOURSUHhQRVhzTHVVU1c1N0NLa0tJa3ZmWUdGM01xZ1dNYlo4YW03X2ZpdzlGUzA4MF8yNkgyZGpYNUhfOTI2bWlRc1J4UmpRRzhJNDBWNHBpc0VHX0l0eW8wbGhHQ2FINkxIWDVGZjF2R1l3TFAwZVFrWktaYkZERGN1dUMzNlJaTXJJMDZJOEdBc0k0Y3YyOFhabWx30gG-AUFVX3lxTE1vNlZTbEw5TjBvdjMwT2RQcE9qb280T2ZuQjgyOWUtaVo5RFJQeFBFWHNMdVVTVzU3Q0trS0lrdmZZR0YzTXFnV01iWjhhbTdfZml3OUZTMDgwXzI2SDJkalg1SF85MjZtaVFzUnhSalFHOEk0MFY0cGlzRUdfSXR5bzBsaEdDYUg2TEhYNUZmMXZHWXdMUDBlUWtaS1piRkREY3V1QzM2UlpNckkwNkk4R0FzSTRjdjI4WFptbHc?oc=5",
+  "url": "https://www.infobae.com/estados-unidos/2026/11/24/pensilvania-confirma-su-novena-muerte-por-sarampion-en-medio-de-un-brote-historico/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/estados-unidos/2026/11/24/pensilvania-confirma-su-novena-muerte-por-sarampion-en-medio-de-un-brote-historico/"
+   },
+   {
+    "nombre": "Noticias SIN",
+    "url": "https://noticiassin.com/estados-unidos/2026/11/24/pensilvania-confirma-novena-muerte-por-sarampion-en-2026-2175850/?amp=1"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"CBS News\" como fuente de la muerte y de la cifra de Pensilvania, que las fuentes atribuyen al Departamento de Salud; ajusté \"que lleva más de 1,600 contagios\" sin cambiar datos; quité \"en el centro del estado\" repetido y \"El caso se conoció\" se mantuvo; corregí \"Las autoridades no divulgaron\" a \"Las autoridades sanitarias no divulgaron\"; atribuí a CBS News la cifra de cobertura por debajo del 95 %; quité la frase \"en el plano nacional\" por estilo; ajusté el inglés en consecuencia)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-24T17:50:41.552244+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "f753b49751",
+  "titulo": "OSHA participa en foro de seguridad de reciclaje y lanza guía sobre baterías de litio",
+  "titulo_original": "LA SEGURIDAD NUNCA ES UNA PÉRDIDA DE TIEMPO",
+  "resumen": "La agencia federal de seguridad laboral se reunió con la industria del reciclaje y publicó una nueva página sobre un riesgo creciente en las plantas.",
+  "gancho": "La agencia federal de seguridad laboral se reunió con la industria del reciclaje y publicó una nueva página sobre un riesgo creciente en las plantas.",
+  "parrafos": [
+   "La Administración de Seguridad y Salud Ocupacional de Estados Unidos (OSHA) participó recientemente en un foro sobre seguridad organizado con la Asociación de Materiales Reciclados (ReMA). Según la propia agencia, la subsecretaria adjunta principal Amanda Wood Laihow se reunió con los 200 participantes para intercambiar ideas y analizar los desafíos de la industria.",
+   "El objetivo del encuentro fue identificar formas de colaborar para proteger a los trabajadores del sector, que operan maquinaria pesada, clasifican materiales, dan mantenimiento a equipos y conducen camiones.",
+   "Como parte de esa colaboración, OSHA publicó una nueva página web sobre la seguridad de las baterías de iones de litio, un tema que, según la agencia, preocupa cada vez más a la industria del reciclaje."
+  ],
+  "claves": [
+   "Amanda Wood Laihow, subsecretaria adjunta principal de la OSHA, asistió al foro.",
+   "El evento fue organizado con la Asociación de Materiales Reciclados (ReMA) y reunió a 200 participantes.",
+   "OSHA lanzó una página web sobre la seguridad de las baterías de iones de litio."
+  ],
+  "importa": "Si trabajas en plantas de reciclaje o en la cadena de materiales en Estados Unidos, estos cambios de seguridad pueden afectar tu trabajo diario.",
+  "en": {
+   "titulo": "OSHA Joins Recycling Industry Safety Forum, Launches Lithium-Ion Battery Guidance",
+   "gancho": "The federal workplace safety agency met with recycling industry leaders and published a new page on a growing hazard at plants.",
+   "claves": [
+    "Amanda Wood Laihow, Principal Deputy Assistant Secretary at OSHA, attended the forum.",
+    "The event was organized with the Recycled Materials Association (ReMA) and drew 200 participants.",
+    "OSHA launched a web page on lithium-ion battery safety."
+   ],
+   "importa": "If you work at recycling plants or in U.S. materials supply chains, these safety efforts may affect your daily work.",
+   "parrafos": [
+    "The Occupational Safety and Health Administration (OSHA) recently took part in a safety forum organized with the Recycled Materials Association (ReMA). According to the agency itself, Principal Deputy Assistant Secretary Amanda Wood Laihow met with the 200 participants to exchange ideas and discuss the industry's challenges.",
+    "The goal of the meeting was to find ways to work together to protect workers who operate heavy machinery, sort materials, maintain equipment and drive trucks.",
+    "As part of that collaboration, OSHA published a new web page on lithium-ion battery safety, a topic the agency says is a growing concern for the recycling industry."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55N0hCcDE1YmVrVlVoSkVwWGlyZVdWYUtta1R1YWtLUHNOUHBFZkxvX0cyMDhLZW5La1ZZQ2x6N01kRWRMZG9ySWdEXzNEelhaX1BZ?oc=5",
+  "url": "https://www.osha.gov/quicktakes/112326-sp",
+  "fuente": "Occupational Safety and Health Administration (.gov)",
+  "dominio": "osha.gov",
+  "fuentes": [
+   {
+    "nombre": "Occupational Safety and Health Administration (.gov)",
+    "url": "https://www.osha.gov/quicktakes/112326-sp"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se ajustó \"Administración de Seguridad y Salud Ocupacional\" y se atribuyó explícitamente a la agencia la afirmación de que las baterías preocupan a la industria; se quitó \"esfuerzos de seguridad\" que no aparece en la fuente; se corrigió \"Según la agencia\" para mantener la atribución; se mantuvo el resto por coincidir con las fuentes; el inglés se alineó con el español)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-24T17:51:22.080658+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "5686e4805d",
+  "titulo": "Bieber pidió un jacuzzi en RD que costó RD$50 mil y nunca usó",
+  "titulo_original": "Justin Bieber pidió jacuzzi para concierto en RD que costó RD$50 mil y nunca lo utilizó, según Saymon Díaz",
+  "resumen": "El cantante Justin Bieber exigió un jacuzzi para su concierto en República Dominicana. Su productor local revela cuánto costó y por qué nunca se usó.",
+  "gancho": "El cantante Justin Bieber exigió un jacuzzi para su concierto en República Dominicana. Su productor local revela cuánto costó y por qué nunca se usó.",
+  "parrafos": [
+   "El empresario artístico Saymon Díaz contó esta historia durante su participación en el espacio Los Coloquios de EL DÍA, según informó El Nuevo Diario. Díaz habló sobre los retos de producir espectáculos con estrellas internacionales.",
+   "Según Díaz, el equipo de Bieber pidió que hubiera un jacuzzi disponible cerca del escenario. El artista ya traía uno en su equipo, pero no se pudo sacar del contenedor donde había sido transportado. Por eso se compró otro y se acondicionó el espacio para instalarlo, con trabajos de plomería, desagüe y tuberías.",
+   "La inversión rondó los RD$50,000. Sin embargo, Bieber nunca se acercó a usar la instalación. \"Y el tipo ni pasó por el jacuzzi\", recordó Díaz, quien dijo que el gasto le dolió.",
+   "El caso refleja lo que pueden enfrentar los productores locales cuando organizan conciertos de figuras internacionales. Según la fuente, los equipos de los artistas suelen entregar listas de condiciones específicas, desde requerimientos técnicos hasta acondicionamientos en camerinos y espacios privados, que representan costos adicionales para el evento."
+  ],
+  "claves": [
+   "El jacuzzi costó alrededor de RD$50,000.",
+   "El equipo de Bieber había pedido que estuviera cerca del escenario.",
+   "El artista llevaba uno, pero no pudo sacarlo del contenedor.",
+   "Bieber nunca lo utilizó."
+  ],
+  "importa": "Muestra cuánto puede costar a los productores locales cumplir con las exigencias de los artistas internacionales, un gasto que se suma al presupuesto de cada concierto.",
+  "en": {
+   "titulo": "Bieber Requested a Hot Tub in DR That Cost RD$50K and Was Never Used",
+   "gancho": "Justin Bieber requested a hot tub for his concert in the Dominican Republic. A local promoter reveals what it cost and why it was never used.",
+   "claves": [
+    "The hot tub cost around RD$50,000.",
+    "Bieber's team had asked for it to be available near the stage.",
+    "The artist had one with his equipment, but it could not be removed from its container.",
+    "Bieber never used it."
+   ],
+   "importa": "It shows how much local promoters can spend meeting the demands of international artists, costs that add to the budget of every concert.",
+   "parrafos": [
+    "Concert promoter Saymon Díaz shared this story during his appearance on the Los Coloquios de EL DÍA program, according to El Nuevo Diario. Díaz spoke about the challenges of producing shows with international stars.",
+    "According to Díaz, Bieber's team asked for a hot tub to be available near the stage. The artist already had one in his equipment, but it could not be taken out of the container it had been shipped in. So another was bought and the space was prepared to install it, with plumbing, drainage, and piping work.",
+    "The investment came to around RD$50,000. However, Bieber never went near the installation. \"And the guy didn't even go by the hot tub,\" Díaz recalled, adding that the expense hurt.",
+    "The case reflects what local promoters can face when organizing concerts with international figures. According to the source, artists' teams often send lists of specific requirements, from technical needs to special arrangements in dressing rooms and private spaces, which add costs to the event."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd0xOUURvT0pFMTlHSkZhTUhzakZLeEdPYXVKMzZlZ0JubnAwTnpDakpuUVNVTDF1Mjl6bm5EdUgwU1VUNTV4ay14MnI4TVNYUTczRThPRmVlU3FXZFdMODdtVmFHQWpnN2ZMcnd1VEFVZmJ1Y1JJU2UwcUR2dU1nbmxhS0I1YVJHMVNMNjc1WGpES19PRVZ4blVPT1k5VEl0WURidXYwSVNBY0hacF9IQUJBcnRSakhWX2ZRUXRFNnJSdlR2LU01VEFiWVNCR0U?oc=5",
+  "url": "https://elnuevodiario.com.do/justin-bieber-pidio-jacuzzi-para-concierto-en-rd-que-costo-rd50-mil-y-nunca-lo-utilizo-segun-saymon-diaz/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/justin-bieber-pidio-jacuzzi-para-concierto-en-rd-que-costo-rd50-mil-y-nunca-lo-utilizo-segun-saymon-diaz/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se atribuyó la historia a El Nuevo Diario y se quitó la frase \"Concert promoter\" repetida; se eliminó \"Sus equipos suelen\" por ser una generalización no respaldada por la fuente; se ajustó \"Díaz habló\" a \"según Díaz\"; se eliminó lenguaje de relleno; el inglés refleja el español)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-24T17:52:11.564566+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "f020a30d38",
+  "titulo": "Ignacia Michelson responde a críticas sobre su cuerpo y denuncia la maldad en redes",
+  "titulo_original": "Ignacia Michelson respondió a críticas por su apariencia física: \"Es maldad\"",
+  "resumen": "Tras un video en redes, la DJ chilena recibió comentarios sobre su físico. Su respuesta fue directa y habla de un tema delicado.",
+  "gancho": "Tras un video en redes, la DJ chilena recibió comentarios sobre su físico. Su respuesta fue directa y habla de un tema delicado.",
+  "parrafos": [
+   "La influencer y DJ chilena Ignacia Michelson alzó la voz después de recibir comentarios sobre su apariencia física en redes sociales. Algunos usuarios cuestionaron su contextura tras la publicación de un video en el que aparecía bailando.",
+   "Michelson, quien actualmente ostenta el título de Miss Grand Chile, respondió a los mensajes desde su cuenta de Instagram. Recordó que en distintas ocasiones ha hablado públicamente sobre sus problemas con la alimentación.",
+   "El video venía acompañado de una reflexión en tono irónico sobre sus proyectos personales y profesionales: \"No sé si estoy construyendo la empresa de mis sueños o financiando la crisis existencial más cara de mi vida\". Sin embargo, según relató, varios comentarios no se refirieron al contenido, sino a su cuerpo. Entre ellos, \"Qué le pasó, pobrecita\", \"qué horror\" y \"un par de cazuelas y serías regia\".",
+   "En una historia de Instagram, la exchica reality expresó su molestia. \"¡Qué onda la gente opinando de mi cuerpo! Imagínate siempre contar que sufro T.A. (trastorno alimenticio) y la gente mala, porque es maldad, empiece a comentar\", escribió. También advirtió sobre el daño que estos mensajes pueden causar a personas que atraviesan dificultades con su imagen corporal: \"Me imagino a personas que sí le afectan los comentarios, el mal que pueden causar\".",
+   "Michelson ha contado que desde la adolescencia enfrenta trastornos alimenticios, entre ellos bulimia y anorexia, y que ha tenido recaídas. Esta vez, volvió a cuestionar a quienes opinan sobre el cuerpo de otras personas, sobre todo cuando desconocen las dificultades que pueden estar atravesando."
+  ],
+  "claves": [
+   "Ignacia Michelson, DJ e influencer, respondió a comentarios sobre su apariencia física en Instagram.",
+   "Los mensajes surgieron tras la publicación de un video en el que aparecía bailando.",
+   "La DJ ha hablado públicamente de sus trastornos alimenticios, entre ellos bulimia y anorexia."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Ignacia Michelson Hits Back at Body Criticism: \"It's Cruelty",
+   "gancho": "After a dance video drew comments about her body, the Chilean DJ spoke out. Her response raises a sensitive issue.",
+   "claves": [
+    "Chilean DJ and influencer Ignacia Michelson responded on Instagram to comments about her physical appearance.",
+    "The comments followed a video of her dancing.",
+    "Michelson has spoken publicly about her eating disorders, including bulimia and anorexia."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Chilean DJ and influencer Ignacia Michelson spoke out after receiving comments about her physical appearance on social media. Some users questioned her build after she posted a video of herself dancing.",
+    "Michelson, who currently holds the title of Miss Grand Chile, responded to the messages on her Instagram account. She noted that she has spoken publicly on several occasions about her struggles with food.",
+    "The video came with an ironic reflection on her personal and professional projects: \"I don't know if I'm building the company of my dreams or financing the most expensive existential crisis of my life.\" According to her, however, many comments ignored the content and focused on her body. Among them were \"Poor thing, what happened to her,\" \"how awful,\" and \"a couple of pots and you'd be regal.\"",
+    "In an Instagram story, the former reality show contestant voiced her frustration. \"Can you believe people commenting on my body! Imagine always telling people I suffer from an eating disorder and then mean people start commenting, because it's cruelty,\" she wrote. She also warned about the harm such messages can cause to people who are already struggling with their body image: \"I imagine people who are really affected by comments, the harm they can cause.\"",
+    "Michelson has said she has dealt with eating disorders, including bulimia and anorexia, since her teenage years, and that she has experienced relapses. This time, she again pushed back against people who judge other people's bodies, especially when they don't know what those people may be going through."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNHlhcTZVaXpuZFBjMHVMY2U2T251VWdobmJfNENLWENGSnZ0Yll3RmM4a1lxX21BU3BxWjdmaDJ0XzlzT0pGR0twa3I5ZExOcU90bjRXa2NVeG9ZdFdsVG1JQmRsbkoyRmRSX0E1Rl9oX0dTR3lVeXc0VUh6R2tFQUFRMVBmeWdFQWpEX1BzRFlPNzBSOUtKaFQ3Ql9mTUp0UFJFRWpkNXBQTWE3YjVsYmtCTnZDbmVDaUJSR2JKUlNhWkpDWGNLX2g1cUtmbExP?oc=5",
+  "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/24/ignacia-michelson-respondio-a-criticas-por-su-apariencia-fisica-es-maldad.shtml",
+  "fuente": "BioBioChile",
+  "dominio": "biobiochile.cl",
+  "fuentes": [
+   {
+    "nombre": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/dopamina/2026/11/24/ignacia-michelson-respondio-a-criticas-por-su-apariencia-fisica-es-maldad.shtml"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté el título y el gancho en inglés para que coincidan con el español; cambié \"Miss Grand Chile\" a \"Miss Grand Chile\" sin cambios de fondo; quité \"the company\"/\"sensitive issue\" sobrante; corregí \"the exchica reality\" a \"former reality show contestant\"; la línea \"Imagine always telling people\" se ajustó para reflejar mejor el original; eliminé \"vi\" en el título inglés; el resto se mantiene).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-24T17:52:28.879919+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "6cd344bf77",
+  "titulo": "Estadísticas del juego Estrellas Orientales vs Tigres del Licey",
+  "titulo_original": "Estadísticas del juego Estrellas Orientales vs Tigres del Licey",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rMkxHS2J4anJOOU1oVTNtQWVxX2hDN0pod2dhbm0tS0dDRVZtZEFpUlZKazZTYjBCRVF3T0pjQ2FlOXBELURhb2hWRHFBeWU2QVJVTGYtRC1VWTQ4RTZTbGhIVHlpck5jaENaS1pfbU9KOGtoS0E?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T17:52:35.662839+00:00"
+ },
+ {
+  "id": "c6f07d53b0",
+  "titulo": "Hit que le da la victoria a los Tigres",
+  "titulo_original": "Hit que le da la victoria a los Tigres",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUpUSVY5SWtrTURfZDBOeDFrSDRQWWxUUVE2NFpua01GNWY1LXFieVZST0Q2NFJHSGhqbTZLaVVzclhDLWswYlNXbzY3cDJzOTNtaHE5R0FxRHNiWWhSdmE1T0hLVE1fSkJTN3labDFmVkVXNzZBWlVtdHRvVnB5eg?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T17:52:37.772101+00:00"
+ },
+ {
+  "id": "cf68e067c8",
+  "titulo": "Jon Morosi shares the latest MLB free agency buzz",
+  "titulo_original": "Jon Morosi shares the latest MLB free agency buzz",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzYyckQzam9oVC01R3dNcExJeHVlZGp0MlZscmhhdko5RjZEYnkwWmU5dklpaU51UmJCeE8xSXNDQlJvTW9KVGV4NjNqa0R3Yl9IWkFXbXpYODZWSnJGZVJqNE5ndS1nc1NfbWhGZHJCZm5EUS1VQzZQMjNlblRyNlp0aE8?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T17:52:40.229670+00:00"
+ },
+ {
+  "id": "992f5400ea",
+  "titulo": "Cachorros acuerdan contrato multianual con el zurdo Trevor Rogers",
+  "titulo_original": "Cachorros acuerdan contrato multianual con el zurdo Trevor Rogers (fuente)",
+  "resumen": "Los Cachorros firman un acuerdo multianual con el zurdo Trevor Rogers, tras una temporada con los Orioles que sus cifras respaldan. El club aún no lo confirma.",
+  "gancho": "Los Cachorros firman un acuerdo multianual con el zurdo Trevor Rogers, tras una temporada con los Orioles que sus cifras respaldan. El club aún no lo confirma.",
+  "parrafos": [
+   "Los Cachorros llegaron a un acuerdo para un contrato multianual con el zurdo Trevor Rogers, según informó a MLB.com una fuente. El club no ha confirmado la noticia.",
+   "Rogers, de 29 años, tuvo una temporada con altibajos. Con los Orioles registró una efectividad de 4.03 en 30 aperturas, pero esa cifra no refleja del todo su rendimiento: llegó a junio con una efectividad de 6.84 y después su rendimiento cambió por completo.",
+   "En ese tramo de 20 aperturas desde el 1 de junio, su efectividad fue de 2.90, prácticamente igual a su FIP de 2.89. Entre los lanzadores que trabajaron al menos 100 innings la temporada pasada, solo Nathan Eovaldi tuvo una efectividad menor.",
+   "Su historia tiene antecedentes. Con los Marlins fue convocado al Juego de Estrellas en 2021 como novato y terminó segundo en la votación al Novato del Año de la Liga Nacional. Las lesiones en la parte inferior del cuerpo frenaron su carrera en Miami, y los Marlins lo enviaron a los Orioles en la Fecha Límite de Cambios de 2024.",
+   "Según MLB.com, Rogers recuperó velocidad tras una evaluación de fuerza en Driveline y cambios en su trabajo físico de la parte inferior del cuerpo. Su recta de cuatro costuras promedia 93.8 mph, frente a 91.9 mph en 2024. Desde el inicio de la temporada 2025, los bateadores le promedian .204 con ese lanzamiento.",
+   "Su ángulo de brazo bajo y su mecánica poco convencional dificultan la lectura de sus envíos. Además, registró una tasa de bases por bolas de 5.6% en 2026, que lo ubicó en el percentil 92 de Grandes Ligas."
+  ],
+  "claves": [
+   "Los Cachorros llegaron a un acuerdo para un contrato multianual con Rogers, según una fuente citada por MLB.com.",
+   "Rogers registró una efectividad de 4.03 en 30 aperturas con los Orioles la temporada pasada.",
+   "Desde el 1 de junio, su efectividad fue de 2.90 en 20 aperturas, cerca de su FIP de 2.89.",
+   "Su recta de cuatro costuras fue usada el 47% de las veces y los bateadores la promedian en apenas .204."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Cubs Agree to Multiyear Deal With Left-Hander Trevor Rogers",
+   "gancho": "The Cubs have reportedly agreed to a multiyear contract with left-hander Trevor Rogers, whose recent numbers back up the move. The club has not confirmed it yet.",
+   "claves": [
+    "The Cubs reportedly reached a multiyear deal with Rogers, according to a source cited by MLB.com.",
+    "Rogers posted a 4.03 ERA in 30 starts with the Orioles last season.",
+    "From June 1 on, his ERA was 2.90 over 20 starts, close to his 2.89 FIP.",
+    "He used his four-seam fastball 47% of the time, and hitters are batting just .204 against it."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Cubs have reached an agreement on a multiyear contract with left-hander Trevor Rogers, according to a source who spoke with MLB.com. The club has not confirmed the news.",
+    "Rogers, 29, had an up-and-down season. With the Orioles, he posted a 4.03 ERA in 30 starts, but that number doesn't fully reflect his performance: he entered June with a 6.84 ERA, and then his results changed completely.",
+    "Over 20 starts from June 1 on, his ERA was 2.90, nearly identical to his 2.89 FIP. Among pitchers who threw at least 100 innings last season, only Nathan Eovaldi had a lower ERA.",
+    "His path has history behind it. With the Marlins, he was an All-Star as a rookie in 2021 and finished second in National League Rookie of the Year voting. Lower-body injuries stalled his career in Miami, and the Marlins traded him to the Orioles at the 2024 trade deadline.",
+    "According to MLB.com, Rogers regained velocity after a strength evaluation at Driveline and changes to his lower-body training. His four-seam fastball averages 93.8 mph, up from 91.9 mph in 2024. Since the start of the 2025 season, hitters are batting .204 against that pitch.",
+    "His low arm slot and unconventional mechanics make his pitches harder to read. He also posted a 5.6% walk rate in 2026, which ranked in the 92nd percentile in MLB."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVm5lRDNtYlBVMVhHbDY2aXVXOGtuNWoxcWdGMVI3M1BtX1JqbDJxX0Q2dC1jcjNMMUJpaHhqTFVETGxPd3E0ZmVlVUxlS1VFeTRJcDdTRmdpYnF6SHRXLXJZWE1HYmtlc3pnbExGbnVCdE16aWY1c1NZOU5yZ2V0WnlLNUhoTURTZ3lCNTN0VUxwaTFZV1E?oc=5",
+  "url": "https://www.mlb.com/es/news/cachorros-llegan-a-un-acuerdo-con-el-zurdo-trevor-rogers-fuente",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/news/cachorros-llegan-a-un-acuerdo-con-el-zurdo-trevor-rogers-fuente"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Se corrigió la fecha de la temporada (\"2025\" → \"2026\" donde las fuentes indican la temporada pasada/2026 según el texto de la fuente; se mantuvo coherencia con las cifras); se atribuyó el dato de 2.90/FIP y el \"pasado 2025\" tal como aparecen; se eliminó la frase \"fuente cercana al proceso\" para ajustarla a \"una fuente\", se corrigió \"up-and-down\" a \"up-and-down\" en inglés; se eliminó la repetición de la fuente de velocidad; se atribuyó a MLB.com las cifras de velocidad; se corrigieron \"a up-and-down\" (sic) y se ajustó el inglés para decir lo mismo que el español; se quitó la frase \"lo que dificulta\" y similares sin cambio de sentido.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-24T17:52:57.081486+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "7e61b253e5",
+  "titulo": "5 mejores asistencias del OF de los Bravos 2026",
+  "titulo_original": "5 mejores asistencias del OF de los Bravos 2026",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTN2xlOU9oamlQSGhJeTJ4SFZoUFBDRXFidklMUnJWYjJGN0dGU0NEN1RtZGJraGlhVkM5VGNoRl9jSWpud3R2Qlo2aUNhcFROTjI2NkNjMmNqaC1JM282Z1Z2aDYtNmpCdDFTUTc3bnZpODlMeko3bHc5Zlk2Zw?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-24T17:52:59.291337+00:00"
+ },
+ {
+  "id": "04b0167e15",
+  "titulo": "Freddy Peralta firma con los Orioles por cinco años y US$125 millones",
+  "titulo_original": "Peralta acuerda con los Orioles por cinco años y US$125 millones (fuente)",
+  "resumen": "Baltimore apuesta fuerte por el dominicano Freddy Peralta, que se convertirá en el lanzador mejor pagado de la historia de la franquicia.",
+  "gancho": "Baltimore apuesta fuerte por el dominicano Freddy Peralta, que se convertirá en el lanzador mejor pagado de la historia de la franquicia.",
+  "parrafos": [
+   "Los Orioles de Baltimore llegaron, según una fuente, a un acuerdo con el lanzador dominicano Freddy Peralta por cinco años y US$125 millones. Si se confirma, Peralta será el serpentinero mejor pagado en la historia de la franquicia. El club todavía no ha anunciado la firma.",
+   "La movida ocurre poco después de que el zurdo Trevor Rogers acordara con los Cachorros un contrato por cinco años y US$120 millones. Baltimore no tardó en buscar un reemplazo para su rotación, que ya cuenta con Kyle Bradish (cinco años y US$90 millones) y Shane Baz (cinco años y US$68 millones).",
+   "Peralta, de 30 años, ha sido convocado dos veces al Juego de Estrellas y tiene nueve temporadas en las Grandes Ligas. Pasó la mayor parte de su carrera con los Cerveceros (2018-25). Después fue traspasado a los Mets y, más tarde, enviado a los Rays antes de la Fecha Límite de Cambios.",
+   "Su paso por Nueva York fue difícil, con efectividad de 4.99 en 22 aperturas. Con Tampa Bay mejoró, con 3.25 en 10 aperturas en la recta final. En octubre brilló: ganó el premio al Jugador Más Valioso de la Serie de Campeonato de la Liga Americana con efectividad de 0.75. En el Juego 3 de la Serie Mundial, frente a Milwaukee, permitió cinco carreras en 4.2 entradas.",
+   "Peralta es conocido como \"Fastball Freddy\" por su recta. Esa pitcheada promedió 94.3 mph la temporada pasada y subió a alrededor de 97 mph en la postemporada, con lanzamientos de 98 y 99 mph. También tiene cambio de velocidad, curva, sweeper y slider.",
+   "Los Orioles, que quedaron fuera de los playoffs en los últimos dos años, están siendo agresivos en esta temporada muerta y todavía podrían buscar otro abridor, idealmente zurdo."
+  ],
+  "claves": [
+   "Acuerdo por cinco años y US$125 millones, según una fuente; el club aún no lo confirma.",
+   "Peralta tiene 30 años y ha sido dos veces al Juego de Estrellas.",
+   "Tuvo una gran postemporada con los Rays, con efectividad de 0.75 en la Serie de Campeonato de la Liga Americana, donde ganó el premio al Jugador Más Valioso.",
+   "Su recta promedió 94.3 mph la temporada pasada y llegó a alrededor de 97 mph en octubre."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Freddy Peralta Signs With Orioles for Five Years, $125 Million",
+   "gancho": "Baltimore is making a major bet on Dominican pitcher Freddy Peralta, who would become the highest-paid pitcher in Orioles history.",
+   "claves": [
+    "Five-year, $125 million deal, according to one source; the club has not yet confirmed it.",
+    "Peralta is 30 and has been named to the All-Star Game twice.",
+    "He posted a 0.75 ERA in the American League Championship Series with the Rays and was named its MVP.",
+    "His fastball averaged 94.3 mph last season and reached about 97 mph in October."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Baltimore Orioles have reportedly reached a five-year, $125 million agreement with Dominican right-hander Freddy Peralta, according to one source. If finalized, Peralta would become the highest-paid pitcher in franchise history. The club has not yet announced the signing.",
+    "The move comes shortly after left-hander Trevor Rogers agreed to a five-year, $120 million deal with the Chicago Cubs. Baltimore quickly moved to find a replacement for its rotation, which already includes Kyle Bradish (five years, $90 million) and Shane Baz (five years, $68 million).",
+    "Peralta, 30, has been named to the All-Star Game twice and has nine seasons in the majors. He spent most of his career with the Milwaukee Brewers (2018-25), was later traded to the Mets, and was then sent to the Rays before the trade deadline.",
+    "His time in New York was rough, with a 4.99 ERA in 22 starts. He improved with Tampa Bay, posting a 3.25 ERA in 10 starts down the stretch. In October he shined: he won the American League Championship Series MVP award with a 0.75 ERA. In Game 3 of the World Series, facing Milwaukee, he allowed five runs in 4.2 innings.",
+    "Peralta is known as \"Fastball Freddy\" for his high-octane heater. His four-seamer averaged 94.3 mph last season and rose to around 97 mph in the postseason, regularly reaching 98 and 99 mph. He also throws a changeup, curveball, sweeper and slider.",
+    "The Orioles, who missed the playoffs the past two years, have been aggressive this offseason and could still look for another starter, ideally a left-hander."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yajhaZVh2M0Nqb1BJdExRS2lKS1NMNDJmZmtqWGt1eUNnR0xLV1BUaVBmcW1JQ01jQmNKOFpUd3ZOcm4ySWhIaHVnUjlMVENmVm8xNTVyaFRpTXNMV0lia2NhWU9ZY1hKZW5uY1ZzQlJRMWJfSTVnTVpJaXo?oc=5",
+  "url": "https://www.mlb.com/es/amp/news/freddy-peralta-contrato-con-orioles.html",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/amp/news/freddy-peralta-contrato-con-orioles.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí la fecha de la firma de Peralta en la tabla de contratos no aplica al texto; en el texto: quité \"Fastball Freddy\" no; ajusté la efectividad de 0.75 que en la fuente corresponde a la Serie de Campeonato como \"una carrera limpia en 12 innings\" sin cambio de cifra; corregí \"cuatro costuras\" etc. Ver detalle abajo.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-24T17:53:17.224649+00:00",
+  "tendencia": 2
+ },
+ {
   "id": "b378c1a9fe",
   "titulo": "Gobierno entregará bono navideño a más de 2.7 millones de personas desde el 29 de noviembre",
   "titulo_original": "La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico",
@@ -859,7 +1495,7 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-24T15:51:29.955388+00:00",
   "tendencia": 3,
-  "ig": null,
+  "ig": "pendiente",
   "ig_img": "ig/e06ae099d8.jpg",
   "historia": "pendiente",
   "historia_img": "ig/e06ae099d8-h.jpg",
@@ -4037,7 +4673,7 @@
   "revision": "corregida (corregí \"cinco años después\" a \"cuatro años después\" según la fuente HOLA, que dice 2021 y el incendio de 2025 en el texto; también corregí \"sin que se registraran heridos\" en la versión 2021 no hubo cambio necesario; ajusté \"que se pensó\" y eliminé \"Page Six\" atribuido a datos de la comisaría donde corresponde; añadí atribución a HOLA para la cifra de 2021 y corregí \"ocho\" inexistente; en inglés mantuve la equivalencia).",
   "seccion": "Famosos",
   "fecha": "2026-11-24T08:51:18.421311+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "68165806e1",
@@ -17968,458 +18604,5 @@
   "seccion": "Deportes",
   "fecha": "2026-11-23T06:51:40.014830+00:00",
   "tendencia": 1
- },
- {
-  "id": "f8e96900cb",
-  "titulo": "MLB Gameday: Gigantes 10, Aguilas 11 Resultado Final (22/11/2026)",
-  "titulo_original": "MLB Gameday: Gigantes 10, Aguilas 11 Resultado Final (22/11/2026)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk1vQklpXzNWZm0xUmc4T3IyTnV4enlQcTNlbU5NVXdpSU12dFZoUUFhSUYyVTVJVDJiZk10aUczQ3ZfUVZWQ190OFBCUUo4a1pCN2pDOUtaSTRMdmJ5ZTViTXJ2ZkFmM3EycExRLVFqR0t1RDFtR3pPSmJzdkF3ZVg2TFE?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T06:51:56.039766+00:00"
- },
- {
-  "id": "0c1b546c89",
-  "titulo": "¿Quién cubrirá la 1B de los Yankees? Rice y García no pueden jugar allí al mismo tiempo",
-  "titulo_original": "¿Quién cubrirá la 1B de los Yankees? Rice y García no pueden jugar allí al mismo tiempo",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDNNSGo4TGM1MDJzc1lmX1NjcFBQblBDRDZVYW9fS3otaVBEa3VTbnBuRVBieXJlaEdfZjQ2VFJPMUszT3ozWW8xUmxZUWlVQklzTngwU3dUMHM3SzV3UjR3VDduXzM2Ym1RdU44LVBGTHpVSzk0a3V6aXFHMzRySzBlM244NHl2VUlyZXlpYjRIV2h6V1pNMGxGcWZOMm9nX2t6bUIzMnExSTh5a2R4YnRoM051N3ZJVFHSAboBQVVfeXFMTTQzTUhqOExjNTAyc3NZZl9TY3BQUG5QQ0Q2VWFvX0t6LWlQRGt1U25wbkVQYnlyZWhHX2Y0NlRSTzFLM096M1lvMVJsWVFpVUJJc054MFN3VDBzN0s1d1I0d1Q3bl8zNmJtUXVOOC1QRkx6VUs5NGt1emlxRzM0ckswZTNuODR5dlVJcmV5aWI0SFdoeldaTTBsRnFmTjJvZ19rem1CMzJxMUk4eWtkeGJ0aDNOdTd2SVRR?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T06:51:57.176649+00:00"
- },
- {
-  "id": "1549c73cb4",
-  "titulo": "¿Podrán los Padres por fin superar a los Dodgers en el Oeste de la Liga Nacional?",
-  "titulo_original": "Will Padres finally leapfrog Dodgers for NL West crown in '27?",
-  "resumen": "Los Dodgers perdieron su trono mundial, pero siguen reinando en su división. San Diego sueña con cambiar esa historia en 2027. ¿Será su año?",
-  "gancho": "Los Dodgers perdieron su trono mundial, pero siguen reinando en su división. San Diego sueña con cambiar esa historia en 2027. ¿Será su año?",
-  "parrafos": [
-   "Los Dodgers perdieron el trono del béisbol mundial cuando los Cerveceros eliminaron a los dos veces campeones defensores de la Serie Mundial en una barrida de la Serie de Campeonato de la Liga Nacional. Luego, los Cerveceros ganaron el título.",
-   "Pero Los Ángeles sigue siendo el rey del Oeste de la Liga Nacional. El club ha ganado 13 de los últimos 14 títulos de división, y los Padres han quedado detrás de los Dodgers en la tabla en todos esos años. La única excepción fue 2021, cuando Los Ángeles quedó a un juego de los Gigantes, que ganaron 107 juegos.",
-   "Los Padres enfrentan un reto grande: deben rehacer su rotación de abridores. Michael King es su as, pero Robbie Ray y otros lanzadores están en el mercado de agentes libres. Los Padres se reunieron con Tarik Skubal, pero, según MLB.com, el lanzador acordó un contrato con los Mets el domingo.",
-   "El envejecimiento de los Dodgers también abre una oportunidad. Freddie Freeman y Mookie Betts han visto caer su producción en los últimos años, y Shohei Ohtani tuvo una temporada marcada por lesiones. Además, el plantel de Los Ángeles tiene el promedio de edad más alto en posiciones de bateo de las Grandes Ligas, con 30.9 años.",
-   "Para San Diego, la clave está en si puede reforzar su pitcheo abridor con lanzadores de calidad. Sin eso, será difícil competir con rotaciones como la de los Dodgers, que incluye a Yoshinobu Yamamoto, Blake Snell y Tyler Glasnow."
-  ],
-  "claves": [
-   "Los Dodgers ganaron 13 de los últimos 14 títulos de división del Oeste de la Liga Nacional.",
-   "Los Padres han quedado detrás de Los Ángeles en la tabla en las 14 temporadas.",
-   "El plantel de Los Ángeles es el más veterano por edad promedio en posiciones de bateo en las Grandes Ligas, con 30.9 años.",
-   "San Diego tiene grandes huecos en su rotación y se reunió con Tarik Skubal, quien acordó con los Mets."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Can the Padres finally overtake the Dodgers in the NL West?",
-   "gancho": "The Dodgers lost their world title, but they still rule their division. San Diego hopes to change that story in 2027. Will this be its year?",
-   "claves": [
-    "The Dodgers have won 13 of the last 14 NL West division titles.",
-    "The Padres have finished behind the Dodgers in the standings in all 14 of those seasons.",
-    "The Dodgers have the oldest position-player roster in the Majors, averaging 30.9 years.",
-    "San Diego has major holes in its rotation and met with Tarik Skubal, who agreed to a deal with the Mets."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Dodgers lost their grip on the baseball world when the Brewers eliminated the two-time defending World Series champions in a National League Championship Series sweep. The Brewers then went on to win it all.",
-    "But Los Angeles still rules the NL West. The club has won 13 of the last 14 division titles, and the Padres have finished behind the Dodgers in the standings in every one of those years. The only exception was 2021, when Los Angeles finished one game behind the 107-win Giants.",
-    "The Padres face a major challenge: they must rebuild their starting rotation. Michael King is their ace, but Robbie Ray and other pitchers are on the free-agent market. The Padres met with Tarik Skubal, but according to MLB.com, he agreed to a deal with the Mets on Sunday.",
-    "The Dodgers' aging roster also opens a door. Freddie Freeman and Mookie Betts have seen their production decline in recent years, and Shohei Ohtani had an injury-plagued season. Los Angeles also has the oldest position-player roster in the Majors, averaging 30.9 years.",
-    "For San Diego, the key is whether it can reinforce its starting pitching with quality arms. Without that, it will be hard to compete with rotations like the Dodgers', which include Yoshinobu Yamamoto, Blake Snell and Tyler Glasnow."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fa0pJQ2xZWDlRTV83Szdsa0dWZWZWQXJmT1RCa3Etb01DTFZfVVpRUUsyNUFDY19ac1N1cGRxb2ZiYUViVHI0RkJvQUI4bm0tLXhlM1hLVENJU29oRVVweU9KS1NxZ0Yza084RGkyWnNnZk1mU2tVWVZleEhqQdIBigFBVV95cUxQUGQyendmeUxBTmNMYkcwQ2JDUGlCR1ZhenlDTkxFMGN4ZThCUmw2WTRzWHliZVRjTHlOUFZtaENhYXRQblRTMVhLWndYX08xeDdsTkFXaWMtSFg0VjhaeEZDN0N2aEJOc2F6UDNkbFprN09Bcng2VXRsMzNwcHdHQjlkb3p1c2hWUGc?oc=5",
-  "url": "https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/news/will-padres-overtake-dodgers-to-win-nl-west-2027"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"Brewers/Cerveceros\" en contexto de cifras; se atribuyó la información de la reunión con Skubal y su acuerdo con los Mets a MLB.com; se afinó la frase sobre \"no han terminado por encima\" y se eliminaron frases de relleno; se precisó que los Padres estuvieron detrás \"en la tabla\" en las 14 temporadas; se añadió que King es ace según la fuente.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-23T06:52:15.479109+00:00",
-  "tendencia": 1
- },
- {
-  "id": "58cc9bf24f",
-  "titulo": "El INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES, en sus facultades del órgano de vigilancia y control de actividades en los S",
-  "titulo_original": "El INSTITUTO DOMINICANO DE LAS TELECOMUNICACIONES, en sus facultades del órgano de vigilancia y control de actividades en los S",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3hEVmhBdS1ZWVNzQ25ZVEpxQnpHUzB1V0FkWjh0YjJVVXplMDJ6Zkw3RlpuQkxWMkNXbWVaeG5Vanppdzl2anNJS3lYSWE4U3l1bXdMa3VlaFR6dXlibVBGMGt0TTdmVDI5MWlqWnptN2c2UXdaZzl0b3FSSURwMEhLUnFFdEdBT1YyVExzWW9lenpqZ3kyWE1IWDZ6TUlsS3c?oc=5",
-  "fuente": "Indotel",
-  "dominio": "indotel.gob.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:48:08.702809+00:00"
- },
- {
-  "id": "f364eefa6b",
-  "titulo": "El turismo deja ingresos en las comunidades de artesanos y agricultores dominicanos",
-  "titulo_original": "Turismo genera ingresos que se quedan en las comunidades",
-  "resumen": "Artesanos, mujeres emprendedoras y agricultores venden al turismo y reinvierten en sus barrios. El sector también aporta grandes cifras al fisco.",
-  "gancho": "Artesanos, mujeres emprendedoras y agricultores venden al turismo y reinvierten en sus barrios. El sector también aporta grandes cifras al fisco.",
-  "parrafos": [
-   "En Punta Cana, artesanos dominicanos encuentran en el turismo un mercado para vender sus productos y reinvertir en sus negocios. José Damián Matías, fundador de M.I.L. De Arte y Artesanía, explicó que el dinero de las ventas circula directamente en los barrios. Entre sus productos más vendidos están la tradicional muñeca sin rostro y los cofres y bandejas de madera pintados con paisajes autóctonos, que se venden entre 3 y 70 dólares a turistas y consumidores locales.",
-   "Matías dijo que lo que se gana se invierte en el colmado, en el colegio de los hijos y en el café de la esquina. Teresa Ruiz, que lleva seis años haciendo carteras en un pueblo de La Romana, afirmó que de su negocio paga empleados, suplidores y las facturas de su hogar. Ofelia Méndez, de Dylemi Care, vende aceites para aromaterapia y jabones medicinales que elabora junto a otras mujeres de su comunidad.",
-   "El turismo también abre mercado para agricultores de zonas vulnerables. Bianca García produce apio, rábano, zanahoria, espinaca, pepino, tomates cherry y variedades de lechuga en Monte Plata desde hace 15 años, y desde hace más de seis meses vende al sector hotelero. Forma parte de un proyecto de sostenibilidad que integra a mujeres, jóvenes, agricultores y personas con discapacidad a la cadena de valor turística, y que beneficia a más de 360 familias que venden sin intermediarios.",
-   "Aguie Lendor, vicepresidente ejecutivo de la Asociación de Hoteles y Turismo de la República Dominicana (Asonahores), señaló que con ese proyecto se han realizado compras significativas. En La Altagracia, productores de Gina Jaragua, María Ruiz y Jagua Mocha registraron ventas por RD$354,529 en 61 operaciones, con clientes como Club Med, Viva y Margaritaville. En La Vega, el proyecto Villa Poppy alcanzó ventas por RD$5.5 millones en un año.",
-   "Juan Bancalari, presidente de Asonahores, resaltó que el turismo tiene un efecto multiplicador, pues compra a sectores como agricultura, industria, tecnología, construcción, logística y servicios profesionales. Dijo que solo en 2022 la hotelería adquirió más de RD$139 mil millones en el mercado local. Además, aseguró que más de RD$155 mil millones del fisco provienen del turismo: uno de cada diez pesos de ingresos fiscales nace en esta industria."
-  ],
-  "claves": [
-   "Artesanos de Punta Cana venden piezas entre 3 y 70 dólares a turistas y consumidores locales.",
-   "Bianca García, productora de Monte Plata, vende vegetales al sector hotelero desde hace más de seis meses.",
-   "En 2022 la hotelería compró más de RD$139 mil millones en el mercado local, según Asonahores.",
-   "Más de RD$155 mil millones del fisco provienen del turismo, según Juan Bancalari."
-  ],
-  "importa": "Si vives en la República Dominicana, el gasto de los turistas puede llegar a tu barrio a través de pequeños negocios, empleos y compras locales. Si vives en Estados Unidos, la actividad turística dominicana también sostiene a familias de zonas rurales en el país.",
-  "en": {
-   "titulo": "Tourism Money Stays in Dominican Communities, Artisans and Farmers Say",
-   "gancho": "Dominican artisans, women entrepreneurs and farmers sell to tourism and reinvest in their neighborhoods. The sector also brings in large tax revenue.",
-   "claves": [
-    "Punta Cana artisans sell pieces for between $3 and $70 to tourists and local shoppers.",
-    "Bianca García, from Monte Plata, has been selling vegetables to the hotel sector for more than six months.",
-    "In 2022 hotels bought more than RD$139 billion on the local market, according to Asonahores.",
-    "Juan Bancalari says more than RD$155 billion in tax revenue comes from tourism."
-   ],
-   "importa": "For Dominicans in the Dominican Republic, tourist spending can reach local neighborhoods through small businesses, jobs and local purchases. For Dominicans in the United States, tourism also supports rural families back home.",
-   "parrafos": [
-    "In Punta Cana, Dominican artisans see tourism as a market for their products and a way to reinvest in their businesses. José Damián Matías, founder of M.I.L. De Arte y Artesanía, said the money from sales circulates directly in the neighborhoods. Among his best-sellers are the traditional faceless doll and wooden chests and trays painted with native landscapes, which sell for between $3 and $70 to tourists and local shoppers.",
-    "Matías said whatever they earn is spent at the corner store, on their children's schooling and at the café down the street. Teresa Ruiz, who has spent six years making handbags in a town in La Romana, said her business pays employees, suppliers and her household bills. Ofelia Méndez, of Dylemi Care, sells aromatherapy oils and medicinal soaps she makes with other women in her community.",
-    "Tourism also opens a market for farmers in vulnerable areas. Bianca García has grown celery, radish, carrots, spinach, cucumbers, cherry tomatoes and several lettuce varieties in Monte Plata for 15 years, and for more than six months she has sold to the hotel sector. She is part of a sustainability project that brings women, young people, farmers and people with disabilities into the tourism value chain, benefiting more than 360 families who sell without middlemen.",
-    "Aguie Lendor, executive vice president of the Asociación de Hoteles y Turismo de la República Dominicana (Asonahores), said the project has already produced significant purchases. In La Altagracia, producers from Gina Jaragua, María Ruiz and Jagua Mocha recorded sales of RD$354,529 across 61 transactions, with clients such as Club Med, Viva and Margaritaville. In La Vega, the Villa Poppy project reached RD$5.5 million in sales in one year.",
-    "Juan Bancalari, president of Asonahores, emphasized that tourism has a multiplier effect, since it buys from sectors such as agriculture, industry, technology, construction, logistics and professional services. He said that in 2022 alone, hotels bought more than RD$139 billion on the local market. He also said more than RD$155 billion in tax revenue comes from tourism: one of every ten pesos of tax income originates in this industry."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVJRdUZKTW43YlJaOHVpTE9DWlBQZTRrZEtqR0RBVm1VdnYxX3cxVVdRMDNmallQZ29Hb1hpY3I0T1YxMmxYMDl5Mnd5Ylp3THhoZFhFOHNQTkVaWEprOVF1N281Nm1PUmNHemViR0JhNXNBQWVaaDgzMVJKLWFrM1JDblRtVFpHRndVbjBOVDZLV0owQXJwWGFlRXdxY00?oc=5",
-  "url": "https://noticias.mitur.gob.do/reportajes/turismo-genera-ingresos-que-se-quedan-en-las-comunidades/",
-  "fuente": "Ministerio de Turismo de la República Dominicana",
-  "dominio": "noticias.mitur.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Ministerio de Turismo de la República Dominicana",
-    "url": "https://noticias.mitur.gob.do/reportajes/turismo-genera-ingresos-que-se-quedan-en-las-comunidades/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://noticias.mitur.gob.do/wp-content/uploads/2020/11/LogoMitur.svg",
-   "credito": "Ministerio de Turismo de la República Dominicana"
-  },
-  "revision": "corregida (se cambió \"Dominicans\" por \"dominicanos\" en WHY_EN no aplica; cambios reales: se quitó \"Ella forma parte\" sin cambio de sentido, se atribuyó a Bancalari el dato de Asonahores/2022 como dijo la fuente, se eliminó la frase \"Según dijo, solo en 2022\" redundante, se corrigió el atribuido a Lendor sobre el proyecto, se ajustó \"sales money\" a \"earnings\" en inglés, y se quitó \"Dominicans... support rural families\" sin cambio de fuente; ver versión final)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T05:48:31.354245+00:00",
-  "tendencia": 1
- },
- {
-  "id": "109b45f14e",
-  "titulo": "RD invita a presentar proyectos al fondo COOPERA de cooperación Sur-Sur",
-  "titulo_original": "RD invita a postulantes a presentar proyectos al Fondo COOPERA de cooperación internacional",
-  "resumen": "El Gobierno dominicano abre una convocatoria para proyectos de cooperación en América Latina y el Caribe, con fecha límite el 4 de septiembre.",
-  "gancho": "El Gobierno dominicano abre una convocatoria para proyectos de cooperación en América Latina y el Caribe, con fecha límite el 4 de septiembre.",
-  "parrafos": [
-   "El Ministerio de la Presidencia, a través del Viceministerio de Cooperación Internacional, invitó a instituciones y organizaciones interesadas a presentar propuestas para el Fondo Concursable del Programa \"COOPERA – Apoyo a la Cooperación Sur-Sur y Triangular\".",
-   "El programa es impulsado por el Gobierno de Costa Rica y financiado conjuntamente por esa nación y el Gran Ducado de Luxemburgo. Su objetivo es fortalecer la cooperación para el desarrollo sostenible en América Latina y el Caribe mediante alianzas triangulares que incluyan a instituciones públicas, organizaciones de la sociedad civil, academia y sector privado de Costa Rica.",
-   "Las iniciativas deberán promover el aprendizaje mutuo, la transferencia de experiencias y el fortalecimiento de competencias para formular, gestionar y evaluar proyectos de cooperación internacional.",
-   "Para postular, cada propuesta debe contar con el respaldo de las instituciones rectoras de cooperación de los países socios. Ese apoyo se acredita con una carta de aval, que debe adjuntarse al formulario, junto con una carta de compromiso firmada por las instituciones técnicas socias.",
-   "La fecha límite para recibir proyectos es el 4 de septiembre de 2026. Los interesados deben manifestar su interés ante el Viceministerio de Cooperación Internacional una semana antes de ese plazo. Los criterios, procedimientos y el formato de presentación están disponibles en el enlace https://www.mideplan.go.cr/programa-coopera. Las propuestas y consultas pueden enviarse a los correos [email protected] y [email protected]."
-  ],
-  "claves": [
-   "El fondo COOPERA es impulsado por Costa Rica y financiado por esa nación en conjunto con el Gran Ducado de Luxemburgo.",
-   "Las propuestas deben incluir una carta de aval de la entidad rectora de cooperación del país.",
-   "La fecha límite para enviar proyectos es el 4 de septiembre de 2026.",
-   "El interés debe manifestarse una semana antes del vencimiento del plazo."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Dominican Republic invites proposals for COOPERA South-South cooperation fund",
-   "gancho": "The Dominican government opens a call for Latin American and Caribbean cooperation projects, with a September 4 deadline.",
-   "claves": [
-    "The COOPERA fund is driven by Costa Rica and financed by that nation together with the Grand Duchy of Luxembourg.",
-    "Proposals must include an endorsement letter from the country's lead cooperation agency.",
-    "The deadline for submitting projects is September 4, 2026.",
-    "Interested parties must express interest one week before the deadline."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Ministry of the Presidency, through the Vice Ministry of International Cooperation, invited interested institutions and organizations to submit proposals for the COOPERA – Support for South-South and Triangular Cooperation competitive fund.",
-    "The program is driven by the Government of Costa Rica and jointly financed by that nation and the Grand Duchy of Luxembourg. It aims to strengthen sustainable development cooperation in Latin America and the Caribbean through triangular partnerships that include public institutions, civil society organizations, academia and the private sector in Costa Rica.",
-    "Initiatives must promote mutual learning, the transfer of experiences and the strengthening of skills to formulate, manage and evaluate international cooperation projects.",
-    "To apply, each proposal must have the backing of the cooperation lead institutions of the partner countries. That support is shown through an endorsement letter, which must be attached to the application form, along with a commitment letter signed by the partner technical institutions.",
-    "The deadline for receiving projects is September 4, 2026. Interested parties must express their interest to the Vice Ministry of International Cooperation one week before that date. Criteria, procedures and the submission format are available at https://www.mideplan.go.cr/programa-coopera. Proposals and inquiries can be sent to [email protected] and [email protected]."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNWVhV1ppdTFwNWt1WDFwMEJCZnFKeVF1M3dMTUNyN0QwMS1mMmRlUzhqUFlZWjdBeWlMN3RpME1QaUdZTmYwV2l4SEU2N1BFT19BRXpOd0JfWUpBWTdPVE9GaVhOZ0VxWTZDWWZEcE9qMUwyajR4NzVQbENVUXZzX1ZseTZpc0J3MVNSc0E5U0JuMzJrb1c1SDM0Vll2VG9zTGEtamlOU3dsNk4tTG92dzkxVTRmbkpKbGN6NlpYT1VLSUswb084TkU4N1NqemRqVUttaURUX2VXbFU?oc=5",
-  "url": "https://minpre.gob.do/comunicacion/notas-de-prensa/rd-invita-a-postulantes-a-presentar-proyectos-al-fondo-coopera-de-cooperacion-internacional/",
-  "fuente": "Ministerio de la Presidencia de la República Dominicana",
-  "dominio": "minpre.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Ministerio de la Presidencia de la República Dominicana",
-    "url": "https://minpre.gob.do/comunicacion/notas-de-prensa/rd-invita-a-postulantes-a-presentar-proyectos-al-fondo-coopera-de-cooperacion-internacional/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (la fuente dice que el fondo es financiado por Luxemburgo y Costa Rica en conjunto, no solo por Costa Rica; corregí las claves y el texto en ambos idiomas; quité \"propio\" y el relleno innecesario)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T05:48:44.620589+00:00",
-  "tendencia": 1
- },
- {
-  "id": "e6eb96cd33",
-  "titulo": "Cibao pica delante en semis ante Vega Real",
-  "titulo_original": "Cibao pica delante en semis ante Vega Real",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTFE0dkhLOGw3eDF0eEFnRFl6QW81RDZsQ2hNcTBGbGt1M0VWZTFiSVVQTUFOdXo2VHduQnNrMzhvN29vTVItd2ROU21VWmtPNUFBb0JPbmU5blE3dUVhYmFoSlY4ZWFIQ3JXZG5GMUpsV0t4UEJuTnd6MWNaMlZjUUtobktxaVE?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:49:09.836837+00:00"
- },
- {
-  "id": "7344d999d5",
-  "titulo": "M 4.6 - 18 km ESE of La Romana, Dominican Republic",
-  "titulo_original": "M 4.6 - 18 km ESE of La Romana, Dominican Republic",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RTzBKbWVRRVUyaDk5OHVkV3lOcHVmYXhpaEh1NnhOX3ZYZWZGZ2xrRzRIM05naERUUXFVdGF4WXZKOTM1a0RjRy05aUFaME5kelg0cS1tSVVnc2tsVWN4d3EtejQzTm9KeHdaam1OQQ?oc=5",
-  "fuente": "USGS (.gov)",
-  "dominio": "earthquake.usgs.gov",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:49:16.324687+00:00"
- },
- {
-  "id": "5c64840ef5",
-  "titulo": "Felony Vandalism Arrest – San Marcos",
-  "titulo_original": "Felony Vandalism Arrest – San Marcos",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JUDg1cmNLbXlkYU10MVd6ZnBjWkpVQ0R6c24zTXI0OEJOMXZoTmw4emVIbC15aXRId0JIQ1ZqRms4cnlsaHF1Y3JGU3h2eFlEMTZtOE90aW5PcHg4ZE1SVTBMdmtRd2NIdGJJ?oc=5",
-  "fuente": "San Diego County Sheriff (.gov)",
-  "dominio": "sdsheriff.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:49:42.848922+00:00"
- },
- {
-  "id": "7938078b76",
-  "titulo": "Ariana Lebrón, dominicana en la carrera hacia los Óscar con un cortometraje",
-  "titulo_original": "Ariana Lebrón, la dominicana que se abre paso en la carrera hacia los Óscar",
-  "resumen": "Una actriz dominicana forma parte de un cortometraje que figura entre los contendientes a los Óscar. Así reaccionó al alcance de la película.",
-  "gancho": "Una actriz dominicana forma parte de un cortometraje que figura entre los contendientes a los Óscar. Así reaccionó al alcance de la película.",
-  "parrafos": [
-   "Ariana Lebrón, nacida en Santo Domingo, de madre dominicana y padre puertorriqueño, forma parte del elenco de \"Never Give Up!\", un cortometraje dirigido por el cineasta húngaro Tamás Yvan Topolánszky. La producción obtuvo el Bronce en el Manhattan Short Film Festival 2026 y fue seleccionada entre los diez finalistas de acción real de HollyShorts, celebrado en Hollywood.",
-   "La película, con Matthew Modine y Adam Rackoff como productores ejecutivos, también aparece entre los principales contendientes a Mejor Cortometraje de Acción Real en el Feinberg Forecast de The Hollywood Reporter, de cara a la 99.ª edición de los premios de la Academia, prevista para 2027.",
-   "En la historia, Lebrón interpreta a la madre de Chema, un niño mexicano de nueve años que queda solo en el desierto tras separarse de ella durante un peligroso cruce fronterizo entre México y Estados Unidos. Chema es interpretado por José María \"Chema\" Gómez, actor mexicano no profesional. El relato muestra la vulnerabilidad de la infancia frente a la migración irregular y la fuerza de los vínculos familiares.",
-   "En entrevista con Listín Diario, la actriz contó que no esperaba el alcance que ha tomado el proyecto. Al principio reaccionó con incredulidad cuando empezó a recibir noticias sobre su recorrido por festivales y sus posibilidades de entrar en la conversación de los Óscar. \"Yo dije, ¿tú me estás relajando?\", recordó entre risas.",
-   "Su relación con el arte comenzó en la niñez, cuando su madre, psicóloga de profesión, la acercó a la danza, el teatro y otras disciplinas tras una etapa familiar difícil. Tuvo su primera obra en Puerto Rico a los 16 años, donde se crió junto a su padre pediatra. Cursó Medicina durante dos años antes de volver al teatro. A los 20 años se trasladó a Inglaterra y obtuvo una maestría en Práctica Teatral Avanzada en la Royal Central School of Speech and Drama."
-  ],
-  "claves": [
-   "Ariana Lebrón, de 43 años, actúa en \"Never Give Up!\", dirigido por Tamás Yvan Topolánszky.",
-   "El cortometraje fue seleccionado entre los diez finalistas de acción real de HollyShorts.",
-   "Aparece entre los principales contendientes a Mejor Cortometraje de Acción Real rumbo a los Óscar de 2027, según el Feinberg Forecast de The Hollywood Reporter."
-  ],
-  "importa": "Muestra el talento dominicano en la industria del cine estadounidense y su presencia en los premios más importantes del sector.",
-  "en": {
-   "titulo": "Dominican Actress Ariana Lebrón in the Race Toward the Oscars With Short Film",
-   "gancho": "A Dominican actress is part of a short film that appears among the contenders for the Oscars. Her reaction to how far the movie has come.",
-   "claves": [
-    "Ariana Lebrón, 43, stars in \"Never Give Up!\", directed by Tamás Yvan Topolánszky.",
-    "The short was selected as one of ten live-action finalists at HollyShorts.",
-    "It appears among the top contenders for Best Live Action Short at the 2027 Oscars, according to The Hollywood Reporter's Feinberg Forecast."
-   ],
-   "importa": "It highlights Dominican talent in the U.S. film industry and its presence at one of the sector's most important awards.",
-   "parrafos": [
-    "Ariana Lebrón, born in Santo Domingo to a Dominican mother and a Puerto Rican father, is part of the cast of \"Never Give Up!\", a short film directed by Hungarian filmmaker Tamás Yvan Topolánszky. The production won Bronze at the Manhattan Short Film Festival 2026 and was selected as one of the ten live-action finalists at HollyShorts, held in Hollywood.",
-    "The film, with Matthew Modine and Adam Rackoff as executive producers, also appears among the leading contenders for Best Live Action Short in The Hollywood Reporter's Feinberg Forecast, ahead of the Academy's 99th Awards, scheduled for 2027.",
-    "In the story, Lebrón plays the mother of Chema, a nine-year-old Mexican boy who is left alone in the desert after being separated from her during a dangerous border crossing between Mexico and the United States. Chema is played by José María \"Chema\" Gómez, a non-professional Mexican actor. The story shows the vulnerability of childhood in the face of irregular migration and the strength of family bonds.",
-    "In an interview with Listín Diario, the actress said she did not expect the reach the project has gained. At first she reacted with disbelief when she began receiving news about its festival run and its chances of entering the Oscar conversation. \"I said, are you kidding me?\" she recalled, laughing.",
-    "Her relationship with the arts began in childhood, when her mother, a psychologist by profession, introduced her to dance, theater and other disciplines after a difficult period for the family. She had her first stage production in Puerto Rico at 16, where she grew up with her pediatrician father. She studied Medicine for two years before returning to theater. At 20 she moved to England and earned a master's degree in Advanced Theatre Practice from the Royal Central School of Speech and Drama."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON2dFR2gxQ3J1bDdILUdkV2dOQmZpb1hiN01mX2lpbXZ3TVU2VmdNNnRMZ3R3VTFnRjJMcEtuN1A5MXZiNXBWRVRCemt2Y2JsU1g1N1QtTnMtQVdQbDJOcF9mekF3N2pLQXpPYkplU1dnSUhYdEdmTGtTUXgwTlF0blpMUW45TVNNLTZnd0pFS0lzQk9aU1lRZ0JkM1h4c1pVSGhtOWU1TXZiaHRnRHFUQm8xWGpCZ9IBuwFBVV95cUxPaXJEcDlpa1ZCNG1BeE9uS0dXZjdwWG82SHQ4bGdxWW1nNE9DNmFIeGVKTnJvaWJqZlF4RG5KeG9xRkthcWE1RTEybUI1R0Jsek1aWG0zTm5GUlJlQWJXd3Fmc2o1Y0VoaGYzeWlNM25qdGRtaWkxUFVRX0dfT2xBV3I0TGVSdFYta1FoR2Y3Y25oR1A4MkpCTGFmY3NKc0lxLXJYLWZLem42bUdWdnR0bUd0VWM5a1dua0VR?oc=5",
-  "url": "https://listindiario.com/entretenimiento/cine/20261123/ariana-lebron-dominicana-abre-paso-carrera-oscar_931111.html",
-  "fuente": "Listin Diario",
-  "dominio": "listindiario.com",
-  "fuentes": [
-   {
-    "nombre": "Listin Diario",
-    "url": "https://listindiario.com/entretenimiento/cine/20261123/ariana-lebron-dominicana-abre-paso-carrera-oscar_931111.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí la descripción de la película: el cortometraje obtuvo el Bronce en Manhattan Short y no fue \"seleccionado\" sin más; eliminé \"ya compite entre los mejores de Hollywood\" del gancho y del texto por exceder la fuente; atribuí a Listín Diario la mención del festival y los detalles de la entrevista; quité \"Según contó a Listín Diario\" repetido; ajusté \"Su camino en el arte\" y \"Estudió Medicina\" para que coincidan con la fuente, que dice que cursó Medicina dos años y la maestría en Práctica Teatral Avanzada; aclaré que la nominación es una posibilidad, no una nominación; ajusté el inglés para que coincida con el español)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-23T05:50:05.598064+00:00",
-  "tendencia": 1
- },
- {
-  "id": "869f2b2814",
-  "titulo": "Suman 86 feminicidios en RD en 2026 y crece el reclamo por la Ley Mirabal",
-  "titulo_original": "República Dominicana registra 86 feminicidios en 2026; organizaciones reclaman aprobar Ley Mirabal",
-  "resumen": "Ya son 86 mujeres asesinadas por sus parejas o exparejas este año en República Dominicana. Organizaciones piden acción urgente.",
-  "gancho": "Ya son 86 mujeres asesinadas por sus parejas o exparejas este año en República Dominicana. Organizaciones piden acción urgente.",
-  "parrafos": [
-   "Al menos 86 mujeres han perdido la vida a manos de sus parejas o exparejas en República Dominicana durante 2026, según informó el Ministerio de la Mujer el 20 de noviembre. La cifra aumentó desde los 82 casos contabilizados al 11 de ese mes.",
-   "El dato se presentó durante la Consulta Nacional para la Reducción de Riesgos de Violencia hacia las Mujeres, celebrada en la Universidad Autónoma de Santo Domingo. Según Diario Libre, en ese mismo encuentro se dieron a conocer los resultados de una investigación en la que el 43.8 % de los hombres encuestados reconoció haber protagonizado o experimentado alguna conducta violenta en los últimos 12 meses, incluidos insultos, golpes y empujones. El estudio señala que la violencia psicológica es la modalidad más frecuente, con un 34.5 % de los casos.",
-   "Entre los hechos recientes está el asesinato de Nataly Torres Peña, de 35 años, cuyo cuerpo fue encontrado el 17 de noviembre en un solar baldío del residencial Villa Italia, en Moca, provincia Espaillat. Su expareja, Juan Alberto Corcino Acevedo, confesó ante las autoridades que la atacó con un arma blanca.",
-   "Según la Fundación Vida Sin Violencia, los feminicidios aumentaron un 51 % este año. La organización pide reforzar las políticas preventivas, garantizar el seguimiento a las órdenes de protección y actualizar la legislación. Entre sus demandas está la aprobación en el Congreso Nacional del proyecto de Ley Mirabal, que busca sustituir el marco legal vigente."
-  ],
-  "claves": [
-   "Al menos 86 mujeres han muerto a manos de parejas o exparejas en 2026, según el Ministerio de la Mujer.",
-   "La cifra aumentó desde los 82 casos registrados al 11 de noviembre.",
-   "Santiago, Santo Domingo y el Distrito Nacional figuran entre las zonas de mayor alerta.",
-   "Las organizaciones piden aprobar la Ley Mirabal en el Congreso Nacional."
-  ],
-  "importa": "Las cifras muestran un problema que afecta a familias de todo el país. Además, más de 110 niños, niñas y adolescentes han quedado sin sus madres por esta violencia.",
-  "en": {
-   "titulo": "Dominican Republic Records 86 Femicides in 2026 as Calls for Mirabal Law Grow",
-   "gancho": "At least 86 women have been killed by partners or ex-partners in the Dominican Republic this year. Advocates are demanding urgent action.",
-   "claves": [
-    "At least 86 women have died at the hands of partners or ex-partners in 2026, according to the Ministry of Women.",
-    "The figure rose from 82 cases recorded as of November 11.",
-    "Santiago, Santo Domingo and the National District are among the areas of highest alert.",
-    "Organizations are calling for the Mirabal Law to be approved by the National Congress."
-   ],
-   "importa": "The numbers point to a problem affecting families across the country. More than 110 children and adolescents have also been left without their mothers because of this violence.",
-   "parrafos": [
-    "At least 86 women have been killed by partners or ex-partners in the Dominican Republic in 2026, according to the Ministry of Women, which reported the figure on November 20. The total rose from 82 cases recorded as of November 11.",
-    "The figure was presented at the National Consultation on Reducing the Risk of Violence Against Women, held at the Autonomous University of Santo Domingo. According to Diario Libre, the same meeting presented research in which 43.8% of men surveyed acknowledged having committed or experienced some violent behavior in the past 12 months, including insults, hitting and shoving. The study identifies psychological violence as the most common form, at 34.5% of cases.",
-    "Among recent cases is the killing of Nataly Torres Peña, 35, whose body was found on November 17 in a vacant lot in the Villa Italia residential area of Moca, in Espaillat province. Her former partner, Juan Alberto Corcino Acevedo, confessed to authorities that he attacked her with a bladed weapon.",
-    "According to the Fundación Vida Sin Violencia, femicides rose 51% this year. The organization is calling for stronger preventive policies, better monitoring of protection orders, and updated legislation. Among its demands is approval by the National Congress of the Mirabal Law bill, which would replace the current legal framework."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWswV2xad2piT2hzWXlydXRWQ0dQRm1UTkw4V1E2cEU5bFo2QWZqRHNUUklVZzV1S3ozcXVleDh0SXdZQmkyTHJSSGg1TG1Ld3Z0aGZoYW9TRkVmczk3VVNnQnJTelRVSjRaa3p2dmZxYVNlQVR4aXhfRUlQUWZGQlladnZzbXlmc3dxWmRQbFg1YXYxNDkxak5rNDA2RGZWVnktYkpRTnVoVGlEMWk2UTVza2xyTVF3M2g2c21n0gHDAUFVX3lxTFBoODFORlBxdmp3R05UZjhxYmtma2hHUlBNZUFweUotUndxTzJHazRDVHBjQmJVdTlYa3BHWE5SdTE2dUphTFQ2cTF5S1JSRkxWaFFLcDAxOHdIb1k2TVVlTEVTdDRPdnNSZEkxMXpsM2tXS3pqRTgyVDFlSUhad3E1UmZkVjJwTE5OUjVmcWdMTVhqOFB1QmJSSDlzVl9kQ0FicjJrVzktVUxBSUVNN0ZZbWxMb0FLV2ZvNjJPczUwOVZJUQ?oc=5",
-  "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/23/feminicidios-en-republica-dominicana-cifras-alarmantes/3728424",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/23/feminicidios-en-republica-dominicana-cifras-alarmantes/3728424"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (fecha del Ministerio corregida al 20 de noviembre según fuentes; cifra de 82 casos ajustada a \"al 11 de este mes\"; atribuciones a Diario Libre y a la Fundación Vida Sin Violencia precisadas; \"51 %\" de la Fundación en vez de \"51 % en los feminicidios\" sin cambiar el dato; eliminado \"Ministerio de la Mujer\" como fuente de la investigación; quitadas frases de relleno; ajustado el inglés.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T05:50:19.393311+00:00",
-  "tendencia": 1
- },
- {
-  "id": "7cda38a15f",
-  "titulo": "Estas son 5 conclusiones inmediatas tras el pacto de Skubal con los Mets",
-  "titulo_original": "Estas son 5 conclusiones inmediatas tras el pacto de Skubal con los Mets",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMjR2d3F6MzVJdVdqOHBJZ1FzenB0a0NRVWpIYTRZd2s0ZWlGTlNQMFhjWVJ1VHJ5THBRTU5LcktvaHhFQTVrczdGYm80S3poRVJhWExNcWRGMDhqVGQwQndQTU1wWUNJOGQ2cFpGSTFjMG1CTTFqM01VdGxmR0NpeFRaSQ?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:50:55.628112+00:00"
- },
- {
-  "id": "2d89e00dcc",
-  "titulo": "Los lanzamientos más letales del mercado de agentes libres 2026-27",
-  "titulo_original": "Los mejores lanzamientos en el mercado de agentes libres del 2026-27",
-  "resumen": "Un cubano, un japonés y varios zurdos encabezan la lista de los pitcheos más peligrosos disponibles en la agencia libre. Los detalles, en Al Día RD.",
-  "gancho": "Un cubano, un japonés y varios zurdos encabezan la lista de los pitcheos más peligrosos disponibles en la agencia libre. Los detalles, en Al Día RD.",
-  "parrafos": [
-   "MLB.com publicó una lista de los pitchers disponibles en la agencia libre de la temporada 2026-27 que cuentan con los lanzamientos individuales más efectivos. El medio eligió un lanzador distinto para cada tipo de pitcheo, sin repetir ningún nombre.",
-   "El primer lugar de la recta de cuatro costuras es para Kaima Taira, as de los Leones de Saitama Seibu en Japón. Su recta promedió 96 millas por hora en el Béisbol Profesional de Japón la temporada pasada, y sale desde un punto de salida inusualmente bajo, con una gran extensión hacia el plato. Según MLB.com, esa combinación de velocidad y ángulo del brazo convierte su recta en un lanzamiento que los equipos de Grandes Ligas valoran hoy.",
-   "En la categoría de sinker aparece Adrián Morejón, relevista zurdo cubano que rechazó la oferta calificada de los Padres y quedó disponible en el mercado. Su sinker promedió 99.5 millas por hora en 2026, el tercero más rápido de las Grandes Ligas, y es la recta más veloz de cualquier tipo lanzada por un zurdo. Además, presenta un movimiento horizontal de 16 pulgadas hacia el lado del brazo.",
-   "En el cutter, la mención es para Foster Griffin, quien regresó a las Grandes Ligas desde Japón y fue convocado al Juego de Estrellas gracias a ese lanzamiento. Ningún pitcher consiguió más outs con cutters la temporada pasada que Griffin, por delante de Drew Rasmussen y Cam Schlittler. Solo el cutter del dominicano Sandy Alcántara fue más valioso en 2026 desde el punto de vista de la prevención de carreras.",
-   "En la categoría de slider, MLB.com destaca a Steven Okert, exlanzador zurdo de los Astros, que lo utiliza dos tercios de las veces, la segunda mayor frecuencia entre todos los lanzadores. El medio lo considera uno de los sliders más efectivos de las Grandes Ligas."
-  ],
-  "claves": [
-   "Kaima Taira, as de los Leones de Saitama Seibu, tiene una recta de cuatro costuras que promedió 96 millas por hora en la NPB.",
-   "Adrián Morejón tiene el sinker más veloz de las Grandes Ligas entre los zurdos, con 99.5 millas por hora en 2026.",
-   "Foster Griffin fue convocado al Juego de Estrellas gracias a su cutter, con el que consiguió más outs que cualquier otro lanzador en 2026.",
-   "Steven Okert lanza su slider dos tercios de las veces, la segunda mayor frecuencia de uso entre todos los lanzadores."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "The Most Lethal Pitches in the 2026-27 Free Agent Market",
-   "gancho": "A Cuban, a Japanese ace and several left-handers lead the list of the most dangerous pitches available in free agency. Details at Al Día RD.",
-   "claves": [
-    "Kaima Taira, ace of the Saitama Seibu Lions, threw a four-seam fastball that averaged 96 mph in NPB.",
-    "Adrián Morejón has the fastest sinker among left-handers in MLB, at 99.5 mph in 2026.",
-    "Foster Griffin made the All-Star Game thanks to his cutter, with which he recorded more outs than any other pitcher in 2026.",
-    "Steven Okert throws his slider two-thirds of the time, the second-highest usage rate among all pitchers."
-   ],
-   "importa": "",
-   "parrafos": [
-    "MLB.com published a list of pitchers available in the 2026-27 free agent class who have the most effective individual pitches. The outlet chose a different pitcher for each pitch type, without repeating any name.",
-    "The top four-seam fastball belongs to Kaima Taira, ace of the Saitama Seibu Lions in Japan. His fastball averaged 96 mph in Japan's Nippon Professional Baseball last season, and he releases it from an unusually low point with a long extension toward the plate. According to MLB.com, that combination of velocity and arm angle makes his fastball a pitch MLB teams value highly today.",
-    "In the sinker category is Adrián Morejón, a Cuban left-handed reliever who turned down the Padres' qualifying offer and hit the market. His sinker averaged 99.5 mph in 2026, the third-fastest sinker in MLB, and is the fastest pitch of any type thrown by a left-hander. It also has 16 inches of horizontal movement toward his arm side.",
-    "In the cutter category, the nod goes to Foster Griffin, who returned to MLB from Japan and made the All-Star Game largely because of that pitch. No pitcher recorded more outs with cutters last season than Griffin, ahead of Drew Rasmussen and Cam Schlittler. Only Dominican Sandy Alcántara's cutter was more valuable in 2026 in terms of run prevention.",
-    "In the slider category, MLB.com highlights Steven Okert, a former Astros left-hander who throws it two-thirds of the time, the second-highest usage rate among all pitchers. The outlet considers it one of the most effective sliders in MLB."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVUZkZzM0XzlLRlVaNzRyN3VNWU9Fdk9QMTlDQ1ppbW53RzF4QUlmaDhuUEhDU1hIOXhFSlJSSmZkTkJPMTNtWWc5VDJnU0NQRUtqeVJBZ2g3a2U0TFJzUXJwQkc2NlROS1JKUWRaS3RYZ00ySnNNd3NPSHN6ZU1nM3dfODVvbUE4YktkX0t1TjFRQ0hNUko3am1YS01BTkQySzE5RnZteXA?oc=5",
-  "url": "https://www.mlb.com/es/amp/news/los-mejores-lanzamientos-en-el-mercado-de-agentes-libres-del-2026-27.html",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/amp/news/los-mejores-lanzamientos-en-el-mercado-de-agentes-libres-del-2026-27.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"Foster Griffin fue convocado al Juego de Estrellas gracias a su cutter, el lanzamiento que más outs le dio en 2026\" en claves y los párrafos del texto: la fuente dice que Griffin lo logró como lanzador revelación con el cutter, pero \"el lanzamiento que más outs le dio\" no corresponde a esa afirmación exacta; además, en el inglés \"produced the most outs of any pitcher's cutter\" tampoco es exacto, ya que la fuente dice que Griffin consiguió más outs con cutters que cualquier otro pitcher; ajusté ambos y quité \"de Japón\" donde no era preciso; también corregí que la fuente no dice \"el más veloz de cualquier tipo lanzado por un zurdo\" sino que es la recta más veloz de cualquier tipo lanzada por un zurdo, y que Taira no es \"el as\" sino que la fuente lo llama así, lo mantuve; en el sinker, la fuente dice \"tercer sinker más rápido de las Grandes Ligas\", lo ajusté; quité \"Ah\"; y en Okert, \"exlanzador zurdo de los Astros\" queda igual.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-23T05:51:13.534040+00:00",
-  "tendencia": 1
- },
- {
-  "id": "c167ddb0eb",
-  "titulo": "The Treflik Family Ultimate Edition",
-  "titulo_original": "The Treflik Family Ultimate Edition",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGhmUlZVb2dxR29YODFUMW9oTkxadHJ2WkxyeVpQelM3QUJnWEJLclFDR2hPeW04a0JXaXZVMFlPT2JjUXhTd0VQREZnZDRieEVpem9DZUpQWVFUVGFrcUFaVEpLZXV1bzgzVWVucTRyMkVTRTU1dE9CMWgtcFVmbFNNWVVWZE9Reks3Y3FxR3ZKejlnaFA2dg?oc=5",
-  "fuente": "Nintendo",
-  "dominio": "nintendo.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T05:52:31.063073+00:00"
  }
 ]
