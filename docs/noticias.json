@@ -309,7 +309,8 @@
   "ig": "pendiente",
   "ig_img": "ig/e06ae099d8.jpg",
   "historia": "pendiente",
-  "historia_img": "ig/e06ae099d8-h.jpg"
+  "historia_img": "ig/e06ae099d8-h.jpg",
+  "ig_intentos": 1
  },
  {
   "id": "5a330c9be6",
@@ -367,10 +368,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-24T15:51:50.996122+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/5a330c9be6.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/5a330c9be6-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/5a330c9be6-h.jpg",
+  "ig_id": "18644626804000318",
+  "ig_fecha": "2026-11-24T15:56:20.767559+00:00",
+  "historia_fecha": "2026-11-24T15:56:33.748239+00:00"
  },
  {
   "id": "380582d25a",
