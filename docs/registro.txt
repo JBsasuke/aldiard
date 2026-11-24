@@ -1,11 +1,17 @@
-Corrida: 2026-11-24 01:47 AM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2663 letras -> http://www.presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico
+Corrida: 2026-11-24 02:48 AM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2663 letras -> https://presidencia.gob.do/noticias/la-brisita-navidena-2026-impactara-mas-de-27-millones-de-personas-con-bono-economico
 [República Dominicana] Diario Libre: texto leído 5694 letras -> https://www.diariolibre.com/politica/gobierno/2026/11/24/mas-de-27-millones-seran-impactados-con-el-bono-navideno/3729732
 Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Diario Libre
-Rechazada por la revisión: La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico -> cifras que no aparecen en las fuentes: 320000, 433781, 753781
-[República Dominicana] DGII: texto leído 1208 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/solicitud-de-informacin-requisitos-para-certificarnos-como-proveedor-de-servicios-de-facturacin-electrnica/6b0455fd4175d10cffff0f18
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Solicitud de información: requisitos para certificarnos como Proveedor de Servicios de Facturación Electrónica
+Rechazada por la revisión: La Brisita Navideña 2026 impactará a más de 2.7 millones de personas con bono económico -> cifras que no aparecen en las fuentes: 433781
+[República Dominicana] Incart: texto leído 502 letras -> https://incart.gob.do/wp-file-download/reportes-de-cumplimiento-de-encuestas-de-satisfaccion/
+Fuente oficial encontrada: Incart 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Reportes de cumplimiento de Encuestas de Satisfacción archivos
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 0 letras -> https://sigerd.minerd.gob.do/ModuloReportes/Estudiantes/reporte-estudiantes-matricula
+No se pudo leer el artículo; no se publica para no salir corta: - Ministerio de Educación de la República Dominicana
+[República Dominicana] centralnoticias.gob.do: texto leído 3583 letras -> https://centralnoticias.gob.do/con-jornada-mas-salud-y-bienestar-gobierno-lleva-servicios-y-medicamentos-gratuitos-a-nagua/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Revisión: corregida (se quitó "todas gratuitas" de la lista de especialidades porque la fuente dice que los servicios son gratuito
 [República Dominicana] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6721-republica-dominicana-declaracion-final-del-personal-tecnico-al-termino-de-la-mision-de-consulta-del-articulo-iv-correspondiente-a-2026
 Fuente oficial encontrada: Banco Central de la República Dominicana 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Declaración final del personal técnico al término de la misión de consulta del Artículo IV correspondiente a 2026
@@ -23,70 +29,70 @@ Rechazada por la revisión: De la Espriella califica de “bodrio” y “falsa 
 [República Dominicana] www.abc.com.py: texto leído 1955 letras -> https://www.abc.com.py/internacionales/2026/11/23/peru-reporta-mas-de-9100-hectareas-de-cultivos-de-hoja-de-coca-destruidas-durante-2026/?outputType=amp
 Cambiada de sección: República Dominicana -> Internacionales: Perú reporta más de 9.100 hectáreas de cultivos de hoja de coca destruidas durante 2026
 Rechazada por la revisión: Perú reporta más de 9.100 hectáreas de cultivos de hoja de coca destruidas durante 2026 -> cifras que no aparecen en las fuentes: 122, 835
-[República Dominicana] De Último Minuto: texto leído 5331 letras -> https://deultimominuto.com/en/economy/the-basic-food-basket-is-above-the-minimum-wage-and-the-average/
-Cambiada de sección: República Dominicana -> Precios y combustibles: The basic food basket is above the minimum wage and the average
-Rechazada por la revisión: The basic food basket is above the minimum wage and the average -> cifras que no aparecen en las fuentes: 29988
-[República Dominicana] De Último Minuto: texto leído 2708 letras -> https://deultimominuto.com/deportes/beisbol/francisco-cervelli-pide-paciencia-a-las-aguilas-tras-romper-racha-de-seis-derrotas/
-Cambiada de sección: República Dominicana -> Deportes: Francisco Cervelli pide paciencia a las Águilas tras romper racha de seis derrotas
-Revisión: corregida (corregí el récord del Licey de 18-11 a 11-18 y el de los Gigantes a 14-15 en el texto español, cambié "Toros 
 [Dominicanos en EE.UU.] Ministerio de Administración Pública: texto leído 5911 letras -> https://map.gob.do/
 Fuente oficial encontrada: Ministerio de Administración Pública 
-Error IA: ValueError('respuesta sin el formato esperado: Lo que recibí es una página de navegación del sitio del Ministerio de Administración Pública (MAP), no una noticia. El texto está casi todo compuesto por menús, enlaces y elementos de interfaz (inicio')
+Error IA: ValueError('respuesta sin el formato esperado: Tu mensaje incluye solo una versión, del Ministerio de Administración Pública, y el texto que pegaste es en su mayoría menú de navegación y enlaces del sitio, sin el cuerpo de una noticia concreta. Es')
+[Dominicanos en EE.UU.] Palmarejo Villa Linda: texto leído 3274 letras -> https://www.distritomunicipalpalmarejovillalinda.gob.do/
+Fuente oficial encontrada: Palmarejo Villa Linda 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta del Distrito Municipal Palmarejo Villa Linda
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 988 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-qatari-prime-minister-and-minister-of-foreign-affairs-al-thani-3
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Meeting with Qatari Prime Minister and Minister of Foreign Affairs Al Thani
 [Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 1280 letras -> https://www.justice.gov/opioidawareness
 Fuente oficial encontrada: Department of Justice (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es la portada de un sitio web del Departamento de Justicia de Estados Unidos, con avisos generales sobre cómo reconocer sitios oficiales y una lista de casos judi')
-No se pudo bajar la página: <HTTPError 405: 'Not Allowed'>
-[Dominicanos en EE.UU.] OSAC (.gov): texto leído 0 letras -> https://www.osac.gov/Content/Search?contentTypes=Report&subContentTypes=Alerts,Travel%20Advisories
-No se pudo leer el artículo; no se publica para no salir corta: Working Together to Protect U.S. Organizations Overseas
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Heroin and Opioid Awareness
+Fuente no confiable, se salta: tennessean.com
 [Dominicanos en EE.UU.] AlMomento.net: texto leído 2150 letras -> https://almomento.net/ny-realizan-encuentro-para-fortalecer-liderazgo-femenino-rd/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): NY: Realizan encuentro para fortalecer liderazgo femenino RD
+Fuente no confiable, se salta: wapa.tv
 [Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 2291 letras -> https://elnacional.com.do/fama-y-vida/lideres-comunitarias-unen-nueva-york-desarrollo-diaspora_586978_amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Líderes comunitarias se unen en Nueva York por el desarrollo de la diáspora
-Fuente no confiable, se salta: asturiasmundial.com
-[Dominicanos en EE.UU.] Diario Libre: texto leído 4498 letras -> https://www.diariolibre.com/usa/actualidad/2026/11/23/pastor-dominicano-culpable-de-fraude-inmobiliario-e-inversiones/3728952
-[Dominicanos en EE.UU.] AlMomento.net: texto leído 3628 letras -> https://almomento.net/texas-declaran-culpable-de-fraude-a-un-pastor-dominicano/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé la atribución a AlMomento.net en el texto de los fondos y el estilo de vid
-Revisión: corregida (eliminé la atribución a AlMomento.net en el texto de los fondos y el estilo de vida para que quede atribuido 
-[Internacionales] NHC (.gov): texto leído 723 letras -> https://www.nhc.noaa.gov/mobile/text/refresh/MIATWOSAT+html/232308_MIATWOSAT.html
-Fuente oficial encontrada: NHC (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia. Es una perspectiva meteorológica automática del Centro Nacional de Huracanes que indica que no se espera la formación de ciclones tropicales en los próxim')
-[Internacionales] USCIS (.gov): texto leído 4300 letras -> https://www.uscis.gov/es/noticias/comunicados-de-prensa/cabecilla-del-esquema-de-fraude-de-visas-de-oakdale-sentenciado-a-10-anos-en-prision-federal-cuatro
-Fuente oficial encontrada: USCIS (.gov) 
-Cambiada de sección: Internacionales -> Dominicanos en EE.UU.: Cabecilla del Esquema de Fraude de Visas de Oakdale Sentenciado a 10 Años en Prisión Federal; Cuatro Cómplices También Fueron Sentenciados a Cinco Años de Prisión Cada Uno
-Revisión: corregida (corregí la fecha de Onishea a "2 de septiembre" ya coincide; cambié "exjefe de policía de Glenmora" a "jefe d
+[Internacionales] City of Opa-Locka, FL (.gov): texto leído 796 letras -> https://www.opalockafl.gov/facilities/facility/details/Sherbondy-Village-Community-Center-1
+Fuente oficial encontrada: City of Opa-Locka, FL (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Facilities • Sherbondy Village Community Center
+[Internacionales] Occupational Safety and Health Administration (.gov): texto leído 7000 letras -> https://www.osha.gov/quicktakes/112326-sp
+Fuente oficial encontrada: Occupational Safety and Health Administration (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): LA SEGURIDAD NUNCA ES UNA PÉRDIDA DE TIEMPO
+[Internacionales] NOAA (.gov): texto leído 920 letras -> https://www.ndbc.noaa.gov/station_page.php?station=44095
+Fuente oficial encontrada: NOAA (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es la portada de una estación de boyas de la NOAA con datos oceánicos en tiempo real y enlaces de navegación, no una noticia concreta, por lo que no se puede redactar una no')
 Fuente no confiable, se salta: remolacha.net
-[Famosos] CDN: texto leído 1565 letras -> https://cdn.com.do/nacionales/clima/presentan-certificacion-en-residuo-cero-en-republica-dominicana/
-Cambiada de sección: Famosos -> República Dominicana: Presentan certificación en Residuo Cero para las organizaciones en República Dominicana
-Revisión: corregida (eliminé "Día Mundial del Reciclaje" por "Día Mundial de Reciclaje" según la fuente, ajusté "reconoce" a "reco
-[Famosos] CDN: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Ejército celebra el Día Nacional de la Familia con jornada recreativa para sus miembros y familiares
 [Famosos] CDN: texto leído 1981 letras -> https://cdn.com.do/entretenimiento/veronica-vargas-musri-lleva-el-orgullo-dominicano-a-miss-international-2026-en-japon/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Verónica Vargas Musri lleva el orgullo dominicano a Miss International 2026 en Japón
 [Famosos] N Digital: texto leído 2255 letras -> https://n.com.do/2026/11/23/tierra-seca-vuelve-a-la-escena-musical-con-el-merengue-el-baile-de-la-navidad/
 Rechazada por la revisión: Tierra Seca vuelve a la escena musical con el merengue “El baile de la Navidad” -> cifras que no aparecen en las fuentes: 1990
 Fuente no confiable, se salta: diario.elmundo.sv
 Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: tecnologiageek.com
 Fuente no confiable, se salta: cibercuba.com
-[Famosos] El Nacional — La voz de todos: texto leído 1215 letras -> https://elnacional.com.do/fama-y-vida/farandula/isaura-taveras-eduardo-saint-hilaire-mejor-peor-vestido-casa-alofoke-3_587023.html
-Revisión: corregida (se sustituyó "ganancia" por la atribución exacta de los montos a la producción y se eliminó "ganó"/"gana" don
-[Famosos] El Nacional — La voz de todos: texto leído 1759 letras -> https://elnacional.com.do/fama-y-vida/farandula/amelia-alcantara-sobre-caro-brito-hipocrita-decir-me-da-pena_587021_amp.html
-Revisión: corregida (se quitó "su colega" en el ES y "colleague" en el EN, porque la fuente no dice que sean colegas; se aclaró la
-[Deportes] MLB.com: texto leído 318 letras -> https://www.mlb.com/es/video/orioles-top-5-outfield-assists-of-2026
-No se pudo leer el artículo; no se publica para no salir corta: Orioles Top 5 outfield assists of 2026
-[Deportes] MLB.com: texto leído 2536 letras -> https://www.mlb.com/es/news/tiburones-regresan-a-la-senda-del-triunfo-ante-cardenales-en-la-lvpb
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (en el texto en español y en inglés: el grand slam ocurrió en el noveno inning, no 
-Revisión: corregida (en el texto en español y en inglés: el grand slam ocurrió en el noveno inning, no en el quinto; se corrigió q
-[Deportes] MLB.com: texto leído 2995 letras -> https://www.mlb.com/news/d-backs-name-josh-maurer-radio-play-by-play-voice
-Rechazada por la revisión: D-backs hire new radio play-by-play voice from Brewers -> cifras que no aparecen en las fuentes: 2018
-[Deportes] NBA.com: texto leído 811 letras -> https://www.nba.com/news/nba-players-week-jokic-davis-week-5
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Jokić, Davis named NBA Players of the Week
-[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/power-rankings-2026-27-week-6
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste es un ranking semanal de equipos de la NBA publicado por NBA.com (la sección Power Rankings), con análisis de estadísticas y clasificaciones, y el contenido lleg')
-[Deportes] NBA.com: texto leído 1696 letras -> https://www.nba.com/watch/video/bos-at-gsw-11-22-26
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una página de navegación del sitio NBA.com (menús, enlaces y un video sin descripción de contenido). No contiene una noticia concreta sobre un hecho, por lo que no puedo ')
+[Famosos] El Nacional — La voz de todos: texto leído 2983 letras -> https://elnacional.com.do/fama-y-vida/farandula/georgina-duluc-charylie-alvarado-protagonizan-intercambio-indirectas-redes-sociales_587012_amp.html
+Revisión: corregida (se corrigió "pareja del empresario" sin cambios de fondo; se quitó "Dirección de Área" no, se mantuvo; se aju
+Fuente no confiable, se salta: cubanosporelmundo.com
+Es opinión o editorial, se salta: El Ascenso Político Dominicano en Nueva York: Un estudio sobre la incorporación política étnica urbana
+[Famosos] El Nuevo Diario: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: República Dominicana celebra el talento de sus músicos: una historia que se escucha y se baila
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: technocio.com
+Fuente no confiable, se salta: agencianova.com
+Fuente no confiable, se salta: tecnologiageek.com
+[Famosos] El Nuevo Diario: texto leído 2673 letras -> https://elnuevodiario.com.do/angely-baez-de-los-juegos-centroamericanos-y-del-caribe-a-3-nominaciones-a-los-voice-arts-awards-2027/
+Revisión: corregida (corregí el título del audiolibro en inglés a "Piel Quemada" según la fuente, que no traduce el título; elimin
+[Deportes] MLB.com: texto leído 333 letras -> https://www.mlb.com/es/video/fastcast-monday-s-news-in-10-minutes-x9545
+No se pudo leer el artículo; no se publica para no salir corta: FastCast: Monday's news in
+[Deportes] MLB.com: texto leído 314 letras -> https://www.mlb.com/es/video/trevor-rogers-reportedly-signs-with-cubs
+No se pudo leer el artículo; no se publica para no salir corta: Trevor Rogers reportedly signs with Cubs
+[Deportes] MLB.com: texto leído 1762 letras -> https://www.mlb.com/news/robert-stephenson-dodgers-minor-league-contract
+Rechazada por la revisión: Dodgers take a flier on reliever Stephenson to bulk up bullpen options (source) -> cifras que no aparecen en las fuentes: 2023
+[Deportes] MLB.com: texto leído 4362 letras -> https://www.mlb.com/news/blue-jays-starting-rotation-projection-ahead-of-2027
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Where does Blue Jays' rotation stand before potential additions?
+[Deportes] MLB.com: texto leído 5472 letras -> https://www.mlb.com/news/braves-biggest-2026-27-offseason-needs
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Should Braves add a reliever? How about a starter? Breaking down club's needs
+[Deportes] MLB.com: texto leído 3736 letras -> https://www.mlb.com/news/josh-miller-will-not-return-astros-pitching-coach
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. Solo me has pasado una versión, un texto de MLB.com sobre el cuerpo técnico de los Astros de Houston en Grandes Ligas, y el mensa')
+Fuente no confiable, se salta: bloomberglinea.com
 [Precios y combustibles] Infobae: texto leído 3635 letras -> https://www.infobae.com/noticias/2026/11/23/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-23-de-noviembre/?outputType=amp-type
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no corresponde a una noticia concreta: es una nota automatizada de cotización del euro, mezclada con un informe de perspectivas económicas de UBS y proyecciones de tipo de c')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no corresponde a una noticia concreta: es una nota automatizada de cotización de precios (cierre del euro) mezclada con un informe de perspectivas económicas, sin un hecho n')
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: robertocavada.com
 [Precios y combustibles] El Dia.com.do: texto leído 1929 letras -> https://eldia.com.do/inespre-beneficiara-a-952000-personas-con-jornadas-de-venta-de-alimentos-en-navidad/
@@ -119,23 +125,28 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Or
 [Videojuegos] Pokemon.com: texto leído 553 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
+[Videojuegos] Pokemon.com: texto leído 987 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/event-results
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon Latin America International Championships Event Results
 [Videojuegos] Pokemon.com: texto leído 2192 letras -> https://community.pokemon.com/en-us/discussion/27017/x-y-in-online-expanded-format
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): X&Y in online Expanded format
+Error IA: ValueError('respuesta sin el formato esperado: Este caso no es una noticia. Lo que tengo es un post de un foro de jugadores (Pokémon Forums) en el que un usuario se queja de que el formato Expandido no tiene soporte completo en el juego online TCG')
 [Videojuegos] Pokemon.com: texto leído 1383 letras -> https://community.pokemon.com/en-us/discussion/27015/why-i-choose-to-play-pokemon-the-cowboy-way-and-why-you-might-and-not-even-know-it
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta. Es una publicación de foro en la que un usuario habla de su manera personal de jugar Pokémon, mezclando frases sin relación entre sí, sin hechos ')
-[Videojuegos] Pokemon.com: texto leído 3663 letras -> https://press.pokemon.com/pt-BR/MEDIA-ALERT-Celebrate-the-Holiday-Season-at-the-Macys-Thanksgiving-Day
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo que se publicó no es una noticia. Es un post personal en los foros oficiales de Pokémon, sin hechos verificables ni datos concretos. Mezcla frases sin relación entre sí (sobre sombre')
+[Videojuegos] Pokemon.com: texto leído 3663 letras -> https://press.pokemon.com/en/releases/MEDIA-ALERT-Celebrate-the-Holiday-Season-at-the-Macys-Thanksgiving-Day
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): MEDIA ALERT: Celebrate the Holiday Season at the Macy’s Thanksgiving Day Parade® with Pikachu and Eevee
-[Videojuegos] Nintendo: texto leído 775 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Aspecto-de-transformacion-Cardix-de-Bloom-3244924.html
+[Videojuegos] Nintendo: texto leído 1473 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Barbie-Rewind-Superstar-Pack-3248326.html
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Aspecto de transformación Cardix de Bloom
-[Videojuegos] Nintendo: texto leído 1509 letras -> https://www.nintendo.com/es-mx/store/products/seedbo-and-that-time-the-sun-exploded-switch/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Superstar Pack
+[Videojuegos] Nintendo: texto leído 927 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Paquete-de-Objetos-Iniciales-3234731.html
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Seedbo And That Time The Sun Exploded
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de Objetos Iniciales
+[Videojuegos] Nintendo: texto leído 400 letras -> https://www.nintendo.com/es-ar/store/products/piano-tiles-2-maestros-selection-blue-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Teclas de Piano 2: Selección del Maestro AZUL
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-10 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 105 · ya cubiertas: 17 · no confiables: 9 · opinión: 0 · con texto leído: 46 · sin texto: 3 · medios juntados: 1 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 8 · con video: 0 · con foto oficial: 1 · error IA: 7 · descartadas por la IA: 20 · cambiadas de sección: 7 · largas: 7 · ocultas (cortas): 3
+8 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 98 · ya cubiertas: 18 · no confiables: 17 · opinión: 1 · con texto leído: 45 · sin texto: 5 · medios juntados: 0 · con fuente oficial: 27 · aprobadas por la revisión: 0 · corregidas por la revisión: 3 · rechazadas por la revisión: 7 · con video: 0 · con foto oficial: 1 · error IA: 6 · descartadas por la IA: 26 · cambiadas de sección: 3 · largas: 3 · ocultas (cortas): 5
