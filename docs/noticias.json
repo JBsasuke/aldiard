@@ -384,8 +384,10 @@
   "seccion": "Internacionales",
   "fecha": "2026-11-24T02:22:44.557147+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/9f71d55045.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/9f71d55045.jpg",
+  "ig_id": "17876985750643958",
+  "ig_fecha": "2026-11-24T02:27:02.841081+00:00"
  },
  {
   "id": "01ea23840a",
@@ -3649,8 +3651,10 @@
   "seccion": "Famosos",
   "fecha": "2026-11-23T21:05:59.372919+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/265e6079df.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/265e6079df.jpg",
+  "ig_id": "18105471905372028",
+  "ig_fecha": "2026-11-24T02:28:31.458633+00:00"
  },
  {
   "id": "4467f6834a",
@@ -3844,10 +3848,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-23T21:08:41.443525+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/4eac81647b.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/4eac81647b-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/4eac81647b-h.jpg",
+  "ig_id": "18097446590674758",
+  "ig_fecha": "2026-11-24T02:29:59.366882+00:00",
+  "historia_fecha": "2026-11-24T02:30:10.702756+00:00"
  },
  {
   "id": "d254510668",
