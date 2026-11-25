@@ -1,15 +1,7 @@
-Corrida: 2026-11-25 11:47 AM (hora RD)
+Corrida: 2026-11-25 12:47 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4225 letras -> https://presidencia.gob.do/noticias/inefi-inicia-ix-congreso-de-educacion-fisica-y-gestion-deportiva
-[República Dominicana] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/inefi-inicia-ix-congreso-internacional-de-educacion-fisica-gestion-de-eventos-deportivos-y-motricidad-infantil-2026/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Revisión: corregida (quité la mención de Chile como país de origen de un expositor, que no aparece en las fuentes; corregí "Abiert
-[República Dominicana] Ministerio de Medio Ambiente y Recursos Naturales: texto leído 357 letras -> https://ambiente.gob.do/wpfd_file/superficie-km%C2%B2-de-los-humedales-de-importancia-internacional-ramsar-por-tipo-de-superficie-segun-provincias-ocupadas-2024-2/
-No se pudo leer el artículo; no se publica para no salir corta: Superficie (km²) de los Humedales De Importancia Internacional (Ramsar) por Tipo de Superficie según Provincias Ocupadas, 2024
-[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639311183125218177-Justificacin-del-6.04-de-la-suficiencia-financiera.pdf
-No se pudo leer el artículo; no se publica para no salir corta: INFORME DE LA SUFICIENCIA FINANCIERA DEL GOBIERNO LOCAL CORRESPONDIENTE AL 3ER. TRIMESTRE 2026 JUNTA MUNICIPAL DE JUNCALITO, P
 [República Dominicana] DGII: texto leído 1500 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retencin-entre-facturadores-electronicos/6b05c8ec4175d10cff21429d
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Retención entre facturadores electronicos
@@ -24,88 +16,99 @@ No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFI
 [República Dominicana] datos.gov.do: texto leído 5734 letras -> https://datos.gov.do/organization/activity/cuerpo-especializado-para-la-seguridad-del-metro-cesmet?offset=0
 Fuente oficial encontrada: datos.gov.do 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuerpo Especializado para la Seguridad del Metro (CESMET)
-[República Dominicana] DGII: texto leído 1450 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/efecto-de-anular-un-e47-con-retencin-de-isr-sobre-el-ir17-y-el-formato-609/6b05b84c4175d10cff1f2641
+[República Dominicana] DGII: texto leído 1001 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/facturacin-de-e31-o-de-rgimen-especial/6b05c2413a9daeeaea92acf0
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Efecto de anular un E47 con retención de ISR sobre el IR-17 y el Formato 609
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 3467 letras -> https://www.federalregister.gov/public-inspection/current
-Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 11/24/2026 Public Inspection Issue
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: 21noticias.com
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Facturación de E31 o de Régimen especial ?
+[República Dominicana] De Último Minuto: texto leído 1541 letras -> https://deultimominuto.com/nacionales/regional-03-entrega-certificados/
+Revisión: corregida (se añadió la atribución de la fecha/evento al sitio fuente en la frase de "IMPORTA" del inglés, se quitó "ofi
+[República Dominicana] De Último Minuto: texto leído 1583 letras -> https://deultimominuto.com/nacionales/justicia/eliezer-salvador-matos-acude/
+Revisión: corregida (se quitó "Su presencia está relacionada con" por ser una inferencia; se atribuyó a De Último Minuto la afirma
+[República Dominicana] De Último Minuto: texto leído 3320 letras -> https://deultimominuto.com/economia/expo-constitucion-2026/
+Rechazada por la revisión: Expo Constitución 2026 cierra con más de RD$14 millones en financiamientos a mujeres y jóvenes -> cifras que no aparecen en las fuentes: 20000
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1917 letras -> https://centralnoticias.gob.do/diputado-no-hay-salario-que-alcance-ante-el-alto-costo-de-la-vida/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> Precios y combustibles: Diputado: No hay salario que alcance ante el alto costo de la vida
+Revisión: corregida (se corrigió "codfish" a "salted cod" en el inglés? No: se mantuvo; se cambió "the average family basket" por 
+[Dominicanos en EE.UU.] Department of Justice (.gov): texto leído 7000 letras -> https://www.justice.gov/criminal/department-justice-criminal-divisions-anti-scam-surge
+Fuente oficial encontrada: Department of Justice (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: The Department of Justice Criminal Division’s Anti-Scam Surge
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el nombre de la sección a "Criminal Division"/"White Collar and Corporate 
+Revisión: corregida (corregí el nombre de la sección a "Criminal Division"/"White Collar and Corporate Enforcement Section" según 
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: emsavalles.com
-[Dominicanos en EE.UU.] De Último Minuto: texto leído 2994 letras -> https://deultimominuto.com/entretenimiento/mariela-encarnacion-16/
-[Dominicanos en EE.UU.] Hoy Digital: texto leído 2772 letras -> https://hoy.com.do/vivir/alegria/mariela-encarnacion-celebra-segunda-edicion-self-love-experience-daniel-sarcos_1109847.html
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Mariela Encarnación celebra con éxito la segunda edición de Self Love Experience en República Dominicana
-Revisión: corregida (quité frases de relleno como "según la reseña" fue reemplazada por atribución fiel, "cuidada" se mantuvo como
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1950 letras -> https://eldia.com.do/resultados-de-la-loteria-hoy-martes-24-de-noviembre-de-2026/
+[Dominicanos en EE.UU.] Univision: texto leído 2995 letras -> https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-24-noviembre-2026
+[Dominicanos en EE.UU.] Infobae: texto leído 3444 letras -> https://www.infobae.com/mexico/2026/11/25/resultados-de-la-loteria-nacional-sorteo-mayor-4037-premio-mayor-y-numeros-ganadores-de-este-martes-24-de-noviembre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Resultados de la lotería hoy, Martes 24 de noviembre de 2026
 Fuente no confiable, se salta: extradigital.com.do
-Fuente no confiable, se salta: tecnologiageek.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: pressreader.com
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: 21noticias.com
 [Internacionales] U.S. Department of State (.gov): texto leído 1082 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud
 [Internacionales] U.S. Department of State (.gov): texto leído 1831 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-welcomes-the-joint-bid-by-chile-and-belgium-to-host-the-secretariat-of-the-biodiversity-beyond-national-jurisdiction-bbnj-agreement
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): The United States Welcomes the Joint Bid by Chile and Belgium to Host the Secretariat of the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement
-[Internacionales] NOAA (.gov): texto leído 870 letras -> https://www.ndbc.noaa.gov/station_page.php?station=ptaw1
-Fuente oficial encontrada: NOAA (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Station PTAW1 - 9444090 - Port Angeles, WA
-[Famosos] CDN: texto leído 4485 letras -> https://cdn.com.do/internacionales/ee-uu-desclasifica-43-archivos-sobre-ovnis-sin-explicacion/
-Cambiada de sección: Famosos -> Internacionales: La nueva entrega de documentos sobre ovnis incluye videos militares
-Revisión: corregida (se cambió "2.600 km/h" no aparece; el borrador es coherente con las fuentes en cifras; se añadió atribución a
-Fuente no confiable, se salta: arecoa.com
+[Internacionales] U.S. Department of State (.gov): texto leído 724 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-25-2026
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 25, 2026
+[Famosos] Diario Libre: texto leído 4288 letras -> https://www.diariolibre.com/revista/cultura/2026/11/25/que-estan-leyendo-los-dominicanos-los-10-libros-mas-vendidos-de-2026/3731324
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Los 10 libros más vendidos de 2026: ¿qué están leyendo los dominicanos?
 Fuente no confiable, se salta: tecnologiageek.com
+[Famosos] Noticias SIN: texto leído 4299 letras -> https://noticiassin.com/vida-y-estilo/sociales/2026/11/25/chef-tita-rinde-homenaje-a-las-hermanas-mirabal-en-aguaji-2176675/
+Cambiada de sección: Famosos -> República Dominicana: Chef Tita enaltece la memoria de las hermanas Mirabal con un emotivo homenaje en Aguají
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (quité "según los organizadores" porque la fuente no lo atribuye; corregí "dictador
+Revisión: corregida (quité "según los organizadores" porque la fuente no lo atribuye; corregí "dictador" sin cambios de fondo, aña
 Fuente no confiable, se salta: cibercuba.com
 Fuente no confiable, se salta: cuballama.com
 [Famosos] Listín Diario: texto leído 5749 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se ajustó "Listín Diario" para que la atribución de las cifras de premios sea prec
-Rechazada por la revisión: Estos son los participantes de "La casa de Alofoke 3" -> cifras que no aparecen en las fuentes: 100000, 200000
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El mensaje contiene solo una versión y su texto está cortado al final, y además las instrucciones piden que reescriba una noticia')
 Fuente no confiable, se salta: instagram.com
-[Famosos] El Dia.com.do: texto leído 1968 letras -> https://eldia.com.do/mejores-peores-vestidos-gala-estreno-la-casa-de-alofoke-3/
-Revisión: corregida (se quitó la afirmación de que Omega y Vitaly Sánchez fueron señalados por "elementos de vestuario", que la fu
-Fuente no confiable, se salta: masvip.com.do
 [Famosos] Hoy Digital: texto leído 1452 letras -> https://hoy.com.do/vivir/alegria/isaura-taveras-gana-premio-alfombra-casa-alofoke_1109784.html
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié el título y el texto para que la fuente se atribuya solo al medio; corregí 
 Rechazada por la revisión: Isaura Taveras gana premio de la alfombra de La Casa de Alofoke -> cifras que no aparecen en las fuentes: 100000, 200000
 Fuente no confiable, se salta: cibercuba.com
 Fuente no confiable, se salta: prensa-latina.cu
 Fuente no confiable, se salta: tecnologiageek.com
+Fuente no confiable, se salta: urbanstreet.com.pe
 Fuente no confiable, se salta: elpregonerord.com
-Fuente no confiable, se salta: eljaya.com
 [Famosos] De Último Minuto: texto leído 2730 letras -> https://deultimominuto.com/entretenimiento/gabi-desangles-3/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Gabi Desangles suma una nueva alfombra roja a su trayectoria, esta vez en La Casa de Alofoke 3
-Fuente no confiable, se salta: rpp.pe
-Fuente no confiable, se salta: farandula.co
-[Famosos] La Opinión: texto leído 3501 letras -> https://laopinion.com/2026/11/24/cristina-porta-se-ha-convertido-en-el-rival-a-vencer-en-el-gran-hermano-vip-9-de-espana/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Cristina Porta se ha convertido en el rival a vencer en el "Gran Hermano VIP 9" de España
-[Deportes] Lidom: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Sencillo productor de Aderlin Rodríguez
-[Deportes] Lidom: texto leído 1364 letras -> https://lidom.com/toros-del-este/estevez-destaca-la-respuesta-del-bullpen-y-la-sangre-fria-de-felipe-reyes-101420.html
-Revisión: corregida (Sólo se cambió "Estévez habló de su plan" por el dato real de la fuente; se quitó la afirmación de que la vic
-[Deportes] Lidom: texto leído 1551 letras -> https://lidom.com/aguilas-cibaenas/cervelli-destaca-la-union-del-equipo-y-pide-jugar-partido-a-partido-101415.html
-Revisión: corregida (se corrigió "Vásquez" en el título en inglés, se ajustó "Ademir Rodríguez" donde faltaba la cita textual de c
-Fuente no confiable, se salta: reddenoticias.online
+[Famosos] El Nuevo Día: texto leído 521 letras -> https://www.elnuevodia.com/entretenimiento/farandula/fotogalerias/las-reinas-brillan-en-la-alfombra-roja-del-miss-universe/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Las reinas brillan en la alfombra roja del Miss Universe 2026
+[Deportes] MLB.com: texto leído 2209 letras -> https://www.mlb.com/es/video/david-aardsma-reflects-on-mlb-career
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste es la página de navegación de MLB.com junto con la descripción de un video de entrevista, sin contenido informativo sobre hechos concretos. Solo se menciona que ')
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872033/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: San Juan vs. Ponce, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872035/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mayaguez vs. Caguas, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 6003 letras -> https://www.mlb.com/news/best-players-in-mlb-25-and-under-heading-into-2027
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo generar esa noticia en el formato pedido. Solo tengo una versión, y es un artículo de MLB.com sobre los mejores jugadores de Grandes Ligas de 25 años o menos. Ese texto está cortad')
+[Deportes] NBA.com: texto leído 2914 letras -> https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe
+Rechazada por la revisión: NBA announces €10B plan to develop European arenas -> cifras que no aparecen en las fuentes: 10000, 24000
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_05_15PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/24/26 05:15 PM
 [Precios y combustibles] CDN: texto leído 4427 letras -> https://cdn.com.do/internacionales/america-latina/paraguay-adelantara-us10-millones-en-indemnizaciones-por-ueno-bank/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no puede convertirse en una noticia confiable para Al Día RD. Su texto es una reproducción parcial de un contenido generado con inteligencia artificial que advierte que "pu')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión no es una noticia completa: el texto contiene datos contradictorios e inconsistentes sobre el contexto político (un presidente "Pedro Alliana" en el primer párrafo y "Santi')
+Fuente no confiable, se salta: rccnoticias.com.do
 [Precios y combustibles] CDN: texto leído 3072 letras -> https://cdn.com.do/nacionales/inicia-presenta-legado-de-gloria-libro-sobre-el-olimpismo-dominicano/
 [Precios y combustibles] Acento: texto leído 3120 letras -> https://acento.com.do/deportes/inicia-presenta-legado-de-gloria-un-libro-que-recoge-la-historia-del-olimpismo-y-paralimpismo-dominicanos-9796301.html
 [Precios y combustibles] Listín Diario: texto leído 2991 letras -> https://listindiario.com/el-deporte/olimpismo/20261124/legado-gloria-nuevo-libro-inicia-celebra-historia-olimpismo-paralimpismo-dominicano_931446/amp.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): “Legado de Gloria”, el nuevo libro de INICIA sobre la historia del olimpismo y paralimpismo dominicanos
-[Precios y combustibles] CDN: texto leído 2253 letras -> https://cdn.com.do/nacionales/joven-muere-y-otro-queda-grave-tras-choque-de-moto-y-camioneta/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Joven muere y otro resulta herido tras colisionar motocicleta con camioneta
-Revisión: corregida (corregí "pasado martes" a "martes por la noche" en ambos idiomas para no fechar mal; cambié "la noche del pas
+[Precios y combustibles] La República: texto leído 2887 letras -> https://larepublica.pe/entretenimiento/2026/11/25/peruana-valentina-andreon-se-quiebra-tras-no-clasificar-al-top-20-del-miss-international-2026-son-lagrimas-de-impotencia-2183475
+Cambiada de sección: Precios y combustibles -> Famosos: Peruana Valentina Andreón se quiebra tras no clasificar al TOP 20 del Miss International 2026: “Son lágrimas de impotencia”
+Revisión: corregida (se corrigió "llevar la bandera" sin cambios de hechos; se eliminó la edad "27 años" por no aparecer en las fu
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
-[Videojuegos] Nintendo: texto leído 918 letras -> https://www.nintendo.com/en-ca/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Official Site - Canada - Consoles, Games, and More
 [Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Ornament as a Gift with Purchase from Pokémon Center
@@ -114,19 +117,19 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
 [Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar una noticia a partir de este material. El texto que me pasaste es un foro de aficionados de Pokémon.com donde unos usuarios adivinan qué Pokémon hace un sonido, sin n')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia a partir del material que me pasaste. Lo que aparece en la única versión es un foro de Pokémon con una pregunta de un usuario ("¿qué Pokémon es?") y come')
 [Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
 [Videojuegos] Pokemon.com: texto leído 1950 letras -> https://community.pokemon.com/en-us/discussion/27045/greatest-pokemon-game-idea-ever-pokemon-travel-the-world
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Greatest Pokemon Game Idea Ever! Pokemon: Travel the World
-[Videojuegos] Nintendo: texto leído 2934 letras -> https://www.nintendo.com/es-co/store/products/where-are-leo-and-mia-jungle-adventure-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Where are Leo and Mia? Jungle Adventure
+[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-ar/store/products/solo-shift-karaoke-plus-aquarium-pack-set-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Solo Shift! Karaoke + Aquarium Pack Set
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente no contiene una noticia periodística: es la ficha de producto de Nintendo para el paquete descargable de *Solo Shift! Karaoke*, con su descripción de marketing y avisos de seguridad. No de')
 [Videojuegos] Nintendo: texto leído 2610 letras -> https://www.nintendo.com/es-pe/store/products/raider-kid-and-the-ruby-chest-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Raider Kid and the Ruby Chest
@@ -136,9 +139,13 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy G
 [Videojuegos] Nintendo: texto leído 2738 letras -> https://www.nintendo.com/es-mx/store/products/brain-training-jigsaw-puzzle-world-scenery-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
-Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 1.
+[Videojuegos] Nintendo: texto leído 2947 letras -> https://www.nintendo.com/es-cl/store/products/club-sports-collection-goty-edition-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Club Sports Collection GOTY Edition
+Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 2.
 Marcadores: 26 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-10 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 80 · ya cubiertas: 35 · no confiables: 28 · opinión: 0 · con texto leído: 39 · sin texto: 3 · medios juntados: 2 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 2 · descartadas por la IA: 23 · cambiadas de sección: 3 · largas: 7 · ocultas (cortas): 3
-Para Instagram (tendencia 4): Omar Fernández cuestiona aumento del déficit fiscal y suspensión de la Ley de Responsabilidad Fiscal
+8 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 112 · ya cubiertas: 36 · no confiables: 23 · opinión: 0 · con texto leído: 44 · sin texto: 2 · medios juntados: 0 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 6 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 2 · error IA: 6 · descartadas por la IA: 24 · cambiadas de sección: 4 · largas: 6 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Kimberly Taveras pide al Congreso aprobar la ley Mirabal contra la violencia de género
+Para Instagram (tendencia 3): La pobreza multidimensional bajó de 44.1 % a 20.3 % entre 2016 y 2025
