@@ -1,34 +1,157 @@
-Corrida: 2026-11-24 08:48 PM (hora RD)
+Corrida: 2026-11-24 09:47 PM (hora RD)
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigieron cifras de Cambio Extranjero, Gamelin, Caribe Express y la mejor ven
 No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
-[República Dominicana] De Último Minuto: texto leído 2621 letras -> https://deultimominuto.com/entretenimiento/miss-universo-os-miss-universo/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cuáles serán los premios que se llevará quien sea coronada como Miss Universo?
-[República Dominicana] De Último Minuto: texto leído 1570 letras -> https://deultimominuto.com/deportes/beisbol/fernando-tatis-jr-regresara-a-la-lidom-con-las-estrellas-en-la-primera-semana-de-diciembre/
-Cambiada de sección: República Dominicana -> Deportes: Fernando Tatis Jr. regresará a la LIDOM con las Estrellas en la primera semana de diciembre
-Revisión: corregida (la fuente dice que el debut "podría" ser el 1 de diciembre; el borrador ya lo dice así. Corregí "Tatis Jr." a
-[República Dominicana] De Último Minuto: texto leído 2572 letras -> https://deultimominuto.com/deportes/baloncesto/consuelo-barre-semifinal-al-centro-y-miramar-empata-en-el-44-tbs-de-san-pedro-de-macoris/
-Cambiada de sección: República Dominicana -> Deportes: Consuelo barre semifinal al Centro y Miramar empata en el 44 TBS de San Pedro de Macorís
-Revisión: corregida (se corrigió "a un mejor de cinco" que no aparece en las fuentes, se eliminó la atribución de "pactada a un 3-
-[República Dominicana] De Último Minuto: texto leído 3572 letras -> https://deultimominuto.com/estilo/unapec-celebra-17-jornada/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): UNAPEC celebra su 17.ª Jornada de Colocación Laboral bajo el nombre CONECTA T+
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[República Dominicana] De Último Minuto: texto leído 0 letras -> https://deultimominuto.com/nacionales/marco-guridi-aclaracion-puesto/
-No se pudo leer el artículo; no se publica para no salir corta: Marco Guridi es director de Puerto Plata Electricidad, no presidente de Energía 2000
-[República Dominicana] De Último Minuto: texto leído 3320 letras -> https://deultimominuto.com/estilo/johanna-almanzar-tributo/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Más de 40 años de voz: Johanna Almánzar triunfa a casa llena entre mariachis y música romántica
-[República Dominicana] De Último Minuto: texto leído 2276 letras -> https://deultimominuto.com/nacionales/politica/fellito-lidera-preferencias/
-Revisión: aprobada
-[República Dominicana] De Último Minuto: texto leído 2596 letras -> https://deultimominuto.com/internacionales/el-presidente-javier-milei/
-Cambiada de sección: República Dominicana -> Internacionales: El presidente Javier Milei recibe a su homólogo de Polonia, Karol Nawrocki, en la Casa Rosada
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió "cumbre del G20 en Estados Unidos" a "en Miami"? No: las fuentes dicen
-Revisión: corregida (se corrigió "cumbre del G20 en Estados Unidos" a "en Miami"? No: las fuentes dicen Miami en la cita de Przyda
-[República Dominicana] De Último Minuto: texto leído 3954 letras -> https://deultimominuto.com/internacionales/trump-indulta/
-Cambiada de sección: República Dominicana -> Internacionales: Trump indulta a dos pavos en el tradicional acto de la Casa Blanca por Acción de Gracias
-Revisión: corregida (se corrigió "Trump" en el texto de Venezuela/Irán? No: se corrigió la omisión de la Ley de Protección de Acog
-Instagram: 28 usadas en 24 horas, quedan 14; esta corrida sube hasta 3.
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3998 letras -> https://presidencia.gob.do/noticias/interior-y-policia-destruye-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana
+[República Dominicana] El Nuevo Diario: texto leído 1377 letras -> https://elnuevodiario.com.do/destruyen-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad-ciudadana/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Rechazada por la revisión: Interior y Policía destruye 19,613 armas incautadas en operativos de seguridad ciudadana -> cifras que no aparecen en las fuentes: 357
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/policia-cibernetica-arresta-a-tres-personas-por-estafas-electronicas-que-superan-los-rd111000/
+[República Dominicana] El Nuevo Diario: texto leído 1599 letras -> https://elnuevodiario.com.do/policia-cibernetica-arresta-a-tres-personas-por-estafas-electronicas-que-superan-los-rd110000/
+Revisión: corregida (cambié RD$111,000 por RD$110,000 en el titular y el gancho, según El Nuevo Diario; la cifra exacta RD$111,897
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/director-general-de-la-policia-nacional-participa-en-jornada-de-destruccion-de-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana/
+[República Dominicana] Infobae: texto leído 3482 letras -> https://www.infobae.com/republica-dominicana/2026/11/24/republica-dominicana-destruyo-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad/
+[República Dominicana] El Nuevo Diario: texto leído 3741 letras -> https://elnuevodiario.com.do/interior-y-policia-destruye-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana/
+Revisión: corregida (corregí "19,613" en CLAVES_EN por ",613"; quité "con este procedimiento/Con esta jornada" redundancia no; cam
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/wp-content/uploads/2026/11/Candidatos-postulantes.pdf
+No se pudo leer el artículo; no se publica para no salir corta: El Comité Electoral integrado por la Procuradora General de la República, el director de la Dirección General de Persecución
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-DO
+Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Buscar Proceso de Compra
+[República Dominicana] Centro de Operaciones de Emergencias | COE: texto leído 2070 letras -> https://www.coe.gob.do/
+Fuente oficial encontrada: Centro de Operaciones de Emergencias | COE 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Centro de Operaciones de Emergencias | COE - Inicio
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1483 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
+[República Dominicana] DGII: texto leído 303 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/instalaciones-de-plantas-solares-fotovoltaicas/6b06071c4895ae0f6e501f36
+No se pudo leer el artículo; no se publica para no salir corta: Instalaciones de plantas solares fotovoltaicas
+[Dominicanos en EE.UU.] U.S. Embassy in Ukraine (.gov): texto leído 2187 letras -> https://ua.usembassy.gov/security-alert-u-s-embassy-kyiv-ukraine-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Embassy Jerusalem (.gov): texto leído 3349 letras -> https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Embassy Doha – Qatar (.gov): texto leído 2595 letras -> https://qa.usembassy.gov/security-alert-u-s-embassy-doha-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Embassy & Consulate in Greece (.gov): texto leído 2110 letras -> https://gr.usembassy.gov/security-alert-u-s-embassy-athens-november-24-2026/
+Fuente oficial encontrada: U.S. Embassy in Ukraine (.gov), U.S. Embassy Jerusalem (.gov), U.S. Embassy Doha – Qatar (.gov), U.S. Embassy & Consulate in Greece (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Kyiv, Ukraine (November 24, 2026)
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
+Fuente no confiable, se salta: revistamercado.do
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1909 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-lunes-23-de-noviembre/
+[Dominicanos en EE.UU.] Univision: texto leído 2191 letras -> https://www.univision.com/noticias/estados-unidos/powerball-numeros-ganadores-resultados-premio-mayor-jackpot-23-noviembre-2026
+[Dominicanos en EE.UU.] Infobae: texto leído 2741 letras -> https://www.infobae.com/estados-unidos/2026/11/24/loteria-powerball-resultados-ganadores-del-23-de-noviembre-de-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Lunes 23 de noviembre
+[Dominicanos en EE.UU.] Hoy Digital: texto leído 3060 letras -> https://hoy.com.do/vivir/dona-cuatro-libros-biblioteca-nacional_1109709_amp.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Dona sus cuatro libros a la Biblioteca Nacional
+Fuente no confiable, se salta: vigilanteinformativo.com
+Fuente no confiable, se salta: diarioultimahoradigital.com.ve
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: emsavalles.com
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 810 letras -> https://eldia.com.do/univision-abre-sus-pantallas-a-historias-de-dominicanos/
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Fuente no confiable, se salta: elcaso.elnacional.cat
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: pressreader.com
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: robertocavada.com
+[Dominicanos en EE.UU.] Infobae: texto leído 3703 letras -> https://www.infobae.com/republica-dominicana/2026/11/24/inauguran-en-republica-dominicana-una-nueva-terminal-de-cruceros-con-una-inversion-privada-de-usd-90-millones/
+[Dominicanos en EE.UU.] Acento: texto leído 4747 letras -> https://acento.com.do/actualidad/abinader-inaugura-terminal-de-cruceros-en-samana-con-inversion-de-us-90-millones-9795968.html
+[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1985 letras -> https://elnacional.com.do/nacionales/abinader-inaugura-puerto-cruceros-samana-inversion-90-millones-dolares_587091.html
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Inauguran en República Dominicana una nueva terminal de cruceros con una inversión privada de USD 90 millones
+Revisión: corregida (eliminé "motor económico" en la frase de Abinader? No: lo corregí a atribuirlo como declaración del mandatari
+[Internacionales] The White House (.gov): texto leído 5114 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/
+Fuente oficial encontrada: The White House (.gov) 
+Revisión: corregida (eliminé "Mrs. Trump" intercalado en el texto español y lo cambié por "la primera dama"; corregí "Ejército" po
+[Famosos] El Dia.com.do: texto leído 2900 letras -> https://eldia.com.do/a-23-anos-de-amelia-vega-las-dominicanas-que-han-estado-cerca-de-conquistar-la-segunda-corona-de-miss-universo/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): A 23 años de Amelia Vega: Las dominicanas que han estado cerca de conquistar la segunda corona de Miss Universo
+[Famosos] CDN: texto leído 1547 letras -> https://cdn.com.do/entretenimiento/alleh-encabezara-la-fiesta-de-ano-nuevo-2027-en-playa-juanillo/
+[Famosos] Diario Libre: texto leído 2298 letras -> https://www.diariolibre.com/revista/musica/2026/11/24/alleh-encabezara-fiesta-para-recibir-el-2027-en-playa-juanillo/3730425
+[Famosos] Noticias SIN: texto leído 2571 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/alleh-encabezara-golden-eve-en-playa-juanillo-para-recibir-2027-2176166/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté "Año Nuevo" en CLAVES/TÍTULO para mantener el nombre del evento; cambié "es
+Revisión: corregida (ajusté "Año Nuevo" en CLAVES/TÍTULO para mantener el nombre del evento; cambié "estrella" por "protagonista" 
+[Famosos] CDN: texto leído 1767 letras -> https://cdn.com.do/entretenimiento/alejandra-trujillo-estrena-atrincherados-podcast/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Alejandra Trujillo estrena Atrincherados Podcast, un espacio de entrevistas sin filtros
+[Famosos] CDN: texto leído 1871 letras -> https://cdn.com.do/entretenimiento/luigynic-se-consolida-como-voz-oficial-y-patrocinador-de-premios-triunfo-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): LuigyNic se consolida como voz oficial y patrocinador de Premios Triunfo 2026
+Fuente no confiable, se salta: arecoa.com
+[Famosos] Noticias SIN: texto leído 4608 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/casa-de-teatro-hara-jornada-solidaria-por-ninos-cubanos-con-cancer-2176027/?amp=1
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Casa de Teatro acogerá jornada artística para apoyar a niños con cáncer en Cuba
+[Famosos] Noticias SIN: texto leído 3585 letras -> https://noticiassin.com/videos/noticias-sin-y-mucho-mas/2026/11/25/levis-la-dulzura-vende-empanadas-y-lucha-por-ser-bachatero-2176438/?amp=1
+Revisión: corregida (quité "Entre empanadas y bachata" → mantuve; ajusté "sostener a su familia" en el texto donde la fuente dice 
+Video de YouTube agregado: De las empanadas a la bachata, la lucha de Levis La Dulzura
+[Deportes] MLB.com: texto leído 330 letras -> https://www.mlb.com/es/video/hendry-mendez-empata-el-juego-con-jonron
+No se pudo leer el artículo; no se publica para no salir corta: Hendry Méndez empata el juego con jonrón
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-estrellas/2026/11/25/851522/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 1344 letras -> https://www.mlb.com/es/news/kris-bubic-contrato-guardianes
+Revisión: corregida (cambié "Los Guardianes" por "Guardianes" en el título, quité la frase "lo cual" no aparecía; ajusté la atribu
+[Deportes] MLB.com: texto leído 304 letras -> https://www.mlb.com/video/lidom-live-estrellas-vs-licey-251504
+No se pudo leer el artículo; no se publica para no salir corta: LIVE: Estrellas Orientales @ Tigres del Licey | 11/24/2026
+[Deportes] MLB.com: texto leído 994 letras -> https://www.mlb.com/es/amp/news/el-mercado-de-abridores-se-acelera-y-michael-king-seria-el-proximo-en-firmar-informe.html
+Revisión: corregida (quité "Según MLB.com" repetido en el texto para evitar redundancia, cambié "lanzador observa de cerca" por "e
+Fuente no confiable, se salta: bloomberglinea.com
+[Precios y combustibles] AlMomento.net: texto leído 2285 letras -> https://almomento.net/gobierno-distribuira-rd4130-millones-en-bonos-navidenos/
+[Precios y combustibles] Hoy Digital: texto leído 3776 letras -> https://hoy.com.do/el-pais/gobierno-inicia-29-entrega-bonos-navidenos_1109665.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno distribuirá RD$4,130 millones en bonos navideños
+Rechazada por la revisión: Gobierno distribuirá RD$4,130 millones en bonos navideños -> cifras que no aparecen en las fuentes: 27, 88
+[Precios y combustibles] El Dia.com.do: texto leído 2994 letras -> https://eldia.com.do/mas-de-2-7-millones-de-beneficiarios-recibiran-el-bono-navideno-rd1500/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Más de 2.7 millones de beneficiarios recibirán el bono navideño RD$1,500
+Rechazada por la revisión: Más de 2.7 millones de beneficiarios recibirán el bono navideño RD$1,500 -> cifras que no aparecen en las fuentes: 433781
+[Precios y combustibles] De Último Minuto: texto leído 4860 letras -> https://deultimominuto.com/economia/gobierno-descarta-nueva-reforma/
+[Precios y combustibles] AlMomento.net: texto leído 2280 letras -> https://almomento.net/magin-diaz-descarta-nueva-reforma-fiscal-para-2027-en-rd/
+Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno descarta toda posibilidad de una nueva reforma fiscal
+Revisión: corregida (eliminé la atribución a "declaraciones a periodistas" sobre el FMI que no está explícita en la fuente de Últi
+[Videojuegos] Nintendo: texto leído 1698 letras -> https://www.nintendo.com/us/whatsnew/mario-kart-world-update-adds-eight-courses-and-more/
+Fuente oficial encontrada: Nintendo 
+Revisión: corregida (ajustes de redacción: eliminé "Nintendo anunció el lanzamiento", "La principal incorporación" y "Para más det
+[Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
+[Videojuegos] Nintendo: texto leído 335 letras -> https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-supremacy-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: S.N.I.P.E.R. - Hunter Scope Supremacy Edition
+[Videojuegos] Nintendo: texto leído 2416 letras -> https://www.nintendo.com/us/store/products/little-genius-spot-the-difference-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
+[Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
+[Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Ornament as a Gift with Purchase from Pokémon Center
+[Videojuegos] Pokemon.com: texto leído 589 letras -> https://www.pokemon.com/us/news/catch-pikachu-and-eevee-in-the-100th-macys-thanksgiving-day-parade
+Fuente oficial encontrada: Pokemon.com 
+Revisión: corregida (eliminé "Para los dominicanos... tradición familiar" de IMPORTA/WHY por no estar en las fuentes; ajusté "Para
+[Videojuegos] Pokemon.com: texto leído 541 letras -> https://community.pokemon.com/en-us/discussion/27038/free-pokemon-go-x-duolingo-code
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
+[Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Guess the pokemon by its cry!
+[Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
+[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
+[Videojuegos] Nintendo: texto leído 1473 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Barbie-Rewind-Superstar-Pack-3248326.html
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Superstar Pack
+[Videojuegos] Nintendo: texto leído 927 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Paquete-de-Objetos-Iniciales-3234731.html
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de Objetos Iniciales
+[Videojuegos] Nintendo: texto leído 1920 letras -> https://www.nintendo.com/es-ar/whatsnew/disfruta-la-quincuagesima-octava-copa-maximus-y-podrias-obtener-un-tema-colaborativo-para-tu-juego/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Disfruta la quincuagésima octava COPA MAXIMUS y podrías obtener un tema colaborativo para tu juego!
+Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 3.
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-6 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 0 · ya cubiertas: 0 · no confiables: 0 · opinión: 0 · con texto leído: 8 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 0 · aprobadas por la revisión: 1 · corregidas por la revisión: 4 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 0 · descartadas por la IA: 3 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 1
-Para Instagram (tendencia 3): Freddy Peralta firma con los Orioles por cinco años y US$125 millones
-Para Instagram (tendencia 3): Arranca La Casa de Alofoke 3 entre alfombra roja, premios y tensiones
-Para Instagram (tendencia 3): Atentado con carro bomba en Villavicencio deja 23 heridos; De la Espriella visita a las víctimas
+17 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 58 · ya cubiertas: 22 · no confiables: 12 · opinión: 0 · con texto leído: 51 · sin texto: 8 · medios juntados: 8 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 4 · con video: 1 · con foto oficial: 3 · error IA: 1 · descartadas por la IA: 22 · cambiadas de sección: 4 · largas: 11 · ocultas (cortas): 6
+Para Instagram (tendencia 3): Samaná estrena terminal de cruceros con inversión de US$90 millones
+Para Instagram (tendencia 3): Destruyen 19,613 armas incautadas en operativos de seguridad en RD
+Para Instagram (tendencia 3): Banreservas financia US$44.4 millones para el puerto de cruceros Port Samaná
