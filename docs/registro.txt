@@ -1,45 +1,28 @@
-Corrida: 2026-11-25 08:47 AM (hora RD)
+Corrida: 2026-11-25 09:47 AM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde cambiar para pagar más y gastar menos
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] En Salud Digital: texto leído 1394 letras -> https://ensaluddigital.gob.do/moscoso-puello-realiza-primera-cirugia-laparoscopica-de-rinon/
-Fuente oficial encontrada: En Salud Digital 
-Revisión: corregida (se cambió "tres pequeños orificios" por "tres pequeños orificios" sin cambio; se corrigió "rápida de alta" im
-[República Dominicana] Ayuntamiento Municipal de Mao: texto leído 1798 letras -> https://ayuntamientomao.gob.do/resumen-de-ejecutorias-de-la-alcaldia-de-mao-3/
-Fuente oficial encontrada: Ayuntamiento Municipal de Mao 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): RESUMEN DE EJECUTORIAS DE LA ALCALDÍA DE MAO
-[República Dominicana] DGII: texto leído 1500 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retencin-entre-facturadores-electronicos/6b05c8ec4175d10cff21429d
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Retención entre facturadores electronicos
-[República Dominicana] DGII: texto leído 923 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/quisiera-realizar-la-siguiente-consulta-en-relacin-con-el-tratamiento-del-itbis-tomando-en-consideracin-las-disposiciones-establecidas-en-la-norma-general-nm-0226/6b05f0854895ae0f6e4ea00c
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Quisiera realizar la siguiente consulta en relación con el tratamiento del ITBIS, tomando en consideración las disposiciones establecidas en la Norma General núm. 02-26
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dat
-[República Dominicana] datos.gov.do: texto leído 5734 letras -> https://datos.gov.do/organization/activity/cuerpo-especializado-para-la-seguridad-del-metro-cesmet?offset=0
-Fuente oficial encontrada: datos.gov.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuerpo Especializado para la Seguridad del Metro (CESMET)
-[República Dominicana] DGII: texto leído 1450 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/efecto-de-anular-un-e47-con-retencin-de-isr-sobre-el-ir17-y-el-formato-609/6b05b84c4175d10cff1f2641
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Efecto de anular un E47 con retención de ISR sobre el IR-17 y el Formato 609
-[República Dominicana] De Último Minuto: texto leído 1247 letras -> https://deultimominuto.com/nacionales/policia-nacional-ocupa-6/
-Revisión: corregida (en el español: "presuntas sustancias narcóticas" → "presuntas sustancias"; "encontraron" → "ocuparon" para se
-[República Dominicana] De Último Minuto: texto leído 2532 letras -> https://deultimominuto.com/internacionales/papa-critica-fracaso-cop31/
-Cambiada de sección: República Dominicana -> Internacionales: Papa León XIV critica el fracaso de la COP 31 y advierte sobre la crisis climática
-Revisión: corregida (se quitó "ya" en ningún caso; se ajustó "Papa" a "papa" en el texto de la fuente no aplica; cambios reales: "
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1831 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-welcomes-the-joint-bid-by-chile-and-belgium-to-host-the-secretariat-of-the-biodiversity-beyond-national-jurisdiction-bbnj-agreement
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The United States Welcomes the Joint Bid by Chile and Belgium to Host the Secretariat of the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/sns-fortalece-atencion-materno-infantil-y-entrega-equipos-21-hospitales
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (se cambió "en Santo Domingo" a un lugar no confirmado por la fuente, se atribuyó la instrucción de "gestión e
+[República Dominicana] Presidencia de la República Dominicana: texto leído 6342 letras -> https://presidencia.gob.do/noticias/ministro-paino-henriquez-llama-jovenes-impulsar-un-futuro-sostenible-en-puerto-plata
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (eliminé "Según la presidencia" del texto en español y su equivalente en inglés, pues la fuente lo presenta si
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2320 letras -> https://presidencia.gob.do/noticias/desarrollo-de-la-comunidad-realiza-jornada-de-asistencia-social-en-sabaneta-santiago
+Fuente oficial encontrada: Presidencia de la República Dominicana 
+Revisión: corregida (quité la frase de relleno "Los residentes expresaron su agradecimiento... cerca de sus hogares" no; en realid
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1899 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Severing the Financial Lifelines of Iran’s Shadow Banking Network
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 1887 letras -> https://www.federalregister.gov/public-inspection/current
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/public-inspection/current
 Fuente oficial encontrada: Federal Register (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 11/24/2026 Public Inspection Issue
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: 21noticias.com
@@ -47,75 +30,68 @@ Fuente no confiable, se salta: 21noticias.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Dona sus cuatro libros a la Biblioteca Nacional
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: emsavalles.com
-Fuente no confiable, se salta: extradigital.com.do
 Fuente no confiable, se salta: tecnologiageek.com
+[Dominicanos en EE.UU.] CDN: texto leído 4546 letras -> https://cdn.com.do/nacionales/salud-nacionales/la-bacteria-come-carne-deja-14-muertos-en-florida-y-luisiana/
+No encaja en ninguna sección, se salta: Bacteria «come carne» deja 14 muertos en Florida y Luisiana durante 2026
+Fuente no confiable, se salta: diariosocialrd.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: soloazar.com
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: pressreader.com
 [Internacionales] The White House (.gov): texto leído 1169 letras -> https://www.whitehouse.gov/releases/2026/11/voting-begins-for-the-2026-national-thanksgiving-turkey-pardon-ceremony/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo puedo redactar una noticia a partir de este texto porque no es una noticia sobre un hecho concreto ocurrido, sino un anuncio de votación para elegir qué pavo recibirá el indulto pres')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es un anuncio institucional de votación para elegir qué pavo será indultado, no una noticia con hechos ya ocurridos, por lo que no genera una nota periodística con el forma')
 [Internacionales] The White House (.gov): texto leído 4034 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-stands-with-victims-families-as-newsom-grants-mass-clemency-to-depraved-killers/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump Stands with Victims’ Families as Newsom Grants Mass Clemency to Depraved Killers
 [Internacionales] The White House (.gov): texto leído 2895 letras -> https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes
-[Famosos] El Nuevo Día: texto leído 826 letras -> https://www.elnuevodia.com/entretenimiento/farandula/fotogalerias/conoce-las-cinco-finalistas-de-miss-universe/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Conoce las cinco finalistas de Miss Universe
-[Famosos] CDN: texto leído 3072 letras -> https://cdn.com.do/nacionales/inicia-presenta-legado-de-gloria-libro-sobre-el-olimpismo-dominicano/
-[Famosos] Acento: texto leído 3120 letras -> https://acento.com.do/deportes/inicia-presenta-legado-de-gloria-un-libro-que-recoge-la-historia-del-olimpismo-y-paralimpismo-dominicanos-9796301.html
-[Famosos] Listín Diario: texto leído 2991 letras -> https://listindiario.com/el-deporte/olimpismo/20261124/legado-gloria-nuevo-libro-inicia-celebra-historia-olimpismo-paralimpismo-dominicano_931446/amp.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): “Legado de Gloria”, el nuevo libro de INICIA sobre la historia del olimpismo y paralimpismo dominicanos
+[Famosos] Diario Libre: texto leído 3929 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/25/como-se-celebra-el-dia-de-accion-de-gracias-en-republica-dominicana/3731048
+Cambiada de sección: Famosos -> República Dominicana: Acción de Gracias: la celebración que RD tiene por ley y la diáspora llevó a la mesa
+Revisión: corregida (quité el "Muchos dominicanos ni siquiera saben que existe" que no está en la fuente; quité la afirmación de q
+[Famosos] El Nuevo Día: texto leído 3252 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/que-necesita-el-mundo-de-sus-lideres-esto-respondieron-las-cinco-finalistas-de-miss-universe-2026/
+[Famosos] ElHeraldo.hn: texto leído 5101 letras -> https://www.elheraldo.hn/entretenimiento/miss-universo-2026-respondieron-cinco-finalistas-ronda-preguntas-IC32747258
+Revisión: corregida (corregí la atribución de la cita de Waddington sobre "mana" a El Nuevo Día es correcto, pero quité la afirmac
+[Famosos] CDN: texto leído 3510 letras -> https://cdn.com.do/internacionales/rescatan-a-todos-los-rehenes-de-un-supermercado-en-colombia/
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[Famosos] El Nuevo Herald: texto leído 0 letras -> https://amp.elnuevoherald.com/noticias/america-latina/colombia-es/article318246208.html
+[Famosos] BBC: texto leído 3568 letras -> https://www.bbc.com/mundo/articles/cmx2rny0dn17o
+Cambiada de sección: Famosos -> Internacionales: Rescatan a todos los rehenes secuestrados en un supermercado de Colombia
+Revisión: corregida (corregí el número de rehenes según las fuentes: CDN dice unas 20 y BBC/presidente unas 30, sin cifra única; a
 Fuente no confiable, se salta: arecoa.com
-Fuente no confiable, se salta: tecnologiageek.com
-[Famosos] Noticias SIN: texto leído 4608 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/casa-de-teatro-hara-jornada-solidaria-por-ninos-cubanos-con-cancer-2176027/?amp=1
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Casa de Teatro acogerá jornada artística para apoyar a niños con cáncer en Cuba
-Fuente no confiable, se salta: cuballama.com
-[Famosos] Listín Diario: texto leído 5749 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
-Error IA: ValueError('respuesta sin el formato esperado: Antes de redactar, debo señalar que la única versión que me pasaste es de Listín Diario (PERIÓDICO), y el texto está incompleto: se corta en "Tiempo at". Además, no hay ninguna versión marcada como (F')
-Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: cibercuba.com
-Fuente no confiable, se salta: masvip.com.do
-[Famosos] Hoy Digital: texto leído 1452 letras -> https://hoy.com.do/vivir/alegria/isaura-taveras-gana-premio-alfombra-casa-alofoke_1109784.html
-Rechazada por la revisión: Isaura Taveras gana premio de la alfombra de La Casa de Alofoke -> cifras que no aparecen en las fuentes: 100000, 200000
-Fuente no confiable, se salta: prensa-latina.cu
-Fuente no confiable, se salta: tecnologiageek.com
-Fuente no confiable, se salta: eljaya.com
-[Famosos] De Último Minuto: texto leído 2730 letras -> https://deultimominuto.com/entretenimiento/gabi-desangles-3/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gabi Desangles suma una nueva alfombra roja a su trayectoria, esta vez en La Casa de Alofoke 3
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851501?ins=previa&sec=boxscore
-No se pudo bajar la página: <HTTPError 404: 'Not Found'>
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-gigantes-vs-toros-251508
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Gigantes del Cibao
-[Deportes] MLB.com: texto leído 5370 letras -> https://www.mlb.com/news/mlb-free-agency-questions-entering-thanksgiving
-Revisión: corregida (corregí "Gigantes" → Giants se mantiene en inglés en la fuente pero en español es Gigantes, lo cual es correc
+[Famosos] AlMomento.net: texto leído 1343 letras -> https://almomento.net/johanna-almanzar-ofrece-un-concierto-a-casa-llena-en-sto-dgo/
+Revisión: corregida (cambié "Hony Estrella subió al escenario" a "subió al escenario" y "Johanna Almánzar" en el inglés, y quité e
 [Deportes] MLB.com: texto leído 4112 letras -> https://www.mlb.com/news/blue-jays-kaima-taira-free-agent-contract
 Rechazada por la revisión: Blue Jays bring on Japanese ERA leader Taira on five-year deal (source) -> cifras que no aparecen en las fuentes: 2019
+[Deportes] NBA.com: texto leído 130 letras -> https://www.nba.com/watch/video/game-recap-mavericks-120-nuggets-101-nov-24
+No se pudo leer el artículo; no se publica para no salir corta: Game Recap: Mavericks 120, Nuggets 101 (Nov. 24)
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_07_15PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir una noticia a partir de este material, porque lo que me pasaste no contiene un texto periodístico legible. La "Versión 1" es el contenido en bruto de un archivo PDF (encabezados como')
+Error IA: ValueError('respuesta sin el formato esperado: Lo que recibí no es una noticia: es el contenido binario crudo de un archivo PDF (encabezados, objetos, flujos comprimidos e imágenes codificadas), publicado como "Injury Report" de NBA.com. Esa mezcl')
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_05_15PM.pdf
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/24/26 05:15 PM
 [Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/power-rankings-2026-27-week-6
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Power Rankings, Week 6: Heat, Knicks and Hawks surge as East standings tighten
-[Precios y combustibles] CDN: texto leído 4427 letras -> https://cdn.com.do/internacionales/america-latina/paraguay-adelantara-us10-millones-en-indemnizaciones-por-ueno-bank/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como la pides. La versión que me pasaste está incompleta: se corta a mitad de una frase y no incluye el texto de las demás versiones que mencionas, a')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste es una columna de Power Rankings de NBA.com, una clasificación semanal con la opinión de su autor, John Schuhmann, sobre los equipos. Además está cortado a mitad')
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-24_09_00PM.pdf
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar una noticia a partir de esta versión. Lo que llegó como "NBA.com" no es un texto periodístico: es el contenido bruto de un archivo PDF (cabeceras, objetos, streams comprimidos e imág')
 Fuente no confiable, se salta: bloomberglinea.com
-Fuente no confiable, se salta: revistamercado.do
+[Precios y combustibles] El Nacional — La voz de todos: texto leído 4333 letras -> https://elnacional.com.do/economia/precio-viveres-da-tregua-golpea-bolsillo-dominicanos_587144_amp.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: El precio de los víveres no da tregua y golpea el bolsillo de los dominicanos
+Revisión: corregida (se corrigieron las cifras de la sección de colmados y precios; se eliminaron frases de relleno y se alinea el
 Fuente no confiable, se salta: reddenoticias.online
+[Precios y combustibles] CDN: texto leído 4233 letras -> https://cdn.com.do/entretenimiento/miss-universo-2026-melissa-nunez-primera-finalista-tras-17-anos/
+Cambiada de sección: Precios y combustibles -> Deportes: República Dominicana vuelve al puesto de primera finalista
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (cambié "Deportes" por "Entretenimiento" no; ajusté "primera finalista... posición.
+Revisión: corregida (cambié "Deportes" por "Entretenimiento" no; ajusté "primera finalista... posición... 17 años" y precisé que e
+[Precios y combustibles] CDN: texto leído 3072 letras -> https://cdn.com.do/nacionales/inicia-presenta-legado-de-gloria-libro-sobre-el-olimpismo-dominicano/
+[Precios y combustibles] Acento: texto leído 3120 letras -> https://acento.com.do/deportes/inicia-presenta-legado-de-gloria-un-libro-que-recoge-la-historia-del-olimpismo-y-paralimpismo-dominicanos-9796301.html
+[Precios y combustibles] Listín Diario: texto leído 2991 letras -> https://listindiario.com/el-deporte/olimpismo/20261124/legado-gloria-nuevo-libro-inicia-celebra-historia-olimpismo-paralimpismo-dominicano_931446/amp.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): “Legado de Gloria”, el nuevo libro de INICIA sobre la historia del olimpismo y paralimpismo dominicanos
 [Videojuegos] Nintendo: texto leído 918 letras -> https://www.nintendo.com/en-ca/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Official Site - Canada - Consoles, Games, and More
-[Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
-[Videojuegos] Nintendo: texto leído 2461 letras -> https://www.nintendo.com/us/store/products/cheerleaders-girls-naughty-school-spirit-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Cheerleaders Girls: Naughty School Spirit
-[Videojuegos] Nintendo: texto leído 2951 letras -> https://www.nintendo.com/ph/news/article/4iybfxkEYopcgFwRyvvqKB
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The latest free update is available from November 18 2026, with new ways to splat it out together!
+[Videojuegos] Nintendo: texto leído 163 letras -> https://www.nintendo.com/ph/switch2/index.html
+No se pudo leer el artículo; no se publica para no salir corta: Nintendo Switch 2 console
 [Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Ornament as a Gift with Purchase from Pokémon Center
@@ -124,13 +100,15 @@ Fuente oficial encontrada: Pokemon.com
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
 [Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Guess the pokemon by its cry!
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia: el material que me pasaste no contiene una noticia. Es una página de foros de Pokémon.com con una pregunta de un usuario ("¿qué Pokémon es?") y comentarios de otros usu')
 [Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
 [Videojuegos] Pokemon.com: texto leído 1950 letras -> https://community.pokemon.com/en-us/discussion/27045/greatest-pokemon-game-idea-ever-pokemon-travel-the-world
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Greatest Pokemon Game Idea Ever! Pokemon: Travel the World
+[Videojuegos] Nintendo: texto leído 343 letras -> https://www.nintendo.com/es-ar/store/products/moto-rush-gt-omega-edition-switch/dlc/
+No se pudo leer el artículo; no se publica para no salir corta: Moto Rush GT Omega Edition
 [Videojuegos] Nintendo: texto leído 2016 letras -> https://www.nintendo.com/es-ar/store/products/solo-shift-karaoke-plus-aquarium-pack-set-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Solo Shift! Karaoke + Aquarium Pack Set
@@ -144,8 +122,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy G
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
 Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 1.
+Consejo del día (divisas): Cuida tu dinero entre dos países
 Marcadores: 26 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-5 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 109 · ya cubiertas: 29 · no confiables: 28 · opinión: 0 · con texto leído: 43 · sin texto: 2 · medios juntados: 0 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 4 · descartadas por la IA: 30 · cambiadas de sección: 1 · largas: 4 · ocultas (cortas): 1
-Para Instagram (tendencia 5): Jennifer Barreto, de Puerto Rico, gana la corona de Miss Universo 2026
+13 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 90 · ya cubiertas: 25 · no confiables: 19 · opinión: 0 · con texto leído: 37 · sin texto: 4 · medios juntados: 3 · con fuente oficial: 19 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 3 · error IA: 5 · descartadas por la IA: 17 · cambiadas de sección: 4 · largas: 9 · ocultas (cortas): 3
+Para Instagram (tendencia 4): La ley dominicana que ya fija el Día de Acción de Gracias desde 1962

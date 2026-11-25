@@ -1,22 +1,5 @@
 [
  {
-  "fecha": "2026-10-31",
-  "tema": "divisas",
-  "titulo": "Cuida cada peso y cada dólar",
-  "texto": "Compara casas de cambio y apps de remesas antes de enviar dinero, y revisa la tasa del dólar en fuentes oficiales. Así puedes pagar menos y recibir más para tu familia.",
-  "url": "https://divisasrd.com",
-  "sitio": "divisasrd.com",
-  "titulo_en": "Protect every peso and dollar",
-  "texto_en": "Compare exchange houses and remittance apps before sending money, and check the dollar rate on official sources. That way you can pay less and get more for your family.",
-  "boton": "Mira la tasa en vivo",
-  "ig": "publicado",
-  "ig_img": "ig/consejo-2026-10-31.jpg",
-  "historia": "error",
-  "historia_img": "ig/consejo-2026-10-31-h.jpg",
-  "ig_id": "18157555585460004",
-  "ig_fecha": "2026-10-31T15:32:43.908797+00:00"
- },
- {
   "fecha": "2026-11-01",
   "tema": "divisas",
   "titulo": "Cuida cada dólar que envías",
@@ -495,5 +478,20 @@
   "ig_img": "ig/consejo-2026-11-24-divisas.jpg",
   "historia": "pendiente",
   "historia_img": "ig/consejo-2026-11-24-divisas-h.jpg"
+ },
+ {
+  "fecha": "2026-11-25",
+  "tema": "divisas",
+  "titulo": "Cuida tu dinero entre dos países",
+  "texto": "Compara siempre la tasa antes de cambiar dólares o enviar remesas, porque una casa de cambio puede cobrarte más sin avisar. Revisa también los precios de combustibles y el tipo de cambio antes de planificar tus gastos del mes.",
+  "url": "https://divisasrd.com",
+  "sitio": "divisasrd.com",
+  "titulo_en": "Protect Your Money Across Two Countries",
+  "texto_en": "Always compare the exchange rate before converting dollars or sending remittances, since one exchange house may charge you more without telling you. Also check fuel prices and the currency rate before planning your monthly spending.",
+  "boton": "Mira la tasa en vivo",
+  "ig": "pendiente",
+  "ig_img": "ig/consejo-2026-11-25-divisas.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/consejo-2026-11-25-divisas-h.jpg"
  }
 ]
