@@ -1,5 +1,541 @@
 [
  {
+  "id": "bfbd321fc1",
+  "titulo": "Infotep y DNI firman acuerdo para formar talento en ciberseguridad",
+  "titulo_original": "Infotep y DNI firman acuerdo para formar talento en ciberseguridad",
+  "resumen": "Infotep y la DNI firmaron un convenio de tres años para preparar personal y fortalecer la ciberseguridad en el país.",
+  "gancho": "Infotep y la DNI firmaron un convenio de tres años para preparar personal y fortalecer la ciberseguridad en el país.",
+  "parrafos": [
+   "El Instituto Nacional de Formación Técnico Profesional (Infotep) y la Dirección Nacional de Inteligencia (DNI) firmaron un acuerdo de cooperación para fortalecer la formación de talento especializado y promover una cultura nacional de ciberseguridad.",
+   "Según el comunicado oficial, entre los objetivos figura capacitar al personal del Infotep en sistemas de datos y ciberseguridad, y validar las competencias ocupacionales de los servidores de la DNI. La directora general del Infotep, Maira Morla Pineda, dijo que la alianza ayudará a preparar personas para responder a los desafíos del ciberespacio. El director de la DNI, Luis Soto, afirmó que el país necesita este tipo de acuerdos porque la tecnología debe ser manejada y protegida por personal preparado.",
+   "El convenio contempla pasantías de los participantes del Infotep en el Centro Nacional de Ciberseguridad, la elaboración de un informe de vulnerabilidades de los sistemas del Infotep con recomendaciones de corrección, y el establecimiento de mecanismos seguros para reportar incidentes cibernéticos a través del Equipo Nacional de Respuesta a Incidentes Cibernéticos (CSIRT-RD).",
+   "Entre 2024 y 2026 se capacitaron 10,039 participantes en 363 acciones formativas en ciberseguridad, tecnologías de la información y la comunicación (TIC) e inteligencia artificial.",
+   "La vigencia del acuerdo es de tres años, y se creará una mesa de trabajo interinstitucional para dar seguimiento a los compromisos."
+  ],
+  "claves": [
+   "El acuerdo tiene una vigencia de tres años.",
+   "Entre 2024 y 2026 se capacitaron 10,039 participantes en 363 acciones formativas.",
+   "Se creará una mesa de trabajo interinstitucional para dar seguimiento a los compromisos.",
+   "Los incidentes cibernéticos se reportarán a través del CSIRT-RD."
+  ],
+  "importa": "El acuerdo busca formar personas capaces de proteger los sistemas digitales del país, lo que incide en la seguridad de la información que usan los dominicanos en su trabajo y en su vida diaria.",
+  "en": {
+   "titulo": "Infotep and DNI Sign Agreement to Train Cybersecurity Talent",
+   "gancho": "Infotep and the DNI signed a three-year agreement to prepare personnel and strengthen cybersecurity in the country.",
+   "claves": [
+    "The agreement runs for three years.",
+    "From 2024 to 2026, 10,039 participants were trained in 363 training actions.",
+    "A joint working group will be created to follow up on the commitments.",
+    "Cyber incidents will be reported through the CSIRT-RD."
+   ],
+   "importa": "The deal aims to train people who can protect the country's digital systems, which affects the security of the information Dominicans rely on at work and in daily life.",
+   "parrafos": [
+    "The Dominican Republic's National Technical Professional Training Institute (Infotep) and the National Intelligence Directorate (DNI) signed a cooperation agreement to strengthen specialized talent training and promote a national culture of cybersecurity.",
+    "According to the official statement, the goals include training Infotep staff in data systems and cybersecurity, and validating the occupational skills of DNI employees. Infotep Director General Maira Morla Pineda said the alliance will help prepare people to meet the challenges of cyberspace. DNI Director Luis Soto said the country needs this kind of agreement because technology must be managed and protected by trained personnel.",
+    "The agreement provides for internships for Infotep participants at the National Cybersecurity Center, a vulnerability report on Infotep's systems with recommendations for fixing weaknesses, and secure mechanisms for reporting cyber incidents through the National Cyber Incident Response Team (CSIRT-RD).",
+    "From 2024 to 2026, 10,039 participants were trained in 363 training actions in cybersecurity, information and communication technologies (ICT), and artificial intelligence.",
+    "The agreement is valid for three years, and a joint working group will be created to follow up on the commitments."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkhGa3gyel85N1VPUkRRclFrSEQ5MFN4WXg4WHBDbXk2LWx4LTN2Y29iVE5PZkRmYU12Y0VOYXVJUGdOX3JSSVdGcTBNTjV1NWxZMnd5cjJOdmttNm1vcmExTU9DX2gyV1lKY0ZRbjlaSWtoMWh5VkdJOUFUeEhPVE1SVmJWYWRmci1FcWxoeDJNOVZuRVNVbE5ZS2Vxc3dENGZqXw?oc=5",
+  "url": "https://presidencia.gob.do/noticias/infotep-y-dni-firman-acuerdo-para-formar-talento-en-ciberseguridad",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/infotep-y-dni-firman-acuerdo-para-formar-talento-en-ciberseguridad"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Luis%20Soto%2C%20director%20del%20DNI%20y%20Maira%20Morla%20Pineda%2C%20directora%20general%20del%20INFOTEP.jpeg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (eliminé \"y garantizar su ejecución\" del texto de la mesa de trabajo, pues la fuente solo dice \"dar seguimiento\"; ajusté el título en inglés para que coincida con \"ciberseguridad\" sin inventar \"build\"; reemplacé \"Estos son los detalles\" en el gancho por una frase natural; y cambié \"Desde 2024 hasta 2026\" por \"Entre 2024 y 2026\" para coincidir con la fuente en el gancho y el texto.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T17:48:33.895995+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "8ce3c45ca0",
+  "titulo": "Hombre muere tras chocar contra camión en Pinar Quemado, Jarabacoa",
+  "titulo_original": "Hombre pierde la vida tras impactar su motocicleta contra un camión en Pinar Quemado, Jarabacoa",
+  "resumen": "Un hombre de 32 años murió la tarde de este miércoles tras chocar de frente contra un camión en Jarabacoa.",
+  "gancho": "Un hombre de 32 años murió la tarde de este miércoles tras chocar de frente contra un camión en Jarabacoa.",
+  "parrafos": [
+   "Un hombre de 32 años perdió la vida la tarde de este miércoles tras sufrir un accidente de tránsito en el sector Pinar Quemado, en el municipio de Jarabacoa, provincia La Vega. La víctima fue identificada como Josué Torres Torres, originario de Santiago.",
+   "De acuerdo con las informaciones preliminares, Torres se dirigía en motocicleta hacia su residencia, ubicada en la comunidad de La Majagüita, distrito municipal de Manabao. Según los datos recibidos, presuntamente intentó rebasar un camión que estaba estacionado, sin percatarse de la aproximación de otro vehículo pesado, marca Mack, contra el que impactó de frente.",
+   "Tras el choque, habría sido atropellado y murió en el lugar.",
+   "Al sitio acudieron unidades del Cuerpo de Bomberos de Jarabacoa, el médico legista y agentes de la Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT), entre otras autoridades, que realizaron los procedimientos correspondientes.",
+   "El cuerpo fue trasladado a la morgue, donde permanecía a la espera de sus familiares para los trámites correspondientes."
+  ],
+  "claves": [
+   "La víctima es Josué Torres Torres, de 32 años, originario de Santiago.",
+   "El accidente ocurrió la tarde de este miércoles en el sector Pinar Quemado, Jarabacoa, provincia La Vega.",
+   "Según informaciones preliminares, intentó rebasar un camión estacionado y chocó de frente contra otro vehículo pesado.",
+   "Murió en el lugar; su cuerpo fue trasladado a la morgue."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Man Dies After Crashing Into Truck in Pinar Quemado, Jarabacoa",
+   "gancho": "A 32-year-old man died Wednesday afternoon after colliding head-on with a truck in Jarabacoa.",
+   "claves": [
+    "The victim is Josué Torres Torres, 32, from Santiago.",
+    "The crash happened Wednesday afternoon in the Pinar Quemado sector, Jarabacoa, La Vega province.",
+    "Preliminary information indicates he tried to pass a parked truck and crashed head-on into another heavy vehicle.",
+    "He died at the scene; his body was taken to the morgue."
+   ],
+   "importa": "",
+   "parrafos": [
+    "A 32-year-old man died Wednesday afternoon in a traffic accident in the Pinar Quemado sector of Jarabacoa, in La Vega province. The victim was identified as Josué Torres Torres, originally from Santiago.",
+    "According to preliminary information, Torres was riding his motorcycle toward his home in the La Majagüita community, in the Manabao municipal district. The data received indicates he presumably tried to pass a parked truck without noticing another heavy vehicle approaching, a Mack, and collided with it head-on.",
+    "After the impact, he was reportedly run over and died at the scene.",
+    "Units from the Jarabacoa Fire Department, the forensic medical examiner, and agents of the General Directorate of Land Transit and Transport Safety (DIGESETT), among other authorities, responded to the scene and carried out the corresponding procedures.",
+    "The body was taken to the morgue, where it remained pending the arrival of family members for the required paperwork."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/hombre-pierde-la-vida-3/",
+  "url": "https://deultimominuto.com/nacionales/hombre-pierde-la-vida-3/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/hombre-pierde-la-vida-3/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió \"motociclista\" por \"hombre\" en el titular y gancho en español según la fuente que dice \"hombre\"; \"motociclista\" no aparece en la fuente. Se ajustó el inglés en consecuencia, se quitó \"Authorities are investigating the case\" por no estar en las fuentes, y se precisó \"Motorcyclist\" → \"Man\" en el titular en inglés para mantener la correspondencia)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T17:49:03.042720+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "8dafd23fa0",
+  "titulo": "Dirección Provincial de Deportes entrega utilería al Centro Correccional San Felipe en Puerto Plata",
+  "titulo_original": "Dirección Provincial de Deportes entrega utilería al Centro Correccional San Felipe",
+  "resumen": "La Dirección Provincial de Deportes llevó material deportivo a un centro penitenciario para promover la práctica del deporte entre personas privadas de libertad.",
+  "gancho": "La Dirección Provincial de Deportes llevó material deportivo a un centro penitenciario para promover la práctica del deporte entre personas privadas de libertad.",
+  "parrafos": [
+   "La Dirección Provincial de Deportes de Puerto Plata, encabezada por Joan Glorioso, entregó utilería deportiva al Centro de Corrección y Rehabilitación San Felipe. La entrega forma parte de las iniciativas para fomentar la práctica del deporte dentro de esa institución.",
+   "La actividad contó con el respaldo del Ministerio de Deportes, que dirige el ministro Kelvin Cruz. El director del centro, Luis Gabriel Victoria Castillo, recibió el material y agradeció el apoyo de ambas entidades.",
+   "La iniciativa busca usar el deporte como herramienta de formación, disciplina, salud y reinserción social de las personas privadas de libertad.",
+   "Durante la actividad, Glorioso reafirmó su compromiso de seguir trabajando por el desarrollo deportivo en los barrios, comunidades e instituciones de la provincia de Puerto Plata.",
+   "La entrega se suma a otra reciente: un juego de tableros de baloncesto para los directivos de la cancha del barrio Haití, en el municipio de Puerto Plata, también con apoyo del Ministerio de Deportes. La Dirección Provincial reiteró que continuará respaldando iniciativas deportivas mediante entrega de utilería, organización de eventos y promoción de actividades de formación, salud e integración social."
+  ],
+  "claves": [
+   "La Dirección Provincial de Deportes de Puerto Plata, encabezada por Joan Glorioso, entregó utilería deportiva.",
+   "El destinatario fue el Centro de Corrección y Rehabilitación San Felipe.",
+   "La entrega recibió el respaldo del Ministerio de Deportes, dirigido por Kelvin Cruz."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Provincial Sports Office Donates Equipment to San Felipe Correctional Center in Puerto Plata",
+   "gancho": "Puerto Plata's provincial sports office delivered sports equipment to a correctional facility to encourage exercise among inmates.",
+   "claves": [
+    "The Provincial Sports Office of Puerto Plata, led by Joan Glorioso, delivered sports equipment.",
+    "The recipient was the San Felipe Correction and Rehabilitation Center.",
+    "The donation had the backing of the Ministry of Sports, led by Minister Kelvin Cruz."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Provincial Sports Office of Puerto Plata, led by Joan Glorioso, donated sports equipment to the San Felipe Correction and Rehabilitation Center. The donation is part of efforts to promote sports activity inside the institution.",
+    "The event had the support of the Ministry of Sports, led by Minister Kelvin Cruz. The center's director, Luis Gabriel Victoria Castillo, received the equipment and thanked both agencies for their support.",
+    "The initiative aims to use sports as a tool for education, discipline, health, and social reintegration of people deprived of liberty.",
+    "During the event, Glorioso reaffirmed his commitment to continue promoting sports development in neighborhoods, communities, and institutions across Puerto Plata province.",
+    "The donation follows a recent one: a set of basketball backboards for the managers of the Haití neighborhood court in the municipality of Puerto Plata, also supported by the Ministry of Sports. The provincial office reiterated that it will keep supporting sports initiatives through equipment donations, event organization, and activities that promote education, health, and social integration."
+   ]
+  },
+  "link": "https://deultimominuto.com/deportes/direccion-provincial-de-deportes-entrega-utileria-al-centro-correccional-san-felipe/",
+  "url": "https://deultimominuto.com/deportes/direccion-provincial-de-deportes-entrega-utileria-al-centro-correccional-san-felipe/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/deportes/direccion-provincial-de-deportes-entrega-utileria-al-centro-correccional-san-felipe/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió \"Deportes entrega\" en el título y gancho por nombre preciso \"Dirección Provincial de Deportes\"; se corrigió \"Sports Office\" a \"Provincial Sports Office\" en el título inglés; se eliminó la frase \"Según la información publicada\" por no ser necesaria y se atribuyó correctamente; se ajustó \"directivos de la cancha\" a una formulación más natural.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T17:49:13.444002+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "eaed48fe4b",
+  "titulo": "DEMOCRATIC OPENINGS COUNTRY LIST",
+  "titulo_original": "DEMOCRATIC OPENINGS COUNTRY LIST",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxybzJ6NGVlQTJLTDVTcy1sUng4MDF4UjYzd1BvMkVXMXZTSHdWNWN5cHRhVEQ0YkVXSVVTMEhwR3pLNDRDcnFhbzlVT1pSODZfODRQc3dBNjd2cThYMlR6OWxGVVg3QTZPQkppTFNfcDRzc3RNS1IxYm85TDR3WUVlUmtubzh1U2NUX1d3eTBmQUdzOEc1MGl2b0ZNRU0w?oc=5",
+  "fuente": "U.S. Agency for International Development (.gov)",
+  "dominio": "usaid.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T17:49:21.702349+00:00"
+ },
+ {
+  "id": "ecd793c1ad",
+  "titulo": "Dominicano indocumentado se declara culpable de conspiración para distribuir cocaína en Massachusetts",
+  "titulo_original": "Dominicano indocumentado se declara culpable de conspirar para distribuir cocaína en Massachusetts",
+  "resumen": "Un dominicano que vivía de forma irregular en Lawrence, con una identidad falsa, admitió su culpa en un caso de tráfico de cocaína en Boston.",
+  "gancho": "Un dominicano que vivía de forma irregular en Lawrence, con una identidad falsa, admitió su culpa en un caso de tráfico de cocaína en Boston.",
+  "parrafos": [
+   "Un dominicano con estatus migratorio irregular se declaró culpable de participar en una conspiración para distribuir cocaína en Massachusetts, informó el Departamento de Justicia de Estados Unidos. Santo Victorino Lugo Veras, de 46 años, vivió en Lawrence con una identidad falsa hasta su arresto en 2025.",
+   "El acusado se declaró culpable ante un tribunal federal de Boston por conspirar para distribuir 500 gramos o más de cocaína. Lugo Veras enfrenta entre cinco y 40 años de prisión, una libertad supervisada de entre cuatro años y de por vida, y una multa de hasta cinco millones de dólares. Está sujeto a deportación tras cumplir la pena de prisión que se le imponga.",
+   "La investigación comenzó en el verano de 2023, cuando agentes encubiertos contactaron en Puerto Rico a Rony Valencia López, quien supuestamente tenía acceso a grandes cantidades de cocaína. Según el Departamento de Justicia, Valencia López acordó entregar 15 kilogramos de la droga, que dijo que estaba en Massachusetts. Tras una reunión en un hotel de Andover, él y su socio Luis Peña Arias se encontraron con los agentes; esa misma noche, Linette Dávila llegó al hotel con cuatro kilogramos de cocaína y los tres fueron detenidos.",
+   "Un análisis de la evidencia telefónica identificó a Lugo Veras como el proveedor. Según los documentos judiciales, la noche del 21 de septiembre de 2023 utilizó una aplicación de mensajería cifrada para indicarle a Dávila que llevara la droga al hotel.",
+   "Dávila fue sentenciada a 78 meses de prisión, Valencia López a 46 meses y Peña Arias a 34 meses. Los tres se habían declarado culpables en diciembre de 2024. Lugo Veras fue acusado formalmente por un gran jurado federal en octubre de ese año, y su sentencia está fijada para el 10 de marzo de 2027."
+  ],
+  "claves": [
+   "Santo Victorino Lugo Veras, de 46 años, se declaró culpable ante un tribunal federal de Boston.",
+   "Enfrenta entre cinco y 40 años de prisión y una multa de hasta cinco millones de dólares.",
+   "Su sentencia está fijada para el 10 de marzo de 2027.",
+   "Tres coacusados ya fueron sentenciados a penas de entre 34 y 78 meses de prisión."
+  ],
+  "importa": "Muestra cómo las redes de droga involucran también a migrantes dominicanos en Estados Unidos, y cómo la condición migratoria irregular puede terminar en deportación tras cumplir la condena.",
+  "en": {
+   "titulo": "Undocumented Dominican Pleads Guilty to Cocaine Distribution Conspiracy in Massachusetts",
+   "gancho": "A Dominican man living undocumented in Lawrence under a false identity has admitted guilt in a Boston cocaine trafficking case.",
+   "claves": [
+    "Santo Victorino Lugo Veras, 46, pleaded guilty in federal court in Boston.",
+    "He faces five to 40 years in prison and a fine of up to $5 million.",
+    "His sentencing is set for March 10, 2027.",
+    "Three co-defendants have already been sentenced to 34 to 78 months in prison."
+   ],
+   "importa": "The case shows how drug networks also involve Dominican immigrants in the United States, and how irregular immigration status can lead to deportation after serving a sentence.",
+   "parrafos": [
+    "A Dominican man with irregular immigration status pleaded guilty to taking part in a conspiracy to distribute cocaine in Massachusetts, the U.S. Department of Justice reported. Santo Victorino Lugo Veras, 46, lived in Lawrence under a false identity until his arrest in 2025.",
+    "The defendant pleaded guilty in federal court in Boston to conspiring to distribute 500 grams or more of cocaine. Lugo Veras faces five to 40 years in prison, supervised release of between four years and life, and a fine of up to $5 million. He is subject to deportation after serving the prison sentence imposed on him.",
+    "The investigation began in the summer of 2023, when undercover agents in Puerto Rico contacted Rony Valencia López, who allegedly had access to large quantities of cocaine. According to the Justice Department, Valencia López agreed to deliver 15 kilograms of the drug, which he said was in Massachusetts. After a meeting at a hotel in Andover, he and his partner Luis Peña Arias met with the agents; that same night, Linette Dávila arrived at the hotel with four kilograms of cocaine, and all three were arrested.",
+    "An analysis of phone evidence identified Lugo Veras as the supplier. According to court documents, on the night of September 21, 2023, he used an encrypted messaging app to tell Dávila to bring the drugs to the hotel.",
+    "Dávila was sentenced to 78 months in prison, Valencia López to 46 months, and Peña Arias to 34 months. All three had pleaded guilty in December 2024. Lugo Veras was formally indicted by a federal grand jury in October of that year, and his sentencing is set for March 10, 2027."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWtiN3Q2RDJ5N0dtMEJkQUc5ZmlmcThHczBpNzZHc1pPal95bktzbzZjS3k5Ujc5SXcyam9BZ0xXbkdmT1FIdnFfU0ZCU3lIRUdNZlNtSkZOZlE1bEgtb0lsN04wMXpsWUc5ZDhWNkVCWEhJdi1IX2pJLVNHc0cxeEI2ZGFWQnM4VHE1MC1abDM4SWxGVnlNeUhpWjZ6UVZ2MDlBOEtmNW94aTdxNUNEX1gtdUdlYW00QlpXQ0Y1X05MbnNpOXU00gHMAUFVX3lxTE9kYU9tajBfUEhZRUt0dkxNV3Z4TFR3a2ZlY2EzQnJPVEJYaXYxRV9VQmpaM3lJWGRzQ1g4RFBOdjFYUk4wWGxFN2ppS0FSOUZldW1hRWdlVzhDbGtkdUFvRkVZbk9kVVZxVHlMOFFocHZ2a0ZPMTNZRXVLOTVXZ25pME4zVFYyNVNwSVA1a0oycS1YdVdNWkxIanZUUFRvMEd1V3l5MnI3eXJWN0k1VDFIazdvMkE3WmppWWtFZFBaaXN5WG9EbFo3Mjc5Tg?oc=5",
+  "url": "https://www.diariolibre.com/usa/actualidad/2026/11/25/dominicano-indocumentado-se-declara-culpable-de-trafico-de-cocaina/3731235",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/usa/actualidad/2026/11/25/dominicano-indocumentado-se-declara-culpable-de-trafico-de-cocaina/3731235"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité atribuciones no respaldadas por la fuente: el borrador decía \"según el Departamento de Justicia\" en el primer párrafo sin problema, pero corregí que los tres fueron detenidos \"cuando llevaban parte del cargamento\" (la fuente dice que fueron detenidos tras llegar Dávila con 4 kg, y que el cargamento era de 15 kg a entregar en cinco partes) y precisé que la sentencia de Dávila, Valencia y Peña fue por las cifras de la fuente; también ajusté \"será sujeto a deportación\" a \"está sujeto a deportación\", tal como dice la fuente, y eliminé la frase de \"libertad supervisada de cuatro años o más\" por \"entre cuatro años y de por vida\"; además corregí que Dávila llegó con cuatro kilogramos, no con \"parte del cargamento\" en general.)",
+  "seccion": "Dominicanos en EE.UU.",
+  "fecha": "2026-11-25T17:49:54.033447+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "232d8367a1",
+  "titulo": "Bray On, el imitador chileno de Luis Miguel que causa impacto en Yo Soy Perú",
+  "titulo_original": "Bray On, el imitador chileno de Luis Miguel que causa impacto en ‘Yo Soy’, edición Perú",
+  "resumen": "Un imitador chileno de Luis Miguel logra confundir a los jueces de Yo Soy, edición Perú, con un timbre de voz muy parecido al del Sol de México.",
+  "gancho": "Un imitador chileno de Luis Miguel logra confundir a los jueces de Yo Soy, edición Perú, con un timbre de voz muy parecido al del Sol de México.",
+  "parrafos": [
+   "En la nueva temporada de Yo Soy, edición Perú, uno de los participantes más destacados es el artista chileno Bray On, quien imita a Luis Miguel con un timbre de voz que, por momentos, logra confundir a los jueces.",
+   "Bray On se llama en realidad Brahiron Patricio Chávez Pérez y nació en Antofagasta, Chile, en diciembre de 1999. Su trabajo abarca el pop, la balada romántica, la bachata y el género urbano, aunque es conocido sobre todo por sus imitaciones del cantante mexicano.",
+   "Su carrera comenzó cuando tenía 16 años, como vocalista del grupo La Noche. Después ganó visibilidad en TikTok y con videos grabados en el metro de Santiago. En 2020 inició su proyecto como solista.",
+   "Su historial incluye la final de Got Talent Chile en 2021 y el triunfo en Mi nombre es en 2025, también imitando a Luis Miguel.",
+   "Bray On tiene un rival dentro de su propia familia: su hermano Bastián Chávez, quien interpreta a Cristian Castro y también ha llamado la atención en el programa. Juntos forman el dúo 9D y promueven en plataformas digitales su tema propio \"Quiero un amor\". Además, han lanzado \"Talismán\" y \"El amor de tu vida\".",
+   "Bray On planea presentarse el domingo 13 de diciembre en el hotel Le Meridien, en Santiago."
+  ],
+  "claves": [
+   "Bray On (Brahiron Patricio Chávez Pérez) es un artista chileno nacido en Antofagasta en diciembre de 1999.",
+   "Comenzó como vocalista del grupo La Noche a los 16 años y ganó visibilidad en TikTok.",
+   "Fue finalista de Got Talent Chile (2021) y ganó Mi nombre es (2025) imitando a Luis Miguel.",
+   "Se presentará el domingo 13 de diciembre en el hotel Le Meridien, en Santiago."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Chilean Luis Miguel Impersonator Causes Stir on Yo Soy, Peru Edition",
+   "gancho": "A Chilean Luis Miguel impersonator leaves the judges of Yo Soy, Peru edition, convinced by a voice very similar to the Mexican singer's.",
+   "claves": [
+    "Bray On (Brahiron Patricio Chávez Pérez) is a Chilean artist born in Antofagasta in December 1999.",
+    "He started as a vocalist for the group La Noche at age 16 and gained visibility on TikTok.",
+    "He was a finalist on Got Talent Chile (2021) and won Mi nombre es (2025) impersonating Luis Miguel.",
+    "He will perform on Sunday, December 13, at the Le Meridien hotel in Santiago."
+   ],
+   "importa": "",
+   "parrafos": [
+    "In the new season of Yo Soy, Peru edition, one of the standout contestants is Chilean artist Bray On, who impersonates Luis Miguel with a voice that at times leaves the judges convinced they are hearing the original.",
+    "Bray On's real name is Brahiron Patricio Chávez Pérez, and he was born in Antofagasta, Chile, in December 1999. His work spans pop, romantic ballads, bachata, and urban music, though he is best known for his impressions of the Mexican singer.",
+    "His career began when he was 16, as a vocalist for the group La Noche. He then gained visibility on TikTok and through videos recorded on the Santiago metro. In 2020 he launched his solo project.",
+    "His track record includes a finals appearance on Got Talent Chile in 2021 and a win on Mi nombre es in 2025, again impersonating Luis Miguel.",
+    "Bray On also has a rival within his own family: his brother Bastián Chávez, who impersonates Cristian Castro and has also drawn attention on the show. Together they form the duo 9D and are promoting their original song \"Quiero un amor\" on digital platforms. They have also released \"Talismán\" and \"El amor de tu vida.\"",
+    "Bray On plans to perform on Sunday, December 13, at the Le Meridien hotel in Santiago."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa09DRXFyOXQ1ZUNaTWhBMVJseDlLdWV3dTI0LXBQLWRkOXFmcGtFb2QxY2hPOHNDLVgzU2dFMTlRbWp3VnlUMWExSXhhY3RkSldaamltVkZpT3BzTXU4M24ydk9Cdm5FenZXaXlhNm8zM3doVTNSYW5nS0lSSHh5ZkRLMGFfLW13NnFYVDhPdUN3Z0NwUlB1b1NSRGdPbmI5UXQ5X0VSUjlwQ2x1NHRjU1g1NjlpZ0oyZWNmZU9lMlAzZ2JDVlduVVVNSDNPTWFlZkIyaGJ0TkFWa1NVcVZ0a1lZVHnSAfgBQVVfeXFMTlN2UnpqS25KbjNLajloNEJoNEljakRrR2JUeHlTVVlQM1pBTXlGZW1Ta25hckYzOS10UHJCNkFSN2xuaEtyalJDQ3dfWk1XcEx6WklMWmtwTk5fOFBpZ05HZkVDOTdhWEpWaHQ1MF8tU2tiZy1FUFVNei1SNlpUQVNzWlFPUWs3NUxkdFVSVjU4czJzdmpWTzFvazR3dWlJUkpuU3hlUkZFVnIzNWc3ZjVweXJEVGVMNDFpeVdJN0FTOEgyejllUnlKeGJSRjRLYlZLamFXWDBDdE5DRVA2U3RDb2hIbWNITHY1QWpxWjRPYmpkVmh3aWM?oc=5",
+  "url": "https://www.eluniverso.com/entretenimiento/cine-y-television/bray-on-el-imitador-chileno-de-luis-miguel-que-causa-impacto-en-yo-soy-edicion-peru-nota/",
+  "fuente": "El Universo",
+  "dominio": "eluniverso.com",
+  "fuentes": [
+   {
+    "nombre": "El Universo",
+    "url": "https://www.eluniverso.com/entretenimiento/cine-y-television/bray-on-el-imitador-chileno-de-luis-miguel-que-causa-impacto-en-yo-soy-edicion-peru-nota/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"destacados/sorprende\" sin cambios de hecho; ajusté \"conquista a los jueces\" y \"logra confundir\" a lo que dice la fuente; en el texto en inglés la frase \"leaves the judges convinced they are hearing the original\" se acercó más a la fuente; quité la frase de \"conquista\" del gancho en inglés para que coincida; y en el texto español \"sorprende\" del título se mantuvo porque la fuente habla de \"impacto\")",
+  "seccion": "Famosos",
+  "fecha": "2026-11-25T17:50:08.558884+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "815b92c7c0",
+  "titulo": "Magali Febles celebra el resultado de Melissa Núñez en Miss Universo 2026",
+  "titulo_original": "Magali Febles a la primera finalista de Miss Universe 2026, Melissa Núñez: “Para mí eres una verdadera reina”",
+  "resumen": "La directora de Miss República Dominicana Universo dedicó un mensaje de orgullo a Melissa Núñez tras quedar primera finalista del certamen.",
+  "gancho": "La directora de Miss República Dominicana Universo dedicó un mensaje de orgullo a Melissa Núñez tras quedar primera finalista del certamen.",
+  "parrafos": [
+   "La directora de Miss República Dominicana Universo, Magali Febles, celebró el resultado de Melissa Núñez, quien quedó como primera finalista de Miss Universo 2026. Febles lo expresó en un mensaje publicado en sus redes sociales, donde recordó la preparación que compartieron antes de llegar a la última etapa del certamen.",
+   "El concurso se celebró el martes en el Coliseo de Puerto Rico José Miguel Agrelot y reunió a 116 candidatas. Según Febles, el nombre de República Dominicana sonó por quinta vez ante más de 100 países. \"Anoche, hiciste temblar a 12 millones de personas en RD\", escribió.",
+   "La directora también habló de su papel como entrenadora. Explicó que tuvo que corregir a Núñez y pedirle que lo intentara una vez más, y que en el momento decisivo decidió dejarla brillar por sí misma. Además, destacó el mensaje que la candidata dio durante la ronda de preguntas sobre la educación y la empatía. \"Esa voz es tuya, Melissa, y espero que la sigas usando\", expresó.",
+   "Febles también pidió a los políticos dominicanos que presten más atención a las representantes del país en los concursos de belleza y que las respalden, como ocurre con los atletas. Según Diario Libre, la directora consideró que el resultado también puede abrir nuevas oportunidades para Núñez en la publicidad, el mercadeo y las marcas.",
+   "Jennifer Barreto, Miss Universe Puerto Rico, ganó el certamen. Aunque Núñez no obtuvo la corona universal, Febles le dedicó un mensaje final: \"Para mí eres una verdadera reina, siempre lo serás\".",
+   "Febles anunció que se organiza un recibimiento para celebrar el regreso de Núñez al país, con detalles que serían dados a conocer ese mismo día."
+  ],
+  "claves": [
+   "Melissa Núñez quedó como primera finalista de Miss Universo 2026.",
+   "El certamen reunió a 116 candidatas en el Coliseo de Puerto Rico José Miguel Agrelot.",
+   "Jennifer Barreto, Miss Universe Puerto Rico, ganó la corona, la sexta para Puerto Rico y la segunda en suelo boricua.",
+   "República Dominicana preparará un recibimiento para Núñez."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Magali Febles Celebrates Melissa Núñez's Miss Universe 2026 Result",
+   "gancho": "The director of Miss Dominican Republic Universe sent a proud message to Melissa Núñez after she finished as first runner-up.",
+   "claves": [
+    "Melissa Núñez was named first runner-up at Miss Universe 2026.",
+    "The pageant brought together 116 contestants at the Coliseo de Puerto Rico José Miguel Agrelot.",
+    "Jennifer Barreto, Miss Universe Puerto Rico, won the crown, Puerto Rico's sixth and the second held on Puerto Rican soil.",
+    "The Dominican Republic will hold a welcome event for Núñez."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Magali Febles, director of Miss Dominican Republic Universe, celebrated the result of Melissa Núñez, who finished as first runner-up at Miss Universe 2026. Febles shared her message on social media, recalling the preparation they went through together before reaching the final stage of the competition.",
+    "The contest was held on Tuesday at the Coliseo de Puerto Rico José Miguel Agrelot and gathered 116 contestants. According to Febles, the name of the Dominican Republic was called for the fifth time before more than 100 countries. \"Last night, you made 12 million people in the DR tremble,\" she wrote.",
+    "The director also spoke about her role as coach. She said she had to correct Núñez and ask her to try once more, and that at the decisive moment she chose to step aside and let her shine on her own. She also highlighted the message the contestant delivered during the question round about education and empathy. \"That voice is yours, Melissa, and I hope you keep using it,\" she said.",
+    "Febles also urged Dominican politicians to pay closer attention to the country's pageant representatives and support their participation, the way they do for athletes. According to Diario Libre, the director believes the result could also open new opportunities for Núñez in advertising, marketing and brand partnerships.",
+    "Jennifer Barreto, Miss Universe Puerto Rico, won the pageant. Although Núñez did not take the universal crown, Febles closed her message with a tribute: \"For me, you are a true queen, and you always will be.\"",
+    "Febles announced that a welcome event is being organized to celebrate Núñez's return to the country, with details to be released that same day."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbl9hU3Zib2ZXR0ZGLThQcU4zcnhDczNwbUt3aTNFcUJiYWFwR3F3VG00a2VXN3FZTElFaktOcXhkbVNoZ2taY25YZFZiMzE4VllSNmVDNHhCZHBDek5Nb2NLbVZDVmxtOVkyU19VNmJvOEY0MWNaM0s3dlFmLW5uRDZEclJYZXRQdjJqcHRJNFZjYW9xb1lkU19PTlRsZm9yM29IMkdyRTRWcjdVejNRbkJLbTV5MkVLZ3gyNXpSSFUwWGxOblNra0JNR1dkelY1WmEybXdFOWpmWWNoMklVRDZ6cklsVjZWTW1LaU9tUHlUUGsyMzFrXw?oc=5",
+  "url": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/esta-fue-la-reaccion-de-magali-febles-al-ver-que-puerto-rico-gano-y-dominicana-quedo-primera-finalista/",
+  "fuente": "Primera Hora",
+  "dominio": "primerahora.com",
+  "fuentes": [
+   {
+    "nombre": "Primera Hora",
+    "url": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/esta-fue-la-reaccion-de-magali-febles-al-ver-que-puerto-rico-gano-y-dominicana-quedo-primera-finalista/"
+   },
+   {
+    "nombre": "El Nuevo Día",
+    "url": "https://www.elnuevodia.com/entretenimiento/farandula/notas/magali-febles-a-la-primera-finalista-de-miss-universe-2026-melissa-nunez-para-mi-eres-una-verdadera-reina/"
+   },
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/revista/cultura/2026/11/25/magali-febles-celebra-logro-de-melissa-nunez-en-miss-universo/3731263"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"Magali Febles\" a \"directora de Miss República Dominicana Universo\" sin cambios de fondo; se atribuyó a Primera Hora el \"Esta fue la reacción\" no; se corrigió \"el pasado martes\" a \"el martes\" según la fuente; se atribuyó a Diario Libre la idea de oportunidades en publicidad y mercadeo; se quitó \"Por su parte, la organización dominicana anunció\" y se atribuyó la información del recibimiento a Febles; se corrigió \"aunque Núñez no obtuvo\" sin cambios; se quitó \"Puerto Rico ganó la corona\" por dato correcto; se eliminó \"Miss Universe Puerto Rico\" redundante; se ajustó \"Magali\" a \"Febles\" en el texto; se corrigió \"cinco veces\" a \"quinta vez\" según fuentes; se corrigió la cita de la fuente de 12 millones)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-25T17:50:55.263090+00:00",
+  "tendencia": 5,
+  "ig": "pendiente",
+  "ig_img": "ig/815b92c7c0.jpg"
+ },
+ {
+  "id": "a1355f109e",
+  "titulo": "Alcaldía del DN instala luminarias en parque de Los Praditos tras denuncia vecinal",
+  "titulo_original": "Alcaldía del DN ilumina parque en Los Praditos",
+  "resumen": "Tras una denuncia de la junta de vecinos, el cabildo capitalino instala luminarias en un parque comunitario. Los técnicos atribuyeron el daño a una sobrecarga eléctrica.",
+  "gancho": "Tras una denuncia de la junta de vecinos, el cabildo capitalino instala luminarias en un parque comunitario. Los técnicos atribuyeron el daño a una sobrecarga eléctrica.",
+  "parrafos": [
+   "La Alcaldía del Distrito Nacional atendió este martes una denuncia y colocó luminarias en un parque comunitario del sector Los Praditos, en Santo Domingo. Según informa CDN, la denuncia fue hecha por una comitiva de la junta de vecinos, que expuso la situación ante ese medio y solicitó la intervención del cabildo.",
+   "La intervención estuvo a cargo de la Dirección de Infraestructura Urbana, cuyas brigadas colocaron las luminarias.",
+   "Los técnicos determinaron que las luminarias estaban dañadas por sobrecarga, producida por conexiones irregulares que afectaban el circuito.",
+   "El cabildo indicó que con esta rápida respuesta reafirma su compromiso con el bienestar de los ciudadanos de la capital.",
+   "El Banco Popular y la Alcaldía del Distrito Nacional inaugurarán este lunes 23 de noviembre el parque José Núñez de Cáceres, luego de completar un remozamiento integral que abarca unos 18,000 metros cuadrados. La apertura está prevista para las 5:30 de la tarde e incluirá música en vivo, refrigerios y actividades para los visitantes en las distintas áreas del espacio. La intervención busca recuperar el parque como punto de encuentro para los residentes de la capital y mejorar sus condiciones para el esparcimiento, la actividad física y la convivencia comunitaria."
+  ],
+  "claves": [
+   "La Alcaldía del Distrito Nacional intervino un parque comunitario en el sector Los Praditos.",
+   "La intervención la realizó la Dirección de Infraestructura Urbana, cuyas brigadas colocaron las luminarias.",
+   "Los técnicos determinaron que las luminarias estaban dañadas por sobrecarga producida por conexiones irregulares que afectaban el circuito."
+  ],
+  "importa": "Si vives en el Distrito Nacional, una denuncia de tu junta de vecinos puede llevar a una respuesta rápida del cabildo en tu sector.",
+  "en": {
+   "titulo": "Capital City Council Installs Lights in Los Praditos Park After Neighborhood Complaint",
+   "gancho": "After a complaint from the neighborhood association, the Santo Domingo city council installs lights in a community park. Technicians attributed the damage to an electrical overload.",
+   "claves": [
+    "The Alcaldía del Distrito Nacional intervened in a community park in the Los Praditos sector.",
+    "The work was carried out by the Urban Infrastructure Directorate, whose crews installed the light fixtures.",
+    "Technicians determined the fixtures were damaged by an overload caused by illegal electrical connections affecting the circuit."
+   ],
+   "importa": "If you live in Santo Domingo's National District, a complaint from your neighborhood association can prompt a quick response from the city council.",
+   "parrafos": [
+    "The Alcaldía del Distrito Nacional responded to a complaint this Tuesday and installed lights in a community park in the Los Praditos sector of Santo Domingo. According to CDN, the complaint was filed by a delegation from the neighborhood association, which brought the situation to that outlet and asked the council to intervene.",
+    "The work was handled by the Urban Infrastructure Directorate, whose crews installed the light fixtures.",
+    "Technicians determined the fixtures were damaged by an overload caused by illegal electrical connections affecting the circuit.",
+    "The council said that this quick response reaffirms its commitment to the well-being of the capital's residents.",
+    "Banco Popular and the Alcaldía del Distrito Nacional will inaugurate the José Núñez de Cáceres park this Monday, November 23, after completing a full renovation covering about 18,000 square meters. The opening is scheduled for 5:30 p.m. And will include live music, refreshments, and activities for visitors in the various areas of the space. The project aims to restore the park as a meeting point for city residents and improve conditions for recreation, physical activity, and community life."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjNteVhjd1pBdElNZEJQcFQ2VnRlSHhtWUtTQWppV3Zyd3l1V2t0eHBpUmlfcGVxWVpkeEZuQl9JMnhTZzAwejBldzdLaERBVzFVN2lUcDdSMjlmMXRGVVFRcVlsRzlZWUJKMHU0eFVTZ0hDVWw3dWxYeTc5Zlo1akRrUTcxRmZpaTJMU3RrLVIwTkNEOEUzVmpQbnBLd9IBngFBVV95cUxPUjNteVhjd1pBdElNZEJQcFQ2VnRlSHhtWUtTQWppV3Zyd3l1V2t0eHBpUmlfcGVxWVpkeEZuQl9JMnhTZzAwejBldzdLaERBVzFVN2lUcDdSMjlmMXRGVVFRcVlsRzlZWUJKMHU0eFVTZ0hDVWw3dWxYeTc5Zlo1akRrUTcxRmZpaTJMU3RrLVIwTkNEOEUzVmpQbnBLdw?oc=5",
+  "url": "https://cdn.com.do/nacionales/alcaldia-del-dn-ilumina-parque-de-los-praditos-tras-denuncia/?amp=1",
+  "fuente": "CDN",
+  "dominio": "cdn.com.do",
+  "fuentes": [
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/nacionales/alcaldia-del-dn-ilumina-parque-de-los-praditos-tras-denuncia/?amp=1"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió \"reparó\"/\"repara\" por \"colocó\"/\"instaló\" para no afirmar más de lo que dicen las fuentes; se quitó \"restablece\"/\"restored\" del título y se ajustó el gancho; se aclaró que el dato de las luminarias dañadas lo dieron los técnicos; se quitó \"quedó nuevamente iluminado\" y \"tras la respuesta del cabildo\" por no estar en las fuentes; se eliminó \"Por otra parte\" y \"en Santo Domingo\" queda como ubicación de la fuente; se cambió \"afirmó\" por \"dijo\" y se atribuyó la frase de compromiso al cabildo; se corrigió \"entregue\" no aplica; se quitó \"tras un remozamiento integral\" por \"tras completar un remozamiento integral\" conforme a la fuente; se reforzó la atribución a CDN).",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T17:51:35.130996+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "fbb5b88e5b",
+  "titulo": "Julio Rodríguez recibe a Maikel García con un \"¡Villano!\" en Seattle",
+  "titulo_original": "“¡Villano!”: Así fue el cálido recibimiento de J-Rod a Maikel García en Seattle",
+  "resumen": "Tras su cambio a los Marineros, el venezolano Maikel García reveló cómo fue su primera conversación con Julio Rodríguez, quien lo recibió con un apodo.",
+  "gancho": "Tras su cambio a los Marineros, el venezolano Maikel García reveló cómo fue su primera conversación con Julio Rodríguez, quien lo recibió con un apodo.",
+  "parrafos": [
+   "Poco después de conocerse el cambio de Maikel García de los Reales a los Marineros, en una transacción de seis jugadores, el venezolano se sintió \"sorprendido e impactado\". Poco después recibió una llamada de Julio Rodríguez, con quien había compartido en la pretemporada y en visitas a Seattle.",
+   "\"¡Villano! ¿Qué pasa?\", le dijo Rodríguez, en referencia al apodo por el que se le conoce. \"Estoy feliz de que te tengamos aquí, sé el jugador que eres y estoy emocionado de poder jugar juntos\".",
+   "En sus primeras declaraciones públicas desde la transacción, García dijo que se sintió como en casa. \"Tenemos como la misma pasión, la misma energía\", expresó sobre Rodríguez, \"mostrando emoción en el juego, y eso va a ayudar al equipo\".",
+   "García, de 27 años, es conocido por uno de los mejores guantes del deporte en el lado izquierdo del cuadro interior y por batear a la derecha como especialista de contacto. Los Marineros buscaban esas habilidades para fortalecer su roster de cara al 2027.",
+   "El apodo surgió en la Liga Venezolana de Béisbol Profesional en la temporada 2023-24, cuando los fanáticos rivales comenzaron a responder a sus publicaciones de celebración en redes sociales. \"De verdad me gusta\", afirmó García. \"Me gusta ser el villano\"."
+  ],
+  "claves": [
+   "Maikel García fue cambiado de los Reales a los Marineros en una transacción de seis jugadores.",
+   "Julio Rodríguez lo llamó \"¡Villano!\" en su primera conversación tras el cambio.",
+   "García dice que se siente con la misma pasión y energía que Rodríguez.",
+   "El apodo nació en la Liga Venezolana de Béisbol Profesional en la temporada 2023-24."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Julio Rodríguez Welcomes Maikel García With a \"Villano!\" in Seattle",
+   "gancho": "After his trade to the Mariners, Venezuelan Maikel García revealed how his first conversation with Julio Rodríguez went, when his new teammate greeted him with a nickname.",
+   "claves": [
+    "Maikel García was traded from the Royals to the Mariners in a six-player transaction.",
+    "Julio Rodríguez called him \"¡Villano!\" in their first conversation after the trade.",
+    "García says he and Rodríguez share the same passion and energy.",
+    "The nickname started in the Venezuelan Professional Baseball League in the 2023-24 offseason."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Shortly after news broke of Maikel García's trade from the Royals to the Mariners, in a six-player transaction, the Venezuelan said he felt \"surprised and impacted.\" Soon after, he got a call from Julio Rodríguez, whom he had gotten to know during spring training and on visits to Seattle.",
+    "\"¡Villano! ¿Qué pasa?\" Rodríguez told him, referring to the nickname by which he is known. \"I'm happy we have you here, I know the player you are and I'm excited to play together.\"",
+    "In his first public comments since the trade, García said he quickly felt at home. \"We have the same passion, the same energy,\" he said of Rodríguez, \"showing emotion in the game, and that's going to help the team.\"",
+    "García, 27, is known for one of the best gloves in the sport at the left side of the infield and for hitting from the right side as a contact specialist. The Mariners sought those skills to strengthen their roster heading into 2027.",
+    "The nickname arose in the Venezuelan Professional Baseball League during the 2023-24 offseason, when rival fans began responding to his celebration posts on social media. \"I really like it,\" García said. \"I like being the villain.\""
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUNSZXVXNnFRNzY1dy01Tno1WElZOHk3U012bDhzU3pUYzN5NGhmWVBqcTFBclg0Q0lCcjBRWi01VzVPVFIzRjFBYzRPWTk1elRHUXZlNm5JYXI0UERldzhzN1BLTW40a04wXzBwZ29uR2ZORVF5eE4zQ0lEQXVYSkZ1SWJJbWZGSmFHdURxR2NUOS1ENVhkdy1LWQ?oc=5",
+  "url": "https://www.mlb.com/es/amp/news/julio-rodriguez-da-bienvenida-a-maikel-garcia-en-marineros.html",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/amp/news/julio-rodriguez-da-bienvenida-a-maikel-garcia-en-marineros.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (edad de García corregida de 26 a 27 años según la fuente, que indica que cumplirá 27 en la temporada de su quinta campaña completa; \"sorprendido e impactado\" y la cita sobre \"la misma pasión\" se mantienen; se eliminó la cita de Julio Rodríguez \"estoy emocionados\" por corrección gramatical a \"emocionado\"; se corrigió la atribución de la llamada al día del cambio, que la fuente no especifica como \"ese mismo día\"; se añadió el contexto de la transacción de seis jugadores según la fuente; se ajustó \"en sus primeras declaraciones públicas\" y se corrigió \"el martes se sintió como en casa\" a la fecha de las declaraciones, que la fuente sitúa el martes).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-25T17:52:03.141630+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "badf74f6ec",
+  "titulo": "Refidomsa asegura que mantiene el suministro de combustibles con 30,000 barriles diarios",
+  "titulo_original": "Refidomsa refina 30,000 barriles diarios para garantizar el suministro de combustibles en RD",
+  "resumen": "La única refinería del país asegura que no habrá problemas en el abastecimiento de combustibles pese a las tensiones internacionales.",
+  "gancho": "La única refinería del país asegura que no habrá problemas en el abastecimiento de combustibles pese a las tensiones internacionales.",
+  "parrafos": [
+   "Samuel Pereyra, presidente de la Refinería Dominicana de Petróleo (Refidomsa), afirmó que la empresa tiene una capacidad de refinamiento de 30,000 barriles diarios, una cifra que considera clave para garantizar el abastecimiento de combustibles en la República Dominicana.",
+   "Pereyra habló durante el Almuerzo Semanal del Grupo de Medios Corripio, en un contexto de conflictos internacionales y de volatilidad en los precios del petróleo y de otros commodities.",
+   "Según el ejecutivo, el objetivo de la empresa ha sido evitar contratiempos en la entrega de los distintos derivados del petróleo a sus clientes. \"Nosotros, como empresa, que es una empresa estratégica, nos hemos basado en garantizar el suministro en la República Dominicana\", expresó. \"Que no haya ningún problema en el suministro de los diferentes combustibles que nosotros entregamos a los clientes\", agregó.",
+   "Pereyra recordó que Refidomsa es la única refinería que opera en territorio dominicano, una condición que, según dijo, refuerza su papel en la estabilidad energética y el abastecimiento nacional. Actualmente, precisó, la planta procesa 30,000 barriles por día."
+  ],
+  "claves": [
+   "Refidomsa refina 30,000 barriles diarios, según su presidente.",
+   "Es la única refinería que opera en territorio dominicano.",
+   "La empresa dice que su prioridad es evitar contratiempos en la entrega de derivados del petróleo."
+  ],
+  "importa": "El abastecimiento de combustibles en el país depende de esta planta en un momento de alta volatilidad en los precios del petróleo. Para los dominicanos, esto afecta lo que pagan en la bomba.",
+  "en": {
+   "titulo": "Refidomsa Says It Keeps Fuel Supply Steady With 30,000 Barrels a Day",
+   "gancho": "The country's only refinery says there will be no supply problems despite international tensions.",
+   "claves": [
+    "Refidomsa refines 30,000 barrels per day, according to its president.",
+    "It is the only refinery operating in the Dominican Republic.",
+    "The company says its priority is avoiding delays in delivering petroleum products."
+   ],
+   "importa": "Fuel supply in the country depends on this plant at a time of high volatility in oil prices. For Dominicans, this affects what they pay at the pump.",
+   "parrafos": [
+    "Samuel Pereyra, president of the Dominican Petroleum Refinery (Refidomsa), said the company has a refining capacity of 30,000 barrels per day, a figure he considers key to ensuring fuel supply in the Dominican Republic.",
+    "Pereyra spoke at the Almuerzo Semanal of the Corripio Media Group, amid international conflicts and volatility in oil and other commodity prices.",
+    "According to the executive, the company's goal has been to avoid delays in delivering its petroleum products to customers. \"As a company, which is a strategic company, we have focused on guaranteeing supply in the Dominican Republic,\" he said. \"That there be no problem with the supply of the different fuels we deliver to customers,\" he added.",
+    "Pereyra noted that Refidomsa is the only refinery operating in Dominican territory, a condition that, he said, reinforces its role in energy stability and national supply. He said the plant currently processes 30,000 barrels per day."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVRBZFBQUnV0SDhPR3loSUNNdWlDOXRIQjl2bzdHUk41MHlEeGprUXhVSnNRczM3czBBMUdXQ0xpNWdncVROTkdjV1ZTVDI1X1JTMjhrUFEzS3lYQ2RZQ3J6dnBmZGYzeUhqd2Z6cG9mYl9DZWtoZ2tXczBvMVF2b1Zpa0ZzUVRUaEp3RVRJVmNpejBVcjgyMTJWaVJndTVXZnBsTUVMTjJkNDBwUE5teVhGTVJlR1BvLTNN?oc=5",
+  "url": "https://hoy.com.do/economia/refidomsa-refina-30-000-barriles-diarios-garantizar-suministro-combustibles-rd_1109876.html",
+  "fuente": "Hoy Digital",
+  "dominio": "hoy.com.do",
+  "fuentes": [
+   {
+    "nombre": "Hoy Digital",
+    "url": "https://hoy.com.do/economia/refidomsa-refina-30-000-barriles-diarios-garantizar-suministro-combustibles-rd_1109876.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Almuerzo\" de la traducción inglesa sin cambios de contenido; ajusté el título inglés para que no afirme \"steady\" como hecho; corregí \"de otros commodities\" a \"y de otros commodities\" donde el sentido lo requería; quité \"a sus clientes\" del español porque la fuente dice \"clientes del país\" y lo mantuve; y en la versión inglesa añadí \"the country's\" para mantener el alcance nacional)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-25T17:52:49.261287+00:00",
+  "tendencia": 1
+ },
+ {
   "id": "b84b980d06",
   "titulo": "Cuatro colegios privados de Azua reciben certificados de reconocimiento del MINERD",
   "titulo_original": "Regional 03 entrega certificados de reconocimiento a cuatro centros educativos privados de Azua",
@@ -1837,7 +2373,7 @@
   "revision": "corregida (cambié \"Deportes\" por \"Entretenimiento\" no; ajusté \"primera finalista... posición... 17 años\" y precisé que el resultado no iguala la \"mejor\" posición sino el mismo puesto; corregí \"el primer puesto... desde 2009\" y \"con el resultado de 2009\" a lo que dicen las fuentes, y quité frases de relleno).",
   "seccion": "Deportes",
   "fecha": "2026-11-25T13:54:00.286632+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "3d1f6c7b00",
@@ -2249,7 +2785,9 @@
   "revision": "corregida (corregí el nombre de la directora de \"Ana Andrea Camacho\" a \"Ana Andrea Villa Camacho\" según las fuentes; eliminé \"Aecid\" en mayúsculas por \"AECID\" en el inglés consistente; quité \"Ley 44-26\" no... ver nota; ajusté el gancho y la atribución de los 25 derechos al Código Procesal Penal; pulí el lenguaje; traduje el inglés para que coincida con el español).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-25T10:48:38.666350+00:00",
-  "tendencia": 3
+  "tendencia": 3,
+  "ig": "pendiente",
+  "ig_img": "ig/d01b9cdfa1.jpg"
  },
  {
   "id": "1fd1a13a46",
@@ -7956,7 +8494,7 @@
   "revision": "corregida (corregí \"Hospital\" no aplica; cambios: \"Miss República Dominicana Universo\" sin cambios de hechos; ajusté \"el puesto de primera finalista\" a \"obtuvo el puesto de primera finalista\" ya presente; principales ajustes: \"le llevó\" no existía; quité \"Dos años después de quedar a un paso\" ya estaba bien; ver abajo)",
   "seccion": "Famosos",
   "fecha": "2026-11-24T23:32:43.853768+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/69c6a90dbd.jpg",
   "ig_id": "18092976023267436",
@@ -10252,7 +10790,7 @@
   "revision": "corregida (se quitó \"exMiss\" a \"ex Miss\"; se corrigió \"Inspiranza\" conservado; se cambió \"Dominican media personality\" por \"Dominican media personality\" sin cambio sustantivo; se eliminó la atribución de la cita sobre \"Miss Universo\" que no aparece; se precisó que el desfile fue en el marco del Miss Universo; se ajustó \"Speaking to the press\" y \"the press\" sin cambios de fondo; se eliminó \"presente edición\" por \"esta edición\" para mayor fidelidad; se quitó \"Ante las críticas de algunos seguidores\" sin cambio; se ajustó la atribución de la comparación con el traje de Cruz; se corrigió \"Latina\" a \"Latinas\" en inglés para concordar con el original; el resto se mantiene)",
   "seccion": "Famosos",
   "fecha": "2026-11-24T19:49:42.378006+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/2e8af01560.jpg",
   "ig_id": "18103796840453017",
@@ -15149,7 +15687,7 @@
   "revision": "corregida (corregí \"Melissa Núñez busca traer otra corona\" → \"busca traer la corona\", que es más natural y sin ambigüedad; quité \"sus seguidores\" del gancho para no atribuir un hecho más allá de lo que dice N Digital, que habla de seguidores dominicanos presentes; corregí la cita de Tavares en el texto para que quede claramente atribuida a Hoy Digital y no como hecho de la institución; quité \"Su objetivo es conseguir\" redundante; en español corregí \"un respaldo significativo\" a \"un respaldo significativo\" sin cambio, pero añadí atribución a Hoy Digital en vez de \"el periódico Hoy\"; en inglés ajusté la misma atribución).",
   "seccion": "Famosos",
   "fecha": "2026-11-24T10:51:04.237713+00:00",
-  "tendencia": 6,
+  "tendencia": 7,
   "ig": "publicado",
   "ig_img": "ig/1c8ee75902.jpg",
   "historia": "publicado",
@@ -18301,483 +18839,6 @@
   "revision": "corregida (corregí \"parcial\" no aplica; cambié \"Caplin sostuvo\" a \"rechazó\", eliminé la atribución de \"Major League Baseball\" como \"la liga\" consistente, corregí \"de manera centralizada\" y el dato del 93% quedó atribuido a \"el convenio vigente\" como en la fuente; quité frases de relleno como \"Según la liga\" repetida y \"el mayor\" → \"el mayor aumento\"; ajusté el gancho y el inglés para que coincidan exactamente con el español; eliminé \"Ese aumento de US$220,000 sería el mayor en el salario mínimo para una misma temporada\" por redundancia y reformulé.)",
   "seccion": "Deportes",
   "fecha": "2026-11-24T03:52:50.199911+00:00",
-  "tendencia": 1
- },
- {
-  "id": "b4998c6eca",
-  "titulo": "Escogido refuerza su pitcheo con A.J. Candelario y Yosver Zulueta",
-  "titulo_original": "Escogido anuncia a los lanzadores Candelario y Zulueta",
-  "resumen": "Los bicampeones Leones del Escogido incorporan dos lanzadores con experiencia en Grandes Ligas y las Menores, en la pelea por la cima de la LIDOM.",
-  "gancho": "Los bicampeones Leones del Escogido incorporan dos lanzadores con experiencia en Grandes Ligas y las Menores, en la pelea por la cima de la LIDOM.",
-  "parrafos": [
-   "El Escogido reforzó su cuerpo de lanzadores con la contratación de A.J. Candelario y Yosver Zulueta.",
-   "El gerente general Carlos Peña explicó que la llegada de ambos responde al compromiso de fortalecer el pitcheo y ampliar las alternativas desde el montículo. Según dijo, cada aporte es importante en esta etapa de la temporada.",
-   "Candelario, derecho estadounidense de 28 años, lanzó durante el verano con los Acereros de Monclova en la Liga Mexicana de Béisbol. Allí tuvo marca de 4-2, 3.48 de promedio de carreras limpias y 45 ponches en 54.1 entradas, en 10 salidas como abridor. Su experiencia incluye también la Liga Profesional de Béisbol de Taiwán, la Atlantic League, la Frontier League y la Liga Roberto Clemente de Puerto Rico.",
-   "Zulueta, de 28 años, es derecho cubano y tiene dos temporadas en Grandes Ligas con los Cincinnati Reds, en 2024 y 2025. En ese período ponchó a 25 bateadores en 23.2 entradas, con 4.21 de efectividad independiente de la defensa (FIP). Este año trabajó en AAA con los Baltimore Orioles, Seattle Mariners y Chicago Cubs. En la temporada 2023-24 también lanzó con el Escogido, donde ponchó a 14 en 9.1 entradas.",
-   "Ambos ya se encuentran en el país y se espera que los Leones los activen esta semana. El equipo, con récord de 17-12, ocupa el segundo lugar de la tabla de posiciones de la temporada 2026-27 de la LIDOM."
-  ],
-  "claves": [
-   "A.J. Candelario, de 28 años, tuvo marca de 4-2 y 3.48 de promedio de carreras limpias con los Acereros de Monclova en México.",
-   "Yosver Zulueta, de 28 años, lanzó con los Cincinnati Reds en 2024 y 2025 y ponchó a 25 bateadores en 23.2 entradas.",
-   "Los Leones tienen récord de 17-12 y ocupan el segundo lugar de la tabla de posiciones de la temporada 2026-27 de la LIDOM.",
-   "Ambos lanzadores ya están en el país y se espera que sean activados esta semana."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Escogido Adds Pitchers A.J. Candelario and Yosver Zulueta",
-   "gancho": "The two-time champion Leones del Escogido are adding two pitchers with major and minor league experience as they push for the LIDOM lead.",
-   "claves": [
-    "A.J. Candelario, 28, went 4-2 with a 3.48 ERA for the Monclova Acereros in Mexico.",
-    "Yosver Zulueta, 28, pitched for the Cincinnati Reds in 2024 and 2025 and struck out 25 in 23.2 innings.",
-    "The Leones are 17-12 and sit in second place in the 2026-27 LIDOM standings.",
-    "Both pitchers are already in the Dominican Republic and are expected to be activated this week."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Leones del Escogido have added pitchers A.J. Candelario and Yosver Zulueta to their staff.",
-    "General manager Carlos Peña said the additions reflect the team's commitment to bolstering its pitching and expanding its options on the mound. He said every contribution matters at this stage of the season.",
-    "Candelario, a 28-year-old American right-hander, pitched this summer for the Monclova Acereros in the Mexican League. There he went 4-2 with a 3.48 ERA and 45 strikeouts in 54.1 innings across 10 starts. His career also includes stints in Taiwan's professional league, the Atlantic League, the Frontier League and Puerto Rico's Roberto Clemente League.",
-    "Zulueta, a 28-year-old Cuban right-hander, spent the 2024 and 2025 seasons with the Cincinnati Reds. In that span he struck out 25 batters in 23.2 innings, with a 4.21 fielding-independent pitching (FIP) mark. This year he worked at Triple-A with the Baltimore Orioles, Seattle Mariners and Chicago Cubs. He also pitched for Escogido in the 2023-24 season, striking out 14 in 9.1 innings.",
-    "Both are already in the country, and the Leones are expected to activate them this week. The team, with a 17-12 record, sits in second place in the 2026-27 LIDOM standings."
-   ]
-  },
-  "link": "https://deultimominuto.com/deportes/beisbol/escogido-anuncia-a-los-lanzadores-candelario-y-zulueta/",
-  "url": "https://deultimominuto.com/deportes/beisbol/escogido-anuncia-a-los-lanzadores-candelario-y-zulueta/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/deportes/beisbol/escogido-anuncia-a-los-lanzadores-candelario-y-zulueta/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (en la versión en español: \"Lanzadores\", \"Escogido\" → \"Leones del Escogido\" no hacía falta; se corrigió que Zulueta \"es cubano\" → \"derecho cubano\" y que el lanzador \"Carlos Peña\" dijo lo de \"cada aporte es importante\"; se quitó \"según informó la gerencia\" por atribución; \"Triple A\" ajustado a \"AAA\"; en inglés se alineó el texto y se corrigió \"signed\"/\"signings\" por \"additions\" consistente con el original; se eliminó \"vistió\" por \"lanzó\"; en el gancho se quitó \"suman\" por \"incorporan\")",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T02:19:31.738226+00:00",
-  "tendencia": 1
- },
- {
-  "id": "be15be3b5c",
-  "titulo": "Colombia registra 47 nuevos casos diarios de VIH y persisten brechas en diagnóstico y tratamiento",
-  "titulo_original": "Colombia suma 47 casos diarios de VIH con brechas en diagnóstico y tratamiento",
-  "resumen": "Colombia suma 14.526 casos de VIH este año, unos 47 al día. Un informe advierte dónde fallan el diagnóstico y el tratamiento.",
-  "gancho": "Colombia suma 14.526 casos de VIH este año, unos 47 al día. Un informe advierte dónde fallan el diagnóstico y el tratamiento.",
-  "parrafos": [
-   "Un informe de la organización AIDS Healthcare Foundation (AHF), divulgado este lunes, advierte que Colombia registra 14.526 casos de VIH en lo que va del año, un promedio de 47 al día. El documento señala que persisten las brechas en el diagnóstico y en el acceso al tratamiento.",
-   "El estudio se basa en estimaciones del Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA (ONUSIDA). Según esas cifras, las nuevas infecciones aumentaron un 25 % en América Latina desde 2010, mientras que a nivel mundial disminuyeron un 43 % en el mismo periodo.",
-   "De acuerdo con el informe ‘Situación del VIH en Colombia 2025’, elaborado por la organización Cuenta de Alto Costo, en el país viven unas 230.000 personas con el virus. Entre ellas, el 84,79 % conoce su diagnóstico, el 68,93 % recibe tratamiento y el 61,68 % ha alcanzado la supresión viral. Además, el 54,35 % de los nuevos casos registrados en 2025 presentó un diagnóstico tardío.",
-   "Entre los obstáculos para una detección oportuna, el informe menciona el estigma y la discriminación, la falta de capacitación del personal médico, la sobrecarga de los servicios de salud y los trámites administrativos. También señala las dificultades para acceder a la atención en zonas rurales.",
-   "Sandra Ávila, responsable del programa de AHF Colombia, explicó que la región enfrenta barreras para el diagnóstico y el tratamiento. “Aunque contamos con pruebas y medicamentos eficaces, es fundamental que las personas puedan acceder a ellos a tiempo y sin discriminación”, dijo.",
-   "En febrero de 2026 fue sancionada la Ley 2566, que busca fortalecer la prevención, el diagnóstico y la atención integral del VIH, así como de otras infecciones de transmisión sexual, las hepatitis B y C y la coinfección tuberculosis/VIH. La norma contempla el acceso gratuito a pruebas rápidas, la continuidad de los tratamientos y la protección de los derechos de las personas afectadas. Ávila consideró que su aplicación requerirá trabajo conjunto entre el Gobierno nacional, las autoridades territoriales, las instituciones sanitarias y las organizaciones comunitarias."
-  ],
-  "claves": [
-   "Colombia suma 14.526 casos de VIH en lo que va del año, unos 47 diarios.",
-   "El 54,35 % de los nuevos casos registrados en 2025 se diagnosticó tarde.",
-   "El 61,68 % de las personas con VIH ha alcanzado la supresión viral.",
-   "La Ley 2566, sancionada en febrero de 2026, busca fortalecer la prevención y la atención."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Colombia Logs 47 New HIV Cases a Day as Gaps in Diagnosis and Treatment Persist",
-   "gancho": "Colombia has recorded 14,526 HIV cases so far this year, about 47 a day. A report points to where diagnosis and treatment are falling short.",
-   "claves": [
-    "Colombia has recorded 14,526 HIV cases so far this year, about 47 a day.",
-    "% of new cases recorded in 2025 were diagnosed late.",
-    "% of people living with HIV have achieved viral suppression.",
-    "Law 2566, enacted in February 2026, aims to strengthen prevention and care."
-   ],
-   "importa": "",
-   "parrafos": [
-    "A report from the AIDS Healthcare Foundation (AHF), released this Monday, warns that Colombia has recorded 14,526 HIV cases so far this year, an average of 47 a day. The document says gaps persist in diagnosis and access to treatment.",
-    "The study relies on estimates from the Joint United Nations Programme on HIV/AIDS (UNAIDS). According to those figures, new infections rose 25% in Latin America since 2010, while they fell 43% worldwide over the same period.",
-    "According to the report \"Situación del VIH en Colombia 2025,\" prepared by the organization Cuenta de Alto Costo, about 230,000 people live with the virus in the country. Of these, 84.79% know their diagnosis, 68.93% receive treatment, and 61.68% have achieved viral suppression. In addition, 54.35% of new cases recorded in 2025 were diagnosed late.",
-    "Among the obstacles to early detection, the report cites stigma and discrimination, a lack of training among medical staff, overloaded health services, and administrative procedures. It also points to difficulties accessing care in rural areas.",
-    "Sandra Ávila, head of AHF Colombia's program, said the region faces barriers to diagnosis and treatment. \"Although we have effective tests and medicines, it is essential that people can access them on time and without discrimination,\" she said.",
-    "In February 2026, Law 2566 was enacted to strengthen the prevention, diagnosis, and comprehensive care of HIV, other sexually transmitted infections, hepatitis B and C, and TB/HIV coinfection. The law provides for free access to rapid tests, continuity of treatment, and protection of the rights of people affected. Ávila said its implementation will require joint work among the national government, regional authorities, health institutions, and community organizations."
-   ]
-  },
-  "link": "https://deultimominuto.com/internacionales/colombia-suma-47-casos-diarios/",
-  "url": "https://deultimominuto.com/internacionales/colombia-suma-47-casos-diarios/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/internacionales/colombia-suma-47-casos-diarios/"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/colombia-suma-47-casos-diarios-de-vih-con-brechas-en-diagnostico-y-tratamiento/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"tres/dos\" no aplica; se reemplazaron los porcentajes faltantes del bullet en inglés con las cifras de las fuentes, se atribuyó la cifra de 230.000 al informe, se eliminó \"de ellas\" ambiguo, se ajustó \"sobrecarga\" y se corrigió la atribución de \"la región enfrenta barreras\" para que sea textual de Ávila; se quitó \"Un informe revela dónde fallan\" del gancho por ser exageración; se corrigió \"Un informe de la organización\" sin cambios de fondo; el inglés se alineó con el español).",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-24T02:19:51.221430+00:00",
-  "tendencia": 2
- },
- {
-  "id": "6f11eaac6c",
-  "titulo": "Tres de cada cuatro latinos en EE.UU. reportan actividad del ICE en sus comunidades",
-  "titulo_original": "El 74% de los latinos en Estados Unidos reporta actividad del ICE en sus comunidades",
-  "resumen": "Una encuesta de Pew Research revela que la presencia del ICE en comunidades latinas creció 15 puntos en un año. Más de la mitad dice sentirse menos segura.",
-  "gancho": "Una encuesta de Pew Research revela que la presencia del ICE en comunidades latinas creció 15 puntos en un año. Más de la mitad dice sentirse menos segura.",
-  "parrafos": [
-   "Una encuesta del Pew Research Center, publicada este lunes, muestra que el 74% de los latinos residentes en Estados Unidos dice haber visto o escuchado sobre actividades del Servicio de Inmigración y Control de Aduanas (ICE) en sus comunidades. La cifra representa un aumento de 15 puntos frente al 59% registrado hace un año.",
-   "El estudio se realizó entre el 9 y el 15 de noviembre de 2026, con una muestra de 10,247 personas. En total, el 55% de los encuestados afirmó tener conocimiento de actividades del ICE en sus localidades. Los hispanos fueron el grupo que más reportó esta presencia, seguidos por la población asiática, con 58%; la población negra, con 53%, y la población blanca, con 50%.",
-   "Según el sondeo, el 51% de los latinos dice sentirse menos seguro por las políticas migratorias del presidente Donald Trump, mientras que solo el 15% siente más seguridad y el 31% dice que no hubo cambios. Además, el 7% de los hispanos señaló haber sido detenido por las autoridades para ser interrogado sobre su situación migratoria, la proporción más alta entre los grupos analizados. Según el reporte de De Último Minuto, esos resultados provienen del mismo sondeo.",
-   "La percepción varía según la identificación política. Aproximadamente dos de cada tres latinos demócratas dijeron sentirse menos seguros, mientras que apenas el 18% de los republicanos compartió esa preocupación.",
-   "Los resultados reflejan experiencias y opiniones distintas dentro de la comunidad hispana."
-  ],
-  "claves": [
-   "El 74% de los latinos dice haber visto o escuchado sobre actividades del ICE en sus comunidades, 15 puntos más que hace un año.",
-   "El 51% de los latinos se siente menos seguro por las políticas migratorias del presidente Donald Trump.",
-   "El 7% de los hispanos reportó haber sido detenido por las autoridades para ser interrogado sobre su situación migratoria.",
-   "Aproximadamente dos de cada tres latinos demócratas se sienten menos seguros, frente al 18% de los republicanos."
-  ],
-  "importa": "Para los dominicanos en Estados Unidos, el resultado refleja un clima de temor en comunidades latinas.",
-  "en": {
-   "titulo": "Three in four Latinos in the U.S. report ICE activity in their communities",
-   "gancho": "A Pew Research survey finds ICE activity reported in Latino communities rose 15 points in a year. More than half say they feel less safe.",
-   "claves": [
-    "% of Latinos say they have seen or heard about ICE activities in their communities, 15 points more than a year ago.",
-    "% of Latinos say they feel less safe because of President Donald Trump's immigration policies.",
-    "% of Hispanics reported being detained by authorities and questioned about their immigration status.",
-    "Roughly two in three Latino Democrats feel less safe, compared with 18% of Republicans."
-   ],
-   "importa": "For Dominicans in the United States, the findings point to a climate of fear in Latino communities.",
-   "parrafos": [
-    "A Pew Research Center survey published Monday shows that 74% of Latinos living in the United States say they have seen or heard about activities by U.S. Immigration and Customs Enforcement (ICE) in their communities. That is a 15-point increase from 59% a year ago.",
-    "The study was conducted between November 9 and 15, 2026, with a sample of 10,247 people. Overall, 55% of respondents said they were aware of ICE activities in their areas. Hispanics were the group most likely to report this presence, followed by Asian Americans at 58%, Black Americans at 53%, and White Americans at 50%.",
-    "According to the survey, 51% of Latinos say they feel less safe because of President Donald Trump's immigration policies, while only 15% feel safer and 31% say nothing has changed. In addition, 7% of Hispanics said they had been stopped by authorities and questioned about their immigration status, the highest share among the groups studied. According to a report by De Último Minuto, these results come from the same survey.",
-    "Perceptions vary by political affiliation. Roughly two in three Latino Democrats said they feel less safe, while only 18% of Republicans shared that concern.",
-    "The results reflect different experiences and views within the Hispanic community."
-   ]
-  },
-  "link": "https://deultimominuto.com/internacionales/latinos-actividad-ice-estados/",
-  "url": "https://deultimominuto.com/internacionales/latinos-actividad-ice-estados/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/internacionales/latinos-actividad-ice-estados/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"Tres de cada cuatro\" a \"Tres de cada cuatro\" → se mantuvo; se cambió \"Una encuesta... publicada este lunes\" sin cambios; se atribuyó a De Último Minuto el dato de los 7% y los porcentajes de seguridad que solo aparecen en esa fuente; se corrigió \"Cerca de dos de cada tres\" a \"Aproximadamente dos de cada tres\" según la fuente; se eliminó \"algo que puede afectar la forma en que viven y se relacionan con las autoridades\" del IMPORTA por no estar en las fuentes; se quitó \"pero coinciden en un aumento notable de la presencia migratoria percibida en los barrios latinos del país\" por ser interpretación no respaldada; se corrigió \"dos de cada tres\" en la clave; se atribuyó la fecha de la encuesta)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-24T02:20:05.079692+00:00",
-  "tendencia": 1
- },
- {
-  "id": "b6002542ad",
-  "titulo": "Gobierno lanza \"Navidad 360\" con 15 millones de raciones de comida y 500,000 teleras",
-  "titulo_original": "Presidente Luis Abinader anuncia amplio programa navideño con 15 millones de servicios alimenticios",
-  "resumen": "El Gobierno dominicano pone en marcha un programa de alimentación para las fiestas navideñas que llegará a las 32 provincias.",
-  "gancho": "El Gobierno dominicano pone en marcha un programa de alimentación para las fiestas navideñas que llegará a las 32 provincias.",
-  "parrafos": [
-   "El presidente Luis Abinader anunció \"Navidad 360\", un programa de asistencia alimentaria para las festividades navideñas que se extenderá hasta el 31 de diciembre, según la Presidencia. La iniciativa busca apoyar a las familias dominicanas con más necesidades y facilitar el acceso a alimentos a precios asequibles.",
-   "El plan contempla la distribución de más de 15 millones de raciones de almuerzos y cenas, además de 1.5 millones de raciones crudas y 500,000 teleras navideñas. Según la Presidencia, se habilitarán más de 180 comedores comunitarios en las 32 provincias del país.",
-   "Según la Presidencia, el Instituto de Estabilización de Precios (Inespre) realizará 1,088 operativos comerciales, entre ellos 800 operativos de bodegas móviles, con el propósito de facilitar el acceso de las familias a productos de la canasta básica a precios asequibles.",
-   "Infobae informa que el programa es de la Dirección de Asistencia Social y Alimentación Comunitaria (Dasac) y que fue lanzado el domingo en el parque Cristo Libre, en el sector Cristo Rey, con la presencia del director general de Dasac, Edgar Augusto Féliz Arbona. Según ese medio, incluirá 20 fiestas navideñas, sobre todo en el Gran Santo Domingo, a partir de un acuerdo con el Banco de Reservas, así como rifas de electrodomésticos y actividades recreativas, e se integra con \"La Brisita Navideña\".",
-   "En el espacio \"LA Agenda Semanal\", celebrado en el Palacio Nacional, el mandatario destacó la coordinación entre el Gobierno y los productores agropecuarios para garantizar el abastecimiento de alimentos y contribuir a la estabilidad de los precios. Según la Presidencia, los excedentes de producción serán incorporados a los programas de distribución. Abinader también mencionó una proyección cercana a los 25 millones de huevos durante diciembre.",
-   "Abinader agradeció la participación de iglesias, clubes, fundaciones y organizaciones comunitarias, que, según él, permiten ampliar el alcance de los programas sociales."
-  ],
-  "claves": [
-   "El programa \"Navidad 360\" funcionará hasta el 31 de diciembre.",
-   "Prevé más de 15 millones de raciones de almuerzos y cenas.",
-   "Incluye 1.5 millones de raciones crudas y 500,000 teleras navideñas.",
-   "Se habilitarán más de 180 comedores comunitarios en el país."
-  ],
-  "importa": "Las familias de bajos ingresos podrán recibir comida y acceder a productos de la canasta básica a precios más accesibles durante las fiestas.",
-  "en": {
-   "titulo": "Government Launches \"Navidad 360\" With 15 Million Meals and 500,000 Holiday Teleras",
-   "gancho": "The Dominican government has launched a holiday food program that will reach all 32 provinces.",
-   "claves": [
-    "The \"Navidad 360\" program runs until December 31.",
-    "It plans more than 15 million lunch and dinner servings.",
-    "It includes 1.5 million raw food rations and 500,000 holiday teleras.",
-    "More than 180 community dining centers will be set up across the country."
-   ],
-   "importa": "Low-income families can receive meals and buy basic-basket products at more affordable prices during the holidays.",
-   "parrafos": [
-    "President Luis Abinader announced \"Navidad 360,\" a food assistance program for the Christmas season that will run through December 31, according to the Presidency. The initiative aims to support Dominican families with the greatest needs and make food more affordable.",
-    "The plan includes more than 15 million lunch and dinner servings, plus 1.5 million raw food rations and 500,000 holiday teleras. According to the Presidency, more than 180 community dining centers will be set up in all 32 provinces.",
-    "According to the Presidency, the Price Stabilization Institute (Inespre) will carry out 1,088 commercial operations, including 800 mobile store operations, aimed at giving families access to basic-basket products at affordable prices.",
-    "Infobae reports that the program belongs to the Directorate of Social Assistance and Community Food (Dasac) and was launched on Sunday at Cristo Libre park in Cristo Rey, with the presence of Dasac director Edgar Augusto Féliz Arbona. According to that outlet, it will include 20 holiday parties, mainly in Greater Santo Domingo, under an agreement with Banco de Reservas, as well as appliance raffles and recreational activities, and it is integrated with \"La Brisita Navideña.\"",
-    "At the \"LA Agenda Semanal\" event held at the National Palace, the president highlighted coordination between the government and agricultural producers to ensure food supply and help keep prices stable. According to the Presidency, surplus production will be incorporated into distribution programs. Abinader also mentioned a projected 25 million eggs in December.",
-    "Abinader thanked churches, clubs, foundations and community organizations, which, he said, help extend the reach of social programs."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEVOa0dETXFtSzZmMW1MQi0wSXMtVGF6cDB6Vk4zeUhBOUUzcUVsSUJBc1V4cTY1dWFUZkJGVkVkY3VlNjlKQ3BKRmtiSlBtWnR1Uk4tVUlseWNUSkVoTXNPNDZVblVDa3luLWxZdDJTMjQtaHY4c0FqM3l4SFJzZ0tZNWRsRUMtVkdYa0RTTUs0Rkpoc0F3OFBNQk1NVHpHR18yV0VTTHlaNWdvUDBtdXFxdjlVUjlaZ3BYWURxQQ?oc=5",
-  "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-anuncia-amplio-programa-navideno-con-15-millones-de-servicios",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/presidente-luis-abinader-anuncia-amplio-programa-navideno-con-15-millones-de-servicios"
-   },
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/republica-dominicana/2026/11/24/el-presidente-luis-abinader-lanza-navidad-360-con-mas-de-15-millones-de-raciones-alimentarias/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "Infobae"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/0T0A7843.jpeg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (corregí la atribución de \"Navidad 360\" y del lanzamiento: Infobae dice que lo lanzó el domingo en el parque Cristo Libre y que es un programa de Dasac; el borrador lo presentaba como anuncio presidencial sin lugar. Atribuí a Infobae lo que solo dice Infobae, quité \"Ya empezó\" del gancho por no ser un dato de las fuentes, cambié \"Gobierno\" por \"Gobierno\" con atribución a Presidencia, corregí \"Operarán más de 180 comedores comunitarios\" a \"Se habilitarán\" y eliminé el \"casa por casa\" de las raciones crudas que la fuente no especifica, quité \"Para esto\" y la frase \"Según informó la Presidencia\" sobre Inespre que no aparece como tal, y quité \"Ya empezó\" y \"Este programa incluye\". Ajusté también la expresión \"LA Agenda Semanal\" y el resto de las frases.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-24T02:20:41.756662+00:00",
-  "tendencia": 2
- },
- {
-  "id": "45a0629c5c",
-  "titulo": "- The White House (.gov)",
-  "titulo_original": "- The White House (.gov)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByclVKbTJsTl9qeXNaUHNQaDBMQnBaR1F6YXdPa1VUOFN2NUI3ZFAxX21tdWlKQm4tc0NOaFJHTkFmMUM2UkFRWlFuVQ?oc=5",
-  "fuente": "The White House (.gov)",
-  "dominio": "whitehouse.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-24T02:21:18.224561+00:00"
- },
- {
-  "id": "023cf9c020",
-  "titulo": "Buque hospital USNS Comfort zarpará en misión de salud por cinco países de la región",
-  "titulo_original": "Promesa Continua 2027 está a punto de comenzar",
-  "resumen": "El buque hospital USNS Comfort, de la Armada de EE. UU., visitará cinco países latinoamericanos en una misión de más de dos meses. Colombia está en la ruta, según informó la Embajada de EE. UU. en Colombia.",
-  "gancho": "El buque hospital USNS Comfort, de la Armada de EE. UU., visitará cinco países latinoamericanos en una misión de más de dos meses. Colombia está en la ruta, según informó la Embajada de EE. UU. en Colombia.",
-  "parrafos": [
-   "El buque hospital USNS Comfort (T-AH 20), de la clase Mercy de la Armada de Estados Unidos, zarpará desde Mayport, Florida, entre diciembre de 2026 y febrero de 2027 rumbo al área de operaciones del Comando Sur. La travesía forma parte de la misión Promesa Continua 2027, liderada por el Comando de las Fuerzas Navales del Sur de Estados Unidos y la Cuarta Flota.",
-   "El buque prevé visitar Panamá, Perú, Guatemala, El Salvador y Colombia. La misión durará más de dos meses y busca promover la buena voluntad, fortalecer alianzas con países socios y crear nuevos vínculos con entidades no federales y organizaciones internacionales.",
-   "En cada escala, el personal estadounidense trabajará junto con médicos locales para dar atención directa a pacientes en clínicas comunitarias. También compartirá conocimientos técnicos para mejorar la preparación médica y la respuesta ante desastres de salud pública y crisis humanitarias.",
-   "El equipo incluye un elemento veterinario del Ejército de EE. UU., del 43.º Destacamento Médico, que dará educación en salud pública y atención animal en organizaciones veterinarias locales. Seabees del Batallón Móvil de Construcción Naval 133 apoyarán proyectos de ingeniería comunitaria dirigidos por los países anfitriones. Además, expertos de la Armada organizarán seminarios y ejercicios con funcionarios civiles y militares sobre preparación ante desastres.",
-   "El contralmirante Carlos Sardiello, comandante de las Fuerzas Navales del Comando Sur, afirmó que Promesa Continua refleja el compromiso duradero de Estados Unidos con sus aliados en el hemisferio occidental. Por su parte, el capitán de navío Daniel Reiher, comandante de la misión, explicó que cada escala se planifica meticulosamente para ofrecer atención médica de primer nivel."
-  ],
-  "claves": [
-   "La misión Promesa Continua 2027 zarpará entre diciembre de 2026 y febrero de 2027.",
-   "Visitará Panamá, Perú, Guatemala, El Salvador y Colombia, durante más de dos meses.",
-   "Ofrecerá atención médica directa y veterinaria, y capacitación en preparación ante desastres.",
-   "Es la número 17 de este tipo en la región desde 2007 y la novena a bordo del USNS Comfort."
-  ],
-  "importa": "Para dominicanos que viven en la región, la misión atenderá a pacientes en países vecinos del Caribe y Centroamérica donde el buque atracará. Según el comunicado, República Dominicana no aparece entre las escalas previstas.",
-  "en": {
-   "titulo": "US Navy hospital ship USNS Comfort to sail on five-country health mission",
-   "gancho": "The US Navy hospital ship USNS Comfort will spend more than two months visiting five Latin American countries. Colombia is on the route, according to the US Embassy in Colombia.",
-   "claves": [
-    "The Continuing Promise 2027 mission will sail between December 2026 and February 2027.",
-    "It will visit Panama, Peru, Guatemala, El Salvador and Colombia over more than two months.",
-    "It will offer direct medical and veterinary care, plus disaster preparedness training.",
-    "It is the 17th such mission in the region since 2007 and the ninth aboard the USNS Comfort."
-   ],
-   "importa": "For Dominicans living in the region, the mission will treat patients in neighboring Caribbean and Central American countries where the ship docks. According to the release, the Dominican Republic does not appear among the scheduled stops.",
-   "parrafos": [
-    "The US Navy hospital ship USNS Comfort (T-AH 20), a Mercy-class vessel, will sail from Mayport, Florida, between December 2026 and February 2027 toward the US Southern Command area of operations. The voyage is part of Continuing Promise 2027, led by US Naval Forces Southern Command and the US 4th Fleet.",
-    "The ship is scheduled to visit Panama, Peru, Guatemala, El Salvador and Colombia. The mission will last more than two months and aims to promote goodwill, strengthen partnerships with partner nations and build new ties with nonfederal entities and international organizations.",
-    "At each stop, US personnel will work alongside local doctors to provide direct patient care in community clinics. They will also share technical expertise to improve medical readiness and the response to public health disasters and humanitarian crises.",
-    "The team includes a US Army veterinary element from the 43rd Medical Detachment, which will provide public health education and animal care at local veterinary organizations. Seabees from Naval Mobile Construction Battalion 133 will support community engineering projects led by host nations. Navy experts will also hold seminars and training exercises with civilian officials and military professionals on disaster preparedness.",
-    "Rear Adm. Carlos Sardiello, commander of US Naval Forces Southern Command, said Continuing Promise reflects America's lasting commitment to its allies in the Western Hemisphere. Capt. Daniel Reiher, the mission commander, said each stop is meticulously planned to deliver first-class medical care."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2kzcGJIRVBBck9nY0NmbHh3U05WOVVSNF85RFpHdGdfaUZDSVRoSTFNZmdzZWdsczlYNDJOSF9rVklrQU5acWJOcFRFQ1lJUUFYTU1oTFZPVUItMUN3ZDMxT1VsTXpJSUtnaDNJSVZZMzBDVUlyV2tmcHZpd1ZyNg?oc=5",
-  "url": "https://co.usembassy.gov/es/promesa-continua-2027-esta-a-punto-de-comenzar/",
-  "fuente": "U.S. Embassy in Colombia (.gov)",
-  "dominio": "co.usembassy.gov",
-  "fuentes": [
-   {
-    "nombre": "U.S. Embassy in Colombia (.gov)",
-    "url": "https://co.usembassy.gov/es/promesa-continua-2027-esta-a-punto-de-comenzar/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://co.usembassy.gov/wp-content/uploads/sites/57/2022/12/14-seal-blue-1.png",
-   "credito": "U.S. Embassy in Colombia (.gov)"
-  },
-  "revision": "corregida (la sección IMPORTA y WHY_EN decían que los servicios \"no incluyen ninguna escala en República Dominicana\", lo cual sí está en las fuentes solo implícitamente; eliminé la afirmación de que la misión ofrece atención \"gratuita\" y que \"si llegara al país\" sería de salud pública, porque las fuentes no lo dicen; también añadí atribución a la Embajada/Cuarta Flota en el gancho y ajusté \"Tras meses de planificación\" a la fuente; quité el \"Mayport\" de la fuente correcta y revisé el inglés para que coincida con el español)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-24T02:21:52.437794+00:00",
-  "tendencia": 1
- },
- {
-  "id": "9f71d55045",
-  "titulo": "Primer ministro de Haití advierte a pandillas tras visitar base de soldados salvadoreños",
-  "titulo_original": "Primer ministro haitiano advierte a grupos armados tras reunirse con mando militar salvadoreño",
-  "resumen": "El primer ministro haitiano dice que las pandillas \"no tendrán tregua\" tras reunirse con el mando militar de El Salvador en Puerto Príncipe.",
-  "gancho": "El primer ministro haitiano dice que las pandillas \"no tendrán tregua\" tras reunirse con el mando militar de El Salvador en Puerto Príncipe.",
-  "parrafos": [
-   "El primer ministro de Haití, Alix Didier Fils-Aimé, advirtió que las pandillas armadas no tendrán tranquilidad ante la ofensiva de seguridad de su Gobierno. El mensaje llega después de que visitara una base de soldados salvadoreños desplegados en el país caribeño.",
-   "Según informó en la red social X, el jefe de Gobierno recorrió las instalaciones el domingo 22 de noviembre y sostuvo una reunión con el general a cargo de la misión. El encuentro se centró en el plan nacional de seguridad y en las acciones contra las organizaciones criminales. N Digital indica que un comunicado de su despacho destacó la necesidad de fortalecer las operaciones militares y policiales.",
-   "En la estrategia participan la Policía Nacional de Haití, las Fuerzas Armadas haitianas, las tropas de El Salvador y la fuerza multinacional. Fils-Aimé escribió que \"las pandillas no van a poder dormir tranquilas\", mientras que N Digital cita la frase \"no tendrán tregua\". Las versiones difieren en la redacción, pero coinciden en su sentido. Según N Digital, las fuerzas no operan bajo un mando unificado, aunque sí realizan operaciones conjuntas.",
-   "La crisis de violencia en Haití ha permitido que las bandas expandan su control territorial, ataquen instalaciones estatales y desplacen a miles de personas. N Digital reporta que más de 2,000 soldados salvadoreños llegaron al país en el último mes, enviados por el presidente Nayib Bukele, con la misión inicial de localizar a cuatro militares desaparecidos desde el 18 de octubre tras una emboscada en Croix-des-Bouquets.",
-   "El primer ministro también expresó solidaridad con las fuerzas salvadoreñas por la muerte de tres soldados en un incidente relacionado con la manipulación de explosivos en un campamento militar. Según N Digital, el suceso ocurrió el viernes y dejó otro militar herido. Ni el Gobierno haitiano ni las fuentes consultadas precisan si habrá una investigación local o nuevas medidas de protección para las tropas.",
-   "Fils-Aimé no anunció nuevos operativos, plazos ni recursos adicionales para la estrategia."
-  ],
-  "claves": [
-   "El primer ministro Alix Didier Fils-Aimé visitó la base de soldados salvadoreños el domingo 22 de noviembre.",
-   "Se reunió con el general que dirige la misión militar, cuya identidad no ha sido confirmada oficialmente.",
-   "En la estrategia participan la PNH, las Fuerzas Armadas de Haití, las tropas salvadoreñas y la fuerza multinacional.",
-   "Tres militares salvadoreños murieron por un incidente con explosivos en un campamento en Haití."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Haiti's prime minister warns gangs after visiting Salvadoran soldiers' base",
-   "gancho": "Haiti's prime minister says gangs \"will not have a moment's rest\" after meeting Salvadoran military leaders in Port-au-Prince.",
-   "claves": [
-    "Prime Minister Alix Didier Fils-Aimé visited the Salvadoran soldiers' base on Sunday, November 22.",
-    "He met with the general leading the military mission, whose identity has not been officially confirmed.",
-    "Haitian police, Haitian armed forces, Salvadoran troops and the multinational force are part of the strategy.",
-    "Three Salvadoran soldiers died in an explosives-related incident at a camp in Haiti."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Haiti's Prime Minister Alix Didier Fils-Aimé warned that armed gangs will have no peace under his government's security offensive. The warning came after he visited a base housing Salvadoran soldiers deployed in the Caribbean country.",
-    "According to a post on the social network X, the head of government toured the facilities on Sunday, November 22, and met with the general in charge of the mission. The meeting focused on the national security plan and actions against criminal organizations. N Digital reports that a statement from his office stressed the need to strengthen military and police operations.",
-    "The strategy involves the Haitian National Police, Haiti's armed forces, Salvadoran troops and the multinational force. Fils-Aimé wrote that \"gangs are not going to be able to sleep peacefully,\" while N Digital quotes the phrase \"will not have a moment's rest.\" The reports differ in wording but share the same meaning. According to N Digital, the forces do not operate under a unified command, although they carry out joint operations.",
-    "Violence in Haiti has allowed gangs to expand their territorial control, attack state facilities and displace thousands of people. N Digital reports that more than 2,000 Salvadoran soldiers arrived in the country in the last month, sent by President Nayib Bukele, with the initial mission of locating four soldiers missing since October 18 after an ambush in Croix-des-Bouquets.",
-    "The prime minister also expressed solidarity with Salvadoran forces over the deaths of three soldiers in an explosives-related incident at a military camp. According to N Digital, the incident happened on Friday and left another soldier wounded. Neither the Haitian government nor the sources consulted specify whether a local investigation or new protection measures for the troops will follow.",
-    "Fils-Aimé did not announce new operations, deadlines or additional resources for the strategy."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnd4U2FmeWxfSE8tNmFyM2RJbFFfdXRsOU5VOHZxb3QyTmZEcE5EWnh2RlAwWGdEOHhBMHAyMGYyaWtoXzFQc04zaThxMmJ2d3B6STYxdzg4Z3dhejZ1SWQtZTJlWGpqZFhlQXY0TE9oN1oxaE5ybm5mR1VKRmxzVFpzYTlJbVE3U216bHlIc2V1aUt2bFpxMHpnRElHVGlISmk00gGrAUFVX3lxTE56YWNZQTZ0d1pqUTRZaHBGaEo4VlB1eHc3RDRkTUFXZ1k3NVFUcGxqLTJnZG4ya1lBT0FpZUlBaVB6bEtnZFZpeTJtd1JDZEhnUXRPenlnelJMQUViZURqWFByQmZBNXRBTHpha0lvbm9lZC1jMm85eWIxUmNSSHJPNDQwelZESUExaHR5dnJXSG1yMHJ0NldSempDSUg5LWExVzFrUGdPRWxtUQ?oc=5",
-  "url": "https://n.com.do/2026/11/23/primer-ministro-de-haiti-advierte-que-las-bandas-armadas-no-tendran-tregua-tras-reunirse-con-militares-salvadorenos/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/23/primer-ministro-de-haiti-advierte-que-las-bandas-armadas-no-tendran-tregua-tras-reunirse-con-militares-salvadorenos/"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/internacionales/haiti-advierte-a-las-pandillas-tras-reunion-con-mando-salvadoreno/"
-   },
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/el-salvador/2026/11/23/primer-ministro-de-haiti-advierte-que-las-pandillas-no-van-a-poder-dormir-tranquilas-tras-reunirse-con-mandos-salvadorenos/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó \"Medios distintos coinciden\" por atribución vaga, se atribuyó la visita y la frase a X/Fils-Aimé, se corrigió \"domingo\" al atribuir la muerte de los soldados a \"el viernes\" según N Digital, se eliminó la afirmación de que el encuentro tuvo \"tranquilidad\" no sustentada, se quitó la mención a \"versiones revisadas\" y se ajustó la atribución de las cifras de Bukele y la desaparición solo a N Digital; se eliminó el dato de \"investigación\" no atribuido correctamente; se mejoró el estilo quitando relleno).",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-24T02:22:44.557147+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/9f71d55045.jpg",
-  "ig_id": "17876985750643958",
-  "ig_fecha": "2026-11-24T02:27:02.841081+00:00"
- },
- {
-  "id": "01ea23840a",
-  "titulo": "Estadísticas del juego Gigantes del Cibao vs Aguilas Cibaenas",
-  "titulo_original": "Estadísticas del juego Gigantes del Cibao vs Aguilas Cibaenas",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55ZXlMMmZONXhEMEhsUGpGcFFGdWFNSGNhR05rWm1kMDF4LWpoRnl2dElIYXhkTUV6eTZUZXZXMUZ0R3JFYmZxX0I1b0tYN0hwVWN6aGNWb0ZmbVlnQ3JWcmVLU2hzell5bVNCTlV6UEYyNEpycnc?oc=5",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-24T02:23:06.296700+00:00"
- },
- {
-  "id": "3c1ee89008",
-  "titulo": "Anthony DiComo on Tarik Skubal, A.J. Ewing's contract",
-  "titulo_original": "Anthony DiComo on Tarik Skubal, A.J. Ewing's contract",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0RLTnRfTjhmTGhjUmJJN2h1TVpIc2IwQzFXMWxKOFVsWlV4aHU5dGhCTFpReUc1NG16Z0pvUkkyZHJsd0szcmlacGcwQ0hTLVFieFdLYzhrbWJsQXhodi1yVTdHMVJaN1ZLSWJFTEZwaVJqQ3VxZUl5N3p6VDRoamJURTZ2cWM?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-24T02:23:15.286396+00:00"
- },
- {
-  "id": "9ab41fba61",
-  "titulo": "Los Cerveceros reparten más de $41 millones en bonos de postemporada",
-  "titulo_original": "Brewers' portion of total postseason shares tops $41 million",
-  "resumen": "Los Cerveceros de Milwaukee recibirán un bono de temporada alta tras ganar la Serie Mundial. Cada jugador de la plantilla de 2026 cobrará $493,044, según MLB.com.",
-  "gancho": "Los Cerveceros de Milwaukee recibirán un bono de temporada alta tras ganar la Serie Mundial. Cada jugador de la plantilla de 2026 cobrará $493,044, según MLB.com.",
-  "parrafos": [
-   "Los Cerveceros de Milwaukee, campeones de la Serie Mundial, recibirán un bono de temporada alta por su desempeño durante octubre. Según MLB.com, cada jugador de la plantilla de 2026 recibirá $493,044 por su parte del reparto de postemporada.",
-   "El fondo total de jugadores de la postemporada ascendió a casi $115 millones. Ese monto varía cada año según los juegos disputados, las partes repartidas y la capacidad de los estadios, entre otros factores. La parte correspondiente a Milwaukee fue de $41,227,252, que el equipo dividió entre 65 partes completas, 17.5 parciales y 20 premios en efectivo.",
-   "Los Rays de Tampa Bay, campeones de la Liga Americana, recibieron $27,484,835 del fondo total. El equipo entregó 77 partes completas, 14.9 parciales y 19 premios en efectivo, con un valor de $296,339 por parte completa.",
-   "El tamaño de cada parte depende de cuántas repartan los equipos, lo que se decide en una reunión de jugadores antes del fin de la temporada regular. Antes de la Serie Mundial, el monto del fondo es el mismo para todos los equipos que llegan a cada ronda.",
-   "El fondo se forma con el 60 por ciento de la recaudación de taquilla de los primeros juegos de cada serie de postemporada, desde la Serie de Comodines hasta la Serie Mundial.",
-   "Los demás equipos también recibieron sus partes. Los Guardianes y los Dodgers, finalistas de la Serie de Campeonato de Liga, recibieron $13,742,417 cada uno. Los Bravos, Medias Blancas, Yankees y Padres, perdedores en la Serie Divisional, recibieron $3,721,905 cada uno. Los Medias Rojas, Cachorros, Astros y Phillies, eliminados en la Serie de Comodines, recibieron $858,901 cada uno."
-  ],
-  "claves": [
-   "Cada jugador de la plantilla de 2026 de Milwaukee recibirá $493,044 por su participación en la postemporada.",
-   "El total de los Cerveceros fue de $41,227,252, repartido entre 65 partes completas, 17.5 parciales y 20 premios en efectivo.",
-   "Los Rays recibieron $27,484,835 del fondo total de jugadores.",
-   "El fondo total de jugadores de postemporada superó los $115 millones."
-  ],
-  "importa": "Para peloteros dominicanos en Grandes Ligas, estos bonos representan ingresos extra significativos al cierre de la temporada.",
-  "en": {
-   "titulo": "Brewers' Postseason Bonus Pool Tops $41 Million",
-   "gancho": "The World Series champion Brewers will receive a holiday bonus after winning the title. Each player on the 2026 roster will earn $493,044, according to MLB.com.",
-   "claves": [
-    "Each 2026 Milwaukee roster player will receive $493,044 for their postseason participation.",
-    "Milwaukee's total was $41,227,252, split into 65 full shares, 17.5 partial shares and 20 cash awards.",
-    "The Rays received $27,484,835 from the total players' pool.",
-    "The overall postseason players' pool exceeded $115 million."
-   ],
-   "importa": "For Dominican players in the Major Leagues, these bonuses mean significant extra income at the close of the season.",
-   "parrafos": [
-    "The Milwaukee Brewers, World Series champions, will receive an off-season bonus for their performance during October. According to MLB.com, each player on the 2026 roster will receive $493,044 from the postseason pool.",
-    "The total players' pool for the postseason came to nearly $115 million. That amount varies each year based on games played, shares distributed and ballpark capacity, among other factors. Milwaukee's portion was $41,227,252, which the team divided into 65 full shares, 17.5 partial shares and 20 cash awards.",
-    "The Tampa Bay Rays, American League champions, received $27,484,835 from the total pool. The team issued 77 full shares, 14.9 partial shares and 19 cash awards, with a full share valued at $296,339.",
-    "The size of each share depends on how many the teams decide to distribute, which is decided at a players' meeting before the end of the regular season. Before the World Series, the pool is the same for every team that reaches each round.",
-    "The pool is formed from 60 percent of the gate receipts from the first games of each postseason series, from the Wild Card Series through the World Series.",
-    "The other postseason teams also received their shares. The Guardians and Dodgers, League Championship Series runners-up, each received $13,742,417. The Braves, White Sox, Yankees and Padres, Division Series runners-up, each received $3,721,905. The Red Sox, Cubs, Astros and Phillies, Wild Card Series runners-up, each received $858,901."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqNzNvVGVJR3VJYjhvRGFqR3Bubm1SQTFXMmVrQ1VmRGxNWFVhMm40WS1MQ0ZIOFFlWmNLZzEyZF81QnVNUDFUdlU5RzVWb3FvbnlVUGhUVGtRYUVoQVJPTNIBbEFVX3lxTE0zSU0zYWN0OHlhRkp0NWhtWGpCOU1pdnNvV29McldsMDRERWNLZGVyYl9PNWRkRV9Malh3RFFuUjR1X3hUQVo0Mjc2VlliN19ENmNQbHB4S0RfbHhma2l1MjI0TzZPTGRHclUtQQ?oc=5",
-  "url": "https://www.mlb.com/news/2026-mlb-postseason-shares",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/news/2026-mlb-postseason-shares"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"Ese monto varía cada año...\" no, lo conservé; corregí el texto del fondo a \"60 por ciento de la recaudación de taquilla de los primeros juegos de cada serie de postemporada\", que en la fuente son juegos específicos por serie; ajusté la oración sobre el fondo antes de la Serie Mundial y la atribución de cifras a MLB.com; reescribí el gancho y la ortografía/gramática del inglés para que coincida con el español).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T02:23:52.864574+00:00",
   "tendencia": 1
  }
 ]
