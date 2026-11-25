@@ -1,15 +1,14 @@
-Corrida: 2026-11-25 02:47 PM (hora RD)
+Corrida: 2026-11-25 03:24 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] Dirección Nacional de Control de Drogas: texto leído 1883 letras -> https://dncd.gob.do/noticias/dncd-frustra-envio-de-un-pilon-relleno-de-presunta-cocaina-hacia-estados-unidos/
-Fuente oficial encontrada: Dirección Nacional de Control de Drogas 
-Revisión: corregida (corregí "pilón de madera" en el título y gancho en español para que coincida con "pilón artesanal"; añadí "de
-[República Dominicana] Dirección de Epidemiología: texto leído 185 letras -> https://viepi.epidemiologia.gob.do/dashboard
-No se pudo leer el artículo; no se publica para no salir corta: - Dirección de Epidemiología
-[República Dominicana] DGII: texto leído 137 letras -> https://dgii.gov.do/rst/indexrst.aspx
-[República Dominicana] DGII: texto leído 137 letras -> https://ws945695e.dgii.gov.do/rst/indexrst.aspx
-No se pudo leer el artículo; no se publica para no salir corta: Régimen Simplificado de Tributación (RST)
+[República Dominicana] msp.gob.do: texto leído 3932 letras -> https://msp.gob.do/web/?p=20627
+Fuente oficial encontrada: msp.gob.do 
+Revisión: corregida (se cambió "Ministerio de Salud Pública" por "Ministerio de Salud" según la fuente; se atribuyó a la OPS/OMS l
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dat
+[República Dominicana] datos.gov.do: texto leído 6106 letras -> https://datos.gov.do/organization/activity/eco5rd?offset=0
+Fuente oficial encontrada: datos.gov.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Unidad Ejecutora ECO5RD (ECO5RD)
 [República Dominicana] DGII: texto leído 924 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/quisiera-realizar-la-siguiente-consulta-en-relacin-con-el-tratamiento-del-itbis-tomando-en-consideracin-las-disposiciones-establecidas-en-la-norma-general-nm-0226/6b05f0854895ae0f6e4ea00c
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Quisiera realizar la siguiente consulta en relación con el tratamiento del ITBIS, tomando en consideración las disposiciones establecidas en la Norma General núm. 02-26
@@ -20,88 +19,89 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuerpo Especia
 [República Dominicana] DGII: texto leído 1145 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/tasa-de-cambio-aplicable-a-facturas-electrnicas-en-dlares/6b05e7653a9daeeaea9604a0
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tasa de cambio aplicable a facturas electrónicas en dólares
-[República Dominicana] De Último Minuto: texto leído 1891 letras -> https://deultimominuto.com/nacionales/cedula-roman-jaquez-renovacion/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Román Jáquez exhorta a ciudadanos a obtener la nueva cédula de identidad
-[República Dominicana] De Último Minuto: texto leído 2363 letras -> https://deultimominuto.com/nacionales/embajadora-de-ee-uu-3/
-[República Dominicana] Ensegundos.do: texto leído 1909 letras -> https://ensegundos.do/2026/11/25/embajadora-de-ee-uu-advierte-que-el-80-del-proyecto-de-viettel-queda-fuera-de-la-restriccion-del-indotel/
-Revisión: corregida (se corrigió "Hizo el señalamiento" a "Hizo el señalamiento" sin cambio; se atribuyó la cita al interpretar la
-[Dominicanos en EE.UU.] Presidencia de la República Dominicana: texto leído 7000 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-reconoce-con-el-galardon-de-maxima-excelencia-151-estudiantes
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/abinader-reconoce-a-151-estudiantes-sobresalientes-del-pais-por-su-excelencia-academica/
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 3189 letras -> https://eldia.com.do/abinader-encabeza-reconocimiento-a-151-estudiantes-sobresalientes-de-la-educacion-publica/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Presidente Luis Abinader reconoce con el Galardón de Máxima Excelencia a 151 estudiantes sobresalientes de las 18 regionales educativas del país
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté el título y el texto en español al tono de la fuente, eliminé "Para las fam
-Revisión: corregida (ajusté el título y el texto en español al tono de la fuente, eliminé "Para las familias en RD y EE.UU." por s
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 800 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
+[República Dominicana] De Último Minuto: texto leído 4195 letras -> https://deultimominuto.com/nacionales/las-terrenas-en-riesgo-de-colapso/
+Revisión: corregida (se quitó "Advierten" del título? no; se ajustó "Advierten" a "Alerta" no fue necesario; se corrigió la atribu
+Video de YouTube agregado: LAS TERRENAS EN PELIGRO: ¿VIENE UN APAGÓN MASIVO?
+[República Dominicana] De Último Minuto: texto leído 1978 letras -> https://deultimominuto.com/nacionales/seis-estudiantes-de-azua-reciben/
+Revisión: corregida (se eliminaron frases de relleno y se ajustó la atribución de "de la Regional 03" a "de la Dirección Regional 
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[Dominicanos en EE.UU.] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es&Country=DO&Theme=DGCP&Page=Login
+Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo escribir esta noticia. El único material que me pasaste es un listado de procesos de compra publicado por la Dirección General de Contrataciones Públicas, es decir, una tabla de li')
+[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
 Fuente oficial encontrada: Federal Register (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly
-Fuente no confiable, se salta: pressreader.com
 [Dominicanos en EE.UU.] El Universo: texto leído 895 letras -> https://www.eluniverso.com/entretenimiento/gente/gisselle-rosales-gana-el-mejor-traje-nacional-en-miss-internacional-2026-con-una-creacion-de-paja-toquilla-nota/
 No encaja en ninguna sección, se salta: La ecuatoriana Gisselle Rosales gana por mejor traje nacional en Miss Internacional 2026 con una creación de paja toquilla
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 2716 letras -> https://eldia.com.do/hoy-vamos-juntos-republica-dominicana-melissa-nunez-comparte-su-ilusion-previo-a-miss-universo-2026/
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: "¡Hoy vamos juntos, República Dominicana!": Melissa Núñez comparte su ilusión previo a Miss Universo 2026
-Revisión: corregida (ajusté "certamen" a "concurso"/"certamen" sin cambio de sentido; en el español "La certamen" corregido a "El 
-[Dominicanos en EE.UU.] El Universo: texto leído 1292 letras -> https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-30-que-avanza-a-la-siguiente-ronda-nota/
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Miss Universo 2026: este es el top 30 que avanza a la siguiente ronda
-Revisión: corregida (agregué atribución a El Universo en el texto, reemplacé "la mujer más bella del universo" con su redacción, e
+Fuente no confiable, se salta: revistamercado.do
 [Dominicanos en EE.UU.] El Universo: texto leído 4041 letras -> https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-lista-completa-de-candidatas-de-los-116-paises-y-territorios-participantes-nota/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. La versión 1 que me pasaste se corta a la mitad (termina en la lista de África, en "Egipto — Sonia Gergis" y luego "-"), y es pri')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss Universo 2026: lista completa de candidatas de los 116 países y territorios participantes
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: diarioeco.com.do
+Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: 21noticias.com
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1905 letras -> https://eldia.com.do/resultados-de-la-loteria-martes-24-de-noviembre-de-2026/
+[Dominicanos en EE.UU.] Univision: texto leído 2995 letras -> https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-24-noviembre-2026
+[Dominicanos en EE.UU.] MILENIO: texto leído 0 letras -> sin enlace
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente contiene únicamente tablas de resultados de loterías, una nota sobre el premio de Mega Millions y un fragmento de titular de México. No hay una noticia única verificable que yo pueda redac')
+Fuente no confiable, se salta: mensajero.com.ar
+Fuente no confiable, se salta: revistamercado.do
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3065 letras -> https://elnuevodiario.com.do/serie-dominicana-la-familia-espejo-gana-premio-view-especial-y-suma-nominacion-internacional/
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Serie dominicana “La Familia Espejo” gana premio View Especial y suma nominación internacional
+Revisión: corregida (ajusté el nombre del premio a "View Especial" y el texto en inglés para que coincida; separé la atribución de
+[Internacionales] The White House (.gov): texto leído 3314 letras -> https://www.whitehouse.gov/videos/god-bless-the-victims-of-these-evil-monsters-you-will-never-be-forgotten/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Internacionales] U.S. Department of State (.gov): texto leído 1082 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud
-[Internacionales] U.S. Department of State (.gov): texto leído 1831 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-welcomes-the-joint-bid-by-chile-and-belgium-to-host-the-secretariat-of-the-biodiversity-beyond-national-jurisdiction-bbnj-agreement
+[Internacionales] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-eighth-united-states-qatar-strategic-dialogue-an-enduring-strategic-partnership
 Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The United States Welcomes the Joint Bid by Chile and Belgium to Host the Secretariat of the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement
-[Internacionales] US Embassy Online Auction (.gov): texto leído 2915 letras -> https://online-auction.state.gov/
-Fuente oficial encontrada: US Embassy Online Auction (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Online Auction Home Page
-[Famosos] Diario Libre: texto leído 4288 letras -> https://www.diariolibre.com/revista/cultura/2026/11/25/que-estan-leyendo-los-dominicanos-los-10-libros-mas-vendidos-de-2026/3731324
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Los 10 libros más vendidos de 2026: ¿qué están leyendo los dominicanos?
+Revisión: corregida (se ajustó "canciller" a "ministro de Asuntos Exteriores" en la versión en español para igualar el inglés; se 
+Fuente no confiable, se salta: prensa-latina.cu
+[Famosos] N Digital: texto leído 1623 letras -> https://n.com.do/2026/11/25/amelia-vega-felicita-a-melissa-nunez-estamos-muy-orgullosos-de-ti/
+Revisión: corregida (se cambió "Miss Universo" por "Miss Universo 2026" en el primer párrafo para alinearlo con las fuentes; se co
 Fuente no confiable, se salta: tecnologiageek.com
 Fuente no confiable, se salta: cuballama.com
 Fuente no confiable, se salta: cibercuba.com
 [Famosos] Listín Diario: texto leído 5749 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada, porque la mayor parte del texto que me pasaste está cortado (termina en "Tiempo at") y solo tengo una versión, la de Listín Diari')
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el título, que tenía comilla de cierre faltante y estaba cortado en el ES;
+Rechazada por la revisión: Estos son los participantes de "La casa de Alofoke 3" -> cifras que no aparecen en las fuentes: 100000, 200000
 Fuente no confiable, se salta: cuballama.com
 [Famosos] Hoy Digital: texto leído 1452 letras -> https://hoy.com.do/vivir/alegria/isaura-taveras-gana-premio-alfombra-casa-alofoke_1109784.html
 Rechazada por la revisión: Isaura Taveras gana premio de la alfombra de La Casa de Alofoke -> cifras que no aparecen en las fuentes: 100000, 200000
-Fuente no confiable, se salta: cibercuba.com
 [Famosos] CDN: texto leído 3773 letras -> https://cdn.com.do/internacionales/msf-atendio-a-5-635-supervivientes-de-violencia-sexual-en-haiti/
 Cambiada de sección: Famosos -> Internacionales: MSF atendió a 5.635 supervivientes de violencia sexual en Haití entre enero y octubre
-Rechazada por la revisión: MSF atendió a 5.635 supervivientes de violencia sexual en Haití entre enero y octubre -> cifras que no aparecen en las fuentes: 635
+Revisión: corregida (título: "más de 5.600" → "5.635"; "sobrevivientes" → "supervivientes" en el texto de la fuente; se cambió "el
 Fuente no confiable, se salta: prensa-latina.cu
-Fuente no confiable, se salta: urbanstreet.com.pe
-Fuente no confiable, se salta: tecnologiageek.com
-[Famosos] CDN: texto leído 1572 letras -> https://cdn.com.do/nacionales/digesett-retiene-motos-sin-placa-de-exhibicion-en-barahona/
-Cambiada de sección: Famosos -> República Dominicana: Video | Digesett retiene motocicletas sin placas en Barahona
-Revisión: corregida (se quitó "dominicanas" del título en inglés, se cambió "vehicles" por "motorcycles and scooters" donde hacía 
-[Famosos] De Último Minuto: texto leído 2730 letras -> https://deultimominuto.com/entretenimiento/gabi-desangles-3/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gabi Desangles suma una nueva alfombra roja a su trayectoria, esta vez en La Casa de Alofoke 3
+[Famosos] CDN: texto leído 4027 letras -> https://cdn.com.do/en-desarrollo/el-rey-guevara-regresa-con-asi-hoy-junto-a-breyco/
+Revisión: corregida (eliminé "de la nada" del inglés que traducía mal; corregí "Así Hoy" lanzado "con el respaldo" sin cambiar hec
 [Deportes] MLB.com: texto leído 2209 letras -> https://www.mlb.com/es/video/david-aardsma-reflects-on-mlb-career
 La IA la descartó (no es noticia, rumor, opinión o publicidad): David Aardsma reflects on MLB career
-[Deportes] MLB.com: texto leído 4275 letras -> https://www.mlb.com/news/orioles-rotation-landscape-after-freddy-peralta-signing
-Revisión: corregida (corregí "pitcher derecho" a "lanzador derecho" y eliminé "todos derechos también" por redundancia; quité "Eya
+[Deportes] MLB.com: texto leído 2208 letras -> https://www.mlb.com/es/video/giants-hardest-hits-of-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Giants' Hardest Hits of 2026
+[Deportes] MLB.com: texto leído 2204 letras -> https://www.mlb.com/es/video/orioles-hardest-hits-of-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Orioles' Hardest Hits of 2026
 [Deportes] MLB.com: texto leído 6003 letras -> https://www.mlb.com/news/best-players-in-mlb-25-and-under-heading-into-2027
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Let's build a lineup of MLB's best 25-and-under stars
+[Deportes] NBA.com: texto leído 811 letras -> https://www.nba.com/news/nba-players-week-jokic-davis-week-5
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Jokić, Davis named NBA Players of the Week
 [Deportes] NBA.com: texto leído 2914 letras -> https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe
 Rechazada por la revisión: NBA announces €10B plan to develop European arenas -> cifras que no aparecen en las fuentes: 10000, 24000
-[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/kia-rookie-ladder-november-25-2026
-Revisión: corregida (corregí "Cameron Boozer... aparece en el segundo lugar" — según la fuente Boozer es No. 2 pero la semana pasa
-[Precios y combustibles] Acento: texto leído 2463 letras -> https://acento.com.do/economia/productores-de-cerdo-piden-destituir-al-director-de-ganaderia-por-aumento-de-importaciones-9796488.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Productores de cerdo piden destituir al director de Ganadería por aumento de importaciones
-Rechazada por la revisión: Productores de cerdo piden destituir al director de Ganadería por aumento de importaciones -> cifras que no aparecen en las fuentes: 33
-Fuente no confiable, se salta: lacalle.com.ve
 [Precios y combustibles] Noticias SIN: texto leído 3214 letras -> https://noticiassin.com/mundo/america/2026/11/25/peru-preve-bonos-de-240-soles-por-danos-de-el-nino-2176759/?amp=1
 Cambiada de sección: Precios y combustibles -> Internacionales: El Gobierno de Perú prevé entregar bonos de setenta dólares a damnificados por El Niño
 Rechazada por la revisión: El Gobierno de Perú prevé entregar bonos de setenta dólares a damnificados por El Niño -> cifras que no aparecen en las fuentes: 52
-[Precios y combustibles] CDN: texto leído 4427 letras -> https://cdn.com.do/internacionales/america-latina/paraguay-adelantara-us10-millones-en-indemnizaciones-por-ueno-bank/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado no es una noticia completa y verificable en su versión disponible: contiene elementos de navegación ("Resumen", "Puntos clave", "Preguntas frecuentes"), una adver')
+Fuente no confiable, se salta: lacalle.com.ve
+Fuente no confiable, se salta: rccnoticias.com.do
+Fuente no confiable, se salta: eluniversaldigital.net
+[Precios y combustibles] CDN: texto leído 5101 letras -> https://cdn.com.do/nacionales/riesgo-legal-de-aceptar-dinero-sin-verificar-su-origen/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogado cuestiona manejo de autoridades en caso Melisa Martínez
+[Precios y combustibles] Infobae: texto leído 3676 letras -> https://www.infobae.com/noticias/2026/11/25/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-25-de-noviembre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en República Dominicana: cotización de apertura del 25 de noviembre
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
-[Videojuegos] Nintendo: texto leído 3994 letras -> https://www.nintendo.com/us/whatsnew/customize-your-style-and-wow-the-competition-in-nintendo-switch-sports-resort/
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (se quitó "ya está disponible" redundante en la entradilla inglesa "is now out"; se corrigió "Sportmate" a "Sp
 [Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
@@ -139,10 +139,10 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SS
 [Videojuegos] Nintendo: texto leído 1953 letras -> https://ec.nintendo.com/AU/en/aocs/70050000085034
 Fuente oficial encontrada: Nintendo, Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Weapon Catalog 2 & Soundtrack Pack
-Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 2.
+Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 2.
 Marcadores: 26 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-11 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 93 · ya cubiertas: 32 · no confiables: 10 · opinión: 0 · con texto leído: 48 · sin texto: 3 · medios juntados: 2 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 6 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 26 · cambiadas de sección: 7 · largas: 9 · ocultas (cortas): 2
+8 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 94 · ya cubiertas: 36 · no confiables: 17 · opinión: 0 · con texto leído: 46 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 5 · con video: 1 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 28 · cambiadas de sección: 3 · largas: 8 · ocultas (cortas): 0
+Para Instagram (tendencia 5): Melissa Núñez es primera finalista de Miss Universo 2026
 Para Instagram (tendencia 5): Melissa Núñez se ilusiona a horas de Miss Universo 2026 y pide que el país vaya con ella
-Para Instagram (tendencia 3): FMI pide al Gobierno corregir rumbo fiscal y reducir subsidios
