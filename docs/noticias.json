@@ -1,5 +1,564 @@
 [
  {
+  "id": "5eba3dd00d",
+  "titulo": "Obama impulsa nuevos liderazgos demócratas rumbo a 2028",
+  "titulo_original": "Obama impulsa nuevos liderazgos demócratas de cara a las elecciones de 2028",
+  "resumen": "El expresidente Barack Obama retoma un papel activo en el Partido Demócrata y apuesta por una nueva generación de líderes para las presidenciales de 2028.",
+  "gancho": "El expresidente Barack Obama retoma un papel activo en el Partido Demócrata y apuesta por una nueva generación de líderes para las presidenciales de 2028.",
+  "parrafos": [
+   "El expresidente estadounidense Barack Obama ha recuperado protagonismo dentro del Partido Demócrata tras los resultados favorables de su formación en las elecciones de medio mandato. Según la agencia EFE, ahora busca impulsar a una nueva generación de dirigentes con miras a las presidenciales de 2028.",
+   "Durante la campaña previa a los comicios del 3 de noviembre, Obama participó en mítines y respaldó a candidatos demócratas en estados clave frente a los republicanos. Entre ellos figuran James Talarico, elegido senador por Texas, y Josh Turek, vencedor en Iowa. También estuvo presente en actividades electorales en Michigan, Ohio y Georgia, donde criticó al presidente Donald Trump.",
+   "Más allá de sus apariciones públicas, el exmandatario mantiene conversaciones periódicas con candidatos jóvenes, a quienes ofrece orientación política y consejos sobre comunicación. Entre las figuras que empiezan a ganar atención dentro del partido se mencionan Jon Ossoff, Abdul El-Sayed y Rob Sand.",
+   "En una visita sorpresa, Obama asistió a un encuentro con legisladores demócratas recién electos en la Biblioteca Folger Shakespeare, cerca del Capitolio. Durante la reunión habló de la importancia del cambio generacional y de la diversidad dentro del partido. Según El Nuevo Diario, dijo que la nueva generación está en sintonía con las circunstancias actuales y que es idónea para este momento.",
+   "Según analistas citados por EFE, los demócratas lograron recuperar apoyo de votantes latinos y jóvenes, que habían perdido en 2024. Laura Rodríguez, vicepresidenta sénior de Asuntos Gubernamentales del Center for American Progress, afirmó a EFE que el partido prestó más atención a las preocupaciones de esos grupos.",
+   "Obama dejó la Casa Blanca en enero de 2017, pero sigue siendo una de las figuras más reconocidas del partido. Según un sondeo de CNN realizado en mayo, obtiene una valoración favorable del 57 % entre los estadounidenses."
+  ],
+  "claves": [
+   "Obama pasó de hacer campaña a orientar a los nuevos dirigentes demócratas.",
+   "Respaldó a James Talarico en Texas y a Josh Turek en Iowa.",
+   "Se reunió con nuevos congresistas demócratas en la Biblioteca Folger Shakespeare."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Obama Backs New Democratic Leaders Ahead of 2028",
+   "gancho": "Former President Barack Obama is back in an active role in the Democratic Party, pushing a new generation of leaders ahead of the 2028 presidential race.",
+   "claves": [
+    "Obama has shifted from campaigning to mentoring new Democratic leaders.",
+    "He backed James Talarico in Texas and Josh Turek in Iowa.",
+    "He met with newly elected Democratic congressmembers at the Folger Shakespeare Library."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Former U.S. President Barack Obama has regained prominence within the Democratic Party after the party's strong showing in the midterm elections. According to EFE, he now wants to push a new generation of leaders ahead of the 2028 presidential race.",
+    "During the campaign ahead of the November 3 elections, Obama took part in rallies and backed Democratic candidates in key states against Republicans. Among them are James Talarico, elected senator for Texas, and Josh Turek, who won in Iowa. He also took part in campaign activities in Michigan, Ohio, and Georgia, where he criticized President Donald Trump.",
+    "Beyond his public appearances, the former president holds regular conversations with young candidates, offering political guidance and advice on communication. Figures starting to gain attention within the party include Jon Ossoff, Abdul El-Sayed, and Rob Sand.",
+    "On a surprise visit, Obama joined newly elected Democratic lawmakers at the Folger Shakespeare Library, near the Capitol. During the meeting he spoke about the importance of generational change and diversity within the party. According to El Nuevo Diario, he said the new generation is in tune with current circumstances and well suited for this moment.",
+    "According to analysts cited by EFE, Democrats managed to win back support from Latino voters and young people, who had turned away in 2024. Laura Rodríguez, senior vice president of Government Affairs at the Center for American Progress, told EFE that the party paid closer attention to the concerns of those groups.",
+    "Obama left the White House in January 2017 but remains one of the party's most recognized figures. According to a CNN poll from May, he holds a favorable rating of 57% among Americans."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2WWh1UDBVQjdtYXQ0Ung4UXg4TWc5cENjbEJIUFhlMDBYUEdndnYzSVZjUDl5aFNwZVFnbVRmQkNOenlhZ0dVanJ1UVVCc3JKekYxaGVhakw2Ym44MDRKdmo0cWRCYWlJa2hMUjJCSWFybGlXaTE2NGN6RXU?oc=5",
+  "url": "https://elnuevodiario.com.do/obama-impulsa-nuevos-liderazgos-democratas-con-la-mirada-puesta-en-2028/",
+  "fuente": "El Nuevo Diario",
+  "dominio": "elnuevodiario.com.do",
+  "fuentes": [
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/obama-impulsa-nuevos-liderazgos-democratas-con-la-mirada-puesta-en-2028/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/obama-impulsa-nuevos-lideres/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se cambió \"Josh Turek\" de la versión en inglés y del borrador original \"Josh Turek\"; se corrigió \"Obama asistió\" a \"visita sorpresa\" sin cambios de fondo; se atribuyó a El Nuevo Diario la cita de la diversidad y la frase sobre \"sintonía\"; se quitó \"Según la agencia EFE\" del primer párrafo porque la fuente de Último Minuto sí lo indica pero se mantuvo; se añadió la fecha de la encuesta de CNN; se atribuyó la cita de \"Dijo que la nueva generación...\" a la reunión; se corrigió \"Míchigan\" a \"Michigan\" en inglés/español según la fuente; se eliminó \"sigue siendo una de las figuras más reconocidas\" sin cambio; se mantuvo el resto).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-25T06:49:03.161623+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "d4115fcca2",
+  "titulo": "Miss Universo 2026: presentadores, candidatas madres y el regreso de 16 países",
+  "titulo_original": "¿Quiénes serán los presentadores oficiales de la gala final de Miss Universo 2026?",
+  "resumen": "La gala final de Miss Universo 2026 se celebra en San Juan con Mario López y R'Bonney Gabriel como presentadores principales. Seis países se retiraron por una disputa legal.",
+  "gancho": "La gala final de Miss Universo 2026 se celebra en San Juan con Mario López y R'Bonney Gabriel como presentadores principales. Seis países se retiraron por una disputa legal.",
+  "parrafos": [
+   "La gala final de Miss Universo 2026 se celebrará el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot, en San Juan. La edición número 75 del certamen será conducida por el comunicador Mario López y por la Miss Universo 2022, R'Bonney Gabriel, según anunció la Miss Universe Organization (MUO) en un comunicado de prensa.",
+   "La organización también informó que la Miss Universo 1993, la puertorriqueña Dayanara Torres, y la actriz y comunicadora estadounidense Zuri Hall estarán a cargo de los comentarios de la transmisión. Completan el grupo las Miss Universo 2001 y 2006, las puertorriqueñas Denise Quiñones y Zuleyka Rivera, y Lance Bass, cantante de NSYNC.",
+   "Según Primicias, el certamen atraviesa una disputa legal entre la organización matriz, JKN Global Group, y el empresario tailandés Nawat Itsaragrisil, propietario de Miss Grand International. Por ese conflicto, las delegadas de Tailandia, Vietnam, Indonesia, Malasia, Singapur y Laos se retiraron. Este año debutan Uganda y San Martín, y regresan dieciséis naciones tras años de ausencia.",
+   "El certamen también eliminó los límites de edad y las restricciones por estado civil o maternidad, por lo que entre las candidatas hay madres. Entre ellas está Jennifer Barreto (Puerto Rico), casada y madre de una niña de siete años. Justus Kelley (Estados Unidos), de 31 años, es la primera mujer casada y madre en ser coronada Miss USA. Caroline Porras (Bonaire), de 25 años, tiene una hija nacida en diciembre de 2025.",
+   "Entre las más jóvenes están Gabriela Lineth González (Panamá), de 20 años, y Dalia Bucaram (Ecuador), de 21. Las de mayor edad son Lucía Piñeyro (Uruguay), Bernella Velinor (Santa Lucía) y Maruschka Sahiboe (Surinam), todas de 33 años."
+  ],
+  "claves": [
+   "Los presentadores oficiales son Mario López y R'Bonney Gabriel. Los comentarios estarán a cargo de Dayanara Torres, Zuri Hall, Denise Quiñones, Zuleyka Rivera y Lance Bass, integrante de NSYNC.",
+   "La gala final será el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot, en San Juan.",
+   "Seis países se retiraron por una disputa legal entre JKN Global Group y el empresario tailandés Nawat Itsaragrisil, según Primicias.",
+   "Dieciséis naciones regresan tras años de ausencia, y debutan Uganda y San Martín."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Miss Universe 2026: Hosts, Mothers Among Contestants and 16 Returning Countries",
+   "gancho": "The Miss Universe 2026 final gala takes place in San Juan with Mario López and R'Bonney Gabriel as lead hosts. Six countries withdrew due to a legal dispute.",
+   "claves": [
+    "The official hosts are Mario López and R'Bonney Gabriel. Commentary will be provided by Dayanara Torres, Zuri Hall, Denise Quiñones, Zuleyka Rivera and Lance Bass, a member of NSYNC.",
+    "The final gala is on November 24 at the Coliseo de Puerto Rico José Miguel Agrelot in San Juan.",
+    "Six countries withdrew due to a legal dispute between JKN Global Group and Thai businessman Nawat Itsaragrisil, according to Primicias.",
+    "Sixteen nations are returning after years away, and Uganda and Sint Maarten are making their debuts."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Miss Universe 2026 final gala will take place on November 24 at the Coliseo de Puerto Rico José Miguel Agrelot in San Juan. The 75th edition of the pageant will be hosted by broadcaster Mario López and Miss Universe 2022 R'Bonney Gabriel, the Miss Universe Organization (MUO) announced in a press release.",
+    "The organization also said Puerto Rican Miss Universe 1993 Dayanara Torres and American actress and broadcaster Zuri Hall will provide commentary for the broadcast. Puerto Rican former titleholders Denise Quiñones (2001) and Zuleyka Rivera (2006), along with Lance Bass of NSYNC, complete the lineup.",
+    "According to Primicias, the pageant is caught in a legal dispute between its parent company, JKN Global Group, and Thai businessman Nawat Itsaragrisil, owner of Miss Grand International. Because of the conflict, delegates from Thailand, Vietnam, Indonesia, Malaysia, Singapore and Laos withdrew. This year, however, Uganda and Sint Maarten are making their debuts, and sixteen countries are returning after years of absence.",
+    "The pageant also removed age limits and restrictions based on marital status or motherhood, so the contestants include mothers. Among them is Jennifer Barreto (Puerto Rico), who is married and has a seven-year-old daughter. Justus Kelley (United States), 31, is the first married mother to be crowned Miss USA. Caroline Porras (Bonaire), 25, has a daughter born in December 2025.",
+    "Among the youngest contestants are Gabriela Lineth González (Panama), 20, and Dalia Bucaram (Ecuador), 21. The oldest are Lucía Piñeyro (Uruguay), Bernella Velinor (Saint Lucia) and Maruschka Sahiboe (Suriname), all 33."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3FBQWJvUVhfVV9aaUNBMk85V3I1bGoxcTVORE5WZHROVUhqdXRFVmJXN0l2QmFabWdTVmJ1R1AyemJZNVZaQ0pDZ05zUWQ5aEhldk1NWGkyOFZ5SkEtdk1MYXNrQnBGOTNWeGU0SDBIS2lRT21DM1RGVU1kd1FwSjkxbm9wZk1FYm0tbThXWkxRZ3Ut?oc=5",
+  "url": "https://www.primicias.ec/entretenimiento/tv-streaming/miss-universo2026-candidatas-casadas-hijos-nsync-curiosidades-gala-final-137867/",
+  "fuente": "Primicias",
+  "dominio": "primicias.ec",
+  "fuentes": [
+   {
+    "nombre": "Primicias",
+    "url": "https://www.primicias.ec/entretenimiento/tv-streaming/miss-universo2026-candidatas-casadas-hijos-nsync-curiosidades-gala-final-137867/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/entretenimiento/presentadores-oficiales-del-miss-universo-2026/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí la descripción de Jennifer Barreto como \"anfitriona\" a candidata, quité \"Nsync\" del gancho y el título para atribuir bien; ajusté el hecho de la disputa a \"según Primicias\"; corregí el año de Rivera/Quiñones y la atribución de presentadores; quité \"en cambio\"/\"por eso\" de relleno; corregí \"Gabriela\" y datos de Argentina no incluidos; ajusté la traducción de Sint Maarten/San Martín y Saint Lucia/Suriname según las fuentes)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-25T06:49:23.054469+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "ffff9dd851",
+  "titulo": "District of Massachusetts | Illegal Alien from the Dominican Republic Pleads Guilty to Cocaine Conspiracy",
+  "titulo_original": "District of Massachusetts | Illegal Alien from the Dominican Republic Pleads Guilty to Cocaine Conspiracy",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNjNPczExdUdmaTlLLXVsRDFRcHdIanBGM014TWNlZ21hYVVuQ1IyRmZFX0p0c0Jld0w1X1ZrNm9NSXZJVjREN1gxLWdTVktwZ1RlMzRDTmNyb20zNFF4TU9aZkRyczVwcnRLY29nRmZvOFdEUm90M1I0RTkzekJ1c3VtcmlFTEEzVUVsdTgzdXhLVjhqeEVRUkcwRVQ2YmI5aUE?oc=5",
+  "fuente": "Department of Justice (.gov)",
+  "dominio": "justice.gov",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:49:47.578392+00:00"
+ },
+ {
+  "id": "1ba73fdad1",
+  "titulo": "La ley dominicana de 1962 que declara el Día de Acción de Gracias y Oraciones",
+  "titulo_original": "¿Por qué República Dominicana también reconoce el Día de Acción de Gracias? La ley de 1962 que pocos conocen",
+  "resumen": "Desde 1962, República Dominicana reconoce el cuarto jueves de noviembre como día de gratitud y oración. Pero su origen es distinto al de Estados Unidos.",
+  "gancho": "Desde 1962, República Dominicana reconoce el cuarto jueves de noviembre como día de gratitud y oración. Pero su origen es distinto al de Estados Unidos.",
+  "parrafos": [
+   "La República Dominicana reconoce desde 1962 el cuarto jueves de noviembre como día de gratitud y oración. La base legal es la Ley 6038, promulgada el 18 de septiembre de ese año, durante el gobierno del Consejo de Estado encabezado por Rafael F. Bonnelly. En 2026, la fecha corresponde al jueves 26 de noviembre.",
+   "La ley llegó en plena transición política, tras el ajusticiamiento de Rafael Leónidas Trujillo, ocurrido el 30 de mayo de 1961. El Consejo de Estado dirigía el país hacia las elecciones generales de diciembre de 1962.",
+   "Según los considerandos de la ley, el agradecimiento a Dios es un deber espiritual, y se destaca la influencia histórica del cristianismo y la fe católica en la sociedad dominicana. La norma también menciona que otros países, como Argentina, Brasil, Cuba, Costa Rica, Estados Unidos, Filipinas, Paraguay y Puerto Rico, tenían jornadas similares.",
+   "El texto central es breve: \"Se declara Día Nacional de Acción de Gracias y Oraciones el 4to. Jueves del mes de noviembre de cada año\". La norma asignó responsabilidades a las entonces secretarías de Estado de Interior y Policía, y de Educación, Bellas Artes y Cultos.",
+   "Aunque la fecha coincide con el Thanksgiving estadounidense, la ley no obliga a celebrar con una cena ni a seguir las tradiciones de Estados Unidos. Su enfoque es religioso y de gratitud.",
+   "Hoy la costumbre no está tan extendida como en Estados Unidos. Se observa sobre todo en algunas familias con vínculos en territorio estadounidense y en comunidades religiosas, que se reúnen ese jueves para compartir una cena y dar gracias por el año."
+  ],
+  "claves": [
+   "La Ley 6038 fue promulgada el 18 de septiembre de 1962, durante el gobierno del Consejo de Estado encabezado por Rafael F. Bonnelly.",
+   "Declara el cuarto jueves de noviembre como \"Día Nacional de Acción de Gracias y Oraciones\".",
+   "En 2026, la fecha corresponde al jueves 26 de noviembre.",
+   "La fecha no aparece entre los feriados establecidos por el Ministerio de Trabajo."
+  ],
+  "importa": "La fecha no es feriado oficial, así que el día de trabajo no cambia. Para las familias dominicanas, especialmente las que tienen vínculos con Estados Unidos, es una ocasión para reunirse y agradecer.",
+  "en": {
+   "titulo": "The 1962 Dominican law that declares a Day of Thanksgiving and Prayer",
+   "gancho": "Since 1962, the Dominican Republic has observed the fourth Thursday of November as a day of gratitude and prayer. Its origins, however, differ from those in the United States.",
+   "claves": [
+    "Law 6038 was enacted on September 18, 1962, under the Council of State led by Rafael F. Bonnelly.",
+    "It declares the fourth Thursday of November the \"Día Nacional de Acción de Gracias y Oraciones.\"",
+    "In 2026, the date falls on Thursday, November 26.",
+    "The date is not among the public holidays set by the Ministry of Labor."
+   ],
+   "importa": "The date is not an official holiday, so the workday does not change. For Dominican families, especially those with ties to the United States, it is an occasion to gather and give thanks.",
+   "parrafos": [
+    "The Dominican Republic has observed the fourth Thursday of November as a day of gratitude and prayer since 1962. The legal basis is Law 6038, enacted on September 18 of that year, under the Council of State led by Rafael F. Bonnelly. In 2026, the date falls on Thursday, November 26.",
+    "The law came during a political transition, after the assassination of Rafael Leónidas Trujillo on May 30, 1961. The Council of State was steering the country toward the general elections of December 1962.",
+    "According to the law's preamble, giving thanks to God is a spiritual duty, and it highlights the historical influence of Christianity and the Catholic faith in Dominican society. The law also notes that other countries, including Argentina, Brazil, Cuba, Costa Rica, the United States, the Philippines, Paraguay, and Puerto Rico, had similar days of thanksgiving.",
+    "The central text is brief: \"The 4th Thursday of November of each year is hereby declared a National Day of Thanksgiving and Prayer.\" The law assigned responsibilities to the then state secretariats of Interior and Police, and of Education, Fine Arts and Worship.",
+    "Although the date coincides with American Thanksgiving, the law does not require a family dinner or the traditions of the United States. Its focus is religious and centered on gratitude.",
+    "Today the custom is not as widespread as in the United States. It is observed mainly by some families with ties to U.S. Territory and by religious communities, who gather that Thursday to share a meal and give thanks for the year."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUpJcHRQS3g5cmFoa1B0UHZPc0hQcnJZUkJnRnNibEdfUkE4U2xNQ1FJc09VQm81X0xhTU5pbVc2U0drMWFkbWZCVnNpTjJ5aElqSTZsQkhPNXlFTDZLZWp6SUl2YjJlUTRCbVFENVkwVHB3bHMwNVF3UW5tZ1lhTTBBY2ZYMFFSMURFRkF0UkNlUlpTai1KWld2c1VTNlg0MXBuVEduUFJxeVZjcVRmVXo3LWwxanJibURtWmRfVHlmMkdvT0VqbDE1YVBLeUJrZkx2UHlWQ1NQNUdOS2E1QUtGY9IB4wFBVV95cUxQUUpJcHRQS3g5cmFoa1B0UHZPc0hQcnJZUkJnRnNibEdfUkE4U2xNQ1FJc09VQm81X0xhTU5pbVc2U0drMWFkbWZCVnNpTjJ5aElqSTZsQkhPNXlFTDZLZWp6SUl2YjJlUTRCbVFENVkwVHB3bHMwNVF3UW5tZ1lhTTBBY2ZYMFFSMURFRkF0UkNlUlpTai1KWld2c1VTNlg0MXBuVEduUFJxeVZjcVRmVXo3LWwxanJibURtWmRfVHlmMkdvT0VqbDE1YVBLeUJrZkx2UHlWQ1NQNUdOS2E1QUtGYw?oc=5",
+  "url": "https://acento.com.do/cultura/por-que-republica-dominicana-tambien-reconoce-el-dia-de-accion-de-gracias-la-ley-de-1962-que-pocos-conocen-9795903.html",
+  "fuente": "Acento",
+  "dominio": "acento.com.do",
+  "fuentes": [
+   {
+    "nombre": "Acento",
+    "url": "https://acento.com.do/cultura/por-que-republica-dominicana-tambien-reconoce-el-dia-de-accion-de-gracias-la-ley-de-1962-que-pocos-conocen-9795903.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"ajusticiamiento\" sin cambios de fondo; se atribuyó la motivación religiosa a la ley; se eliminó la afirmación de que el Consejo de Estado \"dirigía el país\" con redacción neutral; se aclaró que los considerandos mencionan la influencia del cristianismo; se ajustó la frase sobre la costumbre para reflejar la fuente)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T06:50:04.096282+00:00",
+  "tendencia": 4
+ },
+ {
+  "id": "4ebb55938d",
+  "titulo": "\"Dominicanos A Simple Vista\" amplía su alcance y llegará a Univisión",
+  "titulo_original": "\"Dominicanos A Simple Vista\" amplía su alcance y llegará a Univisión",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSXluQ01OVWFrSjZxU0JqN1ppVDhoZWpPbVIyZHY1azJvVVJma3gydVFib081RkJaNmpJSGdlaDg2LUZTVnRzbVZpVDFYaFYzTlF0RklrUWxzVzF1bHFnRXNlUXVMSm04RWVlVE9CSHZwVmtPME95SGFQUDFuS3lGSEFPcGZlRTdpUVlVZWRqZnBhT1FGbE1XSVVXUkNfU1M5cXJpdEM4bk1qVGF3QkNCbzIzdVFmdVNjejZLOTgzbDQyd05xc1HSAcsBQVVfeXFMT0ZKT2Iybk15M0J1eWF5cDJkMGRDaTR5Y1dNaklVb2pzRG5ZS2kwOWRtYWN6RVVrcENWVjJsWkdGZmYwZHJ2azY2dXBxQTg3cG9ZcURJRXY4anFVVmZ6WThjS1BDRWZZTjI3WEZwTG5FTGVRc0MzZFJkYWp1bkZ6LXh5S29zVkJubXY4V0RhLTBkWUR1MWlDNXNrSGN4aEQtX1F3emVIOTZhYndKQlY1dmw3Q1ZFeDQyb215TWtnNEE0M1h0ZW1ObG5MRjg?oc=5",
+  "fuente": "El Nacional — La voz de todos",
+  "dominio": "elnacional.com.do",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:50:06.988679+00:00"
+ },
+ {
+  "id": "1d16e89664",
+  "titulo": "Multiplicadores de Nueva York llaman a dominicanos a sumarse a marcha de la FP",
+  "titulo_original": "300 con Leonel llama familiares, amigos y relacionados en RD y participar marcha FP este domingo 29",
+  "resumen": "Desde Nueva York, integrantes de «300 con Leonel» llaman a familiares y amigos en RD para sumarse a la marcha de la Fuerza del Pueblo este domingo.",
+  "gancho": "Desde Nueva York, integrantes de «300 con Leonel» llaman a familiares y amigos en RD para sumarse a la marcha de la Fuerza del Pueblo este domingo.",
+  "parrafos": [
+   "Los integrantes del proyecto «300 con Leonel», conocidos como «Los multiplicadores de Nueva York», comenzaron este lunes a llamar desde esa ciudad a familiares, amigos y conocidos en la República Dominicana. Su objetivo es que se sumen a la marcha pacífica que encabezará el expresidente Leonel Fernández.",
+   "El Partido Fuerza del Pueblo (FP) convocó la marcha para las 10:00 de la mañana de este domingo, en la intersección de las avenidas Pedro Livio Cedeño y Duarte. La protesta busca denunciar el alto costo de la vida, la falta de empleo, la inseguridad ciudadana y los apagones, entre otros males.",
+   "Geraldo Rosario, presidente de «300 con Leonel», informó que el primer equipo de 50 personas del proyecto contactó este lunes a 715 personas, quienes se comprometieron a asistir. Según explicó, los integrantes continuarán en equipos de 50 cada día, llamando hasta el próximo sábado por la noche.",
+   "«La RD no puede seguir viviendo en condiciones en que tantas familias se preocupan por su seguridad, cómo completar la compra de la comida del día y por las pocas oportunidades de empleo que encuentran sus hijos», afirmó Rosario. «Nuestra gente merece vivir con tranquilidad, trabajar con dignidad y tener la posibilidad de progresar en su propio país».",
+   "Rosario reiteró la invitación a participar de manera pacífica y ordenada en la jornada del domingo. También pidió a los dominicanos en el exterior que compartan la convocatoria con sus comunidades y familiares, y afirmó que, a su juicio, el actual gobierno golpea a todos los sectores del país."
+  ],
+  "claves": [
+   "La marcha es convocada por la Fuerza del Pueblo para las 10:00 a.m. del domingo 29.",
+   "Su punto de encuentro es la intersección de las avenidas Pedro Livio Cedeño y Duarte.",
+   "Geraldo Rosario informó que 715 personas fueron contactadas el lunes y se comprometieron a asistir.",
+   "La protesta busca denunciar el alto costo de la vida, la falta de empleo, la inseguridad y los apagones."
+  ],
+  "importa": "Si vive en RD, tiene familiares allá o participa en la comunidad dominicana en Nueva York, esta convocatoria busca movilizar a quienes viven fuera del país para involucrarse en la protesta. Los temas planteados (costo de la vida, empleo, seguridad y apagones) afectan directamente a las familias dominicanas.",
+  "en": {
+   "titulo": "New York Multipliers Urge Dominicans to Join Fuerza del Pueblo March",
+   "gancho": "From New York, members of the \"300 con Leonel\" project are calling relatives and friends in the Dominican Republic to join the Fuerza del Pueblo march this Sunday.",
+   "claves": [
+    "The Fuerza del Pueblo has called the march for 10:00 a.m. on Sunday the 29th.",
+    "The meeting point is the intersection of Pedro Livio Cedeño and Duarte avenues.",
+    "Geraldo Rosario said 715 people were contacted on Monday and committed to attend.",
+    "The protest aims to denounce the high cost of living, lack of jobs, insecurity and blackouts."
+   ],
+   "importa": "If you live in the DR, have family there, or are part of the Dominican community in New York, this call aims to mobilize those abroad to get involved in the protest. The issues raised (cost of living, jobs, security and blackouts) directly affect Dominican families.",
+   "parrafos": [
+    "Members of the \"300 con Leonel\" project, known as \"The New York Multipliers,\" began calling relatives, friends and acquaintances in the Dominican Republic from that city on Monday. Their goal is to get them to join the peaceful march led by former president Leonel Fernández.",
+    "The Fuerza del Pueblo (FP) party called the march for 10:00 a.m. This Sunday, at the intersection of Pedro Livio Cedeño and Duarte avenues. The protest aims to denounce the high cost of living, lack of jobs, citizen insecurity and blackouts, among other grievances.",
+    "Geraldo Rosario, president of \"300 con Leonel,\" said the project's first team of 50 people contacted 715 people on Monday, who committed to attend. He explained that members will continue in teams of 50 each day, calling until next Saturday night.",
+    "\"The DR cannot keep living in conditions where so many families worry about their safety, how to buy the day's food, and the few job opportunities their children find,\" Rosario said. \"Our people deserve to live in peace, work with dignity, and have the chance to get ahead in their own country.\"",
+    "Rosario repeated the invitation to take part peacefully and orderly on Sunday. He also asked Dominicans abroad to share the call with their communities and families, and said that, in his view, the current government is hitting every sector of the country."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZUl2d2hXNG9kWVRuZWJfOXpTMU5lTjJJNGFBcDVVaFdLdFZ5ZThiQmsyMXNsdUVESmxuTkt4cFRIcWNuazZ3WmpORXZlYTgtT2ZPNzloRXNGcmNhTEx4NlhfU2dFUkFqb3phbzJNWDBuZEZsanljaWpUWDlUQm1VSDhwSDZ4Z21iYmZ1NHF1dHhwQlk2d19tVk9aTFBTcm1nc0g5Y05jYkVoTFJJb3VpR2VIQXBCNjBMdkw3amMtZm1BV21POUZr?oc=5",
+  "url": "https://hoy.com.do/el-mundo/estados-unidos/300-leonel-llama-familiares-amigos-relacionados-rd-participar-marcha-fp-domingo-29_1109695_amp.html",
+  "fuente": "Hoy Digital",
+  "dominio": "hoy.com.do",
+  "fuentes": [
+   {
+    "nombre": "Hoy Digital",
+    "url": "https://hoy.com.do/el-mundo/estados-unidos/300-leonel-llama-familiares-amigos-relacionados-rd-participar-marcha-fp-domingo-29_1109695_amp.html"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/300-con-leonel-llama-familiares-amigos-y-relacionados-en-rd-y-participar-marcha-fp-este-domingo-29/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Los multiplicadores de Nueva York\" como nombre propio sin atribuir; corregí \"Dominicans... Back Home\" y \"Pedro Livio Cedeño\"; ajusté \"llaman\" a la fuente; atribuí la afirmación de que el gobierno afecta a todos los sectores; reemplacé \"power outages\" por \"blackouts\" y \"unemployment\" por \"lack of jobs\" para coincidir con la fuente; eliminé \"among other problems\" donde no es necesario; corregí \"next Sunday\" a \"this Sunday\" según la fuente; \"Dominicans in New York\" pasó a titular más fiel a la fuente)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-25T06:50:25.034638+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "b1865936b7",
+  "titulo": "‘Las nuevas desventuras de Cliff Booth’: extraña e inútil colaboración entre Fincher y Tarantino",
+  "titulo_original": "‘Las nuevas desventuras de Cliff Booth’: extraña e inútil colaboración entre Fincher y Tarantino",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTFkVVAxcXcyTTFoeWtENTVzMlI3bG9VNEdBWENoSDRyUWs0S05PV21HYXVrZkdodDAzQzRnVmktUkFPZkJUNDl0dUtPM05CTFQ1b0llZ01zdDlCOEw5bDFxYmdIUUJVdTdRbjlPMW84RVJhTGxIV2NtTjNjWlRHMl92NG0yRzdoMldjekpsOV9uRXZBZDVlSHlaQW5yU0dubnZvS3JGSjRFNWFtU3BfSGMzV3AxeWtwNHBlZkhtc3hiNkxDV3B1dE5CYVplZjEtQXZQN1BtajjSAewBQVVfeXFMTW9uSWRoOTNNel9YRXY1eVVuUDMyS210czJnN3RmZDBENVh5ZWtrTV83UVp2cFdYb3doOU11QWoyamhJa2FNdS1VSHBfRS1OZGZzbVU4N3lDR1J4LXB6TnFBTjM1N1JQVEZrVU5ZcFNkX00wdVF5aHFxUThhTDN1UXpaN0hRQ19URjFJUnNrejZBM0ZHVWlQSmdxN3RRTGhhUEV3VVBnWGZPaUxqNkRpa2xwdjlvVkl5SXlOamRWWVRtMzJEN19JWFcwZUozRXFBU3NOMzNtQThrOGVCaTc4Q1o0ZU1GVTRqdXNpUXM?oc=5",
+  "fuente": "EL PAÍS",
+  "dominio": "elpais.com",
+  "seccion": "Famosos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:51:10.048941+00:00"
+ },
+ {
+  "id": "177217643c",
+  "titulo": "Brad Pitt regresa al cine en Imax por dos semanas antes de llegar a Netflix",
+  "titulo_original": "Sin escalas: por qué en la Argentina la nueva película de Brad Pitt pasará de exhibirse solo en dos salas a Netflix",
+  "resumen": "La nueva película de Brad Pitt tendrá apenas dos semanas en salas Imax antes de pasar directo a Netflix, sin más tiempo en cartelera.",
+  "gancho": "La nueva película de Brad Pitt tendrá apenas dos semanas en salas Imax antes de pasar directo a Netflix, sin más tiempo en cartelera.",
+  "parrafos": [
+   "La nueva película de Brad Pitt tendrá una ventana de exhibición muy corta en los cines antes de llegar a la plataforma de streaming. Se trata de \"Las nuevas desventuras de Cliff Booth\", secuela de \"Había una vez... En Hollywood\", que solo se verá en salas Imax durante dos semanas.",
+   "En Argentina, el estreno comenzará este miércoles en el complejo Showcase Norcenter, en Munro, partido de Vicente López, y en el Parque del Conocimiento de Posadas, en Misiones. Según La Nación, a partir del jueves la película tendrá tres proyecciones diarias en Munro y dos en Posadas.",
+   "El lanzamiento es global y simultáneo: durante dos semanas, la película se exhibirá en 550 pantallas Imax de 55 países, el 40% de ellas en Estados Unidos. Después de ese plazo, no volverá a los cines.",
+   "Según el mismo medio, la estrategia parece responder a un nuevo enfoque de Netflix, que estaría dando más peso a los estrenos previos en salas de sus películas más importantes. La película fue escrita por Quentin Tarantino y dirigida por David Fincher.",
+   "El título llegará a Netflix el miércoles 23 de diciembre."
+  ],
+  "claves": [
+   "La secuela \"Las nuevas desventuras de Cliff Booth\" se exhibirá solo en pantallas Imax durante dos semanas.",
+   "En Argentina, las salas Imax son la del Showcase Norcenter de Munro y la del Parque del Conocimiento de Posadas.",
+   "Durante esas dos semanas, la película se proyectará en 550 pantallas Imax de 55 países.",
+   "La película llegará a Netflix el miércoles 23 de diciembre."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Brad Pitt's New Film Hits Imax Screens for Two Weeks Before Netflix",
+   "gancho": "Brad Pitt's latest film gets just two weeks in Imax theaters before heading straight to Netflix, with no extended run.",
+   "claves": [
+    "The sequel \"The Further Mis-Adventures of Cliff Booth\" will play only in Imax screens for two weeks.",
+    "In Argentina, the Imax screens are at Showcase Norcenter in Munro and at the Parque del Conocimiento in Posadas.",
+    "During those two weeks, the film will screen in 550 Imax theaters across 55 countries.",
+    "The film arrives on Netflix on Wednesday, December 23."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Brad Pitt's new film will have a very short theatrical window before reaching streaming. \"The Further Mis-Adventures of Cliff Booth,\" the sequel to \"Once Upon a Time in Hollywood,\" will play only in Imax theaters for two weeks.",
+    "In Argentina, the premiere begins this Wednesday at the Showcase Norcenter complex in Munro, in Vicente López, and at the Parque del Conocimiento in Posadas, Misiones. According to La Nación, from Thursday the film will have three daily screenings in Munro and two in Posadas.",
+    "The release is global and simultaneous: for two weeks, the film will screen in 550 Imax theaters in 55 countries, 40% of them in the United States. After that period, it will not return to theaters.",
+    "According to the same outlet, the strategy appears to reflect a new approach from Netflix, which may be giving more weight to early theatrical runs for its most important films. The film was written by Quentin Tarantino and directed by David Fincher.",
+    "The title arrives on Netflix on Wednesday, December 23."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUll4SkZubmtaZk9JcFp2ejFRcG5NSXM5ZXM2YWQwZHNkRS1JZExDSktpVndXSTBXQ1BFY3lVN2lVQ3ZHNTMzUkdzdEdGS2pWanFENkt0bVlhZC0xTGpLaHdCeFRUX21HVE1LZGhQcXlMMjlWNnJ6NE9XcE1vb0ZwUEZfMFlwcG5Ic3NSangwbFpDSDEybU4xaUdGaWdWeDNaY1ZIWHpMRHl2WTBzSHhiVExpSldPRkNaRUF4N3ZSNmlDUVRyaGRNYjIyQ3NqUEUzLWdpUHdnNGdUZEJyYTdLUTZ6cEtYUDhwSVctQnRB?oc=5",
+  "url": "https://www.lanacion.com.ar/espectaculos/cine/sin-terminos-medios-la-nueva-pelicula-de-brad-pitt-pasara-de-exhibirse-exclusivamente-en-dos-salas-nid24112026/",
+  "fuente": "La Nación",
+  "dominio": "lanacion.com.ar",
+  "fuentes": [
+   {
+    "nombre": "La Nación",
+    "url": "https://www.lanacion.com.ar/espectaculos/cine/sin-terminos-medios-la-nueva-pelicula-de-brad-pitt-pasara-de-exhibirse-exclusivamente-en-dos-salas-nid24112026/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se atribuyó a La Nación la estrategia de Netflix y el cronograma de proyecciones; se eliminó \"varias proyecciones diarias\" por ser solo una frase; se aclaró que \"tendrá una ventana\" es la lectura del medio; se ajustó el texto al \"Imax\" de Posadas como Parque del Conocimiento; se precisó que la película de Netflix será en \"tres proyecciones diarias\" no fue incluida; se corrigió el título en inglés).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-25T06:51:23.216364+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "4ec4356763",
+  "titulo": "Tres juegos simultáneos en la jornada de LIDOM este martes",
+  "titulo_original": "La jornada de LIDOM presenta tres partidos con horario simultáneo",
+  "resumen": "La racha de las Estrellas Orientales pone a prueba al Licey en una noche con tres partidos a la misma hora. Los detalles del duelo, en Al Día RD.",
+  "gancho": "La racha de las Estrellas Orientales pone a prueba al Licey en una noche con tres partidos a la misma hora. Los detalles del duelo, en Al Día RD.",
+  "parrafos": [
+   "Los Tigres del Licey recibirán este martes a las Estrellas Orientales en el Estadio Quisqueya Juan Marichal, en una jornada de tres partidos del campeonato otoño-invernal dominicano número 73. Los otros dos encuentros son Leones del Escogido contra Águilas Cibaeñas, y Gigantes del Cibao contra Toros del Este. Los tres juegos están programados para las 7:30 de la noche.",
+   "El duelo más llamativo será el de Santo Domingo. Las Estrellas, dirigidas por Héctor Borg, buscarán este martes su octava victoria consecutiva. No pierden desde el 14 de noviembre, cuando vencieron 4-2 a los Leones del Escogido en el mismo estadio. Según los registros del portal Winterballdata, su racha más larga en ese período es de nueve triunfos, lograda en la temporada 2014-15. Aquella racha comenzó el 17 de noviembre de 2014.",
+   "En el montículo, Óscar de la Cruz (1-1, 2.55 de efectividad, 1.34 de WHIP y 16 ponches) enfrentará al estadounidense Mike Clevinger (0-0, 2.57 de efectividad, 1.00 de WHIP y nueve ponches).",
+   "En Santiago, los Leones visitarán a las Águilas en el Estadio Cibao. Ángel Sánchez (0-0, 2.45 de efectividad, 1.20 de WHIP y ocho ponches) será el abridor de los escarlatas, mientras que Randy Vásquez (0-1, 3.00 de efectividad, 0.75 de WHIP y 11 ponches) abrirá por los aguiluchos.",
+   "En La Romana, los Gigantes del Cibao se medirán a los Toros del Este en el Estadio Francisco Micheli. Antonio Santos (0-2, 6.75 de efectividad, 1.43 de WHIP y 13 ponches) será el abridor de los nordestanos, frente a Jhony Brito (0-0, 7.20 de efectividad, 1.80 de WHIP y dos ponches), por los taurinos.",
+   "El clima favorece los tres encuentros. En Santo Domingo se esperan 26 grados, cielo despejado y 15 % de probabilidad de lluvia. En Santiago, 25 grados y 4 % de probabilidad de precipitaciones. En La Romana, 26 grados, cielo parcialmente nublado y 10 % de probabilidad de lluvia.",
+   "Los juegos se podrán seguir por televisión, radio y YouTube. El partido Estrellas-Licey saldrá por Digital 15, Telemicro Internacional, LiceyTV, las emisoras Independencia 93.3 FM, KeBuena 105.7 FM y 103.9 FM, y el canal LiceyTube. El Escogido-Águilas tendrá cobertura por CDN Deportes, Teleuniverso Canal 29, Luna TV, CDN Radio 92.5 FM y las plataformas de cable de ambos equipos. El Gigantes-Toros se verá por Coral 39, Teleantillas, los canales HD de Toros en Claro y Altice, La Voz de las Fuerzas Armadas 102.7 FM, la frecuencia 107.5 FM para La Romana y la región Este, MLB.TV y YouTube."
+  ],
+  "claves": [
+   "Tres partidos el martes a las 7:30 p. m., en el campeonato otoño-invernal número 73.",
+   "Estrellas Orientales buscan su octava victoria consecutiva ante el Licey.",
+   "Las Estrellas no pierden desde el 14 de noviembre, cuando vencieron 4-2 a Escogido.",
+   "Los encuentros se transmitirán por varios canales de televisión, radio y YouTube."
+  ],
+  "importa": "Si sigues el béisbol de la liga dominicana, esta jornada reúne tres series en distintos puntos del país y la transmisión está disponible en varias plataformas, incluidas las que se pueden ver desde Estados Unidos.",
+  "en": {
+   "titulo": "Three LIDOM games on the same night as Estrellas chase an eighth straight win",
+   "gancho": "Estrellas Orientales go after an eighth straight win against Licey in a night with three games at the same time. Full details on Al Día RD.",
+   "claves": [
+    "Three games Tuesday at 7:30 p.m. in the 73rd Dominican winter league season.",
+    "Estrellas Orientales aim for an eighth consecutive win against Licey.",
+    "The Estrellas have not lost since November 14, when they beat Escogido 4-2.",
+    "Games will be broadcast on several TV channels, radio stations and YouTube."
+   ],
+   "importa": "If you follow Dominican baseball, this night features three series in different parts of the country, and the broadcasts are available on several platforms, including ones that can be watched from the United States.",
+   "parrafos": [
+    "Licey will host Estrellas Orientales on Tuesday at Estadio Quisqueya Juan Marichal in Santo Domingo, one of three games in the 73rd Dominican winter league season. The other two matchups are Escogido against Águilas Cibaeñas, and Gigantes del Cibao against Toros del Este. All three games are scheduled for 7:30 p.m.",
+    "The most closely watched matchup is in Santo Domingo. Estrellas, managed by Héctor Borg, will try for their eighth straight win. They have not lost since November 14, when they beat Escogido 4-2 at the same stadium. According to the Winterballdata portal, their longest winning streak in that period is nine games, set during the 2014-15 season, which began on November 17, 2014.",
+    "On the mound, Óscar de la Cruz (1-1, 2.55 ERA, 1.34 WHIP, 16 strikeouts) will face American Mike Clevinger (0-0, 2.57 ERA, 1.00 WHIP, nine strikeouts).",
+    "In Santiago, Escogido will visit Águilas at Estadio Cibao. Ángel Sánchez (0-0, 2.45 ERA, 1.20 WHIP, eight strikeouts) will start for Escogido, while Randy Vásquez (0-1, 3.00 ERA, 0.75 WHIP, 11 strikeouts) will start for Águilas.",
+    "In La Romana, Gigantes del Cibao will face Toros del Este at Estadio Francisco Micheli. Antonio Santos (0-2, 6.75 ERA, 1.43 WHIP, 13 strikeouts) will start for Gigantes, against Jhony Brito (0-0, 7.20 ERA, 1.80 WHIP, two strikeouts) for Toros.",
+    "The weather looks favorable for all three games. In Santo Domingo, 26°C, clear skies and a 15% chance of rain are expected. In Santiago, 25°C and a 4% chance of precipitation. In La Romana, 26°C, partly cloudy skies and a 10% chance of rain.",
+    "The games can be followed on TV, radio and YouTube. Estrellas-Licey will air on Digital 15, Telemicro Internacional, LiceyTV, Independencia 93.3 FM, KeBuena 105.7 FM, 103.9 FM and the LiceyTube channel. Escogido-Águilas will be covered by CDN Deportes, Teleuniverso Channel 29, Luna TV, CDN Radio 92.5 FM and both teams' cable platforms. Gigantes-Toros can be watched on Coral 39, Teleantillas, the HD channels of Toros en Claro and Altice, La Voz de las Fuerzas Armadas 102.7 FM, 107.5 FM for La Romana and the East region, MLB.TV and YouTube."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnhEWE5lUzdwUUdnb2RzTUoyM2l1QXptTHgxSzUxT1BoR3VfUThNRU1qaGZNbEh5U1Y2WEFiZm8ydjhqbElPZE5hbUp5Y3F1akE5V2FVdXZFX2NQSm51c3dOQ2dZeEFlMExJaXl6aW1WLWw3aE9lNlBjbWFGdVhDWWMxVkVjRDE5VE1Bd2tkajdaYVlEYUU0M3dMTW9XMHFjZDNr?oc=5",
+  "url": "https://lidom.com/lidom/la-jornada-de-lidom-presenta-tres-partidos-con-horario-simultaneo-101334.html",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "fuentes": [
+   {
+    "nombre": "Lidom",
+    "url": "https://lidom.com/lidom/la-jornada-de-lidom-presenta-tres-partidos-con-horario-simultaneo-101334.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se agregó la racha de nueve victorias de 2014-15 con su fecha de inicio según Winterballdata y el WHIP/ponches faltantes que el borrador omitió; se quitó la línea \"Así lo dijo el portal\" fuera de contexto; se corrigió el texto inglés para que diga lo mismo; se restauró el dato de que los Leones fueron derrotados 4-2 en el Quisqueya; se eliminó \"cabe destacar\" del gancho).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-25T06:51:48.829238+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "941f4f5c1f",
+  "titulo": "Estadísticas del juego Gigantes del Cibao vs Toros del Este",
+  "titulo_original": "Estadísticas del juego Gigantes del Cibao vs Toros del Este",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94SG5TMFp3M3NJTW1xM1Z5NUhIbDhWbFRXQ0pZcTdWT19uV3lMMHlCSko2LXFFTTNGLUZUZE5YMVZlb0ZEUDhKbVBoWWNfRngyOVU5MTBjcDBMV21OWndqLThTQjI?oc=5",
+  "fuente": "Lidom",
+  "dominio": "lidom.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:51:53.062911+00:00"
+ },
+ {
+  "id": "3ff36f3db2",
+  "titulo": "MLB ofrece garantizar los contratos firmados en su nueva propuesta de tope salarial",
+  "titulo_original": "MLB proposal to union offers assurance of guaranteed contracts",
+  "resumen": "La liga retira la cláusula de depósito en garantía y asegura que todos los contratos garantizados seguirán intactos. El sindicato no lo cree.",
+  "gancho": "La liga retira la cláusula de depósito en garantía y asegura que todos los contratos garantizados seguirán intactos. El sindicato no lo cree.",
+  "parrafos": [
+   "La Asociación de Jugadores de MLB (MLBPA) ha argumentado en contra de un sistema de tope y piso salarial, pues considera que acabaría con los contratos garantizados para los jugadores.",
+   "El martes, Grandes Ligas presentó una propuesta para responder a esa preocupación. La liga ofreció eliminar cualquier parte del salario de los jugadores que se retenga en un fondo de garantía, conocido como escrow. Con esto, todos los contratos garantizados seguirían plenamente garantizados bajo el nuevo sistema.",
+   "El portavoz de MLB, Glen Caplin, afirmó que el sindicato ha atacado durante meses esa cláusula y la ha presentado como el fin de los contratos garantizados. Caplin dijo que la retirada de la propuesta de escrow elimina cualquier duda sobre el tema.",
+   "El director ejecutivo interino de la MLBPA, Bruce Meyer, respondió que la nueva propuesta no ofrece un beneficio real. Afirmó que, en lugar de retener dinero cada año, la liga quitaría esa misma cantidad a los jugadores en la temporada siguiente. Para Meyer, se trata de otra forma de reducir los salarios y limitar la libertad de movimiento de los jugadores.",
+   "Según MLB, cualquier pago excesivo o insuficiente a los jugadores en una temporada se incluirá en el cálculo del tope y el piso salarial de años futuros. Además, tras un pago excesivo, la liga tendría derecho a calcular el tope y el piso usando un rezago de ingresos de hasta dos años."
+  ],
+  "claves": [
+   "MLB retiró su propuesta de retener parte del salario de los jugadores en un fondo de garantía (escrow).",
+   "Según la liga, todos los contratos garantizados seguirán totalmente garantizados bajo el nuevo sistema de tope y piso salarial.",
+   "El sindicato de jugadores (MLBPA) dice que el cambio no ofrece beneficio real."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "MLB Offers to Guarantee Existing Contracts in New Salary Cap Proposal",
+   "gancho": "The league drops its escrow plan and says every guaranteed contract will stay intact. The players' union isn't buying it.",
+   "claves": [
+    "MLB withdrew its proposal to hold back part of players' salaries in an escrow fund.",
+    "The league says all guaranteed contracts will remain fully guaranteed under the new salary cap and floor system.",
+    "The MLB Players Association says the change offers no real benefit."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The MLB Players Association has argued against a salary cap and floor system, saying it would effectively end guaranteed contracts for players.",
+    "On Tuesday, Major League Baseball responded to that concern with a proposal. The league offered to eliminate any player compensation held in escrow, which would mean all guaranteed contracts stay fully guaranteed under the new system.",
+    "MLB spokesperson Glen Caplin said the union has spent months attacking the escrow provision and portraying it as the end of guaranteed contracts. Caplin said withdrawing the escrow proposal removes any doubt about the issue.",
+    "MLBPA interim executive director Bruce Meyer responded that the new proposal offers no real benefit. He said that instead of holding back money each year, the league would take the same amount from players the following year. In Meyer's view, it is another way to reduce salaries and limit player movement.",
+    "According to MLB, any aggregate overpayment or underpayment to players in a season will be factored into future salary cap and floor calculations. The league also said that after an overpayment, it could calculate the cap and floor using a revenue lag of up to two years."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TTGp1NnNGRlhHTDFrZG5YUU9IQWl6OUhudy1xUjJMNUVnMHFVS3VSc1VCem1EWmk5eGF1dEVJUkVUMDFRNFpNU2sxdTRpVTNGNHVHbmtjVnRTcFc3X19tZVM0eDJwMmJ2VS1TcHliTUQtUTBuOTBqVm1rSC1lNkXSAYsBQVVfeXFMTUN6THdESEc4eXNjUXdKZEtFTmhPbHFYSF95a0l4T0I2ZzNxOUctQ3JXR0lqdEpyMm9mcTNFLWRSYlFKTFp0QTlLLU9Yci1nS0trWDktRjRFcjVSRFRVNUlIekoyWTg5b28yVXp0QVhTYWx3ZHJKcTNBeUxVX0lPMVBCSzI5ZkVrZS1COA?oc=5",
+  "url": "https://www.mlb.com/news/mlb-proposal-to-mlbpa-guaranteed-contracts-escrow",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/news/mlb-proposal-to-mlbpa-guaranteed-contracts-escrow"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Según él\" ambiguo al precisar que la afirmación es de Caplin; cambié \"eliminar cualquier duda\" a \"elimina cualquier duda\" sin cambios sustanciales; ajusté \"la liga podría calcular el tope\" para mantener la atribución; corregí \"peloteros\" por \"jugadores\" en el primer párrafo para coincidir con la fuente; quité \"pues\" y \"para responder a esa preocupación\" por frases redundantes; el sindicato \"lo rechaza\" en el gancho se reemplazó por \"no lo compra\" para ajustarse al tono; \"Con esto\" se mantuvo.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-25T06:52:12.218813+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "cd4386789b",
+  "titulo": "¿Debemos repensar la tributación de los combustibles?",
+  "titulo_original": "¿Debemos repensar la tributación de los combustibles?",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGV6TG5TMDdNWjMzWXlrbjdjU3JUdDFxREp6bjM5THVscWhmQlFNZDIxMzhzTm9SWkU4eDF5bzM4b0swZDBWcGZua2lYcmQtNUpHcmQwX19lZlpHaktEclJfRzloTEwzQUJvbFNhQmhvU2NpVFllLUljQURXT0RuVm9vZFNLc1VtU3pEUXpSQS1KLUl4LUlIaUt4RE8?oc=5",
+  "fuente": "www.elcaribe.com.do",
+  "dominio": "elcaribe.com.do",
+  "seccion": "Precios y combustibles",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:52:30.691040+00:00"
+ },
+ {
+  "id": "35baa1beca",
+  "titulo": "Pokémon TCG lanza dos colecciones ultra premium por su 30 aniversario",
+  "titulo_original": "Pokémon TCG: 30th Celebration Ultra-Premium Collections—Day & Night",
+  "resumen": "Pokémon TCG celebra sus 30 años con dos colecciones de día y de noche, cartas promocionales y accesorios.",
+  "gancho": "Pokémon TCG celebra sus 30 años con dos colecciones de día y de noche, cartas promocionales y accesorios.",
+  "parrafos": [
+   "Pokémon TCG presentó dos nuevas colecciones ultra premium para celebrar sus 30 años, según informó Pokemon.com. Son sets con una gran cantidad de cartas y accesorios, divididos en una versión de día, protagonizada por Espeon ex, y otra de noche, con Umbreon ex como figura principal.",
+   "Cada colección incluye una carta promocional de Pikachu ex ilustrada por YOSHIROTTEN, en versión diurna o nocturna según el set, y una carta promocional foil de Espeon ex o Umbreon ex, según la colección.",
+   "El contenido también incluye un tapete de juego con Pikachu, Espeon o Umbreon, 65 fundas de cartas, una caja para mazos, una moneda de metal y seis dados para contar daño.",
+   "En cuanto a los sobres, cada colección trae 29 sobres de la expansión Pokémon TCG: 30th Celebration y un sobre especial de la colección Classic, que incluye tres cartas de la expansión con un enfoque nostálgico.",
+   "Las colecciones también incluyen un código para usar en Pokémon TCG Live, la plataforma digital del juego."
+  ],
+  "claves": [
+   "Dos colecciones: una temática de día con Espeon ex y otra de noche con Umbreon ex.",
+   "Cada colección incluye 30 sobres en total: 29 de la expansión 30th Celebration y uno de la colección Classic.",
+   "Incluye una carta promocional de Pikachu ex ilustrada por YOSHIROTTEN, en versión de día o de noche según el set.",
+   "Trae accesorios como tapete de juego, fundas, caja para mazos y dados."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Pokémon TCG Launches Two Ultra-Premium Collections for Its 30th Anniversary",
+   "gancho": "Pokémon TCG celebrates 30 years with day and night collections, promo cards, and accessories.",
+   "claves": [
+    "Two collections: a day-themed set featuring Espeon ex and a night-themed set featuring Umbreon ex.",
+    "Each collection includes 30 booster packs in total: 29 from the 30th Celebration expansion and one from the Classic Collection.",
+    "Includes a Pikachu ex promo card illustrated by YOSHIROTTEN, in a day or night version depending on the set.",
+    "Accessories include a playmat, card sleeves, a deck box, and damage-counter dice."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Pokémon TCG has unveiled two new ultra-premium collections to celebrate its 30th anniversary, according to Pokemon.com. The sets come with a large number of cards and accessories, divided into a day version starring Espeon ex and a night version with Umbreon ex as the main figure.",
+    "Each collection includes a Pikachu ex promo card illustrated by YOSHIROTTEN, in a daytime or nighttime version depending on the set, and a foil promo card featuring Espeon ex or Umbreon ex, depending on the collection.",
+    "The contents also include a playmat featuring Pikachu, Espeon, or Umbreon, 65 card sleeves, a deck box, a metal coin, and six damage-counter dice.",
+    "As for the booster packs, each collection contains 29 packs from the Pokémon TCG: 30th Celebration expansion and one special Classic Collection pack, which includes three cards from the expansion with a nostalgic focus.",
+    "The collections also include a code card for Pokémon TCG Live, the game's digital platform."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTk5FSkdKV2REVi1DZFNmaFE4X3Jiamd0d1NTckxOeGNHRHNabnltX1h6V05iZkZXbnh2dlI5Zll0Yl96aWluY091ak5ZYlQ4alZTZUwtQVlqVTRPaGZVUnc5X2dfWC1EZzl5XzVzNmVOWmZad19DTWVKRjZFMm9pVzZWV3gxejBZQVk0RGFpak12UlJ0MVVlZFVFYkVkbEFFQkM4dVJXSi1qYk0?oc=5",
+  "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night",
+  "fuente": "Pokemon.com",
+  "dominio": "pokemon.com",
+  "fuentes": [
+   {
+    "nombre": "Pokemon.com",
+    "url": "https://www.pokemon.com/uk/pokemon-tcg/product-gallery/30th-celebration-ultra-premium-collections-day-night"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/30th-celebration-ultra-premium-collections-day-night/30th-celebration-ultra-premium-collections-day-night-169-en.png",
+   "credito": "Pokemon.com"
+  },
+  "revision": "corregida (se quitó \"exclusivos\" del gancho porque las fuentes no dicen que sean exclusivos; se aclaró que la carta de Pikachu ex y la de Espeon/Umbreon son promocionales foil/ilustradas según corresponda; se corrigió el número de sobres: 30 en total, de los cuales 29 son de la expansión y 1 es Classic, en vez de \"30 sobres de la expansión\"; se quitó \"Pikachu ex\" como carta foil redundante; se atribuyó la presentación a Pokemon.com en lugar de un anuncio genérico de la compañía; se ajustó \"a Pokémon TCG Live\" y se mantuvo la paridad inglés-español)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-25T06:52:57.502617+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "92952211a6",
+  "titulo": "Play! Pokémon-account - Pokemon.com",
+  "titulo_original": "Play! Pokémon-account - Pokemon.com",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnWWNNXzlabWtBVzdka2VHY3BMb28zNlBFZXlBdzNXTEJJZVV0ajg2Y3U3WFJtN1RKSzFyQWdiY1BZX21iMlF3?oc=5",
+  "fuente": "Pokemon.com",
+  "dominio": "access.pokemon.com",
+  "seccion": "Videojuegos",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-25T06:53:03.513460+00:00"
+ },
+ {
   "id": "687fa60ce9",
   "titulo": "Jennifer Barreto, de Puerto Rico, gana la corona de Miss Universo 2026",
   "titulo_original": "¡Puerto Rico conquista la corona de Miss Universo 2026 con Jennifer Barreto!",
@@ -685,7 +1244,7 @@
   "revision": "corregida (corregí el título y el texto para reflejar que los tres equipos ganaron, no solo \"ganan\"; eliminé la afirmación de \"empate en la cima\" en el gancho porque es correcta pero lo mantuve; ajusté \"llegaron a ocho victorias consecutivas\" a \"extendieron a ocho su racha\"; eliminé \"ya muestra\" por redundancia y quité \"se destacó\" por tono; corregí el orden de \"Tres equipos celebraron\" sin cambiar el hecho; y la versión en inglés se ajustó para coincidir).",
   "seccion": "Deportes",
   "fecha": "2026-11-25T04:48:42.210109+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "b78f2ca6b9",
@@ -1170,7 +1729,7 @@
   "revision": "corregida (Se corrigió la afirmación de que el Taira \"dominicano\"... no: se corrigió que la oferta de los Azulejos fue \"superada\" con cifra de US$400 millones atribuida a MLB.com; se atribuyó a MLB.com la cifra de la oferta, se atribuyó a MLB.com la sección de \"Cachorros\" (Sato firmó con ellos, no se mencionó en el borrador), se eliminó la frase \"según MLB.com ese movimiento abrió el camino a otras firmas\" por no estar en la fuente, se eliminó el \"Trevor Rogers\" con los Cachorros que no aparecía en el texto, se eliminó la afirmación de \"fanáticos dominicanos\" por no estar en la fuente, se suprimió \"dos veces ganador del Premio Cy Young\" no usado, y se ajustó \"rotación de cuatro integrantes fijos\" a lo que dice la fuente: Cease, Yesavage y Soriano son posibles primeros integrantes junto con Taira.)",
   "seccion": "Deportes",
   "fecha": "2026-11-25T04:52:01.212167+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "27fa363c83",
@@ -4015,7 +4574,7 @@
   "revision": "corregida (se corrigió \"Trump\" en el texto de Venezuela/Irán? No: se corrigió la omisión de la Ley de Protección de Acogida... ver abajo)",
   "seccion": "Internacionales",
   "fecha": "2026-11-25T00:52:19.436171+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "9a3b0e4bc7",
@@ -6853,7 +7412,7 @@
   "revision": "corregida (se quitó la afirmación de que Melissa Núñez compite por la corona de Miss Universo \"en vivo\" como hecho inferido de la transmisión; se eliminaron frases de relleno; se atribuyó la transmisión por YouTube y \"algunos territorios\" a la fuente; se precisó que las fuentes no indican el lugar exacto del desfile ni del traje de baño; el resto coincide con las fuentes).",
   "seccion": "Famosos",
   "fecha": "2026-11-24T19:52:34.902186+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "e0ef883755",
@@ -8284,7 +8843,7 @@
   "revision": "corregida (se quitó \"cabe destacar\"; se corrigió la atribución de \"Gran Marcha del Pueblo\" como nombre de la convocatoria; se quitó la frase final sobre \"las ocho medidas\" que no aparece en las fuentes; se corrigió \"aseguró\" a \"señaló\" en la cita de la deuda; se ajustó el inglés para que coincida con el español, incluyendo \"dominicanos en el país y en el exterior\" que no está en las fuentes, por lo que se eliminó; se quitó \"contra\" en el gancho por ser una caracterización no atribuida a la fuente y se reemplazó por una formulación fiel).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-24T16:49:14.337529+00:00",
-  "tendencia": 2,
+  "tendencia": 3,
   "ig": "publicado",
   "ig_img": "ig/1a70f587b1.jpg",
   "historia": "publicado",
@@ -8409,7 +8968,7 @@
   "revision": "corregida (se corrigió \"entre enero y octubre\" duplicado, se atribuyó a Peguero la afirmación de liderazgo regional y las proyecciones, se quitaron frases de relleno en la sección de claves/importancia, se ajustó \"dijo\" a \"afirmó\" y se añadió que el país ocupa la presidencia de la Comisión Regional de las Américas... no; se mantuvo solo lo que dice la fuente).",
   "seccion": "República Dominicana",
   "fecha": "2026-11-24T16:50:24.064435+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "de268bcc90",
@@ -16783,7 +17342,7 @@
   "revision": "corregida (la fuente de los pronósticos es CDN, no CNN; \"Centro de Predicción Meteorológica\" se atribuye a la fuente en vez de \"National Weather Service\" en el inglés; se quitó \"el Servicio Meteorológico Nacional\" no mencionado en el borrador; se corrigió \"cerca de\" en la transmisión y se ajustó la atribución de las mareas no usadas; se mantuvo el texto y se corrigió la traducción de \"forecast center\" a la atribución correcta; se corrigió \"transmisión\" por \"desfile\").",
   "seccion": "Internacionales",
   "fecha": "2026-11-23T23:51:28.952501+00:00",
-  "tendencia": 3
+  "tendencia": 4
  },
  {
   "id": "81786d1b15",
@@ -18099,626 +18658,5 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-23T21:05:26.727372+00:00",
   "tendencia": 2
- },
- {
-  "id": "72fae461f0",
-  "titulo": "Condenas de 40 y de 8 años de prisión para tres hombres que mataron a otros dos durante asaltos a mano armada en Espaillat",
-  "titulo_original": "Condenas de 40 y de 8 años de prisión para tres hombres que mataron a otros dos durante asaltos a mano armada en Espaillat",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDVPVVhIMFFUbmg0aG9fSUo4LW11Qm4zNjdveWFZUWYxQTFUOG1BS2VfcHFiWXE2eU9fNnZ1emVJdHNiNnh1eDZ6aklhVDd0eERpWmdMYmxvZ1UtdFpCNnhSZFhRc1ViUG5vXzVYMkFaSDM4Vk9lQU1RcFUtVnl2UVlMY2lScnBpZmV6akFWMFFfdmpOUy1hX2hGSkw4YTE1ajNMT1Z2R28xaDZPV04zTzVUaTJaaS1QTjNBUHNLa1BHbm80dGswQm9OcllwdDYzYXJTUE5ITDZadw?oc=5",
-  "fuente": "Procuraduría General de la República Dominicana",
-  "dominio": "pgr.gob.do",
-  "seccion": "República Dominicana",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T21:05:30.236997+00:00"
- },
- {
-  "id": "265e6079df",
-  "titulo": "KATSEYE – The Tribute Experience llega a Santo Domingo el 24 de enero",
-  "titulo_original": "KATSEYE – The Tribute Experience llega a Santo Domingo el domingo 24 de enero",
-  "resumen": "Un espectáculo tributo a KATSEYE llegará a Santo Domingo en enero de 2027, con seis artistas en escena y voces en vivo.",
-  "gancho": "Un espectáculo tributo a KATSEYE llegará a Santo Domingo en enero de 2027, con seis artistas en escena y voces en vivo.",
-  "parrafos": [
-   "El espectáculo tributo KATSEYE – The Tribute Experience se presentará el domingo 24 de enero de 2027 en el Auditorio Casa San Pablo, en Santo Domingo. La producción está a cargo de Covi Entertainment y Artística Producciones.",
-   "El show reúne a seis artistas en escena que combinan canto en vivo, coreografías grupales, cambios de vestuario, iluminación y visuales. El repertorio incluye «Gabriela», «Touch», «Gnarly», «Pinky Up» y «Animal», y hay momentos en los que el elenco invita al público a cantar y bailar. La propuesta está pensada como un show de fans para fans, para compartir entre amigas y en familia.",
-   "La gira latinoamericana 2026–2027 comenzó con entradas agotadas en Lima, Perú. Además de República Dominicana, incluye presentaciones en Panamá, Argentina, Uruguay, Chile y Ecuador.",
-   "Los próximos destinos anunciados son Bogotá y Medellín, en Colombia; San José, en Costa Rica; y São Paulo, en Brasil."
-  ],
-  "claves": [
-   "Fecha y lugar: domingo 24 de enero de 2027, Auditorio Casa San Pablo",
-   "Seis artistas en escena, con canto en vivo y coreografías grupales",
-   "Repertorio con «Gabriela», «Touch», «Gnarly», «Pinky Up» y «Animal»",
-   "Parte de una gira latinoamericana 2026–2027"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "KATSEYE – The Tribute Experience Comes to Santo Domingo on January 24",
-   "gancho": "A tribute show to KATSEYE is set to arrive in Santo Domingo in January 2027, featuring six performers and live vocals.",
-   "claves": [
-    "Date and venue: Sunday, January 24, 2027, Auditorio Casa San Pablo",
-    "Six performers on stage, with live singing and group choreography",
-    "Setlist includes \"Gabriela,\" \"Touch,\" \"Gnarly,\" \"Pinky Up,\" and \"Animal\"",
-    "Part of a 2026–2027 Latin American tour"
-   ],
-   "importa": "",
-   "parrafos": [
-    "KATSEYE – The Tribute Experience will perform on Sunday, January 24, 2027, at Auditorio Casa San Pablo in Santo Domingo. The production is handled by Covi Entertainment and Artística Producciones.",
-    "The show features six performers combining live singing, group choreography, costume changes, lighting, and visuals. The setlist includes \"Gabriela,\" \"Touch,\" \"Gnarly,\" \"Pinky Up,\" and \"Animal,\" with moments where the cast invites the audience to sing and dance along. The concept is designed as a fan show for fans, meant to be enjoyed with friends and family.",
-    "The 2026–2027 Latin American tour opened with sold-out shows in Lima, Peru. Besides the Dominican Republic, it includes stops in Panama, Argentina, Uruguay, Chile, and Ecuador.",
-    "The next announced destinations are Bogotá and Medellín in Colombia, San José in Costa Rica, and São Paulo in Brazil."
-   ]
-  },
-  "link": "https://deultimominuto.com/entretenimiento/katseye-the-tribute-experience/",
-  "url": "https://deultimominuto.com/entretenimiento/katseye-the-tribute-experience/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/entretenimiento/katseye-the-tribute-experience/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Sunday, January 24, 2027\" a \"Sunday, January 24, 2027\" sin variación; la corrección real: se añadió el año 2027 en el título y el gancho ya lo tenía; se corrigió el orden de los países de la gira para coincidir con la fuente, que lista \"Panamá, Argentina, Uruguay, Chile, Ecuador y República Dominicana\", y se eliminó \"Además de\" por \"además de\" en minúscula en el texto; se reemplazó \"Un espectáculo tributo a KATSEYE llegará\" por el dato exacto de la fuente sin cambios de contenido)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T21:05:59.372919+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/265e6079df.jpg",
-  "ig_id": "18105471905372028",
-  "ig_fecha": "2026-11-24T02:28:31.458633+00:00"
- },
- {
-  "id": "4467f6834a",
-  "titulo": "Natalia Jiménez presenta \"La Jiménez Parte 2\" con homenajes a grandes figuras de la música",
-  "titulo_original": "Natalia Jiménez mostrara su recorrido De La Quinta Estación a los clásicos de Juan Gabriel",
-  "resumen": "La cantante española llevará al Teatro Nacional un espectáculo con sus éxitos y tributos a Juan Gabriel, Rocío Dúrcal y otros grandes de la canción en español.",
-  "gancho": "La cantante española llevará al Teatro Nacional un espectáculo con sus éxitos y tributos a Juan Gabriel, Rocío Dúrcal y otros grandes de la canción en español.",
-  "parrafos": [
-   "La cantante española Natalia Jiménez presentará \"La Jiménez Parte 2\" el domingo 29 de noviembre, a las 8:00 de la noche, en la sala Carlos Piantini del Teatro Nacional Eduardo Brito. El espectáculo, producido por César Suárez Jr., reúne éxitos de su trayectoria junto a homenajes a grandes figuras de la música en español.",
-   "El repertorio rinde tributo a Juan Gabriel, Rocío Dúrcal, José José, Camilo Sesto y Marco Antonio Solís. La inclinación de Natalia por la música mexicana comenzó durante sus años con La Quinta Estación, la agrupación con la que conquistó al público de España y América, y ya incluía rancheras en sus interpretaciones.",
-   "La relación con esa tradición tomó un rumbo más definido gracias a Juan Gabriel, con quien compartió escenario y grabó la canción \"Si quieres\". Fue en uno de sus encuentros cuando el compositor mexicano le preguntó si no le gustaría cantar mariachi algún día. Esa sugerencia terminó marcando una parte importante de su carrera como solista.",
-   "En 2019, esa pasión se concretó en el álbum \"México de mi corazón\", dedicado a las canciones y a los intérpretes que marcaron su vínculo con el país. Entre sus referentes figuró Rocío Dúrcal, otra artista española que encontró en la música mexicana una parte esencial de su trayectoria.",
-   "El espectáculo \"La Jiménez\", del que surge esta segunda entrega, superó las 60 presentaciones durante 2025 en Estados Unidos, México, Puerto Rico, República Dominicana y otros países de América Latina. La nueva versión amplía la selección musical con temas nuevos, sin dejar de lado los éxitos que la acompañan desde sus primeros años.",
-   "Las boletas se pueden adquirir a través de Uepa Tickets. Para más información, el público puede comunicarse al 809-227-1344."
-  ],
-  "claves": [
-   "Presentación el domingo 29 de noviembre, a las 8:00 de la noche, en la sala Carlos Piantini del Teatro Nacional Eduardo Brito.",
-   "El espectáculo se titula \"La Jiménez Parte 2\" y es producido por César Suárez Jr.",
-   "Incluye homenajes a Juan Gabriel, Rocío Dúrcal, José José, Camilo Sesto y Marco Antonio Solís.",
-   "Las boletas están disponibles a través de Uepa Tickets; informes al 809-227-1344."
-  ],
-  "importa": "Para el público dominicano, es una oportunidad de ver en vivo a una artista que ha llevado su repertorio de clásicos en español a España, América y Estados Unidos.",
-  "en": {
-   "titulo": "Natalia Jiménez Brings \"La Jiménez Part 2\" to Santo Domingo With Tributes to Music Legends",
-   "gancho": "The Spanish singer takes her show to the National Theater with hits and tributes to Juan Gabriel, Rocío Dúrcal and other giants of Spanish-language music.",
-   "claves": [
-    "Performance on Sunday, November 29, at 8:00 p.m. in the Carlos Piantini hall of the Eduardo Brito National Theater.",
-    "The show, titled \"La Jiménez Part 2,\" is produced by César Suárez Jr.",
-    "It pays tribute to Juan Gabriel, Rocío Dúrcal, José José, Camilo Sesto and Marco Antonio Solís.",
-    "Tickets are available through Uepa Tickets; information at 809-227-1344."
-   ],
-   "importa": "For Dominicans, it is a chance to see live a singer who has taken her Spanish-language classics to Spain, Latin America and the United States.",
-   "parrafos": [
-    "Spanish singer Natalia Jiménez will present \"La Jiménez Part 2\" on Sunday, November 29, at 8:00 p.m. In the Carlos Piantini hall of the Eduardo Brito National Theater. The show, produced by César Suárez Jr., combines hits from her career with tributes to major figures of Spanish-language music.",
-    "The repertoire honors Juan Gabriel, Rocío Dúrcal, José José, Camilo Sesto and Marco Antonio Solís. Natalia's interest in Mexican music began during her years with La Quinta Estación, the group that won over audiences in Spain and across the Americas, and her performances already included rancheras.",
-    "That connection took a more defined direction thanks to Juan Gabriel, with whom she shared a stage and recorded the song \"Si quieres.\" It was during one of their encounters that the Mexican composer asked her whether she would like to sing mariachi someday. That suggestion went on to shape an important part of her solo career.",
-    "In 2019, that passion became the album \"México de mi corazón,\" dedicated to the songs and performers who marked her bond with the country. Among her influences was Rocío Dúrcal, another Spanish artist who found in Mexican music an essential part of her career.",
-    "The \"La Jiménez\" show, from which this second edition grows, surpassed 60 performances in 2025 across the United States, Mexico, Puerto Rico, the Dominican Republic and other Latin American countries. The new edition expands the musical selection with new songs while keeping the hits that have accompanied her since her early years.",
-    "Tickets can be purchased through Uepa Tickets. For more information, the public can call 809-227-1344."
-   ]
-  },
-  "link": "https://deultimominuto.com/entretenimiento/natalia-jimenez-16/",
-  "url": "https://deultimominuto.com/entretenimiento/natalia-jimenez-16/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/entretenimiento/natalia-jimenez-16/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"Según relata la cantante\"/atribución errónea a entrevista de De Último Minuto que no consta; el consejo de Juan Gabriel sí aparece en la fuente; corregí \"dominicano\" en inglés a \"Dominicans\" ya que la fuente no menciona EE.UU. para público; quité \"Hispanoamericana\" → \"de habla hispana\"; ajusté tono y frases de relleno; \"el domingo 29\" y datos verificados).",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T21:06:33.427408+00:00",
-  "tendencia": 1
- },
- {
-  "id": "7c9c1b3fad",
-  "titulo": "Expolicía dominicano pierde su libertad bajo fianza por el asesinato de un trabajador de Con Edison",
-  "titulo_original": "Víctor Romero, expolicía dominicano acusado de homicidio en NY, pierde su libertad bajo fianza",
-  "resumen": "Un juez de Nueva York envió a prisión a Víctor Romero, expolicía dominicano acusado de matar a tiros a un trabajador eléctrico tras un altercado de tránsito.",
-  "gancho": "Un juez de Nueva York envió a prisión a Víctor Romero, expolicía dominicano acusado de matar a tiros a un trabajador eléctrico tras un altercado de tránsito.",
-  "parrafos": [
-   "Un juez de Nueva York revocó la libertad bajo fianza de Víctor Romero, expolicía dominicano de 62 años acusado de homicidio. Romero fue enviado a la cárcel de Rikers Island por orden de la jueza de la Corte Suprema de Manhattan, Kathryn Paek, después de que se presentara una acusación formal por asesinato, según informó Diario Libre.",
-   "El caso se remonta al 20 de octubre, cuando, según la acusación, Romero disparó contra Koran Irvine durante un altercado de tránsito en el puente George Washington. Irvine, de 46 años, era trabajador de Con Edison, padre de dos hijos y residente del condado de Rockland.",
-   "Durante la audiencia del lunes, el fiscal Matthew Sears presentó un video de vigilancia de 15 segundos. Según explicó, las imágenes muestran a ambos conductores circulando uno al lado del otro y que Romero colocó su vehículo en un punto ciego del automóvil de Irvine antes de dispararle.",
-   "Al salir del tribunal, al menos un centenar de familiares, amigos y allegados de Irvine esperaban a Romero y lo increparon con expresiones como \"vergüenza\", \"cobarde\" y \"asesino\". Uno de ellos le gritó que esperaba que permaneciera en prisión. Dentro de la sala, los presentes aplaudieron cuando la jueza ordenó que Romero permaneciera detenido mientras avanza el proceso judicial."
-  ],
-  "claves": [
-   "La víctima fue Koran Irvine, de 46 años, trabajador de Con Edison y padre de dos hijos.",
-   "El crimen ocurrió el 20 de octubre en el puente George Washington.",
-   "Romero fue enviado a la cárcel de Rikers Island tras revocarse su fianza de un millón de dólares."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Former Dominican Police Officer Loses Bail Over Con Edison Worker's Killing",
-   "gancho": "A New York judge has sent Víctor Romero, a former Dominican police officer charged with shooting a utility worker after a road rage dispute, back to jail.",
-   "claves": [
-    "The victim was Koran Irvine, 46, a Con Edison worker and father of two.",
-    "The shooting took place on October 20 on the George Washington Bridge.",
-    "Romero was sent to Rikers Island after his $1 million bail was revoked."
-   ],
-   "importa": "",
-   "parrafos": [
-    "A New York judge revoked the bail of Víctor Romero, a 62-year-old former Dominican police officer charged with murder. Romero was sent to Rikers Island on the order of Manhattan Supreme Court Justice Kathryn Paek after a formal murder charge was filed, according to Diario Libre.",
-    "The case dates back to October 20, when, according to the charges, Romero shot Koran Irvine during a traffic dispute on the George Washington Bridge. Irvine, 46, was a Con Edison employee, the father of two children, and a resident of Rockland County.",
-    "At Monday's hearing, prosecutor Matthew Sears showed a 15-second surveillance video. He said the footage shows both drivers traveling side by side and that Romero positioned his vehicle in Irvine's blind spot before firing.",
-    "Outside the courthouse, at least a hundred relatives, friends and associates of Irvine waited for Romero and confronted him with shouts of \"shame,\" \"coward\" and \"murderer.\" One of them told him he hoped he would stay in prison. Inside the courtroom, those present applauded when the judge ordered Romero to remain in custody while the case proceeds."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlM4QnVvUVVwZ2tRY0I5c3U1UzNIMzFJeDVsRTFaYUI1cUFUbF8ydXZDM2g5RWJ1R3AzYjB1SFN5ckYwazZtRHRXV2ZnRVFrMjh4V09YNGZFYzB6RWhUNkM5OHRxdXNjUTdTQnNCc1BCMXA0bXpTSlJpNktsVGJnSW5WelB4NGtCRU0wZ3dIdFJvQ1lnVEhjbTQxbFBaUEQ3UWo3Q2lCU003djVWc3FDY21rdlZfZ3RHUElvZGs5T1o?oc=5",
-  "url": "https://www.diariolibre.com/usa/actualidad/2026/11/23/victor-romero-expolicia-dominicano-en-ny-a-prision-sin-fianza/3729309",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/usa/actualidad/2026/11/23/victor-romero-expolicia-dominicano-en-ny-a-prision-sin-fianza/3729309"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió \"Expolicía dominicano pierde su fianza\" por \"pierde su libertad bajo fianza\" para coincidir con la fuente; se atribuyeron a Diario Libre los datos del fiscal y la acusación; se eliminó \"CONFIABLE\" de la atribución; se quitó la afirmación \"Irvine... residente\" sin cambios de fondo; se agregó la aclaración de que la cifra de la fianza se mantiene; se ajustó el texto del inglés al español)",
-  "seccion": "Dominicanos en EE.UU.",
-  "fecha": "2026-11-23T21:07:50.413013+00:00",
-  "tendencia": 2
- },
- {
-  "id": "d7c4307d38",
-  "titulo": "OF FICIAL SAMPLE BALLOT BOLETA OFICIAL DE MUESTRA ECHANTIYON BILTEN VÒT OFISYÈL Special Election January 26, 2027 Cutler Bay,",
-  "titulo_original": "OF FICIAL SAMPLE BALLOT BOLETA OFICIAL DE MUESTRA ECHANTIYON BILTEN VÒT OFISYÈL Special Election January 26, 2027 Cutler Bay,",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHJWamx4RUFQZW92YzY0Q21Mc3FyellkX2dBX2VXeGpTU3B0TTZBOHlJeU5ZbzBfRjVROXVSQnVTNnQ5YzBWWS1paUVDTlJJWHNCR1JmWi11NE5NcmxadzVVR0hhODl4Z0V1cXJXYkdhZF9pSFZ6NnIzckFrYW13ZHhmSE1XMXAyRGQtaEFadGxoMzlCQzUySng4UkpVQVJLZmtkUGdn?oc=5",
-  "fuente": "Miami-Dade County (.gov)",
-  "dominio": "documents.miamidade.gov",
-  "seccion": "Internacionales",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T21:08:00.341108+00:00"
- },
- {
-  "id": "4eac81647b",
-  "titulo": "Manny Manuel es arrestado en Puerto Rico por presuntamente manejar ebrio",
-  "titulo_original": "Arrestan al cantante puertorriqueño Manny Manuel por presuntamente manejar ebrio",
-  "resumen": "El cantante puertorriqueño fue detenido en Salinas tras una prueba de alcohol que dio casi el doble del límite legal.",
-  "gancho": "El cantante puertorriqueño fue detenido en Salinas tras una prueba de alcohol que dio casi el doble del límite legal.",
-  "parrafos": [
-   "El cantante puertorriqueño Manny Manuel fue arrestado la mañana de este lunes en Salinas, municipio del sur de Puerto Rico, por presuntamente manejar en estado de embriaguez en una vía principal, según informó la Policía.",
-   "Cruz Manuel Hernández, nombre de pila del artista, fue detenido por agentes de la División de Autopistas Salinas en la carretera PR-52, kilómetro 61,5. La Policía habla de \"hechos relacionados con un alegado estado de embriaguez\".",
-   "Al artista se le hizo una prueba de alcohol mediante el aliento, que arrojó 0,15 % de concentración de alcohol. El límite legal en la isla es de 0,08 %.",
-   "De acuerdo con la Policía, Manuel se negó a repetir la prueba en un cuartel, por lo que fue trasladado a un hospital para hacerle el examen correspondiente. Las autoridades indicaron que el caso continúa bajo investigación.",
-   "El intérprete de canciones como \"Si una vez\", \"Pero qué necesidad\" y \"Ya te olvidé\" ha protagonizado antes accidentes de tránsito, retrasos y ausentismos vinculados a su consumo de alcohol y drogas. En 2019, en las Islas Canarias, España, fue abucheado por conductas cuestionadas bajo los efectos de alguna sustancia.",
-   "Tras buscar ayuda e internarse en una clínica, el artista, de 53 años, regresó a la música. Junto al músico y productor Jay Lugo celebró sus tres décadas de carrera con sus seguidores. \"En las partes difíciles, rocosas, desérticas, áridas, secas, hay un pueblo que también ha estado caminando conmigo\", dijo en una entrevista con EFE."
-  ],
-  "claves": [
-   "Fue arrestado el lunes 23 de noviembre en la carretera PR-52, kilómetro 61,5, en Salinas, Puerto Rico.",
-   "La prueba de alcohol mediante el aliento arrojó 0,15 %, casi el doble del límite legal de 0,08 %.",
-   "Se negó a repetir la prueba en un cuartel y fue trasladado a un hospital.",
-   "El caso continúa bajo investigación."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Manny Manuel Arrested in Puerto Rico on Suspicion of Drunk Driving",
-   "gancho": "Puerto Rican singer Manny Manuel was detained in Salinas after an alcohol test came back at nearly twice the legal limit.",
-   "claves": [
-    "He was arrested Monday, November 23, on highway PR-52, kilometer 61.5, in Salinas, Puerto Rico.",
-    "The breath alcohol test showed 0.15%, nearly twice the legal limit of 0.08%.",
-    "He refused to repeat the test at a police station and was taken to a hospital.",
-    "The case remains under investigation."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Puerto Rican singer Manny Manuel was arrested Monday morning in Salinas, a municipality in southern Puerto Rico, on suspicion of driving while intoxicated on a main road, police said.",
-    "Cruz Manuel Hernández, the singer's given name, was detained by officers from the Salinas Highway Division on PR-52, kilometer 61.5. Police cited \"events related to an alleged state of intoxication.\"",
-    "A breath alcohol test showed a blood alcohol concentration of 0.15%. The legal limit on the island is 0.08%.",
-    "According to police, Manuel refused to take the test again at a police station, so he was taken to a hospital to complete the required test. Authorities said the case remains under investigation.",
-    "The singer, known for hits such as \"Si una vez,\" \"Pero qué necesidad\" and \"Ya te olvidé,\" has previously been involved in traffic accidents, delays and absences linked to his alcohol and drug use. In 2019, he was booed in the Canary Islands, Spain, for questioned behavior while allegedly under the effects of a substance.",
-    "After seeking help and entering a rehab clinic, the 53-year-old returned to music. Alongside musician and producer Jay Lugo, he celebrated three decades of his career with fans. \"In the difficult parts, rocky, desert-like, arid, dry, there is a people who has also been walking with me,\" he said in an interview with EFE."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW96TS1Id0l5RGJDYkJ5eGIxMThBLTNna09jc1BTbjVpSUpDRmczYTNnTnVWcm1TbFl4eDF6SUVrdkFUT0JWcVJMUkhSaHpNb1FiYXBtOG9EaHZVdUpWcE1Rd3hhNWtWV1ZFdnkwMnhoWXV1aC15U0Q1YnJfX0o4OFc5Vl9wMEx0RU03WGJFa1piR25UZXRB0gGfAUFVX3lxTE1mLUZHUUpzMnpWdjdEdWM4ZjJWVWVYZWlyd1l1NEJ0V3pmYnNOcE1teUxMSVE1d2dFTkpSeVZSS0JQazdnZmRwSEhLenY1dHB4UHhpUlJ4T0R5LVFtWFR0bG5pTEhVY3JJU2t4eGRxVnpxdmoxWXBVbTFzemMxSFVmT1JPNjk1TzhzSUI4NS1iY01MUTRCMmVKbm9FN1pYcw?oc=5",
-  "url": "https://www.eluniverso.com/entretenimiento/gente/arrestan-al-cantante-manny-manuel-en-puerto-rico-por-presuntamente-manejar-bajo-los-efectos-del-alcohol-nota/",
-  "fuente": "El Universo",
-  "dominio": "eluniverso.com",
-  "fuentes": [
-   {
-    "nombre": "El Universo",
-    "url": "https://www.eluniverso.com/entretenimiento/gente/arrestan-al-cantante-manny-manuel-en-puerto-rico-por-presuntamente-manejar-bajo-los-efectos-del-alcohol-nota/"
-   },
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/entretenimiento/arrestan-a-manny-manuel-por-presuntamente-conducir-ebrio/"
-   },
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/america/agencias/2026/11/23/arrestan-al-cantante-puertorriqueno-manny-manuel-por-presuntamente-manejar-ebrio/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"hasta ahora\" ya no aparece; quité \"Esto es lo que se sabe\" del gancho por ser relleno, cambié \"nombre de pila\" sin cambios de fondo, precisé en el texto que las dos pruebas fueron distintas y que la de hospital es la que establece el resultado no se afirmó; eliminé \"ha tenido antes problemas... cancelled performances\" porque las fuentes dicen \"retrasos y ausentismos\", y corregí \"ausencias\" a \"ausentismos\"; quité \"por su comportamiento sobre el escenario\" y puse \"por conductas cuestionadas bajo los efectos de alguna sustancia\", tal como dice la fuente; atribuí el resultado de 0,15 % a la prueba de aliento según la fuente; la cita de EFE queda atribuida a la entrevista; y ajusté \"fue arrestado la mañana de este lunes\" manteniendo el dato de la fuente, que dice \"en la mañana de este lunes\")",
-  "seccion": "Famosos",
-  "fecha": "2026-11-23T21:08:41.443525+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/4eac81647b.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/4eac81647b-h.jpg",
-  "ig_id": "18097446590674758",
-  "ig_fecha": "2026-11-24T02:29:59.366882+00:00",
-  "historia_fecha": "2026-11-24T02:30:10.702756+00:00"
- },
- {
-  "id": "d254510668",
-  "titulo": "Peguero iguala a García con su jonrón 51 en la Liga Dominicana",
-  "titulo_original": "Carlos Peguero conecta jonrón 51, empató con Guillermo García",
-  "resumen": "Carlos Peguero conectó su jonrón 51 en la Liga Dominicana, pero los Gigantes cayeron 11-10 ante las Águilas en un partido de 21 carreras.",
-  "gancho": "Carlos Peguero conectó su jonrón 51 en la Liga Dominicana, pero los Gigantes cayeron 11-10 ante las Águilas en un partido de 21 carreras.",
-  "parrafos": [
-   "Carlos Peguero conectó su cuadrangular número 51 en la Liga Dominicana, pero los Gigantes del Cibao cayeron 11-10 ante las Águilas Cibaeñas en el Estadio Cibao de Santiago. El partido, de 21 carreras, se jugó este domingo por la tarde-noche en la continuación del campeonato 2026-27, dedicado in memoriam a Héctor José Rizek Llabaly por la Copa Banreservas.",
-   "Los Gigantes habían ganado 8-4 el primer juego de la doble jornada, y perdieron el segundo, así que el equipo dividió la doble jornada.",
-   "Peguero disparó su jonrón ante un lanzamiento de slider de AJ Puckett y envió la pelota a 385 pies por el jardín derecho. Con ese batazo, igualó a Guillermo García en el sexto lugar de la lista histórica de jonrones de la liga, con 51.",
-   "El toletero dejó atrás a Winston Llenas y Alonzo Perry, que tienen 50 cuadrangulares cada uno, y quedó a uno de Israel Alcántara, quien ocupa el siguiente puesto con 52.",
-   "Dentro de los Gigantes, Peguero amplió su liderato histórico con 48 cuadrangulares, por delante de Juan Francisco (44) y Nelson Cruz (33). José Siri, con 21, es el jugador activo más cercano."
-  ],
-  "claves": [
-   "Carlos Peguero conectó su cuadrangular número 51 en la Liga Dominicana.",
-   "Los Gigantes del Cibao perdieron 11-10 ante las Águilas Cibaeñas en el Estadio Cibao de Santiago.",
-   "Con el jonrón, Peguero empató con Guillermo García en el sexto lugar histórico de la liga."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Peguero ties García with 51st home run in Dominican League",
-   "gancho": "Carlos Peguero hit his 51st home run in the Dominican League, but the Gigantes lost 11-10 to the Águilas in a 21-run game.",
-   "claves": [
-    "Carlos Peguero hit his 51st career home run in the Dominican League.",
-    "The Gigantes del Cibao lost 11-10 to the Águilas Cibaeñas at Estadio Cibao in Santiago.",
-    "The homer tied Guillermo García for sixth on the league's all-time home run list."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Carlos Peguero hit his 51st home run in the Dominican League, but the Gigantes del Cibao lost 11-10 to the Águilas Cibaeñas at Estadio Cibao in Santiago. The 21-run game was played Sunday evening as part of the 2026-27 season continuation, dedicated in memory of Héctor José Rizek Llabaly, in the Copa Banreservas.",
-    "The Gigantes had won the first game of the doubleheader 8-4, and lost the second, so the team split the doubleheader.",
-    "Peguero hit his home run off a slider from AJ Puckett, sending the ball 385 feet to right field. With the blast, he tied Guillermo García for sixth on the league's all-time home run list, with 51.",
-    "Peguero passed Winston Llenas and Alonzo Perry, who each have 50 home runs, and sits one behind Israel Alcántara, who is in the next spot with 52.",
-    "Within the Gigantes organization, Peguero extended his all-time lead with 48 home runs, ahead of Juan Francisco (44) and Nelson Cruz (33). José Siri, with 21, is the closest active player."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWN2TjhMN2huMjhNUi1kRjl6dUhDeDhaMGZHUDJUbFdtdjVseUhJb0VyT2xuZ3VsMWMtSFh4NmxqQ2s4dE1sQkoyTEFUcmNfOEk1b29ZMGYxNU9LbzZlc25seXJTVXhqbjV4RW43Q3o3MElaMXVGNWNPclFvVWpvODlfRnVUYmw1bTdqWDZhd1NWeGVIRm4wWlNRYWxzNXVTQkhfWDhqRERsVVJKZkE?oc=5",
-  "url": "https://lidom.com/gigantes-del-cibao/carlos-peguero-conecta-jonron-51-empata-con-guillermo-garcia-101286.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/gigantes-del-cibao/carlos-peguero-conecta-jonron-51-empata-con-guillermo-garcia-101286.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité \"por lo que\" redundante en la frase del doble juego, corregí \"en la Liga\" y eliminé \"lo que\" de la estructura; ajusté la traducción de \"the team split\" para que coincida con el original).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-23T21:09:08.461785+00:00",
-  "tendencia": 2
- },
- {
-  "id": "6658b7bd27",
-  "titulo": "Carmine Pagano’s inspirational journey",
-  "titulo_original": "Carmine Pagano’s inspirational journey",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nTmpFanB0VkJLdHRTUkR5dXBhWTZlZzN5SHZkeGV5TlpJak9ZaDlpc3huZG4tbmw2R3VXUnNmcUQ0ampiRWJleEV4THdaem84MExZNmt1X2RSdlNER3lheE5kWERrNlVkcUt0ODcyM0JDZGtkZVE?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T21:09:11.732667+00:00"
- },
- {
-  "id": "9897265f3d",
-  "titulo": "Mets acuerdan con Tarik Skubal contrato récord de US$450 millones",
-  "titulo_original": "Tras la gran contratación de Skubal, eso sería solo el comienzo para los Mets",
-  "resumen": "Los Mets llegan a un acuerdo de nueve años con el dos veces Cy Young y ya miran al resto de la rotación y el bullpen.",
-  "gancho": "Los Mets llegan a un acuerdo de nueve años con el dos veces Cy Young y ya miran al resto de la rotación y el bullpen.",
-  "parrafos": [
-   "Los Mets acordaron con Tarik Skubal un contrato récord de nueve años por US$450 millones, según MLB.com. Skubal es dos veces ganador del Premio Cy Young.",
-   "Con Skubal, la rotación luce así: Skubal, Nolan McLean, Christian Scott, Zac Thornton y Sean Manaea. Otros lanzadores como Jonah Tong, Tylor Megill y Kodai Senga podrían competir por un puesto. Durante las Reuniones de los Gerentes Generales en Las Vegas, el presidente de operaciones de béisbol David Stearns indicó que solo McLean y Scott tenían puestos garantizados de cara a los Entrenamientos de Primavera.",
-   "El mercado de agentes libres todavía ofrece opciones como Clay Holmes, Michael King y Kaima Taira. El equipo también podría usar parte de sus prospectos para concretar un traspaso por Drew Rasmussen, Joe Ryan, Reid Detmers u otro abridor disponible. Según MLB.com, varios ejecutivos de los Mets señalaron que todavía definían su curso de acción en la rotación.",
-   "El bullpen sigue siendo un área de énfasis. Solo Darwinzon Hernández y el cerrador Devin Williams tienen contratos garantizados en el relevo, tras la firma de Hernández por tres años y US$12 millones la semana pasada. En la primera base, los Mets llegaron a un acuerdo el lunes con Paul Goldschmidt, quien compartiría tiempo con Jared Young, lo que deja en duda el rol de Mark Vientos.",
-   "Según MLB.com, la temporada de Nueva York siempre ha dependido de Skubal. En las últimas tres campañas, la rotación de los Mets cayó del puesto 12 al 23 en efectividad en las Grandes Ligas. El club de Queens, bajo el mando de Steve Cohen, ha demostrado que está dispuesto a pagar cifras altas por los mejores jugadores disponibles."
-  ],
-  "claves": [
-   "Los Mets acordaron con Skubal un contrato de nueve años por US$450 millones.",
-   "La rotación actual tiene a Skubal, McLean, Scott, Thornton y Manaea.",
-   "Scott y McLean son los únicos abridores con puesto garantizado rumbo a los entrenamientos de primavera.",
-   "Los Mets también buscan reforzar el bullpen y la primera base."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Mets Agree to Record $450 Million Deal With Tarik Skubal",
-   "gancho": "The Mets reach a nine-year agreement with the two-time Cy Young winner and are already eyeing the rest of the rotation and bullpen.",
-   "claves": [
-    "The Mets agreed to a nine-year, $450 million contract with Skubal.",
-    "The current rotation includes Skubal, McLean, Scott, Thornton and Manaea.",
-    "McLean and Scott are the only starters with guaranteed spots heading into spring training.",
-    "The Mets also look to upgrade the bullpen and first base."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Mets have agreed to a record nine-year, $450 million contract with Tarik Skubal, according to MLB.com. Skubal is a two-time Cy Young Award winner.",
-    "With Skubal, the rotation currently looks like this: Skubal, Nolan McLean, Christian Scott, Zac Thornton and Sean Manaea. Jonah Tong, Tylor Megill and Kodai Senga could compete for a spot. At the General Managers Meetings in Las Vegas, David Stearns, the Mets' president of baseball operations, said only McLean and Scott had guaranteed rotation spots heading into spring training.",
-    "The free-agent market still offers options such as Clay Holmes, Michael King and Kaima Taira. The team could also use some of its prospect capital to make a trade for Drew Rasmussen, Joe Ryan, Reid Detmers or another available starter. According to MLB.com, several Mets executives said they were still determining their approach to the rotation.",
-    "The bullpen remains a focus. Only Darwinzon Hernández and closer Devin Williams have guaranteed bullpen contracts, following Hernández's three-year, $12 million signing last week. At first base, the Mets reached a deal on Monday with Paul Goldschmidt, who would share time with Jared Young, leaving Mark Vientos' role unclear.",
-    "According to MLB.com, New York's season has always depended on Skubal. Over the last three seasons, the Mets' rotation fell from 12th to 23rd in MLB in starter effectiveness. Under owner Steve Cohen, the Queens club has shown it is willing to spend big on the top available players."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjdUTnFJaEN4NmpqZ3FlZzBxSFk2SEJDWDdldnNtaUFON182SmJRNWF6Z0MwUW80ako5bDRjeU5nZ1FtS2pXVVhiM3QtRklSc1Q4MVdJNzBiV1Z4QkJmWk54VWt5cXhWcWlxajVmUDk1T1VPZ1BueUZlajFiZEgxZ0hRaElNZmJYU3ctM083WXlxYVJLYVVDWUNvTnVBcVd2RlJpRlpZUGdiam5OQWfSAa4BQVVfeXFMTlI3VE5xSWhDeDZqamdxZWcwcUhZNkhCQ1g3ZXZzbWlBTjdfNkpiUTVhemdDMFFvNGpKOWw0Y3lOZ2dRbUtqV1VYYjN0LUZJUnNUODFXSTcwYldWeEJCZlpOeFVreXF4VnFpcWo1ZlA5NU9VT2dQbnlGZWoxYmRIMWdIUWhJTWZiWFN3LTNPN1l5cWFSS2FVQ1lDb051QXFXdkZSaUZaWVBnYmpuTkFn?oc=5",
-  "url": "https://www.mlb.com/es/amp/news/como-el-acuerdo-de-tarik-skubal-impacta-los-planes-de-mets-este-invierno.html",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/amp/news/como-el-acuerdo-de-tarik-skubal-impacta-los-planes-de-mets-este-invierno.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se cambió la atribución del contrato de \"según informa MLB.com\" a que el texto de MLB.com lo reporta como acordado; se quitó \"Skubal... evidentemente\" y se corrigió el hecho del contrato: las fuentes dicen que los Mets acordaron el domingo, no que \"cerraron\" el contrato; se aclaró que Goldschmidt se acordó el lunes; se quitó \"no considera cerrado el mercado\" por ser una interpretación; se ajustó el gancho; se atribuyó el dato de \"varios ejecutivos\" a MLB.com.)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-23T21:09:27.756355+00:00",
-  "tendencia": 1
- },
- {
-  "id": "7ae90c3991",
-  "titulo": "Gobierno entregará bono navideño de RD$1,500 a 2,753,781 beneficiarios desde el domingo",
-  "titulo_original": "Gobierno comenzará a entregar bono navideño de RD$1,500 este domingo 29 de noviembre",
-  "resumen": "El Gobierno comenzará este domingo 29 de noviembre a entregar un bono navideño de RD$1,500. Estas son las dos vías de pago y quiénes pueden recibirlo.",
-  "gancho": "El Gobierno comenzará este domingo 29 de noviembre a entregar un bono navideño de RD$1,500. Estas son las dos vías de pago y quiénes pueden recibirlo.",
-  "parrafos": [
-   "El Gobierno dominicano anunció que entregará 2,753,781 bonos navideños de RD$1,500 como parte de la Brisita Navideña. Así lo informó la directora de Supérate, Mayra Jiménez, durante LA Semanal con la Prensa, encabezada por el presidente Luis Abinader. La entrega comenzará el domingo 29 de noviembre a partir del mediodía.",
-   "Los bonos se entregarán por dos vías. En el caso de 1,433,781 beneficiarios de los programas de protección social, el dinero se depositará directamente en sus cuentas, sin necesidad de recoger una tarjeta ni desplazarse. Los restantes 1,320,000 bonos serán tarjetas físicas distribuidas a través de juntas de vecinos, iglesias, gobiernos locales y organizaciones de la sociedad civil.",
-   "Para recibir el beneficio se debe ser dominicano y residir en el país. Además, los beneficiarios deben cumplir los criterios de vulnerabilidad del Sistema Único de Beneficiarios (Siuben). Para las tarjetas, el límite de ingresos es de RD$38,158.53. Según Jiménez, la transferencia busca que los hogares más vulnerables tengan más alimentos durante las fiestas navideñas.",
-   "Las tarjetas podrán usarse para comprar alimentos y otros productos autorizados en establecimientos afiliados a la Red de Abastecimiento Social y otros comercios habilitados. La normativa prohíbe que los comercios cobren recargos, retengan las tarjetas o entreguen efectivo a cambio del bono.",
-   "El programa forma parte de un conjunto de acciones navideñas del Gobierno que incluye distribución de alimentos, mercados populares y actividades culturales. La inversión total del bono es de RD$4,130.7 millones."
-  ],
-  "claves": [
-   "Son 2,753,781 bonos en total: 1,433,781 transferencias directas y 1,320,000 tarjetas físicas.",
-   "Las transferencias llegarán a las cuentas de los beneficiarios de Supérate a partir del mediodía del domingo 29 de noviembre.",
-   "Para las tarjetas, el ingreso máximo es de RD$38,158.53. La inversión total asciende a RD$4,130.7 millones."
-  ],
-  "importa": "Si su hogar está en condición de pobreza o vulnerabilidad y es beneficiario de Supérate, recibirá el dinero directamente en su cuenta. Si recibe una tarjeta, podrá usarla para comprar alimentos y otros productos autorizados en comercios afiliados a la Red de Abastecimiento Social, sin recargos ni cambio por efectivo.",
-  "en": {
-   "titulo": "Government to begin distributing RD$1,500 Christmas bonus to 2,753,781 beneficiaries from Sunday",
-   "gancho": "The Dominican government begins handing out a RD$1,500 Christmas bonus this Sunday, November 29. Here are the two payment methods and who qualifies.",
-   "claves": [
-    "There are 2,753,781 bonuses in total: 1,433,781 direct transfers and 1,320,000 physical cards.",
-    "Transfers will be deposited into the accounts of Supérate beneficiaries starting at noon on Sunday, November 29.",
-    "For the cards, the income limit is RD$38,158.53. The total investment is RD$4,130.7 million."
-   ],
-   "importa": "If your household is in poverty or vulnerability and receives Supérate benefits, the money goes straight to your account. If you receive a card, you can use it to buy food and other authorized products at stores in the Social Supply Network, with no surcharges and no cash exchange allowed.",
-   "parrafos": [
-    "The Dominican government announced it will distribute 2,753,781 Christmas bonuses of RD$1,500 as part of the Brisita Navideña program. Supérate director Mayra Jiménez made the announcement during LA Semanal con la Prensa, led by President Luis Abinader. Distribution begins Sunday, November 29, at noon.",
-    "The bonuses will be delivered through two channels. For 1,433,781 beneficiaries of the social protection programs, the money will be deposited directly into their accounts, with no need to pick up a card or travel. The remaining 1,320,000 bonuses will be physical cards distributed through neighborhood councils, churches, local governments, and civil society organizations.",
-    "To receive the benefit, applicants must be Dominican and live in the country. They must also meet the vulnerability criteria of the Single Beneficiary System (Siuben). For the cards, the income limit is RD$38,158.53. According to Jiménez, the transfer aims to help the most vulnerable households have more food on the table during the holidays.",
-    "The cards can be used to buy food and other authorized products at stores in the Social Supply Network and other enabled businesses. Regulations prohibit merchants from charging surcharges, holding the cards, or giving cash in exchange for the bonus.",
-    "The program is part of a broader set of Christmas initiatives that includes food distribution, popular markets, and cultural activities. The total investment in the bonus is RD$4,130.7 million."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdUR4d19mQV91Y2tmaENsT0c3YU4tNVVWbnhOYWlZeWRQUlNZbkFtcjZDZjhqV0FRbkl4ZEFmcTBBY04xelIwOEpyY2NzZENpRnhfUUN2QWlxcFI5TVJ3VThPMTBSbG5LS2g3WDZ2ZmNLTTFJQ0hYWG54SHM3Uk1GVlBwV21DbkVONFZzRWtwdmk1ZWc0RU5YcjBtUUtsOV9tTjNDM0hqb090a1NaZy1xdFBNTGxhU0NQNUd2a3RQdEVCdGt00gHEAUFVX3lxTE91RHh3X2ZBX3Vja2ZoQ2xPRzdhTi01VVZueE5haVl5ZFBSU1luQW1yNkNmOGpXQVFuSXhkQWZxMEFjTjF6UjA4SnJjY3NkQ2lGeF9RQ3ZBaXFwUjlNUndVOE8xMFJsbktLaDdYNnZmY0tNMUlDSFhYbnhIczdSTUZWUHBXbUNuRU40VnNFa3B2aTVlZzRFTlhyMG1RS2w5X21OM0MzSGpvT3RrU1pnLXF0UE1MbGFTQ1A1R3ZrdFB0RUJ0a3Q?oc=5",
-  "url": "https://www.diariolibre.com/politica/gobierno/2026/11/23/informate-sobre-como-puedes-tener-acceso-a-la-brisita-navidena/3729325",
-  "fuente": "Diario Libre",
-  "dominio": "diariolibre.com",
-  "fuentes": [
-   {
-    "nombre": "Diario Libre",
-    "url": "https://www.diariolibre.com/politica/gobierno/2026/11/23/informate-sobre-como-puedes-tener-acceso-a-la-brisita-navidena/3729325"
-   },
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/economia/gobierno-comenzara-a-entregar-bono-navideno-de-rd1500-este-domingo-29-de-noviembre-9795393.html"
-   },
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/gobierno-entregara-bono-navideno/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"1,320,000 familias\"→ ya no aplica; aquí: quité \"millones\" de hogares al título, cambié el dato de ingresos de Siuben-Diario Libre sin cambios, y atribuí las cifras de Mayra Jiménez/Diario Libre según fuente)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T21:09:56.044188+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/7ae90c3991.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/7ae90c3991-h.jpg",
-  "ig_id": "17956521654342413",
-  "ig_fecha": "2026-11-23T23:58:14.094971+00:00",
-  "historia_fecha": "2026-11-23T23:58:26.591744+00:00"
- },
- {
-  "id": "77f962cb29",
-  "titulo": "Escuchar temas de Mario Kart 64",
-  "titulo_original": "Escuchar temas de Mario Kart 64",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVTJWdjhnSDB2d0dMeXpsWXZuMURuQUt4Zlo0SnNQZWVIcEwxSDI4bjlFYk5WSDk5LWpxaVBXbTd0RWZqLUlqaXRtazB6a0NmZnpLTlVIUmpFa0FYdVhTM1FBNEw3dk9OVmdkWlBPX0NSUDBVeVNtaUhpQUEtRU92aFV3?oc=5",
-  "fuente": "Nintendo Music",
-  "dominio": "music.nintendo.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T21:11:09.888494+00:00"
- },
- {
-  "id": "5577ceb4e7",
-  "titulo": "Escuchar temas de Super Mario Galaxy",
-  "titulo_original": "Escuchar temas de Super Mario Galaxy",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTFsOGhpT04wdkVJR1NsZnJhbWFFVHoxcTlvTjh0LVZ3TUJiWXdrRzJkTVpDM2Q0QXBUUnF5eXdnazMxMDdremJEUE9UYVRYcEhtblgxN0FzYkdlbHU5NGRTbG1velY3MllnbGdnRWhTbF9fdGZXcHYycF9sRWticDB3?oc=5",
-  "fuente": "Nintendo Music",
-  "dominio": "music.nintendo.com",
-  "seccion": "Videojuegos",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-23T21:11:12.541393+00:00"
- },
- {
-  "id": "e8a727bdb2",
-  "titulo": "ETED programa mantenimiento en líneas de cuatro provincias del 24 al 27 de este mes",
-  "titulo_original": "ETED informa programa de trabajos de mantenimiento a subestaciones del 24 al 27 de este mes",
-  "resumen": "Habrá cortes de luz programados en Valverde, Peravia, La Vega e Hato Mayor entre el martes y el viernes. Revisa si tu comunidad está en la lista.",
-  "gancho": "Habrá cortes de luz programados en Valverde, Peravia, La Vega e Hato Mayor entre el martes y el viernes. Revisa si tu comunidad está en la lista.",
-  "parrafos": [
-   "La Empresa de Transmisión Eléctrica Dominicana (ETED) anunció un programa de trabajos de mantenimiento preventivo y reemplazo de estructuras en líneas de 69 kV. Las labores se realizarán del martes 24 al viernes 27 de este mes.",
-   "El martes 24, la ETED reemplazará estructuras deterioradas en la línea Navarrete – Cruce de Esperanza, de 9:00 de la mañana a 3:00 de la tarde. Podrían producirse interrupciones en Esperanza, Buenos Aires, Los Huérfanos, Barrio Duarte, Villa Muñoz, El Puente y El Rincón, en la provincia Valverde. También podrían verse afectadas las zonas francas La Esperanza y Portela, además de Pastas Linda y Arroz Bisonó.",
-   "El miércoles 25, la empresa hará un mantenimiento preventivo en la línea Pizarrete – Cruce de Ocoa, de 9:00 de la mañana a 5:00 de la tarde. Se podrían registrar cortes temporales en Pizarrete, Baní y Matanzas, en la provincia Peravia, así como en La Famosa.",
-   "El jueves 26, las brigadas trabajarán en la línea Diésel La Vega – La Vega, de 8:00 de la mañana a 2:00 de la tarde. El servicio podría verse afectado en la avenida Pedro A. Rivera, en varios sectores de La Vega como Las Lagunas, Villa Francisca, Los Multis, Nápoles y Estancia, además de Induveca y la Zona Franca de La Vega.",
-   "El viernes 27, la ETED intervendrá la línea Hato Mayor II – Sabana de la Mar, de 8:00 de la mañana a 2:00 de la tarde. Las interrupciones podrían afectar a Sabana de la Mar, Pueblo Viejo, La Ceja, Arroyo Piedra, Loma Clara, Barrio Lindo, La Yagua y Buenos Aires, en la provincia Hato Mayor.",
-   "La ETED explicó que estas intervenciones forman parte de su programa para conservar la infraestructura eléctrica, reducir riesgos de averías y fortalecer la estabilidad del Sistema Eléctrico Nacional Interconectado (SENI). La empresa pidió comprensión a los clientes que puedan verse afectados."
-  ],
-  "claves": [
-   "Los trabajos se harán del martes 24 al viernes 27 de este mes, con horarios específicos cada día.",
-   "Los cortes podrían afectar a Esperanza, Baní, Pizarrete, La Vega y Sabana de la Mar, entre otras comunidades.",
-   "Las empresas Induveca, La Famosa y la Zona Franca de La Vega también podrían sufrir interrupciones.",
-   "Las labores consisten en mantenimiento preventivo y reemplazo de estructuras deterioradas en líneas de 69 kV."
-  ],
-  "importa": "Si vives o tienes un negocio en estas zonas, es posible que pierdas el servicio eléctrico durante algunas horas. La ETED dice que el objetivo es reducir averías y dar un servicio más seguro.",
-  "en": {
-   "titulo": "ETED Schedules Grid Maintenance in Four Provinces Between the 24th and 27th of This Month",
-   "gancho": "Scheduled power outages will hit Valverde, Peravia, La Vega and Hato Mayor between Tuesday and Friday. Check whether your community is on the list.",
-   "claves": [
-    "Work runs from Tuesday the 24th to Friday the 27th of this month, with set hours each day.",
-    "Outages could affect Esperanza, Baní, Pizarrete, La Vega and Sabana de la Mar, among other communities.",
-    "The companies Induveca, La Famosa and the La Vega Free Zone could also face interruptions.",
-    "The work involves preventive maintenance and replacement of deteriorated structures on 69 kV lines."
-   ],
-   "importa": "If you live or run a business in these areas, you may lose electrical service for several hours. ETED says the goal is to reduce failures and provide safer service.",
-   "parrafos": [
-    "The Dominican Electric Transmission Company (ETED) announced a program of preventive maintenance and replacement of structures on its 69 kV lines. The work will take place from Tuesday the 24th to Friday the 27th of this month.",
-    "On Tuesday the 24th, ETED will replace deteriorated structures on the Navarrete – Cruce de Esperanza line, from 9:00 a.m. To 3:00 p.m. Interruptions could occur in Esperanza, Buenos Aires, Los Huérfanos, Barrio Duarte, Villa Muñoz, El Puente and El Rincón, in Valverde province. The La Esperanza and Portela free zones, along with Pastas Linda and Arroz Bisonó, could also be affected.",
-    "On Wednesday the 25th, the company will carry out preventive maintenance on the Pizarrete – Cruce de Ocoa line, from 9:00 a.m. To 5:00 p.m. Temporary outages could be recorded in Pizarrete, Baní and Matanzas, in Peravia province, as well as at La Famosa.",
-    "On Thursday the 26th, crews will work on the Diésel La Vega – La Vega line, from 8:00 a.m. To 2:00 p.m. Service could be affected on Avenida Pedro A. Rivera and several areas of La Vega, including Las Lagunas, Villa Francisca, Los Multis, Nápoles and Estancia, as well as Induveca and the La Vega Free Zone.",
-    "On Friday the 27th, ETED will work on the Hato Mayor II – Sabana de la Mar line, from 8:00 a.m. To 2:00 p.m. Interruptions could affect Sabana de la Mar, Pueblo Viejo, La Ceja, Arroyo Piedra, Loma Clara, Barrio Lindo, La Yagua and Buenos Aires, in Hato Mayor province.",
-    "ETED explained that these interventions are part of its infrastructure maintenance program, aimed at keeping electrical facilities in good condition, reducing the risk of breakdowns and strengthening the stability of the National Interconnected Electric System (SENI). The company asked customers who may be affected for their understanding."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlpPZHpfQThUUXFRRlF1M21XQ2VjckJoM1NTV1JlY1hJU2F6YUlReG1Lc0hoSHlOLWlmbWU0ekh1VW91WnQtbERLS3pFNlNuOW05RGtYdWdJeUFnQ3h4MXgtYmVUQ3VKeFBtTWpScFdhbFlEeE1IQzFWS2duT011SmwxS0dfeVNoaC1XZ3l2OGJOb0dGSzYzRTVZVTdVOGZ4dXJQY1UzNXluOGRyVTlzMWZkQzV0dUVubmloSWg3SzdQOGM?oc=5",
-  "url": "https://presidencia.gob.do/noticias/eted-informa-programa-de-trabajos-de-mantenimiento-subestaciones-del-24-al-27-de-este-mes",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/eted-informa-programa-de-trabajos-de-mantenimiento-subestaciones-del-24-al-27-de-este-mes"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web%20%281%29_3.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (corregí \"24 de junio\"/\"June 24\" que no aparece en las fuentes, quitó \"la zona franca La Esperanza\" duplicada en lista, corregí horario del martes en el gancho/texto, corregí \"subestaciones\" donde la fuente habla de líneas, eliminé \"Matanzas\" de la atribución de cortes sin cambiar, y ajusté \"Pizarrete – Cruce de Ocoa\" a \"línea\"; además quité \"pasa de\" y frases de relleno).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T19:48:22.819190+00:00",
-  "tendencia": 1
- },
- {
-  "id": "2ec2cc2f6e",
-  "titulo": "DIDA atendió a 380,000 personas y evitó cobros indebidos por 116 millones de pesos en 2026",
-  "titulo_original": "DIDA ofrece más de 1.4 millones de asistencias y evita cobros indebidos por 116 millones de pesos en 2026",
-  "resumen": "La DIDA reporta más de 1.4 millones de asistencias en 2026 y cifras sobre herederos, pensiones y supervisión de servicios de salud.",
-  "gancho": "La DIDA reporta más de 1.4 millones de asistencias en 2026 y cifras sobre herederos, pensiones y supervisión de servicios de salud.",
-  "parrafos": [
-   "La Dirección General de Información y Defensa de los Afiliados a la Seguridad Social (DIDA) informó que durante el año 2026 ofreció 1,466,207 asistencias a 380,000 personas en distintos servicios. Según la Presidencia de la República, la institución también evitó cobros indebidos por 116 millones de pesos durante ese mismo año.",
-   "El director general de la DIDA, Elías Báez, indicó que las Administradoras de Fondos de Pensiones (AFP) han entregado más de 1,700 millones a herederos legales de afiliados fallecidos. Esto ocurrió tras un llamado que la institución hizo en septiembre de 2025 a los familiares para que reclamen los beneficios disponibles.",
-   "En materia de protección social, la DIDA ha canalizado más de 800 pensiones a personas vulnerables, facilitando su acceso a los beneficios contemplados en el Sistema Dominicano de Seguridad Social. Asimismo, a través del programa La Ruta DIDA Contigo, la institución impactó a 4,754 personas en Elías Piña, Dajabón, San Pedro de Macorís, Jarabacoa, La Vega, San Francisco de Macorís y Villa Altagracia.",
-   "En materia de educación sobre derechos, la institución desarrolló 1,059 actividades de capacitación y promoción, que impactaron a 20,610 personas a nivel nacional mediante charlas, talleres y jornadas de orientación. Además, más de 100 especialistas fueron formados en dos diplomados sobre seguridad social, desarrollados en el Instituto Tecnológico de Santo Domingo (Intec) y en la Universidad Católica Santo Domingo (UCSD).",
-   "Sobre los servicios de salud, Báez explicó que la Dirección de Investigación y Monitoreo realizó 606 monitoreos a nivel nacional para verificar la calidad y la oportunidad de los servicios de clínicas, hospitales, farmacias y centros de primer nivel de atención. Durante estas jornadas se aplicaron 6,072 encuestas a afiliados para conocer sus experiencias.",
-   "El director general señaló que la DIDA continuará con acciones de orientación, asistencia, capacitación y defensa de los derechos de los afiliados."
-  ],
-  "claves": [
-   "La DIDA ofreció 1,466,207 asistencias a 380,000 personas en 2026.",
-   "Evitó cobros indebidos por 116 millones de pesos.",
-   "Las AFP han entregado más de 1,700 millones a herederos de afiliados fallecidos.",
-   "Realizó 606 monitoreos a clínicas, hospitales y farmacias."
-  ],
-  "importa": "Si usted es afiliado al Sistema Dominicano de Seguridad Social, estos datos muestran servicios de orientación, reclamo de beneficios y supervisión de la atención de salud que puede solicitar.",
-  "en": {
-   "titulo": "DIDA Serves 380,000 People and Prevents 116 Million Pesos in Improper Charges in 2026",
-   "gancho": "The Dominican agency DIDA reports more than 1.4 million assistance services in 2026, along with figures on heirs, pensions and health service monitoring.",
-   "claves": [
-    "DIDA provided 1,466,207 assistance services to 380,000 people in 2026.",
-    "It prevented improper charges of 116 million Dominican pesos.",
-    "Pension fund administrators (AFP) have paid over 1,700 million to heirs of deceased members.",
-    "It carried out 606 monitoring visits to clinics, hospitals and pharmacies."
-   ],
-   "importa": "If you are enrolled in the Dominican Social Security System, these figures show the guidance, benefit claim and health care oversight services you can request.",
-   "parrafos": [
-    "The General Directorate for Information and Defense of Social Security Members (DIDA) of the Dominican Republic reported that during 2026 it provided 1,466,207 assistance services to 380,000 people across various programs. According to the Presidency of the Republic, the institution also prevented improper charges totaling 116 million Dominican pesos during that same year.",
-    "DIDA's director general, Elías Báez, said that the Pension Fund Administrators (AFP) have paid more than 1,700 million to legal heirs of deceased members. This followed a call the institution made in September 2025 urging family members to claim the available benefits.",
-    "On social protection, DIDA has channeled more than 800 pensions to vulnerable people, helping them access benefits under the Dominican Social Security System. Through its \"La Ruta DIDA Contigo\" program, the institution reached 4,754 people in Elías Piña, Dajabón, San Pedro de Macorís, Jarabacoa, La Vega, San Francisco de Macorís and Villa Altagracia.",
-    "On education about rights, the institution carried out 1,059 training and outreach activities, reaching 20,610 people nationwide through talks, workshops and orientation sessions. More than 100 specialists were also trained in two social security diplomas offered at the Instituto Tecnológico de Santo Domingo (Intec) and the Universidad Católica Santo Domingo (UCSD).",
-    "On health services, Báez explained that the Directorate of Research and Monitoring carried out 606 monitoring visits nationwide to verify the quality and timeliness of care at clinics, hospitals, pharmacies and primary care centers. During these visits, 6,072 surveys were applied to members to learn about their experiences.",
-    "The director general said DIDA will continue its work in guidance, assistance, training and defense of members' rights."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXJWenpJaG1QNGdMZklJeHo1OUNxQ2l0Z1dtUzN0eVV2eTJYSWlYWm9ZUURPMWVmS0RxOGtTMks1cDdJOHNyMWZqN1dHV2ptajZTeWM1aUxHajVkako5Zlh3Mkh4SkdIUHE2ZUhzTzdtbDh5dy1yQVV3TkQxNVZVVEtqS3dTZGxhbUItbnI2R2VhemNpLU56cjZyMmxVXzVnUHVxZEV3c3pIcERIZHlGaENKMGF5YUFTVjlJX2RQLU9QenZf?oc=5",
-  "url": "https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/dida-ofrece-mas-de-14-millones-de-asistencias-y-evita-cobros-indebidos-por-116-millones-de"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Seguridad%20Social.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (la fuente dice \"durante el año 2026\" sin \"en 2026\" en cada cifra; se corrigió \"116 millones\" a \"116 millones de pesos\" conforme a la fuente sin añadir \"de pesos\" a \"1,700 millones\" porque la fuente no especifica moneda; se cambió \"más de 1,700 millones de pesos\" a \"más de 1,700 millones\" para no agregar información; se atribuyeron las cifras de la Presidencia; se eliminó \"a nivel nacional\" donde no aparecía en la fuente en ese contexto; se corrigió \"Dirección de Investigación y Monitoreo\" a \"Dirección de Investigación y Monitoreo\" sin cambios de nombre; se quitó \"en Santo Domingo\" de la fuente no incluida; se ajustó la inglés a la misma información).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-23T19:48:40.860735+00:00",
-  "tendencia": 1
  }
 ]
