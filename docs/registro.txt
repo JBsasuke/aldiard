@@ -1,131 +1,138 @@
-Corrida: 2026-11-24 09:47 PM (hora RD)
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigieron cifras de Cambio Extranjero, Gamelin, Caribe Express y la mejor ven
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+Corrida: 2026-11-24 10:47 PM (hora RD)
+Noticia con datos propios: Dólar hoy en RD: dónde conviene comprar y vender
 [República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3998 letras -> https://presidencia.gob.do/noticias/interior-y-policia-destruye-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana
-[República Dominicana] El Nuevo Diario: texto leído 1377 letras -> https://elnuevodiario.com.do/destruyen-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad-ciudadana/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
-Rechazada por la revisión: Interior y Policía destruye 19,613 armas incautadas en operativos de seguridad ciudadana -> cifras que no aparecen en las fuentes: 357
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/policia-cibernetica-arresta-a-tres-personas-por-estafas-electronicas-que-superan-los-rd111000/
-[República Dominicana] El Nuevo Diario: texto leído 1599 letras -> https://elnuevodiario.com.do/policia-cibernetica-arresta-a-tres-personas-por-estafas-electronicas-que-superan-los-rd110000/
-Revisión: corregida (cambié RD$111,000 por RD$110,000 en el titular y el gancho, según El Nuevo Diario; la cifra exacta RD$111,897
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/director-general-de-la-policia-nacional-participa-en-jornada-de-destruccion-de-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana/
-[República Dominicana] Infobae: texto leído 3482 letras -> https://www.infobae.com/republica-dominicana/2026/11/24/republica-dominicana-destruyo-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad/
-[República Dominicana] El Nuevo Diario: texto leído 3741 letras -> https://elnuevodiario.com.do/interior-y-policia-destruye-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana/
-Revisión: corregida (corregí "19,613" en CLAVES_EN por ",613"; quité "con este procedimiento/Con esta jornada" redundancia no; cam
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/wp-content/uploads/2026/11/Candidatos-postulantes.pdf
-No se pudo leer el artículo; no se publica para no salir corta: El Comité Electoral integrado por la Procuradora General de la República, el director de la Dirección General de Persecución
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-DO
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Buscar Proceso de Compra
-[República Dominicana] Centro de Operaciones de Emergencias | COE: texto leído 2070 letras -> https://www.coe.gob.do/
-Fuente oficial encontrada: Centro de Operaciones de Emergencias | COE 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Centro de Operaciones de Emergencias | COE - Inicio
-[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1483 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
-[República Dominicana] DGII: texto leído 303 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/instalaciones-de-plantas-solares-fotovoltaicas/6b06071c4895ae0f6e501f36
-No se pudo leer el artículo; no se publica para no salir corta: Instalaciones de plantas solares fotovoltaicas
+[República Dominicana] DGII: texto leído 923 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/quisiera-realizar-la-siguiente-consulta-en-relacin-con-el-tratamiento-del-itbis-tomando-en-consideracin-las-disposiciones-establecidas-en-la-norma-general-nm-0226/6b05f0854895ae0f6e4ea00c
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Quisiera realizar la siguiente consulta en relación con el tratamiento del ITBIS, tomando en consideración las disposiciones establecidas en la Norma General núm. 02-26
+[República Dominicana] DGII: texto leído 1450 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/efecto-de-anular-un-e47-con-retencin-de-isr-sobre-el-ir17-y-el-formato-609/6b05b84c4175d10cff1f2641
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Efecto de anular un E47 con retención de ISR sobre el IR-17 y el Formato 609
+[República Dominicana] DGII: texto leído 376 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/pago-servicios-facturados-con-ncf-electronico-de-fecha-junio/6b05efea0626c86dce5bcc38
+No se pudo leer el artículo; no se publica para no salir corta: Pago servicios facturados con NCF Electronico de fecha junio
+[República Dominicana] DGII: texto leído 1001 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/facturacin-de-e31-o-de-rgimen-especial/6b05c2413a9daeeaea92acf0
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Facturación de E31 o de Régimen especial ?
+[República Dominicana] De Último Minuto: texto leído 1559 letras -> https://deultimominuto.com/nacionales/trabajos-punta-balandra-continuan/
+Revisión: corregida (se atribuyó la entrevista y la información solo a De Último Minuto, se quitó "es considerada" para no atribui
+[República Dominicana] De Último Minuto: texto leído 2174 letras -> https://deultimominuto.com/entretenimiento/delfina-guzman-icono/
+[República Dominicana] La Tercera: texto leído 7000 letras -> https://www.latercera.com/culto/noticia/muere-a-los-98-anos-delfina-guzman-icono-del-teatro-el-cine-y-la-tv-chilena/
+Cambiada de sección: República Dominicana -> Famosos: Delfina Guzmán, ícono del cine y el teatro chileno, fallece a los 98 años
+Revisión: corregida (corregí "Muere Delfina Guzmán" en el título del borrador a "Muere Delfina Guzmán..." sin cambios; ajusté el t
+[República Dominicana] De Último Minuto: texto leído 1547 letras -> https://deultimominuto.com/entretenimiento/la-casa-de-alofoke/hector-poncelas-novio-kika-no-hijos/
+Cambiada de sección: República Dominicana -> Famosos: “No he encontrado la mujer”: Héctor Poncelas, novio de Kika, revela por qué no tiene hijos
+Revisión: corregida (en el inglés, "No he encontrado la mujer" quedó en español en TEXT_EN; se tradujo a "I haven't found the woma
+[República Dominicana] De Último Minuto: texto leído 1921 letras -> https://deultimominuto.com/internacionales/los-angeles-declara-emergencia/
+[República Dominicana] Clarin.com: texto leído 1751 letras -> https://www.clarin.com/estados-unidos/los-angeles-declara-el-estado-de-emergencia-tras-la-erupcion-de-un-geiser-de-basura_0_OVz7FH3xig.html
+Cambiada de sección: República Dominicana -> Internacionales: Los Ángeles declara el estado de emergencia tras la erupción de un géiser de basura
+Revisión: corregida (se corrigió la altura de "150 metros" en inglés, que decía "500 feet", para que coincida con las fuentes en m
 [Dominicanos en EE.UU.] U.S. Embassy in Ukraine (.gov): texto leído 2187 letras -> https://ua.usembassy.gov/security-alert-u-s-embassy-kyiv-ukraine-november-24-2026/
 [Dominicanos en EE.UU.] U.S. Embassy Jerusalem (.gov): texto leído 3349 letras -> https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-24-2026/
 [Dominicanos en EE.UU.] U.S. Embassy Doha – Qatar (.gov): texto leído 2595 letras -> https://qa.usembassy.gov/security-alert-u-s-embassy-doha-november-24-2026/
-[Dominicanos en EE.UU.] U.S. Embassy & Consulate in Greece (.gov): texto leído 2110 letras -> https://gr.usembassy.gov/security-alert-u-s-embassy-athens-november-24-2026/
-Fuente oficial encontrada: U.S. Embassy in Ukraine (.gov), U.S. Embassy Jerusalem (.gov), U.S. Embassy Doha – Qatar (.gov), U.S. Embassy & Consulate in Greece (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Kyiv, Ukraine (November 24, 2026)
+[Dominicanos en EE.UU.] https://ae.usembassy.gov/: texto leído 3261 letras -> https://ae.usembassy.gov/security-alert-u-s-mission-united-arab-emirates-november-24-2026/
+Fuente oficial encontrada: U.S. Embassy in Ukraine (.gov), U.S. Embassy Jerusalem (.gov), U.S. Embassy Doha – Qatar (.gov), https://ae.usembassy.gov/ 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Embassy Kyiv, Ukraine (November 24, 2026)
+Revisión: corregida (eliminé la atribución a "las autoridades" de Israel sobre la app FDI/Red Alert y la afirmación de que "las au
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
-Fuente no confiable, se salta: revistamercado.do
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1909 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-lunes-23-de-noviembre/
-[Dominicanos en EE.UU.] Univision: texto leído 2191 letras -> https://www.univision.com/noticias/estados-unidos/powerball-numeros-ganadores-resultados-premio-mayor-jackpot-23-noviembre-2026
-[Dominicanos en EE.UU.] Infobae: texto leído 2741 letras -> https://www.infobae.com/estados-unidos/2026/11/24/loteria-powerball-resultados-ganadores-del-23-de-noviembre-de-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Lunes 23 de noviembre
-[Dominicanos en EE.UU.] Hoy Digital: texto leído 3060 letras -> https://hoy.com.do/vivir/dona-cuatro-libros-biblioteca-nacional_1109709_amp.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dona sus cuatro libros a la Biblioteca Nacional
-Fuente no confiable, se salta: vigilanteinformativo.com
-Fuente no confiable, se salta: diarioultimahoradigital.com.ve
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: emsavalles.com
 [Dominicanos en EE.UU.] El Dia.com.do: texto leído 810 letras -> https://eldia.com.do/univision-abre-sus-pantallas-a-historias-de-dominicanos/
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 Fuente no confiable, se salta: elcaso.elnacional.cat
+Fuente no confiable, se salta: elsoldelaflorida.com
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: pressreader.com
 Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] Infobae: texto leído 3703 letras -> https://www.infobae.com/republica-dominicana/2026/11/24/inauguran-en-republica-dominicana-una-nueva-terminal-de-cruceros-con-una-inversion-privada-de-usd-90-millones/
-[Dominicanos en EE.UU.] Acento: texto leído 4747 letras -> https://acento.com.do/actualidad/abinader-inaugura-terminal-de-cruceros-en-samana-con-inversion-de-us-90-millones-9795968.html
-[Dominicanos en EE.UU.] El Nacional — La voz de todos: texto leído 1985 letras -> https://elnacional.com.do/nacionales/abinader-inaugura-puerto-cruceros-samana-inversion-90-millones-dolares_587091.html
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Inauguran en República Dominicana una nueva terminal de cruceros con una inversión privada de USD 90 millones
-Revisión: corregida (eliminé "motor económico" en la frase de Abinader? No: lo corregí a atribuirlo como declaración del mandatari
-[Internacionales] The White House (.gov): texto leído 5114 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-hails-americas-armed-forces/
+Es opinión o editorial, se salta: El Ascenso Político Dominicano en Nueva York: Un estudio sobre la incorporación política étnica urbana
+Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: revistamercado.do
+Fuente no confiable, se salta: revistamercado.do
+[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1909 letras -> https://eldia.com.do/numeros-ganadores-de-la-loteria-dominicana-del-lunes-23-de-noviembre/
+[Dominicanos en EE.UU.] Univision: texto leído 2191 letras -> https://www.univision.com/noticias/estados-unidos/powerball-numeros-ganadores-resultados-premio-mayor-jackpot-23-noviembre-2026
+[Dominicanos en EE.UU.] Infobae: texto leído 2741 letras -> https://www.infobae.com/estados-unidos/2026/11/24/loteria-powerball-resultados-ganadores-del-23-de-noviembre-de-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Números ganadores de la lotería dominicana del Lunes 23 de noviembre
+[Dominicanos en EE.UU.] Univision: texto leído 3715 letras -> https://www.univision.com/shows/primer-impacto/una-celebracion-de-cumpleanos-termina-en-luto-tras-un-atropello-mortal-en-republica-dominicana-video
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Una celebración de cumpleaños termina en luto tras un atropello mortal en República Dominicana
+Revisión: corregida (eliminé "a las familias describen con dolor" como frase redundante; corregí "dos amigos y Edward" a la descri
+[Internacionales] The White House (.gov): texto leído 3314 letras -> https://www.whitehouse.gov/videos/god-bless-the-victims-of-these-evil-monsters-you-will-never-be-forgotten/
 Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (eliminé "Mrs. Trump" intercalado en el texto español y lo cambié por "la primera dama"; corregí "Ejército" po
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Internacionales] U.S. Department of State (.gov): texto leído 2088 letras -> https://www.state.gov/gunnbenita-republicofburundinovember2026
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Gunn, Benita – Republic of Burundi – November 2026
+[Internacionales] County of Ventura (.gov): texto leído 2843 letras -> https://news.venturacounty.gov/en/ventura-county-board-of-supervisors-approves-simi-valley-library-and-animal-shelter-property-transfers/
+Fuente oficial encontrada: County of Ventura (.gov) 
+Cambiada de sección: Internacionales -> República Dominicana: Ventura County Board of Supervisors approves Simi Valley library and animal shelter property transfers
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí la descripción del traspaso del refugio: el condado no era dueño sino arre
+Revisión: corregida (corregí la descripción del traspaso del refugio: el condado no era dueño sino arrendatario, y el terreno pasó
 [Famosos] El Dia.com.do: texto leído 2900 letras -> https://eldia.com.do/a-23-anos-de-amelia-vega-las-dominicanas-que-han-estado-cerca-de-conquistar-la-segunda-corona-de-miss-universo/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): A 23 años de Amelia Vega: Las dominicanas que han estado cerca de conquistar la segunda corona de Miss Universo
-[Famosos] CDN: texto leído 1547 letras -> https://cdn.com.do/entretenimiento/alleh-encabezara-la-fiesta-de-ano-nuevo-2027-en-playa-juanillo/
-[Famosos] Diario Libre: texto leído 2298 letras -> https://www.diariolibre.com/revista/musica/2026/11/24/alleh-encabezara-fiesta-para-recibir-el-2027-en-playa-juanillo/3730425
-[Famosos] Noticias SIN: texto leído 2571 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/alleh-encabezara-golden-eve-en-playa-juanillo-para-recibir-2027-2176166/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (ajusté "Año Nuevo" en CLAVES/TÍTULO para mantener el nombre del evento; cambié "es
-Revisión: corregida (ajusté "Año Nuevo" en CLAVES/TÍTULO para mantener el nombre del evento; cambié "estrella" por "protagonista" 
-[Famosos] CDN: texto leído 1767 letras -> https://cdn.com.do/entretenimiento/alejandra-trujillo-estrena-atrincherados-podcast/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Alejandra Trujillo estrena Atrincherados Podcast, un espacio de entrevistas sin filtros
-[Famosos] CDN: texto leído 1871 letras -> https://cdn.com.do/entretenimiento/luigynic-se-consolida-como-voz-oficial-y-patrocinador-de-premios-triunfo-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): LuigyNic se consolida como voz oficial y patrocinador de Premios Triunfo 2026
+[Famosos] El Nuevo Diario: texto leído 0 letras -> sin enlace
+[Famosos] Ensegundos.do: texto leído 1783 letras -> https://ensegundos.do/2026/11/24/miss-universo-2026-melissa-nunez-busca-la-segunda-corona-para-rd/
+Cambiada de sección: Famosos -> Internacionales: A 23 años de Amelia Vega: Las dominicanas que han estado cerca de conquistar la segunda corona de Miss Universo
+Revisión: corregida (se cambió "Melissa Núñez" a "Melissa Núñez Alevante" en el titular y gancho para coincidir con el nombre comp
+[Famosos] Diario Libre: texto leído 3132 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/24/recomendacion-del-consulado-sobre-pasaporte-electronico-dominicano/3730327
+[Famosos] AlMomento.net: texto leído 2264 letras -> https://almomento.net/espana-recomienda-pasaporte-electronico-rd-solicitar-visado/
+[Famosos] Z Digital: texto leído 2640 letras -> https://z101digital.com/espana-recomienda-a-dominicanos-usar-el-nuevo-pasaporte-electronico-para-solicitar-visas/
+Cambiada de sección: Famosos -> República Dominicana: ¿Por qué España recomienda a dominicanos solicitar visado con el nuevo pasaporte electrónico?
+Revisión: corregida (ajusté "pasaporte biométrico" a "pasaporte electrónico" en la cita del Consulado para coincidir con la fuente
+[Famosos] CDN: texto leído 5518 letras -> https://cdn.com.do/internacionales/ciberataque-a-la-cia-y-odni-compromete-datos-no-clasificados/
+Cambiada de sección: Famosos -> Internacionales: Ciberataque afecta información no clasificada de la CIA y otras agencias de inteligencia de EE. UU.
+Revisión: corregida (eliminé "según la información disponible" y "supuesto" donde añadían imprecisión innecesaria, atribuí al NYT 
 Fuente no confiable, se salta: arecoa.com
 [Famosos] Noticias SIN: texto leído 4608 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/casa-de-teatro-hara-jornada-solidaria-por-ninos-cubanos-con-cancer-2176027/?amp=1
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Casa de Teatro acogerá jornada artística para apoyar a niños con cáncer en Cuba
-[Famosos] Noticias SIN: texto leído 3585 letras -> https://noticiassin.com/videos/noticias-sin-y-mucho-mas/2026/11/25/levis-la-dulzura-vende-empanadas-y-lucha-por-ser-bachatero-2176438/?amp=1
-Revisión: corregida (quité "Entre empanadas y bachata" → mantuve; ajusté "sostener a su familia" en el texto donde la fuente dice 
-Video de YouTube agregado: De las empanadas a la bachata, la lucha de Levis La Dulzura
-[Deportes] MLB.com: texto leído 330 letras -> https://www.mlb.com/es/video/hendry-mendez-empata-el-juego-con-jonron
-No se pudo leer el artículo; no se publica para no salir corta: Hendry Méndez empata el juego con jonrón
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-estrellas/2026/11/25/851522/preview
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Estrellas, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 1344 letras -> https://www.mlb.com/es/news/kris-bubic-contrato-guardianes
-Revisión: corregida (cambié "Los Guardianes" por "Guardianes" en el título, quité la frase "lo cual" no aparecía; ajusté la atribu
-[Deportes] MLB.com: texto leído 304 letras -> https://www.mlb.com/video/lidom-live-estrellas-vs-licey-251504
-No se pudo leer el artículo; no se publica para no salir corta: LIVE: Estrellas Orientales @ Tigres del Licey | 11/24/2026
-[Deportes] MLB.com: texto leído 994 letras -> https://www.mlb.com/es/amp/news/el-mercado-de-abridores-se-acelera-y-michael-king-seria-el-proximo-en-firmar-informe.html
-Revisión: corregida (quité "Según MLB.com" repetido en el texto para evitar redundancia, cambié "lanzador observa de cerca" por "e
+[Famosos] Listín Diario: texto leído 5749 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo completar esta tarea tal como está planteada. El mensaje incluye una sola versión (Listín Diario) y está cortado al final, por lo que no hay suficiente material para redactar ')
+Fuente no confiable, se salta: cibercuba.com
+Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: prensa-latina.cu
+[Famosos] De Último Minuto: texto leído 2626 letras -> https://deultimominuto.com/entretenimiento/la-casa-de-alofoke/alofoke-donara-apartamento-diddy/
+Revisión: corregida (se corrigió "regalará" por "obsequiará" según la fuente; se quitó la frase "tras resultar herido" que la fuen
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/leones-vs-aguilas/2026/11/24/851552/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Leones 1, Aguilas 3 Resultado Final (24/11/2026)
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872045/final/box
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Mayaguez vs. San Juan, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872046/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina 8, Ponce 2 Resultado Final (24/11/2026)
+[Deportes] MLB.com: texto leído 2881 letras -> https://www.mlb.com/news/tyrone-taylor-white-sox-free-agent-contract
+Revisión: corregida (eliminé "Coming off de" en inglés del texto español y corregí el paso al español, quité "lideró una mejora im
+[Deportes] MLB.com: texto leído 6785 letras -> https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-24
+Revisión: corregida (Sato: la fuente dice que los Cubs "acordaron" con él, no que lo "firmaron" ya confirmado por contrato oficial
 Fuente no confiable, se salta: bloomberglinea.com
 [Precios y combustibles] AlMomento.net: texto leído 2285 letras -> https://almomento.net/gobierno-distribuira-rd4130-millones-en-bonos-navidenos/
 [Precios y combustibles] Hoy Digital: texto leído 3776 letras -> https://hoy.com.do/el-pais/gobierno-inicia-29-entrega-bonos-navidenos_1109665.html
 Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno distribuirá RD$4,130 millones en bonos navideños
-Rechazada por la revisión: Gobierno distribuirá RD$4,130 millones en bonos navideños -> cifras que no aparecen en las fuentes: 27, 88
+Rechazada por la revisión: Gobierno distribuirá RD$4,130 millones en bonos navideños -> cifras que no aparecen en las fuentes: 27
 [Precios y combustibles] El Dia.com.do: texto leído 2994 letras -> https://eldia.com.do/mas-de-2-7-millones-de-beneficiarios-recibiran-el-bono-navideno-rd1500/
 Cambiada de sección: Precios y combustibles -> República Dominicana: Más de 2.7 millones de beneficiarios recibirán el bono navideño RD$1,500
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí ",433,781" a "1,433,781" en CLAVES y en la versión inglesa; quité "y otros
 Rechazada por la revisión: Más de 2.7 millones de beneficiarios recibirán el bono navideño RD$1,500 -> cifras que no aparecen en las fuentes: 433781
-[Precios y combustibles] De Último Minuto: texto leído 4860 letras -> https://deultimominuto.com/economia/gobierno-descarta-nueva-reforma/
-[Precios y combustibles] AlMomento.net: texto leído 2280 letras -> https://almomento.net/magin-diaz-descarta-nueva-reforma-fiscal-para-2027-en-rd/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno descarta toda posibilidad de una nueva reforma fiscal
-Revisión: corregida (eliminé la atribución a "declaraciones a periodistas" sobre el FMI que no está explícita en la fuente de Últi
-[Videojuegos] Nintendo: texto leído 1698 letras -> https://www.nintendo.com/us/whatsnew/mario-kart-world-update-adds-eight-courses-and-more/
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (ajustes de redacción: eliminé "Nintendo anunció el lanzamiento", "La principal incorporación" y "Para más det
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: reddenoticias.online
+Fuente no confiable, se salta: remolacha.net
+[Precios y combustibles] Acento: texto leído 3447 letras -> https://acento.com.do/actualidad/la-mayoria-de-lectores-de-acento-rechaza-reduccion-de-subsidios-a-combustibles-y-electricidad-9795909.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): La mayoría de lectores de Acento rechaza reducción de subsidios a combustibles y electricidad
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
-[Videojuegos] Nintendo: texto leído 335 letras -> https://www.nintendo.com/us/store/products/s-n-i-p-e-r-hunter-scope-supremacy-edition-switch/dlc/
-No se pudo leer el artículo; no se publica para no salir corta: S.N.I.P.E.R. - Hunter Scope Supremacy Edition
 [Videojuegos] Nintendo: texto leído 2416 letras -> https://www.nintendo.com/us/store/products/little-genius-spot-the-difference-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
 [Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
+[Videojuegos] Pokemon.com: texto leído 916 letras -> https://www.pokemon.com/us/news/regulation-set-m-d-is-coming-to-pokemon-champions
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Regulation Set M‑D Is Coming to Pokémon Champions
 [Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Snag a Snom Ornament as a Gift with Purchase from Pokémon Center
-[Videojuegos] Pokemon.com: texto leído 589 letras -> https://www.pokemon.com/us/news/catch-pikachu-and-eevee-in-the-100th-macys-thanksgiving-day-parade
-Fuente oficial encontrada: Pokemon.com 
-Revisión: corregida (eliminé "Para los dominicanos... tradición familiar" de IMPORTA/WHY por no estar en las fuentes; ajusté "Para
 [Videojuegos] Pokemon.com: texto leído 541 letras -> https://community.pokemon.com/en-us/discussion/27038/free-pokemon-go-x-duolingo-code
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
@@ -135,9 +142,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Guess the poke
 [Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
-[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
+[Videojuegos] Nintendo: texto leído 2871 letras -> https://www.nintendo.com/es-cl/store/products/rayman-legends-retold-deluxe-edition-switch-2/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Rayman Legends Retold Deluxe Edition
 [Videojuegos] Nintendo: texto leído 1473 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Barbie-Rewind-Superstar-Pack-3248326.html
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Superstar Pack
@@ -147,11 +154,11 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de Obj
 [Videojuegos] Nintendo: texto leído 1920 letras -> https://www.nintendo.com/es-ar/whatsnew/disfruta-la-quincuagesima-octava-copa-maximus-y-podrias-obtener-un-tema-colaborativo-para-tu-juego/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Disfruta la quincuagésima octava COPA MAXIMUS y podrías obtener un tema colaborativo para tu juego!
-Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 3.
+Instagram: 27 usadas en 24 horas, quedan 15; esta corrida sube hasta 3.
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-17 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 58 · ya cubiertas: 22 · no confiables: 12 · opinión: 0 · con texto leído: 51 · sin texto: 8 · medios juntados: 8 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 4 · con video: 1 · con foto oficial: 3 · error IA: 1 · descartadas por la IA: 22 · cambiadas de sección: 4 · largas: 11 · ocultas (cortas): 6
-Para Instagram (tendencia 3): Samaná estrena terminal de cruceros con inversión de US$90 millones
-Para Instagram (tendencia 3): Destruyen 19,613 armas incautadas en operativos de seguridad en RD
-Para Instagram (tendencia 3): Banreservas financia US$44.4 millones para el puerto de cruceros Port Samaná
+18 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 108 · ya cubiertas: 29 · no confiables: 21 · opinión: 1 · con texto leído: 50 · sin texto: 5 · medios juntados: 9 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 13 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 20 · cambiadas de sección: 11 · largas: 13 · ocultas (cortas): 4
+Para Instagram (tendencia 4): Embajadas de EE.UU. emiten alertas de seguridad por tensiones en Medio Oriente y Ucrania
+Para Instagram (tendencia 3): España recomienda a dominicanos usar el nuevo pasaporte electrónico para pedir visado
+Para Instagram (tendencia 3): Melissa Núñez busca la segunda corona de Miss Universo para República Dominicana
