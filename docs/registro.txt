@@ -1,104 +1,112 @@
-Corrida: 2026-11-25 03:24 PM (hora RD)
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
+Corrida: 2026-11-25 04:47 PM (hora RD)
+[República Dominicana] Presidencia de la República Dominicana: texto leído 3818 letras -> https://presidencia.gob.do/noticias/gobierno-realiza-taller-para-abogados-sobre-empresa-en-24-horas
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] msp.gob.do: texto leído 3932 letras -> https://msp.gob.do/web/?p=20627
-Fuente oficial encontrada: msp.gob.do 
-Revisión: corregida (se cambió "Ministerio de Salud Pública" por "Ministerio de Salud" según la fuente; se atribuyó a la OPS/OMS l
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dat
-[República Dominicana] datos.gov.do: texto leído 6106 letras -> https://datos.gov.do/organization/activity/eco5rd?offset=0
-Fuente oficial encontrada: datos.gov.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Unidad Ejecutora ECO5RD (ECO5RD)
+Revisión: corregida (se corrigió el "12 horas" del gancho y la clave en inglés/español donde decía "promedio de 12 horas" sin ajus
+[República Dominicana] superate.gob.do: texto leído 4118 letras -> https://www.superate.gob.do/preguntas-frecuentes-bono-navideno-superate-2026/
+Fuente oficial encontrada: superate.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Preguntas frecuentes – Bono Navideño Supérate 2026 - DDSS
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
+[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-DO
+Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Buscar Proceso de Compra
 [República Dominicana] DGII: texto leído 924 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/quisiera-realizar-la-siguiente-consulta-en-relacin-con-el-tratamiento-del-itbis-tomando-en-consideracin-las-disposiciones-establecidas-en-la-norma-general-nm-0226/6b05f0854895ae0f6e4ea00c
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Quisiera realizar la siguiente consulta en relación con el tratamiento del ITBIS, tomando en consideración las disposiciones establecidas en la Norma General núm. 02-26
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dat
-[República Dominicana] datos.gov.do: texto leído 5734 letras -> https://datos.gov.do/organization/activity/cuerpo-especializado-para-la-seguridad-del-metro-cesmet?offset=0
-Fuente oficial encontrada: datos.gov.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Cuerpo Especializado para la Seguridad del Metro (CESMET)
-[República Dominicana] DGII: texto leído 1145 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/tasa-de-cambio-aplicable-a-facturas-electrnicas-en-dlares/6b05e7653a9daeeaea9604a0
+[República Dominicana] DGII: texto leído 319 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/reporte-de-facturas-ante-la-dgii/6b0720743a9daeeaeab216da
+No se pudo leer el artículo; no se publica para no salir corta: Reporte de facturas ante la dgii
+[República Dominicana] DGII: texto leído 942 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-de-deuda-en-dgii/6b06fb574175d10cff3c2129
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Tasa de cambio aplicable a facturas electrónicas en dólares
-[República Dominicana] De Último Minuto: texto leído 4195 letras -> https://deultimominuto.com/nacionales/las-terrenas-en-riesgo-de-colapso/
-Revisión: corregida (se quitó "Advierten" del título? no; se ajustó "Advierten" a "Alerta" no fue necesario; se corrigió la atribu
-Video de YouTube agregado: LAS TERRENAS EN PELIGRO: ¿VIENE UN APAGÓN MASIVO?
-[República Dominicana] De Último Minuto: texto leído 1978 letras -> https://deultimominuto.com/nacionales/seis-estudiantes-de-azua-reciben/
-Revisión: corregida (se eliminaron frases de relleno y se ajustó la atribución de "de la Regional 03" a "de la Dirección Regional 
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-[Dominicanos en EE.UU.] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es&Country=DO&Theme=DGCP&Page=Login
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo escribir esta noticia. El único material que me pasaste es un listado de procesos de compra publicado por la Dirección General de Contrataciones Públicas, es decir, una tabla de li')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación de deuda en DGII
+[República Dominicana] DGII: texto leído 2165 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retenciones-en-facturacion-electronica-personas-fisicas/6b06e9d94175d10cff3a3d5c
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): RETENCIONES EN FACTURACION ELECTRONICA PERSONAS FISICAS
+[República Dominicana] De Último Minuto: texto leído 3083 letras -> https://deultimominuto.com/deportes/futbol/el-delantero-celebro-cuarto-aniversario-junto-a-los-amantes-del-futbol/
+[República Dominicana] El Nuevo Diario: texto leído 2714 letras -> https://elnuevodiario.com.do/el-delantero-celebro-cuarto-aniversario-junto-a-los-amantes-del-futbol/
+Cambiada de sección: República Dominicana -> Deportes: “El Delantero” celebró cuarto aniversario junto a los amantes del fútbol
+Revisión: corregida (se quitó "Mundial" de la cobertura de la Copa 2026 sin error de fuente; se corrigió el título y gancho para n
+[República Dominicana] De Último Minuto: texto leído 2988 letras -> https://deultimominuto.com/internacionales/el-jefe-de-la-otan-afirma/
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[República Dominicana] El Nuevo Herald: texto leído 0 letras -> https://amp.elnuevoherald.com/noticias/estados-unidos/article318254367.html
+Cambiada de sección: República Dominicana -> Internacionales: El jefe de la OTAN afirma que Trump estaba «probando» a Putin al llamarlo su «amigo» en China
+Revisión: corregida (quité frases de relleno y ajusté la redacción del texto en español e inglés; los hechos, cifras, nombres y fe
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1082 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Secretary Rubio’s Call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud
+Revisión: corregida (ajusté "Bab al-Mandeb" a "Bab al-Mandeb" sin cambios de fondo; cambié "Hizbulá" a "Hezbolá" en el texto para 
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
 Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que tengo es una página del Registro Federal de EE.UU. (FederalRegister.gov) con el borrador de CMS para el año contractual 2028 de Med')
+[Dominicanos en EE.UU.] El Universo: texto leído 1472 letras -> https://www.eluniverso.com/entretenimiento/musica/jombriel-es-seleccionado-por-los-latin-grammy-para-presentar-su-historia-y-musica-en-miami-nota/
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Jombriel es seleccionado por los Latin GRAMMY para presentar su historia y música en Miami
+Revisión: corregida (se ajustó el título y el gancho para que coincidan con la fuente ("para presentar su historia y música en Mia
+Fuente no confiable, se salta: asturiasmundial.com
+Fuente no confiable, se salta: revistamercado.do
 [Dominicanos en EE.UU.] El Universo: texto leído 895 letras -> https://www.eluniverso.com/entretenimiento/gente/gisselle-rosales-gana-el-mejor-traje-nacional-en-miss-internacional-2026-con-una-creacion-de-paja-toquilla-nota/
-No encaja en ninguna sección, se salta: La ecuatoriana Gisselle Rosales gana por mejor traje nacional en Miss Internacional 2026 con una creación de paja toquilla
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: La ecuatoriana Gisselle Rosales gana por mejor traje nacional en Miss Internacional 2026 con una creación de paja toquilla
+Revisión: aprobada
+[Dominicanos en EE.UU.] El Universo: texto leído 1365 letras -> https://www.eluniverso.com/entretenimiento/cine-y-television/mara-topic-rumbo-a-tailandia-a-competir-por-ecuador-en-miss-grand-international-all-stars-nota/
+Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Mara Topic, rumbo a Tailandia, a competir por Ecuador en Miss Grand International All Stars
+Revisión: corregida (se corrigió "fue a Miss Universo 2024" a la versión de la fuente sobre el top 30; se ajustó "el jueves 26" y 
 Fuente no confiable, se salta: revistamercado.do
-[Dominicanos en EE.UU.] El Universo: texto leído 4041 letras -> https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-lista-completa-de-candidatas-de-los-116-paises-y-territorios-participantes-nota/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Miss Universo 2026: lista completa de candidatas de los 116 países y territorios participantes
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: diarioeco.com.do
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: 21noticias.com
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 1905 letras -> https://eldia.com.do/resultados-de-la-loteria-martes-24-de-noviembre-de-2026/
-[Dominicanos en EE.UU.] Univision: texto leído 2995 letras -> https://www.univision.com/noticias/estados-unidos/mega-millions-numeros-ganadores-resultados-premio-mayor-sorteo-24-noviembre-2026
-[Dominicanos en EE.UU.] MILENIO: texto leído 0 letras -> sin enlace
-Error IA: ValueError('respuesta sin el formato esperado: Esta fuente contiene únicamente tablas de resultados de loterías, una nota sobre el premio de Mega Millions y un fragmento de titular de México. No hay una noticia única verificable que yo pueda redac')
-Fuente no confiable, se salta: mensajero.com.ar
-Fuente no confiable, se salta: revistamercado.do
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 3065 letras -> https://elnuevodiario.com.do/serie-dominicana-la-familia-espejo-gana-premio-view-especial-y-suma-nominacion-internacional/
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Serie dominicana “La Familia Espejo” gana premio View Especial y suma nominación internacional
-Revisión: corregida (ajusté el nombre del premio a "View Especial" y el texto en inglés para que coincida; separé la atribución de
+Fuente no confiable, se salta: ultimasnoticias.com.do
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2934 letras -> https://elnuevodiario.com.do/abogada-dominicana-radicada-en-madid-dona-sus-cuatro-libros-a-la-biblioteca-nacional/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogada dominicana radicada en Madid dona sus cuatro libros a la Biblioteca Nacional
+[Internacionales] The White House (.gov): texto leído 811 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1550-h-r-4930-and-h-r-8552-signed-into-law/
+Fuente oficial encontrada: The White House (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Congressional Bills H.R. 1550, H.R. 4930, and H.R. 8552 Signed into Law
 [Internacionales] The White House (.gov): texto leído 3314 letras -> https://www.whitehouse.gov/videos/god-bless-the-victims-of-these-evil-monsters-you-will-never-be-forgotten/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Internacionales] U.S. Department of State (.gov): texto leído 1082 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Secretary Rubio’s Call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud
-[Internacionales] U.S. Department of State (.gov): texto leído 7000 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-eighth-united-states-qatar-strategic-dialogue-an-enduring-strategic-partnership
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-Revisión: corregida (se ajustó "canciller" a "ministro de Asuntos Exteriores" en la versión en español para igualar el inglés; se 
+[Internacionales] US Embassy Online Auction (.gov): texto leído 2773 letras -> https://online-auction.state.gov/
+Fuente oficial encontrada: US Embassy Online Auction (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Online Auction Home Page
+[Famosos] CDN: texto leído 2285 letras -> https://cdn.com.do/internacionales/incendio-en-fabrica-de-confiteria-en-indonesia-deja-26-muertos/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] ABC: texto leído 0 letras -> https://www.abc.es/espana/aumentan-muertos-incendio-fabrica-confiteria-indonesia-20261125142157-nt.html
+Cambiada de sección: Famosos -> Internacionales: Ya son 26 los muertos por incendio de una fábrica de confitería en Indonesia
+Revisión: corregida (el borrador mezcla dos sucesos: en el texto aparecía el 'incendio' y 'quinto día de operaciones' correctament
 Fuente no confiable, se salta: prensa-latina.cu
-[Famosos] N Digital: texto leído 1623 letras -> https://n.com.do/2026/11/25/amelia-vega-felicita-a-melissa-nunez-estamos-muy-orgullosos-de-ti/
-Revisión: corregida (se cambió "Miss Universo" por "Miss Universo 2026" en el primer párrafo para alinearlo con las fuentes; se co
-Fuente no confiable, se salta: tecnologiageek.com
+[Famosos] El Dia.com.do: texto leído 2841 letras -> https://eldia.com.do/especialista-alerta-sobre-las-graves-secuelas-de-la-violencia-psicologica-en-la-salud-mental-de-la-mujer/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Especialista alerta sobre las graves secuelas de la violencia psicológica en la salud mental de la mujer
 Fuente no confiable, se salta: cuballama.com
 Fuente no confiable, se salta: cibercuba.com
-[Famosos] Listín Diario: texto leído 5749 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí el título, que tenía comilla de cierre faltante y estaba cortado en el ES;
-Rechazada por la revisión: Estos son los participantes de "La casa de Alofoke 3" -> cifras que no aparecen en las fuentes: 100000, 200000
+[Famosos] Listín Diario: texto leído 5770 letras -> https://listindiario.com/entretenimiento/farandula/20261124/son-participantes-casa-alofoke-3_931405.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Estos son los participantes de "La casa de Alofoke 3"
 Fuente no confiable, se salta: cuballama.com
 [Famosos] Hoy Digital: texto leído 1452 letras -> https://hoy.com.do/vivir/alegria/isaura-taveras-gana-premio-alfombra-casa-alofoke_1109784.html
 Rechazada por la revisión: Isaura Taveras gana premio de la alfombra de La Casa de Alofoke -> cifras que no aparecen en las fuentes: 100000, 200000
-[Famosos] CDN: texto leído 3773 letras -> https://cdn.com.do/internacionales/msf-atendio-a-5-635-supervivientes-de-violencia-sexual-en-haiti/
-Cambiada de sección: Famosos -> Internacionales: MSF atendió a 5.635 supervivientes de violencia sexual en Haití entre enero y octubre
-Revisión: corregida (título: "más de 5.600" → "5.635"; "sobrevivientes" → "supervivientes" en el texto de la fuente; se cambió "el
-Fuente no confiable, se salta: prensa-latina.cu
-[Famosos] CDN: texto leído 4027 letras -> https://cdn.com.do/en-desarrollo/el-rey-guevara-regresa-con-asi-hoy-junto-a-breyco/
-Revisión: corregida (eliminé "de la nada" del inglés que traducía mal; corregí "Así Hoy" lanzado "con el respaldo" sin cambiar hec
+Fuente no confiable, se salta: urbanstreet.com.pe
+Fuente no confiable, se salta: tecnologiageek.com
+[Famosos] CDN: texto leído 2111 letras -> https://cdn.com.do/estilos-de-vida/tecnologia/whatsapp-programa-mensajes-y-anade-stickers-con-audio/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] EL PAÍS Uruguay: texto leído 0 letras -> https://www.elpais.com.uy/vida-actual/tecnologia/como-activar-los-stickers-con-audio-en-whatsapp-pasos-limites-y-versiones-de-prueba
+No encaja en ninguna sección, se salta: WhatsApp permite programar el envío de mensajes y añade stickers con audio
+[Famosos] Hoy Digital: texto leído 2431 letras -> https://hoy.com.do/vivir/alegria/musica/lomiiel-lleva-dembow-dominicano-banda-sonora-grand-theft-auto-vi_1109886.html
+Revisión: corregida (eliminé la fecha "Este año" sin respaldo en las fuentes, quité la afirmación de que el artista habló "al medi
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851522?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Tigres del Licey vs Estrellas Orientales
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851544?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Gigantes del Cibao vs Aguilas Cibaenas
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851482?ins=previa&sec=boxscore
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/video/lidom-live-escogido-vs-aguilas-251503
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Aguilas Cibaenas vs Leones del Escogido
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851425?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Leones del Escogido vs Toros del Este
 [Deportes] MLB.com: texto leído 2209 letras -> https://www.mlb.com/es/video/david-aardsma-reflects-on-mlb-career
 La IA la descartó (no es noticia, rumor, opinión o publicidad): David Aardsma reflects on MLB career
-[Deportes] MLB.com: texto leído 2208 letras -> https://www.mlb.com/es/video/giants-hardest-hits-of-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Giants' Hardest Hits of 2026
-[Deportes] MLB.com: texto leído 2204 letras -> https://www.mlb.com/es/video/orioles-hardest-hits-of-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Orioles' Hardest Hits of 2026
-[Deportes] MLB.com: texto leído 6003 letras -> https://www.mlb.com/news/best-players-in-mlb-25-and-under-heading-into-2027
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Let's build a lineup of MLB's best 25-and-under stars
-[Deportes] NBA.com: texto leído 811 letras -> https://www.nba.com/news/nba-players-week-jokic-davis-week-5
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Jokić, Davis named NBA Players of the Week
-[Deportes] NBA.com: texto leído 2914 letras -> https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe
-Rechazada por la revisión: NBA announces €10B plan to develop European arenas -> cifras que no aparecen en las fuentes: 10000, 24000
-[Precios y combustibles] Noticias SIN: texto leído 3214 letras -> https://noticiassin.com/mundo/america/2026/11/25/peru-preve-bonos-de-240-soles-por-danos-de-el-nino-2176759/?amp=1
-Cambiada de sección: Precios y combustibles -> Internacionales: El Gobierno de Perú prevé entregar bonos de setenta dólares a damnificados por El Niño
-Rechazada por la revisión: El Gobierno de Perú prevé entregar bonos de setenta dólares a damnificados por El Niño -> cifras que no aparecen en las fuentes: 52
-Fuente no confiable, se salta: lacalle.com.ve
-Fuente no confiable, se salta: rccnoticias.com.do
-Fuente no confiable, se salta: eluniversaldigital.net
-[Precios y combustibles] CDN: texto leído 5101 letras -> https://cdn.com.do/nacionales/riesgo-legal-de-aceptar-dinero-sin-verificar-su-origen/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogado cuestiona manejo de autoridades en caso Melisa Martínez
-[Precios y combustibles] Infobae: texto leído 3676 letras -> https://www.infobae.com/noticias/2026/11/25/precio-del-euro-hoy-en-republica-dominicana-cotizacion-de-apertura-del-25-de-noviembre/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en República Dominicana: cotización de apertura del 25 de noviembre
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851550/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Aguilas, lanzadores probables, alineaciones, y más
+[Precios y combustibles] Banco Central de la República Dominicana: texto leído 1557 letras -> https://www.bancentral.gov.do/a/d/6726-bcrd-realiza-ceremonia-del-encendido-de-su-arbol-y-belen-navidenos
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/dinero/bcrd-realiza-ceremonia-del-encendido-de-su-arbol-y-belen-navidenos/
+Fuente oficial encontrada: Banco Central de la República Dominicana 
+Cambiada de sección: Precios y combustibles -> República Dominicana: BCRD realiza ceremonia del encendido de su árbol y Belén navideños
+Revisión: aprobada
+Salió corta (2 párrafos, 56 palabras, 1557 letras leídas); se oculta: BCRD realiza ceremonia del encendido de su árbol y Belén navideños
+[Precios y combustibles] Hoy Digital: texto leído 1306 letras -> https://hoy.com.do/el-pais/almuerzo-corripio/consumo-combustibles-rd-disparo-pese-fuerte-alza-internacional-revela-refidomsa_1109894.html
+Revisión: corregida (quité "en entrevista con Hoy Digital" por no figurar como dato de la fuente de forma verificable en el borrad
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
@@ -108,15 +116,12 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th 
 [Videojuegos] Nintendo: texto leído 2461 letras -> https://www.nintendo.com/us/store/products/cheerleaders-girls-naughty-school-spirit-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cheerleaders Girls: Naughty School Spirit
-[Videojuegos] Pokemon.com: texto leído 591 letras -> https://community.pokemon.com/en-us/discussion/27038/free-pokemon-go-x-duolingo-code
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
 [Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Guess the pokemon by its cry!
 [Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste no es una noticia. Es un foro de la comunidad de Pokémon.com donde un usuario, "Hades0918", pide que la gente describa su estado de ánimo usando Pokémon y perso')
 [Videojuegos] Pokemon.com: texto leído 1950 letras -> https://community.pokemon.com/en-us/discussion/27045/greatest-pokemon-game-idea-ever-pokemon-travel-the-world
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Greatest Pokemon Game Idea Ever! Pokemon: Travel the World
@@ -134,15 +139,15 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Zumba - Christmas Marble Saga
 [Videojuegos] Nintendo: texto leído 2029 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-australia-weapon-map-and-bgm-pack-70050000085324-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - "Australia" Weapon, Map & BGM Pack
+Revisión: corregida (el borrador dice "siete mapas" pero la lista oficial tiene siete más uno, ocho en total; se corrige a "siete 
 [Videojuegos] Nintendo: texto leído 1868 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-weapon-catalog-2-and-soundtrack-pack-70050000085320-switch-2/
 [Videojuegos] Nintendo: texto leído 1953 letras -> https://ec.nintendo.com/AU/en/aocs/70050000085034
 Fuente oficial encontrada: Nintendo, Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Weapon Catalog 2 & Soundtrack Pack
-Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 2.
+Instagram: 32 usadas en 24 horas, quedan 10; esta corrida sube hasta 2.
 Marcadores: 26 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 94 · ya cubiertas: 36 · no confiables: 17 · opinión: 0 · con texto leído: 46 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 5 · con video: 1 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 28 · cambiadas de sección: 3 · largas: 8 · ocultas (cortas): 0
-Para Instagram (tendencia 5): Melissa Núñez es primera finalista de Miss Universo 2026
-Para Instagram (tendencia 5): Melissa Núñez se ilusiona a horas de Miss Universo 2026 y pide que el país vaya con ella
+18 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 68 · ya cubiertas: 33 · no confiables: 11 · opinión: 0 · con texto leído: 40 · sin texto: 11 · medios juntados: 3 · con fuente oficial: 24 · aprobadas por la revisión: 2 · corregidas por la revisión: 10 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 3 · error IA: 3 · descartadas por la IA: 22 · cambiadas de sección: 8 · largas: 11 · ocultas (cortas): 7
+Para Instagram (tendencia 3): Miss Universo 2026: estas son las 30 semifinalistas que avanzan a la siguiente ronda
+Para Instagram (tendencia 3): Romeo Santos y Prince Royce cerrarán su gira "Mejor Tarde Que Nunca" en el Estadio Cibao
