@@ -1,151 +1,34 @@
-Corrida: 2026-11-24 07:30 PM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 5800')
-[República Dominicana] Presidencia de la República Dominicana: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Ministerio de Salud impacta a más de 2,600 personas durante operativo médico en María Trinidad Sánchez
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3998 letras -> https://presidencia.gob.do/noticias/interior-y-policia-destruye-19613-armas-incautadas-en-operativos-de-seguridad-ciudadana
-[República Dominicana] El Nuevo Diario: texto leído 1377 letras -> https://elnuevodiario.com.do/destruyen-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad-ciudadana/
-[República Dominicana] Infobae: texto leído 3482 letras -> https://www.infobae.com/republica-dominicana/2026/11/24/republica-dominicana-destruyo-mas-de-19-mil-armas-incautadas-en-operativos-de-seguridad/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Infobae
-Rechazada por la revisión: Interior y Policía destruye 19,613 armas incautadas en operativos de seguridad ciudadana -> cifras que no aparecen en las fuentes: 20000
-[República Dominicana] Presidencia de la República Dominicana: texto leído 4091 letras -> https://presidencia.gob.do/noticias/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028 -> cifras que no aparecen en las fuentes: 501
-[República Dominicana] catalogo.ideice.gob.do: texto leído 1066 letras -> https://catalogo.ideice.gob.do/cgi-bin/koha/opac-detail.pl?biblionumber=14598
-Fuente oficial encontrada: catalogo.ideice.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Details for: Estrategias didácticas para la enseñanza de la competencia resolución de problemas con operaciones algebraicas para los estudiantes del tercer grado de secundaria del Liceo Fabio Fiallo, distrito educativo 05-07, del municipio San José de los
-[República Dominicana] cultura.gob.do: texto leído 2051 letras -> https://cultura.gob.do/noticias/ministerio-de-cultura-y-ministerio-de-energia-y-minas-conmemoran-el-dia-nacional-del-larimar/
-Fuente oficial encontrada: cultura.gob.do 
+Corrida: 2026-11-24 08:48 PM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+[República Dominicana] De Último Minuto: texto leído 2621 letras -> https://deultimominuto.com/entretenimiento/miss-universo-os-miss-universo/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cuáles serán los premios que se llevará quien sea coronada como Miss Universo?
+[República Dominicana] De Último Minuto: texto leído 1570 letras -> https://deultimominuto.com/deportes/beisbol/fernando-tatis-jr-regresara-a-la-lidom-con-las-estrellas-en-la-primera-semana-de-diciembre/
+Cambiada de sección: República Dominicana -> Deportes: Fernando Tatis Jr. regresará a la LIDOM con las Estrellas en la primera semana de diciembre
+Revisión: corregida (la fuente dice que el debut "podría" ser el 1 de diciembre; el borrador ya lo dice así. Corregí "Tatis Jr." a
+[República Dominicana] De Último Minuto: texto leído 2572 letras -> https://deultimominuto.com/deportes/baloncesto/consuelo-barre-semifinal-al-centro-y-miramar-empata-en-el-44-tbs-de-san-pedro-de-macoris/
+Cambiada de sección: República Dominicana -> Deportes: Consuelo barre semifinal al Centro y Miramar empata en el 44 TBS de San Pedro de Macorís
+Revisión: corregida (se corrigió "a un mejor de cinco" que no aparece en las fuentes, se eliminó la atribución de "pactada a un 3-
+[República Dominicana] De Último Minuto: texto leído 3572 letras -> https://deultimominuto.com/estilo/unapec-celebra-17-jornada/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): UNAPEC celebra su 17.ª Jornada de Colocación Laboral bajo el nombre CONECTA T+
+No se pudo bajar la página: <HTTPError 404: 'Not Found'>
+[República Dominicana] De Último Minuto: texto leído 0 letras -> https://deultimominuto.com/nacionales/marco-guridi-aclaracion-puesto/
+No se pudo leer el artículo; no se publica para no salir corta: Marco Guridi es director de Puerto Plata Electricidad, no presidente de Energía 2000
+[República Dominicana] De Último Minuto: texto leído 3320 letras -> https://deultimominuto.com/estilo/johanna-almanzar-tributo/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Más de 40 años de voz: Johanna Almánzar triunfa a casa llena entre mariachis y música romántica
+[República Dominicana] De Último Minuto: texto leído 2276 letras -> https://deultimominuto.com/nacionales/politica/fellito-lidera-preferencias/
 Revisión: aprobada
-[República Dominicana] DGII: texto leído 1450 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/efecto-de-anular-un-e47-con-retencin-de-isr-sobre-el-ir17-y-el-formato-609/6b05b84c4175d10cff1f2641
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Efecto de anular un E47 con retención de ISR sobre el IR-17 y el Formato 609
-[República Dominicana] DGII: texto leído 494 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/la-dgii-no-me-a-notificado-el-omiso-del-itbis/6b0600b24175d10cff266444
-No se pudo leer el artículo; no se publica para no salir corta: La DGII no me a notificado el omiso del ITBIS
-[República Dominicana] DGII: texto leído 64 letras -> https://dgii.gov.do/app/WebApps/ConsultasWeb2/ConsultaPublicaReintegroCheques/ReintegroCheques.aspx
-No se pudo leer el artículo; no se publica para no salir corta: Consulta Pública de Reintegro de Cheques
-[República Dominicana] DGII: texto leído 1685 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/sobre-el-uso-de-la-norma-072007/6b05af834895ae0f6e47a6cd
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): SOBRE EL USO DE LA NORMA 07-2007
-[Dominicanos en EE.UU.] U.S. Embassy Jerusalem (.gov): texto leído 3349 letras -> https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-24-2026/
-Fuente oficial encontrada: U.S. Embassy Jerusalem (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Jerusalem – November 24, 2026
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 1405 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-23-2026/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 23, 2026
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 3900 letras -> https://www.federalregister.gov/public-inspection/current
-Fuente oficial encontrada: Federal Register (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 11/24/2026 Public Inspection Issue
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: emsavalles.com
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 810 letras -> https://eldia.com.do/univision-abre-sus-pantallas-a-historias-de-dominicanos/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-Fuente no confiable, se salta: elcaso.elnacional.cat
-[Dominicanos en EE.UU.] CDN: texto leído 4546 letras -> https://cdn.com.do/nacionales/salud-nacionales/la-bacteria-come-carne-deja-14-muertos-en-florida-y-luisiana/
-No encaja en ninguna sección, se salta: Bacteria «come carne» deja 14 muertos en Florida y Luisiana durante 2026
-Fuente no confiable, se salta: elpregonerord.com
-Fuente no confiable, se salta: pressreader.com
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: impactomedia.com
-[Dominicanos en EE.UU.] eldia.com.do: texto leído 4306 letras -> https://eldia.com.do/dos-oportunidades-un-mismo-sueno-la-historia-de-perseverancia-de-melissa-nunez/
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Dos oportunidades, un mismo sueño: la historia de perseverancia de Melissa Núñez
-Revisión: corregida (corregí "Hospital" no aplica; cambios: "Miss República Dominicana Universo" sin cambios de hechos; ajusté "el
-[Internacionales] U.S. Department of State (.gov): texto leído 2088 letras -> https://www.state.gov/gunnbenita-republicofburundinovember2026
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Gunn, Benita – Republic of Burundi – November 2026
-[Internacionales] U.S. Department of State (.gov): texto leído 2347 letras -> https://www.state.gov/osac-holds-annual-briefing-for-1300-members/
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): OSAC Holds Annual Briefing for 1,300+ Members
-[Internacionales] U.S. Department of State (.gov): texto leído 622 letras -> https://www.state.gov/report-to-congress-on-commercial-engagement-with-the-pacific-islands-countries
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Report to Congress on Commercial Engagement with the Pacific Islands Countries
-[Famosos] CDN: texto leído 1767 letras -> https://cdn.com.do/entretenimiento/alejandra-trujillo-estrena-atrincherados-podcast/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Alejandra Trujillo estrena Atrincherados Podcast, un espacio de entrevistas sin filtros
-[Famosos] CDN: texto leído 1871 letras -> https://cdn.com.do/entretenimiento/luigynic-se-consolida-como-voz-oficial-y-patrocinador-de-premios-triunfo-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): LuigyNic se consolida como voz oficial y patrocinador de Premios Triunfo 2026
-[Famosos] CDN: texto leído 3822 letras -> https://cdn.com.do/economicas/pobreza-multidimensional-en-republica-dominicana-cae-a-20-3-en-2025/
-Cambiada de sección: Famosos -> República Dominicana: La pobreza multidimensional en el país bajó de 44.1 % a 20.3 % entre 2016 y 2025
-Revisión: corregida (se eliminó "Es una reducción de más de la mitad..." por redundante con el título; se corrigió "Es decir" a "e
-[Famosos] Noticias SIN: texto leído 4608 letras -> https://noticiassin.com/vida-y-estilo/arte/2026/11/24/casa-de-teatro-hara-jornada-solidaria-por-ninos-cubanos-con-cancer-2176027/?amp=1
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Casa de Teatro acogerá jornada artística para apoyar a niños con cáncer en Cuba
-Fuente no confiable, se salta: cibercuba.com
-Fuente no confiable, se salta: masvip.com.do
-Fuente no confiable, se salta: prensa-latina.cu
-Es opinión o editorial, se salta: El Ascenso Político Dominicano en Nueva York: Un estudio sobre la incorporación política étnica urbana
-[Famosos] Noticias SIN: texto leído 2837 letras -> https://noticiassin.com/vida-y-estilo/musica/2026/11/24/hernandez-reivindica-a-bad-bunny-como-simbolo-de-puerto-rico-2176360/?amp=1
-[Famosos] El Nuevo Diario: texto leído 2554 letras -> https://elnuevodiario.com.do/el-comisionado-de-puerto-rico-reivindica-a-bad-bunny-como-simbolo-de-identidad-cultural/
-Cambiada de sección: Famosos -> Internacionales: El comisionado de Puerto Rico reivindica a Bad Bunny como símbolo de identidad cultural
-Revisión: corregida (se quitó "Lo dijo durante" por "Lo dijo durante"... en realidad: se reemplazó "en un mundo" no aparecía; se c
-Salió corta (1 párrafos, 9 palabras, 5391 letras leídas); se oculta: El comisionado de Puerto Rico reivindica a Bad Bunny como símbolo de identidad cultural
-[Deportes] Lidom: texto leído 2585 letras -> https://lidom.com/lidom/cristian-adames-y-spencer-bivens-conquistan-premio-101358.html
-Revisión: corregida (Bivens: 9 ponches→el borrador dice 9, fuente dice 9 ✔; corregido: Trevor Bauer es de los Tigres del Licey seg
-[Deportes] MLB.com: texto leído 334 letras -> https://www.mlb.com/es/video/tigers-troy-melton-agree-to-six-year-extension
-No se pudo leer el artículo; no se publica para no salir corta: Tigers, Troy Melton agree to six-year extension
-[Deportes] MLB.com: texto leído 844 letras -> https://www.mlb.com/es/amp/news/washington-entra-en-la-pelea-con-mets-y-azulejos-por-chisholm-jr-informe.html
-[Deportes] El Nuevo Diario: texto leído 806 letras -> https://elnuevodiario.com.do/washington-entra-en-la-pelea-por-chisholm-jr/
-Revisión: corregida (eliminé "Por ahora, los informes no indican..." que no está en las fuentes; cambié "el año pasado" por "en 20
-[Precios y combustibles] AlMomento.net: texto leído 2285 letras -> https://almomento.net/gobierno-distribuira-rd4130-millones-en-bonos-navidenos/
-[Precios y combustibles] Hoy Digital: texto leído 3776 letras -> https://hoy.com.do/el-pais/gobierno-inicia-29-entrega-bonos-navidenos_1109665.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno distribuirá RD$4,130 millones en bonos navideños
-Rechazada por la revisión: Gobierno distribuirá RD$4,130 millones en bonos navideños -> cifras que no aparecen en las fuentes: 28
-[Precios y combustibles] De Último Minuto: texto leído 5904 letras -> https://deultimominuto.com/economia/canasta-basica/
-Rechazada por la revisión: La canasta básica está por encima del salario mínimo y del promedio -> cifras que no aparecen en las fuentes: 29988
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: reddenoticias.online
-Fuente no confiable, se salta: remolacha.net
-[Precios y combustibles] Acento: texto leído 3447 letras -> https://acento.com.do/actualidad/la-mayoria-de-lectores-de-acento-rechaza-reduccion-de-subsidios-a-combustibles-y-electricidad-9795909.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: La mayoría de lectores de Acento rechaza reducción de subsidios a combustibles y electricidad
-Rechazada por la revisión: La mayoría de lectores de Acento rechaza reducción de subsidios a combustibles y electricidad -> cifras que no aparecen en las fuentes: 1032, 115
-[Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
-[Videojuegos] Nintendo: texto leído 2416 letras -> https://www.nintendo.com/us/store/products/little-genius-spot-the-difference-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Little Genius: Spot the Difference
-[Videojuegos] Nintendo: texto leído 719 letras -> https://www.nintendo.com/en-gb/DLC/Barbie-Rewind-Y2K-Style-Pack-3248330.html
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Y2K Style Pack
-[Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
-[Videojuegos] Pokemon.com: texto leído 850 letras -> https://www.pokemon.com/us/news/snag-a-snom-ornament-as-a-gift-with-purchase-from-pokemon-center
-Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
-[Videojuegos] Pokemon.com: texto leído 589 letras -> https://www.pokemon.com/us/news/catch-pikachu-and-eevee-in-the-100th-macys-thanksgiving-day-parade
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Catch Pikachu and Eevee in the 100th Macy’s Thanksgiving Day Parade®
-[Videojuegos] Pokemon.com: texto leído 541 letras -> https://community.pokemon.com/en-us/discussion/27038/free-pokemon-go-x-duolingo-code
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
-[Videojuegos] Pokemon.com: texto leído 762 letras -> https://community.pokemon.com/en-us/discussion/27028/using-pokemon-and-characters-describe-your-mood
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Using Pokemon and Characters describe your mood
-[Videojuegos] Pokemon.com: texto leído 3663 letras -> https://press.pokemon.com/pt-BR/MEDIA-ALERT-Celebrate-the-Holiday-Season-at-the-Macys-Thanksgiving-Day
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): MEDIA ALERT: Celebrate the Holiday Season at the Macy’s Thanksgiving Day Parade® with Pikachu and Eevee
-[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
-[Videojuegos] Nintendo: texto leído 1920 letras -> https://www.nintendo.com/es-ar/whatsnew/disfruta-la-quincuagesima-octava-copa-maximus-y-podrias-obtener-un-tema-colaborativo-para-tu-juego/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Disfruta la quincuagésima octava COPA MAXIMUS y podrías obtener un tema colaborativo para tu juego!
-[Videojuegos] Nintendo: texto leído 513 letras -> https://www.nintendo.com/es-cl/store/products/attack-on-titan-3-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Attack on Titan 3 para Nintendo Switch 2
-[Videojuegos] Nintendo: texto leído 862 letras -> https://www.nintendo.com/es-pe/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Sítio Oficial para Peru: Juegos, Noticias y Mas
-[Videojuegos] Nintendo: texto leído 1473 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Barbie-Rewind-Superstar-Pack-3248326.html
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Barbie™ Rewind - Superstar Pack
-[Videojuegos] Nintendo: texto leído 927 letras -> https://www.nintendo.com/es-es/Contenido-descargable/Paquete-de-Objetos-Iniciales-3234731.html
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Paquete de Objetos Iniciales
-Instagram: 35 usadas en 24 horas, quedan 7; esta corrida sube hasta 2.
+[República Dominicana] De Último Minuto: texto leído 2596 letras -> https://deultimominuto.com/internacionales/el-presidente-javier-milei/
+Cambiada de sección: República Dominicana -> Internacionales: El presidente Javier Milei recibe a su homólogo de Polonia, Karol Nawrocki, en la Casa Rosada
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió "cumbre del G20 en Estados Unidos" a "en Miami"? No: las fuentes dicen
+Revisión: corregida (se corrigió "cumbre del G20 en Estados Unidos" a "en Miami"? No: las fuentes dicen Miami en la cita de Przyda
+[República Dominicana] De Último Minuto: texto leído 3954 letras -> https://deultimominuto.com/internacionales/trump-indulta/
+Cambiada de sección: República Dominicana -> Internacionales: Trump indulta a dos pavos en el tradicional acto de la Casa Blanca por Acción de Gracias
+Revisión: corregida (se corrigió "Trump" en el texto de Venezuela/Irán? No: se corrigió la omisión de la Ley de Protección de Acog
+Instagram: 28 usadas en 24 horas, quedan 14; esta corrida sube hasta 3.
 Marcadores: 30 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-10 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 80 · ya cubiertas: 24 · no confiables: 15 · opinión: 1 · con texto leído: 45 · sin texto: 4 · medios juntados: 2 · con fuente oficial: 27 · aprobadas por la revisión: 1 · corregidas por la revisión: 5 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 0 · error IA: 2 · descartadas por la IA: 27 · cambiadas de sección: 5 · largas: 5 · ocultas (cortas): 5
-Para Instagram (tendencia 4): Melissa Núñez gana Miss República Dominicana Universo tras quedar finalista en 2024
-Para Instagram (tendencia 3): Caro Brito aparece en expediente de Rompeolas y reabre un tema recurrente: narco y farándula
+6 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 0 · ya cubiertas: 0 · no confiables: 0 · opinión: 0 · con texto leído: 8 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 0 · aprobadas por la revisión: 1 · corregidas por la revisión: 4 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 0 · error IA: 0 · descartadas por la IA: 3 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 1
+Para Instagram (tendencia 3): Freddy Peralta firma con los Orioles por cinco años y US$125 millones
+Para Instagram (tendencia 3): Arranca La Casa de Alofoke 3 entre alfombra roja, premios y tensiones
+Para Instagram (tendencia 3): Atentado con carro bomba en Villavicencio deja 23 heridos; De la Espriella visita a las víctimas
