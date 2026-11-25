@@ -342,8 +342,10 @@
   "seccion": "Famosos",
   "fecha": "2026-11-25T19:27:16.331405+00:00",
   "tendencia": 5,
-  "ig": "pendiente",
-  "ig_img": "ig/0402adc811.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/0402adc811.jpg",
+  "ig_id": "18646922776043520",
+  "ig_fecha": "2026-11-25T19:32:15.555934+00:00"
  },
  {
   "id": "a424825dfd",
@@ -732,9 +734,11 @@
   "seccion": "Famosos",
   "fecha": "2026-11-25T18:50:00.636863+00:00",
   "tendencia": 5,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/6ed3b45a47.jpg",
-  "ig_intentos": 1
+  "ig_intentos": 1,
+  "ig_id": "18131599700510937",
+  "ig_fecha": "2026-11-25T19:33:43.755266+00:00"
  },
  {
   "id": "444a942218",
