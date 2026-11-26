@@ -1,5 +1,523 @@
 [
  {
+  "id": "7259dc8877",
+  "titulo": "Inapa avanza en obras de agua potable para Monte Plata",
+  "titulo_original": "Inapa supervisa obras de agua potable en Monte Plata",
+  "resumen": "El Inapa supervisó obras de agua potable en Monte Plata que, según indicó, están en su etapa final.",
+  "gancho": "El Inapa supervisó obras de agua potable en Monte Plata que, según indicó, están en su etapa final.",
+  "parrafos": [
+   "El director ejecutivo del Instituto Nacional de Aguas Potables y Alcantarillados (Inapa), Wellington Arnaud, recorrió las obras de agua potable que se ejecutan en la provincia Monte Plata. La entidad informó que los trabajos se encuentran en su etapa final.",
+   "Durante la visita, Arnaud conversó con ingenieros y técnicos responsables de la construcción del nuevo acueducto del distrito municipal Mamá Tingó. Allí revisó la calidad de los trabajos de la planta potabilizadora y de la obra de toma, con el fin de garantizar un servicio eficiente.",
+   "También recorrió la estructura del acueducto de Yamasá, una obra que, según el Inapa, representa un cambio significativo para cientos de familias. Los trabajos incluyen la rehabilitación de una planta potabilizadora de filtración rápida con capacidad de 50 litros por segundo, un cárcamo de bombeo y una nueva línea de impulsión.",
+   "Luego, el funcionario visitó la obra de rehabilitación del acueducto múltiple de Peralvillo. Este proyecto contempla una planta potabilizadora de 70 litros por segundo, líneas de impulsión, matriz y conducción, redes de distribución, un depósito nuevo de 700 metros cúbicos y la rehabilitación de dos depósitos de 300 y 700 metros cúbicos.",
+   "Estos trabajos forman parte del plan de ampliación y modernización del sector agua potable que ejecuta el presidente Luis Abinader a través del Inapa. El objetivo es aumentar la capacidad de producción y tratamiento de agua en todo el país. El director estuvo acompañado por su equipo técnico."
+  ],
+  "claves": [
+   "El director ejecutivo del Inapa, Wellington Arnaud, recorrió las obras en Monte Plata.",
+   "Se trabaja en el nuevo acueducto de Mamá Tingó, en su etapa final.",
+   "La obra de Peralvillo incluye una planta potabilizadora de 70 litros por segundo.",
+   "Los trabajos forman parte del plan de ampliación del sector agua potable impulsado por el presidente Luis Abinader."
+  ],
+  "importa": "Los proyectos buscan ampliar la producción y el tratamiento de agua potable en varias comunidades de Monte Plata, lo que podría mejorar el acceso al servicio para cientos de familias.",
+  "en": {
+   "titulo": "Inapa Advances Drinking Water Works for Monte Plata",
+   "gancho": "Dominican water authority Inapa inspected drinking water projects in Monte Plata, which it says are in their final stage.",
+   "claves": [
+    "Inapa executive director Wellington Arnaud toured the works in Monte Plata.",
+    "The new Mamá Tingó aqueduct is in its final stage.",
+    "The Peralvillo project includes a 70-liter-per-second water treatment plant.",
+    "The works are part of a national drinking water expansion plan driven by President Luis Abinader."
+   ],
+   "importa": "The projects aim to increase water production and treatment capacity, which could improve access to drinking water for families in Monte Plata.",
+   "parrafos": [
+    "Wellington Arnaud, executive director of the Instituto Nacional de Aguas Potables y Alcantarillados (Inapa), toured drinking water works underway in Monte Plata province. The agency reported that the works are in their final stage.",
+    "During the visit, Arnaud spoke with engineers and technicians overseeing construction of the new Mamá Tingó aqueduct in the municipal district of the same name. He reviewed the quality of work on the water treatment plant and the intake structure, aiming to ensure efficient service.",
+    "He also inspected the Yamasá aqueduct, which the agency says represents a significant change for hundreds of families. The works include rehabilitating a rapid-filtration treatment plant with a capacity of 50 liters per second, a pumping chamber, and a new pumping line.",
+    "The official then visited the rehabilitation of the Peralvillo multiple aqueduct. The project includes a 70-liter-per-second treatment plant, pumping, main and conveyance lines, distribution networks, a new 700-cubic-meter reservoir, and the rehabilitation of two reservoirs of 300 and 700 cubic meters.",
+    "These works are part of the water sector expansion and modernization plan carried out by President Luis Abinader through Inapa. The goal is to increase water production and treatment capacity across the country. The director was accompanied by his technical team."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa1BGU21aQVd0TThMVS1xQ2ZhYXo2ZWRORjRZVTVrcURTVzlObmFzeHlSMW9NTTM4a1ZRd3JTWXdtMk1XNWFQRmV1Y3RQSElRMjNxd3hxVEphdVNseFRHbVRfb0JiS2tTNnFvUHQzdlVaS1d5eWJ2N1Z4Y051NktNZkVQTVozLXlZamhpczJnTkgydw?oc=5",
+  "url": "https://presidencia.gob.do/noticias/inapa-supervisa-obras-de-agua-potable-en-monte-plata",
+  "fuente": "Presidencia de la República Dominicana",
+  "dominio": "presidencia.gob.do",
+  "fuentes": [
+   {
+    "nombre": "Presidencia de la República Dominicana",
+    "url": "https://presidencia.gob.do/noticias/inapa-supervisa-obras-de-agua-potable-en-monte-plata"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/PHOTO-2026-11-25-15-54-42.jpg",
+   "credito": "Presidencia de la República Dominicana"
+  },
+  "revision": "corregida (eliminé \"según indicó\"/\"según la información oficial\" redundantes donde ya estaba atribuido; ajusté el gancho y el \"importa\" para que no añadan nada que la fuente no diga; quité la oración \"Revisa qué proyectos se mencionan\" del gancho; cambié \"cientos de familias\" del Yamasá a \"según el Inapa\", ya que es lo que dice la fuente; la frase \"lo que podría mejorar el acceso\" se mantiene como lectura razonable y no como hecho; corrección de \"Arnaud\" en la primera mención a cargo; ajuste de \"cárcamo de bombeo\" a \"cárcamo de bombeo\" sin cambios y de \"línea de impulsión\" a \"nueva línea de impulsión\" según la fuente; y \"Yamasá\" tratado como obra del acueducto, no como municipio distinto.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-26T12:48:25.607520+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "67ca3eab3e",
+  "titulo": "Pruebas de Simulación e-CF",
+  "titulo_original": "Pruebas de Simulación e-CF",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE15c0FhSGFsWkttUmV6VUpnR1NoT29ZSHNSY2RrMWNpX0FnZ09vbHJua05kRmVTQ0tRYWJtY2FERU5ZeXo5TmtTN3ZvdDIxOEF6aEx0dWdzQU1xcEdralIzbGtqNjhJN0FBbXpnX2plZHRsYmN0allfQktjOTZ2ZmtNNmowMExzcHZXbkpsaFNETGV5UHF3Q29zdXdWbkdEdndV?oc=5",
+  "fuente": "DGII",
+  "dominio": "ayuda.dgii.gov.do",
+  "seccion": "República Dominicana",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-26T12:48:30.658164+00:00"
+ },
+ {
+  "id": "4ccb7c5e16",
+  "titulo": "Muere un marinero tras volcar un buque con 7.000 toneladas de gasoil cerca de Ibiza",
+  "titulo_original": "Muere un marinero en el naufragio de un buque petrolero con 7.000 toneladas de gasoil cerca de la costa de Ibiza",
+  "resumen": "Un tripulante murió y 16 fueron rescatados tras el accidente de un buque cargado de gasoil. Las autoridades activaron planes de emergencia por posible contaminación.",
+  "gancho": "Un tripulante murió y 16 fueron rescatados tras el accidente de un buque cargado de gasoil. Las autoridades activaron planes de emergencia por posible contaminación.",
+  "parrafos": [
+   "Un tripulante murió y otros 16 fueron rescatados tras el naufragio del buque Med Emre, cargado de gasoil, a unos 40 kilómetros de Ibiza, según la Dirección General de Emergencias e Interior del Govern balear. La embarcación, con bandera de Malta, navegaba de Algeciras a Barcelona cuando se hundió durante la madrugada.",
+   "Según el Govern, el cargamento podría ascender a 7.000 toneladas métricas de combustible. Las autoridades aún no han confirmado el alcance de una posible fuga. Tras una llamada de socorro por una vía de agua y una escora de 90 grados, se movilizaron tres helicópteros de Salvamento Marítimo, con base en Palma, Valencia y Tarragona, además de embarcaciones comerciales cercanas y la Guardia Civil.",
+   "De los 17 tripulantes, siete fueron evacuados a Ibiza. Uno murió en el Hospital Can Misses. Otros seis presentaban heridas leves e hipotermia. Diez más fueron trasladados a Valencia o permanecieron a bordo de una embarcación de rescate.",
+   "Salvamento Marítimo informó de que el buque permanece parcialmente a flote, pero volcado. Por ahora no se ha detectado ningún vertido en la zona, aunque no se descarta que pueda producirse.",
+   "La Dirección General de la Marina Mercante activó el Plan Nacional de Contingencias por Contaminación Marítima en nivel 2, mientras el Govern puso en marcha el Platerbal en nivel 0. El buque Clara Campoamor, especializado en derrames, se dirige a la zona para determinar si hay restos de combustible en la superficie. También está previsto un reconocimiento aéreo del punto del naufragio."
+  ],
+  "claves": [
+   "Un tripulante murió y 16 fueron rescatados del buque Med Emre.",
+   "El barco, con bandera de Malta, navegaba de Algeciras a Barcelona cuando sufrió una vía de agua.",
+   "La Dirección General de la Marina Mercante activó el Plan Nacional de Contingencias por Contaminación Marítima en nivel 2.",
+   "El buque especializado en derrames Clara Campoamor se dirige a la zona."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Sailor Dies After Tanker Carrying 7,000 Tonnes of Diesel Capsizes Near Ibiza",
+   "gancho": "One crew member died and 16 were rescued after a diesel-laden ship capsized off Ibiza. Authorities activated emergency plans over possible pollution.",
+   "claves": [
+    "One crew member died and 16 were rescued from the Med Emre.",
+    "The Malta-flagged ship was sailing from Algeciras to Barcelona when it took on water.",
+    "The Merchant Marine Directorate activated the national maritime pollution contingency plan at level 2.",
+    "The spill-response vessel Clara Campoamor is heading to the area."
+   ],
+   "importa": "",
+   "parrafos": [
+    "One crew member died and 16 others were rescued after the Med Emre, carrying diesel, went down about 40 kilometers off Ibiza, according to the Balearic regional government's emergency directorate. The Malta-flagged vessel was sailing from Algeciras to Barcelona when it sank early in the morning.",
+    "According to the Govern, the cargo could amount to 7,000 metric tonnes of fuel. Authorities have not yet confirmed the extent of a possible leak. After a distress call reporting a water leak and a 90-degree list, three Spanish Maritime Rescue helicopters, based in Palma, Valencia and Tarragona, were deployed, along with nearby commercial vessels and the Guardia Civil.",
+    "Of the 17 crew members, seven were evacuated to Ibiza. One died at Can Misses Hospital. Six others had minor injuries and hypothermia. Ten more were taken to Valencia or remained aboard a rescue vessel.",
+    "Salvamento Marítimo reported that the ship remains partially afloat but capsized. No spill has been detected in the area so far, though one cannot be ruled out.",
+    "The Merchant Marine Directorate activated the national maritime pollution contingency plan at level 2, while the Govern launched the Balearic civil protection plan at level 0. The spill-response vessel Clara Campoamor is heading to the area to determine whether fuel remains on the surface. An aerial survey of the wreck site is also planned."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/muere-un-marinero/",
+  "url": "https://cadenaser.com/baleares/2026/11/26/un-muerto-tras-el-hundimiento-de-un-buque-con-7000-toneladas-de-gasoleo-al-norte-de-ibiza-radio-mallorca/",
+  "fuente": "Cadena SER",
+  "dominio": "cadenaser.com",
+  "fuentes": [
+   {
+    "nombre": "Cadena SER",
+    "url": "https://cadenaser.com/baleares/2026/11/26/un-muerto-tras-el-hundimiento-de-un-buque-con-7000-toneladas-de-gasoleo-al-norte-de-ibiza-radio-mallorca/"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/muere-un-marinero/"
+   },
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/espana/2026/11/26/muere-un-marinero-en-el-hundimiento-de-un-buque-petrolero-con-7000-toneladas-de-gasoil-cerca-de-la-costa-de-ibiza/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (Eliminé \"Según Cadena SER\" y atribuí el hecho a Salvamento Marítimo, que lo dijo en las fuentes; corregí \"de Algeciras a Barcelona\" sin cambio; quité \"según confirmó\" por atribución redundante; corregí \"hundió\" por \"volcó\" en el resumen; ajusté el inglés a los mismos hechos; corregí \"ten others\" y precisé el gancho y las claves según fuentes; el lugar se mantiene como \"unos 40 km de Ibiza\" según Al Día/Infobae.)",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-26T12:49:02.172602+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "e49be02a9b",
+  "titulo": "Detienen a presunto responsable de accidente de camión que dejó 31 muertos en El Cairo",
+  "titulo_original": "Detienen al presunto responsable del accidente del camión que causó 31 muertos en Egipto",
+  "resumen": "Un camión cisterna con bombonas de gas se incendió tras un choque en El Cairo. La Fiscalía ya tiene detenido al presunto responsable, que confesó haber conducido a 110 km/h.",
+  "gancho": "Un camión cisterna con bombonas de gas se incendió tras un choque en El Cairo. La Fiscalía ya tiene detenido al presunto responsable, que confesó haber conducido a 110 km/h.",
+  "parrafos": [
+   "Las autoridades egipcias detuvieron este jueves al presunto responsable del accidente de tráfico que terminó en la explosión de un camión cisterna en la carretera de circunvalación de Warraq, en el norte de El Cairo, en la gobernación de Guiza. El último balance deja 31 muertos y 21 heridos, además de decenas de vehículos calcinados.",
+   "El siniestro ocurrió el miércoles. Según la Fiscalía, el camión transportaba bombonas de gas y otros productos derivados del petróleo cuando se vio involucrado en el choque.",
+   "De acuerdo con el Ministerio Público, el detenido confesó haber colisionado con el camión mientras circulaba a 110 kilómetros por hora y realizaba maniobras entre carriles. Después de esas maniobras, según la Fiscalía, uno de los neumáticos del camión cisterna reventó. El vehículo impactó contra una barrera de hormigón, volcó y derramó gasolina, que terminó incendiándose.",
+   "La investigación se basó en testimonios de testigos, una inspección ocular en el lugar y el análisis de las circunstancias. El Ministerio Público indicó que continúa interrogando al sospechoso para aclarar todos los hechos y determinar el alcance de su responsabilidad penal. La Fiscalía también supervisa la evaluación de daños y pérdidas.",
+   "Los accidentes de tráfico son un problema grave y recurrente en Egipto, vinculados al exceso de velocidad, la falta de mantenimiento de los vehículos, el incumplimiento de las normas de seguridad y, en algunos casos, el transporte de más pasajeros de los permitidos."
+  ],
+  "claves": [
+   "El camión transportaba bombonas de gas y otros derivados del petróleo.",
+   "El sospechoso confesó que circulaba a 110 kilómetros por hora y hacía maniobras entre carriles.",
+   "El último balance es de 31 muertos y 21 heridos."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Suspect Arrested in Egypt Truck Crash That Killed 31",
+   "gancho": "A gas-cylinder tanker burst into flames after a crash in Cairo. Prosecutors have arrested the suspected driver, who reportedly confessed to speeding at 110 km/h.",
+   "claves": [
+    "The truck was carrying gas cylinders and other petroleum products.",
+    "The suspect confessed to driving at 110 kilometers per hour and weaving between lanes.",
+    "The latest toll is 31 dead and 21 injured."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Egyptian authorities on Thursday arrested the suspected driver responsible for a traffic accident that led to the explosion of a tanker truck on the Warraq ring road in northern Cairo, in Giza Governorate. The latest toll is 31 dead and 21 injured, along with dozens of burned-out vehicles.",
+    "The crash happened on Wednesday. According to prosecutors, the truck was carrying gas cylinders and other petroleum products when it was involved in the collision.",
+    "According to the Public Prosecution, the suspect confessed to colliding with the truck while driving at 110 kilometers per hour and weaving between lanes. After those maneuvers, prosecutors said, one of the tanker's tires blew out. The vehicle struck a concrete barrier, overturned and spilled gasoline, which then caught fire.",
+    "The investigation relied on witness testimony, an on-site inspection and an analysis of the circumstances. The Public Prosecution said it continues to question the suspect to clarify all the facts and determine the extent of his criminal responsibility. Prosecutors are also overseeing the assessment of damages and losses.",
+    "Traffic accidents are a serious and recurring problem in Egypt, linked to speeding, poor vehicle maintenance, failure to follow safety rules and, in some cases, carrying more passengers than allowed."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/detienen-al-presunto-responsable/",
+  "url": "https://deultimominuto.com/internacionales/detienen-al-presunto-responsable/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/detienen-al-presunto-responsable/"
+   },
+   {
+    "nombre": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/internacional/africa/2026/11/26/detienen-a-presunto-responsable-de-explosion-de-camion-en-egipto-lo-habria-colisionado-a-110-km-h.shtml"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"en la gobernación de Guiza\" duplicado y ajusté el título y la entradilla a las fuentes: la fuente dice \"accidente de tráfico y posterior incendio/explosión\" y el sospechoso \"confesó\"; quité \"cabe destacar\"-tipo relleno inexistente; corregí \"bombonas\" consistente, \"hormigón\" y la traducción de \"tanker\" como \"tanker truck\" para mantener \"camión cisterna\"; ajusté el inglés para decir exactamente lo mismo que el español).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-26T12:49:17.360872+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "a45fa79889",
+  "titulo": "Nueva York aplaza hasta el sábado el desfile de Acción de Gracias por tormenta",
+  "titulo_original": "NJ en estado de emergencia por tormenta y en NY aplazan hasta el sábado la edición cien del desfile de Macy’s",
+  "resumen": "La edición número 100 del desfile de Macy's se pospone por una tormenta costera. Nueva Jersey ya declaró estado de emergencia.",
+  "gancho": "La edición número 100 del desfile de Macy's se pospone por una tormenta costera. Nueva Jersey ya declaró estado de emergencia.",
+  "parrafos": [
+   "El desfile de Acción de Gracias de Macy's, que este año cumple 100 años, no se realizará el jueves como estaba previsto. Los organizadores lo trasladaron al sábado a las 8:30 a. M. Hora local, debido a la llegada de una tormenta costera a la región.",
+   "La gobernadora de Nueva Jersey, Mikie Sherrill, declaró el estado de emergencia desde la noche de este miércoles. Según Sherrill, el Departamento de Transporte de ese estado movilizará recursos hacia la costa por si hay que cerrar carreteras u otra infraestructura. En la ciudad de Nueva York, el alcalde Zohran Mamdani explicó que las autoridades municipales y los organizadores decidieron de común acuerdo posponer el evento por las condiciones meteorológicas previstas.",
+   "Macy's comunicó que la seguridad de participantes y espectadores es su máxima prioridad. Will Coss, vicepresidente y director del desfile, dijo que la decisión les entristece, pero que confían en ofrecer \"el desfile del Día de Acción de Gracias de Macy's número 100, el más espectacular, el mejor y más grande de nuestra historia\".",
+   "El Servicio Meteorológico Nacional emitió alertas por fuertes vientos para la Gran Manzana, Long Island y Nueva Jersey. Además, advirtió de posibles inundaciones, mareas altas extraordinarias y nevadas, en medio del mayor tráfico aéreo en 16 años. Las inundaciones podrían obligar al cierre de carreteras y parques, y los vientos podrían derribar árboles y cables eléctricos.",
+   "Es la primera vez que el desfile se aplaza a otra fecha por el clima. Durante la Segunda Guerra Mundial se cancelaron tres ediciones consecutivas, las de 1942, 1943 y 1944."
+  ],
+  "claves": [
+   "El desfile de Macy's, previsto para el jueves, se celebrará el sábado a las 8:30 a. m. hora local.",
+   "La gobernadora de Nueva Jersey, Mikie Sherrill, declaró el estado de emergencia.",
+   "Se esperan ráfagas de hasta 100 km/h en Nueva York y de 112 km/h en la costa de Nueva Jersey.",
+   "Es la primera vez que el desfile se pospone a otra fecha por el clima; solo se había suspendido de 1942 a 1944."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "New York Postpones Thanksgiving Parade to Saturday Due to Storm",
+   "gancho": "Macy's 100th Thanksgiving Day Parade is moving because of a coastal storm. New Jersey has already declared a state of emergency.",
+   "claves": [
+    "The Macy's parade, originally set for Thursday, will now take place Saturday at 8:30 a.m. local time.",
+    "New Jersey Governor Mikie Sherrill declared a state of emergency.",
+    "Winds of up to 100 km/h are expected in New York and up to 112 km/h on the New Jersey coast.",
+    "It is the first time the parade has been moved to another date because of weather; it was previously canceled only from 1942 to 1944."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Macy's Thanksgiving Day Parade, which marks its 100th year, will not take place Thursday as planned. Organizers moved it to Saturday at 8:30 a.m. Local time due to a coastal storm heading into the region.",
+    "New Jersey Governor Mikie Sherrill declared a state of emergency from Wednesday night. According to Sherrill, the New Jersey Department of Transportation will move resources to the coast in case roads or other infrastructure need to be closed. In New York City, Mayor Zohran Mamdani explained that municipal authorities and parade organizers jointly decided to postpone the event because of the forecast conditions.",
+    "Macy's said the safety of participants and spectators is its top priority. Will Coss, the parade's vice president and director, said the decision saddens them, but they are optimistic about delivering \"the 100th Macy's Thanksgiving Day Parade, the most spectacular, the best and biggest in our history.\"",
+    "The National Weather Service issued high-wind alerts for New York City, Long Island and New Jersey. It also warned of possible flooding, extraordinary high tides and snow, amid the heaviest air travel in 16 years. Flooding could force road and park closures, and strong winds could topple trees and power lines.",
+    "It is the first time the parade has been moved to another date because of the weather. During World War II, three consecutive editions were canceled, in 1942, 1943 and 1944."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcEhZZG1lWmhFalQ3YUphTnNEOTVka2dkdml6TG9IT01wVlRDM25uaE1DdXFlZkl3UVlSaXdZUlBlLXhnanVXRFdoemhma2swSDRzYm9kQ0RhOTFOU2FQVll5ckp0SjBydmw0ZHlqaEZpSFp6aGFfb3NKSkg4Ti1kdFN1N1NSS3Z2UURvZVB5cGxYNi10ZDJWVjFOMGhzdTlLMlNKV093OER3OTdrOGdHUVNrdXNHTHlSbVRHM21BZVAxeWxrRXUyRl9ybHAxZkx4NllHNg?oc=5",
+  "url": "https://www.diariolibre.com/usa/actualidad/2026/11/25/macys-aplaza-desfile-de-accion-de-gracias-por-tormenta/3731753",
+  "fuente": "Diario Libre",
+  "dominio": "diariolibre.com",
+  "fuentes": [
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/usa/actualidad/2026/11/25/macys-aplaza-desfile-de-accion-de-gracias-por-tormenta/3731753"
+   },
+   {
+    "nombre": "El Nuevo Diario",
+    "url": "https://elnuevodiario.com.do/nj-en-estado-de-emergencia-por-tormenta-y-en-ny-aplazan-hasta-el-sabado-la-edicion-cien-del-desfile-de-macys/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí las cifras de viento a km/h según las fuentes —100 km/h y 112 km/h en NJ en la fuente; el inglés decía 62/70 mph, que equivalen a 100/112 km/h, así que lo mantuve coherente—; quité \"Manhattan\" por \"la Gran Manzana\", que es lo que dice la fuente; atribuí los avisos del NWS y la cita de Sherrill sobre \"posible\" cierre de carreteras; quité \"en un momento de alto tráfico aéreo\" y lo dejé como lo expresa la fuente; y eliminé la frase \"por la llegada de una tormenta costera a la región\" sin cambios de fondo; ajusté la hora del desfile a \"8:30 a. m.\" según las fuentes).",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-26T12:50:05.624493+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "c05e7977a7",
+  "titulo": "Precios de la gasolina bajan en EE.UU. antes de Acción de Gracias",
+  "titulo_original": "Gas Prices Plunge Ahead of Thanksgiving — Just as President Trump Predicted",
+  "resumen": "La gasolina cae en todo EE.UU. a su nivel más bajo en ocho meses, justo antes del viaje de Acción de Gracias. Los detalles, aquí.",
+  "gancho": "La gasolina cae en todo EE.UU. a su nivel más bajo en ocho meses, justo antes del viaje de Acción de Gracias. Los detalles, aquí.",
+  "parrafos": [
+   "El precio de la gasolina en Estados Unidos está bajando con fuerza justo antes de la festividad de Acción de Gracias. Según la Casa Blanca, el precio nacional promedio llegó a su nivel más bajo en ocho meses, tras la mayor caída de tres semanas desde 2008. El gobierno atribuye esta baja al presidente Donald J. Trump, quien, según su oficina, había anticipado que los precios bajarían.",
+   "La caída se siente en todo el país. En Birmingham, Alabama, el precio bajó 11.8 centavos en una semana. En Arkansas, Connecticut, Florida, Georgia, Illinois, Massachusetts, Nevada y otros estados, medios locales reportan descensos similares en los precios en las estaciones de servicio.",
+   "En Arizona, se espera que 1.7 millones de personas viajen durante la festividad, según la cadena KSAZ-TV. En Las Vegas, los conductores también notan un alivio. En Oklahoma City, el precio bajó por debajo de los 3 dólares por galón, y en Dallas, el área de DFW también llegó a esa cifra, según reportes de medios locales.",
+   "Según la Casa Blanca, millones de estadounidenses viajan en estos días para reunirse con sus familias, y la baja en los precios representa un ahorro para ellos. En Utah, un economista pronostica que los precios seguirán bajando."
+  ],
+  "claves": [
+   "El precio nacional promedio de la gasolina llegó a su nivel más bajo en ocho meses.",
+   "La caída de tres semanas es la mayor desde 2008.",
+   "En Arizona se espera que viajen 1.7 millones de personas por el feriado.",
+   "En Birmingham, Alabama, el precio bajó 11.8 centavos en una semana."
+  ],
+  "importa": "Si vives en EE.UU., el precio más bajo de la gasolina te deja más dinero en el bolsillo durante la temporada de viajes familiares.",
+  "en": {
+   "titulo": "Gas Prices Fall Across the U.S. Ahead of Thanksgiving",
+   "gancho": "Gas prices are dropping nationwide to their lowest level in eight months, just before the Thanksgiving travel rush. Here are the details.",
+   "claves": [
+    "The national average gas price has reached its lowest level in eight months.",
+    "The three-week decline is the largest since 2008.",
+    "In Arizona, 1.7 million people are expected to travel for the holiday.",
+    "In Birmingham, Alabama, the price fell 11.8 cents in one week."
+   ],
+   "importa": "If you live in the U.S., lower gas prices leave more money in your pocket during the busy family travel season.",
+   "parrafos": [
+    "Gas prices in the United States are falling sharply just before the Thanksgiving holiday. According to the White House, the national average price has reached its lowest level in eight months, following the largest three-week drop since 2008. The administration attributes the decline to President Donald J. Trump, whose office says he had anticipated that prices would fall.",
+    "The drop is being felt across the country. In Birmingham, Alabama, the price fell 11.8 cents in a single week. In Arkansas, Connecticut, Florida, Georgia, Illinois, Massachusetts, Nevada, and other states, local media report similar declines at gas stations.",
+    "In Arizona, 1.7 million people are expected to travel during the holiday, according to the KSAZ-TV network. In Las Vegas, drivers are also noticing relief. In Oklahoma City, the price dropped below $3 per gallon, and in the Dallas-Fort Worth area it also reached that level, according to local media reports.",
+    "According to the White House, millions of Americans are traveling these days to reunite with their families, and the lower prices represent savings for them. In Utah, an economist forecasts that prices will continue to fall."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa2R6WmFsMnJVWno2ODgxc0owcTBJdUlyMUpIU1FqdklsNGJCMzFNUnpJNWdjWUZrNUlackREeWdidVVodFlqQVRiczlMbzhXZElPcmV1dGdFTnhfS3REOXFYaHJzVW9BNERoSHdOc18ySXNrUFkxX0M1blRzOXVnYlVVQ0ZFbGlDR3RmSERUeFVYbWdOTXA3dkRnWkRhVHlSTGV5WkVmUmgyLU5LVTItd2tldUlaaVBiQUE?oc=5",
+  "url": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/",
+  "fuente": "The White House (.gov)",
+  "dominio": "whitehouse.gov",
+  "fuentes": [
+   {
+    "nombre": "The White House (.gov)",
+    "url": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://www.whitehouse.gov/wp-content/uploads/2026/08/WH47-Social-Share-Card.jpeg",
+   "credito": "The White House (.gov)"
+  },
+  "revision": "corregida (la nota dice que el gobierno \"atribuye\" la baja a Trump sin citar a nadie; el borrador omitía la atribución explícita. Además atribuí a la Casa Blanca lo que solo dicen medios locales, y quité la frase \"cabe destacar\"-tipo relleno. Sin inglés en el borrador, no hubo que traducir nada.)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-26T12:50:33.313587+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "a7fdc6c53b",
+  "titulo": "Madre de Valú llora tras la agresión en La Casa de Alofoke y pide que regrese a Perú",
+  "titulo_original": "Madre de Valú Valcárcel rompe en llanto tras agresión a su hija en reality y pide ayuda para traerla de regreso: “Me ha dolido verte”",
+  "resumen": "La madre de la influencer peruana Valú rompió en llanto al ver las imágenes de la pelea en el reality y pidió que su hija vuelva a casa.",
+  "gancho": "La madre de la influencer peruana Valú rompió en llanto al ver las imágenes de la pelea en el reality y pidió que su hija vuelva a casa.",
+  "parrafos": [
+   "Vanessa Valcárcel, conocida en redes como Valú, sufrió una pelea física durante su participación en La Casa de Alofoke 3, el reality dominicano que acaba de estrenar su tercera temporada. En las imágenes se ve a la influencer peruana en el suelo, golpeada y con el cabello jalado, durante un enfrentamiento con las gemelas Tatiana y Dominique, conocidas como Las Mellas.",
+   "La situación llegó a su familia. En entrevista con Infobae, en el programa 'Magaly TV La Firme' del martes 24 de noviembre, la madre de Valú expresó la tristeza que sintió al ver la agresión. \"No sabes cuánto me ha dolido verte, que te masacren de esa manera\", dijo.",
+   "La mujer también pidió ayuda para que su hija pueda regresar al Perú. Según su relato, Valú había llegado al programa con expectativas de ganar la competencia, un premio que la madre describió de forma confusa al mencionar la moneda y el monto.",
+   "Durante su intervención, la madre también reconoció que su hija cambia de actitud cuando consume alcohol y se pone \"contestona\", aunque aclaró que eso no justifica la agresión que sufrió."
+  ],
+  "claves": [
+   "Vanessa Valcárcel, conocida como Valú, fue agredida durante un enfrentamiento con las gemelas Tatiana y Dominique (Las Mellas) en La Casa de Alofoke 3.",
+   "La madre habló en 'Magaly TV La Firme' el martes 24 de noviembre.",
+   "Pidió ayuda para que su hija regrese al Perú."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Valú's Mother Breaks Down After Reality Show Fight, Asks for Her Daughter's Return to Peru",
+   "gancho": "The mother of Peruvian influencer Valú broke down in tears after watching the reality show fight and asked for her daughter to come home.",
+   "claves": [
+    "Vanessa Valcárcel, known as Valú, was attacked during a clash with twins Tatiana and Dominique (Las Mellas) on La Casa de Alofoke 3.",
+    "The mother spoke on 'Magaly TV La Firme' on Tuesday, November 24.",
+    "She asked for help bringing her daughter back to Peru."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Vanessa Valcárcel, known online as Valú, was physically attacked during her time on La Casa de Alofoke 3, the Dominican reality show that just premiered its third season. Footage shows the Peruvian influencer on the floor, struck and with her hair pulled, during a confrontation with twins Tatiana and Dominique, known as Las Mellas.",
+    "The fallout reached her family. Speaking on 'Magaly TV La Firme' on Tuesday, November 24, Valú's mother, as reported by Infobae, expressed the pain she felt watching the attack. \"I don't know how much it hurt me to see you, to see them beat you like that,\" she said.",
+    "She also asked for help bringing her daughter back to Peru. According to her account, Valú had joined the show hoping to win the competition, a prize the mother described vaguely, mixing up the currency and the amount.",
+    "During the interview, she also acknowledged that her daughter becomes combative when she drinks alcohol, while making clear that this does not justify the attack she suffered. ```"
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX25lNllJQ0dMVmphRkloNGlTbzl2VENRZXdFazNPQS1pRWZnZmt2aWNCSk9CVXVlSGtGLTQ3MEJrWk5LLXRJbTBCWXVHZVVKTkJSYnNuaUcxWjN3SHhHcVVxVWhnUXNMYlVPNTdkQnVERl8zRVBWdlR0Z3Q0ekt5cE5mc0cyX3Mta2gzUlhEWWJmS3VwSk9YeEktbG13WWR4akZsNWNXWGtaYXBFU0hsUUpYTWptbGxyNmpGZDIwVmM1OXJZb2ZpNjZ2c3I5UkJzYU9CSzlyM0QwNTI0NzROSi1uMy1kSWZYUnRDN0VJUGp4dGg3LXBDMUNJdll0NU1S0gGbAkFVX3lxTE1PTDB0NEJwRGU0MEpad2tRcVlxaVFvU0t0bnlQRERVZmI5WVlMM2xsQUN6a3U5VTczTk12RzhUaTN5dDFHWlFNSkNoYzNlc0xNUDZaVGIxUEhKeTdfVTY5eWdlT0VEUGVIRlVtZEJyTXFac2gtYlVpODAzbmpQa0NtMHpwU0ZrYTg2MVg4NVFMRWNCaW9XQzVpTUtBS1p3WVNESkxVXzQycjlqWlc2TXlQWExGNXo1M0cyeXJlQWozNERVOVM0RThtN2ZYZFJfY2syZmhleWdaelFKX0lLR3k5ZDJKY1IzSl93SmVyanlHRmE2TDJWUFR3UTBqaDMwX3Y3OEVuZmRWX1gwMzFaZDBBMUxYU2JuVmNwa2s?oc=5",
+  "url": "https://www.infobae.com/peru/2026/11/25/madre-de-valu-valcarcel-rompe-en-llanto-tras-agresion-a-su-hija-en-reality-y-pide-ayuda-para-traerla-de-regreso-me-ha-dolido-verte/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/peru/2026/11/25/madre-de-valu-valcarcel-rompe-en-llanto-tras-agresion-a-su-hija-en-reality-y-pide-ayuda-para-traerla-de-regreso-me-ha-dolido-verte/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé la atribución errónea a Infobae como entrevistadora y el \"según su relato\" sobre el premio; corregí la frase de la madre en inglés; ajusté la cita textual a la fuente; agregué la atribución a Infobae y a Magaly TV; quité la cita de Valú sobre el consumo que no aparece en el borrador; retiré el \"creo\"/confusión del premio que no es hecho verificado; y ajusté la traducción para que coincida con el español)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-26T12:51:13.438090+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "2d022a7ebf",
+  "titulo": "Influencer peruana es agredida en el reality dominicano \"La Casa de Alofoke 3",
+  "titulo_original": "Valú Valcárcel, influencer peruana, es agredida en reality dominicano ‘La Casa de Alofoke 3’",
+  "resumen": "Una pelea física entre concursantes del reality \"La Casa de Alofoke 3\" dejó a la influencer peruana Valú en el suelo. Su equipo pide sanciones.",
+  "gancho": "Una pelea física entre concursantes del reality \"La Casa de Alofoke 3\" dejó a la influencer peruana Valú en el suelo. Su equipo pide sanciones.",
+  "parrafos": [
+   "Un enfrentamiento físico entre concursantes del reality \"La Casa de Alofoke 3\" se volvió viral en redes sociales. La influencer peruana Vanessa Valcárcel, conocida como \"Valú\", fue empujada, golpeada y jalada del cabello durante la pelea con las gemelas dominicanas Tatiana y Dominique, conocidas como \"Las Mellas\".",
+   "El incidente ocurrió el lunes 23 de noviembre, durante el primer día de la nueva temporada del programa creado por Santiago Matías. Según los videos difundidos en distintas plataformas, una de las gemelas empujó a Valú, que perdió el equilibrio y cayó al piso. Después recibió golpes mientras otros participantes intentaban separarlas. Algunos espectadores también señalaron el riesgo de que la participante se golpeara con una escalera cercana durante la caída.",
+   "Las imágenes generaron diversas reacciones. Algunos usuarios cuestionaron lo ocurrido y pidieron medidas para garantizar la seguridad de los concursantes. Otros solicitaron que Valú abandone el programa, por considerar que su integridad podría estar en riesgo si se repiten situaciones como esta.",
+   "Tras la difusión de las imágenes, el equipo de la influencer publicó un comunicado dirigido a la producción de \"La Casa de Alofoke 3\". En él pidió revisar las grabaciones, determinar responsabilidades y aplicar las sanciones correspondientes. Su entorno reconoció que en la convivencia pueden surgir discusiones y diferencias de opinión, pero sostuvo que eso no justifica las agresiones físicas. Según el mismo comunicado, Tatiana y Dominique iniciaron los ataques, y estos ocurrieron de manera reiterada y simultánea.",
+   "\"El entretenimiento tiene límites. La integridad física no es negociable\", señaló el equipo en el pronunciamiento, en el que también recordó el cumplimiento del contrato y de las reglas que rigen la participación de los concursantes."
+  ],
+  "claves": [
+   "La influencer peruana Vanessa Valcárcel, conocida como \"Valú\", fue empujada, golpeada y jalada del cabello.",
+   "El enfrentamiento ocurrió el lunes 23 de noviembre, en el primer día de la tercera temporada del reality.",
+   "Según el equipo de Valú, las agresoras son las gemelas dominicanas Tatiana y Dominique, conocidas como \"Las Mellas\".",
+   "El equipo de la influencer exige que la producción revise las grabaciones y aplique sanciones."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Peruvian influencer attacked on Dominican reality show \"La Casa de Alofoke 3",
+   "gancho": "A physical fight between contestants on the reality show \"La Casa de Alofoke 3\" left Peruvian influencer Valú on the floor. Her team is calling for sanctions.",
+   "claves": [
+    "Peruvian influencer Vanessa Valcárcel, known as \"Valú,\" was pushed, hit and pulled by the hair.",
+    "The fight took place on Monday, November 23, on the first day of the show's third season.",
+    "According to Valú's team, the attackers were Dominican twins Tatiana and Dominique, known as \"Las Mellas.\"",
+    "Her team is demanding that the production review the recordings and apply sanctions."
+   ],
+   "importa": "",
+   "parrafos": [
+    "A physical fight between contestants on the reality show \"La Casa de Alofoke 3\" went viral on social media. Peruvian influencer Vanessa Valcárcel, known as \"Valú,\" was pushed, hit and pulled by the hair during a clash with Dominican twins Tatiana and Dominique, known as \"Las Mellas.\"",
+    "The incident took place on Monday, November 23, during the first day of the new season of the show created by Santiago Matías. According to videos shared across several platforms, one of the twins pushed Valú, who lost her balance and fell to the floor. She then received blows while other participants tried to separate them. Some viewers also pointed out the risk that she could have hit a nearby ladder during the fall.",
+    "The images sparked mixed reactions. Some users questioned what happened and called for measures to guarantee contestants' safety. Others asked that Valú leave the show, arguing that her physical safety could be at risk if situations like this happen again.",
+    "After the footage spread, the influencer's team issued a statement addressed to the production of \"La Casa de Alofoke 3.\" It asked for the recordings to be reviewed, for responsibility to be determined, and for corresponding sanctions to be applied. Her team acknowledged that discussions and differences of opinion can arise while living together, but said these do not justify physical attacks. According to the same statement, Tatiana and Dominique started the attacks, and they happened repeatedly and simultaneously.",
+    "\"Entertainment has limits. Physical integrity is not negotiable,\" the team said in the statement, which also referred to contract compliance and the rules governing contestants' participation."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeEpyTHVKZm5IMlFNaHhhdU5ISF9KRGdJb0ExTHRsZ2l4cVhwTEJWaFBOQmZ0WUpaNThTc2VFeFQta01kTk1pdkZvcHNmb0h5ejJRc2dURHFjN1NMalFYX1Q3aFpZbXdscGhXN2lxR2RkQXUxYWFUMS10aFBUZUhBQzhkSHJnaTBMX2h5NEgxeUxHVHBxM0pnUmY5Q00weVRGU3A1aGZ3eFRiWHFERDNVcl9wbWlvUGk5NmQtZE5yci0yb2FUQkROWHVWMFJMWW1PTUtQX2RSVUdiLTBzby1zTnl4aGlKNknSAfsBQVVfeXFMTi1RbU1tR3E3VHJ6c3UxNlpHUnlTN1FSRElCUkNqdXR6M1RzUnV4Z0U5SVV2YUVtS1FvZ1dtbFB2am5QeHVKYVV4QXZBQW1MbVhOWVgzdW1yRGRiblFsd29qQ0tTNDYxUVhiN2VSSDhKRVUxamR4WGxxSHAweGQ0OUNZX244WFNnRjdIQWlKcFRqVk9POE9ZVkYxTVdYT0l0TFhXVmxzNjVtanJxb2V0YkNOdHozNTl3b0ZLbG1qZGlSNTl1R3d3a2ZoMDlncWEtM2hwTHNMYlJ4bEl1TGVnUkdpYUVBZjRxcDRqWERrRFBSVUpfcU5mQUVWOUU?oc=5",
+  "url": "https://elcomercio.pe/tvmas/television/vanessa-valu-valcarcel-influencer-peruana-es-agredida-en-reality-dominicano-la-casa-de-alofoke-3-ultimas-noticia/",
+  "fuente": "El Comercio Perú",
+  "dominio": "elcomercio.pe",
+  "fuentes": [
+   {
+    "nombre": "El Comercio Perú",
+    "url": "https://elcomercio.pe/tvmas/television/vanessa-valu-valcarcel-influencer-peruana-es-agredida-en-reality-dominicano-la-casa-de-alofoke-3-ultimas-noticia/"
+   },
+   {
+    "nombre": "La República",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRl8tQWhCLVFuaTFhWGJtVElNNmttSkpTV3Vhb0F4ZnJSS2s0VVV6M281RE80MVIwbHlsckhULWxacTBWZmxRVUtxUVhKczVUZzVlZFZreFpqQWItMUh6Q2lZYlQwajU0dGRrY2ZYYVlmd2lTcmhrTC04QW55QnNMMXo0Snl4a3pHNXh3b0sxb3RMaURzd1NvbWk4Q2VvTVp3VWNtRE5YbzJXZk9QUVNuVXVVR2p4SVFjMENHejFocXduejZlaVp3cFA0eExJWHZ3ZzhxZ0FYV1ZIRzZ2VmpqaUs2dm1yRUttOFBZSHhuenpZMm5jMVJwWGpnQXVhQlIxWlHSAYcCQVVfeXFMTjFieG9YcjZpdXNhR0o5S3B4UV9aRTJ0QXM1NEJ4TzNSR3BqWm04eThYV0RFRWdoVmhMLUVHazB3aklEV19yRXNEMjdjalJ2TlRLb3ZZZUYzTHZfNk1qNW8yblhFT1A5QW01WkFtR1ZPNl96OGxFbUItcjFIZzBHQXloTFNEQTNDbnBzOFRkLWM0UWZVQlFocVBqbkJyMkFKVUNiMUNQdWdWaFpyS3pvOWllVmtrWVJuUi1CN18zQkw5V0FHcER5cndqWWJfNXJpTXZpNEVJU2Q1MUNycWJWTUpzSHQwZTE0dExrbG9Bd1Vld1h5SUpHVUZLUzE0bGpKODFrRFZsT1E?oc=5"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (eliminé \"Tatiana y Dominique iniciaron los ataques\" como hecho y lo atribuí al equipo de Valú; atribuí la mención de la escalera a \"algunos espectadores\" según la fuente; corregí el título y el gancho para que el nombre sea Vanessa Valcárcel conforme a la fuente y añadí el cierre de comillas en el título; ajusté el texto en inglés para que coincida con el español).",
+  "seccion": "Famosos",
+  "fecha": "2026-11-26T12:51:32.070654+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "a7726419dd",
+  "titulo": "Packers vs. Rams (25 de Nov., 2026) Resultados en Vivo",
+  "titulo_original": "Packers vs. Rams (25 de Nov., 2026) Resultados en Vivo",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFpwRmROSGZReDh2MEVfZlJfLTBWTFpmNktQSlROeHktaGwybUFkeWsteE55UU1kcjRIaG0tcU9PR0l1TkpwVHgxeWd3empuM1ZUbnl1aWRDVW9wWUN2dFFMSll0M3FkRmg5ZVdYZ3U2eDhCLW1FUTVjX2ZhQW9BXw?oc=5",
+  "fuente": "ESPN Deportes",
+  "dominio": "espndeportes.espn.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-26T12:52:22.953329+00:00"
+ },
+ {
+  "id": "2393573a35",
+  "titulo": "NFL: Rodgers cortado por Steelers; acusa al coach McCarthy",
+  "titulo_original": "NFL: Rodgers cortado por Steelers; acusa al coach McCarthy",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVdHdGZLaFB6bmZVMTF1eU9HY2VMMmEyRGZkRllyTUprak1kT0pscE8wZnpTWXlwLXJYbEdfbFdPaDhubTBtLWxRS3ZHMFNtcHp1aHRXQ3M3Ykl5OE1CWVYycjNrSzBSNDBUWGFYeVp2MDM4b2x5ZFdFYlVmOXl4RzZVZjdnYzNDblBORVBHeHJoRGM2amRBam9RY1RINkkxTmE5V2lxRnRLb2tUWUU0N1Ytel8wUQ?oc=5",
+  "fuente": "ESPN Deportes",
+  "dominio": "espndeportes.espn.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-26T12:52:25.357438+00:00"
+ },
+ {
+  "id": "bb166a4d54",
+  "titulo": "Subsidios a combustibles costarían RD$50,000 millones en 2026, según Julio Brache",
+  "titulo_original": "Julio Brache dice que subsidios a combustibles costarán RD$50,000 millones en 2026",
+  "resumen": "El subsidio a los combustibles podría costarle al Estado RD$50,000 millones al cierre de 2026. El presidente de la AIRD habla del impacto en las finanzas públicas.",
+  "gancho": "El subsidio a los combustibles podría costarle al Estado RD$50,000 millones al cierre de 2026. El presidente de la AIRD habla del impacto en las finanzas públicas.",
+  "parrafos": [
+   "El presidente de la Asociación de Industrias de la República Dominicana (AIRD), Julio Brache, afirmó que los subsidios a los combustibles costarán alrededor de RD$50,000 millones al Estado dominicano al cierre de 2026. Según explicó, el alza de los precios por los conflictos internacionales ha sido una carga para las finanzas públicas.",
+   "De acuerdo con Brache, el Estado desembolsa aproximadamente RD$1,500 millones cada semana para sostener este subsidio. Además, el subsidio eléctrico alcanzaría los US$2,000 millones.",
+   "Brache también se refirió a las recomendaciones del Fondo Monetario Internacional (FMI), que propone reestructurar estos mecanismos para que las ayudas sean más focalizadas y lleguen a quienes más las necesitan. Sobre ese punto, consideró que corresponde a las autoridades dominicanas decidir cómo aplicar esas sugerencias. En sus palabras, el Estado debe tomarlas \"con pinzas\" y aplicarlas como considere más adecuado.",
+   "El dirigente empresarial indicó que el Gobierno y el sector empresarial participan en una mesa de precios que se reúne mensualmente en el Palacio Nacional para revisar los subsidios destinados a amortiguar los costos de distintos productos y servicios. También precisó que el Estado mantiene ayudas para los fertilizantes, con el propósito de contener precios y preservar la estabilidad social.",
+   "En cuanto a la economía, Brache calificó el año como \"positivo\" y señaló que el país registra un crecimiento de alrededor de 4.5 %, con perspectivas de un ritmo similar o superior el próximo año. Reconoció que el período ha estado marcado por desafíos, como los conflictos internacionales y el alto costo de los combustibles.",
+   "Por su parte, la abogada Marisol Vicens Bello planteó que es oportuno un consenso entre el Gobierno y la oposición para definir medidas que favorezcan una reforma fiscal integral, de modo que el costo de la electricidad no afecte la economía del país."
+  ],
+  "claves": [
+   "Los subsidios a los combustibles representarían unos RD$50,000 millones al cierre de 2026.",
+   "El subsidio eléctrico alcanzaría los US$2,000 millones.",
+   "El Estado desembolsa cerca de RD$1,500 millones cada semana para sostener el subsidio.",
+   "El FMI recomienda reestructurar estas ayudas para que sean más focalizadas."
+  ],
+  "importa": "El costo de estos subsidios pesa sobre las finanzas del Estado, y el debate sobre cómo sostenerlos o reducirlos podría afectar los precios que pagan las familias dominicanas.",
+  "en": {
+   "titulo": "Fuel Subsidies Could Cost RD$50 Billion in 2026, Says Julio Brache",
+   "gancho": "Fuel subsidies could cost the Dominican state RD$50 billion by the end of 2026. The head of the AIRD business group weighs in on the impact on public finances.",
+   "claves": [
+    "Fuel subsidies would cost roughly RD$50,000 million by the end of 2026.",
+    "The electricity subsidy would reach US$2,000 million.",
+    "The state spends about RD$1,500 million every week to sustain the fuel subsidy.",
+    "The IMF recommends restructuring these aid programs to make them more targeted."
+   ],
+   "importa": "The cost of these subsidies weighs on the state's finances, and the debate over how to sustain or reduce them could affect the prices Dominican families pay.",
+   "parrafos": [
+    "Julio Brache, president of the Dominican Republic's Association of Industries (AIRD), said fuel subsidies will cost the Dominican state roughly RD$50,000 million by the end of 2026. He explained that rising prices amid international conflicts have placed a burden on public finances.",
+    "According to Brache, the state disburses about RD$1,500 million each week to sustain the subsidy. The electricity subsidy would reach US$2,000 million.",
+    "Brache also addressed recommendations from the International Monetary Fund (IMF), which proposes restructuring these mechanisms so that aid is more targeted and reaches those who need it most. On this point, he said it is up to Dominican authorities to decide how to apply those suggestions. In his words, the state should take them \"with tongs\" and apply them as it considers appropriate.",
+    "The business leader said the government and the business sector take part in a price table that meets monthly at the National Palace to review subsidies meant to cushion the costs of various products and services. He also noted that the state maintains aid for fertilizers to help contain prices and preserve social stability.",
+    "On the economy, Brache called the year \"positive\" and said the country is growing at about 4.5%, with prospects for a similar or higher pace next year. He acknowledged that the period has been marked by challenges, including international conflicts and high fuel costs.",
+    "For her part, attorney Marisol Vicens Bello said a consensus between the current government and the opposition is timely to define measures that favor a comprehensive fiscal reform, so that the cost of electricity does not affect the country's economy."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWtQV1V2ZnB1Y2FMbTdVeEtGalZpZnd1aTJscVpIcF9SbGZWbHowakpLS08xcTFuVWVoUThKMlpxb1lmVnZQV1NOb0hjSFk2NGxGajVhWXJaWnpQbjlOMTVZTVd0RUltMlk2WjlkMmFHWlFUSWtZa0drN3VXTUJMOEpjY0JndXNnelRXN1BGVS1vQnR3czRNSUpfZkt3ellnWWJLOVJaXzNWRjhaTm9kV0RVS25iaDVWdXpLaUlXQjE1V25PVlJB0gHMAUFVX3lxTE5vU1NENzBqVnNLM2Eya0diYWJDRGhZdjZGWDFqaVZuVVJ2SVRrS2pheWxJbzcxQ0ZEUFE0VjBhamNLcGxCVGlfbHVfUmxCeXA2eFpXbHhZVEFXTEVyZTZ1NXQteDBiejY5a291b2Q1UEd6UDdCZlZTSUp5YVJib1dhbDNEeDZPd1UyS3ZjbWViZktLMGQyWWNmRU9LSDAwZDgzSm1NWE9LS3R0VlVkamhhZFozbkx4VmZkb1hLUGZHQmw2b3FZb1JYcWZqSA?oc=5",
+  "url": "https://listindiario.com/economia/20261125/julio-brache-dice-subsidios-combustibles-costaran-rd-50-000-millones-2026_931476.html",
+  "fuente": "Listín Diario",
+  "dominio": "listindiario.com",
+  "fuentes": [
+   {
+    "nombre": "Listín Diario",
+    "url": "https://listindiario.com/economia/20261125/julio-brache-dice-subsidios-combustibles-costaran-rd-50-000-millones-2026_931476.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Por su parte\" no; cambios: \"Por su parte\" se mantiene; ajusté \"lo que\" en inglés, corregí \"sostienen\" y \"mesa de precios\"; atribuí a Brache la afirmación de \"alrededor de RD$50,000 millones\" en el gancho y el dato de US$2,000 millones ya estaba atribuido; y eliminé \"En sus palabras\" por una cita textual exacta; ver detalle abajo)",
+  "seccion": "Precios y combustibles",
+  "fecha": "2026-11-26T12:52:48.259167+00:00",
+  "tendencia": 2
+ },
+ {
   "id": "b8a8dbcb3e",
   "titulo": "La RDC supera los 12.000 casos de ébola y más de 5.900 muertos",
   "titulo_original": "La RDC supera la barrera de los 12.000 casos de ébola, que ha causado ya más de 5.900 muertos",
@@ -238,7 +756,7 @@
   "revision": "corregida (se cambió \"Por su parte\" por \"Y\" para mayor fluidez; se corrigió \"Estos se entregaron\" a \"Los pavos se entregaron\" para evitar ambigüedad; se agregó \"el\" en \"en el Alto Manhattan\" del texto inglés no fue necesario; se eliminó \"y al día siguiente\" por \"y el día siguiente\" sin cambio de sentido; se corrigió \"Espaillat\" sin cambios; se mantuvo el resto).",
   "seccion": "Dominicanos en EE.UU.",
   "fecha": "2026-11-26T11:49:52.581739+00:00",
-  "tendencia": 7,
+  "tendencia": 6,
   "ig": "publicado",
   "ig_img": "ig/26cc61b409.jpg",
   "historia": "publicado",
@@ -2953,7 +3471,7 @@
   "revision": "corregida (se corrigió la fecha de la postergación de 1942-1944 a 1942-1945 según La Vanguardia, se atribuyó la cifra de 1942-1944 a EFE, se corrigió el titular/gancho en inglés sobre \"primera vez en décadas\" que no aparece en las fuentes, se atribuyó a La Vanguardia el dato del inflado del viernes y a CDN el dato de Nueva Jersey, se quitó la mención de \"mareas altas extraordinarias\" sin atribuir bien, y se ajustó el texto en inglés para que coincida con el español).",
   "seccion": "Internacionales",
   "fecha": "2026-11-26T05:50:32.038865+00:00",
-  "tendencia": 7
+  "tendencia": 6
  },
  {
   "id": "96decb4d6a",
@@ -3012,7 +3530,11 @@
   "revision": "corregida (la versión española de las fuentes dice 80 km; el borrador en inglés decía 50 miles, que es una conversión que no estaba en las fuentes y la dejé en 80 kilómetros, equivalente en inglés \"80 kilometers\". También corregí \"81.5 millones\" y \"417,000\" con formato consistente con las fuentes, y \"0.2 %\" a \"0,2 %\"; quité \"Día de Acción de Gracias\" repetido innecesario y \"lo que hace\" sin cambios de fondo).",
   "seccion": "Internacionales",
   "fecha": "2026-11-26T05:50:52.886427+00:00",
-  "tendencia": 7
+  "tendencia": 6,
+  "ig": "pendiente",
+  "ig_img": "ig/96decb4d6a.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/96decb4d6a-h.jpg"
  },
  {
   "id": "c169f2d51c",
@@ -6017,7 +6539,7 @@
   "revision": "corregida (se ajustó la redacción del gancho y se eliminó la frase \"Esto es lo que debes saber\" por ser de relleno; se aclaró que la fuente es la embajada según Diario Libre; se mantuvieron todas las cifras y fechas, que coinciden con las fuentes)",
   "seccion": "Internacionales",
   "fecha": "2026-11-25T23:50:31.247947+00:00",
-  "tendencia": 7,
+  "tendencia": 6,
   "ig": "publicado",
   "ig_img": "ig/4c9187ce81.jpg",
   "ig_id": "18110721425631332",
@@ -11280,7 +11802,7 @@
   "revision": "corregida (quité el \"Muchos dominicanos ni siquiera saben que existe\" que no está en la fuente; quité la afirmación de que el pavo \"suele\" acompañarse igual, ajusté a \"puede acompañarse\"; \"Thanksgiving\" pasa a \"the Thanksgiving-style dinner\"; y precisé que la ley 6038 la fijó el Consejo de Estado sin decir \"a la mesa dominicana\" como hecho general; también reemplacé \"lo llevó a la mesa\" del gancho por el enfoque de la fuente)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-25T13:50:24.673499+00:00",
-  "tendencia": 7,
+  "tendencia": 6,
   "ig": "publicado",
   "ig_img": "ig/301ebebe71.jpg",
   "historia": "publicado",
@@ -12364,7 +12886,7 @@
   "revision": "corregida (eliminé \"trasladó\"... no; cambios: \"Según el FMI\" sin cambio de fondo; atribuí a Acento las cifras de la encuesta y precisé que la encuesta es en redes; quité \"significativamente\" del BC y \"Banco Central indicó que, durante 2026\" se mantuvo fiel a la fuente; en inglés corregí \"Instagram comments\" sin alterar sentido; quité \"se intensifica\" por \"mounting\" y ajusté el encabezado de la encuesta a \"social media channels\")",
   "seccion": "República Dominicana",
   "fecha": "2026-11-25T10:52:21.528960+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "29e8b242e8",
@@ -13163,7 +13685,7 @@
   "revision": "corregida (se corrigió \"ajusticiamiento\" sin cambios de fondo; se atribuyó la motivación religiosa a la ley; se eliminó la afirmación de que el Consejo de Estado \"dirigía el país\" con redacción neutral; se aclaró que los considerandos mencionan la influencia del cristianismo; se ajustó la frase sobre la costumbre para reflejar la fuente)",
   "seccion": "República Dominicana",
   "fecha": "2026-11-25T06:50:04.096282+00:00",
-  "tendencia": 7,
+  "tendencia": 6,
   "ig": "publicado",
   "ig_img": "ig/1ba73fdad1.jpg",
   "historia": "publicado",
@@ -13862,7 +14384,7 @@
   "revision": "corregida (se quitó la afirmación de que Valú \"estaba distraída\" y \"fue empujada\" sin atribución; la fuente dice que la gemela \"aprovecha que Valú... estaba distraída\", así que se atribuye a las imágenes; se atribuyó a Infobae/La República la descripción de la agresión y la cita; se eliminó \"Pobre\"... no aplicaba; se corrigió que la caída fue \"cerca del filo de la escalera\" como comentario de usuarios; se corrigió \"The altercation\" a \"fight\" para mantener el tono; se corrigió el título para que coincida con las fuentes (\"termina en el suelo tras ser agredida por gemelas dominicanas\"); se atribuyó la preocupación de la compañera y la intervención de Conet a las imágenes difundidas; se aclaró que los 41 días son los que permanecen en la casa según la fuente; se atribuyó la información de la temporada a La República.)",
   "seccion": "Famosos",
   "fecha": "2026-11-25T05:51:48.317119+00:00",
-  "tendencia": 2
+  "tendencia": 3
  },
  {
   "id": "ec17369101",
@@ -14728,7 +15250,7 @@
   "revision": "corregida (Se corrigió la afirmación de que el Taira \"dominicano\"... no: se corrigió que la oferta de los Azulejos fue \"superada\" con cifra de US$400 millones atribuida a MLB.com; se atribuyó a MLB.com la cifra de la oferta, se atribuyó a MLB.com la sección de \"Cachorros\" (Sato firmó con ellos, no se mencionó en el borrador), se eliminó la frase \"según MLB.com ese movimiento abrió el camino a otras firmas\" por no estar en la fuente, se eliminó el \"Trevor Rogers\" con los Cachorros que no aparecía en el texto, se eliminó la afirmación de \"fanáticos dominicanos\" por no estar en la fuente, se suprimió \"dos veces ganador del Premio Cy Young\" no usado, y se ajustó \"rotación de cuatro integrantes fijos\" a lo que dice la fuente: Cease, Yesavage y Soriano son posibles primeros integrantes junto con Taira.)",
   "seccion": "Deportes",
   "fecha": "2026-11-25T04:52:01.212167+00:00",
-  "tendencia": 7
+  "tendencia": 6
  },
  {
   "id": "27fa363c83",
@@ -14903,7 +15425,7 @@
   "revision": "corregida (quité \"sin lugar a dudas\"-tipo relleno; en el borrador español el texto ya era limpio; corregí el gancho/título para que no atribuya a Díaz \"explica por qué\" sin respaldo literal, cambié \"dice que se reducen\" por \"afirma que se han reducido\" según la fuente, y en IMPORTA quité la afirmación sin atribución \"Las autoridades dicen que por ahora buscan amortiguar\", que sí corresponde a la fuente pero se mantiene; además quité \"sin lugar a dudas\" no presente y ajusté \"se hará de manera gradual\" a \"reducción... se ha realizado de manera gradual\" según Acento. Las demás cifras, fechas y nombres coinciden con las fuentes.)",
   "seccion": "Precios y combustibles",
   "fecha": "2026-11-25T04:53:01.987390+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "b4e1a7c832",
@@ -17876,673 +18398,5 @@
   "oculta": "sin texto",
   "v": 2,
   "fecha": "2026-11-24T23:34:18.458036+00:00"
- },
- {
-  "id": "7d24614cef",
-  "titulo": "Nacionales entran en la carrera por Jazz Chisholm Jr.",
-  "titulo_original": "Washington entra en la pelea con Mets y Azulejos por Chisholm Jr. (informe)",
-  "resumen": "Washington estaría en conversaciones por el bateador zurdo de los Yankees, en medio del interés de otros equipos.",
-  "gancho": "Washington estaría en conversaciones por el bateador zurdo de los Yankees, en medio del interés de otros equipos.",
-  "parrafos": [
-   "Washington se suma a la lista de equipos interesados en Jazz Chisholm Jr. Según Robert Murray, de FanSided, los Nacionales están \"actualmente en conversaciones\" con el bateador zurdo, dos veces convocado al Juego de Estrellas.",
-   "La noticia llega después de que el corresponsal de MLB Network Jon Paul Morosi informara que 11 equipos sostuvieron conversaciones con los representantes de Chisholm durante las Reuniones de Gerentes Generales de este mes en Las Vegas. Según los informes, entre esos clubes, los Azulejos y los Mets han sido señalados como interesados en el jugador.",
-   "Chisholm, de 28 años, tuvo una temporada relativamente discreta con los Yankees en 2026. Aun así, un refuerzo de ese perfil ayudaría a Washington en una posición que en 2026 tuvo un OPS de .577, el peor de las Grandes Ligas."
-  ],
-  "claves": [
-   "Según Robert Murray, de FanSided, Washington está \"actualmente en conversaciones\" con Chisholm Jr.",
-   "Antes, Jon Paul Morosi, de MLB Network, informó que 11 equipos hablaron con sus representantes en las Reuniones de Gerentes Generales en Las Vegas.",
-   "Según los informes, los Azulejos y los Mets también han mostrado interés en el bateador zurdo.",
-   "Los Nacionales produjeron un OPS de .577 en esa posición en 2026, el peor de las Grandes Ligas."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Nationals Enter Race for Jazz Chisholm Jr.",
-   "gancho": "Washington is reportedly in talks for the Yankees left-handed hitter as other clubs also show interest.",
-   "claves": [
-    "Robert Murray of FanSided reports Washington is \"currently in discussions\" with Chisholm Jr.",
-    "Jon Paul Morosi of MLB Network reported that 11 teams held talks with Chisholm's representatives at the General Managers Meetings in Las Vegas.",
-    "According to reports, the Blue Jays and Mets have also shown interest in the left-handed hitter.",
-    "The Nationals posted a .577 OPS at that position in 2026, the worst in MLB."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Washington is joining the list of teams interested in Jazz Chisholm Jr. According to Robert Murray of FanSided, the Nationals are \"currently in discussions\" with the left-handed hitter, a two-time All-Star.",
-    "The news follows a report from MLB Network correspondent Jon Paul Morosi that 11 teams held talks with Chisholm's representatives during this month's General Managers Meetings in Las Vegas. According to reports, among those clubs, the Blue Jays and Mets have been linked to the player.",
-    "Chisholm, 28, had a relatively quiet season with the Yankees in 2026. Still, an addition of that profile would help Washington at a position that posted a .577 OPS in 2026, the worst in the majors."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0UwZ0xYOVl6R3A4V3pOLVhaRm1yb01fR3JVYTJTUXhvcUpOMFZsNVNiUFp5NW94MktwZG81NWd3YVh6ZzE0MF9jZ09FTVJxbXVwdUJWVEFPRHFDYUFPclUzNE1reG05RUQ1Tm9fNFljZlY0aS1CRG16YTZ0NmhwUW9faXhyZ2t5dERmR05LaTluVUxKd2Y2aUJHSmpVbkk3QTdzNTY4ZzMzZ2EtWFHSAa4BQVVfeXFMTkdFMGdMWDlZekdwOFd6Ti1YWkZtcm9NX0dyVWEyU1F4b3FKTjBWbDVTYlBaeTVveDJLcGRvNTVnd2FYemcxNDBfY2dPRU1ScW11cHVCVlRBT0RxQ2FBT3JVMzRNa3htOUVENU5vXzRZY2ZWNGktQkRtemE2dDZocFFvX2l4cmdreXREZkdOS2k5blVMSndmNmlCR0pqVW5JN0E3czU2OGczM2dhLVhR?oc=5",
-  "url": "https://www.mlb.com/es/amp/news/washington-entra-en-la-pelea-con-mets-y-azulejos-por-chisholm-jr-informe.html",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "fuentes": [
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/amp/news/washington-entra-en-la-pelea-con-mets-y-azulejos-por-chisholm-jr-informe.html"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/washington-entra-en-la-pelea-por-chisholm-jr/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (eliminé \"Por ahora, los informes no indican...\" que no está en las fuentes; cambié \"el año pasado\" por \"en 2026\" para coincidir con las fuentes; corregí \"a addition\" por \"an addition\" en el inglés y cambié \"Azulejos\" por \"Blue Jays\" en el inglés para mantener el mismo sentido que el español; atribuí el interés de Azulejos y Mets a los informes, no a Morosi; ajusté el gancho y las claves para que no adelanten nada sobre \"qué busca el club\" sin respaldo).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T23:34:32.108529+00:00",
-  "tendencia": 2
- },
- {
-  "id": "7ec219ec03",
-  "titulo": "Raquel Peña resalta inversiones clave para el crecimiento de la región Norte",
-  "titulo_original": "Vicepresidenta Raquel Peña destaca inversiones estratégicas para fortalecer la competitividad y el desarrollo de la región Norte",
-  "resumen": "La vicepresidenta dice que el 79 % de la inversión en el Norte se concentra en energía, zonas francas e infraestructura. Entre los proyectos, una autopista que cambiará el viaje entre Santiago y Puerto Plata.",
-  "gancho": "La vicepresidenta dice que el 79 % de la inversión en el Norte se concentra en energía, zonas francas e infraestructura. Entre los proyectos, una autopista que cambiará el viaje entre Santiago y Puerto Plata.",
-  "parrafos": [
-   "La vicepresidenta de la República, Raquel Peña, destacó en Santiago la importancia de las inversiones públicas y privadas para fortalecer la competitividad de la región Norte, ampliar su capacidad productiva y crear empleos. Habló como oradora invitada en el Almuerzo Empresarial de la Cámara Americana de Comercio de la República Dominicana (AMCHAMDR), bajo el tema \"Los retos del crecimiento de la región Norte a partir de las inversiones públicas y privadas\".",
-   "Peña, quien preside el Gabinete de Promoción de Inversiones, señaló que cerca del 79 % de la inversión en la región se concentra en energía, zonas francas e infraestructura vial. Entre los proyectos citó las circunvalaciones de Navarrete, las intervenciones en la autopista Duarte y la Autopista del Ámbar, cuyo inicio está previsto para el 27 de noviembre, por disposición del presidente Luis Abinader. Esta última obra reducirá a unos 35 minutos el traslado entre Santiago y Puerto Plata.",
-   "También mencionó el impacto del puerto de Manzanillo en la capacidad exportadora de la región y del proyecto Punta Bergantín en el desarrollo turístico y en las oportunidades para productores y proveedores locales. La vicepresidenta subrayó, además, que el sistema eléctrico debe fortalecerse, pues un suministro confiable es indispensable para atraer nuevas inversiones.",
-   "En materia de educación, Peña destacó la necesidad de formar profesionales capaces de aprovechar la inteligencia artificial y de mantener las decisiones fundamentales bajo responsabilidad humana. Defendió asimismo la continuidad de las políticas públicas y la eficiencia en el uso de los recursos para alcanzar las metas de Meta RD 2036, de modo que el crecimiento se traduzca en beneficios para las familias.",
-   "\"El desarrollo no se decreta: se construye con esfuerzo y perseverancia\", expresó la vicepresidenta, quien invitó a mantener la colaboración entre el Gobierno y los sectores productivos."
-  ],
-  "claves": [
-   "El 79 % de la inversión en la región Norte se concentra en energía, zonas francas e infraestructura vial.",
-   "La Autopista del Ámbar, cuyo inicio está previsto para el 27 de noviembre, reducirá a unos 35 minutos el trayecto entre Santiago y Puerto Plata.",
-   "El puerto de Manzanillo y el proyecto Punta Bergantín buscan ampliar exportaciones y dinamizar el turismo."
-  ],
-  "importa": "Las inversiones buscan generar empleo y oportunidades para productores locales, además de mejorar el transporte entre Santiago y Puerto Plata. Para los dominicanos, esto podría traducirse en más trabajo y un traslado más rápido en el Norte.",
-  "en": {
-   "titulo": "Vice President Raquel Peña Highlights Investments Driving Growth in the North",
-   "gancho": "Vice President Raquel Peña says 79% of investment in the North goes to energy, free trade zones and infrastructure. One highway project will sharply cut travel time between Santiago and Puerto Plata.",
-   "claves": [
-    "About 79% of investment in the North is concentrated in energy, free trade zones and road infrastructure.",
-    "The Autopista del Ámbar, scheduled to begin on November 27, will cut travel between Santiago and Puerto Plata to about 35 minutes.",
-    "The Manzanillo port and the Punta Bergantín project aim to expand exports and boost tourism."
-   ],
-   "importa": "The investments are meant to create jobs and opportunities for local producers, and to improve transportation between Santiago and Puerto Plata. For Dominicans, that could mean more work and faster travel in the North.",
-   "parrafos": [
-    "Vice President Raquel Peña stressed in Santiago the importance of public and private investment in strengthening competitiveness in the Northern region, expanding its productive capacity and creating jobs. She spoke as the guest speaker at the Business Luncheon of the American Chamber of Commerce of the Dominican Republic (AMCHAMDR), under the theme \"The Challenges of Growth in the Northern Region Based on Public and Private Investment.\"",
-    "Peña, who chairs the Investment Promotion Cabinet, said that about 79% of investment in the region is concentrated in energy, free trade zones and road infrastructure. Among the projects she cited were the Navarrete bypasses, improvements to the Duarte highway, and the Autopista del Ámbar, scheduled to begin on November 27, by order of President Luis Abinader. The latter work will reduce travel time between Santiago and Puerto Plata to about 35 minutes.",
-    "She also highlighted the impact of the Manzanillo port on the region's export capacity, and of the Punta Bergantín project on tourism development and opportunities for local producers and suppliers. The vice president also stressed that the electrical system must be strengthened, since a reliable power supply is essential to attract new investment.",
-    "On education, Peña underscored the need to train professionals who can take advantage of artificial intelligence while keeping fundamental decisions under human responsibility. She also defended the continuity of public policies and efficient use of resources to reach the goals of Meta RD 2036, so that growth translates into benefits for families.",
-    "\"Development is not decreed: it is built with effort and perseverance,\" the vice president said, inviting continued collaboration between the government and productive sectors."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam5fdE5HQ0VER3ZURU42UW5NZ1FPRWlxamNaMzdaZ3p6YTQwcG1GcFAzM1IyRUt4d2QtTWtjV2UxelVrOE9KOXlXTDFERDJIdE9fbHFrdVd1YzJvWjhwUkRhVm81OTF6a0dJUHZ2dzJjaXVRSHJQVWtwWjFOdzNzZlhocnYzakRPaXpBWjRsOHJ4Y1BWQ08zNUtDaGtFdGQzTGdnTTQzemlyeFQ1aHZMZjVNanQ?oc=5",
-  "url": "https://presidencia.gob.do/noticias/vicepresidenta-raquel-pena-destaca-inversiones-estrategicas-para-fortalecer-la",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/vicepresidenta-raquel-pena-destaca-inversiones-estrategicas-para-fortalecer-la"
-   },
-   {
-    "nombre": "AlMomento.net",
-    "url": "https://almomento.net/raquel-pena-destaca-inversiones-impulsan-el-desarrollo-del-cibao/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "AlMomento.net"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1002292642.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé \"de la República\" sobra no; cambié \"del Gabinete\"... ver detalle abajo)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-24T22:49:28.667319+00:00",
-  "tendencia": 2
- },
- {
-  "id": "05b3578f19",
-  "titulo": "Inicia la reparación del multiuso de La Victoria con inversión de RD$20.1 millones",
-  "titulo_original": "Ministro de Deportes deja iniciados los trabajos de reparación del multiuso de La Victoria",
-  "resumen": "El ministro Kelvin Cruz dejó iniciados los trabajos de reparación de un multiuso en La Victoria, con una inversión que supera los RD$20 millones.",
-  "gancho": "El ministro Kelvin Cruz dejó iniciados los trabajos de reparación de un multiuso en La Victoria, con una inversión que supera los RD$20 millones.",
-  "parrafos": [
-   "El ministro de Deportes, Kelvin Cruz, dejó iniciados los trabajos de reparación del multiuso del municipio La Victoria, en la provincia Santo Domingo. La instalación será intervenida con una inversión de RD$20,135,700.66.",
-   "Cruz reiteró la disposición del presidente Luis Abinader de dotar de instalaciones adecuadas a todos los territorios del país. Durante el acto, el ministro expresó: \"Es un honor estar aquí completando un sueño de este municipio\", y dijo que la obra iniciará lo más pronto posible para que la comunidad pueda usarla.",
-   "La intervención contempla la rehabilitación de la zona de juego, las gradas, los vestidores, los baños públicos, las oficinas administrativas y las áreas exteriores. Entre los trabajos figuran un piso sintético en el área de juego, dos soportes con tableros profesionales de baloncesto conforme a las especificaciones de la FIBA, una pizarra digital y un reloj de posesión de 24 segundos.",
-   "El proyecto incluye también asientos de alta resistencia en las gradas, cajuelas, parales y mallas para voleibol, y el mantenimiento de la estructura metálica con instalación de aluzinc calibre 26 y correas para el techo. Además, se reconstruirán áreas del cerramiento perimetral, se remozarán los vestidores, baños y oficinas, y se harán trabajos de pintura, adecuación eléctrica y aceras perimetrales.",
-   "La obra incluye desmontajes, demoliciones y la construcción de bases de columnas, labores necesarias para recuperar la infraestructura."
-  ],
-  "claves": [
-   "Inversión de RD$20,135,700.66 en la rehabilitación de la instalación.",
-   "La obra incluye piso sintético, tableros profesionales de baloncesto y asientos de alta resistencia en las gradas.",
-   "Los trabajos también contemplan vestidores, baños públicos, oficinas y la estructura del techo.",
-   "El ministro atribuyó la obra a la disposición del presidente Luis Abinader."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Repair of La Victoria Multipurpose Venue Begins with RD$20.1 Million Investment",
-   "gancho": "Sports Minister Kelvin Cruz has launched repair work on a multipurpose venue in La Victoria, with an investment of more than RD$20 million.",
-   "claves": [
-    "Investment of RD$20,135,700.66 to rehabilitate the facility.",
-    "The project includes synthetic flooring, professional basketball backboards, and high-strength seating in the stands.",
-    "Work also covers locker rooms, public restrooms, offices, and the roof structure.",
-    "The minister credited the project to the commitment of President Luis Abinader."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Sports Minister Kelvin Cruz has launched repair work on the multipurpose venue in the municipality of La Victoria, in Santo Domingo province. The facility will be renovated with an investment of RD$20,135,700.66.",
-    "Cruz reiterated President Luis Abinader's commitment to providing adequate facilities across all regions of the country. During the event, the minister said: \"It is an honor to be here completing a dream of this municipality,\" and said work will begin as soon as possible so the community can use it.",
-    "The renovation covers the playing area, bleachers, locker rooms, public restrooms, administrative offices, and outdoor areas. Planned works include synthetic flooring on the court, two professional basketball backboards that meet FIBA specifications, a digital scoreboard, and a 24-second shot clock.",
-    "The project also includes high-strength seating in the stands, volleyball posts, and nets, along with maintenance of the metal structure, including aluzinc roofing sheets (gauge 26) and roof purlins. Sections of the perimeter fence will be rebuilt, locker rooms, restrooms, and offices will be refurbished, and general painting, electrical upgrades, and perimeter sidewalks will be added.",
-    "The work also includes dismantling, demolition, and the construction of column bases, all necessary to restore the infrastructure."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczg0UnpnUjNEZ0tlaHh3WmJIY2hUMzlsSWVTZEFwbXdjSmdka2Q3aTZJZ1F3U3lRY2xiZFJtUW12bW1nVm45anBRdlF5VDczUzlVdl9pdUp5WWhQNmUwYzd1TGwwYVdYUW53UkdQV09sYWdNUGk5aWNlRWVjd3NTZWUtNHNaQkVISmtycWp2aHhPUmpOX1NrbU1CMHpjblFOR2hsRUFBODRScTh6R0pjUjlTak04eDRIZ1FwSXJubGZhZENE?oc=5",
-  "url": "https://presidencia.gob.do/noticias/ministro-de-deportes-deja-iniciados-los-trabajos-de-reparacion-del-multiuso-de-la-victoria",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/ministro-de-deportes-deja-iniciados-los-trabajos-de-reparacion-del-multiuso-de-la-victoria"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/ministro-kelvin-cruz-deja-iniciados-los-trabajos-de-reparacion-del-multiuso-de-la-victoria/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%285%29%20%281%29_0.png",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (corregí \"pizarra digital\" por \"marcador digital\" no; mantuve el texto; cambié \"Cruz dijo\" a \"Cruz reiteró\" para reflejar la fuente y ajusté la atribución de \"sueño\" a una cita textual; corregí \"posesión\" del reloj; ajusté \"gradas de alta resistencia\" a \"asientos de alta resistencia en las gradas\"; quité el \"Por último\" por frase de transición genérica; mismos cambios en inglés)",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T22:50:02.208994+00:00",
-  "tendencia": 2
- },
- {
-  "id": "5b7711bde4",
-  "titulo": "Seis de cada diez dominicanos temen que delincuentes usen su identidad",
-  "titulo_original": "El 65 % de los dominicanos teme que su identidad sea utilizada para cometer delitos",
-  "resumen": "Un 65 % teme que su identidad sea usada para delitos, y un 37 % dice haber recibido intentos de fraude en los últimos tres meses.",
-  "gancho": "Un 65 % teme que su identidad sea usada para delitos, y un 37 % dice haber recibido intentos de fraude en los últimos tres meses.",
-  "parrafos": [
-   "Un 65 % de los dominicanos teme que delincuentes utilicen su identidad para cometer delitos, según la actualización H2 2026 del Informe de Tendencias de Fraude de TransUnion. El mismo estudio indica que un 37 % asegura haber sido objetivo de intentos de fraude por correo electrónico, internet, llamadas telefónicas o mensajes de texto durante los últimos tres meses.",
-   "De acuerdo con el informe, un 9 % de los encuestados en República Dominicana dice haber sido víctima de estos esquemas. Entre quienes reportaron haber sido objetivo de fraude, el 24 % mencionó estafas relacionadas con dinero o tarjetas de regalo. Otras modalidades citadas fueron el smishing, a través de mensajes de texto falsos; el fraude con tarjetas de crédito o cargos no reconocidos; las estafas de vendedores externos en plataformas de comercio electrónico y el vishing, mediante llamadas telefónicas, cada una con un 22 %. El phishing, que usa correos, páginas web o enlaces falsos para obtener información personal, fue mencionado por un 18 %.",
-   "En cuanto a las amenazas que más preocupan, el 49 % de los dominicanos señaló el robo de identidad, seguido del fraude con tarjetas de crédito o medios de pago, con un 48 %, y las filtraciones de datos, con un 38 %. Entre los métodos de ataque a la identidad, los perfiles falsos en redes sociales encabezan la lista con un 47 %, seguidos del phishing por correo electrónico, con un 45 %, y la exposición de información personal en filtraciones de datos, con un 43 %.",
-   "TransUnion advierte que los delincuentes aprovechan canales de comunicación habituales y técnicas de ingeniería social para generar confianza, crear urgencia y convencer a las personas de compartir información confidencial o hacer transferencias de dinero. La empresa también señala la inteligencia artificial como un factor que aumenta la escala y sofisticación de los fraudes. Según el estudio, el 42 % de los líderes empresariales consultados a nivel mundial considera que el aumento de estas prácticas representa una presión significativa o severa para sus organizaciones.",
-   "Miguel Rivera, director sénior de Fraude y Soluciones de Identidad para América Latina de TransUnion, explicó que la inteligencia artificial permite automatizar ataques, crear identidades sintéticas y elaborar mensajes más convincentes para engañar a las víctimas.",
-   "En la región, el 78,5 % de la actividad sospechosa de fraude digital registrada entre los clientes de TransUnion en América Latina durante el primer semestre de 2026 ocurrió durante los procesos de inicio de sesión, por encima del 53 % registrado a nivel global. Esto refleja el uso de credenciales comprometidas, identidades robadas y técnicas para tomar control de cuentas. En el sector de servicios financieros, la tasa de fraude digital sospechoso fue de 10,4 % en ese período.",
-   "Rivera indicó que las empresas deben fortalecer los mecanismos de verificación de identidad."
-  ],
-  "claves": [
-   "% de los dominicanos teme que delincuentes usen su identidad para cometer delitos.",
-   "% asegura haber sido objetivo de intentos de fraude en los últimos tres meses.",
-   "% de los encuestados en RD dice haber sido víctima de estos esquemas.",
-   "Los perfiles falsos en redes sociales (47 %) y el phishing por correo (45 %) son los métodos que más preocupan."
-  ],
-  "importa": "Los datos sugieren que cualquier dominicano puede ser blanco de estafas por teléfono, mensajes o correo, y que conviene desconfiar de solicitudes urgentes de información personal o de transferencias de dinero.",
-  "en": {
-   "titulo": "Six in ten Dominicans fear criminals could use their identity",
-   "gancho": "65% fear their identity could be used to commit crimes, and 37% say they were targeted by fraud attempts in the past three months.",
-   "claves": [
-    "% of Dominicans fear criminals could use their identity to commit crimes.",
-    "% say they were targeted by fraud attempts in the past three months.",
-    "% of respondents in the Dominican Republic say they have been victims of these schemes.",
-    "Fake social media profiles (47%) and email phishing (45%) are the methods that worry people most."
-   ],
-   "importa": "The data suggests any Dominican can be targeted by scams via phone, text or email, and that urgent requests for personal information or money transfers should be treated with suspicion.",
-   "parrafos": [
-    "Sixty-five percent of Dominicans fear criminals could use their identity to commit crimes, according to TransUnion's H2 2026 Fraud Trends Report update. The same study indicates that 37% say they were targeted by fraud attempts through email, internet, phone calls or text messages in the past three months.",
-    "According to the report, 9% of respondents in the Dominican Republic say they have fallen victim to these schemes. Among those who reported being targeted by fraud, 24% mentioned scams involving money or gift cards. Other methods cited were smishing, through fake text messages; credit card fraud or unrecognized charges; scams by third-party sellers on e-commerce platforms; and vishing, via phone calls, each at 22%. Phishing, which uses fake emails, websites or links to obtain personal information, was mentioned by 18%.",
-    "Asked about the threats that concern them most, 49% of Dominicans pointed to identity theft, followed by credit card or payment fraud at 48%, and data breaches at 38%. Among identity attack methods, fake social media profiles led at 47%, followed by email phishing at 45%, and exposure of personal information in data breaches at 43%.",
-    "TransUnion warns that criminals exploit common communication channels and social engineering techniques to build trust, create urgency and persuade people to share confidential information or make money transfers. The company also identifies artificial intelligence as a factor increasing the scale and sophistication of fraud. According to the study, 42% of business leaders surveyed globally consider the rise of these practices a significant or severe pressure on their organizations.",
-    "Miguel Rivera, senior director of Fraud and Identity Solutions for Latin America at TransUnion, explained that artificial intelligence makes it possible to automate attacks, create synthetic identities and craft more convincing messages to deceive victims.",
-    "In the region, 78.5% of suspicious digital fraud activity recorded among TransUnion's clients in Latin America during the first half of 2026 occurred during login processes, above the 53% recorded globally. This reflects the use of compromised credentials, stolen identities and account takeover techniques. In the financial services sector, the suspicious digital fraud rate was 10.4% in that period.",
-    "Rivera said companies must strengthen identity verification mechanisms."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajdwZkdlSEUtLTRnY0lTRHU4cC0yc1R5dXJSX2RDRW9LdEdMZnB6eEo4Rk1McVBaUTVBQVQyYlpxbXd5RGY5SXY3UjkwdXM2U2lrTXhGeHFUT2RCNGtOQmdWVU1ib1RPQWxxX2xWTDJZTU5oek44U0FfYnY1cjBTdlFUd3lBcmRjb3RnS05BbGs3eXJKRHBrclEwMVN4SXZLcEdtbzN6eGE4TmNGUWJTVA?oc=5",
-  "url": "https://elnuevodiario.com.do/el-65-de-los-dominicanos-teme-que-su-identidad-sea-utilizada-para-cometer-delitos/",
-  "fuente": "El Nuevo Diario",
-  "dominio": "elnuevodiario.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/el-65-de-los-dominicanos-teme-que-su-identidad-sea-utilizada-para-cometer-delitos/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (ajusté el título y el gancho para que \"seis de cada diez\" y \"65 %\" coincidan con la fuente; \"temen\" en vez de \"teme\"; quité \"Esto refleja\" por atribución más precisa; corregí los porcentajes de 24 %/22 % y el resto de cifras ya coincidían; eliminé la frase de cierre incompleta de Rivera y la sustituí por la cita exacta; atribuí los datos de \"9 %\" y del \"42 %\" a la fuente; quité el \"IMPORTA\" con recomendaciones no sustentadas por la fuente; se mantienen las demás cifras, nombres y cargos verificados).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-24T22:50:45.112926+00:00",
-  "tendencia": 1
- },
- {
-  "id": "0b41c5f9b3",
-  "titulo": "Freily eL F’ lanza “Clásicos a mi estilo”, su álbum de merengue desde Nueva York",
-  "titulo_original": "Freily eL F’ presenta su álbum de merengue “Clásicos a mi estilo”",
-  "resumen": "El merenguero nacido en Nueva Jersey estrenó su álbum de merengue con un enfoque entre tradición y energía moderna.",
-  "gancho": "El merenguero nacido en Nueva Jersey estrenó su álbum de merengue con un enfoque entre tradición y energía moderna.",
-  "parrafos": [
-   "El merenguero Freily eL F’ anunció el lanzamiento oficial de su producción discográfica “Clásicos a mi estilo”, disponible en todas las plataformas digitales desde el viernes 20 de noviembre. Según la nota publicada por Hoy Digital, el disco llega en la época de las celebraciones de fin de año tanto en Estados Unidos como en la República Dominicana.",
-   "Freily Cruz, nacido y criado en Nueva Jersey, es hijo de padres dominicanos y está radicado en Nueva York. Según el medio, el álbum fusiona el merengue tradicional con matices contemporáneos.",
-   "\"Para mí, hacer merengue desde Nueva York es mantener vivo el vínculo con la tierra de mis padres\", expresó el artista. \"Clásicos a mi estilo nace del respeto a nuestras raíces, pero con la energía de una nueva generación que quiere llevar nuestra bandera en alto en cada pista de baile\", agregó.",
-   "El lanzamiento cuenta con el respaldo y la distribución de La Oreja Media Group y Muzikvox, alianza que, según se informa, impulsa su posicionamiento en los principales mercados latinos.",
-   "Aunque creció rodeado de distintos géneros musicales en Estados Unidos, el sonido de la güira y la tambora fue el que marcó su vocación artística, según el texto publicado."
-  ],
-  "claves": [
-   "El álbum “Clásicos a mi estilo” salió a la venta el viernes 20 de noviembre.",
-   "Está disponible en todas las plataformas digitales.",
-   "El lanzamiento cuenta con el respaldo de La Oreja Media Group y Muzikvox.",
-   "Freily Cruz nació y creció en Nueva Jersey, es hijo de padres dominicanos y está radicado en Nueva York."
-  ],
-  "importa": "Para dominicanos en Nueva York, Nueva Jersey y en la República Dominicana, es una nueva propuesta de merengue hecha por un artista de la diáspora que busca mantener vivas las raíces musicales del país.",
-  "en": {
-   "titulo": "Freily eL F’ Releases “Clásicos a mi estilo,” His Merengue Album From New York",
-   "gancho": "The New Jersey-born merengue artist has released his merengue album, blending tradition with modern energy.",
-   "claves": [
-    "The album “Clásicos a mi estilo” became available on Friday, November 20.",
-    "It can be streamed on all major digital platforms.",
-    "The release is backed by La Oreja Media Group and Muzikvox.",
-    "Freily Cruz was born and raised in New Jersey, is the son of Dominican parents, and is based in New York."
-   ],
-   "importa": "For Dominicans in New York, New Jersey, and the Dominican Republic, it is a new merengue project from a diaspora artist working to keep the country's musical roots alive.",
-   "parrafos": [
-    "Merengue artist Freily eL F’ announced the official release of his album “Clásicos a mi estilo,” available on all digital platforms starting Friday, November 20. According to Hoy Digital, the record arrives during the year-end holiday season in both the United States and the Dominican Republic.",
-    "Freily Cruz, born and raised in New Jersey, is the son of Dominican parents and is based in New York. According to the outlet, the album blends traditional merengue with contemporary touches.",
-    "\"For me, making merengue from New York is about keeping my bond with my parents' homeland alive,\" the artist said. \"Clásicos a mi estilo comes from respect for our roots, but with the energy of a new generation that wants to carry our flag high on every dance floor,\" he added.",
-    "The release has the backing and distribution of La Oreja Media Group and Muzikvox, a partnership that, as reported, helps boost the artist's presence in the main Latin markets.",
-    "Although he grew up surrounded by different genres of music in the United States, the sound of the güira and the tambora is what shaped his artistic vocation, according to the published text."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1gwZy1FdDBDaEFoZVp4cGxsRnE0amhlaUZqMGVtYjJyWkdCMWg4b2pDYUh5RG5nNFd5QWpvQ3kzZFJRUXlRR0RoVzc2RHdRcHBLdGluV05fb1FTS21GODZJLUxEanN2Zjh5U2dtVDllVWhJNk10emVxUnBTakdiZU4zYXVRS2pwREVJUVhKZEpFVGF5VWFvZ3ZpZVlMLXRVazR0VW5oNNIBrAFBVV95cUxPdmRReFdkUzZfLXc1dzkzRHM4Uk5YYlc4RmlTaXItcklmSmZGNHBqcEwxdzM2cHExZXVlLVhQMTMtZHZIT0pRUWh0ajlvRVNZb1ZiSGlITzFXWlNFRnRURWFZOU16NWk2dUZlbFgyRnItSHg1MHRrSmVzakNBdjM2R3U2OXdtMU5Gc2kzUENzRW04SnN3OFZfWWpUZXlwbzRGMkd2VUk4YWpfSGNr?oc=5",
-  "url": "https://hoy.com.do/vivir/alegria/musica/freily-f-presenta-album-merengue-clasicos-mi-estilo_1109700.html",
-  "fuente": "Hoy Digital",
-  "dominio": "hoy.com.do",
-  "fuentes": [
-   {
-    "nombre": "Hoy Digital",
-    "url": "https://hoy.com.do/vivir/alegria/musica/freily-f-presenta-album-merengue-clasicos-mi-estilo_1109700.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se aclaró que el álbum se estrenó el 20 de noviembre con el respaldo de ambas empresas según la fuente, se eliminó \"primer álbum\" y \"full merengue album\" porque la fuente no lo dice, y se ajustó \"vive en Nueva York\" a \"radicado en Nueva York\" como en la fuente; se quitó la frase \"de acuerdo con el texto publicado\" por redundancia y se mantuvo la atribución a Hoy Digital en los puntos que lo requieren).",
-  "seccion": "Famosos",
-  "fecha": "2026-11-24T22:50:58.284988+00:00",
-  "tendencia": 1
- },
- {
-  "id": "5050e10f20",
-  "titulo": "Caro Brito aparece en expediente de Operación Rompeolas, pero no está imputada",
-  "titulo_original": "Caro Brito aparece en expediente de Rompeolas, pero no es imputada",
-  "resumen": "La presentadora Caro Brito aparece mencionada en el expediente de un caso de narcotráfico, pero no figura entre los imputados. Estos son los detalles.",
-  "gancho": "La presentadora Caro Brito aparece mencionada en el expediente de un caso de narcotráfico, pero no figura entre los imputados. Estos son los detalles.",
-  "parrafos": [
-   "La presentadora de televisión Caro Brito aparece mencionada en el expediente de la Operación Rompeolas, una investigación del Ministerio Público y la Dirección Nacional de Control de Drogas (DNCD) contra una presunta estructura dedicada al narcotráfico internacional y al lavado de activos. La mención, sin embargo, no equivale a una imputación.",
-   "De acuerdo con informaciones publicadas por el Periódico CDN, que citan el documento acusatorio, la comunicadora habría sido contratada por Fausto Candelario Ortiz, alias «Pacha», para desempeñarse como maestra de ceremonias en actividades del restaurante GAL, establecimiento relacionado con el empresario investigado. Esas mismas publicaciones señalan que Candelario Ortiz presuntamente le habría entregado RD$3 millones para compartir una cena privada con ella, además de RD$280,000 por su participación en actividades públicas y privadas.",
-   "Aunque su nombre aparece en publicaciones relacionadas con el expediente, las informaciones disponibles no la identifican entre las 22 personas contra las que el Ministerio Público solicitó prisión preventiva. Hasta el momento, no se ha informado que se hayan presentado cargos contra ella en este caso.",
-   "Brito, cuyo nombre completo es Vera Carolina Brito Roys, es una presentadora colombiana que ha desarrollado parte de su trayectoria en República Dominicana. Hasta ahora, no se ha dado a conocer una declaración pública de la presentadora en respuesta a estas informaciones.",
-   "La Operación Rompeolas, según las autoridades, desarticuló una presunta organización dedicada al tráfico internacional de cocaína y al lavado de activos. Durante el operativo se realizaron 65 allanamientos y se reportaron inicialmente 21 arrestos, y se identificaron bienes valorados en más de RD$3,112 millones. El Ministerio Público pidió además que el proceso sea declarado complejo."
-  ],
-  "claves": [
-   "Caro Brito aparece mencionada en el expediente de la Operación Rompeolas.",
-   "Según informaciones de medios, habría sido contratada por Fausto Candelario Ortiz, alias «Pacha», para actividades del restaurante GAL.",
-   "Las publicaciones señalan presuntos pagos de RD$3 millones y RD$280,000.",
-   "Brito no figura entre las 22 personas contra las que el Ministerio Público solicitó prisión preventiva."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "TV host Caro Brito named in Operation Rompeolas file, but not charged",
-   "gancho": "Dominican TV host Caro Brito is mentioned in a drug trafficking case file, but she is not among the accused. Here are the details.",
-   "claves": [
-    "Caro Brito is mentioned in the file of Operation Rompeolas.",
-    "Media reports say she was hired by Fausto Candelario Ortiz, alias \"Pacha,\" to work at the GAL restaurant.",
-    "Reports allege payments of RD$3 million and RD$280,000.",
-    "Brito is not among the 22 people for whom prosecutors requested pretrial detention."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican TV host Caro Brito is mentioned in the file of Operation Rompeolas, an investigation by the Public Ministry and the National Drug Control Directorate (DNCD) into an alleged structure dedicated to international drug trafficking and money laundering. The mention, however, does not amount to a charge.",
-    "According to reports published by CDN, which cite the indictment, the broadcaster was allegedly hired by Fausto Candelario Ortiz, alias \"Pacha,\" to act as master of ceremonies at activities of the GAL restaurant, an establishment linked to the businessman under investigation. The same reports say Candelario Ortiz allegedly paid her RD$3 million to share a private dinner with him, plus RD$280,000 for her participation in public and private events.",
-    "Although her name appears in reports related to the file, the available information does not list her among the 22 people for whom the Public Ministry requested pretrial detention. So far, there is no report that charges have been filed against her in this case.",
-    "Brito, whose full name is Vera Carolina Brito Roys, is a Colombian TV host who has built part of her career in the Dominican Republic. So far, she has not issued a public statement responding to these reports.",
-    "According to authorities, Operation Rompeolas dismantled an alleged organization dedicated to international cocaine trafficking and money laundering. The operation carried out 65 raids and initially reported 21 arrests, and identified assets valued at more than RD$3,112 million. The Public Ministry also asked that the case be declared complex."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFlhX1N6UzMtQmVQYnR5cVNuZXVHVnRLLVJYc1BOTTB3UmFhVDhuX1BNcTdlSXlIajBIRjNqaFZEMVNOd25TZnJubXEzTGxMS190bHZiNC1ta0JDZTIxNkFlVEFDNjJmUFdJR3l1VllWZ1phV2E0TXNlMlBQWGpRVllpWTRjYW80RGZrUVI1X25FZ29PTWhjT9IBoAFBVV95cUxOb2N1VHplMUNiUm84U0dRSE1nYkFwWkhIWmZxbElaa1NXNWxEZWM2T2xnNXAxNTM2Z3BGZzRRWmxZVE8tOVpETFdkYk5qSmdncjY4SlBLRkFZbUV4OGtMNENPZDhIXzh1SHJPR2hMQ1JuNXAybWpIUnAzWXVZWi1NZGg2QjhhMDhvN3F2aFItazZYdzFDdGdvbHhjLU5vc3Fy?oc=5",
-  "url": "https://cdn.com.do/nacionales/caro-brito-seria-mencionada-en-operacion-rompeolas-no-imputada/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/caro-brito-seria-mencionada-en-operacion-rompeolas-no-imputada/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se atribuyó la mención del caso a CDN en la primera mención, se corrigió \"presentadora de televisión\" a \"presentadora\" en inglés y \"TV host\" consistente, se quitó \"nacida en Barranquilla\" con redacción más natural, se corrigió \"se le hayan presentado cargos\" por \"se hayan presentado cargos\", y se cambió \"prisión preventiva\" a \"pretrial detention\" sin cambios de fondo; se mantuvo el resto).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-24T22:51:48.842531+00:00",
-  "tendencia": 1,
-  "ig": "publicado",
-  "ig_img": "ig/5050e10f20.jpg",
-  "ig_id": "17915333292566116",
-  "ig_fecha": "2026-11-24T22:55:50.271309+00:00"
- },
- {
-  "id": "8bfe848a25",
-  "titulo": "Borg atribuye la racha de siete triunfos de las Estrellas al trabajo colectivo",
-  "titulo_original": "Héctor Borg atribuye racha al trabajo colectivo",
-  "resumen": "Siete victorias seguidas y un plan de trabajo diario: el dirigente de las Estrellas Orientales explica el buen momento del equipo.",
-  "gancho": "Siete victorias seguidas y un plan de trabajo diario: el dirigente de las Estrellas Orientales explica el buen momento del equipo.",
-  "parrafos": [
-   "El dirigente de las Estrellas Orientales, Héctor Borg, atribuyó la racha de siete victorias consecutivas del equipo al compromiso de sus jugadores, a la consistencia del cuerpo técnico y al trabajo diario. En entrevista en los espacios El Mañanero Sport y ElPaditv, dijo que el equipo empieza a dar frutos al poner las cosas juntas y jugar a buen nivel de calidad.",
-   "Borg también destacó el aporte del lanzador Trevor Bauer, a quien describió como \"un buen ser humano y un buen jugador\", que ha cumplido con las expectativas y se ha mostrado dispuesto a seguir el plan de trabajo del equipo. Sobre el relevo, afirmó que la organización siempre confió en su potencial.",
-   "Según Borg, la prioridad es concentrarse en cada compromiso, sin importar el rival. \"Jugar béisbol todos los días. Ese es el enfoque de nosotros\", señaló.",
-   "El dirigente anunció además que Fernando Tatis Jr., Jermín Rosario y el lanzador Luis Mey se incorporarán al conjunto a partir de la próxima semana."
-  ],
-  "claves": [
-   "Las Estrellas Orientales acumulan siete victorias consecutivas.",
-   "Héctor Borg atribuye la racha al compromiso de los jugadores y al cuerpo técnico.",
-   "Fernando Tatis Jr., Jermín Rosario y Luis Mey se incorporan a partir de la próxima semana."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Borg credits seven-game winning streak to teamwork",
-   "gancho": "Seven straight wins and a daily work routine: the Estrellas Orientales manager explains the team's good run.",
-   "claves": [
-    "The Estrellas Orientales have won seven consecutive games.",
-    "Héctor Borg credits the streak to player commitment and the coaching staff.",
-    "Fernando Tatis Jr., Jermín Rosario and Luis Mey join the team next week."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Estrellas Orientales manager Héctor Borg credited the team's seven-game winning streak to player commitment, a consistent coaching staff and daily work. In an interview with El Mañanero Sport and ElPaditv, he said the team is starting to bear fruit by putting things together and playing at a high level.",
-    "Borg also praised pitcher Trevor Bauer, calling him \"a good person and a good player\" who has met expectations and been willing to follow the team's work plan. On the bullpen, he said the organization always believed in its potential.",
-    "According to Borg, the priority is focusing on each game, regardless of the opponent. \"Playing baseball every day. That's our focus,\" he said.",
-    "Borg also announced that Fernando Tatis Jr., Jermín Rosario and pitcher Luis Mey will join the team next week."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXlOY1ZIcE9yU2EzYnVvaWk5YmNFSXZEV3ZuRFdGN1FsX1NLZldYcFJ0UnRJU3I2eDMtZV9VbUlUdDFqLXVpUC1mal9RbEl4MDB4TDFnUVVJbFJQTmNaSWZvTDZmWUgyeWdEU0Z5aXRPQjlNOUpCZmU3eXBKdFc4Q254R2JZekIyU0N4SktMc1Y4S1pnOTJ0Y21oLWRLN00?oc=5",
-  "url": "https://lidom.com/estrellas-orientales/hector-borg-atribuye-racha-al-trabajo-colectivo-101350.html",
-  "fuente": "Lidom",
-  "dominio": "lidom.com",
-  "fuentes": [
-   {
-    "nombre": "Lidom",
-    "url": "https://lidom.com/estrellas-orientales/hector-borg-atribuye-racha-al-trabajo-colectivo-101350.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó la afirmación de que \"Estrellas\" suben en la tabla, no está en la fuente; se corrigió \"capataz/dirigente\" y se atribuyó la declaración sobre el relevo; se agregó la atribución de las citas y se normalizó el inglés).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T22:52:14.029326+00:00",
-  "tendencia": 1
- },
- {
-  "id": "80fadda070",
-  "titulo": "Freddy Peralta firma con los Orioles por cinco años y US$125 millones",
-  "titulo_original": "Freddy Peralta, Orioles agree on five-year deal",
-  "resumen": "El dominicano Freddy Peralta llega a Baltimore como el lanzador mejor pagado en la historia del equipo. Sus cifras y su paso por Nueva York explican la apuesta.",
-  "gancho": "El dominicano Freddy Peralta llega a Baltimore como el lanzador mejor pagado en la historia del equipo. Sus cifras y su paso por Nueva York explican la apuesta.",
-  "parrafos": [
-   "El lanzador dominicano Freddy Peralta llegó a un acuerdo con los Orioles de Baltimore por cinco años y US$125 millones. Según la agencia AP, citando a una persona con conocimiento directo de las negociaciones, el contrato aún debía superar un examen físico y no había sido anunciado oficialmente. Peralta, de 30 años, se convertirá en el lanzador mejor pagado en la historia del equipo.",
-   "Peralta es lanzador de derecha y dos veces All-Star. En octubre fue nombrado MVP de la Serie de Campeonato de la Liga Americana, después de llevar a los Rays de Tampa Bay a la Serie Mundial. Allí, sin embargo, tuvo una actuación irregular frente a sus antiguos compañeros de Milwaukee: permitió cinco carreras en 4.2 entradas en el Juego 3, un revés que puso a su equipo al borde de la eliminación.",
-   "Su temporada tuvo altibajos. Con los Mets terminó con marca de 5-9 y efectividad de 4.99 en 22 aperturas, y fue enviado a Tampa Bay en agosto. Con los Rays recuperó buena parte de su nivel: ganó 5-2 con efectividad de 3.25 en diez aperturas. En la campaña combinada registró 156 ponches y 63 boletos en 169 entradas.",
-   "El nuevo contrato refuerza una rotación que ya incluye a Shane Baz, Kyle Bradish y Brandon Young. Según MLB.com, los Orioles todavía podrían buscar otro abridor, idealmente zurdo.",
-   "Peralta acumula marca de 80-53 con efectividad de 3.71 en nueve temporadas en las Grandes Ligas, ocho de ellas con Milwaukee."
-  ],
-  "claves": [
-   "Peralta firma por cinco años y US$125 millones, según fuentes citadas por AP y MLB.com.",
-   "Será el lanzador mejor pagado en la historia de los Orioles.",
-   "Fue nombrado MVP de la Serie de Campeonato de la Liga Americana.",
-   "Lanzó en la Serie Mundial con los Rays, que perdieron ante Milwaukee en cinco juegos."
-  ],
-  "importa": "Para los fanáticos dominicanos de las Grandes Ligas, la firma confirma el peso de los peloteros criollos en la rotación de un equipo de primer nivel.",
-  "en": {
-   "titulo": "Freddy Peralta Signs With Orioles on Five-Year, $125 Million Deal",
-   "gancho": "Dominican pitcher Freddy Peralta is headed to Baltimore as the highest-paid pitcher in Orioles history. His postseason and New York stint help explain the bet.",
-   "claves": [
-    "Peralta agrees to a five-year, $125 million deal, according to AP and MLB.com sources.",
-    "It will make him the highest-paid pitcher in Orioles history.",
-    "He was named MVP of the American League Championship Series this October.",
-    "He pitched in the World Series with the Rays, who lost to Milwaukee in five games."
-   ],
-   "importa": "For Dominican fans of Major League Baseball, the signing underscores how much Dominican pitchers now shape top rotations.",
-   "parrafos": [
-    "Dominican pitcher Freddy Peralta has agreed to a five-year, $125 million contract with the Baltimore Orioles. According to The Associated Press, citing a person with direct knowledge of the negotiations, the deal was still subject to a physical and had not been officially announced. Peralta, 30, will become the highest-paid pitcher in the team's history.",
-    "Peralta is a right-hander and a two-time All-Star. In October he was named MVP of the American League Championship Series after leading the Tampa Bay Rays to the World Series. There, however, he struggled against his former Milwaukee teammates, allowing five runs in 4.2 innings in Game 3, a setback that put his team on the brink of elimination.",
-    "His season had ups and downs. With the Mets he went 5-9 with a 4.99 ERA in 22 starts before being traded to Tampa Bay in August. With the Rays he recovered much of his form, going 5-2 with a 3.25 ERA in 10 starts. Across the combined season he recorded 156 strikeouts and 63 walks in 169 innings.",
-    "The new contract strengthens a rotation that already includes Shane Baz, Kyle Bradish and Brandon Young. According to MLB.com, the Orioles may still look for another starter, ideally a left-hander.",
-    "Peralta has an 80-53 career record with a 3.71 ERA over nine major league seasons, eight of them with Milwaukee."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0RJWm5DRlJDWTRWTHJvOGdHbjh3OWpGUVNTTU9laXhIUlMxUk5KeERiWGljZGlzM0ZTTUpyRFp6aml4Y0J0b2dKcTA4S0U2bWVpc3BOaHpyM2VHblhMbU5oY1dvQTRXMkFzandpVzBEcWsyMURscHdpRDJtWkxzXw?oc=5",
-  "url": "https://eldia.com.do/historico-en-baltimore-freddy-peralta-firma-por-us125-millones-y-rompe-record-en-los-orioles/",
-  "fuente": "El Dia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/historico-en-baltimore-freddy-peralta-firma-por-us125-millones-y-rompe-record-en-los-orioles/"
-   },
-   {
-    "nombre": "MLB.com",
-    "url": "https://www.mlb.com/es/video/freddy-peralta-orioles-agree-on-five-year-deal"
-   },
-   {
-    "nombre": "La Nación",
-    "url": "https://www.lanacion.com.ar/usa/orioles-agree-with-freddy-peralta-on-125-million-5-year-deal-ap-source-says-nid24112026/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí la mención a la MVP de la ALCS, las cifras de la Serie Mundial, la marca de Peralta en 2026 y su carrera; quité la frase de relleno \"llegó a un acuerdo\" en el gancho; ajusté el inglés al español y la ortografía).",
-  "seccion": "Deportes",
-  "fecha": "2026-11-24T22:52:34.712116+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/80fadda070.jpg",
-  "ig_id": "18113657752897750",
-  "ig_fecha": "2026-11-25T01:05:40.455151+00:00"
- },
- {
-  "id": "74c5c50f8d",
-  "titulo": "Wall Street cierra mixto: el Dow sube y el Nasdaq cae por tecnológicas",
-  "titulo_original": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
-  "resumen": "El Dow Jones terminó en verde mientras el Nasdaq y el S&P 500 cerraron en rojo. Las tecnológicas, golpeadas por Nvidia, lideraron las pérdidas.",
-  "gancho": "El Dow Jones terminó en verde mientras el Nasdaq y el S&P 500 cerraron en rojo. Las tecnológicas, golpeadas por Nvidia, lideraron las pérdidas.",
-  "parrafos": [
-   "La Bolsa de Nueva York cerró este martes con resultados dispares. El índice industrial Dow Jones avanzó 421,18 puntos, un 0,85 %, hasta ubicarse en 50.016,49 puntos.",
-   "En cambio, el S&P 500 retrocedió 35,19 puntos, un 0,49 %, y terminó en 7.201,98 unidades. El Nasdaq Composite, con fuerte peso tecnológico, perdió 359,76 puntos, un 1,49 %, hasta los 23.730,37 puntos.",
-   "La caída de las empresas tecnológicas dominó la jornada y devolvió parte de las ganancias del lunes, cuando las acciones de Nvidia habían tenido un fuerte repunte. Esta vez, los títulos de Nvidia bajaron un 7,3 %, y el sector tecnológico retrocedió un 3 %, el peor desempeño entre los sectores del S&P 500.",
-   "Los inversionistas también actuaron con cautela ante la posibilidad de que el Gobierno estadounidense anuncie nuevos aranceles a importaciones de 16 socios comerciales. Según reportes, esos gravámenes podrían aplicarse a una amplia variedad de productos.",
-   "Otra preocupación fue el alto endeudamiento de empresas vinculadas a la inteligencia artificial, así como las dudas sobre la rentabilidad de las grandes inversiones en centros de datos e infraestructura tecnológica.",
-   "Algunas empresas minoristas sí tuvieron avances. Abercrombie & Fitch destacó tras elevar sus previsiones de beneficios. Además, la confianza de los consumidores estadounidenses alcanzó en noviembre su nivel más alto en casi dos años.",
-   "De cara a lo que viene, los inversionistas esperan los próximos datos económicos de Estados Unidos, en particular el índice de precios del gasto de consumo personal (PCE), el indicador de inflación preferido por la Reserva Federal."
-  ],
-  "claves": [
-   "El Dow Jones subió 421,18 puntos (0,85 %) y cerró en 50.016,49 puntos.",
-   "El Nasdaq Composite perdió 359,76 puntos (1,49 %) y cerró en 23.730,37 puntos.",
-   "Las acciones de Nvidia cayeron un 7,3 % y el sector tecnológico retrocedió un 3 %."
-  ],
-  "importa": "Si tiene inversiones en fondos o planes de jubilación atados al mercado de valores de Estados Unidos, estas oscilaciones pueden afectar el valor de sus ahorros. Los inversionistas también siguen de cerca los posibles nuevos aranceles de Estados Unidos, que podrían encarecer productos importados.",
-  "en": {
-   "titulo": "Wall Street Closes Mixed: Dow Rises as Nasdaq Falls on Tech Losses",
-   "gancho": "The Dow Jones finished in positive territory while the Nasdaq and S&P 500 closed in the red. Tech stocks, hit hard by Nvidia, led the losses.",
-   "claves": [
-    "The Dow Jones rose 421.18 points (0.85%) to close at 50,016.49.",
-    "The Nasdaq Composite lost 359.76 points (1.49%) to close at 23,730.37.",
-    "Nvidia shares fell 7.3%, and the tech sector dropped 3%."
-   ],
-   "importa": "If your investments or retirement plans are tied to the U.S. stock market, these swings can affect the value of your savings. Investors are also watching possible new U.S. tariffs, which could raise the price of imported goods.",
-   "parrafos": [
-    "The New York Stock Exchange closed mixed on Tuesday. The Dow Jones Industrial Average gained 421.18 points, or 0.85%, to finish at 50,016.49.",
-    "The S&P 500, by contrast, fell 35.19 points, or 0.49%, to close at 7,201.98. The Nasdaq Composite, which is heavily weighted toward technology, lost 359.76 points, or 1.49%, to end at 23,730.37.",
-    "Tech stocks drove the day's decline, giving back some of Monday's gains, when Nvidia had staged a strong rally. This time, Nvidia shares dropped 7.3%, and the tech sector fell 3%, the worst performance among the S&P 500's sectors.",
-    "Investors also approached the market cautiously over the possibility that the U.S. Government could announce new tariffs on imports from 16 trading partners. According to reports, such duties could apply to a wide range of products.",
-    "Another concern was the heavy debt carried by companies linked to artificial intelligence, along with doubts about the profitability of large investments in data centers and technology infrastructure.",
-    "Some retailers did advance. Abercrombie & Fitch stood out after raising its profit forecast. Meanwhile, U.S. Consumer confidence reached its highest level in nearly two years in November.",
-    "Looking ahead, investors are waiting for the next U.S. Economic data, particularly the Personal Consumption Expenditures (PCE) price index, which the Federal Reserve considers its preferred inflation gauge."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRFpXYTl5My1EaGZBYVNfNG90YjlXYV9lbGR0U3NiejR1OXJQVl9GRkV0TGFXS3pvcTFNUU1UYURTUmtVUkxKR1laQ2pmTlJwQjNDWjNxYUFRMjQyWXU2cGxMNTA0eF9Vc3FPWTVVNFZEWWh2cG1aVWxjYnVKMDEzMVdMTHBLTHROS0NHWEVjT0h3WXFnZEhfbXlISkl1WDlwc3ZEdW15YVZnWVVtd1dVb1lhSmtpcXZEVzJxR3RGTdIBvwFBVV95cUxQRFpXYTl5My1EaGZBYVNfNG90YjlXYV9lbGR0U3NiejR1OXJQVl9GRkV0TGFXS3pvcTFNUU1UYURTUmtVUkxKR1laQ2pmTlJwQjNDWjNxYUFRMjQyWXU2cGxMNTA0eF9Vc3FPWTVVNFZEWWh2cG1aVWxjYnVKMDEzMVdMTHBLTHROS0NHWEVjT0h3WXFnZEhfbXlISkl1WDlwc3ZEdW15YVZnWVVtd1dVb1lhSmtpcXZEVzJxR3RGTQ?oc=5",
-  "url": "https://acento.com.do/economia/wall-street-cierra-mixto-con-nasdaq-y-sp-500-en-rojo-por-caida-de-tecnologicas-9796005.html",
-  "fuente": "Acento",
-  "dominio": "acento.com.do",
-  "fuentes": [
-   {
-    "nombre": "Acento",
-    "url": "https://acento.com.do/economia/wall-street-cierra-mixto-con-nasdaq-y-sp-500-en-rojo-por-caida-de-tecnologicas-9796005.html"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se quitó \"Según la información\" por atribución vaga, se precisó que el aviso de aranceles viene de reportes, se ajustó \"dominicano\" y se cuidó la paridad en inglés; cifras, nombres y hechos coinciden con la fuente de Acento)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-24T22:52:57.262911+00:00",
-  "tendencia": 1
- },
- {
-  "id": "36c04f20ce",
-  "titulo": "Indotel estrena el primer Punto Wi-Fi Móvil para llevar internet gratuito a comunidades",
-  "titulo_original": "Indotel inaugura primer Punto Wi-Fi Móvil para llevar internet gratuito y capacitación digital a comunidades del país",
-  "resumen": "El Indotel puso en marcha el primero de tres autobuses con internet gratuito y capacitación digital.",
-  "gancho": "El Indotel puso en marcha el primero de tres autobuses con internet gratuito y capacitación digital.",
-  "parrafos": [
-   "El Instituto Dominicano de las Telecomunicaciones (Indotel) inauguró el primero de tres Puntos Wi-Fi Móviles, autobuses acondicionados para llevar internet gratuito y formación en competencias digitales a comunidades de distintas zonas del país. La iniciativa busca reducir la brecha digital en poblaciones con dificultades para conectarse.",
-   "El proyecto es ejecutado por el Indotel a través del Fondo de Desarrollo de las Telecomunicaciones (FDT). Las unidades podrán trasladarse a bibliotecas, parques, centros educativos y otros espacios comunitarios.",
-   "Durante la presentación, el presidente del Consejo Directivo del Indotel, Guido Gómez Mazara, afirmó: \"Nuestro compromiso es colocar la tecnología al servicio de la gente\". Explicó que los tres autobuses estarán distribuidos en el territorio nacional para ampliar el acceso a la red y contribuir a reducir las desigualdades digitales.",
-   "Cada Punto Wi-Fi Móvil funciona como un espacio educativo con seis estaciones de aprendizaje y una para el instructor, equipado con siete computadoras portátiles y sus licenciamientos. Cuenta con cinco puntos de acceso Wi-Fi 6, con cobertura prevista de al menos 100 metros alrededor de cada autobús, una pantalla de 55 pulgadas y tres pantallas táctiles de 32 pulgadas.",
-   "Las unidades tienen redes independientes para las actividades educativas y el acceso público a internet. También incluyen un sistema autónomo de alimentación eléctrica y respaldo energético, climatización, mobiliario ergonómico y recursos audiovisuales para las jornadas de capacitación."
-  ],
-  "claves": [
-   "El Indotel inauguró el primero de tres Puntos Wi-Fi Móviles.",
-   "Los autobuses ofrecerán internet gratuito y capacitación en competencias digitales.",
-   "El proyecto se ejecuta a través del Fondo de Desarrollo de las Telecomunicaciones (FDT).",
-   "Cada unidad tiene cinco puntos de acceso Wi-Fi 6 con cobertura de al menos 100 metros de radio."
-  ],
-  "importa": "Las comunidades con poca conectividad podrán acceder a internet y formación tecnológica sin costo. Las unidades se trasladarán a bibliotecas, parques y centros educativos.",
-  "en": {
-   "titulo": "Indotel Launches First Mobile Wi-Fi Bus Offering Free Internet to Communities",
-   "gancho": "The Dominican telecom regulator has launched the first of three buses offering free internet and digital training.",
-   "claves": [
-    "Indotel inaugurated the first of three Mobile Wi-Fi Points.",
-    "The buses will offer free internet and digital skills training.",
-    "The project is run through the Telecommunications Development Fund (FDT).",
-    "Each unit has five Wi-Fi 6 access points covering at least 100 meters in radius."
-   ],
-   "importa": "Communities with limited connectivity in the Dominican Republic will be able to access the internet and tech training at no cost. The buses will travel to libraries, parks and schools.",
-   "parrafos": [
-    "The Dominican Institute of Telecommunications (Indotel) has inaugurated the first of three Mobile Wi-Fi Points, buses equipped to bring free internet and digital skills training to communities across the Dominican Republic. The initiative aims to narrow the digital divide in areas where residents struggle to get connected.",
-    "The project is run by Indotel through the Telecommunications Development Fund (FDT). The units can travel to libraries, parks, schools and other community spaces.",
-    "At the presentation, Indotel's board chairman, Guido Gómez Mazara, said: \"Our commitment is to put technology at the service of the people.\" He explained that the three buses will be distributed across the country to expand access to the internet and help reduce digital inequalities.",
-    "Each Mobile Wi-Fi Point functions as a learning space with six learning stations and one for the instructor, equipped with seven laptops and their licenses. It has five Wi-Fi 6 access points with planned coverage of at least 100 meters around each bus, a 55-inch screen and three 32-inch touchscreens.",
-    "The units have separate networks for educational activities and public internet access. They also include an autonomous power supply and backup energy system, air conditioning, ergonomic furniture and audiovisual resources for training sessions."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3lGaTdqcUs3RFBTNlIzTTgyNU9JNEdrbFkycmhOMFQ3RmRzQnlaQU1nREJ4S0drZ3BFMnJ5bDFIbk5jWkRxbFpXVndmVkpzVzlBdmRSR1BpTFhKVERvaGxzemtQbDZ4anQ2MEpVa3I0NDJsMnNYb3FYRVc0T2xZeXJ2UkVrRHhJVDZDVzZ3LXY1ZUozN2Z0QllldlBFZG8xOVFrU2ViN285TzlpWUIxQVZEQVlYM01jQ0NmV3JYOA?oc=5",
-  "url": "https://presidencia.gob.do/noticias/indotel-inaugura-primer-punto-wi-fi-movil-para-llevar-internet-gratuito-y-capacitacion",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/indotel-inaugura-primer-punto-wi-fi-movil-para-llevar-internet-gratuito-y-capacitacion"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/indotel-inaugura-primer-autobus-movil-con-internet-gratuito-y-capacitacion-digital/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [
-   "El Nuevo Diario"
-  ],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/PHOTO-2026-11-24-14-09-20%20%282%29%20%281%29.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se eliminó \"según donde haya más necesidad de conectividad\" del texto en español y su equivalente en inglés, que no aparecen en las fuentes; se cambió \"democratizar internet\" por el texto de la fuente; se atribuyó a Indotel el aviso de traslado según necesidad y se corrigió \"estrena\" por \"inauguró\" para mantener fidelidad; se eliminó \"Conoce cómo funcionarán\" del gancho en español y su equivalente en inglés por ser relleno; se ajustó \"Indotel board chairman\" a \"presidente del Consejo Directivo\"; se quitó \"Here's how they will work\" del gancho en inglés)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-24T21:49:22.729250+00:00",
-  "tendencia": 2
- },
- {
-  "id": "e59566aef1",
-  "titulo": "Equipo de Valu exige respeto a las normas tras pelea con las Mellas en La Casa de Alofoke 3",
-  "titulo_original": "Equipo de la participante Valu, exige que se respeten normas de La Casa de Alofoke 3",
-  "resumen": "Tras la pelea con las Mellas, el equipo de Valu pide a la producción de La Casa de Alofoke 3 que aplique las reglas sin excepciones.",
-  "gancho": "Tras la pelea con las Mellas, el equipo de Valu pide a la producción de La Casa de Alofoke 3 que aplique las reglas sin excepciones.",
-  "parrafos": [
-   "El equipo de la participante Valu pidió a la producción de La Casa de Alofoke 3 que se respeten las normas del programa tras el incidente con Las Mellas, quienes agredieron físicamente a Vanessa Valcarcel, conocida como Valu.",
-   "En un comunicado, el equipo afirmó que el contrato prohíbe expresamente la agresión física. Reconoció que su participante hizo comentarios fuertes y que existen diferencias culturales entre las involucradas, pero sostuvo que una discusión verbal nunca debe justificar una agresión física.",
-   "Según el comunicado, Las Mellas iniciaron el conflicto tras una acalorada discusión, y las agresiones físicas se dieron en reiteradas ocasiones y de forma simultánea. El equipo pidió a la producción revisar objetivamente lo ocurrido, aplicar las sanciones correspondientes y establecer límites claros, sin preferencias ni excepciones.",
-   "La situación llevó al empresario Santiago Matías a considerar la eliminación de todos los involucrados en el conflicto."
-  ],
-  "claves": [
-   "El equipo de Vanessa Valcarcel, conocida como Valu, emitió un comunicado exigiendo el cumplimiento del contrato.",
-   "El contrato prohíbe expresamente la agresión física.",
-   "Según el comunicado, Las Mellas iniciaron las agresiones físicas, en reiteradas ocasiones y simultáneamente.",
-   "El empresario Santiago Matías consideró eliminar a todos los involucrados en el conflicto."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Valu's Team Demands Rule Enforcement After Fight with Las Mellas on Alofoke's La Casa 3",
-   "gancho": "After the fight with Las Mellas, Valu's team is calling on La Casa de Alofoke 3's producers to enforce the rules with no exceptions.",
-   "claves": [
-    "The team of Vanessa Valcarcel, known as Valu, issued a statement demanding that the contract be upheld.",
-    "The contract explicitly prohibits physical assault.",
-    "According to the statement, Las Mellas started the physical attacks, which happened repeatedly and at the same time.",
-    "Businessman Santiago Matías considered removing everyone involved in the conflict."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The team of participant Valu has asked the producers of La Casa de Alofoke 3 to enforce the show's rules after the incident involving Las Mellas, who physically attacked Vanessa Valcarcel, known as Valu.",
-    "In a statement, the team said the contract explicitly prohibits physical assault. It acknowledged that its participant made strong comments and that there are cultural differences between those involved, but argued that a verbal argument should never justify physical aggression.",
-    "According to the statement, Las Mellas started the conflict after a heated argument, and the physical attacks happened repeatedly and simultaneously. The team asked producers to objectively review what happened, apply the corresponding sanctions, and set clear limits, without favoritism or exceptions.",
-    "The situation led businessman Santiago Matías to consider removing all those involved in the conflict."
-   ]
-  },
-  "link": "https://deultimominuto.com/entretenimiento/equipo-la-casa-de-alofoke-3/",
-  "url": "https://deultimominuto.com/entretenimiento/equipo-la-casa-de-alofoke-3/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/entretenimiento/equipo-la-casa-de-alofoke-3/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se ajustó \"Las Mellas fueron quienes iniciaron el conflicto\" para atribuirlo al comunicado del equipo de Valu; se añadió la atribución a la fuente en la frase de las agresiones simultáneas; se precisó que Santiago Matías \"consideró\" eliminar y no que decidió; se atribuyó la afirmación de diferencias culturales al comunicado; se corrigió el gancho para indicar que el pedido es del equipo y no una afirmación propia; se tradujo \"sin preferencias ni excepciones\" de forma más natural)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-24T21:49:39.735171+00:00",
-  "tendencia": 1
  }
 ]
