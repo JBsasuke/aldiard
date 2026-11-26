@@ -1,45 +1,33 @@
-Corrida: 2026-11-25 09:47 PM (hora RD)
+Corrida: 2026-11-25 10:48 PM (hora RD)
+[República Dominicana] En Salud Digital: texto leído 3582 letras -> https://ensaluddigital.gob.do/maternidad-de-los-mina-reconoce-aportes-de-enfermera-y-pediatra/
+Fuente oficial encontrada: En Salud Digital 
+Revisión: corregida (ajustado el título español y el inglés para no atribuir al hospital "décadas de servicio" como afirmación pro
+[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639310360192106491-Justificacin-de-aplicacin-de-los-fondos-segn-ley..pdf
+No se pudo leer el artículo; no se publica para no salir corta: INFORME DE RESULTADO DEL ANALISIS REALIZADO A LA EJECUCIÓN PRESUPUESTARIA CORRESPONDIENTE AL 3ER. TRIMESTRE 2026. AYUNTAMIENTO
+[República Dominicana] SISMAP: texto leído 0 letras -> https://www.sismap.gob.do/Municipal/uploads/evidencias/639311233319842024-Justificacin-del-6.01-del-rea-normativa.pdf
+No se pudo leer el artículo; no se publica para no salir corta: Indicador 6.01 Base legal de cumplimientos: Ley 176-07 y sus artículos 339-347,340, 350 y 351. El Artículo 58 de la Ley 176-07
+[República Dominicana] servicios.empresas24h.gob.do: texto leído 468 letras -> https://servicios.empresas24h.gob.do/
+No se pudo leer el artículo; no se publica para no salir corta: Antes de iniciar tu solicitud - Portal Único de Servicios del Gobierno Dominicano | www.gob.do
 [República Dominicana] Municipalidad En Tus Manos: texto leído 2888 letras -> https://municipalidadentusmanos.gob.do/junta-municipal/junta-de-distrito-municipal-de-tireo-d-m/
 Fuente oficial encontrada: Municipalidad En Tus Manos 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta de Distrito Municipal de Tireo (D.M.)
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es una ficha oficial de transparencia municipal de la Junta de Distrito Municipal de Tireo. No es una noticia periodística ni hay más versiones que la complementen. Además, sus datos son i')
 [República Dominicana] DGII: texto leído 1218 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/pruebas-de-simulacin-ecf/6b0755810626c86dce7aca8c
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pruebas de Simulación e-CF
 [República Dominicana] Oficina Nacional de la Propiedad Industrial (ONAPI): texto leído 3108 letras -> https://www.onapi.gov.do/index.php/noticias/otorgan-doctorado-honor-causa-al-director-general-de-onapi
 Fuente oficial encontrada: Oficina Nacional de la Propiedad Industrial (ONAPI) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Otorgan “Doctorado Honor Causa” al director general de ONAPI
-[República Dominicana] Consultoría Jurídica del Poder Ejecutivo: texto leído 0 letras -> https://www.consultoria.gov.do/api/document/3404380
-No se pudo leer el artículo; no se publica para no salir corta: - 29 - Dec. núm. 32-26 que concede el beneficio de la jubilación y asigna una pensión del Estado por antigüedad a 134 servid
+No se pudo bajar la página: URLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dat
+[República Dominicana] datos.gov.do: texto leído 6106 letras -> https://datos.gov.do/organization/activity/eco5rd?offset=0
+Fuente oficial encontrada: datos.gov.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Unidad Ejecutora ECO5RD (ECO5RD)
 [República Dominicana] DGII: texto leído 942 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-de-deuda-en-dgii/6b06fb574175d10cff3c2129
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación de deuda en DGII
-[República Dominicana] DGII: texto leído 2165 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retenciones-en-facturacion-electronica-personas-fisicas/6b06e9d94175d10cff3a3d5c
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): RETENCIONES EN FACTURACION ELECTRONICA PERSONAS FISICAS
-[República Dominicana] De Último Minuto: texto leído 2947 letras -> https://deultimominuto.com/estilo/tse-presenta-protocolo/
-[República Dominicana] Hoy Digital: texto leído 2649 letras -> https://hoy.com.do/el-pais/tse-presenta-protocolo-prevenir-sancionar-violencia-discriminacion-acoso-laboral_1109872.html
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/tse-presenta-su-protocolo-para-sancionar-la-violencia-discriminacion-y-acoso/
-Revisión: corregida (corregí el apellido del juez suplente a "Meniur" según la fuente de Último Minuto, quité la frase "Esto es lo
-[República Dominicana] De Último Minuto: texto leído 3432 letras -> https://deultimominuto.com/nacionales/sns-garantiza-atencion-gratuita/
-[República Dominicana] El Nuevo Diario: texto leído 6235 letras -> https://elnuevodiario.com.do/sns-garantiza-asistencia-digna-gratuita-y-confidencial-a-victimas-de-violencia-de-genero/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió "Procuraduría General de la República" a "Office of the Attorney Gener
-Revisión: corregida (se corrigió "Procuraduría General de la República" a "Office of the Attorney General" en inglés por consisten
-[República Dominicana] De Último Minuto: texto leído 3211 letras -> https://deultimominuto.com/internacionales/derrumbe-edificio-pakistan/
-[República Dominicana] Infobae: texto leído 1980 letras -> https://www.infobae.com/america/agencias/2026/11/25/al-menos-tres-muertos-y-catorce-heridos-en-el-derrumbe-de-un-edificio-en-construccion-en-pakistan/
-[República Dominicana] ABC: texto leído 757 letras -> https://www.abc.es/espana/tres-fallecidos-heridos-tras-derrumbe-edificio-karachi-20261125155440-nt.html
-Cambiada de sección: República Dominicana -> Internacionales: Derrumbe de edificio deja tres muertos y 14 heridos en Pakistán
-Revisión: corregida (quité la atribución a una "agencia de noticias" y a "un portavoz" sin nombre que no aparece en las fuentes sa
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es una página de navegación del Federal Register (aviso de la plataforma, índice y datos de publicación de una propuesta de regla de CMS sobre Medicare Advantage para ')
-Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2934 letras -> https://elnuevodiario.com.do/abogada-dominicana-radicada-en-madid-dona-sus-cuatro-libros-a-la-biblioteca-nacional/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogada dominicana radicada en Madid dona sus cuatro libros a la Biblioteca Nacional
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: 21noticias.com
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: elpregonerord.com
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
+Fuente no confiable, se salta: psn.si
 Fuente no confiable, se salta: mensajero.com.ar
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: tecnologiageek.com
@@ -50,74 +38,87 @@ Fuente no confiable, se salta: lne.es
 Fuente no confiable, se salta: lne.es
 Fuente no confiable, se salta: lne.es
 Fuente no confiable, se salta: lne.es
+[Dominicanos en EE.UU.] Infobae: texto leído 3914 letras -> https://www.infobae.com/republica-dominicana/2026/11/25/destinaran-mas-de-usd-500-mil-a-la-inclusion-digital-de-personas-con-discapacidad-auditiva-en-republica-dominicana/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana
+Rechazada por la revisión: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana -> cifras que no aparecen en las fuentes: 104000
+Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: asturiasmundial.com
+Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: robertocavada.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: robertocavada.com
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2934 letras -> https://elnuevodiario.com.do/abogada-dominicana-radicada-en-madid-dona-sus-cuatro-libros-a-la-biblioteca-nacional/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogada dominicana radicada en Madid dona sus cuatro libros a la Biblioteca Nacional
+Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: 21noticias.com
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: remolacha.net
 [Internacionales] The White House (.gov): texto leído 4601 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la única versión que me pasaste es la página de videos de whitehouse.gov (una portada de navegación con menús y listados), no una noticia concreta. Además, el texto no describe ningún ')
-[Internacionales] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
+Error IA: ValueError('respuesta sin el formato esperado: Esta versión es un índice de videos de la Casa Blanca, sin una noticia concreta que pueda convertirse en nota. Solo aparecen menús, títulos de secciones y una lista de videos sin contenido informativo')
 [Internacionales] US Embassy Online Auction (.gov): texto leído 2612 letras -> https://online-auction.state.gov/
 Fuente oficial encontrada: US Embassy Online Auction (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Online Auction Home Page
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Internacionales] U.S. Department of State (.gov): texto leído 0 letras -> https://www.webgels.state.gov/gels/index.min.html
+No se pudo leer el artículo; no se publica para no salir corta: - U.S. Department of State (.gov)
 [Famosos] CDN: texto leído 2628 letras -> https://cdn.com.do/internacionales/wall-street-cae-por-ventas-de-acciones-de-ia-y-aranceles/
-No encaja en ninguna sección, se salta: Wall Street registra fuertes pérdidas por ventas de acciones de IA y dudas sobre aranceles
+Cambiada de sección: Famosos -> Internacionales: Wall Street registra fuertes pérdidas por ventas de acciones de IA y dudas sobre aranceles
+Rechazada por la revisión: Wall Street registra fuertes pérdidas por ventas de acciones de IA y dudas sobre aranceles -> cifras que no aparecen en las fuentes: 4
 Fuente no confiable, se salta: prensa-latina.cu
 [Famosos] El Dia.com.do: texto leído 1433 letras -> https://eldia.com.do/cuales-numeros-salieron-este-25-de-noviembre-de-2026-en-la-loteria-aqui-estan-los-resultados/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cuáles números salieron este 25 de noviembre de 2026 en la lotería? Aquí están los resultados
 Fuente no confiable, se salta: tecnologiageek.com
-Fuente no confiable, se salta: cuballama.com
 Fuente no confiable, se salta: cibercuba.com
+Fuente no confiable, se salta: cuballama.com
 Fuente no confiable, se salta: cuballama.com
 [Famosos] Hoy Digital: texto leído 1452 letras -> https://hoy.com.do/vivir/alegria/isaura-taveras-gana-premio-alfombra-casa-alofoke_1109784.html
 Rechazada por la revisión: Isaura Taveras gana premio de la alfombra de La Casa de Alofoke -> cifras que no aparecen en las fuentes: 100000, 200000
+Fuente no confiable, se salta: robertocavada.com
 [Famosos] Diario Libre: texto leído 1983 letras -> https://www.diariolibre.com/revista/musica/2026/11/25/cumpleanos-de-cecilia-garcia-con-dioni-fernandez-y-nicole-lazala/3731597
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cecilia García también dio hombro en su cumpleaños
 Fuente no confiable, se salta: agencianova.com
 Fuente no confiable, se salta: urbanstreet.com.pe
 Fuente no confiable, se salta: tecnologiageek.com
-[Famosos] CDN: texto leído 5438 letras -> https://cdn.com.do/estilos-de-vida/copa-sdm-de-padel-premia-a-sus-campeones-con-viaje-a-miami/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/copa-sdm-de-padel-premia-a-campeones-con-viaje-al-miami-premier-padel-2027/
-[Famosos] Noticias SIN: texto leído 5428 letras -> https://noticiassin.com/deportes/mas-deportes/2026/11/25/copa-sdm-de-padel-premia-campeones-con-viaje-a-miami-2176700/?amp=1
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Copa SDM de Pádel premia a sus campeones con una experiencia internacional en Miami
+[Famosos] CDN: texto leído 3635 letras -> https://cdn.com.do/entretenimiento/jennifer-lopez-habla-del-amor-tras-separarse-de-marc-anthony/
+Revisión: corregida (quité la atribución de "Según el medio CDN" del hecho principal y la pasé a la nota completa; corregí "ser co
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: remolacha.net
 [Famosos] El Nuevo Día: texto leído 1661 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/hoy-me-duele-el-alma-alexandra-fuentes-enfrenta-la-perdida-de-su-perrita-morena/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): “Hoy me duele el alma”: Alexandra Fuentes enfrenta la pérdida de su perrita Morena
-[Deportes] Lidom: texto leído 1421 letras -> https://lidom.com/noticias/cerveli-apuesta-por-la-comunicacion-para-levantar-a-las-aguilas-101501.html
-Revisión: corregida (corregí el título en inglés a "Águilas Cibaeñas" para que coincida con el español y ajusté el término "Liga D
-[Deportes] Lidom: texto leído 1943 letras -> https://lidom.com/novedades-mlb/orioles-aseguran-a-peralta-santana-y-leonard-firman-acuerdos-de-liga-menor-101485.html
-Revisión: corregida (Se cambió "Los Orioles de Baltimore" en el título ya no aplica; se corrigió que Santana bateó 2-24 (no "24-2"
-Fuente no confiable, se salta: eluniversaldigital.net
+[Deportes] Lidom: texto leído 1126 letras -> https://lidom.com/toros-del-este/felix-reyes-decide-en-entradas-extras-y-destaca-la-fortaleza-mental-de-su-equipo-101463.html
+Revisión: corregida (quité "En entrevista con Lidom" por "En declaraciones a Lidom" no cambia nada relevante; en realidad ajusté l
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-gigantes/2026/11/25/851501/live
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Gigantes, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 2372 letras -> https://www.mlb.com/es/news/gary-sanchez-marlins-contrato-por-una-temporada
+[Deportes] De Último Minuto: texto leído 1698 letras -> https://deultimominuto.com/deportes/beisbol/gary-sanchez-acuerda-con-los-marlins-por-una-temporada-y-us6-5-millones/
+Revisión: corregida (se quitó "Sus números de carrera"/"en definitiva"-tipo relleno; se ajustó "cumplirá" y atribución de caída de
 Fuente no confiable, se salta: bloomberglinea.com
 [Precios y combustibles] Infobae: texto leído 3653 letras -> https://www.infobae.com/noticias/2026/11/25/euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-25-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: cotización de cierre del 25 de noviembre
 [Precios y combustibles] CDN: texto leído 3154 letras -> https://cdn.com.do/nacionales/inespre-distribuira-200-mil-combos-de-10-productos-por-rd1000/
 Rechazada por la revisión: INESPRE distribuirá 200 mil combos navideños de 10 productos por RD$1,000 -> cifras que no aparecen en las fuentes: 200000
 Fuente no confiable, se salta: remolacha.net
-[Precios y combustibles] Noticias SIN: texto leído 2979 letras -> https://noticiassin.com/pais/2026/11/25/abinader-lanza-combos-del-inespre-a-rd1000-para-navidad-2176974/?amp=1
-Rechazada por la revisión: Abinader anuncia distribución de 200 mil combos del Inespre a RD$1,000 durante la Navidad -> cifras que no aparecen en las fuentes: 0, 200000
+[Precios y combustibles] Noticias SIN: texto leído 2976 letras -> https://noticiassin.com/pais/2026/11/25/abinader-lanza-combos-del-inespre-a-rd1000-para-navidad-2176974/?amp=1
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí la traducción del último párrafo de "jornadas populares" a "public events"
+Rechazada por la revisión: Abinader anuncia distribución de 200 mil combos del Inespre a RD$1,000 durante la Navidad -> cifras que no aparecen en las fuentes: 200000
 [Videojuegos] Nintendo: texto leído 900 letras -> https://www.nintendo.com/us/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo - Official Site: Consoles, Games, News, and More
-[Videojuegos] Nintendo: texto leído 918 letras -> https://www.nintendo.com/en-ca/
+[Videojuegos] Nintendo: texto leído 1717 letras -> https://www.nintendo.com/us/whatsnew/play-the-58th-maximus-cup-online-event-and-you-could-earn-an-in-game-collaborative-theme/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Official Site - Canada - Consoles, Games, and More
-[Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
-Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar una noticia a partir de estos textos. La "versión 1" es un hilo de foro de jugadores de Pokémon adivinando qué Pokémon hace un sonido, con comentarios de usuarios. No')
-[Videojuegos] Pokemon.com: texto leído 1950 letras -> https://community.pokemon.com/en-us/discussion/27045/greatest-pokemon-game-idea-ever-pokemon-travel-the-world
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Greatest Pokemon Game Idea Ever! Pokemon: Travel the World
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Play the 58th MAXIMUS CUP online event and you could earn an in-game collaborative theme!
 [Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/features/pokemon-tcg-building-and-playing-iron-thorns-ex-with-mega-evolution-delta-reign
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokémon TCG: Building and Playing Iron Thorns ex with Mega Evolution—Delta Reign
+[Videojuegos] Pokemon.com: texto leído 539 letras -> https://community.pokemon.com/en-us/discussion/27039/guess-the-pokemon-by-its-cry
+Fuente oficial encontrada: Pokemon.com 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. Las versiones que me pasaste no contienen una noticia real: el texto de la VERSIÓN 1 es una publicación de un foro de Pokémon en la que un usuario pregu')
+[Videojuegos] Pokemon.com: texto leído 1950 letras -> https://community.pokemon.com/en-us/discussion/27045/greatest-pokemon-game-idea-ever-pokemon-travel-the-world
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Greatest Pokemon Game Idea Ever! Pokemon: Travel the World
 [Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
@@ -127,25 +128,23 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SS
 [Videojuegos] Nintendo: texto leído 3066 letras -> https://www.nintendo.com/es-mx/store/products/zumba-christmas-marble-saga-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Zumba - Christmas Marble Saga
-[Videojuegos] Nintendo: texto leído 2070 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-additional-production-type-season-pass-70070000042403-switch/
-[Videojuegos] Nintendo: texto leído 2625 letras -> https://ec.nintendo.com/AU/en/bundles/70070000042080
-Fuente oficial encontrada: Nintendo, Nintendo 
-Revisión: corregida (se cambió "Test Ship Asuka" en el gancho/claves para coincidir con el nombre oficial "Test Ship Asuka" como a
+[Videojuegos] Nintendo: texto leído 1841 letras -> https://www.nintendo.com/es-mx/store/products/18-in-1-cozy-games-mega-collection-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
+[Videojuegos] Nintendo: texto leído 2727 letras -> https://www.nintendo.com/es-mx/store/products/brain-training-jigsaw-puzzle-world-scenery-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Brain Training Jigsaw Puzzle World Scenery
 [Videojuegos] Nintendo: texto leído 3084 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-ultimate-ex-edition-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 Ultimate EX Edition
-[Videojuegos] Nintendo: texto leído 2361 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-ultimate-ex-upgrade-for-base-game-70070000042398-switch-2/
-[Videojuegos] Nintendo: texto leído 2623 letras -> https://ec.nintendo.com/AU/en/bundles/70070000042099
-Fuente oficial encontrada: Nintendo, Nintendo 
-Revisión: corregida (se quitó "Según la publicación oficial" por atribución redundante y se ajustó el inglés; se corrigió "Ediiton
-[Videojuegos] Nintendo: texto leído 2081 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-season-pass-2-70070000042395-switch-2/
+[Videojuegos] Nintendo: texto leído 2019 letras -> https://www.nintendo.com/es-pe/whatsnew/los-elementos-iconicos-inspirados-en-el-juego-rhythm-heaven-groove-estan-aqui-por-tiempo-limitado-nov-2026/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Season Pass 2
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Los elementos icónicos inspirados en el juego Rhythm Heaven Groove están aquí por tiempo limitado
 Instagram: 35 usadas en 24 horas, quedan 7; esta corrida sube hasta 3.
 Marcadores: 26 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 76 · ya cubiertas: 33 · no confiables: 34 · opinión: 0 · con texto leído: 43 · sin texto: 3 · medios juntados: 7 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 2 · error IA: 3 · descartadas por la IA: 23 · cambiadas de sección: 1 · largas: 7 · ocultas (cortas): 1
-Para Instagram (tendencia 3): TSE presenta protocolo contra la violencia, la discriminación y el acoso laboral
-Para Instagram (tendencia 3): Orioles firman a Freddy Peralta por $125 millones; Santana y Leonard obtienen contratos de liga menor
-Para Instagram (tendencia 3): Derrumbe de edificio en Karachi deja tres muertos y 14 heridos
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 72 · ya cubiertas: 33 · no confiables: 36 · opinión: 0 · con texto leído: 35 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 22 · cambiadas de sección: 2 · largas: 4 · ocultas (cortas): 5
+Para Instagram (tendencia 2): SNS garantiza atención gratuita y confidencial a víctimas de violencia de género
+Para Instagram (tendencia 2): Abinader decreta tres días de duelo nacional por Delio Gómez Ochoa
+Para Instagram (tendencia 2): Senado de Puerto Rico reconoce a la periodista dominicana Gheidy de la Cruz
