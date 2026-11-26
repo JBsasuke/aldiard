@@ -1026,8 +1026,10 @@
   "seccion": "República Dominicana",
   "fecha": "2026-11-26T15:49:48.070563+00:00",
   "tendencia": 3,
-  "ig": "pendiente",
-  "ig_img": "ig/e0fc03ec19.jpg"
+  "ig": "publicado",
+  "ig_img": "ig/e0fc03ec19.jpg",
+  "ig_id": "18124749952996780",
+  "ig_fecha": "2026-11-26T16:58:19.740872+00:00"
  },
  {
   "id": "973d8c1ce0",
@@ -2615,10 +2617,13 @@
   "seccion": "Famosos",
   "fecha": "2026-11-26T12:51:32.070654+00:00",
   "tendencia": 4,
-  "ig": "pendiente",
+  "ig": "publicado",
   "ig_img": "ig/2d022a7ebf.jpg",
-  "historia": "pendiente",
-  "historia_img": "ig/2d022a7ebf-h.jpg"
+  "historia": "publicado",
+  "historia_img": "ig/2d022a7ebf-h.jpg",
+  "ig_id": "18510127261096371",
+  "ig_fecha": "2026-11-26T16:56:41.811337+00:00",
+  "historia_fecha": "2026-11-26T16:56:52.976322+00:00"
  },
  {
   "id": "a7726419dd",
