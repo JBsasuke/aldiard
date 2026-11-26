@@ -1,14 +1,10 @@
-Corrida: 2026-11-26 04:47 AM (hora RD)
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-DO
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Buscar Proceso de Compra
-[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1738 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
+Corrida: 2026-11-26 05:47 AM (hora RD)
+[República Dominicana] Municipalidad En Tus Manos: texto leído 2888 letras -> https://municipalidadentusmanos.gob.do/junta-municipal/junta-de-distrito-municipal-de-tireo-d-m/
+Fuente oficial encontrada: Municipalidad En Tus Manos 
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente no contiene una noticia concreta: es la ficha institucional de la Junta de Distrito Municipal de Tireo, con datos generales del distrito y un reporte de transparencia sobre un programa de ')
 [República Dominicana] DGII: texto leído 1218 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/pruebas-de-simulacin-ecf/6b0755810626c86dce7aca8c
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pruebas de Simulación e-CF
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente no es una noticia. Es un mensaje de un contribuyente a un foro de la DGII que describe un problema técnico con sus comprobantes electrónicos de compra (serie E41), rechazados durante las p')
 [República Dominicana] Oficina Nacional de la Propiedad Industrial (ONAPI): texto leído 3108 letras -> https://www.onapi.gov.do/index.php/noticias/otorgan-doctorado-honor-causa-al-director-general-de-onapi
 Fuente oficial encontrada: Oficina Nacional de la Propiedad Industrial (ONAPI) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Otorgan “Doctorado Honor Causa” al director general de ONAPI
@@ -18,27 +14,40 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificació
 [República Dominicana] DGII: texto leído 2165 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retenciones-en-facturacion-electronica-personas-fisicas/6b06e9d94175d10cff3a3d5c
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): RETENCIONES EN FACTURACION ELECTRONICA PERSONAS FISICAS
-[República Dominicana] De Último Minuto: texto leído 1489 letras -> https://deultimominuto.com/entretenimiento/pamela-infante-y-diana/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pamela Infante y Diana encienden la Casa de Alofoke tres en el Prime Time
+[República Dominicana] De Último Minuto: texto leído 1486 letras -> https://deultimominuto.com/entretenimiento/pamela-infante-y-diana/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pamela Infante y Diana encienden la Casa de Alofoke 3 en el Prime Time
 [República Dominicana] De Último Minuto: texto leído 5118 letras -> https://deultimominuto.com/internacionales/nvidia-enfrenta-riesgo/
 No encaja en ninguna sección, se salta: Nvidia enfrenta riesgo de rebaja crediticia tras el regreso de Jensen Huang
-[República Dominicana] De Último Minuto: texto leído 2163 letras -> https://deultimominuto.com/internacionales/ice-detiene-salvadoreno-loteria/
-[República Dominicana] Clarin.com: texto leído 1995 letras -> https://www.clarin.com/estados-unidos/ice-detiene-a-salvadoreno-despues-de-ganar-un-millon-de-dolares-en-la-loteria-de-boston_0_clqEYCZqJX.html
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] France 24: texto leído 3624 letras -> https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261125-se-le-acab%C3%B3-la-suerte-ee-uu-detiene-a-migrante-salvadore%C3%B1o-que-gan%C3%B3-un-mill%C3%B3n-de-d%C3%B3lares-en-la-loter%C3%ADa
-Cambiada de sección: República Dominicana -> Internacionales: ICE detiene a salvadoreño después de ganar un millón de dólares en la lotería de Boston
-Revisión: corregida (quité "juega un papel" no; ajusté el texto: "en un comunicado citado por" se mantuvo; cambié "tras" por "desp
-[Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
-Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con la información que me diste. La única versión que incluyes es una página del Federal Register (.gov) que contiene principalmente avisos sobre el siti')
-Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2934 letras -> https://elnuevodiario.com.do/abogada-dominicana-radicada-en-madid-dona-sus-cuatro-libros-a-la-biblioteca-nacional/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogada dominicana radicada en Madid dona sus cuatro libros a la Biblioteca Nacional
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: elpregonerord.com
+[República Dominicana] De Último Minuto: texto leído 2119 letras -> https://deultimominuto.com/internacionales/una-jueza-de-ee-uu/
+[República Dominicana] El Tiempo: texto leído 4712 letras -> https://www.eltiempo.com/mundo/eeuu-y-canada/jueza-ordena-trasladar-a-california-al-padre-de-meghan-markle-para-responder-por-cargos-de-pornografia-infantil-podria-enfrentar-20-anos-de-prision-3604245
+[República Dominicana] La Tercera: texto leído 2389 letras -> https://www.latercera.com/mundo/noticia/una-jueza-de-eeuu-ordena-el-traslado-del-padre-de-meghan-markle-a-california-para-que-enfrente-cargos-formales/
+Cambiada de sección: República Dominicana -> Internacionales: Una jueza de EE.UU. ordena el traslado del padre de Meghan Markle a California
+Revisión: corregida (eliminé "pornografía infantil" de los cargos por ser término impreciso y usar "material de abuso sexual infan
+[República Dominicana] De Último Minuto: texto leído 2580 letras -> https://deultimominuto.com/internacionales/china-acusa-a-ee-uu-de-perseguir/
+[República Dominicana] El Nuevo Diario: texto leído 2142 letras -> https://elnuevodiario.com.do/china-acusa-a-ee-uu-de-perseguir-a-huawei-tras-condena-por-fraude-y-espionaje/
+Cambiada de sección: República Dominicana -> Internacionales: China acusa a EE.UU. de perseguir a Huawei tras condena por fraude y espionaje
+Revisión: corregida (eliminé "Según los fiscales..." sin cambiar hechos; en inglés "it will appeal" ajustado a "plans to appeal" y
+[Dominicanos en EE.UU.] U.S. Embassy Jerusalem (.gov): texto leído 3349 letras -> https://il.usembassy.gov/security-alert-u-s-embassy-jerusalem-november-24-2026/
+Fuente oficial encontrada: U.S. Embassy Jerusalem (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Security Alert: U.S. Embassy Jerusalem – November 24, 2026
+[Dominicanos en EE.UU.] https://ae.usembassy.gov/: texto leído 3261 letras -> https://ae.usembassy.gov/security-alert-u-s-mission-united-arab-emirates-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Embassy & Consulates in Saudi Arabia (.gov): texto leído 4748 letras -> https://sa.usembassy.gov/security-alert-u-s-mission-saudi-arabia-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Virtual Embassy Iran (.gov): texto leído 2600 letras -> https://ir.usembassy.gov/security-alert-iran-november-24-2026/
+[Dominicanos en EE.UU.] U.S. Embassy in Kuwait (.gov): texto leído 3006 letras -> https://kw.usembassy.gov/security-alert-u-s-embassy-kuwait-november-24-2026/
+Fuente oficial encontrada: https://ae.usembassy.gov/, U.S. Embassy & Consulates in Saudi Arabia (.gov), U.S. Virtual Embassy Iran (.gov), U.S. Embassy in Kuwait (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Security Alert: U.S. Mission United Arab Emirates – November 24, 2026
+Revisión: corregida (se corrigió la fecha de salida de empleados en Arabia Saudita al 23 de octubre según fuentes, se atribuyó la 
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment/
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
 Fuente no confiable, se salta: psn.si
 Fuente no confiable, se salta: mensajero.com.ar
+[Dominicanos en EE.UU.] Acento: texto leído 7000 letras -> https://acento.com.do/actualidad/haiti-defiende-su-acuerdo-con-el-salvador-washington-reevalua-su-respaldo-a-la-fuerza-de-la-onu-y-amnistia-reclama-que-se-publique-el-convenio-9796427.html
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Haití defiende su acuerdo con El Salvador; Washington reevalúa su respaldo a la fuerza de la ONU y Amnistía reclama que se publique el convenio
+Revisión: corregida (eliminé la atribución errónea de la cifra de 54 muertos y los 6 de Tabarre a la PNH sin que la fuente diga qu
+[Dominicanos en EE.UU.] Acento: texto leído 2807 letras -> https://acento.com.do/actualidad/piensas-solicitar-un-visado-para-espana-el-consulado-recomienda-usar-el-nuevo-pasaporte-electronico-9796693.html
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: ¿Piensas solicitar un visado para España? El consulado recomienda usar el nuevo pasaporte electrónico
+Revisión: corregida (se quitó "por las características de seguridad" → se mantuvo; se corrigió "en 18 de sus 19 oficinas" sin camb
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: elplaneta.com
 Fuente no confiable, se salta: ultimasnoticias.com.do
@@ -48,21 +57,17 @@ Fuente no confiable, se salta: lne.es
 [Dominicanos en EE.UU.] Infobae: texto leído 3914 letras -> https://www.infobae.com/republica-dominicana/2026/11/25/destinaran-mas-de-usd-500-mil-a-la-inclusion-digital-de-personas-con-discapacidad-auditiva-en-republica-dominicana/
 Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana
 Rechazada por la revisión: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana -> cifras que no aparecen en las fuentes: 104000
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: asturiasmundial.com
-Fuente no confiable, se salta: revistamercado.do
-Es opinión o editorial, se salta: Hecho aquí: talento de sobra para un proyecto país
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: robertocavada.com
-[Internacionales] The White House (.gov): texto leído 1398 letras -> https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-secures-reunification-of-nine-additional-children-with-their-families/
+[Internacionales] The White House (.gov): texto leído 3525 letras -> https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-host-the-2026-thanksgiving-turkey-pardoning/
 Fuente oficial encontrada: The White House (.gov) 
-Revisión: corregida (se precisó que el total de 43 y la reunión de nueve niños son cifras de la Casa Blanca; se corrigió "ucranian
+La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump and the First Lady Host the 2026 Thanksgiving Turkey Pardoning
+[Internacionales] The White House (.gov): texto leído 4601 letras -> https://www.whitehouse.gov/videos/page/2/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente (The White House .gov) no contiene una noticia concreta: es la página de videos del sitio oficial de la Casa Blanca, con menús, listados de secciones y títulos de videos sin desarrollo de ')
+[Internacionales] U.S. Department of State (.gov): texto leído 724 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-25-2026
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 25, 2026
 [Famosos] El Dia.com.do: texto leído 1989 letras -> https://eldia.com.do/que-la-farandula-no-distraiga-del-crimen/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Que la farándula no distraiga del crimen
-Fuente no confiable, se salta: prensa-latina.cu
-[Famosos] El Dia.com.do: texto leído 1433 letras -> https://eldia.com.do/cuales-numeros-salieron-este-25-de-noviembre-de-2026-en-la-loteria-aqui-estan-los-resultados/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cuáles números salieron este 25 de noviembre de 2026 en la lotería? Aquí están los resultados
 Fuente no confiable, se salta: cuballama.com
 Fuente no confiable, se salta: cibercuba.com
 Fuente no confiable, se salta: cuballama.com
@@ -73,60 +78,61 @@ Fuente no confiable, se salta: agencianova.com
 Fuente no confiable, se salta: urbanstreet.com.pe
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: remolacha.net
-[Famosos] HOLA: texto leído 3273 letras -> https://www.hola.com/us-es/
-Error IA: ValueError('respuesta sin el formato esperado: Esta versión es la única fuente disponible y es un portal de farándula y portada general, no una noticia concreta. El texto contiene varios titulares de distintas notas, sin un hecho único que cubrir ')
-[Famosos] HOLA: texto leído 7000 letras -> https://www.hola.com/seleccion/20261125936929/ahorra-compras-navidad-ideas-regalo-black-friday-menos-de-50/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ahorra en tus compras de Navidad con estas ideas de regalo que hemos localizado en Black Friday por menos de 50€
-[Famosos] HOLA: texto leído 5017 letras -> https://www.hola.com/actualidad/20261125937145/martha-firestone-ford-muere-101-anyos/
-Cambiada de sección: Famosos -> Deportes: Muere a los 101 años Martha Firestone Ford, la mujer que unió dos imperios del automóvil y acabó haciendo historia en el deporte
-Revisión: corregida (se corrigió "los Portsmouth Spartans, el equipo que después sería los Detroit Lions" a "el equipo que después
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/jennifer-barreto-miss-universo-2026-criticas-respuesta-inteligencia-artificial-12280111
+No se pudo leer el artículo; no se publica para no salir corta: Críticas a la nueva Miss Universo por sonar como un robot y tener tiempo extra en la pregunta final
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/kailey-levy-deslumbra-estreno-bajo-un-fuego-del-brazo-de-su-padre-william-levy-12279545
+No se pudo leer el artículo; no se publica para no salir corta: ¡Kailey Levy brilla en el estreno de ‘Bajo un fuego’, del brazo de su padre William Levy y con su dominio del español!
+[Famosos] Infobae: texto leído 4276 letras -> https://www.infobae.com/teleshow/2026/11/25/fuerte-recuerdo-el-desgarrador-testimonio-de-gianinna-maradona-sobre-la-muerte-de-diego-y-la-desesperada-reaccion-de-claudia-villafane-en-la-panamericana/
+Revisión: corregida (ajusté "Benjamín estuvo con ella" a "estaba él ahí para abrazarla" según fuente; quité "Diego" informal en EN
+[Famosos] Infobae: texto leído 3824 letras -> https://www.infobae.com/teleshow/2026/11/26/el-delicado-motivo-de-la-pelea-entre-facundo-arana-y-maria-susini-la-hija-de-18-anos-sale-con-su-profesor-de-40/
+Revisión: corregida (se quitó "según lo contó" de tono neutro y se ajustó la atribución de la clínica; se agregó que Arana tenía p
 [Deportes] MLB.com: texto leído 2220 letras -> https://www.mlb.com/es/video/abl-live-perth-vs-brisbane-251523
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ABL LIVE: Perth @ Brisbane | 26/11/2026
-[Deportes] MLB.com: texto leído 1590 letras -> https://www.mlb.com/news/kevin-ginkel-twins-deal
-[Deportes] La Nación: texto leído 1921 letras -> https://www.lanacion.com.ar/usa/twins-agree-to-2-year-18m-deal-with-former-arizona-reliever-kevin-ginkel-ap-source-says-nid26112026/
-Revisión: corregida (corregí "efectivo" por "efectividad" en la versión en español; eliminé la atribución "según fuentes citadas p
+[Deportes] MLB.com: texto leído 330 letras -> https://www.mlb.com/es/video/alec-bohm-and-the-royals-agree-to-a-deal
+No se pudo leer el artículo; no se publica para no salir corta: Alec Bohm, Royals in agreement on two-year deal
 [Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "Historicamente" y la frase de "IA"; corregí "Aun así" sin cambios de fond
 Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
+[Deportes] MLB.com: texto leído 1807 letras -> https://www.mlb.com/news/a-j-puk-contract-nationals
+Rechazada por la revisión: Reliever Puk heading to Nationals on 1-year deal (source) -> cifras que no aparecen en las fuentes: 198
+[Deportes] MLB.com: texto leído 4266 letras -> https://www.mlb.com/news/foster-griffin-guardians-contract
+Revisión: corregida (se corrigió la atribución de la fuente de MLB.com: el contrato lo informó una fuente citada por MLB.com/Mark 
 [Deportes] MLB.com: texto leído 4399 letras -> https://www.mlb.com/news/braves-options-for-2027-shortstop
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Where can Braves turn to fill shortstop in 2027?
-[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/mlb-files-lawsuit-with-goal-of-preserving-collective-bargaining-process
-Revisión: corregida (se quitó la afirmación de que la MLB "pide tres declaraciones judiciales" sin contexto, se aclaró que la estr
-[Precios y combustibles] Hoy Digital: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Crece el consumo de combustibles
-[Precios y combustibles] Listín Diario: texto leído 2775 letras -> https://listindiario.com/economia/20261125/julio-brache-dice-subsidios-combustibles-costaran-rd-50-000-millones-2026_931476.html
-Rechazada por la revisión: Julio Brache dice que subsidios a combustibles costarán RD$50,000 millones en 2026 -> cifras que no aparecen en las fuentes: 15
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 3033 letras -> https://elnacional.com.do/economia/refidonsa-ampliara-capacidad-almacenamiento-bustible-20-millones-dolares_587199.html
-[Precios y combustibles] Hoy Digital: texto leído 5275 letras -> https://hoy.com.do/el-pais/almuerzo-corripio/refidomsa-ampliara-capacidad-almacenamiento-2027-invertira-us-20-mm_1109954_amp.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: Refidomsa ampliará capacidad almacenar combustibles con inversión 20 millones de dólares
-Rechazada por la revisión: Refidomsa ampliará capacidad almacenar combustibles con inversión 20 millones de dólares -> cifras que no aparecen en las fuentes: 86
-[Videojuegos] Nintendo: texto leído 1553 letras -> https://www.nintendo.com/en-gb/News/2026/November/Mario-Kart-World-Ver-1-9-0-update-now-available--3250128.html
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (cambié "Acuerdo" por "Acuerdo de Cuenta de Nintendo" en el texto, y "tiene disponible" por "lanzó" en el text
-Video de YouTube agregado: Mario Kart World – Ver.1.9.0 update, available now! (Nintendo Switch 2)
+Fuente no confiable, se salta: eluniversaldigital.net
+Fuente no confiable, se salta: bloomberglinea.com
+[Precios y combustibles] Acento: texto leído 5020 letras -> https://acento.com.do/economia/economia-dominicana-crece-5-4-en-octubre-y-acumula-expansion-de-4-7-durante-2026-9796754.html
+[Precios y combustibles] Diario Libre: texto leído 5045 letras -> https://www.diariolibre.com/economia/finanzas/2026/11/25/economia-de-rd-crece-54--en-octubre-impulsada-por-la-construccion/3731591
+Cambiada de sección: Precios y combustibles -> República Dominicana: Economía dominicana crece 5.4 % en octubre y acumula expansión de 4.7 % durante 2026
+Revisión: corregida (se quitó "aún tiene cifras por revelar" del gancho, que no está en las fuentes; se atribuyó al BCRD el dato d
+[Precios y combustibles] Infobae: texto leído 3653 letras -> https://www.infobae.com/noticias/2026/11/25/euro-hoy-en-republica-dominicana-cotizacion-de-cierre-del-25-de-noviembre/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Euro hoy en República Dominicana: cotización de cierre del 25 de noviembre
+Fuente no confiable, se salta: rpp.pe
+Fuente no confiable, se salta: remolacha.net
+[Precios y combustibles] CDN: texto leído 3154 letras -> https://cdn.com.do/nacionales/inespre-distribuira-200-mil-combos-de-10-productos-por-rd1000/
+Rechazada por la revisión: INESPRE distribuirá 200 mil combos navideños de 10 productos por RD$1,000 -> cifras que no aparecen en las fuentes: 200000
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 Fuente oficial encontrada: Nintendo Support 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Update The Legend of Zelda: Ocarina of Time
-[Videojuegos] Pokemon.com: texto leído 591 letras -> https://community.pokemon.com/en-us/discussion/27038/free-pokemon-go-x-duolingo-code
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Free Pokemon Go x Duolingo Code
-[Videojuegos] Pokemon.com: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: 2027 Pokémon Latin America International Championships VGC Masters Division
+[Videojuegos] Nintendo: texto leído 918 letras -> https://www.nintendo.com/en-ca/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Nintendo Official Site - Canada - Consoles, Games, and More
 [Videojuegos] Pokemon.com: texto leído 967 letras -> https://community.pokemon.com/en-us/discussion/27051/if-your-favorite-video-game-characters-were-pokemon
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): If your favorite video game characters were Pokemon?
 [Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/pokemon-go-results
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon GO Latin America International Championships Event Results
+[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 2177 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-edition-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 Power-Up Edition
 [Videojuegos] Nintendo: texto leído 899 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-ultimate-bonus-su-47-berkut-70050000085335-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Ultimate Bonus "Su-47 Berkut"
-[Videojuegos] Nintendo: texto leído 3066 letras -> https://www.nintendo.com/es-mx/store/products/zumba-christmas-marble-saga-switch/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Zumba - Christmas Marble Saga
 [Videojuegos] Nintendo: texto leído 2415 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-kit-70050000085323-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Power-Up Kit
@@ -134,8 +140,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SS
 [Videojuegos] Nintendo: texto leído 1493 letras -> https://ec.nintendo.com/AU/en/aocs/70050000085033
 Fuente oficial encontrada: Nintendo, Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Season Pass 2 Bonus "YF-23 Black Widow II"
+Traducidas al inglés: 2 (quedan 0 por traducir)
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 24 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 106 · ya cubiertas: 31 · no confiables: 27 · opinión: 1 · con texto leído: 41 · sin texto: 2 · medios juntados: 3 · con fuente oficial: 18 · aprobadas por la revisión: 0 · corregidas por la revisión: 6 · rechazadas por la revisión: 4 · con video: 1 · con foto oficial: 1 · error IA: 2 · descartadas por la IA: 24 · cambiadas de sección: 4 · largas: 6 · ocultas (cortas): 2
+12 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 6 · ya vistas: 114 · ya cubiertas: 23 · no confiables: 20 · opinión: 0 · con texto leído: 47 · sin texto: 3 · medios juntados: 7 · con fuente oficial: 20 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 4 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 23 · cambiadas de sección: 7 · largas: 9 · ocultas (cortas): 3
