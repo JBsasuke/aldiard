@@ -1,114 +1,111 @@
-Corrida: 2026-11-26 09:47 AM (hora RD)
-No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+Corrida: 2026-11-26 10:48 AM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 200, 6000, 6100')
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2051 letras -> https://presidencia.gob.do/noticias/incabide-culmina-con-exito-su-segunda-subasta-publica-de-2026-con-una-venta-de-113-de-198
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Incabide culmina con éxito su segunda subasta pública de 2026, con una venta de 113 de 198 lotes -> cifras que no aparecen en las fuentes: 261
-[República Dominicana] Presidencia de la República Dominicana: texto leído 2176 letras -> https://www.presidencia.gob.do/noticias/inefi-deja-iniciados-los-trabajos-de-construccion-de-techado-de-la-escuela-salome-urena-en
+[República Dominicana] Presidencia de la República Dominicana: texto leído 2877 letras -> https://presidencia.gob.do/noticias/dgii-exhorta-contribuyentes-aprovechar-beneficios-de-amnistia-fiscal-vigentes-hasta-el-31
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] Periódico elDinero: texto leído 0 letras -> https://eldinero.com.do/390120/dgii-exhorta-a-contribuyentes-a-aprovechar-beneficios-de-amnistia-fiscal-vigentes-hasta-el-31-de-diciembre-2026/
 Fuente oficial encontrada: Presidencia de la República Dominicana 
-Revisión: corregida (eliminé "sin lugar a dudas"-type filler no presente; corregí "Sala Capitular de Moca" a los nombres exactos d
-No se pudo bajar la página: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)
-[República Dominicana] Dirección General de Contrataciones Públicas: texto leído 7000 letras -> https://comunidad.comprasdominicana.gob.do/Public/Tendering/ContractNoticeManagement/Index?currentLanguage=es-DO
-Fuente oficial encontrada: Dirección General de Contrataciones Públicas 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Buscar Proceso de Compra
-[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 1738 letras -> https://www.ministeriodeeducacion.gob.do/servicios/padres-y-alumnos/consulta-resultados-de-pruebas-nacionales
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Consulta Resultados de Pruebas Nacionales
+Revisión: aprobada
+[República Dominicana] Presidencia de la República Dominicana: texto leído 7000 letras -> https://www.presidencia.gob.do/noticias/estado-dominicano-se-une-en-iniciativa-vida-un-pacto-por-la-vida-de-las-mujeres-para
+No se pudo bajar la página: <HTTPError 470: ''>
+[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/estado-dominicano-se-une-en-iniciativa-vida-un-pacto-por-la-vida-de-las-mujeres-para-sensibilizar-a-la-poblacion-masculina/
+[República Dominicana] CDN: texto leído 6521 letras -> https://cdn.com.do/nacionales/iniciativa-vida-busca-sensibilizar-a-los-hombres-sobre-la-violencia-contra-las-mujeres/?amp=1
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: CDN
+Revisión: corregida (cifra de asesinatos completada con "87" según fuente; "Puntos VIDA" y cargos ajustados; se quitaron frases ge
+[República Dominicana] Municipalidad En Tus Manos: texto leído 2888 letras -> https://municipalidadentusmanos.gob.do/junta-municipal/junta-de-distrito-municipal-de-tireo-d-m/
+Fuente oficial encontrada: Municipalidad En Tus Manos 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar una noticia a partir de esta versión. El único texto disponible es una ficha institucional de la Junta de Distrito Municipal de Tireo: una descripción del distrito, d')
 [República Dominicana] Oficina Nacional de la Propiedad Industrial (ONAPI): texto leído 3108 letras -> https://www.onapi.gov.do/index.php/noticias/otorgan-doctorado-honor-causa-al-director-general-de-onapi
 Fuente oficial encontrada: Oficina Nacional de la Propiedad Industrial (ONAPI) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Otorgan “Doctorado Honor Causa” al director general de ONAPI
 [República Dominicana] DGII: texto leído 942 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/identificacin-de-deuda-en-dgii/6b06fb574175d10cff3c2129
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Identificación de deuda en DGII
-[República Dominicana] DGII: texto leído 2165 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retenciones-en-facturacion-electronica-personas-fisicas/6b06e9d94175d10cff3a3d5c
+[República Dominicana] DGII: texto leído 1175 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/obligaciones-declarativas-de-un-residente-fiscal-en-condicin-de-registrado/6b0715023a9daeeaeab10408
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): RETENCIONES EN FACTURACION ELECTRONICA PERSONAS FISICAS
-[República Dominicana] DGII: texto leído 1215 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/exencin-o-aplicacin-del-itbis-en-servicios-de-publicidad-y-produccin-audiovisual-prestados-a-clientes-en-el-extranjero/6b0740f24175d10cff4224fc
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Exención o aplicación del ITBIS en servicios de publicidad y producción audiovisual prestados a clientes en el extranjero.
-[República Dominicana] De Último Minuto: texto leído 4715 letras -> https://deultimominuto.com/nacionales/piden-que-reforma/
-Revisión: corregida (eliminé "Según la asociación" de la clave y del gancho sin cambiar el sentido; quité "de forma efectiva" por 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Obligaciones declarativas de un residente fiscal en condición de Registrado
+[República Dominicana] De Último Minuto: texto leído 1378 letras -> https://deultimominuto.com/uncategorized/omar-fernandez-comparte-momento/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Omar Fernández comparte momento musical con El Poeta Callejero e interpretan el tema «Gracias»
+[República Dominicana] De Último Minuto: texto leído 3448 letras -> https://deultimominuto.com/entretenimiento/en-el-dia-nacional-del-merengue-1/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): En el Día Nacional del Merengue, destacamos voces femeninas de diversas generaciones
+[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 3414 letras -> https://jce.gob.do/Noticias/tag/fuerzas-armadas
+Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: JCE cedula a más de 38 mil miembros Fuerzas Armadas y Policía Nacional
+Rechazada por la revisión: JCE cedula a más de 38 mil miembros Fuerzas Armadas y Policía Nacional -> cifras que no aparecen en las fuentes: 12518, 25938, 38000, 38456, 50000
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
-Fuente no confiable, se salta: abc7.com
-[Dominicanos en EE.UU.] Infobae: texto leído 3914 letras -> https://www.infobae.com/republica-dominicana/2026/11/25/destinaran-mas-de-usd-500-mil-a-la-inclusion-digital-de-personas-con-discapacidad-auditiva-en-republica-dominicana/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana
-Rechazada por la revisión: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana -> cifras que no aparecen en las fuentes: 104000
 Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: laopinion.co
-Fuente no confiable, se salta: asturiasmundial.com
-[Dominicanos en EE.UU.] El Universo: texto leído 2774 letras -> https://www.eluniverso.com/entretenimiento/gente/hayden-panettiere-dejo-una-herencia-de-mas-de-62-millones-a-su-hija-kaya-nota/
-[Dominicanos en EE.UU.] Excélsior: texto leído 4245 letras -> https://www.excelsior.com.mx/espectaculos/millonaria-herencia-que-hayden-panettiere-le-dejo-hija-tras-muerte
-Cambiada de sección: Dominicanos en EE.UU. -> Famosos: Hayden Panettiere dejó una herencia de más de $ 6,2 millones a su hija Kaya
-Rechazada por la revisión: Hayden Panettiere dejó una herencia de más de $ 6,2 millones a su hija Kaya -> cifras que no aparecen en las fuentes: 1023600, 5208519
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: ultimasnoticias.com.do
+Fuente no confiable, se salta: primicias.net
 [Dominicanos en EE.UU.] Acento: texto leído 4190 letras -> https://acento.com.do/ecologia/pronostico-del-tiempo-en-santo-domingo-republica-dominicana-clima-de-hoy-jueves-26-de-noviembre-de-2026-9797065.html
-[Dominicanos en EE.UU.] Clarin.com: texto leído 2606 letras -> https://www.clarin.com/informacion-general/clima-hoy-santo-domingo-republica-dominicana-pronostico-tiempo-jueves-26-noviembre-2026_0_h1H0wa0j3R.html
-[Dominicanos en EE.UU.] La Estrella de Panamá: texto leído 2241 letras -> https://www.laestrella.com.pa/panama/informacion-util/clima-en-panama-pronostico-para-este-26-de-noviembre-JA27632685
+[Dominicanos en EE.UU.] Clarin.com: texto leído 2532 letras -> https://www.clarin.com/informacion-general/clima-hoy-caracas-venezuela-pronostico-tiempo-jueves-26-noviembre-2026_0_ghASp7dIBJ.html
+[Dominicanos en EE.UU.] Página|12: texto leído 3845 letras -> https://www.pagina12.com.ar/2026/11/26/clima-en-buenos-aires-el-pronostico-del-tiempo-para-este-jueves-26-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pronóstico del tiempo en Santo Domingo, República Dominicana: clima de hoy, jueves 26 de noviembre de 2026
 Fuente no confiable, se salta: robertocavada.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 4422 letras -> https://elnuevodiario.com.do/berto-batista-trasciende-en-nueva-jersey/
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nMotivo: el texto es una columna de opinión y homenaje personal escrita por un ex compañero de equipo, con tono de crónica sentimental más que de noticia. Además, el reconocimiento que d')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una columna de opinión personal sobre Berto Batista Ureña, escrita por un excompañero de equipo. Aunque reseña un reconocimiento que recibirá en Nueva Jersey, su tono es d')
 Fuente no confiable, se salta: robertocavada.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2934 letras -> https://elnuevodiario.com.do/abogada-dominicana-radicada-en-madid-dona-sus-cuatro-libros-a-la-biblioteca-nacional/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Abogada dominicana radicada en Madid dona sus cuatro libros a la Biblioteca Nacional
+Fuente no confiable, se salta: psn.si
+Fuente no confiable, se salta: elsoldelaflorida.com
+Fuente no confiable, se salta: mensajero.com.ar
+[Dominicanos en EE.UU.] Acento: texto leído 3209 letras -> https://acento.com.do/actualidad/black-friday-en-america-latina-exige-estrategias-comerciales-adaptadas-a-cada-mercado-9796607.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Black Friday en América Latina exige estrategias comerciales adaptadas a cada mercado
 [Internacionales] The White House (.gov): texto leído 3421 letras -> https://www.whitehouse.gov/videos/the-2026-thanksgiving-turkey-pardon-ceremony-at-the-white-house-postcard-edition/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition
 [Internacionales] The White House (.gov): texto leído 4549 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Videos – Page 2 of 204
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste no contiene una noticia concreta. Es la página de videos de whitehouse.gov (una portada o índice de navegación con menús, listas de enlaces y títulos de videos)')
 [Internacionales] U.S. Department of State (.gov): texto leído 724 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-25-2026
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 25, 2026
-[Famosos] CDN: texto leído 2266 letras -> https://cdn.com.do/internacionales/estados-unidos/acusan-asesinato-adolescente-dominicano-muerte-taxista-musulman-ny/
-Cambiada de sección: Famosos -> Dominicanos en EE.UU.: Acusan de asesinato adolescente dominicano por muerte de taxista musulmán en NY
-Revisión: corregida (se corrigieron el orden de "fuentes de la investigación"/"policía", se precisó que el taxi fue dejado en reve
+[Famosos] Diario Libre: texto leído 7000 letras -> https://www.diariolibre.com/revista/cultura/2026/11/26/dany-alcantara-defiende-la-television-dominicana-y-su-futuro/3731625
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste se corta antes de terminar, y solo tengo una versión de la noticia (Diario Libre, de tipo PERIÓDICO). Además, la nota es una entrevista de perfil con Dany Alcán')
 [Famosos] El Dia.com.do: texto leído 1989 letras -> https://eldia.com.do/que-la-farandula-no-distraiga-del-crimen/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Que la farándula no distraiga del crimen
-[Famosos] CDN: texto leído 3072 letras -> https://cdn.com.do/nacionales/pasajeros-de-skyhigh-tendran-rd500-de-descuento-en-farmacia-carol/
-Cambiada de sección: Famosos -> Precios y combustibles: SKYhigh y Farmacia Carol se unen para beneficiar a pasajeros con descuentos
-Revisión: corregida (eliminé "sin costo adicional" del gancho de "Importa" por no estar en las fuentes; cambié "Según las empresas
-Fuente no confiable, se salta: prensa-latina.cu
-[Famosos] El Dia.com.do: texto leído 1593 letras -> https://eldia.com.do/cuales-numeros-salieron-este-25-de-noviembre-de-2026-en-la-loteria-aqui-estan-los-resultados/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿Cuáles números salieron este 25 de noviembre de 2026 en la lotería? Aquí están los resultados
+Fuente no confiable, se salta: masvip.com.do
+[Famosos] El Dia.com.do: texto leído 0 letras -> sin enlace
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] EL PAÍS Uruguay: texto leído 0 letras -> https://www.elpais.com.uy/mundo/estados-unidos/numeros-ganadores-del-powerball-del-miercoles-25-de-noviembre-de-2026-los-resultados-del-ultimo-sorteo
+No se pudo leer el artículo; no se publica para no salir corta: ¿Cuáles números salieron este 25 de noviembre de 2026 en la lotería? Aquí están los resultados
+[Famosos] El Dia.com.do: texto leído 0 letras -> sin enlace
+[Famosos] Acento: texto leído 4786 letras -> https://acento.com.do/actualidad/padre-william-antonio-arias-llama-a-combatir-la-violencia-contra-las-mujeres-y-honrar-el-legado-de-las-hermanas-mirabal-9796563.html
+Cambiada de sección: Famosos -> República Dominicana: "No podemos honrar la memoria de las Mirabal mientras toleramos los feminicidios", afirma padre William Arias
+Revisión: corregida (se quitó "Arias fue directo" por tono de relleno; se corrigió "Patria, Minerva y María Teresa Mirabal" sin ca
+Fuente no confiable, se salta: cuballama.com
+Fuente no confiable, se salta: cibercuba.com
 Fuente no confiable, se salta: robertocavada.com
 [Famosos] Diario Libre: texto leído 1983 letras -> https://www.diariolibre.com/amp/revista/musica/2026/11/25/cumpleanos-de-cecilia-garcia-con-dioni-fernandez-y-nicole-lazala/3731597
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Cecilia García también dio hombro en su cumpleaños
-Fuente no confiable, se salta: agencianova.com
-Fuente no confiable, se salta: urbanstreet.com.pe
-Fuente no confiable, se salta: remolacha.net
-Fuente no confiable, se salta: remolacha.net
-[Famosos] Telemundo: texto leído 2112 letras -> https://www.telemundo.com/deportes/premier-league/el-otro-problema-que-afronta-pochettino-con-bruno-fernandes-rcna611345
-Cambiada de sección: Famosos -> Deportes: El otro problema que afronta Pochettino con Bruno Fernandes
-Revisión: corregida (se cambió "Ruben Amorim" de "técnico" a... no; se corrigió "capitán" a "capitán" sin cambios; principales cam
-[Deportes] Lidom: texto leído 2775 letras -> https://lidom.com/lidom/estrellas-remontan-en-el-noveno-y-alcanzan-la-cima-101434.html
-Revisión: corregida (corregí el título en español e inglés para que diga "empatan la cima" en vez de "empatan la cima con Licey" s
-[Deportes] MLB.com: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Luis Robert Jr. llega a un acuerdo para seguir en Baltimore (fuente)
+[Famosos] El Nuevo Diario: texto leído 797 letras -> https://elnuevodiario.com.do/dicrim-apresa-a-el-guason-acusado-de-quemar-a-haitiano-tras-disputa-por-rd400-en-la-vega/
+Cambiada de sección: Famosos -> República Dominicana: DICRIM apresa a «El Guasón» acusado de quemar a haitiano tras disputa por RD$400 en La Vega
+Revisión: corregida (quité "Según la investigación" y "La disputa terminó en agresión con fuego" no tiene respaldo; ajusté "acusad
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851479?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Gigantes del Cibao vs Leones del Escogido
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851545?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Estrellas Orientales vs Aguilas Cibaenas
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851428?ins=previa&sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Tigres del Licey vs Toros del Este
+[Deportes] Lidom: texto leído 3070 letras -> https://lidom.com/lidom/duelos-de-pitcheo-abren-una-jornada-de-tres-partidos-del-miercoles-101490.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Duelos de pitcheo abren una jornada de tres partidos del miercoles
 [Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
 Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
 Fuente no confiable, se salta: orlandomagic.com
 [Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_05_00PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto de la Versión 1 no es una noticia: es un archivo PDF en bruto (encabezado, objetos y flujos binarios) del informe de lesiones de la NBA del 25/11/26. No contiene ningún hecho l')
-[Deportes] NBA.com: texto leído 2914 letras -> https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe
-Rechazada por la revisión: NBA announces €10B plan to develop European arenas -> cifras que no aparecen en las fuentes: 10000, 24000
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_09_15PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que recibí es el contenido binario bruto de un archivo PDF (encabezados como "%PDF-1.4", objetos, streams comprimidos con FlateDecode y datos de imágenes), no el texto de una noticia. El PDF parece')
-Fuente no confiable, se salta: eluniversaldigital.net
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar una noticia a partir de esta versión, porque el texto que me pasaste no contiene información periodística utilizable. Es el contenido bruto de un archivo PDF (encabezados, objetos, m')
 Fuente no confiable, se salta: bloomberglinea.com
+[Precios y combustibles] Acento: texto leído 2528 letras -> https://acento.com.do/economia/cajeros-automaticos-en-rd-podran-ofrecer-mas-servicios-sin-acudir-a-una-sucursal-9796706.html
+Cambiada de sección: Precios y combustibles -> República Dominicana: Cajeros automáticos en RD podrán ofrecer más servicios sin acudir a una sucursal
+Revisión: corregida (se quitó "en la región" del inglés que no estaba en el original? no; se corrigió: el borrador atribuye "expli
 Fuente no confiable, se salta: remolacha.net
 [Precios y combustibles] CDN: texto leído 3154 letras -> https://cdn.com.do/nacionales/inespre-distribuira-200-mil-combos-de-10-productos-por-rd1000/
 Rechazada por la revisión: INESPRE distribuirá 200 mil combos navideños de 10 productos por RD$1,000 -> cifras que no aparecen en las fuentes: 200000
 [Precios y combustibles] Noticias SIN: texto leído 2976 letras -> https://noticiassin.com/pais/2026/11/25/abinader-lanza-combos-del-inespre-a-rd1000-para-navidad-2176974/?amp=1
-Rechazada por la revisión: Abinader anuncia distribución de 200 mil combos del Inespre a RD$1,000 durante la Navidad -> cifras que no aparecen en las fuentes: 0, 200000
-Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: ipsnoticias.net
-Fuente no confiable, se salta: elconstituyente.com.do
+Rechazada por la revisión: Abinader anuncia distribución de 200 mil combos del Inespre a RD$1,000 durante la Navidad -> cifras que no aparecen en las fuentes: 200000
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 Fuente oficial encontrada: Nintendo Support 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Update The Legend of Zelda: Ocarina of Time
@@ -122,8 +119,7 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon 
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 2177 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-edition-switch/
-[Videojuegos] PlayStation Store: texto leído 2736 letras -> https://store.playstation.com/en-fi/product/JP0393-PPSA32808_00-0712945470676228
-Fuente oficial encontrada: Nintendo, PlayStation Store 
+Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 Power-Up Edition
 [Videojuegos] Nintendo: texto leído 899 letras -> https://www.nintendo.com/es-mx/store/products/daisenryaku-ssb-2-ultimate-bonus-su-47-berkut-70050000085335-switch/
 Fuente oficial encontrada: Nintendo 
@@ -134,14 +130,14 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SS
 [Videojuegos] Nintendo: texto leído 2415 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-kit-70050000085323-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Power-Up Kit
-[Videojuegos] Nintendo: texto leído 843 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-season-pass-2-bonus-yf-23-black-widow-ii-70050000085327-switch-2/
+[Videojuegos] Nintendo: texto leído 0 letras -> sin enlace
 [Videojuegos] Nintendo: texto leído 1493 letras -> https://ec.nintendo.com/AU/en/aocs/70050000085033
-Fuente oficial encontrada: Nintendo, Nintendo 
+Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Season Pass 2 Bonus "YF-23 Black Widow II"
-Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 1.
-Consejo del día (divisas): Cuida tu dinero entre dos países
+Instagram: 28 usadas en 24 horas, quedan 14; esta corrida sube hasta 2.
 Marcadores: 24 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-7 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 115 · ya cubiertas: 21 · no confiables: 24 · opinión: 0 · con texto leído: 45 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 21 · aprobadas por la revisión: 0 · corregidas por la revisión: 6 · rechazadas por la revisión: 7 · con video: 0 · con foto oficial: 1 · error IA: 3 · descartadas por la IA: 24 · cambiadas de sección: 5 · largas: 6 · ocultas (cortas): 1
-Para Instagram (tendencia 6): Tormenta costera amenaza viajes de Acción de Gracias en EE. UU. con inundaciones y nevadas
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 108 · ya cubiertas: 20 · no confiables: 14 · opinión: 0 · con texto leído: 41 · sin texto: 9 · medios juntados: 2 · con fuente oficial: 21 · aprobadas por la revisión: 1 · corregidas por la revisión: 4 · rechazadas por la revisión: 5 · con video: 0 · con foto oficial: 2 · error IA: 5 · descartadas por la IA: 23 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 4
+Para Instagram (tendencia 6): Macy's aplaza al sábado su desfile de Acción de Gracias por el mal tiempo
+Para Instagram (tendencia 4): Embajadas de EE.UU. en Medio Oriente emiten alerta de seguridad por ataques de Irán y los hutíes
