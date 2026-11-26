@@ -1,131 +1,105 @@
-Corrida: 2026-11-26 03:48 PM (hora RD)
+Corrida: 2026-11-26 04:48 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2051 letras -> https://presidencia.gob.do/noticias/incabide-culmina-con-exito-su-segunda-subasta-publica-de-2026-con-una-venta-de-113-de-198
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Incabide culmina con éxito su segunda subasta pública de 2026, con una venta de 113 de 198 lotes -> cifras que no aparecen en las fuentes: 261
-[República Dominicana] Presidencia de la República Dominicana: texto leído 3756 letras -> https://presidencia.gob.do/noticias/inabie-inaugura-dos-modulos-de-salud-bucal-en-cabrera-y-rio-san-juan
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: INABIE inaugura dos módulos de salud bucal en Cabrera y Río San Juan -> cifras que no aparecen en las fuentes: 3000
-[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
-Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es una página de servicios del Ministerio de Educación (listado de trámites y consultas en línea), no una noticia concreta con hechos, fechas, cifras ni declaraci')
+[República Dominicana] centralnoticias.gob.do: texto leído 3017 letras -> https://centralnoticias.gob.do/juan-salazar-presenta-su-libro-50-miradas-por-el-retrovisor-una-recopilacion-de-articulos-que-proyecta-su-trayectoria-periodistica/
+Fuente oficial encontrada: centralnoticias.gob.do 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Juan Salazar presenta su libro «50 miradas por el retrovisor», una recopilación de artículos que proyecta su trayectoria periodística
+[República Dominicana] Municipalidad En Tus Manos: texto leído 2888 letras -> https://municipalidadentusmanos.gob.do/junta-municipal/junta-de-distrito-municipal-de-tireo-d-m/
+Fuente oficial encontrada: Municipalidad En Tus Manos 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Junta de Distrito Municipal de Tireo (D.M.)
+[República Dominicana] centralnoticias.gob.do: texto leído 6601 letras -> https://centralnoticias.gob.do/author/solange/page/360/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. Las versiones que me pasaste no contienen una noticia concreta que pueda resumir de forma verificable: el texto de la Versión 1 es un fragmento de una n')
 [República Dominicana] Oficina Nacional de la Propiedad Industrial (ONAPI): texto leído 3108 letras -> https://www.onapi.gov.do/index.php/noticias/otorgan-doctorado-honor-causa-al-director-general-de-onapi
 Fuente oficial encontrada: Oficina Nacional de la Propiedad Industrial (ONAPI) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Otorgan “Doctorado Honor Causa” al director general de ONAPI
+[República Dominicana] DGII: texto leído 550 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/menu-de-oficina-virtual-no-me-permite-consultar/6b0846d1e31105f88964d466
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Menu de Oficina Virtual no me permite consultar
+[República Dominicana] Banco Central de la República Dominicana: texto leído 0 letras -> https://cdn.bancentral.gov.do/documents/instrumentos-de-inversion/instrumentos-operaciones-de-mercado-abierto/documents/Letras_bc_resultados.pdf?v=1790380800198
+No se pudo leer el artículo; no se publica para no salir corta: LETRAS DEL BANCO CENTRAL
 [República Dominicana] DGII: texto leído 504 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/aplicacion-norma-022026-en-pagos-anticipados/6b083c783a9daeeaeac7f0c5
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): APLICACION NORMA 02-2026 EN PAGOS ANTICIPADOS
-[República Dominicana] De Último Minuto: texto leído 2604 letras -> https://deultimominuto.com/nacionales/adp-deja-sin-efecto-paro-en-boca/
-Revisión: corregida (eliminé "y decidió" → "pero decidió" ya era correcto; cambié "Antes, hubo" por "Antes" sin cambio de fondo; q
-[República Dominicana] De Último Minuto: texto leído 4563 letras -> https://deultimominuto.com/nacionales/atropello-en-los-girasoles/
-Revisión: corregida (se quitó la frase de relleno "Según el relato publicado"; se atribuyó la versión de premeditación y la acusac
-Video de YouTube agregado: ¿ACCIDENTE O ATENTADO? GIRO INESPERADO EN ATROPELLO FATAL EN LOS GIRASOLES
-[República Dominicana] De Último Minuto: texto leído 5540 letras -> https://deultimominuto.com/internacionales/cuba-negocios-inversion/
-[República Dominicana] Infobae: texto leído 3200 letras -> https://www.infobae.com/america/agencias/2026/11/26/cuba-aprueba-negocios-por-2000-millones-de-dolares-en-el-marco-de-sus-reformas-economicas/
-Cambiada de sección: República Dominicana -> Internacionales: Cuba aprueba 40 nuevos negocios por 2.000 millones de dólares para atraer inversión extranjera
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (corregí "dar más espacio" a "mecanismos de mercado" según fuente; atribuí a Pérez-
-Revisión: corregida (corregí "dar más espacio" a "mecanismos de mercado" según fuente; atribuí a Pérez-Oliva las afirmaciones sobr
-[República Dominicana] De Último Minuto: texto leído 3500 letras -> https://deultimominuto.com/internacionales/un-tribunal-de-kenia-declara/
-[República Dominicana] El Nuevo Diario: texto leído 2978 letras -> https://elnuevodiario.com.do/un-tribunal-de-kenia-declara-culpable-de-terrorismo-al-lider-de-una-secta-cristiana/
-[República Dominicana] www.abc.com.py: texto leído 2705 letras -> https://www.abc.com.py/internacionales/2026/11/26/un-tribunal-de-kenia-declara-culpable-de-terrorismo-al-lider-de-una-secta-cristiana/?outputType=amp
-Cambiada de sección: República Dominicana -> Internacionales: Un tribunal de Kenia declara culpable de terrorismo al líder de una secta cristiana
-Revisión: corregida (corregí "A Kenyan court has found" y ajusté algunos detalles de atribución y la cifra de coacusados según las
+[República Dominicana] De Último Minuto: texto leído 2324 letras -> https://deultimominuto.com/entretenimiento/la-magacin-reunio-300/
+[República Dominicana] El Nuevo Diario: texto leído 1921 letras -> https://elnuevodiario.com.do/la-magacin-reunio-a-300-personas-para-ver-la-final-de-miss-universe-2026/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): La Magacín reunió a 300 personas para ver la final de Miss Universe 2026
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2609 letras -> https://centralnoticias.gob.do/camara-santiago-y-camara-de-comercio-de-dominicanos-en-california-acuerdan-promover-oportunidades-de-negocios/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Revisión: corregida (se cambió "presidenta" a "presidente" para la CCDEX según la fuente, que usa "presidente" para Clara Tavárez 
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 2027 letras -> https://centralnoticias.gob.do/rd-sera-sede-de-asamblea-general-de-la-asociacion-de-periodistas-de-turismo-de-francia/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: RD será sede de Asamblea General de la Asociación de Periodistas de Turismo de Francia
+Revisión: corregida (quité "Según el Gobierno" → la fuente es centralnoticias.gob.do, así que se mantuvo la atribución; corregí "P
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment/
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
+[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2050 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/venezuelas-reconciliation-talks-continued-progress-toward-an-enduring-democracy
+Fuente oficial encontrada: U.S. Department of State (.gov) 
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Venezuela’s Reconciliation Talks Continued Progress Toward an Enduring Democracy
+Revisión: corregida (se atribuyó todo el contenido al comunicado del Departamento de Estado; se eliminó "Dinorah Figuera" como "do
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
 Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Solo recibí una versión, y es la de un sitio oficial (Federal Register, .gov), así que es la fuente oficial. El texto que me pasaste es básicamente la página de la plataforma: avisos de uso, navegació')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly
 [Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 724 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-25-2026
 Fuente oficial encontrada: U.S. Department of State (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 25, 2026
-Fuente no confiable, se salta: abc7.com
-Fuente no confiable, se salta: argentina.ladevi.info
-[Dominicanos en EE.UU.] Infobae: texto leído 3914 letras -> https://www.infobae.com/republica-dominicana/2026/11/25/destinaran-mas-de-usd-500-mil-a-la-inclusion-digital-de-personas-con-discapacidad-auditiva-en-republica-dominicana/
-Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana
-Rechazada por la revisión: Destinarán más de USD 500 mil a la inclusión digital de personas con discapacidad auditiva en República Dominicana -> cifras que no aparecen en las fuentes: 104000
-Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] Acento: texto leído 7000 letras -> https://acento.com.do/actualidad/que-se-celebra-hoy-en-el-mundo-efemerides-del-26-de-noviembre-y-acontecimientos-historicos-de-esta-fecha-9796740.html
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] EL PAÍS Uruguay: texto leído 0 letras -> https://www.elpais.com.uy/vida-actual/efemerides/que-se-celebra-hoy-jueves-26-de-noviembre-de-2026-efemerides-de-un-dia-como-hoy-en-la-historia
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia tal como está planteada. Las dos versiones que pegaste son solo titulares, descripciones y fragmentos de un listado de efemérides ("qué se celebra hoy"),')
-Fuente no confiable, se salta: robertocavada.com
-Fuente no confiable, se salta: robertocavada.com
-[Dominicanos en EE.UU.] Periódico elDinero: texto leído 1690 letras -> https://eldinero.com.do/390165/marianne-cruz-anuncia-que-dominicanos-a-simple-vista-se-transmitira-por-univision/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Marianne Cruz anuncia que “Dominicanos A Simple Vista” se transmitirá por Univisión
 [Internacionales] The White House (.gov): texto leído 3421 letras -> https://www.whitehouse.gov/videos/the-2026-thanksgiving-turkey-pardon-ceremony-at-the-white-house-postcard-edition/
 Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition
-[Internacionales] The White House (.gov): texto leído 4549 letras -> https://www.whitehouse.gov/videos/page/2/
-Fuente oficial encontrada: The White House (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Videos – Page 2 of 204
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 [Internacionales] The White House (.gov): texto leído 3124 letras -> https://www.whitehouse.gov/videos/newsom-commuted-death-row-sentences-victims-families-share-their-heartbreaking-stories/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo producir esta noticia en el formato pedido. La única fuente que me has dado es una página de navegación de la Casa Blanca (The White House, .gov) cuyo contenido útil se reduce')
+[Internacionales] The White House (.gov): texto leído 4549 letras -> https://www.whitehouse.gov/videos/page/2/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la versión que me pasaste es únicamente el menú de navegación y la lista de videos de la página de la Casa Blanca (whitehouse.gov). No contiene ninguna noticia concreta: solo aparecen ')
+[Famosos] El Nuevo Día: texto leído 3062 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-explica-por-que-republica-dominicana-no-gano-miss-universe/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Osmel Sousa explica por qué República Dominicana no ganó Miss Universe
 [Famosos] El Dia.com.do: texto leído 1989 letras -> https://eldia.com.do/que-la-farandula-no-distraiga-del-crimen/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Que la farándula no distraiga del crimen
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: masvip.com.do
-[Famosos] El Dia.com.do: texto leído 3419 letras -> https://eldia.com.do/iniciativa-vida-llama-a-hombres-a-frenar-la-violencia-contra-las-mujeres/
-[Famosos] El Nuevo Diario: texto leído 3188 letras -> https://elnuevodiario.com.do/de-los-tribunales-a-la-musica-magistrado-impulsa-cancion-para-llamar-hombres-a-frenar-la-violencia-contra-la-mujer/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/iniciativa-vida-busca-frenar-violencia-contra-mujer/
-Cambiada de sección: Famosos -> República Dominicana: “Iniciativa Vida” llama a hombres a frenar la violencia contra las mujeres
-Revisión: corregida (quité "Durante el año" y "Dijo que" sin respaldo exacto; corregí "Según El Nuevo Diario" donde era una cita d
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
-Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: robertocavada.com
-[Famosos] Diario Libre: texto leído 1983 letras -> https://www.diariolibre.com/amp/revista/musica/2026/11/25/cumpleanos-de-cecilia-garcia-con-dioni-fernandez-y-nicole-lazala/3731597
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Cecilia García también dio hombro en su cumpleaños
 Fuente no confiable, se salta: noticentro.com.do
+[Famosos] Ensegundos.do: texto leído 5790 letras -> https://ensegundos.do/2026/11/26/de-ramon-alburquerque-a-alex-bueno-y-roman-ramos-las-figuras-dominicanas-que-nos-dejaron-en-2026/
+Error IA: ValueError('respuesta sin el formato esperado: Lamentablemente no puedo completar esta tarea tal como está planteada, porque la única fuente que me enviaste es una nota de un solo medio (Ensegundos.do), que además aparece cortada: termina en medio')
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: remolacha.net
-[Famosos] Univision: texto leído 2228 letras -> https://www.univision.com/famosos/joana-benedek-a-que-se-dedica?utm_campaign=ImageFamosos&utm_me
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¿A qué se dedica Joana Benedek? La actriz dejó las telenovelas y a esto se dedica
-Fuente no confiable, se salta: lasestrellas.tv
-Fuente no confiable, se salta: oem.com.mx
-[Famosos] Infobae: texto leído 4032 letras -> https://www.infobae.com/mexico/2026/11/25/ernesto-laguardia-regresa-a-las-telenovelas-en-televisa-sera-un-chavorruco-en-produccion-de-pedro-ortiz-de-pinedo/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ernesto Laguardia regresa a las telenovelas en Televisa: será un “chavorruco” en producción de Pedro Ortiz de Pinedo
-Fuente no confiable, se salta: facebook.com
-Fuente no confiable, se salta: zeta.com.pa
-Fuente no confiable, se salta: larazon.es
-Fuente no confiable, se salta: lasestrellas.tv
-Fuente no confiable, se salta: lasestrellas.tv
-Fuente no confiable, se salta: lasestrellas.tv
-Fuente no confiable, se salta: diariolasamericas.com
-Fuente no confiable, se salta: los40.us
 Fuente no confiable, se salta: ultimahora.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] Diario AS: texto leído 0 letras -> https://as.com/meristation/cine/antonio-banderas-recuerda-la-advertencia-que-le-hizo-spielberg-esto-se-va-a-acabar-antonio-f202611-n/
-No se pudo leer el artículo; no se publica para no salir corta: Antonio Banderas recuerda la advertencia que le hizo Spielberg: “Esto se va a acabar, Antonio”
-[Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
-Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
-[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/starting-5-november-26-2026
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Starting 5: NBA takes Thanksgiving Day off as Emirates NBA Cup action heats up
-Fuente no confiable, se salta: orlandomagic.com
-[Deportes] NBA.com: texto leído 2914 letras -> https://www.nba.com/news/nba-announces-plans-for-e10-billion-initiative-supported-by-leading-global-investors-to-develop-arenas-and-entertainment-districts-across-europe
-Rechazada por la revisión: NBA announces €10B plan to develop European arenas -> cifras que no aparecen en las fuentes: 10000, 24000
-[Deportes] NBA.com: texto leído 1483 letras -> https://www.nba.com/news/magic-sign-kevin-porter-jr
-Revisión: corregida (corregí "Universidad del Sur de California" y "escolta y alero" según fuente; añadí los puntos de la línea en
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_09_15PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que me pasaste no es una noticia. Es el contenido bruto de un archivo PDF (con cabeceras como %PDF-1.4, objetos, flujos comprimidos y datos binarios), con el título "Injury Report: 11/25/26 09:15 P')
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-25_05_00PM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/25/26 05:00 PM
+Fuente no confiable, se salta: los40.us
+Fuente no confiable, se salta: cinergiaonline.com
+Fuente no confiable, se salta: sensacine.com
+Fuente no confiable, se salta: los40.cl
+Fuente no confiable, se salta: telemadrid.es
+[Famosos] 20 Minutos: texto leído 4651 letras -> https://www.20minutos.es/cinemania/criticas/critica-nuevas-desventuras-cliff-booth-fincher-violencia-esplendor-hollywood-tarantino_7064845_3.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Crítica de 'Las nuevas desventuras de Cliff Booth': Fincher devuelve la violencia y el esplendor al Hollywood de Tarantino
+Fuente no confiable, se salta: mundiario.com
+[Famosos] Infobae: texto leído 7000 letras -> https://www.infobae.com/espana/cultura/2026/11/26/skyler-gisondo-el-joven-de-moda-en-hollywood-pidio-ayuda-a-robin-williams-para-conseguir-una-cita-mintio-a-paul-thomas-anderson-y-ahora-se-codea-con-robert-pattinson-y-de-niro/
+Revisión: corregida (eliminé la mención de "Robert Pattinson y De Niro" en el gancho original; ajusté "a los seis años" y "Celesti
+Fuente no confiable, se salta: solarlatinclub.com
+Fuente no confiable, se salta: vix.com
+[Famosos] Infobae: texto leído 3741 letras -> https://www.infobae.com/colombia/2026/11/26/feid-encaro-y-se-mostro-molesto-con-periodista-que-le-pregunto-por-karol-g-las-redes-sociales-reaccionaron/
+Revisión: corregida (corregí la atribución de la separación de 2023 y eliminé la frase de "Ya no quería estar ahí" sin fuente de P
+[Deportes] Lidom: texto leído 4075 letras -> https://lidom.com/estrellas-orientales/estrellas-quedan-solas-en-primero-al-vencer-14-3-al-licey-y-alcanzan-10-victorias-consecutivas-101549.html
+Revisión: corregida (Enny Romero es el zurdo, no un lanzador "Enny" como nombre; corregí "ponchó a tres" y "un lanzamiento" sin ca
+[Deportes] MLB.com: texto leído 4926 letras -> https://www.mlb.com/es/news/la-manera-historica-en-que-schwarber-se-ha-acercado-a-los-500-jonrones
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigieron las cifras de Schwarber y Ruth en las pasadas de 1.º a 4.º, se atri
+Revisión: corregida (se corrigieron las cifras de Schwarber y Ruth en las pasadas de 1.º a 4.º, se atribuyó la lista de los 10 bat
 [Precios y combustibles] Ministerio de Industria, Comercio y Mipymes: texto leído 660 letras -> https://www.micm.gob.do/transparencia/base-legal-de-la-institucion/category/resoluciones-2026/11
 Fuente oficial encontrada: Ministerio de Industria, Comercio y Mipymes 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Resoluciones 2026 - Ministerio de Industria, Comercio y Mipymes
-[Precios y combustibles] Infobae: texto leído 3494 letras -> https://www.infobae.com/republica-dominicana/2026/11/26/gobierno-dominicano-lanzara-un-combo-navideno-de-diez-productos-basicos-por-1000-pesos-en-todo-el-pais/
-[Precios y combustibles] El Dia.com.do: texto leído 2188 letras -> https://eldia.com.do/abinader-lanza-combo-navideno-del-inespre-con-10-productos-basicos-por-mil-pesos/
-[Precios y combustibles] Ensegundos.do: texto leído 1926 letras -> https://ensegundos.do/2026/11/26/gobierno-lanza-combos-navidenos-de-inespre-a-mil-pesos-con-10-productos-basicos/
-Cambiada de sección: Precios y combustibles -> República Dominicana: Gobierno dominicano lanzará un combo navideño de diez productos básicos por 1.000 pesos en todo el país
-Revisión: corregida (eliminé la frase "Los detalles del programa, y cómo se compra, están aquí." del gancho en español y su equiva
-[Precios y combustibles] CDN: texto leído 3154 letras -> https://cdn.com.do/nacionales/inespre-distribuira-200-mil-combos-de-10-productos-por-rd1000/
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se atribuyó al CDN la cifra de 125 por persona y el cálculo; se atribuyó a Abinade
-Rechazada por la revisión: INESPRE distribuirá 200 mil combos navideños de 10 productos por RD$1,000 -> cifras que no aparecen en las fuentes: 200000
+Fuente no confiable, se salta: instagram.com
+Fuente no confiable, se salta: surtidoreslatam.com
+Fuente no confiable, se salta: ipsnoticias.net
+[Precios y combustibles] Z Digital: texto leído 4247 letras -> https://z101digital.com/navieros-ven-panorama-favorable-para-el-comercio-maritimo-dominicano-de-cara-a-2027/
+Revisión: corregida (se cambió "Navieros dominicanos ven estabilidad..." por el titular más fiel a la fuente; se atribuyó a Rannik
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 [Videojuegos] Nintendo: texto leído 1843 letras -> https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html
 Fuente oficial encontrada: Nintendo Support, Nintendo 
@@ -139,18 +113,16 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): If your favori
 [Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/pokemon-go-results
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon GO Latin America International Championships Event Results
-[Videojuegos] Pokemon.com: texto leído 604 letras -> https://community.pokemon.com/en-us/discussion/27060/please-make-a-way-to-recall-pokemon-from-gyms
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Please make a way to recall pokemon from gyms.
 [Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 2177 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-edition-switch/
-Fuente oficial encontrada: Nintendo 
+[Videojuegos] PlayStation Store: texto leído 2736 letras -> https://store.playstation.com/en-fi/product/JP0393-PPSA32808_00-0712945470676228
+Fuente oficial encontrada: Nintendo, PlayStation Store 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 Power-Up Edition
 [Videojuegos] Nintendo: texto leído 1542 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-uk-weapon-map-and-bgm-pack-70050000085328-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta versión es la página de producto de un contenido descargable de videojuego publicado por Nintendo. Es material promocional con descripción de contenidos y no reporta un hecho notic')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - "UK" Weapon, Map & BGM Pack
 [Videojuegos] Nintendo: texto leído 2415 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-kit-70050000085323-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Power-Up Kit
@@ -163,11 +135,11 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Los elementos icónicos inspirados en el juego Rhythm Heaven Groove están aquí por tiempo limitado
 [Videojuegos] Nintendo: texto leído 2829 letras -> https://www.nintendo.com/es-co/store/products/the-god-who-never-forgot-a-bl-adventure-of-curses-and-obsession-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es una página de producto de Nintendo eShop, no una noticia. Contiene una descripción de un videojuego publicada por su autor y datos técnicos de la tienda, sin hechos noticiosos como un a')
-Instagram: 30 usadas en 24 horas, quedan 12; esta corrida sube hasta 2.
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente no contiene una noticia sobre hechos: es la página de producto de un videojuego (The God Who Never Forgot: A BL Adventure of Curses and Obsession, para Nintendo Switch), con descripción es')
+Instagram: 32 usadas en 24 horas, quedan 10; esta corrida sube hasta 2.
 Marcadores: 24 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 104 · ya cubiertas: 26 · no confiables: 30 · opinión: 0 · con texto leído: 52 · sin texto: 3 · medios juntados: 7 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 6 · con video: 1 · con foto oficial: 0 · error IA: 7 · descartadas por la IA: 24 · cambiadas de sección: 5 · largas: 7 · ocultas (cortas): 1
-Para Instagram (tendencia 4): Iniciativa Vida pide a los hombres frenar la violencia contra las mujeres
-Para Instagram (tendencia 3): Inespre lanza combo navideño de 10 productos básicos por 1.000 pesos
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 1 · ya vistas: 79 · ya cubiertas: 26 · no confiables: 24 · opinión: 0 · con texto leído: 42 · sin texto: 1 · medios juntados: 0 · con fuente oficial: 28 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 3 · error IA: 6 · descartadas por la IA: 23 · cambiadas de sección: 2 · largas: 8 · ocultas (cortas): 1
+Para Instagram (tendencia 3): Ocupan cuatro láminas de presunta cocaína escondidas en carteras rumbo a Londres
+Para Instagram (tendencia 3): Condenan por terrorismo al líder de una secta en Kenia ligada a 429 muertes
