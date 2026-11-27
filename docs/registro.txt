@@ -1,21 +1,10 @@
-Corrida: 2026-11-26 10:48 PM (hora RD)
+Corrida: 2026-11-26 11:48 PM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2051 letras -> https://presidencia.gob.do/noticias/incabide-culmina-con-exito-su-segunda-subasta-publica-de-2026-con-una-venta-de-113-de-198
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Incabide culmina con éxito su segunda subasta pública de 2026, con una venta de 113 de 198 lotes -> cifras que no aparecen en las fuentes: 261
-[República Dominicana] centralnoticias.gob.do: texto leído 3017 letras -> https://centralnoticias.gob.do/juan-salazar-presenta-su-libro-50-miradas-por-el-retrovisor-una-recopilacion-de-articulos-que-proyecta-su-trayectoria-periodistica/
-Fuente oficial encontrada: centralnoticias.gob.do 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Juan Salazar presenta su libro «50 miradas por el retrovisor», una recopilación de artículos que proyecta su trayectoria periodística
-[República Dominicana] En Salud Digital: texto leído 1394 letras -> https://ensaluddigital.gob.do/moscoso-puello-realiza-primera-cirugia-laparoscopica-de-rinon/
-Fuente oficial encontrada: En Salud Digital 
-Revisión: corregida (eliminé "a la vanguardia" sin cambio de sentido; ajusté la frase sobre la cirugía "mínimamente invasiva" para
-[República Dominicana] centralnoticias.gob.do: texto leído 2361 letras -> https://centralnoticias.gob.do/angelina-jolie-y-brad-pitt-acuerdan-cerrar-una-demanda-que-derivo-en-las-acusaciones-de-abuso/
-[República Dominicana] Prensa Libre: texto leído 5226 letras -> https://www.prensalibre.com/vida/escenario/firmaran-la-paz-angelina-jolie-y-brad-pitt-acuerdan-cerrar-una-demanda-que-derivo-en-acusaciones-de-abuso/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: Prensa Libre
-Cambiada de sección: República Dominicana -> Famosos: Angelina Jolie y Brad Pitt acuerdan cerrar una demanda que derivó en las acusaciones de abuso
-Revisión: corregida (quité "Pitt no ha respondido públicamente... en la versión oficial", que no está en las fuentes y es confuso;
-[República Dominicana] ARSSeNaSa: texto leído 2208 letras -> https://www.arssenasa.gob.do/index.php/servicios/servicios-regimen-subsidiado-2/solicitud-de-afiliacion-titular-al-regimen-subsidiado/
-Fuente oficial encontrada: ARSSeNaSa 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Solicitud de Afiliación Titular al Régimen Subsidiado (RS)
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación de la República Dominicana
 [República Dominicana] DGII: texto leído 550 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/menu-de-oficina-virtual-no-me-permite-consultar/6b0846d1e31105f88964d466
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Menu de Oficina Virtual no me permite consultar
@@ -25,10 +14,34 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): APLICACION NOR
 [República Dominicana] DGII: texto leído 1870 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/pagos-al-exterior-ley-3026-y-la-aplicacin-de-la-retencin-del-15/6b08502f4175d10cff57ad35
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pagos al exterior - Ley 30-26 y la aplicación de la retención del 15%
-[República Dominicana] De Último Minuto: texto leído 1714 letras -> https://deultimominuto.com/entretenimiento/la-casa-de-alofoke/genesis-escorihuela-casa-alofoke3/
-Cambiada de sección: República Dominicana -> Famosos: “Hoy comienza una de las experiencias más bonitas e importantes de mi vida”; dice Génesis Escorihuela tras entrada a La Casa de Alofoke 3
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: aprobada\n\n=== TITULO ===\nGénesis Escorihuela entra a La Casa de Alofoke 3 y pide apoyo a s
-Revisión: aprobada
+[República Dominicana] De Último Minuto: texto leído 2470 letras -> https://deultimominuto.com/nacionales/intrant-anuncia-operativo/
+[República Dominicana] N Digital: texto leído 1294 letras -> https://n.com.do/2026/11/26/intrant-anuncia-operativo-especial-de-transito-por-black-friday-en-el-gran-santo-domingo/
+[República Dominicana] Diario Libre: texto leído 2161 letras -> https://www.diariolibre.com/actualidad/ciudad/2026/11/26/medidas-de-transito-para-black-friday-en-santo-domingo/3732896
+Revisión: corregida (quité "Estas son las recomendaciones para moverse por la ciudad" del gancho por ser relleno; ajusté "parqueos
+[República Dominicana] De Último Minuto: texto leído 1235 letras -> https://deultimominuto.com/internacionales/buque-panamena-naufraga-3/
+[República Dominicana] Diario Libre: texto leído 1171 letras -> https://www.diariolibre.com/mundo/america-latina/2026/11/26/buque-halima-naufraga-en-cabanas-con-16-tripulantes-a-bordo/3732946
+[República Dominicana] 20 Minutos: texto leído 1321 letras -> https://www.20minutos.es/internacional/un-buque-bandera-panamena-naufraga-unas-tres-millas-costa-oeste-cuba_7066482_0.html
+Cambiada de sección: República Dominicana -> Internacionales: Buque de bandera panameña naufraga a unas tres millas de la costa oeste de Cuba
+Revisión: corregida (se eliminó "según una versión" al referirse a los contenedores y se atribuyó la cifra de 208 contenedores a D
+[República Dominicana] De Último Minuto: texto leído 1429 letras -> https://deultimominuto.com/deportes/tenis/rafa-jodar-lidera-la-clasificacion-de-espana-a-semifinales-de-la-copa-davis/
+[República Dominicana] ABC: texto leído 7000 letras -> https://www.abc.es/deportes/tenis/merida-20261126165316-nt.html
+Cambiada de sección: República Dominicana -> Deportes: Rafa Jódar lidera la clasificación de España a semifinales de la Copa Davis
+Revisión: corregida (se quitó la atribución "Según Último Minuto" de la final perdida ante Italia, que no aparece en esa fuente, y
+[República Dominicana] De Último Minuto: texto leído 4984 letras -> https://deultimominuto.com/nacionales/abinader-inaugura-villa-navidad-2/
+Revisión: corregida (se corrigió "Banco de Reservas" a "Banreservas" en el cuerpo, se quitó "en el país o en el exterior" y "or in
+[Dominicanos en EE.UU.] Junta Central Electoral de la República Dominicana: texto leído 3414 letras -> https://jce.gob.do/Noticias/tag/fuerzas-armadas
+Fuente oficial encontrada: Junta Central Electoral de la República Dominicana 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: JCE cedula a más de 38 mil miembros Fuerzas Armadas y Policía Nacional
+Rechazada por la revisión: JCE cedula a más de 38 mil miembros Fuerzas Armadas y Policía Nacional -> cifras que no aparecen en las fuentes: 12518, 25938, 38000, 38456
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] Instituto Nacional de Formación Técnico Profesional (INFOTEP) -: texto leído 0 letras -> https://infotep.gob.do/noticias/infotep-recibe-por-segundo-ano-consecutivo-reconocimiento-por-sus-practicas-de-compras-verdes-y-sostenibles/
+No se pudo leer el artículo; no se publica para no salir corta: INFOTEP recibe por segundo año consecutivo reconocimiento por sus prácticas de compras verdes y sostenibles
+[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 3802 letras -> https://centralnoticias.gob.do/cnss-recibe-galardon-internacional-por-transformar-digitalmente-el-proceso-de-evaluacion-de-la-discapacidad/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/cnss-recibe-premio-internacional-por-digitalizar-evaluacion-de-discapacidad/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: CNSS recibe galardón internacional por transformar digitalmente el proceso de evaluación de la discapacidad
+Revisión: corregida (corregí el título y el gancho en ambos idiomas para decir "segundo lugar" en vez de "reconocimiento" genérico
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 3467 letras -> https://www.nhc.noaa.gov/gtwo.php
 Fuente oficial encontrada: NHC (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Graphical Tropical Weather Outlook
@@ -37,32 +50,24 @@ Fuente oficial encontrada: U.S. Department of State (.gov)
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
 [Dominicanos en EE.UU.] Federal Register (.gov): texto leído 7000 letras -> https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program
 Fuente oficial encontrada: Federal Register (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Solo tengo una versión de la noticia, y es del Federal Register (fuente oficial), pero el texto que me pasaste es en gran parte navegación y avisos del sitio, no el contenido de la propuesta. Lo único')
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 724 letras -> https://www.state.gov/releases/office-of-the-spokesman/2026/11/public-schedule-november-25-2026
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Public Schedule – November 25, 2026
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Animal and Plant Health Inspection Service (.gov): texto leído 2466 letras -> https://www.aphis.usda.gov/contact
-Fuente oficial encontrada: Animal and Plant Health Inspection Service (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Contact Us | Animal and Plant Health Inspection Service
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Dominicanos en EE.UU.] Library of Congress (.gov): texto leído 0 letras -> https://www.loc.gov/item/hlas-bi2025000082
-No se pudo leer el artículo; no se publica para no salir corta: Alive in their garden: the true story of the Mirabal sisters and their fight for freedom / Dedé Mirabal; translated and edited by Ana E. Martínez and Heather Hennes; introduction by Julia Alvarez
-[Internacionales] The White House (.gov): texto leído 3550 letras -> https://www.whitehouse.gov/videos/president-trump-awards-rudy-giuliani-the-medal-of-freedom/
-Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste es solo la versión de The White House, y está incompleto: no trae la parte del contenido de la noticia, sino menús de navegación y listas de videos. Lo único co')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia con los datos que me diste. La única versión disponible es una página de Federal Register con el texto de una propuesta regulatoria de Medicare (CMS-4214')
 [Internacionales] The White House (.gov): texto leído 4549 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Videos – Page 2 of 204
 [Internacionales] The White House (.gov): texto leído 3368 letras -> https://www.whitehouse.gov/videos/lo-fi-winning-beats-to-pass-the-gravy-to/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única fuente que me pasaste es una página de videos de la Casa Blanca con el titular "Lo-Fi Winning Beats to Pass the Gravy to" y una lista de videos')
-[Famosos] El Dia.com.do: texto leído 1989 letras -> https://eldia.com.do/que-la-farandula-no-distraiga-del-crimen/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Que la farándula no distraiga del crimen
-Fuente no confiable, se salta: remolacha.net
-[Famosos] CDN: texto leído 3261 letras -> https://cdn.com.do/nacionales/merengue-dominicano-ritmo-e-identidad-cultural-del-pais/
-[Famosos] De Último Minuto: texto leído 4552 letras -> https://deultimominuto.com/estilo/efemerides/dia-nacional-del-merengue/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Merengue: el ritmo que identifica a los dominicanos
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Lo-Fi Winning Beats to Pass the Gravy to
+[Internacionales] The White House (.gov): texto leído 3571 letras -> https://www.whitehouse.gov/videos/vp-vance-family-serve-troops-at-wright-patterson-air-force-base-ahead-of-thanksgiving/
+Fuente oficial encontrada: The White House (.gov) 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia a partir de la versión que me pasaste. El texto es, en su mayor parte, el menú de navegación y los enlaces de la página de la Casa Blanca. Lo único relac')
+[Famosos] Listín Diario: texto leído 3066 letras -> https://listindiario.com/entretenimiento/farandula/20261126/osmel-sousa-dice-melissa-nunez-gano-miss-universo-bella-puerto-rico_931653/amp.html
+Revisión: corregida (se corrigió el título y el gancho para atribuir la frase "no ser tan bella como Puerto Rico" a Sousa como dec
+[Famosos] CDN: texto leído 3117 letras -> https://cdn.com.do/internacionales/estados-unidos/ice-libera-a-jorge-linares-tras-mas-de-diez-dias-detenido/
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[Famosos] El Nuevo Herald: texto leído 0 letras -> https://amp.elnuevoherald.com/deportes/boxeo/article318270092.html
+[Famosos] BioBioChile: texto leído 3319 letras -> https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/26/ice-libera-a-excampeon-de-boxeo-jorge-linares-10-dias-detenido.shtml
+Cambiada de sección: Famosos -> Deportes: ICE libera al excampeón venezolano Jorge Linares tras diez días detenido en EE.UU.
+Revisión: corregida (ajusté "Thanksgiving" y la cita en inglés según la fuente, aclaré la atribución de la cita del deportista a s
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: savannahnow.com
 Fuente no confiable, se salta: elpregonerord.com
@@ -74,61 +79,63 @@ Fuente no confiable, se salta: telemetro.com
 [Famosos] El Nuevo Diario: texto leído 2223 letras -> https://elnuevodiario.com.do/grupo-ghr-mas-de-22-anos-construyendo-hogares-y-comprometidos-con-el-desarrollo-social-de-republica-dominicana/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Grupo GHR: más de 22 años construyendo hogares y comprometidos con el desarrollo social de RD
 Fuente no confiable, se salta: telemetro.com
-Fuente no confiable, se salta: televicentro.com
 Fuente no confiable, se salta: noticentro.com.do
 Fuente no confiable, se salta: masvip.com.do
-[Famosos] De Último Minuto: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Ilegales enciende La Casa de Alofoke 3 con un concierto cargado de energía
-Fuente no confiable, se salta: hoy.com.py
-Fuente no confiable, se salta: farandula.co
-[Famosos] Infobae: texto leído 3079 letras -> https://www.infobae.com/espana/cultura/2026/11/26/luis-merlo-habla-de-los-valores-con-los-que-se-crio-por-ser-hijo-de-actores-la-sociedad-ha-conquistado-una-libertad-que-yo-oi-desde-pequeno-gracias-a-la-farandula/
-Revisión: corregida (se corrigió la frase sobre la relación de trabajo: en la fuente Isanta tenía 18 años cuando se conocieron sob
-Fuente no confiable, se salta: periodicolaesperanza.com
-Fuente no confiable, se salta: proceso.hn
-Fuente no confiable, se salta: 0223.com.ar
-Fuente no confiable, se salta: midiario.com
+Fuente no confiable, se salta: elperiodico.com.do
+Fuente no confiable, se salta: elperiodico.com.do
 Fuente no confiable, se salta: elcolombiano.com
 Fuente no confiable, se salta: lasestrellas.tv
-[Famosos] Diario AS: texto leído 4591 letras -> https://as.com/tikitakas/fotorrelato/bertin-cayetano-y-otros-famosos-que-votan-abiertamente-a-la-derecha-f202611-f/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Bertín, Cayetano y otros famosos que votan abiertamente a la derecha
+Fuente no confiable, se salta: lasestrellas.tv
+Fuente no confiable, se salta: lasestrellas.tv
+[Famosos] Telemundo: texto leído 2141 letras -> https://www.telemundo.com/shows/hoy-dia/famosos/video/chiquis-regulo-caro-y-pimpinela-comparten-que-agradecen-en-thanksgiving-en-2026-tmvo13248656
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Chiquis, Régulo Caro y Pimpinela comparten qué agradecen en Thanksgiving en 2026
+Fuente no confiable, se salta: lasestrellas.tv
+[Famosos] Telemundo: texto leído 2151 letras -> https://www.telemundo.com/shows/hoy-dia/famosos/video/fatima-bosch-se-deja-ver-de-la-mano-de-alejandro-canahuati-farah-y-desata-rumores-de-romance-tmvo13248650
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Fátima Bosch se deja ver de la mano de Alejandro Canahuati Farah y desata rumores de romance
+[Famosos] Infobae: texto leído 4358 letras -> https://www.infobae.com/entretenimiento/2026/11/26/rauw-alejandro-lleva-macacoa-2000-a-la-banda-sonora-de-grand-theft-auto-vi-con-guinos-al-reggaeton-de-vieja-escuela/
+Cambiada de sección: Famosos -> Videojuegos: Rauw Alejandro lleva “Macacoa 2000” a la banda sonora de Grand Theft Auto VI, con guiños al reggaetón de vieja escuela
+Revisión: corregida (se quitó "clásico" del titular por no ser el término de la fuente, se reemplazó "se incorporó" por "se incorp
 [Deportes] Lidom: texto leído 1731 letras -> https://lidom.com/lidom/lidom-detiene-su-calendario-por-el-dia-de-accion-de-gracias-101640.html
-Rechazada por la revisión: LIDOM detiene su calendario por el Día de Acción de Gracias -> cifras que no aparecen en las fuentes: 1970
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/cardenales-vs-bravos/2026/11/26/869964/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Cardenales vs. Bravos, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/aguilas-vs-tiburones/2026/11/26/869966/live
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas vs. Tiburones, lanzadores probables, alineaciones, y más
-[Deportes] MLB.com: texto leído 1838 letras -> https://www.mlb.com/es/news/tiburones-sentencian-temprano-y-prolongan-su-dominio-sobre-magallanes
-Revisión: corregida (quité "dudas" del gancho en otro sentido? no; corregí: "Tiburones" ya no es "Sharks"-consistente; ajusté el t
+La IA la descartó (no es noticia, rumor, opinión o publicidad): LIDOM detiene su calendario por el Día de Acción de Gracias
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-leones/2026/11/26/869970/final/wrap
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres 8, Leones 9 Resultado Final (26/11/2026)
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/toros-vs-estrellas/2026/11/27/851521/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más
 [Deportes] MLB.com: texto leído 6937 letras -> https://www.mlb.com/es/amp/news/para-estar-agradecido-las-victorias-mas-improbables-desde-la-lomita-en-el-2026.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡Para estar agradecido! Las victorias más improbables desde la lomita en el 2026
-[Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
-Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
+Revisión: corregida (corregí el gancho y el título sobre Gilbert/Sugano: la fuente no dice "ocho carreras" como hecho del título s
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/aguilas-vs-leones/2026/11/25/851482/final
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Aguilas 9, Leones 2 Resultado Final (25/11/2026)
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/top-statcast-plays-of-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The 16 most jaw-dropping Statcast feats of 2026
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: instagram.com
 Fuente no confiable, se salta: surtidoreslatam.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Precios y combustibles] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/economia/inflacion-en-centroamerica-escalo-a-4.26-en-octubre-20261126-0092.html
-No se pudo leer el artículo; no se publica para no salir corta: Inflación en Centroamérica escaló a 4.26% en octubre
 Fuente no confiable, se salta: ipsnoticias.net
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no contiene una noticia. El texto proporcionado corresponde a la navegación y el menú del sitio oficial de Nintendo (secciones de tienda, soporte y personajes), sin hechos, ')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste corresponde únicamente a la página de navegación de Nintendo (menús, enlaces de tienda y de soporte) y no contiene ninguna noticia concreta sobre "REANIMAL: Red ')
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 [Videojuegos] Nintendo: texto leído 1843 letras -> https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html
 Fuente oficial encontrada: Nintendo Support, Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Update The Legend of Zelda: Ocarina of Time
 [Videojuegos] Pokemon.com: texto leído 6314 letras -> https://www.pokemon.com/us/news/quick-attack-top-moments-from-the-2027-latin-america-international-championships
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna\n\nEste texto no contiene una noticia concreta. Es una columna de highlights de un evento de Pokémon publicada en pokemon.com (un comunicado de la propia compañía con enla')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Quick Attack: Top Moments from the 2027 Latin America International Championships
+[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/vgc-senior
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon Latin America International Championships VGC Senior Division
 [Videojuegos] Pokemon.com: texto leído 1223 letras -> https://community.pokemon.com/en-us/discussion/27051/if-your-favorite-video-game-characters-were-pokemon
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): If your favorite video game characters were Pokemon?
+[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/pokemon-go-results
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon GO Latin America International Championships Event Results
+[Videojuegos] Pokemon.com: texto leído 604 letras -> https://community.pokemon.com/en-us/discussion/27060/please-make-a-way-to-recall-pokemon-from-gyms
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Please make a way to recall pokemon from gyms.
 [Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
-[Videojuegos] Pokemon.com: texto leído 3502 letras -> https://community.pokemon.com/en-us/
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokémon Community Forums — Pokémon Forums
 [Videojuegos] Nintendo: texto leído 2177 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-edition-switch/
 [Videojuegos] PlayStation Store: texto leído 2736 letras -> https://store.playstation.com/en-fi/product/JP0393-PPSA32808_00-0712945470676228
 Fuente oficial encontrada: Nintendo, PlayStation Store 
@@ -145,15 +152,12 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Dragon Dragon Fire Fire Deluxe
 [Videojuegos] Nintendo: texto leído 3654 letras -> https://www.nintendo.com/es-mx/store/products/royal-secret-love-a-crown-between-us-girls-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única versión que tengo es la ficha de un videojuego para adultos (una novela visual erótica con contenido sexual entre personajes), y publicarla como not')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única versión que tengo es la ficha de un videojuego para adultos, con contenido sexual y romántico explícito, y no contiene un hecho noticioso sobre el q')
 [Videojuegos] Nintendo: texto leído 2415 letras -> https://www.nintendo.com/es-cl/store/products/daisenryaku-ssb-2-power-up-kit-70050000085323-switch-2/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Daisenryaku SSB 2 - Power-Up Kit
-Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 3.
+Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 24 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-10 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 82 · ya cubiertas: 26 · no confiables: 24 · opinión: 0 · con texto leído: 44 · sin texto: 5 · medios juntados: 1 · con fuente oficial: 28 · aprobadas por la revisión: 1 · corregidas por la revisión: 4 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 2 · error IA: 7 · descartadas por la IA: 23 · cambiadas de sección: 2 · largas: 5 · ocultas (cortas): 5
-Para Instagram (tendencia 2): Gobierno impulsa transporte eléctrico y sostenible para reducir emisiones en el país
-Para Instagram (tendencia 2): Obras Públicas reparará área de Güibia y Telemicro podría retomar su fiesta de fin de año
-Para Instagram (tendencia 2): Luisa Gómez recibe reconocimiento de liderazgo latino en Boston
+13 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 10 · ya vistas: 87 · ya cubiertas: 21 · no confiables: 21 · opinión: 0 · con texto leído: 50 · sin texto: 6 · medios juntados: 7 · con fuente oficial: 27 · aprobadas por la revisión: 0 · corregidas por la revisión: 9 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 1 · error IA: 5 · descartadas por la IA: 24 · cambiadas de sección: 6 · largas: 9 · ocultas (cortas): 4

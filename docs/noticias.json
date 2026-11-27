@@ -1,5 +1,605 @@
 [
  {
+  "id": "b515c23682",
+  "titulo": "Intrant activa operativo de tránsito por Black Friday en el Gran Santo Domingo",
+  "titulo_original": "Intrant anuncia operativo especial de tránsito por Black Friday en el Gran Santo Domingo",
+  "resumen": "El Intrant prepara medidas especiales en semáforos y vías para el Viernes Negro, con recomendaciones para movilizarse por la ciudad.",
+  "gancho": "El Intrant prepara medidas especiales en semáforos y vías para el Viernes Negro, con recomendaciones para movilizarse por la ciudad.",
+  "parrafos": [
+   "El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) anunció un operativo especial de movilidad para el Black Friday, ante el aumento de desplazamientos hacia los principales centros comerciales del Distrito Nacional y el Gran Santo Domingo. La jornada comercial será este viernes 27 de noviembre.",
+   "El operativo se desarrollará junto a la Dirección General de Seguridad de Tránsito y Transporte Terrestre (Digesett) y la Alcaldía del Distrito Nacional. El objetivo es facilitar la circulación vehicular y reducir los tiempos de traslado durante la jornada.",
+   "Entre las medidas están los ajustes en los tiempos de los semáforos, el monitoreo del tráfico en tiempo real, la regulación del estacionamiento y la presencia de agentes de tránsito en las zonas comerciales más concurridas. Las autoridades también coordinaron con los establecimientos comerciales para organizar la circulación y mejorar las entradas y salidas de sus estacionamientos.",
+   "El Intrant pidió a los centros comerciales que no participaron en estas coordinaciones que se comuniquen con el director regional de la Digesett de su municipio.",
+   "Ante el aumento previsto de vehículos, las autoridades recomendaron planificar los viajes con anticipación y usar alternativas como el Metro de Santo Domingo, el Teleférico y los autobuses del transporte público. También sugirieron compartir vehículos, usar servicios de taxi o hacer compras en línea.",
+   "Para conocer el estado del tránsito, posibles desvíos y rutas alternas, el Intrant recomendó a los conductores usar aplicaciones de navegación con GPS, como Waze."
+  ],
+  "claves": [
+   "Operativo especial de movilidad este viernes 27 de noviembre en el Gran Santo Domingo.",
+   "Ajustes en los tiempos de los semáforos, monitoreo del tránsito en tiempo real y agentes en zonas comerciales.",
+   "Coordinación con la Digesett, la Alcaldía del Distrito Nacional y los centros comerciales.",
+   "Recomiendan usar el Metro, el Teleférico, el transporte público y Waze."
+  ],
+  "importa": "Si vas de compras este Viernes Negro, conviene salir con tiempo y considerar transporte público o compras en línea para evitar congestión.",
+  "en": {
+   "titulo": "Intrant Launches Traffic Operation for Black Friday in Greater Santo Domingo",
+   "gancho": "Dominican transit authorities are rolling out special measures for Black Friday, with recommendations for getting around the city.",
+   "claves": [
+    "Special mobility operation this Friday, November 27, in Greater Santo Domingo.",
+    "Traffic light timing adjustments, real-time traffic monitoring and agents in shopping areas.",
+    "Coordination with Digesett, the National District Mayor's Office and shopping centers.",
+    "Authorities recommend the Metro, the Teleférico, public buses and Waze."
+   ],
+   "importa": "If you plan to shop this Black Friday, leaving early or considering public transport or online shopping can help you avoid congestion.",
+   "parrafos": [
+    "The Dominican National Transit and Land Transportation Institute (Intrant) announced a special mobility operation for Black Friday, due to the expected increase in trips to the main shopping centers in the National District and Greater Santo Domingo. The shopping day takes place this Friday, November 27.",
+    "The operation will be carried out together with the General Directorate of Transit and Land Transportation Safety (Digesett) and the National District Mayor's Office. The goal is to ease vehicle movement and reduce travel times during the day.",
+    "Measures include adjusting traffic light timing, monitoring traffic in real time, regulating parking and deploying transit agents in the busiest commercial areas. Authorities also coordinated with businesses to organize traffic flow and improve entrances and exits to their parking lots.",
+    "Intrant asked shopping centers that did not take part in these coordinations to contact the regional director of Digesett in their municipality.",
+    "Because vehicle traffic is expected to increase, authorities recommended planning trips ahead and using alternatives such as the Santo Domingo Metro, the Teleférico and public buses. They also suggested carpooling, using taxi services or shopping online.",
+    "To check traffic conditions, possible detours and alternate routes, Intrant recommended that drivers use GPS navigation apps such as Waze."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/intrant-anuncia-operativo/",
+  "url": "https://deultimominuto.com/nacionales/intrant-anuncia-operativo/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/intrant-anuncia-operativo/"
+   },
+   {
+    "nombre": "N Digital",
+    "url": "https://n.com.do/2026/11/26/intrant-anuncia-operativo-especial-de-transito-por-black-friday-en-el-gran-santo-domingo/"
+   },
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/actualidad/ciudad/2026/11/26/medidas-de-transito-para-black-friday-en-santo-domingo/3732896"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (quité \"Estas son las recomendaciones para moverse por la ciudad\" del gancho por ser relleno; ajusté \"parqueos\" a \"estacionamientos\" en el texto y el inglés; cambié \"tomar taxi\" a \"usar servicios de taxi\" para coincidir con la fuente; en inglés suavicé \"Here is what drivers and shoppers should know before heading out\" y \"Given the expected increase\" para que sigan el sentido de las fuentes; el resto coincide con las fuentes.)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-27T03:49:05.813598+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "1c567de91d",
+  "titulo": "Buque panameño naufraga frente a la costa oeste de Cuba; 13 rescatados y tres desaparecidos",
+  "titulo_original": "Buque de bandera panameña naufraga a unas tres millas de la costa oeste de Cuba",
+  "resumen": "Un buque de bandera panameña naufragó frente a Cuba con 16 tripulantes a bordo. Hay un fallecido y tres personas siguen desaparecidas.",
+  "gancho": "Un buque de bandera panameña naufragó frente a Cuba con 16 tripulantes a bordo. Hay un fallecido y tres personas siguen desaparecidas.",
+  "parrafos": [
+   "El buque Halima, de bandera panameña, naufragó en la madrugada de este jueves frente a la costa oeste de Cuba. Según informó la Administración Marítima de Cuba (AMC), el barco naufragó a unas tres millas al norte de la bahía de Cabañas, en la provincia de Artemisa.",
+   "La AMC indicó que a bordo viajaban 16 tripulantes de nacionalidades egipcia e indonesia. Hasta el momento, 13 fueron rescatados, pero uno de ellos falleció. Las labores de búsqueda de los otros tres continúan. La agencia señaló que se prevé brindar atención médica a los rescatados y realizar los aseguramientos requeridos, según los protocolos establecidos.",
+   "El buque es operado por la compañía Sidra Line, que ofrece servicios regulares de línea. Diario Libre y 20 Minutos informan que transportaba 208 contenedores, aunque 20 Minutos precisa que la cifra corresponde a contenedores y no a personas. Los medios no coinciden en la distancia exacta del naufragio: 20 Minutos la sitúa a unos cinco kilómetros de la costa, mientras que la AMC y Diario Libre hablan de unas tres millas.",
+   "Las autoridades cubanas crearon una comisión gubernamental multidisciplinaria para investigar las causas del naufragio. Esta comisión también coordina las labores de búsqueda y salvamento junto con los armadores."
+  ],
+  "claves": [
+   "El naufragio ocurrió en la madrugada de este jueves, a unas tres millas al norte de la bahía de Cabañas, en Artemisa, según la Administración Marítima de Cuba (AMC).",
+   "Se rescataron 13 tripulantes; uno murió y las labores de búsqueda de los otros tres continúan.",
+   "El buque, operado por Sidra Line, transportaba 208 contenedores, según Diario Libre y 20 Minutos.",
+   "Una comisión gubernamental multidisciplinaria investiga las causas del hecho."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Panama-flagged ship sinks off Cuba's west coast; 13 rescued, three missing",
+   "gancho": "A Panama-flagged ship went down off Cuba with 16 crew members on board. One person has died and three remain missing.",
+   "claves": [
+    "The sinking happened early Thursday, about three miles north of Cabañas Bay in Artemisa province, according to the Cuban Maritime Administration (AMC).",
+    "Thirteen crew members were rescued; one died and search efforts for the other three continue.",
+    "The ship, operated by Sidra Line, was carrying 208 containers, according to Diario Libre and 20 Minutos.",
+    "A multidisciplinary government commission is investigating the causes."
+   ],
+   "importa": "",
+   "parrafos": [
+    "The Panama-flagged vessel Halima sank early Thursday off Cuba's west coast. According to the Cuban Maritime Administration (AMC), the ship went down about three miles north of Cabañas Bay in Artemisa province.",
+    "The AMC said 16 crew members of Egyptian and Indonesian nationality were aboard. So far, 13 have been rescued, but one of them died. Search efforts for the other three are ongoing. The agency said medical care and the required procedures will be provided according to established protocols.",
+    "The ship is operated by Sidra Line, which runs regular liner services. Diario Libre and 20 Minutos report that it was carrying 208 containers, although 20 Minutos clarifies that the figure refers to containers, not people. The outlets do not agree on the exact distance from shore: 20 Minutos places the sinking about five kilometers off the coast, while the AMC and Diario Libre say about three miles.",
+    "Cuban authorities have created a multidisciplinary government commission to investigate the causes of the sinking. The commission is also coordinating search and rescue efforts with the ship's owners."
+   ]
+  },
+  "link": "https://deultimominuto.com/internacionales/buque-panamena-naufraga-3/",
+  "url": "https://www.20minutos.es/internacional/un-buque-bandera-panamena-naufraga-unas-tres-millas-costa-oeste-cuba_7066482_0.html",
+  "fuente": "20 Minutos",
+  "dominio": "20minutos.es",
+  "fuentes": [
+   {
+    "nombre": "20 Minutos",
+    "url": "https://www.20minutos.es/internacional/un-buque-bandera-panamena-naufraga-unas-tres-millas-costa-oeste-cuba_7066482_0.html"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/internacionales/buque-panamena-naufraga-3/"
+   },
+   {
+    "nombre": "Diario Libre",
+    "url": "https://www.diariolibre.com/mundo/america-latina/2026/11/26/buque-halima-naufraga-en-cabanas-con-16-tripulantes-a-bordo/3732946"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se eliminó \"según una versión\" al referirse a los contenedores y se atribuyó la cifra de 208 contenedores a Diario Libre y 20 Minutos, ya que la AMC no la mencionó; se corrigió \"se hundió/hundieron\" por \"naufragó\" para ajustarse a las fuentes; se atribuyó a la AMC la distancia de tres millas y se aclaró la discrepancia; se ajustó \"los sobrevivientes\" a lo que dice la fuente sobre atención médica a los rescatados; se aclaró que la atención y los aseguramientos son según la AMC; se corrigió \"encontrado\" en el inglés equivalente; se eliminó \"frente a Cuba\" en el gancho por ser ambiguo frente a \"costa oeste\").",
+  "seccion": "Internacionales",
+  "fecha": "2026-11-27T03:49:20.069879+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "4e011b9757",
+  "titulo": "España avanza a semifinales de la Copa Davis con Mérida y Jódar",
+  "titulo_original": "Rafa Jódar lidera la clasificación de España a semifinales de la Copa Davis",
+  "resumen": "Dani Mérida y Rafa Jódar sellan el pase de España a semifinales de la Copa Davis 2026 tras vencer a Austria, con una remontada de Jódar.",
+  "gancho": "Dani Mérida y Rafa Jódar sellan el pase de España a semifinales de la Copa Davis 2026 tras vencer a Austria, con una remontada de Jódar.",
+  "parrafos": [
+   "España ya tiene boleto a las semifinales de la Copa Davis 2026. El equipo español superó a Austria en los cuartos de final y el triunfo fue decidido por dos jóvenes tenistas: Dani Mérida y Rafa Jódar.",
+   "Mérida abrió la eliminatoria con una victoria ante Joel Schwaerzler por 6-4 y 6-4. Ese resultado le dio a España el primer punto del enfrentamiento. Según ABC, el madrileño, de 20 años, mostró nervios al inicio, pero con el paso de los juegos ganó liderazgo y seguridad.",
+   "Después llegó Jódar, quien perdió el primer set ante Jurij Rodionov por 2-6. Sin embargo, reaccionó y ganó los dos siguientes por 6-0 y 6-1, para sellar la victoria y la clasificación de su equipo.",
+   "Con este resultado, España avanza a las semifinales por segunda edición consecutiva. Según Último Minuto, el equipo mantiene sus aspiraciones de conquistar su séptima Ensaladera de Plata, tras perder la final del año pasado frente a Italia.",
+   "El próximo rival será Gran Bretaña, en un duelo programado para este sábado. Austria, por su parte, se quedó a las puertas de unas semifinales que no alcanza desde 1990."
+  ],
+  "claves": [
+   "España venció a Austria en los cuartos de final de la Copa Davis 2026.",
+   "Dani Mérida derrotó a Joel Schwaerzler por 6-4 y 6-4 y sumó el primer punto.",
+   "Rafa Jódar remontó ante Jurij Rodionov con parciales de 2-6, 6-0 y 6-1.",
+   "España jugará contra Gran Bretaña este sábado."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Spain Reaches Davis Cup Semifinals Led by Mérida and Jódar",
+   "gancho": "Dani Mérida and Rafa Jódar secure Spain's place in the 2026 Davis Cup semifinals after beating Austria, with Jódar's comeback at the center.",
+   "claves": [
+    "Spain beat Austria in the 2026 Davis Cup quarterfinals.",
+    "Dani Mérida defeated Joel Schwaerzler 6-4, 6-4 to give Spain the first point.",
+    "Rafa Jódar came back from a 2-6 first set to beat Jurij Rodionov 6-0, 6-1 in the next two sets.",
+    "Spain will face Great Britain this Saturday."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Spain has booked its place in the 2026 Davis Cup semifinals. The Spanish team beat Austria in the quarterfinals, and the win was decided by two young players: Dani Mérida and Rafa Jódar.",
+    "Mérida opened the tie with a 6-4, 6-4 win over Joel Schwaerzler, giving Spain the first point. According to ABC, the 20-year-old from Madrid looked nervous at the start but grew in confidence and control as the match went on.",
+    "Jódar followed. He lost the first set to Jurij Rodionov 2-6, but then responded, winning the next two sets 6-0 and 6-1 to complete the victory and clinch the tie.",
+    "With the result, Spain advances to the semifinals for the second straight edition. According to Último Minuto, the team still aims to win its seventh Davis Cup title after losing last year's final to Italy.",
+    "Spain's next opponent will be Great Britain, in a match scheduled for this Saturday. Austria, meanwhile, fell just short of a semifinal berth it has not reached since 1990."
+   ]
+  },
+  "link": "https://deultimominuto.com/deportes/tenis/rafa-jodar-lidera-la-clasificacion-de-espana-a-semifinales-de-la-copa-davis/",
+  "url": "https://www.abc.es/deportes/tenis/merida-20261126165316-nt.html",
+  "fuente": "ABC",
+  "dominio": "abc.es",
+  "fuentes": [
+   {
+    "nombre": "ABC",
+    "url": "https://www.abc.es/deportes/tenis/merida-20261126165316-nt.html"
+   },
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/deportes/tenis/rafa-jodar-lidera-la-clasificacion-de-espana-a-semifinales-de-la-copa-davis/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó la atribución \"Según Último Minuto\" de la final perdida ante Italia, que no aparece en esa fuente, y se atribuyó el dato de los 20 años y los nervios a ABC; se corrigió el apellido \"Schwaerzler\" en la sección de Mérida según la fuente; se atribuyó a Último Minuto la afirmación de la séptima Ensaladera y se agregó el dato de que Austria no llega a semifinales desde 1990 con la fuente correspondiente; se eliminó la atribución incorrecta de la final perdida; en el texto se mantuvo la precisión de las fuentes sin agregar información nueva).",
+  "seccion": "Deportes",
+  "fecha": "2026-11-27T03:49:33.977975+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "d5758776d2",
+  "titulo": "Villa Navidad 2026 abre sus puertas con luces, música y personajes navideños",
+  "titulo_original": "Presidencia, Banreservas y Alcaldía del Distrito Nacional inauguran Villa Navidad 2026",
+  "resumen": "Con miles de luces y nuevas atracciones, el parque navideño del Centro Olímpico ya recibe a las familias, y su entrada es gratuita hasta enero.",
+  "gancho": "Con miles de luces y nuevas atracciones, el parque navideño del Centro Olímpico ya recibe a las familias, y su entrada es gratuita hasta enero.",
+  "parrafos": [
+   "La quinta edición de Villa Navidad 2026 fue inaugurada este jueves en el Centro Olímpico Juan Pablo Duarte, con el encendido de miles de luces, música y personajes alusivos a la temporada. La actividad es organizada por la Presidencia de la República, Banreservas y la Alcaldía del Distrito Nacional.",
+   "El acto estuvo encabezado por el presidente Luis Abinader, acompañado de la primera dama, Raquel Arbaje; el presidente ejecutivo de Banreservas, Leonardo Aguilera Batista, y la alcaldesa del Distrito Nacional, Carolina Mejía. Durante la ceremonia, el mandatario agradeció a las empresas e instituciones que respaldan la iniciativa e invitó a la población a disfrutar de las actividades preparadas para niños, jóvenes y adultos.",
+   "\"Es tiempo de compartir con unión y esperanza. Que Dios bendiga a todos y cada uno de los dominicanos y deseo para el próximo año salud y éxito para todo nuestro pueblo\", expresó Abinader.",
+   "Aguilera destacó el significado de la temporada y manifestó la satisfacción de la entidad por respaldar nuevamente esta iniciativa, concebida para fortalecer la convivencia familiar. \"Esta noche encendemos las luces de Villa Navidad, pero, sobre todo, queremos encender la ilusión en el corazón de cada niño y la alegría en cada hogar dominicano\", afirmó.",
+   "Por su parte, Carolina Mejía agradeció el apoyo de Banreservas, los ministerios, las direcciones gubernamentales y las empresas que hicieron posible el evento. La funcionaria resaltó que las familias podrán acceder gratuitamente a un espacio preparado para celebrar el nacimiento del Niño Jesús y compartir \"en armonía, en respeto, en alegría\".",
+   "Bajo el concepto \"Blanca Navidad\", esta edición incorpora escenarios temáticos y decoraciones inspiradas en paisajes invernales, como el Paseo Suizo, el Domo de Navidad y el Bosque Azul. Los visitantes podrán recorrer calles iluminadas e interactuar con Santa Claus, la señora Claus, los Reyes Magos, duendes, el Grinch y otros personajes característicos de la temporada.",
+   "La programación incluye conciertos, desfiles, pintacaritas, bandas musicales y espectáculos que combinan humor, música y baile."
+  ],
+  "claves": [
+   "La quinta edición de Villa Navidad 2026 estará abierta gratis hasta el 6 de enero de 2027.",
+   "La inauguración estuvo encabezada por el presidente Luis Abinader y la primera dama, Raquel Arbaje.",
+   "El parque se realiza en el Centro Olímpico Juan Pablo Duarte, bajo el concepto \"Blanca Navidad\".",
+   "Habrá conciertos, desfiles, pintacaritas y encuentros con Santa Claus, los Reyes Magos y el Grinch."
+  ],
+  "importa": "Las familias dominicanas podrán disfrutar de actividades navideñas gratuitas durante toda la temporada festiva.",
+  "en": {
+   "titulo": "Villa Navidad 2026 Opens With Lights, Music and Holiday Characters",
+   "gancho": "Thousands of lights and new attractions now welcome families to the holiday park at the Olympic Center, and admission is free until January.",
+   "claves": [
+    "The fifth edition of Villa Navidad 2026 is free to the public through January 6, 2027.",
+    "The opening was led by President Luis Abinader and First Lady Raquel Arbaje.",
+    "The park is held at the Juan Pablo Duarte Olympic Center under the \"White Christmas\" theme.",
+    "Visitors can enjoy concerts, parades, face painting, and meet Santa Claus, the Three Kings, and the Grinch."
+   ],
+   "importa": "Dominican families can enjoy free holiday activities throughout the festive season.",
+   "parrafos": [
+    "The fifth edition of Villa Navidad 2026 opened this Thursday at the Juan Pablo Duarte Olympic Center, with thousands of lights, music and characters themed around the holiday season. The event is organized by the Presidency of the Republic, Banreservas and the National District City Hall.",
+    "The ceremony was led by President Luis Abinader, joined by First Lady Raquel Arbaje, Banreservas chairman Leonardo Aguilera Batista, and National District Mayor Carolina Mejía. During the event, the president thanked the companies and institutions that support the initiative and invited the public to enjoy the activities prepared for children, young people and adults.",
+    "\"It is time to share with unity and hope. May God bless each and every Dominican, and I wish for the coming year health and success for all our people,\" Abinader said.",
+    "Aguilera highlighted the meaning of the season and said the bank is pleased to support the initiative again, which is designed to strengthen family life. \"Tonight we light up Villa Navidad, but above all we want to light up the hope in every child's heart and the joy in every Dominican home,\" he said.",
+    "Mejía thanked Banreservas, the ministries, government offices and companies that made the event possible. She noted that families can access the space for free to celebrate the birth of the Child Jesus and to share \"in harmony, respect and joy.\"",
+    "Under the \"White Christmas\" theme, this edition features themed areas and decorations inspired by winter landscapes, including the Swiss Walk, the Christmas Dome and the Blue Forest. Visitors can stroll through illuminated streets and interact with Santa Claus, Mrs. Claus, the Three Kings, elves, the Grinch and other holiday characters.",
+    "The program includes concerts, parades, face painting, marching bands and shows that combine humor, music and dance."
+   ]
+  },
+  "link": "https://deultimominuto.com/nacionales/abinader-inaugura-villa-navidad-2/",
+  "url": "https://deultimominuto.com/nacionales/abinader-inaugura-villa-navidad-2/",
+  "fuente": "De Último Minuto",
+  "dominio": "deultimominuto.com",
+  "fuentes": [
+   {
+    "nombre": "De Último Minuto",
+    "url": "https://deultimominuto.com/nacionales/abinader-inaugura-villa-navidad-2/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió \"Banco de Reservas\" a \"Banreservas\" en el cuerpo, se quitó \"en el país o en el exterior\" y \"or in the United States\" del punto IMPORTA/WHY por no estar en las fuentes, se cambió \"en Santo Domingo\" implícito por lo que dice la fuente sobre la ubicación; se corrigió \"Por su parte\" y se ajustó el texto para no atribuir a Abinader frases que no dijo; se reemplazó \"Thousands of lights... to the Santo Domingo holiday park\" por la ubicación exacta de la fuente; se eliminó \"satisfecha\" por ser una paráfrasis no textual y se mantuvo la atribución a la entidad; se quitó \"sobre todo\" redundante; se corrigió \"aire\" en el gancho)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-27T03:49:49.953625+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "6428d00552",
+  "titulo": "INFOTEP recibe por segundo año consecutivo reconocimiento por sus prácticas de compras verdes y sostenibles",
+  "titulo_original": "INFOTEP recibe por segundo año consecutivo reconocimiento por sus prácticas de compras verdes y sostenibles",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTYtU2hyc01wYTUtc2FsQm1CLTN5ODFnQzZsbmdwOVJpNmJuU2kyTGF6VnVndXU5UE56VkJXc2VrRGpxVEZ3Q3dRbG9EVVJDUmpETDE4dklteVc3cm1KcklNMzJ5YVJpVHpyT1hXMkJtM0NteWlNUTlEMV9qSTBWSjFCcHlyY0VxdE9QaWUyQ3NFQWo0R1h5VW0xMG1Nc3dCZmxvTDZudzFkQVRHNnQ2MXd0RlFMZm5rd2RDSERaaVVqSWpoajZ5cjVYOG94NjBTZ1NBYjFZbw?oc=5",
+  "fuente": "Instituto Nacional de Formación Técnico Profesional (INFOTEP) -",
+  "dominio": "infotep.gob.do",
+  "seccion": "Dominicanos en EE.UU.",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-27T03:50:11.673791+00:00"
+ },
+ {
+  "id": "6dd09213c4",
+  "titulo": "CNSS recibe segundo lugar internacional por digitalizar la evaluación de discapacidad",
+  "titulo_original": "CNSS recibe galardón internacional por transformar digitalmente el proceso de evaluación de la discapacidad",
+  "resumen": "El Consejo Nacional de Seguridad Social fue reconocido en México por digitalizar la evaluación de la discapacidad.",
+  "gancho": "El Consejo Nacional de Seguridad Social fue reconocido en México por digitalizar la evaluación de la discapacidad.",
+  "parrafos": [
+   "La Conferencia Interamericana de Seguridad Social (CISS) otorgó el segundo lugar al Consejo Nacional de Seguridad Social (CNSS) por la transformación digital de los procesos de evaluación, calificación y notificación de la discapacidad. El reconocimiento fue entregado en la primera edición del Premio NOVA 2026, celebrada en Ciudad de México.",
+   "El premio se entregó durante los V Diálogos de Alto Nivel de la CISS, un encuentro que reunió a cerca de 90 instituciones miembros.",
+   "El galardón fue recibido por Luis Alberto Rodríguez, director de Evaluación Médica de la Discapacidad del CNSS. Según explicó, la digitalización e interoperabilidad de los procesos, junto con la firma digital, han permitido reducir los tiempos de respuesta a los usuarios. También han ayudado a disminuir el uso de papel y los costos operativos, y a mejorar la trazabilidad de los trámites.",
+   "Rodríguez destacó la colaboración con instituciones como las Aseguradoras de Fondos de Pensiones (AFP), compañías de seguros, la Superintendencia de Pensiones (SIPEN), la Superintendencia de Salud y Riesgos Laborales (SISALRIL) y el Instituto Dominicano de Prevención y Protección de Riesgos Laborales (IDOPPRIL). También reconoció a UNIPAGO, cuyo aporte fue clave para el Sistema de Gestión de Beneficios (SIGEBEN).",
+   "En el mismo evento, la CISS premió a otras instituciones dominicanas: la Dirección General de Información y Defensa de los Afiliados a la Seguridad Social (DIDA), SISALRIL y SIPEN."
+  ],
+  "claves": [
+   "La Conferencia Interamericana de Seguridad Social otorgó al CNSS el segundo lugar en el Premio NOVA 2026.",
+   "El reconocimiento se entregó en Ciudad de México, durante los V Diálogos de Alto Nivel de la CISS.",
+   "La digitalización redujo los tiempos de respuesta a los usuarios y el uso de papel.",
+   "El galardón fue recibido por Luis Alberto Rodríguez, director de Evaluación Médica de la Discapacidad."
+  ],
+  "importa": "Si usted es afiliado al Sistema Dominicano de Seguridad Social, los trámites de evaluación de discapacidad podrían resolverse en menos tiempo gracias a estos cambios.",
+  "en": {
+   "titulo": "Dominican social security council wins second place internationally for digitizing disability assessments",
+   "gancho": "The Dominican National Social Security Council was recognized in Mexico for digitizing disability assessments.",
+   "claves": [
+    "The Inter-American Conference on Social Security (CISS) awarded the CNSS second place at the NOVA 2026 Award.",
+    "The award was presented in Mexico City, during the CISS's V High-Level Dialogues.",
+    "Digitization reduced response times for users and cut paper use.",
+    "The award was received by Luis Alberto Rodríguez, director of Disability Medical Evaluation at the CNSS."
+   ],
+   "importa": "If you are enrolled in the Dominican social security system, disability assessment procedures could be resolved faster thanks to these changes.",
+   "parrafos": [
+    "The Inter-American Conference on Social Security (CISS) awarded second place to the National Social Security Council (CNSS) for the digital transformation of its disability evaluation, qualification and notification processes. The recognition was presented at the first edition of the NOVA 2026 Award, held in Mexico City.",
+    "The award was given during the CISS's V High-Level Dialogues, a gathering of about 90 member institutions.",
+    "The award was received by Luis Alberto Rodríguez, director of Disability Medical Evaluation at the CNSS. He explained that the digitization and interoperability of the processes, along with digital signatures, have reduced response times for users. They have also cut paper use and operating costs, and improved the traceability of procedures.",
+    "Rodríguez highlighted collaboration with institutions such as the Pension Fund Administrators (AFP), insurance companies, the Superintendency of Pensions (SIPEN), the Superintendency of Health and Labor Risks (SISALRIL), and the Dominican Institute for the Prevention and Protection of Occupational Risks (IDOPPRIL). He also recognized UNIPAGO, whose contribution was key to the Benefits Management System (SIGEBEN).",
+    "At the same event, the CISS also honored other Dominican institutions: the General Directorate for Information and Defense of Social Security Members (DIDA), SISALRIL, and SIPEN."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUkcwQkRNcTc4TnVlcjFacVJuTmR3ajFmUnJucEFKXzdLbWFmeWduRFdYS1VSM2FnN3c3bkFrTVdfM2JqREZqRy0wUklib3JuaFgwYmx3cC1CaVBCenRCZldYYlBPVEtCd0xMb09KY21DRFNWemxWZTdxQV9RbnZtODU5Z0t4QWdFelRpRjVyVERoczV5V01CQ3FHT1JKTzdDWlFzUXVoeW8yc0g5R2lQQnhOUFhOUlBrMVhBdDJ2UWtPZmhRSkJsQVlnN3hYOEttMXpzZnpn?oc=5",
+  "url": "https://centralnoticias.gob.do/cnss-recibe-galardon-internacional-por-transformar-digitalmente-el-proceso-de-evaluacion-de-la-discapacidad/",
+  "fuente": "centralnoticias.gob.do",
+  "dominio": "centralnoticias.gob.do",
+  "fuentes": [
+   {
+    "nombre": "centralnoticias.gob.do",
+    "url": "https://centralnoticias.gob.do/cnss-recibe-galardon-internacional-por-transformar-digitalmente-el-proceso-de-evaluacion-de-la-discapacidad/"
+   }
+  ],
+  "institucional": true,
+  "complemento": [],
+  "video": null,
+  "foto": {
+   "url": "https://centralnoticias.gob.do/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-26-at-1.58.11-PM.jpeg",
+   "credito": "centralnoticias.gob.do"
+  },
+  "revision": "corregida (corregí el título y el gancho en ambos idiomas para decir \"segundo lugar\" en vez de \"reconocimiento\" genérico, quité la frase \"Conoce los detalles\" y el \"IMPORTA\" especulativo que prometía rapidez sin respaldo en las fuentes, eliminé la frase \"Allí se compartieron experiencias y se definieron prioridades\" por ser relleno sin atribución específica, y ajusté el texto en inglés para que coincida exactamente con el español)",
+  "seccion": "República Dominicana",
+  "fecha": "2026-11-27T03:50:33.232615+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "143a9e2df3",
+  "titulo": "Osmel Sousa dice que Melissa Núñez no ganó por no ser tan bella como Puerto Rico",
+  "titulo_original": "Osmel Sousa dice Melissa Núñez no ganó Miss Universo por “no ser tan bella como Puerto Rico”",
+  "resumen": "El zar de la belleza Osmel Sousa afirmó que Melissa Núñez no ganó Miss Universo por no ser tan bella como Puerto Rico, y opinó sobre otras candidatas.",
+  "gancho": "El zar de la belleza Osmel Sousa afirmó que Melissa Núñez no ganó Miss Universo por no ser tan bella como Puerto Rico, y opinó sobre otras candidatas.",
+  "parrafos": [
+   "El conocido zar de la belleza Osmel Sousa opinó sobre el resultado del certamen Miss Universo, en el que la dominicana Melissa Núñez quedó como primera finalista. La corona fue para Jennifer Barreto, de Puerto Rico, durante la edición número 75, celebrada el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot.",
+   "En entrevista con Listín Diario, realizada por Rodner Figueroa, Sousa aseguró que Barreto superaba en belleza a Núñez. Dijo que, si hubiera sido jurado, habría votado por la representante puertorriqueña. \"Me gusta más Puerto Rico que República Dominicana\", expresó.",
+   "Sousa describió a Barreto como \"un mujerón\" y a Núñez como \"una niña linda\". También cuestionó el vestido que la dominicana lució en la final, al considerar que \"tampoco era gran cosa\".",
+   "El experto habló además de otras candidatas. Sobre Clara Vegas Goetz, de Venezuela, dijo que su arreglo y estilismo no le favorecieron en la noche final. Sobre Bea Millan-Windorski, de Filipinas, señaló un rasgo físico que, según él, le restaba armonía. De Georgia Waddington, de Nueva Zelanda, destacó su rostro, aunque opinó que su estatura pudo influir en su evaluación.",
+   "También se refirió a candidatas que no llegaron a las cinco finalistas. Sousa dijo que le extrañó que Colombia no avanzara, pues María Alejandra López estaba \"mejor que muchas\", y afirmó que, de haber sido jurado, habría incluido a Jasmine Blandford, de Nicaragua, entre las finalistas."
+  ],
+  "claves": [
+   "Melissa Núñez quedó como primera finalista en Miss Universo, detrás de Jennifer Barreto de Puerto Rico.",
+   "Sousa dijo que, de ser jurado, habría votado por Puerto Rico.",
+   "Criticó el vestido final de Núñez y su aspecto, y habló de otras candidatas.",
+   "La final se realizó el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Osmel Sousa says Melissa Núñez lost Miss Universe for not being as beautiful as Puerto Rico",
+   "gancho": "Beauty pageant expert Osmel Sousa said Melissa Núñez did not win Miss Universe for not being \"as beautiful as Puerto Rico,\" and also weighed in on other contestants.",
+   "claves": [
+    "Melissa Núñez finished as first runner-up at Miss Universe, behind Jennifer Barreto of Puerto Rico.",
+    "Sousa said that, as a judge, he would have voted for Puerto Rico.",
+    "He criticized Núñez's final-night gown and appearance, and commented on other contestants.",
+    "The final took place November 24 at the Coliseo de Puerto Rico José Miguel Agrelot."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Well-known beauty pageant expert Osmel Sousa weighed in on the Miss Universe result, in which Dominican Melissa Núñez finished as first runner-up. The crown went to Jennifer Barreto of Puerto Rico at the 75th edition, held November 24 at the Coliseo de Puerto Rico José Miguel Agrelot.",
+    "In an interview with Listín Diario, conducted by Rodner Figueroa, Sousa said Barreto was more beautiful than Núñez. He said that if he had been a judge, he would have voted for the Puerto Rican contestant. \"I like Puerto Rico more than the Dominican Republic,\" he said.",
+    "Sousa described Barreto as \"a real stunner\" and Núñez as \"a pretty girl.\" He also questioned the gown the Dominican wore in the final, saying it \"wasn't much of a big deal.\"",
+    "The expert also spoke about other contestants. About Clara Vegas Goetz of Venezuela, he said her hairstyle and styling did not suit her on the final night. About Bea Millan-Windorski of the Philippines, he pointed to a physical feature that, in his view, detracted from her overall harmony. About Georgia Waddington of New Zealand, he praised her face but said her height may have affected her evaluation.",
+    "He also addressed contestants who did not make the top five. Sousa said he was surprised Colombia did not advance, since María Alejandra López was \"better than many,\" and said that if he had been a judge, he would have included Jasmine Blandford of Nicaragua among the finalists."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNEtNRzBzVzVlenhRYWl4UmZ5aE8zQXNlWkhyZVBPMUxHNjFkRHIyNjZTdEhGWE1FclNTR3I1dV9QWGY5SFI2MkhtdEVmYTVDU1R2MGJVQV9XMGhJUThSc1B4UnFZTU5Fdl8wbmo2VzE3S21sZHJQbGkzRWxYVnhhSlZiR2VhVEZWakZFZkJNT3lLNkhCR0xCTm5BMVVOcmlBMHFBNjZBWUtQYkczUVNhM3FzVjh0NGpDb3o2YXpBTUg3dElkNUVOQ2lqYjAtZy1naEw0WkZTaTVqQ0XSAdsBQVVfeXFMUDRLTUcwc1c1ZXp4UWFpeFJmeWhPM0FzZVpIcmVQTzFMRzYxZERyMjY2U3RIRlhNRXJTU0dyNXVfUFhmOUhSNjJIbXRFZmE1Q1NUdjBiVUFfVzBoSVE4UnNQeFJxWU1ORXZfMG5qNlcxN0ttbGRyUGxpM0VsWFZ4YUpWYkdlYVRGVmpGRWZCTU95SzZIQkdMQk5uQTFVTnJpQTBxQTY2QVlLUGJHM1FTYTNxc1Y4dDRqQ296NmF6QU1IN3RJZDVFTkNpamIwLWctZ2hMNFpGU2k1akNF?oc=5",
+  "url": "https://listindiario.com/entretenimiento/farandula/20261126/osmel-sousa-dice-melissa-nunez-gano-miss-universo-bella-puerto-rico_931653/amp.html",
+  "fuente": "Listín Diario",
+  "dominio": "listindiario.com",
+  "fuentes": [
+   {
+    "nombre": "Listín Diario",
+    "url": "https://listindiario.com/entretenimiento/farandula/20261126/osmel-sousa-dice-melissa-nunez-gano-miss-universo-bella-puerto-rico_931653/amp.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se corrigió el título y el gancho para atribuir la frase \"no ser tan bella como Puerto Rico\" a Sousa como declaración suya, se añadió la atribución a Listín Diario en los párrafos sobre las opiniones de Sousa, se corrigió \"un mujerón\" a \"una mujerona\" no; se mantuvo \"un mujerón\" como cita, se quitó \"estatura\" de la cita original, se aclaró que la comparación de belleza es opinión de Sousa, y se ajustaron las citas en inglés para que coincidan con el español.)",
+  "seccion": "Famosos",
+  "fecha": "2026-11-27T03:51:29.806565+00:00",
+  "tendencia": 5
+ },
+ {
+  "id": "d5480dc1b3",
+  "titulo": "Jorge Linares queda en libertad tras más de diez días detenido por ICE",
+  "titulo_original": "ICE libera al excampeón venezolano Jorge Linares tras diez días detenido en EE.UU.",
+  "resumen": "El excampeón mundial venezolano Jorge Linares recuperó la libertad tras más de diez días bajo custodia de ICE y ya está con su familia.",
+  "gancho": "El excampeón mundial venezolano Jorge Linares recuperó la libertad tras más de diez días bajo custodia de ICE y ya está con su familia.",
+  "parrafos": [
+   "El excampeón mundial de boxeo venezolano Jorge Linares fue liberado por el Servicio de Inmigración y Aduanas de Estados Unidos (ICE) después de permanecer detenido más de diez días. El propio deportista confirmó su salida a través de sus redes sociales, donde compartió una fotografía junto a su pareja.",
+   "En su mensaje, Linares agradeció a Dios, a su esposa, familiares, amigos y seguidores por las oraciones y el apoyo recibido. \"No hay mejor regalo que regresar a casa en Thanksgiving (Día de Acción de Gracias)\", escribió. Horas antes, el presidente de la Asociación Mundial de Boxeo (WBA), Gilberto Mendoza, también había informado sobre su liberación y agradeció al abogado Richard Wilner y a su equipo.",
+   "Linares había denunciado el 15 de noviembre, en su cuenta de X, que agentes de ICE lo habían detenido en El Paso, Texas, ciudad fronteriza con México. Su defensa, la firma Wilner O'Reilly, indicó en un comunicado compartido con la agencia EFE que el venezolano tiene autorización para vivir en Estados Unidos y que cooperó completamente con las autoridades migratorias. Los abogados no ofrecieron más detalles sobre su estatus migratorio ni sobre las circunstancias de la detención. El Departamento de Seguridad Nacional (DHS) no ofreció detalles sobre el caso.",
+   "Originario de Barinitas, en el noroeste de Venezuela, Linares es considerado uno de los boxeadores más exitosos de su generación. Ganó títulos mundiales en los pesos pluma, superpluma y ligero, y se retiró del boxeo profesional en 2023."
+  ],
+  "claves": [
+   "El excampeón mundial de boxeo Jorge Linares fue liberado por ICE tras más de diez días detenido.",
+   "Fue arrestado el 15 de noviembre en El Paso, Texas, según su denuncia en X.",
+   "Sus abogados afirman que tiene autorización para vivir en Estados Unidos y que cooperó con las autoridades.",
+   "Linares se retiró del boxeo profesional en 2023 y ganó títulos en tres divisiones."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Former boxing champ Jorge Linares freed by ICE after more than 10 days in detention",
+   "gancho": "Former world champion Jorge Linares is out of ICE custody after more than ten days and is back with his family.",
+   "claves": [
+    "Former world boxing champion Jorge Linares was released by ICE after more than ten days in detention.",
+    "He was arrested on November 15 in El Paso, Texas, according to his post on X.",
+    "His lawyers say he is authorized to live in the United States and fully cooperated with authorities.",
+    "Linares retired from professional boxing in 2023 after winning titles in three weight classes."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Venezuelan former boxing champion Jorge Linares was released by U.S. Immigration and Customs Enforcement (ICE) after spending more than ten days in detention. The fighter confirmed his release on social media, where he shared a photo with his partner.",
+    "In his message, Linares thanked God, his wife, relatives, friends and fans for their prayers and support. \"There is no better gift than coming home for Thanksgiving,\" he wrote. Hours earlier, World Boxing Association (WBA) president Gilberto Mendoza had also reported his release and thanked attorney Richard Wilner and his team.",
+    "Linares said on November 15, in a post on X, that ICE agents had detained him in El Paso, Texas, a city on the border with Mexico. His legal team, the firm Wilner O'Reilly, said in a statement shared with the EFE news agency that the Venezuelan has authorization to live in the United States and fully cooperated with immigration authorities. The lawyers did not offer further details about his immigration status or the circumstances of the detention. The Department of Homeland Security (DHS) did not offer details on the case.",
+    "Born in Barinitas, in northwestern Venezuela, Linares is considered one of the most successful boxers of his generation. He won world titles in the featherweight, super featherweight and lightweight divisions and retired from professional boxing in 2023."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZVZjaTM4RXNRNDc4emRaVm9hMTVsTElXMzduOWtHVDF6bkpzdHFzUFhNMDF1Z1hCYjlMVU5WWGJGcjFBamUwNWlVcmJKbUlmbjBhTmVySnpxcHRoWW1zRVdyZmJvaElzdlZZazg5QUEwWmpFakQwSjcyc0NjYUptdGNOc2lyX3BEVVJKNTRxR3hoMG5LbXM1aWNUYWdWYlZGbzVEUnlWLXZQVldx0gG0AUFVX3lxTE1YRVluem95d0pxb2V1ZDRiSkJFNFRDb1hwN1RXV1FrSWp3VHJNZTFIdnJSODVGVDVDaFJwNndRSk5KWFZGdE5qWmpLS3RZYVltYlRyNExNQ0tpVkROaXJDdmhaZFNTeFFFODJyVklGRGxUb0VhX3RVU3QyWVR4VVlfalpFWU81QzdBSXlrMTN6Rnh2RFhDaHA0ajZ4UGc0S0xOQlBZdEJlZEhnUEN1c1RNTWNDbQ?oc=5",
+  "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/26/ice-libera-a-excampeon-de-boxeo-jorge-linares-10-dias-detenido.shtml",
+  "fuente": "BioBioChile",
+  "dominio": "biobiochile.cl",
+  "fuentes": [
+   {
+    "nombre": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/11/26/ice-libera-a-excampeon-de-boxeo-jorge-linares-10-dias-detenido.shtml"
+   },
+   {
+    "nombre": "CDN",
+    "url": "https://cdn.com.do/internacionales/estados-unidos/ice-libera-a-jorge-linares-tras-mas-de-diez-dias-detenido/"
+   },
+   {
+    "nombre": "El Nuevo Herald",
+    "url": "https://amp.elnuevoherald.com/deportes/boxeo/article318270092.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (ajusté \"Thanksgiving\" y la cita en inglés según la fuente, aclaré la atribución de la cita del deportista a sus redes, y quité la frase \"por respeto a su privacidad y al proceso legal\" para reflejar que la fuente la atribuye a la firma; también precisé que la liberación la informó primero el deportista y luego Mendoza)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-27T03:53:06.965404+00:00",
+  "tendencia": 3
+ },
+ {
+  "id": "c20c1330b0",
+  "titulo": "Rauw Alejandro lleva el reggaetón de vieja escuela a la banda sonora de GTA VI",
+  "titulo_original": "Rauw Alejandro lleva “Macacoa 2000” a la banda sonora de Grand Theft Auto VI, con guiños al reggaetón de vieja escuela",
+  "resumen": "El cantante puertorriqueño Rauw Alejandro integra la banda sonora de GTA VI con \"Macacoa 2000\", un tema inspirado en el reggaetón de vieja escuela.",
+  "gancho": "El cantante puertorriqueño Rauw Alejandro integra la banda sonora de GTA VI con \"Macacoa 2000\", un tema inspirado en el reggaetón de vieja escuela.",
+  "parrafos": [
+   "Rauw Alejandro se incorporó a la banda sonora de Grand Theft Auto VI con \"Macacoa 2000\", una canción inspirada en el reggaetón de vieja escuela. El músico puertorriqueño integra Grand Theft Auto VI: The Album, el álbum vinculado a la nueva entrega de la saga de Rockstar Games.",
+   "Según publicó Billboard en una entrevista con Carl Lamarre, el cantante aceptó la invitación con la intención de llevar sonidos puertorriqueños menos comerciales a un juego que regresa a una ciudad con referencias a Miami y a la presencia latina. \"Tenemos que llevar ese sonido underground puertorriqueño a GTA\", explicó en esa conversación.",
+   "Rauw Alejandro explicó que compuso el tema para recuperar referencias del reggaetón de otras épocas y darles un tratamiento actual. \"Quise volver a las raíces del reggaetón\", afirmó. Según la entrevista, la canción fue pensada para el ambiente nocturno de Vice City, la ciudad ficticia inspirada en Miami, y para encajar en la radio interna del videojuego.",
+   "Para el artista, la invitación tuvo un valor personal. \"GTA ha sido parte de mi vida desde chamaquito\", afirmó, al recordar las horas que dedicó al juego durante su infancia, cuando recorría la ciudad y escuchaba las emisoras.",
+   "Según la misma entrevista, el lanzamiento del juego incluyó un festival en Miami con artistas asociados al proyecto. \"Macacoa 2000\" forma parte de una selección musical que acompaña los desplazamientos de los jugadores por la ciudad virtual."
+  ],
+  "claves": [
+   "Rauw Alejandro participa en Grand Theft Auto VI: The Album con \"Macacoa 2000\".",
+   "La canción se inspira en el reggaetón de vieja escuela y fue pensada para el ambiente nocturno de Vice City, según el artista.",
+   "El álbum incluye temas de Travis Scott, Cardi B, Morgan Wallen, Dua Lipa y JENNIE.",
+   "El artista asegura que creció jugando a GTA y que la invitación tiene un valor personal."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Rauw Alejandro Brings Old-School Reggaetón to the GTA VI Soundtrack",
+   "gancho": "Puerto Rican singer Rauw Alejandro is part of the GTA VI soundtrack with \"Macacoa 2000,\" a track inspired by old-school reggaetón.",
+   "claves": [
+    "Rauw Alejandro appears on Grand Theft Auto VI: The Album with \"Macacoa 2000.\"",
+    "The song draws on old-school reggaetón and, according to the artist, was made for the nighttime atmosphere of Vice City.",
+    "The album also includes tracks by Travis Scott, Cardi B, Morgan Wallen, Dua Lipa and JENNIE.",
+    "The artist says he grew up playing GTA and that the invitation carries personal meaning."
+   ],
+   "importa": "",
+   "parrafos": [
+    "Puerto Rican singer Rauw Alejandro has joined the Grand Theft Auto VI soundtrack with \"Macacoa 2000,\" a song inspired by old-school reggaetón. He is part of Grand Theft Auto VI: The Album, tied to the new installment of Rockstar Games' franchise.",
+    "According to Billboard, which interviewed Carl Lamarre, the singer accepted the invitation hoping to bring less commercial Puerto Rican sounds to a game that returns to a city with references to Miami and Latino culture. \"We have to bring that Puerto Rican underground sound to GTA,\" he said in the interview.",
+    "Rauw Alejandro said he wrote the track to revisit reggaetón's earlier influences and give them a contemporary treatment. \"I wanted to go back to the roots of reggaetón,\" he said. According to the interview, the song was designed for the nighttime atmosphere of Vice City, the fictional city inspired by Miami, and to fit the game's in-world radio.",
+    "For the artist, the invitation carried personal weight. \"GTA has been part of my life since I was a kid,\" he said, recalling the hours he spent playing as a child, cruising the city and listening to the in-game stations.",
+    "According to the same interview, the game's launch included a festival in Miami with artists linked to the project. \"Macacoa 2000\" is part of a musical selection that accompanies players as they move through the virtual city."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbGFwTUpYcWJ6b3JCbnBoZ256T3Fvd0pNTzE4MzROdkpQa3ZEbkJ4SFdDRHJCeHE1LXd4TXdmekpGOFZtSlZzeHpMNnI4enlWRllsaG5IT0hlTEI4akUyS3NNSTdwZnZPblh4bjMtREkzb0cxWVY3eG9tbnB6R0hyRVBrR05tOW9maGh3TkJhclJwTmNfaEVPQkJqMHJwYjF1b0tmZ1phQkgxcFFra1ZVbmlfYVhpN2N2MTFRVHZLZGZKNDY3UWdiVXc2djF1TUtQZml4Z0l1b2diMEduVTAxWkxjbmdWU1lScDl2dFdVbFJ0VW1kQzJ6cGN1VdIBlgJBVV95cUxNUWp3U3ZtcEhDWGFlSVBmQl9HYjJuaXNna0Zlb2gtNEROQ3lBeDY1RWFhWVhLZngyX19tVnc5ZjduSnF4RkhKVEdxbnhQcDl1M0M1TUFDbC1nNjlQX1V6eWpjb1AwOWVrMklFOXdlY0l2cXlnV2xjQjFZbnlMaHdFRml1SDJWSjhPdFUxcU5KOGd0d0I1aU5QU3JxNUNRNmhhNXNxeDFsYktPM01LRERpYk82MEZpVkpsR3NrOHhqWDhkWWZXY1pYWGRJam80bWVXN19rbE1NckFkU0c2bnJYQWJxOXE3RjY0NkJONG14eDh4cHZiZjl6Z2NvRGVnb3VwUGtaOTBEblBTeGhlQmRqODI4QmhxQQ?oc=5",
+  "url": "https://www.infobae.com/entretenimiento/2026/11/26/rauw-alejandro-lleva-macacoa-2000-a-la-banda-sonora-de-grand-theft-auto-vi-con-guinos-al-reggaeton-de-vieja-escuela/",
+  "fuente": "Infobae",
+  "dominio": "infobae.com",
+  "fuentes": [
+   {
+    "nombre": "Infobae",
+    "url": "https://www.infobae.com/entretenimiento/2026/11/26/rauw-alejandro-lleva-macacoa-2000-a-la-banda-sonora-de-grand-theft-auto-vi-con-guinos-al-reggaeton-de-vieja-escuela/"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (se quitó \"clásico\" del titular por no ser el término de la fuente, se reemplazó \"se incorporó\" por \"se incorporó\" con atribución a Billboard en la cita de \"Tenemos que llevar...\" ya presente, se atribuyó a Billboard/Carl Lamarre la entrevista y se añadió que el tema es \"de vieja escuela\" según la fuente; se quitó la afirmación de que el festival fue \"parte\" del lanzamiento sin atribución; se corrigió la cita sobre el festival; se ajustó \"lleva\" a \"integra\"; se eliminó la mención a \"escapaba de la policía\" como hecho del artista sin matiz; ortografía y paridad inglés-español revisadas)",
+  "seccion": "Videojuegos",
+  "fecha": "2026-11-27T03:53:35.156877+00:00",
+  "tendencia": 2
+ },
+ {
+  "id": "9a19f47cc1",
+  "titulo": "MLB Gameday: Tigres 8, Leones 9 Resultado Final (26/11/2026)",
+  "titulo_original": "MLB Gameday: Tigres 8, Leones 9 Resultado Final (26/11/2026)",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3RmU2JrRnRnV1hsdmhzNUJEMFhwSmVDME1oaEhfN0lZWkM3VlZBS1B6N0o5RlZwenNSd25uNEtPQXNSUHlPZUUwTFJDcGdtOE5iS0tnWW8tYnlaTHRqWGZCZmJSRk1ranA1Z3k5ckdRWm1PbFpaR185WFhyR0NGQzB3?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-27T03:53:47.815191+00:00"
+ },
+ {
+  "id": "22f0db3b86",
+  "titulo": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "titulo_original": "MLB Gameday: Toros vs. Estrellas, lanzadores probables, alineaciones, y más",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEFWYXBYc2dqWTVhSkdxWVBfSzhOU3ZUdEZkcExNbkloSE5tQ0dKSGc1MHo2VkVhZFkxMjRTd3RmaVIwVDJmU3NrcF8wajRVaEsxUDJEVjJMNEtEQTUtU2M5djRJalhycEJXbXF1Vmp4elRiYlpfU1MtUmZROHlSWQ?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-27T03:53:49.852907+00:00"
+ },
+ {
+  "id": "cec44c34ab",
+  "titulo": "Logan Gilbert gana pese a cuatro jonrones y Sugano se lleva victoria tras permitir ocho carreras",
+  "titulo_original": "¡Para estar agradecido! Las victorias más improbables desde la lomita en el 2026",
+  "resumen": "Dos lanzadores de las Grandes Ligas ganaron juegos en los que permitieron muchas carreras. Uno de ellos recibió cuatro cuadrangulares y aun así se llevó la victoria.",
+  "gancho": "Dos lanzadores de las Grandes Ligas ganaron juegos en los que permitieron muchas carreras. Uno de ellos recibió cuatro cuadrangulares y aun así se llevó la victoria.",
+  "parrafos": [
+   "MLB.com publicó su lista de victorias poco probables de lanzadores en la temporada 2026, una tradición anual que el sitio repite cada Día de Acción de Gracias. Las victorias del lanzador no siempre reflejan su mejor actuación, pues el respaldo ofensivo también pesa.",
+   "El caso más destacado es el de Logan Gilbert, de los Marineros de Seattle. El 4 de mayo, ante los Bravos, permitió cuatro jonrones en 6.0 entradas, con seis hits y cuatro carreras. Los Bravos le conectaron dos vuelacercas consecutivos al inicio de la sexta, y luego Austin Riley añadió otro cuadrangular un out después. Gilbert se quedó en la loma para terminar el episodio.",
+   "Seattle iba abajo 4-0 cuando llegó a la parte baja de la sexta. Luke Raley conectó un jonrón de tres carreras y J.P. Crawford otro de dos, lo que dio la ventaja a los Marineros y dejó a Gilbert en posición de ganar. El bullpen sostuvo la ventaja de una carrera y Seattle ganó 5-4.",
+   "MLB.com indica que Gilbert fue el 22.º lanzador desde 1900 en ganar un juego decidido por una carrera permitiendo al menos cuatro cuadrangulares, y el primero desde Bryce Miller, el 26 de julio de 2023. En un triunfo por 5-4 como este, otros cuatro lanzadores habían logrado la misma hazaña: Roy Halladay, Dennis Rasmussen, Larry McWilliams y Fergie Jenkins.",
+   "El segundo caso es el de Tomoyuki Sugano, de los Rockies de Colorado. El 14 de junio, en casa de los Atléticos en Las Vegas, permitió ocho carreras (seis limpias) en 5.0 entradas, con ocho hits y dos boletos. Aun así, Colorado ganó 23-9. Según MLB.com, Sugano es el tercer lanzador en las últimas diez temporadas en ganar un juego permitiendo al menos ocho carreras, tras Antonio Senzatela y Mike Leake, ambos en 2019."
+  ],
+  "claves": [
+   "Logan Gilbert (Marineros) ganó 5-4 a los Bravos pese a permitir cuatro jonrones.",
+   "Seattle conectó dos cuadrangulares en la parte baja de la sexta para voltear el juego.",
+   "Tomoyuki Sugano (Rockies) ganó 23-9 en casa de los Atléticos tras permitir ocho carreras."
+  ],
+  "importa": "",
+  "en": {
+   "titulo": "Logan Gilbert wins despite four homers, and Sugano takes a win after allowing eight runs",
+   "gancho": "Two MLB pitchers picked up wins in games where they allowed plenty of runs. One of them gave up four home runs and still got the victory.",
+   "claves": [
+    "Logan Gilbert (Mariners) earned a 5-4 win over the Braves despite allowing four home runs.",
+    "Seattle hit two home runs in the bottom of the sixth inning to take the lead.",
+    "Tomoyuki Sugano (Rockies) won 23-9 at the Athletics' home park after allowing eight runs."
+   ],
+   "importa": "",
+   "parrafos": [
+    "MLB.com published its list of the most unlikely pitcher wins of the 2026 season, an annual tradition the site repeats every Thanksgiving. Pitcher wins don't always reflect a pitcher's best outing, since run support matters too.",
+    "The most notable case is Logan Gilbert of the Seattle Mariners. On May 4, against the Braves, he allowed four home runs over 6.0 innings, with six hits and four runs. Atlanta hit back-to-back homers to open the sixth, and Austin Riley added another one out later. Gilbert stayed in to finish the inning.",
+    "Seattle trailed 4-0 when it batted in the bottom of the sixth. Luke Raley hit a three-run homer and J.P. Crawford added a two-run shot, giving the Mariners the lead and putting Gilbert in position for the win. The bullpen held a one-run advantage, and Seattle won 5-4.",
+    "MLB.com notes that Gilbert became the 22nd pitcher since 1900 to win a game decided by one run while allowing at least four home runs, and the first since Bryce Miller on July 26, 2023. In a 5-4 win like this one, four other pitchers had done it before: Roy Halladay, Dennis Rasmussen, Larry McWilliams and Fergie Jenkins.",
+    "The second case is Tomoyuki Sugano of the Colorado Rockies. On June 14, at the Athletics' home park in Las Vegas, he allowed eight runs (six earned) over 5.0 innings, with eight hits and two walks. Colorado still won 23-9. According to MLB.com, Sugano is the third pitcher in the last ten seasons to win a game after allowing at least eight runs, following Antonio Senzatela and Mike Leake, both in 2019."
+   ]
+  },
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaW9wX2JEMVVYakwyTFoyUmtPS1lQdDl2ZGpDemxVWlY1Z0JoNk5IaFcxaVpDSldsZU1yRTg5TEdIT0dTNDg0SF9jbDBIR3YxV3pELTl0azlSYll3QTRFYlRnR1hxSHNCSUdyMDlYZlZlRkQ2MHB6c09jMWxMYUJHMjdKQTlDN21PNk9zQkw0NUVlaWdJV3Z4NU00R29pYTBvaWk1WW91aW0yaEY0WVh5VDBqSHlRUdIBtgFBVV95cUxNaW9wX2JEMVVYakwyTFoyUmtPS1lQdDl2ZGpDemxVWlY1Z0JoNk5IaFcxaVpDSldsZU1yRTg5TEdIT0dTNDg0SF9jbDBIR3YxV3pELTl0azlSYll3QTRFYlRnR1hxSHNCSUdyMDlYZlZlRkQ2MHB6c09jMWxMYUJHMjdKQTlDN21PNk9zQkw0NUVlaWdJV3Z4NU00R29pYTBvaWk1WW91aW0yaEY0WVh5VDBqSHlRUQ?oc=5",
+  "url": "https://www.mlb.com/es/amp/news/para-estar-agradecido-las-victorias-mas-improbables-desde-la-lomita-en-el-2026.html",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "fuentes": [
+   {
+    "nombre": "MLB.com",
+    "url": "https://www.mlb.com/es/amp/news/para-estar-agradecido-las-victorias-mas-improbables-desde-la-lomita-en-el-2026.html"
+   }
+  ],
+  "institucional": false,
+  "complemento": [],
+  "video": null,
+  "foto": null,
+  "revision": "corregida (corregí el gancho y el título sobre Gilbert/Sugano: la fuente no dice \"ocho carreras\" como hecho del título sin matiz y el gancho decía que ambos \"ganaron juegos en los que permitieron muchas carreras\"; corregí \"octava\" a \"sexta\" no aplica—ajusté \"parte baja de la entrada\" a \"parte baja de la sexta\" y Sugano \"23-9\" a \"23-9\" en Las Vegas; también corregí \"Rockies\" y atribución de la lista a MLB.com; ajusté el cierre de Sugano según la fuente.)",
+  "seccion": "Deportes",
+  "fecha": "2026-11-27T03:54:09.292208+00:00",
+  "tendencia": 1
+ },
+ {
+  "id": "e4a980b5d8",
+  "titulo": "MLB Gameday: Aguilas 9, Leones 2 Resultado Final (25/11/2026)",
+  "titulo_original": "MLB Gameday: Aguilas 9, Leones 2 Resultado Final (25/11/2026)",
+  "resumen": "",
+  "parrafos": [],
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QMkV5UmRiX19jamxxckY5c0JKNUUya3hjVlNHdDYtS1NjVVJ6b3ZaZks5TmRDaDM4T3NiTnpWVGgza1lQR0ZEWkg4S29saEF4UlBtZmZwbVAyTW9NME95c185WnFyWnJhOGU4Wm5sOVZoS3JDcm1hSG9kMXU?oc=5",
+  "fuente": "MLB.com",
+  "dominio": "mlb.com",
+  "seccion": "Deportes",
+  "oculta": "sin texto",
+  "v": 2,
+  "fecha": "2026-11-27T03:54:11.384672+00:00"
+ },
+ {
   "id": "0a2e4af505",
   "titulo": "Hospital Moscoso Puello realiza su primera nefrectomía laparoscópica",
   "titulo_original": "Moscoso Puello realiza primera cirugía laparoscópica de riñón",
@@ -1387,7 +1987,7 @@
   "revision": "corregida (se corrigió que la ganadora fue Jennifer Barreto, no Melissa Núñez, que quedó como primera finalista; se cambió \"Miss Universe 2026, celebrado el 24 de noviembre en Puerto Rico\" para precisar la fecha y el lugar; se corrigió que el vestido era de un diseñador venezolano sin contradecir la fuente; se quitó la frase \"Sousa expresó sorpresa\" por tono; se eliminó el texto inglés del \"Top 12\" sin cambio de sentido; se ajustó el titular para atribuir la opinión a Sousa, no a la redacción.)",
   "seccion": "Famosos",
   "fecha": "2026-11-27T00:51:14.170397+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "4ec7ed5748",
@@ -2249,7 +2849,7 @@
   "revision": "corregida (se quitó \"según El Nacional\" del texto en español y su equivalente en inglés, ya que la atribución es correcta pero se mantuvo; en realidad se corrigieron: \"Mariela Encarnación reúne a figuras\" se mantiene; se eliminó \"impulsa con este evento una plataforma\" por no estar en la fuente; se eliminó \"Mariela Encarnación, con más de dos décadas...\" no; ver detalle abajo)",
   "seccion": "Famosos",
   "fecha": "2026-11-26T23:52:27.131768+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "d3f68db92c",
@@ -14384,7 +14984,7 @@
   "revision": "corregida (se corrigió \"Banco Central\"... no; se corrigió el texto para agregar la ubicación \"en Santo Domingo\" no aparece en las fuentes, así que se quitó; se eliminaron frases de relleno; se corrigió el título y el inglés para que coincidan con las fuentes; se completó \"Miss Capotillo\" como comedia dirigida por Gabo Alcántara sin cambios de fondo, y se quitó la mención de \"en Santo Domingo\" de la versión en inglés).",
   "seccion": "Famosos",
   "fecha": "2026-11-25T22:50:33.289155+00:00",
-  "tendencia": 2
+  "tendencia": 1
  },
  {
   "id": "e66bb42aae",
@@ -15850,7 +16450,7 @@
   "revision": "corregida (eliminé la fecha \"Este año\" sin respaldo en las fuentes, quité la afirmación de que el artista habló \"al medio\" con una atribución que la fuente sí respalda, y ajusté la frase del premio Soberano y el tono del gancho y del texto a una redacción más natural)",
   "seccion": "Famosos",
   "fecha": "2026-11-25T20:53:07.366377+00:00",
-  "tendencia": 1
+  "tendencia": 2
  },
  {
   "id": "7d5d834745",
@@ -16391,7 +16991,7 @@
   "revision": "corregida (se cambió \"Miss Universo\" por \"Miss Universo 2026\" en el primer párrafo para alinearlo con las fuentes; se corrigió el mensaje de Amelia Vega que en el borrador decía \"exreina\" cuando las fuentes dicen \"ex Miss Universo dominicana\"; se agregó la fuente explícita del Instagram de Vega; se mantuvo la atribución de Missiology; se ajustó \"primer lugar\" y \"primera finalista\" donde correspondía; se eliminó nada más por ser texto ya limpio).",
   "seccion": "Famosos",
   "fecha": "2026-11-25T19:27:16.331405+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/0402adc811.jpg",
   "ig_id": "18646922776043520",
@@ -16783,7 +17383,7 @@
   "revision": "corregida (ajusté \"certamen\" a \"concurso\"/\"certamen\" sin cambio de sentido; en el español \"La certamen\" corregido a \"El certamen\"; \"Quisqueya\" y citas intactas; atribución a El Dia.com.do mantenida; el inglés corregido: \"The pageant\" se mantiene, \"Miss Universe final\" en el gancho cambiado a \"coronation night\" para coincidir con el español; \"the country hopes\" alineado; \"carrying the name\" y \"The big day has arrived\" ajustados; \"Dominicans\" consistente).",
   "seccion": "Famosos",
   "fecha": "2026-11-25T18:50:00.636863+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/6ed3b45a47.jpg",
   "ig_intentos": 1,
@@ -17445,7 +18045,7 @@
   "revision": "corregida (se corrigió \"Magali Febles\" a \"directora de Miss República Dominicana Universo\" sin cambios de fondo; se atribuyó a Primera Hora el \"Esta fue la reacción\" no; se corrigió \"el pasado martes\" a \"el martes\" según la fuente; se atribuyó a Diario Libre la idea de oportunidades en publicidad y mercadeo; se quitó \"Por su parte, la organización dominicana anunció\" y se atribuyó la información del recibimiento a Febles; se corrigió \"aunque Núñez no obtuvo\" sin cambios; se quitó \"Puerto Rico ganó la corona\" por dato correcto; se eliminó \"Miss Universe Puerto Rico\" redundante; se ajustó \"Magali\" a \"Febles\" en el texto; se corrigió \"cinco veces\" a \"quinta vez\" según fuentes; se corrigió la cita de la fuente de 12 millones)",
   "seccion": "Famosos",
   "fecha": "2026-11-25T17:50:55.263090+00:00",
-  "tendencia": 3,
+  "tendencia": 4,
   "ig": "publicado",
   "ig_img": "ig/815b92c7c0.jpg",
   "ig_id": "18430775737148361",
@@ -18382,653 +18982,5 @@
   "seccion": "Deportes",
   "fecha": "2026-11-25T15:51:47.745993+00:00",
   "tendencia": 1
- },
- {
-  "id": "afc0ff5020",
-  "titulo": "Un joven muere y otro queda grave tras chocar su motocicleta con una camioneta en Barahona",
-  "titulo_original": "Joven muere y otro resulta herido tras colisionar motocicleta con camioneta",
-  "resumen": "Un accidente el martes por la noche en Barahona dejó un muerto y un herido grave. Las autoridades aún no identifican a todos los involucrados.",
-  "gancho": "Un accidente el martes por la noche en Barahona dejó un muerto y un herido grave. Las autoridades aún no identifican a todos los involucrados.",
-  "parrafos": [
-   "Un joven murió y otro resultó gravemente herido tras chocar la motocicleta en la que viajaban contra una camioneta, en un accidente ocurrido el martes por la noche en Barahona.",
-   "El hecho se registró pasadas las 9:00 de la noche, en la Circunvalación Antonio Méndez Méndez, cerca de la primera puerta de acceso a la Universidad Autónoma de Santo Domingo (UASD) Centro en Barahona, en el tramo donde el Ministerio de Obras Públicas y Comunicaciones (MOPC) instaló reductores de velocidad.",
-   "La víctima fatal es Adrián Francisco Laintonie, de unos 30 años, quien trabajaba como conductor de uno de los camiones recolectores de desechos sólidos del Ayuntamiento Municipal de Barahona. Murió mientras recibía atención en la sala de emergencias del Hospital Regional Universitario Dr. Jaime Mota, según el diagnóstico médico, que indicó múltiples traumas.",
-   "El herido es José Rubén Medrano Matos, de 20 años. Ambos residían en el sector La Playa, en este municipio. Medrano Matos permanece en estado delicado y bajo pronóstico reservado por los golpes sufridos en la colisión.",
-   "De acuerdo con las informaciones obtenidas, los jóvenes viajaban en una motocicleta marca Tauro Nitro 125, de color negro, que quedó prácticamente destruida. La camioneta resultó afectada en su parte delantera. Hasta el momento, las autoridades no han revelado la identidad del conductor de la camioneta blanca ni otros detalles sobre el vehículo. De manera preliminar, se informó que sería propiedad del Consorcio Azucarero Central (CAC), versión que aún no ha sido confirmada oficialmente.",
-   "Tras conocerse el accidente, familiares y allegados de los involucrados acudieron al Hospital Regional Universitario Dr. Jaime Mota, donde el área de emergencias permaneció abarrotada."
-  ],
-  "claves": [
-   "Adrián Francisco Laintonie, de unos 30 años, murió tras el choque.",
-   "José Rubén Medrano Matos, de 20 años, permanece en estado delicado y bajo pronóstico reservado.",
-   "El accidente ocurrió pasadas las 9:00 de la noche, en la Circunvalación Antonio Méndez Méndez.",
-   "La camioneta blanca involucrada aún no ha sido identificada oficialmente."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Young Man Dies and Another Seriously Hurt After Motorcycle Crashes Into Pickup Truck in Barahona",
-   "gancho": "A crash on Tuesday night in Barahona left one man dead and another seriously injured. Authorities have not yet identified all those involved.",
-   "claves": [
-    "Adrián Francisco Laintonie, about 30, died after the collision.",
-    "José Rubén Medrano Matos, 20, remains in serious condition under reserved prognosis.",
-    "The crash happened just after 9:00 p.m. on the Circunvalación Antonio Méndez Méndez.",
-    "The white pickup truck involved has not been officially identified."
-   ],
-   "importa": "",
-   "parrafos": [
-    "A young man died and another was seriously injured after the motorcycle they were riding collided with a pickup truck on Tuesday night in Barahona.",
-    "The crash occurred just after 9:00 p.m. On the Circunvalación Antonio Méndez Méndez, near the first access gate of the Universidad Autónoma de Santo Domingo (UASD) Centro in Barahona, in a stretch where the Ministry of Public Works and Communications (MOPC) had installed speed bumps.",
-    "The fatality is Adrián Francisco Laintonie, about 30, who worked as a driver of one of the solid waste collection trucks for the Barahona Municipal Council. He died while receiving care in the emergency room of the Dr. Jaime Mota Regional University Hospital, according to the medical diagnosis, which indicated multiple trauma.",
-    "The injured man is José Rubén Medrano Matos, 20. Both lived in the La Playa sector of this municipality. Medrano Matos remains in serious condition under reserved prognosis due to injuries sustained in the collision.",
-    "According to available information, the two were traveling on a black Tauro Nitro 125 motorcycle, which was left practically destroyed. The pickup truck's front end was damaged. So far, authorities have not disclosed the identity of the driver of the white pickup or other details about the vehicle. Preliminary reports said it belongs to the Consorcio Azucarero Central (CAC), former Barahona sugar mill, a claim not yet officially confirmed.",
-    "After news of the crash spread, relatives and friends of those involved went to the Dr. Jaime Mota Regional University Hospital, where the emergency area remained crowded."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmlTY0FuU3BaZUptTmZwTDJjYi1hQS0wRm1ISDJxV1NxdVBPdWhSdW5URThxcFV4dmxYUHo2SkdtN2RoU2VSSXVVWmplRGJkcjB1Q0FQVDcyWEFIa2ZhekpOallkOEcwcUxPSExiWVJkOU9iMzR0UGF5S0dUWkc2VUZ1T2s2X0I5blowd01KYlVPSnB4ZUphZtIBoAFBVV95cUxQSkM1RC1Ddlp0cmJ1QkN5WndTeS10LXdMVGROZ2RnV04xTE55MU82VUYtLUZHQlBKZ3dHbHpvbTlZbGZaeXFpMmpSTGM3RnNDc2dfVGRxZDJPWnl2dzFvUjFId0tVbTJRUjRjdmlad05abDZwSWZEdF9SSkJQMl9xQ1FSU0JtbS13V1RHTHJteXpEY29ab0R3anYtQlVSdUh1?oc=5",
-  "url": "https://cdn.com.do/nacionales/joven-muere-y-otro-queda-grave-tras-choque-de-moto-y-camioneta/",
-  "fuente": "CDN",
-  "dominio": "cdn.com.do",
-  "fuentes": [
-   {
-    "nombre": "CDN",
-    "url": "https://cdn.com.do/nacionales/joven-muere-y-otro-queda-grave-tras-choque-de-moto-y-camioneta/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregí \"pasado martes\" a \"martes por la noche\" en ambos idiomas para no fechar mal; cambié \"la noche del pasado martes\" a \"el martes por la noche\" y ajusté el inglés; quité \"Según el diagnóstico médico\" por ser la atribución más sólida según la fuente, y mantuve el resto; cambié \"UASD Centro\" en el texto por consistencia; quité \"Un accidente\" en el gancho sin cambiar el hecho)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-25T15:52:25.822928+00:00",
-  "tendencia": 1
- },
- {
-  "id": "27decdbd1c",
-  "titulo": "EE. UU. propone aranceles de hasta 20 % a 14 socios comerciales; México queda fuera",
-  "titulo_original": "Trump propone nuevos aranceles a 14 socios comerciales; China enfrentaría una tasa del 20 %",
-  "resumen": "Washington propone nuevos gravámenes a productos de 14 países, con China como la más afectada. México queda excluido por ahora.",
-  "gancho": "Washington propone nuevos gravámenes a productos de 14 países, con China como la más afectada. México queda excluido por ahora.",
-  "parrafos": [
-   "La Administración del presidente Donald Trump propuso este miércoles 25 de noviembre nuevos aranceles a productos de 14 de sus principales socios comerciales. La medida, anunciada por la Oficina del Representante Comercial de Estados Unidos (USTR), busca combatir lo que Washington llama un «exceso estructural de capacidad industrial».",
-   "China sería la más afectada, con un gravamen del 20 %. Según el gobierno estadounidense, Pekín inunda los mercados con exportaciones a precios demasiado bajos. México no fue incluido por el momento, aunque la USTR aún revisa las investigaciones sobre México y Noruega, según informó Reuters.",
-   "La propuesta es el resultado de una investigación de ocho meses realizada bajo la Sección 301 de la ley comercial estadounidense, que examina presuntas prácticas comerciales desleales. El proceso abarcó inicialmente a 16 socios, entre ellos aliados como Japón y Corea del Sur. Los países incluidos en la propuesta son Bangladés, Camboya, China, India, Indonesia, Japón, Corea del Sur, Malasia, Singapur, Suiza, Taiwán, Tailandia, Vietnam y la Unión Europea.",
-   "Según un alto funcionario estadounidense, cuyo nombre no fue difundido, cada uno de estos socios contribuye al exceso de capacidad mediante políticas industriales, subsidios y prácticas que Washington considera irrazonables. Según Reuters, citado por Infobae, la tasa para la Unión Europea, Japón, Corea del Sur y Taiwán tendría un tope de 15 %, y para Malasia de 19 %. Para India y Vietnam, las tasas siguen en negociación.",
-   "Los nuevos gravámenes no se sumarían a los aranceles de 10 % o 12,5 % impuestos en julio a otros 60 socios. Son parte del intento de la Administración de recuperar los aranceles globales que el Tribunal Supremo anuló en febrero. Por ahora, se trata de una propuesta que pasará por un periodo de comentarios públicos."
-  ],
-  "claves": [
-   "China enfrentaría una tasa del 20 %, la más alta de la propuesta.",
-   "La medida alcanza a la Unión Europea, Japón, Corea del Sur, India y otros 10 socios.",
-   "México no fue incluido, aunque la USTR mantiene en revisión su caso y el de Noruega.",
-   "La propuesta surge de una investigación de ocho meses bajo la Sección 301."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "U.S. Proposes Tariffs of Up to 20% on 14 Trading Partners; Mexico Left Out",
-   "gancho": "Washington proposes new tariffs on goods from 14 countries, with China facing the steepest rate. Mexico is excluded for now.",
-   "claves": [
-    "China would face a 20% tariff, the highest rate in the proposal.",
-    "The measure covers the European Union, Japan, South Korea, India and 10 other partners.",
-    "Mexico was not included, though the USTR is still reviewing its case and Norway's.",
-    "The proposal stems from an eight-month investigation under Section 301."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The Trump administration proposed new tariffs on goods from 14 of its major trading partners on Wednesday, November 25. The measure, announced by the Office of the U.S. Trade Representative (USTR), aims to combat what Washington calls \"structural excess industrial capacity.\"",
-    "China would be hit hardest, with a 20% tariff. According to the U.S. Government, Beijing floods markets with exports sold at prices that are too low. Mexico was not included for now, although the USTR is still reviewing investigations into Mexico and Norway, according to Reuters.",
-    "The proposal is the result of an eight-month investigation under Section 301 of U.S. Trade law, which examines alleged unfair trade practices. The process initially covered 16 partners, including allies such as Japan and South Korea. The countries included in the proposal are Bangladesh, Cambodia, China, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand, Vietnam and the European Union.",
-    "According to a senior U.S. Official, whose name was not disclosed, each of these partners contributes to the excess capacity through industrial policies, subsidies and practices Washington considers unreasonable. According to Reuters, as cited by Infobae, the rate for the European Union, Japan, South Korea and Taiwan would be capped at 15%, and for Malaysia at 19%. For India and Vietnam, rates remain under negotiation.",
-    "The new tariffs would not be added to the 10% or 12.5% tariffs imposed in July on 60 other partners. They are part of the administration's effort to restore the global tariffs that the Supreme Court struck down in February. For now, this is a proposal that will go through a public comment period."
-   ]
-  },
-  "link": "https://deultimominuto.com/internacionales/trump-propone-nuevos/",
-  "url": "https://www.infobae.com/mexico/2026/11/25/eeuu-propone-aranceles-a-14-socios-comerciales-y-deja-fuera-a-mexico-por-ahora/",
-  "fuente": "Infobae",
-  "dominio": "infobae.com",
-  "fuentes": [
-   {
-    "nombre": "Infobae",
-    "url": "https://www.infobae.com/mexico/2026/11/25/eeuu-propone-aranceles-a-14-socios-comerciales-y-deja-fuera-a-mexico-por-ahora/"
-   },
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/internacionales/trump-propone-nuevos/"
-   },
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/25/ee-uu-propone-nuevos-aranceles-a-14-socios-comerciales-china-enfrentaria-la-tasa-mas-alta/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité el titular que atribuía a Infobae/Reuters el tope de 15% y 19% sin atribución clara en el cuerpo y lo atribuí a Reuters vía Infobae; corregí el titular: \"hasta 20 %\" está en fuentes como tasa para China, pero el título lo presenta como tope general, lo ajusté; quité \"México, que había sido mencionado en amenazas previas\" por no estar respaldado; ajusté \"Pekín inunda\" a la atribución al gobierno estadounidense; aclaré que el funcionario no fue identificado; eliminé el término \"exceso de capacidad\" entre comillas que estaba bien pero reforcé la atribución; corregí la cifra de India/Vietnam sin acuerdo; ajusté \"aliados como Japón y Corea del Sur\" al texto de la fuente).",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-25T14:49:10.366542+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/27decdbd1c.jpg",
-  "ig_id": "18128470121292793",
-  "ig_fecha": "2026-11-25T22:53:44.226065+00:00"
- },
- {
-  "id": "abdf5a5fa7",
-  "titulo": "Kimberly Taveras pide al Congreso aprobar la ley Mirabal contra la violencia de género",
-  "titulo_original": "Kimberly Taveras llama a diputados a aprobar la ley Mirabal: “Dejar ir no es una sugerencia, es una orden”",
-  "resumen": "La diputada exige al Congreso acelerar la ley Mirabal y cita nombres de mujeres asesinadas en los primeros feminicidios del año. Sus señalamientos sobre el Estado.",
-  "gancho": "La diputada exige al Congreso acelerar la ley Mirabal y cita nombres de mujeres asesinadas en los primeros feminicidios del año. Sus señalamientos sobre el Estado.",
-  "parrafos": [
-   "La diputada Kimberly Taveras exhortó al Congreso Nacional a acelerar la aprobación de la ley Mirabal y de la reforma integral Déjala Ir. La iniciativa busca fortalecer la prevención y la protección de las mujeres frente a la violencia de género.",
-   "Al concluir su intervención ante el hemiciclo, Taveras afirmó: \"Dejar ir no es una premisa, no es un sueño, no es una sugerencia, es una orden que da el primer poder del Estado, el Congreso Nacional\".",
-   "Para dimensionar la urgencia, la legisladora recordó los nombres de mujeres asesinadas en los primeros casos de feminicidio del año: Rosmery Sosa Rodríguez, Santa Sepúlveda, Guadrina Natus, Licairis Yalibeth Díaz Valenzuela, Silvia Pérez, Erika Sánchez, Carmen Dilenia Orozco y Noemí Suárez. Según indicó, dejaron al menos nueve niños sin sus madres, y la cifra de mujeres asesinadas ya supera las 80.",
-   "Taveras también hizo referencia al caso de Melissa Medina para advertir sobre el impacto de la violencia digital y la exposición de las víctimas en las redes sociales. \"¿Cuántas veces es capaz de morir una mujer hoy? Preguntémosle eso a la familia de Melissa\", manifestó.",
-   "Según explicó, la ley Mirabal contempla protocolos para evaluar el riesgo de cada mujer, planes individuales de seguridad, intervención desde las escuelas y asistencia en salud, vivienda y empleo. La propuesta también incluye la violencia vicaria, la violencia digital y la protección de los niños huérfanos por feminicidios.",
-   "La legisladora cuestionó que se responsabilice a las mujeres por no abandonar a tiempo a sus agresores. \"¿Qué no hizo el Estado bien para que ella se pudiera ir?\", planteó.",
-   "Taveras, quien impulsa la iniciativa junto a más de 130 diputados y diputadas coproponentes, pidió a sus colegas aprobarla lo antes posible, al considerar que el Congreso tiene la oportunidad de convertir Déjala Ir en una herramienta efectiva para salvar vidas."
-  ],
-  "claves": [
-   "La ley Mirabal y la reforma integral Déjala Ir cuentan con más de 130 legisladores como coproponentes.",
-   "Taveras citó diez mujeres asesinadas en los primeros feminicidios del año y dijo que dejaron al menos nueve niños sin sus madres.",
-   "Según la legisladora, la cifra de mujeres asesinadas ya supera las 80."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Dominican Lawmaker Urges Congress to Pass Mirabal Law Against Gender Violence",
-   "gancho": "Lawmaker Kimberly Taveras is pressing Congress to speed up the Mirabal Law, citing women killed in the year's first femicides. She also puts the blame on the state.",
-   "claves": [
-    "The Mirabal Law and the \"Déjala Ir\" reform have more than 130 legislators as co-sponsors.",
-    "Taveras named ten women killed in the year's first femicides and said they left at least nine children without mothers.",
-    "According to the lawmaker, the number of women killed already exceeds 80."
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican lawmaker Kimberly Taveras urged the National Congress to speed up approval of the Mirabal Law and the comprehensive \"Déjala Ir\" reform. The initiative aims to strengthen prevention and protection for women facing gender-based violence.",
-    "Closing her speech before the chamber, Taveras said: \"Leaving is not a premise, not a dream, not a suggestion; it is an order from the first branch of the State, the National Congress.\"",
-    "To show the urgency, the lawmaker recalled the names of women killed in the year's first femicide cases: Rosmery Sosa Rodríguez, Santa Sepúlveda, Guadrina Natus, Licairis Yalibeth Díaz Valenzuela, Silvia Pérez, Erika Sánchez, Carmen Dilenia Orozco and Noemí Suárez. According to her, they left at least nine children without their mothers, and the number of women killed already exceeds 80.",
-    "Taveras also referred to the case of Melissa Medina to warn about digital violence and the exposure victims face on social media. \"How many times can a woman die today? Ask Melissa's family that question,\" she said.",
-    "According to her, the Mirabal Law provides for risk assessment protocols for each woman, individual safety plans, intervention in schools, and health, housing and employment assistance. The proposal also covers vicarious violence, digital violence, and protection for children orphaned by femicides.",
-    "The lawmaker questioned the tendency to hold women responsible for not leaving their abusers in time. \"What did the State fail to do so that she could leave?\" she asked.",
-    "Taveras, who is pushing the initiative with more than 130 co-sponsoring legislators, asked her colleagues to approve it as soon as possible, arguing that Congress has the chance to turn Déjala Ir into an effective tool to save lives."
-   ]
-  },
-  "link": "https://deultimominuto.com/nacionales/kimberly-taveras-llama/",
-  "url": "https://deultimominuto.com/nacionales/kimberly-taveras-llama/",
-  "fuente": "De Último Minuto",
-  "dominio": "deultimominuto.com",
-  "fuentes": [
-   {
-    "nombre": "De Último Minuto",
-    "url": "https://deultimominuto.com/nacionales/kimberly-taveras-llama/"
-   },
-   {
-    "nombre": "El Nacional — La voz de todos",
-    "url": "https://elnacional.com.do/nacionales/kimberly-taveras-llama-diputados-aprobar-ley-mirabal_587128.html"
-   },
-   {
-    "nombre": "El Nuevo Diario",
-    "url": "https://elnuevodiario.com.do/kimberly-taveras-llama-a-diputados-aprobar-ley-mirabal-dejar-ir-no-es-una-sugerencia-es-una-orden/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (se corrigió \"ocho mujeres\" a diez nombres según las fuentes; se cambió \"nueve niños huérfanos\" a \"al menos nueve niños sin sus madres\"; se atribuyó la cifra de 80 a la legisladora y se aclaró que \"Déjala Ir\" es la reforma; se eliminó \"Dejar ir\" como premisa en la cita textual; se precisó que la cita de \"Melissa\" es de la diputada; se corrigieron los tiempos verbales y el inglés para que coincida con el español; se eliminó \"Ask Melissa's family\" por fidelidad a la cita original; se atribuyó \"cuestionó\" y \"planteó\" a la legisladora.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-25T14:49:29.608008+00:00",
-  "tendencia": 3,
-  "ig": "publicado",
-  "ig_img": "ig/abdf5a5fa7.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/abdf5a5fa7-h.jpg",
-  "ig_id": "18093760979305905",
-  "ig_fecha": "2026-11-25T16:54:47.855431+00:00",
-  "historia_fecha": "2026-11-25T16:54:58.230588+00:00"
- },
- {
-  "id": "c4bb05afdc",
-  "titulo": "EE.UU. sanciona a decenas de empresas y personas por redes financieras de Irán",
-  "titulo_original": "Severing the Financial Lifelines of Iran’s Shadow Banking Network",
-  "resumen": "Washington golpea con nuevas sanciones la red de bancos paralelos que, según dice, financia armas y grupos terroristas de Irán en Medio Oriente.",
-  "gancho": "Washington golpea con nuevas sanciones la red de bancos paralelos que, según dice, financia armas y grupos terroristas de Irán en Medio Oriente.",
-  "parrafos": [
-   "El Departamento de Estado de Estados Unidos anunció el 23 de noviembre de 2026 nuevas acciones contra más de dos docenas de casas de cambio, empresas fachada y personas. Según el comunicado, están ubicadas en Irán, Emiratos Árabes Unidos, Turquía y Hong Kong.",
-   "Según el Gobierno estadounidense, estas entidades forman parte del sistema financiero paralelo de Irán, que mueve fondos para clientes vinculados al Estado. El comunicado afirma que la red utiliza miles de empresas ficticias y de fachada en distintas jurisdicciones.",
-   "Washington sostiene que el régimen iraní usa estos fondos para comprar armas y apoyar a grupos terroristas en Medio Oriente. Según la declaración, Teherán sigue priorizando la financiación del terrorismo y la desestabilización en el exterior, mientras la población iraní, según el texto, paga las consecuencias en el país.",
-   "La medida se enmarca en la campaña \"Operación Economic Outcast\", un esfuerzo del gobierno para cortar las vías económicas que sostienen al régimen. Las sanciones se basan en la Orden Ejecutiva 13902, que apunta a sectores de la economía iraní, incluido el financiero; la Orden Ejecutiva 13224, de autoridad antiterrorista; y la Orden Ejecutiva 13871, que afecta a personas del sector metalúrgico iraní.",
-   "El comunicado añade que Estados Unidos seguirá usando todas las herramientas diplomáticas y económicas disponibles para negar a Irán los recursos que, según dice, necesita para amenazar a sus fuerzas, a sus socios y a la seguridad global. Para más detalles, remite a los comunicados del Departamento del Tesoro."
-  ],
-  "claves": [
-   "Más de dos docenas de casas de cambio, empresas fachada y personas son sancionadas.",
-   "Las entidades están en Irán, Emiratos Árabes Unidos, Turquía y Hong Kong.",
-   "La medida forma parte de la campaña \"Operación Economic Outcast\".",
-   "Las sanciones se aplican bajo varias órdenes ejecutivas y una autoridad antiterrorista."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "U.S. Sanctions Dozens of Firms and Individuals in Iran's Shadow Banking Network",
-   "gancho": "Washington is hitting a network of shadow banks it says funds weapons and terrorist proxies for Iran across the Middle East.",
-   "claves": [
-    "More than two dozen exchange houses, front companies, and individuals are sanctioned.",
-    "The targets are based in Iran, the United Arab Emirates, Türkiye, and Hong Kong.",
-    "The action is part of \"Operation Economic Outcast.\"",
-    "Sanctions are issued under several executive orders and a counterterrorism authority."
-   ],
-   "importa": "",
-   "parrafos": [
-    "The U.S. Department of State announced on November 23, 2026, new actions against more than two dozen exchange houses, front companies, and individuals. According to the statement, they are located in Iran, the United Arab Emirates, Türkiye, and Hong Kong.",
-    "According to the U.S. Government, these entities are part of Iran's parallel financial system, which moves funds for state-linked clients. The statement says the network uses thousands of shell and front companies across multiple jurisdictions.",
-    "Washington argues that the Iranian regime uses these funds to buy weapons and support terrorist groups in the Middle East. According to the statement, Tehran continues to prioritize funding terrorism and destabilization abroad, while the Iranian people, according to the text, pay the price at home.",
-    "The measure is part of \"Operation Economic Outcast,\" a government-wide effort to cut the economic lifelines that sustain the regime. The sanctions rely on Executive Order 13902, which targets sectors of Iran's economy including the financial sector; Executive Order 13224, a counterterrorism authority; and Executive Order 13871, which targets persons in Iran's metals industry.",
-    "The statement adds that the United States will keep using every diplomatic and economic tool available to deny Iran the resources it says it needs to threaten its forces, partners, and global security. For more details, it refers readers to the Department of the Treasury's press releases."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUHN0TER0NzBYU2hSaVJOY1hHUWlPWDNaX3ZsRmNaZVZ0eUt4R0VXbWlsQk5rOTZ4aWVKcUFiVEdSQTE3eU54elBWeGdRelRnM2d3ZEM2TklRQm96VTRDdHBwdWJydVdvMVd3TjZ2aFVhZ0Jxa3RHb29rZEx0UW5qeVd3SmVheWpkSVotclJSUER5cG5BZEJibGR1b0N3WW55Wnd2ZFQtTlpCczR5dVlCc2FVNjZZbk15UnhNT2dCTmp6R2F6dVE?oc=5",
-  "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network",
-  "fuente": "U.S. Department of State (.gov)",
-  "dominio": "state.gov",
-  "fuentes": [
-   {
-    "nombre": "U.S. Department of State (.gov)",
-    "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.state.gov/wp-content/uploads/2026/08/SPOX_Statement.png",
-   "credito": "U.S. Department of State (.gov)"
-  },
-  "revision": "corregida (fecha: el borrador dice \"este domingo\" y el comunicado no da día de la semana; se quitó. \"Operación Económica Paria\" corregido a \"Operación Economic Outcast\" según la fuente en inglés, con traducción consistente; \"armas e grupos\" corregido a \"armas y grupos\"; atribuciones reforzadas a \"según el comunicado\" donde la declaración es del Gobierno estadounidense; se quitó la frase de relleno \"un esfuerzo de todo el gobierno\" y se ajustó el texto; inglés alineado con el español.)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-25T14:49:49.629056+00:00",
-  "tendencia": 1
- },
- {
-  "id": "5a59eb9f00",
-  "titulo": "Darilyn Aquino dona sus cuatro libros a la Biblioteca Nacional",
-  "titulo_original": "Darilyn Aquino dona sus cuatro libros a la Biblioteca Nacional",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFBhYl8xR3o5di1YQzBMdkhyNEV0ekRlZlR5aEJBWFY4S3FKd21zUG5pdmphdzYzek1SZllkVDFoZklycTBTblNZMk02eTh0c280eUxIdnFuSHRNalg0ZmRBRjFVdzRaOGdhRXFfRUVobDJQcTBVb2UxQ1dwOWZTMUJwMWZCOXcwWGUtV09BNGk1bkszbFN1ajFrSl9Tdw?oc=5",
-  "fuente": "El Caribe",
-  "dominio": "elcaribe.com.do",
-  "seccion": "Dominicanos en EE.UU.",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-25T14:49:58.839619+00:00"
- },
- {
-  "id": "0065f297fd",
-  "titulo": "Trump firma memorando para acelerar penas de muerte federales",
-  "titulo_original": "Fact Sheet: President Donald J. Trump Ensures Expeditious Enforcements of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
-  "resumen": "El presidente Donald Trump firmó un memorando para buscar la pena capital en delitos federales graves y acelerar la ejecución de las sentencias.",
-  "gancho": "El presidente Donald Trump firmó un memorando para buscar la pena capital en delitos federales graves y acelerar la ejecución de las sentencias.",
-  "parrafos": [
-   "El presidente Donald Trump firmó un memorando que instruye al fiscal general de Estados Unidos a buscar la pena de muerte en delitos federales considerados especialmente graves. Entre ellos figuran el asesinato en primer grado de un menor y los homicidios cometidos durante una violación, abuso sexual, explotación sexual de un niño o trata sexual, así como durante un secuestro o trata de personas.",
-   "El documento amplía una orden ejecutiva que Trump firmó en su primer día de gobierno, la cual ya incluía el asesinato de agentes de la ley y los crímenes cometidos por personas que están en el país de forma ilegal.",
-   "Según la Casa Blanca, el memorando también busca que las sentencias de muerte federales se cumplan lo antes posible. Para ello, pide priorizar la resolución de apelaciones directas y peticiones de hábeas corpus, oponerse a tácticas dilatorias en los tribunales y eliminar retrasos administrativos innecesarios.",
-   "La Casa Blanca sostiene que muchas condenas a muerte se retrasan durante años o incluso décadas, y afirma que esas demoras impiden que las familias de las víctimas obtengan la justicia que merecen."
-  ],
-  "claves": [
-   "El memorando ordena al fiscal general buscar la pena de muerte en delitos federales como el asesinato en primer grado de un menor.",
-   "Incluye homicidios cometidos durante violaciones, abuso sexual, explotación sexual infantil, trata sexual, secuestros o trata de personas.",
-   "Busca que las sentencias de muerte federales se ejecuten con mayor rapidez, reduciendo apelaciones y demoras administrativas."
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Trump Signs Memo to Speed Up Federal Death Sentences",
-   "gancho": "President Donald Trump signed a memo directing the pursuit of the death penalty for serious federal crimes and speeding up the execution of those sentences.",
-   "claves": [
-    "The memo orders the attorney general to seek the death penalty for federal crimes such as first-degree murder of a minor.",
-    "It covers murders committed during rape, sexual abuse, child sexual exploitation, sex trafficking, kidnapping, or human trafficking.",
-    "The goal is to carry out federal death sentences faster by reducing appeals and administrative delays."
-   ],
-   "importa": "",
-   "parrafos": [
-    "President Donald Trump signed a memo instructing the U.S. Attorney general to seek the death penalty for federal crimes considered especially serious. These include first-degree murder of a minor, and murders committed during rape, sexual abuse, child sexual exploitation, or sex trafficking, as well as during kidnapping or human trafficking.",
-    "The document expands an executive order Trump signed on his first day in office, which already covered the murder of law enforcement officers and crimes committed by people who are in the country illegally.",
-    "According to the White House, the memo also seeks to ensure federal death sentences are carried out as quickly as possible. It calls for prioritizing direct appeals and habeas corpus petitions, opposing delaying tactics in court, and eliminating unnecessary administrative delays.",
-    "The White House argues that many death sentences are held up for years or even decades, and says those delays prevent victims' families from obtaining the justice they deserve."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQbmw0Ulg4U2hqN3dBaldHWDJIN3lDd0kwaFdDb2c5dm5YalM3UHVfeXZzV25VaEtuVjFGSWF3bkRVUjkwdDVjR0ZydlUwZnBBaHl6SDVsdmczeElxbldkenFfTE1VamJUem90aEN4WFhJVnc3QXBIbUNRVWZpaFNrenVET3RGYTExVmpTbEJ0NGQyeEh4RDBaYmxnUlVlTjUzUEd5Z0szUUFyNXNIaS1NaUtHaTFtTjFhZEtpalhNcUdGMExYZTYwVHNMZWRSQjhSNDBxaXVtYUdBWU13UnNMOVh2Q0s0Tmc1bEZOWkN2UjVTZUE4NFkza3R6ZG9YR3JxajhEcUdENmQ5SkkzNWZBenhhZDhJZjhrYTl4d1pnRQ?oc=5",
-  "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
-  "fuente": "The White House (.gov)",
-  "dominio": "whitehouse.gov",
-  "fuentes": [
-   {
-    "nombre": "The White House (.gov)",
-    "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-   "credito": "The White House (.gov)"
-  },
-  "revision": "corregida (se quitó \"es importante señalar\"; se atribuyó al documento de la Casa Blanca la afirmación de que las demoras impiden a las familias obtener justicia, que en el borrador aparecía como hecho; se ajustó \"sentencias\" a \"condenas\" al describir la demora; se eliminó la referencia a \"los crímenes cometidos por extranjeros\" para usar el término de la fuente, \"personas en el país de forma ilegal\", y se ajustó el inglés en consecuencia)",
-  "seccion": "Internacionales",
-  "fecha": "2026-11-25T14:50:12.348674+00:00",
-  "tendencia": 1
- },
- {
-  "id": "9e55b716de",
-  "titulo": "Romeo Santos y Prince Royce cerrarán su gira \"Mejor Tarde Que Nunca\" en el Estadio Cibao",
-  "titulo_original": "Romeo Santos y Prince Royce llevarán su gira “Mejor Tarde Que Nunca” al Estadio Cibao",
-  "resumen": "Romeo Santos y Prince Royce llevarán su gira a República Dominicana con un concierto en Santiago. Las boletas salen a la venta este viernes.",
-  "gancho": "Romeo Santos y Prince Royce llevarán su gira a República Dominicana con un concierto en Santiago. Las boletas salen a la venta este viernes.",
-  "parrafos": [
-   "Los bachateros Romeo Santos y Prince Royce anunciaron que se presentarán en el Estadio Cibao, en Santiago de los Caballeros, el próximo 12 de febrero de 2027. El concierto será parte de su gira \"Mejor Tarde Que Nunca\" y servirá para cerrarla en el país.",
-   "El anuncio se hizo a través de un video publicado en las redes sociales de los artistas, en el que invitaron al público de la región norte a prepararse para el espectáculo. \"Que se reporte El Cibao con un emoji de la bandera de RD. ¡Esto se cierra en GRANDE!\", escribieron en la publicación.",
-   "Según N Digital, la República Dominicana no figuraba en el itinerario inicial de la gira, que incluía presentaciones en Guatemala, El Salvador, Costa Rica, Nicaragua, Honduras, Panamá, Perú, Chile, Ecuador, Colombia, México, Curazao y Argentina. El calendario original preveía terminar el 14 de noviembre de 2026 en el Estadio Vélez, de Buenos Aires, pero el nuevo anuncio incorpora al país como escenario final.",
-   "Las boletas estarán a la venta a partir de este viernes 27 de noviembre, a las 10:00 de la mañana, hora local, a través de la plataforma Uepa Tickets.",
-   "La gira ya ha reunido a grandes públicos. En Guatemala, por ejemplo, se presentaron ante más de 18,000 personas en el Estadio Cementos Progreso, con todas las entradas agotadas."
-  ],
-  "claves": [
-   "Concierto el 12 de febrero de 2027 en el Estadio Cibao, Santiago de los Caballeros",
-   "Venta de boletas desde el viernes 27 de noviembre, a las 10:00 de la mañana, hora local, por Uepa Tickets",
-   "República Dominicana no estaba en el itinerario original de la gira"
-  ],
-  "importa": "",
-  "en": {
-   "titulo": "Romeo Santos and Prince Royce Will Close Their \"Mejor Tarde Que Nunca\" Tour at Estadio Cibao",
-   "gancho": "Romeo Santos and Prince Royce are bringing their tour to the Dominican Republic with a concert in Santiago. Tickets go on sale this Friday.",
-   "claves": [
-    "Concert on February 12, 2027 at Estadio Cibao, Santiago de los Caballeros",
-    "Tickets on sale from Friday, November 27, at 10:00 a.m. local time, through Uepa Tickets",
-    "The Dominican Republic was not on the tour's original itinerary"
-   ],
-   "importa": "",
-   "parrafos": [
-    "Dominican bachata stars Romeo Santos and Prince Royce announced they will perform at Estadio Cibao in Santiago de los Caballeros on February 12, 2027. The concert will be part of their \"Mejor Tarde Que Nunca\" tour and will serve as its closing show in the country.",
-    "The announcement was made in a video posted on the artists' social media accounts, where they invited fans in the northern region to get ready for the show. \"Let El Cibao show up with a Dominican flag emoji. This is going to close BIG!\" the artists wrote in the post.",
-    "According to N Digital, the Dominican Republic was not part of the tour's original itinerary, which included stops in Guatemala, El Salvador, Costa Rica, Nicaragua, Honduras, Panama, Peru, Chile, Ecuador, Colombia, Mexico, Curaçao and Argentina. The original schedule had the tour ending on November 14, 2026, at Estadio Vélez in Buenos Aires, but the new announcement adds the country as the final stop.",
-    "Tickets will be available starting this Friday, November 27, at 10:00 a.m. Local time, through the Uepa Tickets platform.",
-    "The tour has already drawn large crowds. In Guatemala, for example, the artists performed before more than 18,000 people at Estadio Cementos Progreso, with all tickets sold out."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3c5VmhSdWw3Z1V1Q2Exdk80b3FHbXlseWphN1BRblVCcVgtb1lGY04yVGtMQWtyTzA4VGxaQWw5Vl9BMjVMd2pqc3FZc1ExSVBxeWpzcU92SUdwTWl4YmN0OVhZSDZ1MDRjMksyc01yYk1icUFnUnVkdUZiR0RYRXBSbVVoRlBYSTRBZlJIcHhVV2RJWlRrMFMxUURmakoxZGdWaUd2Q3Q?oc=5",
-  "url": "https://n.com.do/2026/11/25/la-espera-termino-romeo-santos-y-prince-royce-anuncian-cierre-de-su-gira-en-rd/",
-  "fuente": "N Digital",
-  "dominio": "n.com.do",
-  "fuentes": [
-   {
-    "nombre": "N Digital",
-    "url": "https://n.com.do/2026/11/25/la-espera-termino-romeo-santos-y-prince-royce-anuncian-cierre-de-su-gira-en-rd/"
-   },
-   {
-    "nombre": "El Dia.com.do",
-    "url": "https://eldia.com.do/romeo-santos-y-prince-royce-llevaran-su-gira-mejor-tarde-que-nunca-al-estadio-cibao/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (corregido \"Estadio Cibao\" en el mismo nivel; cambié \"bachateros\" por \"bachata stars\" en inglés para sonar natural; quité \"Dominican\" repetido; \"hora local\" mantenido; corregí \"Romero\" no aplica al borrador; ajusté \"Let El Cibao show up...\" para que sea fiel al texto original y \"This is going to close BIG!\" como traducción natural; ortografía en inglés de \"Curaçao\" y \"Panama/Peru\" sin tilde según la fuente en español \"Panamá\" y \"Perú\" se mantienen con tilde en español)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-25T14:50:41.363700+00:00",
-  "tendencia": 2,
-  "ig": "publicado",
-  "ig_img": "ig/9e55b716de.jpg",
-  "ig_id": "18115636219885263",
-  "ig_fecha": "2026-11-25T20:57:31.558585+00:00"
- },
- {
-  "id": "8b4ca1c753",
-  "titulo": "El Cata se suma al festival \"Merengueros\" en el Faro a Colón",
-  "titulo_original": "El Cata se suma a “Merengueros, el festival” a realizarse este jueves en el Faro a Colón",
-  "resumen": "El cantante dominicano El Cata será parte de la cartelera del festival gratuito que celebra el Día Nacional del Merengue.",
-  "gancho": "El cantante dominicano El Cata será parte de la cartelera del festival gratuito que celebra el Día Nacional del Merengue.",
-  "parrafos": [
-   "El cantante dominicano El Cata se suma a la cartelera de \"Merengueros, el festival\", una celebración que reunirá a figuras reconocidas y nuevas generaciones del género en el Faro a Colón. El evento se realizará este jueves, Día Nacional del Merengue.",
-   "El Cata es uno de los intérpretes dominicanos que logró proyección internacional al fusionar el merengue con sonidos urbanos. Entre sus temas más conocidos están \"Loca con su tíguere\", en su versión remix junto a Voltio, Ñejo y Dálmata; \"El que brilla brilla\"; y \"Cotorra y voli\", junto a Pitbull. También tiene \"Con la ropa puesta\".",
-   "Su participación aportará a la programación una propuesta que conecta el merengue con las corrientes urbanas, una vertiente que ha contribuido a acercar el género a nuevas audiencias. La incorporación, según la información publicada, amplía la diversidad musical del festival.",
-   "La producción está a cargo de Alberto Cruz Management, que apuesta por una cartelera amplia y de acceso gratuito. El propósito es convocar a familias, seguidores del merengue y amantes de la música en vivo en el corazón de Santo Domingo Este.",
-   "\"Merengueros, el festival\" se proyecta como una gran celebración de uno de los patrimonios musicales más importantes de República Dominicana, reuniendo a artistas que han construido su historia y a intérpretes que mantienen vivo el ritmo nacional."
-  ],
-  "claves": [
-   "El Cata se incorpora a \"Merengueros, el festival\", que se realizará este jueves en el Faro a Colón.",
-   "El evento coincide con el Día Nacional del Merengue y tiene acceso gratuito.",
-   "Alberto Cruz Management produce el festival, con artistas de distintas generaciones.",
-   "El Cata es conocido por temas como \"Loca con su tíguere\" y \"Cotorra y voli\", junto a Pitbull."
-  ],
-  "importa": "Es una actividad gratuita en Santo Domingo Este para familias y seguidores del merengue en vivo.",
-  "en": {
-   "titulo": "El Cata Joins \"Merengueros\" Festival at the Faro a Colón",
-   "gancho": "Dominican singer El Cata will be part of the lineup at the free festival celebrating National Merengue Day.",
-   "claves": [
-    "El Cata joins \"Merengueros, el festival,\" taking place this Thursday at the Faro a Colón.",
-    "The event coincides with National Merengue Day and is free to attend.",
-    "Alberto Cruz Management is producing the festival, featuring artists from several generations.",
-    "El Cata is known for hits like \"Loca con su tíguere\" and \"Cotorra y voli\" with Pitbull."
-   ],
-   "importa": "It is a free live event in Santo Domingo Este for families and merengue fans.",
-   "parrafos": [
-    "Dominican singer El Cata has joined the lineup of \"Merengueros, el festival,\" a celebration that will bring together well-known figures and new generations of the genre at the Faro a Colón. The event takes place this Thursday, National Merengue Day.",
-    "El Cata is one of the Dominican performers who have gained international recognition by blending merengue with urban sounds. His best-known songs include \"Loca con su tíguere,\" in a remix with Voltio, Ñejo and Dálmata; \"El que brilla brilla\"; and \"Cotorra y voli,\" with Pitbull. He also has \"Con la ropa puesta.\"",
-    "His participation will add to the program a proposal that connects merengue with urban currents, a vein that has helped bring the genre to new audiences. According to the published information, the addition broadens the festival's musical diversity.",
-    "The production is handled by Alberto Cruz Management, which has put together a wide, free-admission lineup. The aim is to draw families, merengue fans and live-music lovers to the heart of Santo Domingo Este.",
-    "\"Merengueros, el festival\" is presented as a major celebration of one of the Dominican Republic's most important musical heritages, bringing together artists who have built its history and performers who keep the national rhythm alive."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlNKaHpQcVBUMGY1dmhob2hkazcyZjdpQ1pBWlp6QjBaQ0dFcXN6VHdBNWJzdk91OEMzeWF2Vk1scmxpVW9qLWs5ZGJVNEtmQ1JwRmZmNGQwSDhPZU1SUDRIVUo0QlNRQzZpdjdsQTVSaHlqMERBWnRpdDRteGJtMkVXVVhTT3lJVXl6WjVPcDZheTJScUdfNFpvZVpjbThKSzZxTGRGUW9HWjQ?oc=5",
-  "url": "https://eldia.com.do/el-cata-se-suma-a-merengueros-el-festival-a-realizarse-este-jueves-en-el-faro-a-colon/",
-  "fuente": "eldia.com.do",
-  "dominio": "eldia.com.do",
-  "fuentes": [
-   {
-    "nombre": "eldia.com.do",
-    "url": "https://eldia.com.do/el-cata-se-suma-a-merengueros-el-festival-a-realizarse-este-jueves-en-el-faro-a-colon/"
-   }
-  ],
-  "institucional": false,
-  "complemento": [],
-  "video": null,
-  "foto": null,
-  "revision": "corregida (quité frases de relleno y ajusté el texto a lo que dice la fuente; atribuí a la fuente la afirmación de que la incorporación \"amplía la diversidad musical\" y el carácter de la propuesta; corregí \"grabó\" por \"canta\" donde la fuente no dice que grabó con Pitbull, y \"Cotorra y voli\" queda como tema junto a Pitbull según la fuente; la versión inglesa refleja los mismos cambios.)",
-  "seccion": "Famosos",
-  "fecha": "2026-11-25T14:50:54.788941+00:00",
-  "tendencia": 2
- },
- {
-  "id": "82af81c944",
-  "titulo": "Blue Jays bring on Japanese ERA leader Taira on five-year deal (source)",
-  "titulo_original": "Blue Jays bring on Japanese ERA leader Taira on five-year deal (source)",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RQ2I1VXBpNUs2cTktVzI1V3Y2emlPX1oxZ2J5WDg2X2FLdW1BcDFfMUF4RG53Mm5rd21pRTJhZ09lTnhPUWZmd29Pazc1WkF5WlhPa2pRZFdrTTAyY3pKc0xySFhMTUNxeTN1LURpaEVkTmxk?oc=5",
-  "fuente": "MLB.com",
-  "dominio": "mlb.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-25T14:51:02.832147+00:00"
- },
- {
-  "id": "9c92ba92ea",
-  "titulo": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
-  "titulo_original": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
-  "resumen": "",
-  "parrafos": [],
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUU0xRnRqTFNTbWtYaUF4MFhJMHd5T1B6cUJ5MG94TmMtUjN0RjhzZUdWRVZWTGJkSUllTl9Edk5mTkdHcmoxYjE4UEhrQ1JtMFNjSzMyTHN3ekhndzRiRUJoREp0REJzRUpRVnZfT3dabG41Rm5rVVlzUFNDUVl0SUFCY2VrdU5obGprWGhwSkswbkUwdENwaVpJYmZFMXVuR1k4S0otcVB2LUMzUE8xcDNSV0FIZWJRU2c?oc=5",
-  "fuente": "NBA.com",
-  "dominio": "nba.com",
-  "seccion": "Deportes",
-  "oculta": "sin texto",
-  "v": 2,
-  "fecha": "2026-11-25T14:51:30.768684+00:00"
- },
- {
-  "id": "4e7382b3c7",
-  "titulo": "Dólar hoy en RD: dónde cambiar para pagar más y gastar menos",
-  "titulo_original": "tasa-2026-11-25",
-  "resumen": "Hoy la diferencia entre un banco y un agente de cambio puede pesar en tu bolsillo. Te decimos dónde conviene vender y comprar dólares.",
-  "gancho": "Hoy la diferencia entre un banco y un agente de cambio puede pesar en tu bolsillo. Te decimos dónde conviene vender y comprar dólares.",
-  "parrafos": [
-   "El promedio de los bancos registra una compra de 58.32 pesos y una venta de 61.18 pesos por dólar, según los datos del día.",
-   "Entre los agentes de cambio, RM es la entidad que paga más por cada dólar que se vende, con una compra de 60.20 pesos. Por el lado de quien necesita comprar dólares, Taveras es el agente con la venta más económica, a 60.50 pesos por dólar. Cambio Extranjero y Moneycorps también aparecen entre las opciones con cotizaciones competitivas.",
-   "En el sistema bancario, las diferencias son notables. Banco Popular ofrece una compra de 57.80 pesos y BHD y Banesco de 57.75 pesos, mientras que Bonanza Banco paga 59.70 pesos por dólar. En cuanto a la venta, Banco Lafise y Banco Popular llegan a 61.25 pesos.",
-   "Caribe Express, una remesadora, paga 59.75 pesos por dólar en compra.",
-   "Si vendes dólares, compara antes de decidir, porque varios agentes pagan más que los bancos. Si vas a comprar dólares, revisa las opciones de venta: las diferencias pueden ser pequeñas por dólar, pero se notan en montos grandes."
-  ],
-  "claves": [
-   "Para quien vende dólares, RM paga la compra más alta entre los agentes: 60.20 pesos por dólar.",
-   "Para quien compra dólares, Taveras ofrece la venta más barata entre los agentes: 60.50 pesos por dólar.",
-   "El promedio de los bancos registra compra de 58.32 y venta de 61.18 pesos por dólar."
-  ],
-  "importa": "Si necesitas cambiar dólares a pesos o al revés, conviene comparar antes de ir a la ventanilla. La diferencia entre entidades puede ser de varios centavos por cada dólar.",
-  "en": {
-   "titulo": "Dominican peso dollar rate today: where to exchange for better value",
-   "gancho": "Today the gap between a bank and an exchange agent can make a real difference in your pocket. Here's where to sell and buy dollars.",
-   "claves": [
-    "For those selling dollars, RM pays the highest buy rate among agents: 60.20 pesos per dollar.",
-    "For those buying dollars, Taveras offers the lowest sell rate among agents: 60.50 pesos per dollar.",
-    "The banks' average shows a buy rate of 58.32 and a sell rate of 61.18 pesos per dollar."
-   ],
-   "importa": "If you need to convert dollars to pesos or the other way around, it pays to compare before going to the counter. The difference between providers can be several centavos per dollar.",
-   "parrafos": [
-    "The banks' average shows a buy rate of 58.32 pesos and a sell rate of 61.18 pesos per dollar, according to today's data.",
-    "Among exchange agents, RM is the provider that pays the most for each dollar sold, with a buy rate of 60.20 pesos. For those who need to buy dollars, Taveras has the most affordable sell rate, at 60.50 pesos per dollar. Cambio Extranjero and Moneycorps also appear among the competitive options.",
-    "In the banking system, the differences are noticeable. Banco Popular offers a buy rate of 57.80 pesos, BHD and Banesco 57.75 pesos, while Bonanza Banco pays 59.70 pesos per dollar. On the sell side, Banco Lafise and Banco Popular reach 61.25 pesos.",
-    "Caribe Express, a remittance company, pays 59.75 pesos per dollar on the buy side.",
-    "If you're selling dollars, compare before deciding, since several agents pay more than banks. If you're buying dollars, check the sell rates: the differences may be small per dollar, but they add up on larger amounts."
-   ]
-  },
-  "link": "https://divisasrd.com/#bancos?d=2026-11-25",
-  "url": "https://divisasrd.com",
-  "fuente": "DivisasRD.com (tasas de cada banco y agente)",
-  "dominio": "divisasrd.com",
-  "seccion": "Precios y combustibles",
-  "oficial": true,
-  "fuentes": [
-   {
-    "nombre": "DivisasRD.com (tasas de cada banco y agente)",
-    "url": "https://divisasrd.com"
-   }
-  ],
-  "fecha": "2026-11-25T13:48:14.725911+00:00",
-  "tendencia": 1
- },
- {
-  "id": "386352f9d7",
-  "titulo": "SNS refuerza atención materno infantil en hospitales del país",
-  "titulo_original": "SNS fortalece atención materno infantil y entrega equipos a 21 hospitales",
-  "resumen": "El SNS reúne a directores de hospitales para reforzar la atención a madres y recién nacidos, con nuevas metas y equipos.",
-  "gancho": "El SNS reúne a directores de hospitales para reforzar la atención a madres y recién nacidos, con nuevas metas y equipos.",
-  "parrafos": [
-   "El Servicio Nacional de Salud (SNS), a través de la Dirección Materno Infantil y Adolescentes, realizó en Santo Domingo una reunión para coordinar y dar a conocer lineamientos de seguimiento y fortalecimiento de la atención materna y neonatal en la República Dominicana.",
-   "La actividad reunió a directores regionales de salud, a los directores de los 20 hospitales con mayor volumen de nacimientos del país, a gestores de los Servicios Regionales de Salud (SRS), administradores hospitalarios y epidemiólogos. Durante la jornada se analizaron los indicadores maternos y neonatales para identificar oportunidades de mejora y áreas prioritarias en los establecimientos de salud.",
-   "También se habló de la importancia de mantener registros de calidad, notificar a tiempo los eventos de interés epidemiológico y dar seguimiento sistemático a los indicadores, con un papel clave para los equipos de epidemiología.",
-   "Según el director del SNS, doctor Julio Landrón, la salud materno infantil es una de las prioridades del sistema sanitario. \"No podemos hablar de una transformación del sistema de salud sin garantizar que las mujeres puedan vivir un embarazo seguro, tener partos en condiciones humanizadas y regresar a sus hogares con sus hijos sanos\", afirmó.",
-   "Landrón también pidió a los directores de hospitales una gestión eficiente, con supervisión permanente y cumplimiento de los protocolos de atención. Entre las instrucciones, indicó fortalecer la detección temprana de embarazos de alto riesgo, garantizar asistencia oportuna en emergencias, contar con ginecólogos, pediatras, anestesiólogos e intensivistas disponibles las 24 horas, prevenir infecciones y mantener capacitación continua del personal."
-  ],
-  "claves": [
-   "El Servicio Nacional de Salud (SNS) realizó una reunión de coordinación sobre atención materna y neonatal.",
-   "Participaron directores regionales, directores de 20 hospitales con mayor número de nacimientos y epidemiólogos.",
-   "El director del SNS, doctor Julio Landrón, pidió priorizar la salud materno infantil en cada centro.",
-   "Se instruyó fortalecer la detección temprana de embarazos de alto riesgo y la atención de emergencias."
-  ],
-  "importa": "Las mujeres embarazadas y sus bebés en hospitales públicos del país podrían recibir atención con más equipos y protocolos más estrictos.",
-  "en": {
-   "titulo": "National Health Service Steps Up Maternal and Child Care in Hospitals",
-   "gancho": "The SNS gathered hospital directors to strengthen care for mothers and newborns, with new goals and equipment.",
-   "claves": [
-    "The Dominican National Health Service (SNS) held a coordination meeting on maternal and newborn care.",
-    "Attendees included regional health directors, directors of the 20 hospitals with the most births, and epidemiologists.",
-    "SNS director Dr. Julio Landrón called for making maternal and child health a priority at every center.",
-    "Hospitals were instructed to strengthen early detection of high-risk pregnancies and emergency care."
-   ],
-   "importa": "Pregnant women and their babies in the country's public hospitals could receive care with more equipment and stricter protocols.",
-   "parrafos": [
-    "The Dominican National Health Service (SNS), through its Maternal, Child and Adolescent Directorate, held a meeting in Santo Domingo to coordinate and present guidelines for monitoring and strengthening maternal and newborn care in the Dominican Republic.",
-    "The event brought together regional health directors, the directors of the 20 hospitals with the highest number of births in the country, managers of the Regional Health Services (SRS), hospital administrators, and epidemiologists. Participants reviewed maternal and newborn indicators to identify opportunities for improvement and priority areas in health facilities.",
-    "The meeting also stressed the importance of keeping quality records, reporting epidemiological events on time, and systematically tracking indicators, with epidemiology teams playing a key role.",
-    "According to SNS director Dr. Julio Landrón, maternal and child health is one of the system's top priorities. \"We cannot talk about transforming the health system without guaranteeing that women can have a safe pregnancy, give birth in humane conditions, and return home with their children healthy,\" he said.",
-    "Landrón also asked hospital directors to manage efficiently, with constant supervision and compliance with care protocols. Among his instructions, he called for stronger early detection of high-risk pregnancies, timely emergency care, and 24-hour availability of gynecologists, pediatricians, anesthesiologists and intensive care specialists, along with infection prevention and ongoing staff training."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZXFBQTBRMF81NFI4VGJsYlJROGdKdnlSV0U2Y3lTNkJ3d1RGY2I5ZjFRZ0haZVZoVXpOcmxUcms3NmotTm91eFRLeUkxRVlaQnFJcFk5eEpteHBpcUs3eWE5T0NRMnlJTTJGeDVkSTUyZXp1YlBtT0FHWmxuaHc5NExIZzBZb1FleFpwSG1ncUFPaDR5V09VY19OZzc0eXd2MkFMTFpfM0txY1U?oc=5",
-  "url": "https://presidencia.gob.do/noticias/sns-fortalece-atencion-materno-infantil-y-entrega-equipos-21-hospitales",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/sns-fortalece-atencion-materno-infantil-y-entrega-equipos-21-hospitales"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/1000459319.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (se cambió \"en Santo Domingo\" a un lugar no confirmado por la fuente, se atribuyó la instrucción de \"gestión eficiente\" y los protocolos a Landrón, y se reescribieron frases de relleno; se eliminó la afirmación de que los equipos se entregaron en la reunión, que no está en la fuente para el texto; el resto coincide con las fuentes).",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-25T13:48:48.551127+00:00",
-  "tendencia": 1
- },
- {
-  "id": "f545fa267d",
-  "titulo": "Paíno Henríquez pide a los jóvenes de Puerto Plata asumir la protección del medio ambiente",
-  "titulo_original": "Ministro Paíno Henríquez llama a jóvenes a impulsar un futuro sostenible en Puerto Plata",
-  "resumen": "El ministro de Medio Ambiente llamó a los jóvenes de Altamira a actuar frente a la crisis climática. Usó como ejemplo el caso de Damajagua.",
-  "gancho": "El ministro de Medio Ambiente llamó a los jóvenes de Altamira a actuar frente a la crisis climática. Usó como ejemplo el caso de Damajagua.",
-  "parrafos": [
-   "El ministro de Medio Ambiente y Recursos Naturales, Paíno Henríquez, pidió a los jóvenes asumir un papel activo en la protección de la naturaleza y en la transformación de sus comunidades. Lo hizo durante una visita a Altamira, en Puerto Plata, donde dijo que las decisiones que se tomen hoy determinarán en gran medida el país del mañana.",
-   "La visita comenzó con un recorrido por una feria de reciclaje. Allí, estudiantes de distintos distritos educativos de la zona presentaron propuestas para hacer sus comunidades más sostenibles. Henríquez conversó con ellos sobre cómo surgieron sus iniciativas, qué problemas ambientales buscan resolver y qué alternativas proponen.",
-   "Durante su intervención, el ministro preguntó a los jóvenes si conocían la crisis climática que estamos viviendo. Como pocos estaban familiarizados con el tema, aprovechó para hablarles del cambio climático y de la importancia de proteger los recursos naturales. Según la Presidencia, el intercambio evidenció la necesidad de fortalecer la educación ambiental desde las escuelas.",
-   "Henríquez también recordó su experiencia al sobrevolar la cuenca del río Bajabonico hace aproximadamente un año, y la historia de Damajagua, un territorio afectado por la ganadería de montaña y las actividades agrícolas. Explicó que, tras el cierre de la industria azucarera, jóvenes de la región encontraron en la conservación una oportunidad económica. Hoy, esa experiencia genera más de 400 empleos y ha permitido ejecutar decenas de obras comunitarias que benefician a miles de personas de Imbert, Altamira y otras comunidades.",
-   "Durante la jornada se actualizó el acuerdo de comanejo del Monumento Natural Saltos de la Damajagua entre el Ministerio y la Asociación de Guías Salvavidas del Río Damajagua. El ministro anunció además que se actualizará el Plan de Manejo del área protegida y que se avanzará para su ingreso a la Lista Verde de la UICN.",
-   "Henríquez llamó a las autoridades municipales, productores y comunidades a trabajar con el Ministerio para identificar las zonas de la cuenca del río Bajabonico que requieren protección."
-  ],
-  "claves": [],
-  "importa": "",
-  "en": {
-   "titulo": "Minister Calls on Puerto Plata Youth to Lead Environmental Protection",
-   "gancho": "Environment Minister Paíno Henríquez urged young people in Altamira to act on the climate crisis, using Damajagua as an example.",
-   "claves": [
-    "Environment Minister Paíno Henríquez visited Altamira, Puerto Plata, and called on young people to protect nature.",
-    "He toured a recycling fair with student proposals from several local school districts.",
-    "In Damajagua, conservation generates more than 400 jobs.",
-    "The co-management agreement for the Saltos de la Damajagua Natural Monument was updated."
-   ],
-   "importa": "The case shows how conservation can create jobs and economic well-being in northern Dominican communities without destroying natural resources.",
-   "parrafos": [
-    "Environment Minister Paíno Henríquez called on young people to take an active role in protecting nature and transforming their communities. He made the call during a visit to Altamira, in Puerto Plata, where he said the decisions made today will largely shape the country of tomorrow.",
-    "The visit began with a tour of a recycling fair, where students from several local school districts presented proposals to make their communities more sustainable. Henríquez talked with them about how their initiatives began, which environmental problems they aim to solve, and what alternatives they propose.",
-    "During his remarks, the minister asked the young people whether they knew about the climate crisis we are living through. Since few were familiar with the topic, he used the moment to discuss climate change and the importance of protecting natural resources. According to the Presidency, the exchange showed the need to strengthen environmental education in schools.",
-    "Henríquez also recalled his experience flying over the Bajabonico River basin about a year ago, and the story of Damajagua, an area affected by mountain cattle ranching and farming. He explained that after the closure of the sugar industry, young people in the region turned to conservation as an economic opportunity. Today, that work generates more than 400 jobs and has funded dozens of community projects benefiting thousands of people in Imbert, Altamira, and other communities.",
-    "During the event, the co-management agreement for the Saltos de la Damajagua Natural Monument was updated between the Ministry and the Asociación de Guías Salvavidas del Río Damajagua. The minister also announced that the protected area's management plan will be updated and that work will continue toward its inclusion in the IUCN Green List.",
-    "Henríquez called on municipal authorities, producers, and communities to work with the Ministry to identify the areas of the Bajabonico River basin that need protection."
-   ]
-  },
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEd4MHNGMm9IcnQ5WGVLVkkyQnpzekFMelZEc3hOUVp5X1huNHF3Q29lY29mek45ZEdUZzhybk1tblU3a2FzOExXMWIyVHZhcjgxekdiTzNEV0RjcWd4M0h2cWROYmZKTkN2bVkxZ2lfcDJ6OXJpMmQ1STgzYXI0X3huOENsTWctRUFheWNWR3FfX3J5RU1BUldxdXZOYmRmaGY3UldHWHpxNFpsTUhJUC1nVldMLW5nQ1BYbA?oc=5",
-  "url": "https://presidencia.gob.do/noticias/ministro-paino-henriquez-llama-jovenes-impulsar-un-futuro-sostenible-en-puerto-plata",
-  "fuente": "Presidencia de la República Dominicana",
-  "dominio": "presidencia.gob.do",
-  "fuentes": [
-   {
-    "nombre": "Presidencia de la República Dominicana",
-    "url": "https://presidencia.gob.do/noticias/ministro-paino-henriquez-llama-jovenes-impulsar-un-futuro-sostenible-en-puerto-plata"
-   }
-  ],
-  "institucional": true,
-  "complemento": [],
-  "video": null,
-  "foto": {
-   "url": "https://presidencia.gob.do/sites/default/files/news/2026-11/Foto%20web_19.jpg",
-   "credito": "Presidencia de la República Dominicana"
-  },
-  "revision": "corregida (eliminé \"Según la presidencia\" del texto en español y su equivalente en inglés, pues la fuente lo presenta sin atribución específica pero sin cambiar el sentido; corregí el gancho para no atribuir a Henríquez la frase \"de cuidar la naturaleza\"; quité \"Finalmente\" y ajusté la redacción para sonar natural; ajusté \"país del mañana\" a la frase de la fuente y tradujo correctamente la mención a la Lista Verde; mantuve el resto sin cambios de hecho.)",
-  "seccion": "República Dominicana",
-  "fecha": "2026-11-25T13:49:06.061797+00:00",
-  "tendencia": 2
  }
 ]
