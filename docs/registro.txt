@@ -1,38 +1,28 @@
-Corrida: 2026-11-27 04:48 AM (hora RD)
+Corrida: 2026-11-27 05:48 AM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 2051 letras -> https://presidencia.gob.do/noticias/incabide-culmina-con-exito-su-segunda-subasta-publica-de-2026-con-una-venta-de-113-de-198
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Incabide culmina con éxito su segunda subasta pública de 2026, con una venta de 113 de 198 lotes -> cifras que no aparecen en las fuentes: 261
-[República Dominicana] Presidencia de la República Dominicana: texto leído 6517 letras -> https://presidencia.gob.do/noticias/sns-garantiza-asistencia-digna-gratuita-y-confidencial-victimas-de-violencia-de-genero-en
-[República Dominicana] Noticias SIN: texto leído 4807 letras -> https://noticiassin.com/salud/2026/11/26/sns-ofrece-8-unidades-y-20-servicios-para-victimas-de-violencia-de-genero-2177373/
-Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: Noticias SIN
-Revisión: corregida (corregí la atribución de las cifras de la red de salud mental y de 2026, que se dieron como datos del SNS per
 [República Dominicana] centralnoticias.gob.do: texto leído 3017 letras -> https://centralnoticias.gob.do/juan-salazar-presenta-su-libro-50-miradas-por-el-retrovisor-una-recopilacion-de-articulos-que-proyecta-su-trayectoria-periodistica/
-[República Dominicana] El Nuevo Diario: texto leído 2418 letras -> https://elnuevodiario.com.do/juan-salazar-pone-en-circulacion-su-libro-50-miradas-por-el-retrovisor/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
+Fuente oficial encontrada: centralnoticias.gob.do 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Juan Salazar presenta su libro «50 miradas por el retrovisor», una recopilación de artículos que proyecta su trayectoria periodística
-[República Dominicana] En Salud Digital: texto leído 1581 letras -> https://ensaluddigital.gob.do/srs-norcentral-juramenta-nueva-directora-interina-del-hospital-arturo-grullon/
-Fuente oficial encontrada: En Salud Digital 
-Revisión: corregida (se aclaró que la nueva directora es "doctora Alicia Rivas" sin la forma "Dr." en el titular en español; se ma
-[República Dominicana] DGII: texto leído 137 letras -> https://dgii.gov.do/rst/indexrst.aspx
-No se pudo leer el artículo; no se publica para no salir corta: Régimen Simplificado de Tributación (RST)
 [República Dominicana] DGII: texto leído 550 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/menu-de-oficina-virtual-no-me-permite-consultar/6b0846d1e31105f88964d466
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Menu de Oficina Virtual no me permite consultar
 [República Dominicana] DGII: texto leído 504 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/aplicacion-norma-022026-en-pagos-anticipados/6b083c783a9daeeaeac7f0c5
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): APLICACION NORMA 02-2026 EN PAGOS ANTICIPADOS
-[República Dominicana] De Último Minuto: texto leído 5392 letras -> https://deultimominuto.com/estilo/wendy-sierra-es-reconocida/
-[República Dominicana] El Nuevo Diario: texto leído 5010 letras -> https://elnuevodiario.com.do/wendy-sierra-es-reconocida-en-boston-por-su-trayectoria-comunicacional-y-su-lucha-contra-la-violencia-femenina/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Wendy Sierra es reconocida en Boston por su trayectoria comunicacional y su lucha contra la violencia femenina
+[República Dominicana] De Último Minuto: texto leído 1352 letras -> https://deultimominuto.com/peliculas/31604-the-killer-elite
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/tag/jose-del-castillo-savinon/
-No se pudo leer el artículo; no se publica para no salir corta: José del Castillo Saviñón archivos
-[Dominicanos en EE.UU.] centralnoticias.gob.do: texto leído 1504 letras -> https://centralnoticias.gob.do/edmundo-gonzalez-anuncia-su-regreso-a-venezuela-para-la-proxima-semana/
-[Dominicanos en EE.UU.] DW.com: texto leído 1548 letras -> https://www.dw.com/es/edmundo-gonz%C3%A1lez-anuncia-que-regresar%C3%A1-a-venezuela-la-pr%C3%B3xima-semana/a-80069269
-[Dominicanos en EE.UU.] LaSexta: texto leído 2478 letras -> https://www.lasexta.com/noticias/internacional/lider-opositor-edmundo-gonzalez-anuncia-regreso-venezuela-proxima-semana_202611266b085fe7f6da642efefbc239.html
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: LaSexta
-Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: Edmundo González anuncia su regreso a Venezuela para la próxima semana
-Revisión: corregida (se quitó la atribución a "la agencia" que no estaba en la fuente de centralnoticias, se precisó que el régime
+[República Dominicana] www.elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/la-ldf-tendra-este-fin-de-semana-a-sus-dos-finalistas/
+No se pudo leer el artículo; no se publica para no salir corta: La LDF tendrá este fin de semana a sus dos finalistas
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] www.elcaribe.com.do: texto leído 0 letras -> https://www.elcaribe.com.do/deportes/el-boxeo-se-traslado-hasta-monte-plata/
+No se pudo leer el artículo; no se publica para no salir corta: El boxeo se trasladó hasta Monte Plata
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+Es opinión o editorial, se salta: No es protección social, es estafa
+[República Dominicana] Acento: texto leído 2667 letras -> https://acento.com.do/cultura/recomendacion-del-dia-post-y-postear-palabras-validas-9797655.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Recomendación del día: «post» y «postear», palabras válidas
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 3484 letras -> https://www.nhc.noaa.gov/gtwo.php
 Fuente oficial encontrada: NHC (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Graphical Tropical Weather Outlook
@@ -42,22 +32,37 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] Mass.gov: texto leído 1862 letras -> https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country
 Fuente oficial encontrada: Mass.gov 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto es una página de servicio del gobierno de Massachusetts que explica cómo transferir una licencia de conducir extranjera. No describe un hecho noticioso concreto (no hay qué p')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Transfer your driver's license from a foreign country
 No se pudo bajar la página: RemoteDisconnected('Remote end closed connection without response')
 [Dominicanos en EE.UU.] U.S. Department of Education (.gov): texto leído 1183 letras -> https://eric.ed.gov/?q=adhesion&ff1=eduMiddle+Schools
 Fuente oficial encontrada: U.S. Department of Education (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Showing all 2 results Save Export
+Fuente no confiable, se salta: noticiasdecruceros.com
+Fuente no confiable, se salta: elsoldelaflorida.com
 [Dominicanos en EE.UU.] Periódico elDinero: texto leído 1690 letras -> https://eldinero.com.do/390165/marianne-cruz-anuncia-que-dominicanos-a-simple-vista-se-transmitira-por-univision/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Marianne Cruz anuncia que “Dominicanos A Simple Vista” se transmitirá por Univisión
+Fuente no confiable, se salta: proceso.com.do
+Fuente no confiable, se salta: elmundoboston.com
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Dominicanos en EE.UU.] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/gente/wendy-sierra-reconocida-entre-lideres-latinos-en-boston/
+[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 5010 letras -> https://elnuevodiario.com.do/wendy-sierra-es-reconocida-en-boston-por-su-trayectoria-comunicacional-y-su-lucha-contra-la-violencia-femenina/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Wendy Sierra reconocida entre líderes latinos en Boston
 [Internacionales] The White House (.gov): texto leído 6409 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Unleashes Whole-of-Government Effort to Protect America’s Critical Infrastructure
 [Internacionales] The White House (.gov): texto leído 4561 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero esta versión es solo el menú de navegación y la lista de videos de la página de la Casa Blanca (whitehouse.gov). No contiene ninguna noticia concreta: no hay hechos sobre qué pasó, qui')
+Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es una página de índice de videos de whitehouse.gov (la sección "Video Library, Page 2"), no una noticia concreta. Solo contiene menús, enlaces y el título de un video sobre la llegada del')
 [Internacionales] The White House (.gov): texto leído 3368 letras -> https://www.whitehouse.gov/videos/lo-fi-winning-beats-to-pass-the-gravy-to/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es una página de video de la Casa Blanca (The White House, .gov) con un título promocional ("Lo-Fi Winning Beats to Pass the Gravy to") y una lis')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. El único material que me pasaste es una página de The White House (.gov) cuyo contenido es un menú de navegación y una lista de videos con títulos como ')
+[Famosos] CDN: texto leído 3261 letras -> https://cdn.com.do/nacionales/merengue-dominicano-ritmo-e-identidad-cultural-del-pais/
+[Famosos] De Último Minuto: texto leído 4552 letras -> https://deultimominuto.com/estilo/efemerides/dia-nacional-del-merengue/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Merengue: el ritmo que identifica a los dominicanos
+Fuente no confiable, se salta: remolacha.net
+[Famosos] CDN: texto leído 3175 letras -> https://cdn.com.do/nacionales/viernes-negro-mil-policias-y-alerta-por-estafas-en-internet/
+Cambiada de sección: Famosos -> República Dominicana: Policía desplegará mil agentes por Viernes Negro y alerta sobre estafas en internet
+Rechazada por la revisión: Policía desplegará mil agentes por Viernes Negro y alerta sobre estafas en internet -> cifras que no aparecen en las fuentes: 1000
 Es opinión o editorial, se salta: La galería de arte de Funglode y los artistas nacionales
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: savannahnow.com
@@ -66,8 +71,6 @@ Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
-[Famosos] Acento: texto leído 2667 letras -> https://acento.com.do/cultura/recomendacion-del-dia-post-y-postear-palabras-validas-9797655.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Recomendación del día: «post» y «postear», palabras válidas
 [Famosos] Noticias SIN: texto leído 2795 letras -> https://noticiassin.com/economia/2026/11/26/grupo-ghr-entrega-un-hogar-amueblado-y-refuerza-su-compromiso-social-2177524/
 [Famosos] El Nuevo Diario: texto leído 2223 letras -> https://elnuevodiario.com.do/grupo-ghr-mas-de-22-anos-construyendo-hogares-y-comprometidos-con-el-desarrollo-social-de-republica-dominicana/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Grupo GHR: más de 22 años construyendo hogares y comprometidos con el desarrollo social de RD
@@ -77,34 +80,39 @@ Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: elperiodico.com.do
 Fuente no confiable, se salta: elperiodico.com.do
-[Famosos] HOLA: texto leído 2930 letras -> https://www.hola.com/us-es/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): ¡HOLA! Américas: Celebridades, belleza, moda, realeza y más
-[Famosos] HOLA: texto leído 4679 letras -> https://www.hola.com/us-es/tags/martin-fuentes/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Martin Fuentes: Actualidad, moda y belleza
-[Famosos] HOLA: texto leído 6456 letras -> https://www.hola.com/seleccion/20261126937313/juegos-nitendo-switch-comprar-black-friday-ofertas-interesantes/
-Error IA: ValueError('respuesta sin el formato esperado: Según el texto proporcionado, no hay una noticia concreta: se trata de una nota de recomendaciones de compra (guía de ofertas de Black Friday para juegos de Nintendo Switch) publicada por HOLA, con li')
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/adamari-lopez-presume-resultados-tratamiento-bajar-peso-12281527
+No se pudo leer el artículo; no se publica para no salir corta: “Me estoy inyectando... El pantalón se me cae”: Adamari López presume los resultados de su tratamiento para bajar de peso
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] People en Español: texto leído 0 letras -> https://peopleenespanol.com/miss-international-2026-hace-historia-con-una-victoria-inedita-que-sorprende-al-mundo-12281976
+No se pudo leer el artículo; no se publica para no salir corta: Miss International 2026 hace historia con una victoria inédita que sorprende al mundo
 [Deportes] Lidom: texto leído 1731 letras -> https://lidom.com/lidom/lidom-detiene-su-calendario-por-el-dia-de-accion-de-gracias-101640.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): LIDOM detiene su calendario por el Día de Acción de Gracias
 [Deportes] MLB.com: texto leído 2230 letras -> https://www.mlb.com/es/video/abl-live-perth-vs-brisbane-251529
 La IA la descartó (no es noticia, rumor, opinión o publicidad): ABL LIVE: Perth @ Brisbane | 27/11/2026
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/869970/final/wrap
-No se pudo leer el artículo; no se publica para no salir corta: Actualizaciones en vivo de MLB Gameday: Juego de los Tigres contra los Leones el 26/11/2026 gratis
-[Deportes] MLB.com: texto leído 324 letras -> https://www.mlb.com/es/mariners/video/michael-arroyo-from-big-league-dreams-to-reality
-No se pudo leer el artículo; no se publica para no salir corta: Michael Arroyo: From Big-League Dreams to Reality
-[Deportes] MLB.com: texto leído 3505 letras -> https://www.mlb.com/es/news/tiburones-logran-su-tercera-victoria-al-hilo-en-venezuela
-Revisión: corregida (corregí el orden de bateo "4-3" a "4-3" sin cambio, pero eliminé "según informó MLB.com" y "4-for-3" por erro
 [Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/mlb-all-awardless-team-2026
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Presenting the 2026 ... All-Awardless Team!
-Fuente no confiable, se salta: instagram.com
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: ipsnoticias.net
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/things-to-be-thankful-for-from-2026-mlb-season
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)
+[Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
+Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/gameday/guasave-vs-los-mochis/2026/11/26/850391/live
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Guasave at Los Mochis, Probable Pitchers, Lineups, and more
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: teleuniversotv.com
 Fuente no confiable, se salta: cachicha.com
 Fuente no confiable, se salta: agencianova.com
+Fuente no confiable, se salta: instagram.com
+Fuente no confiable, se salta: surtidoreslatam.com
+Fuente no confiable, se salta: ipsnoticias.net
+[Precios y combustibles] CDN: texto leído 2000 letras -> https://cdn.com.do/economicas/el-fmi-propone-reformas-para-preservar-la-estabilidad-macroeconomica/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Estabilidad en un entorno incierto | Jaime Aristy Escuder
+[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado como "VERSIÓN 1" es únicamente el menú de navegación y la portada del sitio oficial de Nintendo (enlaces a tiendas, soporte y categorías de juegos). No contiene u')
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una página de navegación del sitio de Nintendo (menús, enlaces de tienda y soporte) con el titular de un juego, sin ningún hecho noticioso concreto que pueda convertirse ')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo es posible redactar una noticia con los textos proporcionados. La única versión incluida es una página de navegación del sitio oficial de Nintendo (menús, enlaces y categorías de pro')
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 [Videojuegos] Nintendo: texto leído 1843 letras -> https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html
 Fuente oficial encontrada: Nintendo Support, Nintendo 
@@ -123,18 +131,20 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): If your favori
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 1055 letras -> https://www.nintendo.com/es-ar/store/products/idle-breaker-smash-boost-dlc-70050000085294-switch/
-Fuente oficial encontrada: Nintendo 
+[Videojuegos] XBOX: texto leído 687 letras -> https://www.xbox.com/en-AU/games/store/idle-breaker-smash-boost-dlc/9nwjqk2m154t
+Fuente oficial encontrada: Nintendo, XBOX 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Idle Breaker: Smash Boost DLC
 [Videojuegos] Nintendo: texto leído 2202 letras -> https://www.nintendo.com/es-pe/store/products/dragon-dragon-fire-fire-deluxe-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Dragon Dragon Fire Fire Deluxe
-[Videojuegos] Nintendo: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Royal Secret Love: A Crown Between Us Girls
+Error IA: ValueError('respuesta sin el formato esperado: Esta versión es únicamente la ficha de producto de una tienda de videojuegos (Nintendo eShop), es decir, una descripción publicitaria del lanzamiento de un juego, sin noticia concreta ni hechos verifi')
 [Videojuegos] Nintendo: texto leído 3639 letras -> https://www.nintendo.com/es-co/store/products/royal-secret-love-a-crown-between-us-boys-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia. La fuente es la ficha de la tienda de Nintendo de un videojuego de novela visual para adultos con contenido sexual y romántico explícito entre personajes masculinos. Co')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única fuente disponible es la ficha de un videojuego para adultos con contenido sexual explícito entre personajes, y no hay un hecho noticioso verificable')
+[Videojuegos] Nintendo: texto leído 513 letras -> https://www.nintendo.com/es-ar/store/products/legend-of-hand-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Legend of Hand para Nintendo Switch - Sitio Oficial de Nintendo para Argentina
 Instagram: de madrugada no se publica (solo de 7:00 a 23:00, hora RD).
 Marcadores: 28 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-9 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 101 · ya cubiertas: 12 · no confiables: 20 · opinión: 2 · con texto leído: 41 · sin texto: 5 · medios juntados: 2 · con fuente oficial: 23 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 3 · error IA: 6 · descartadas por la IA: 23 · cambiadas de sección: 1 · largas: 4 · ocultas (cortas): 5
+5 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 9 · ya vistas: 106 · ya cubiertas: 15 · no confiables: 25 · opinión: 3 · con texto leído: 39 · sin texto: 6 · medios juntados: 0 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 0 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 0 · error IA: 7 · descartadas por la IA: 25 · cambiadas de sección: 1 · largas: 0 · ocultas (cortas): 5
