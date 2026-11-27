@@ -1,131 +1,99 @@
-Corrida: 2026-11-27 04:48 PM (hora RD)
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió la afirmación de que los agentes ofrecen mejores condiciones a quien v
+Corrida: 2026-11-27 05:48 PM (hora RD)
 No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] Policía Nacional de la República Dominicana: texto leído 0 letras -> https://www.policianacional.gob.do/director-general-de-la-policia-entrega-ayudas-economicas-a-agentes-afectados-por-enfermedades-heridas-en-servicio-y-siniestros/
-No se pudo leer el artículo; no se publica para no salir corta: Director general de la Policía entrega ayudas económicas a agentes afectados por enfermedades, heridas en servicio y siniestros – Inicio
-[República Dominicana] Presidencia de la República Dominicana: texto leído 1759 letras -> https://www.presidencia.gob.do/noticias/gobierno-ha-nombrado-mas-de-10000-enfermeras-y-fortalece-sus-condiciones-laborales
-Fuente oficial encontrada: Presidencia de la República Dominicana 
-Rechazada por la revisión: Gobierno ha nombrado más de 10,000 enfermeras y fortalece sus condiciones laborales -> cifras que no aparecen en las fuentes: 973
-[República Dominicana] Ministerio de Hacienda y Economía: texto leído 2075 letras -> https://www.hacienda.gob.do/mhe-imparte-taller-a-periodistas-sobre-nuevo-indice-de-medicion-de-la-pobreza-multidimensional/
-Fuente oficial encontrada: Ministerio de Hacienda y Economía 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): MHE imparte taller a periodistas sobre nuevo índice de medición de la pobreza multidimensional
+[República Dominicana] centralnoticias.gob.do: texto leído 1894 letras -> https://centralnoticias.gob.do/museo-nacional-de-historia-y-geografia-y-sodem-celebran-el-dia-nacional-del-merengue/
+[República Dominicana] N Digital: texto leído 1738 letras -> https://n.com.do/2026/11/27/sodem-y-museo-de-historia-celebran-el-merengue-con-panel-sobre-sus-raices-y-transformaciones/
+Fuente oficial encontrada: centralnoticias.gob.do | para completar: N Digital
+Revisión: corregida (eliminé la atribución a "Según el MNHG" y "añadió la institución", que no figuran en las fuentes como declara
+[República Dominicana] Presidencia de la República Dominicana: texto leído 5389 letras -> https://presidencia.gob.do/noticias/presidente-luis-abinader-inaugura-primer-proyecto-de-mejoramiento-integral-de-habitat-en
+[República Dominicana] El Nuevo Diario: texto leído 1357 letras -> https://elnuevodiario.com.do/abinader-inaugura-primer-proyecto-de-mejoramiento-habitacional-en-santiago-por-rd307-mm/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (eliminé la frase de confirmación cruzada con El Nuevo Diario en ambos idiomas por ser redundante y no aportar
+[República Dominicana] ARSSeNaSa: texto leído 2531 letras -> https://www.arssenasa.gob.do/index.php/servicios/servicios-regimen-subsidiado-2/solicitud-de-afiliacion-titular-al-regimen-subsidiado/
+Fuente oficial encontrada: ARSSeNaSa 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Solicitud de Afiliación Titular al Régimen Subsidiado (RS)
 [República Dominicana] DGII: texto leído 1409 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/duda-respecto-a-reporte/6b0990b83a9daeeaeae364a7
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Duda respecto a reporte
-[República Dominicana] DGII: texto leído 955 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/descargo-vehiculo-ante-la-dgii/6b0976533a9daeeaeae12d54
+[República Dominicana] DGII: texto leído 2802 letras -> http://dgii.gov.do/noticias/Paginas/DGII-APROCOVICI-abordan-desafios-tributarios-desarrollo-sector-construccion-SD.aspx
 Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Descargo vehiculo ante la DGII
-[República Dominicana] De Último Minuto: texto leído 2337 letras -> https://deultimominuto.com/nacionales/policia-210-agentes-ruta-azul/
-Revisión: corregida (eliminé relleno tipo "cabe destacar", "en definitiva" y similares; ajusté el gancho para que no sea una frase
-[República Dominicana] De Último Minuto: texto leído 4179 letras -> https://deultimominuto.com/nacionales/dominicanos-extranjero-eeuu-8/
-Cambiada de sección: República Dominicana -> Dominicanos en EE.UU.: Estados Unidos es el principal destino de los dominicanos que emigran al extranjero
-Rechazada por la revisión: Estados Unidos es el principal destino de los dominicanos que emigran al extranjero -> RECHAZADA: el borrador tiene un error grave e inmediato: la cifra de dominicanos en EE.UU. aparece como ",265,269" en lugar de 1,265,269 (la fuente dice 1,265,269 en 2024), y además el sección TEXTO e
-[República Dominicana] De Último Minuto: texto leído 1184 letras -> https://deultimominuto.com/deportes/beisbol/leones-y-aguilas-acuerdan-revertir-cambio-de-roddery-munoz-y-victor-robles/
-[República Dominicana] El Nuevo Diario: texto leído 914 letras -> https://elnuevodiario.com.do/leones-y-ac-acuerdan-revertir-cambio-que-involucra-a-munoz-y-robles/
-Cambiada de sección: República Dominicana -> Deportes: Leones y Águilas acuerdan revertir cambio de Roddery Muñoz y Víctor Robles
-Revisión: corregida (se cambió la frase final de la atribución a El Nuevo Diario en el primer párrafo de la sección "Según informó
-[República Dominicana] De Último Minuto: texto leído 3402 letras -> https://deultimominuto.com/economia/francia-entra-en-recesion/
-[República Dominicana] El Mundo: texto leído 3203 letras -> https://www.elmundo.es/economia/2026/11/27/6b09a09021efa02d428b459b.html
-[República Dominicana] La Vanguardia: texto leído 4619 letras -> https://www.lavanguardia.com/economia/20261127/11694757/recesion-francia-pib-tercer-trimestre-2026.html
-Cambiada de sección: República Dominicana -> Internacionales: Francia, la segunda economía de Europa, entra en recesión
-Revisión: corregida (quité "según Diario Libre" y "según La Vanguardia" del texto y de la versión inglesa, porque esos datos apare
+Revisión: corregida (corregida la ortografía "Builners" → "Builders", quitado el "Hook" de tono promocional se mantuvo; ajustadas 
+[Dominicanos en EE.UU.] IDAC - Instituto Dominicano De Aviación Civil: texto leído 484 letras -> https://www.idac.gob.do/
+No se pudo leer el artículo; no se publica para no salir corta: IDAC - Instituto Dominicano De Aviación Civil
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 3511 letras -> https://www.nhc.noaa.gov/gtwo.php
 Fuente oficial encontrada: NHC (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta. Es una página de pronóstico meteorológico del Centro Nacional de Huracanes que, según su propio texto, indica que no se espera formación de ciclo')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto recibido es el boletín de perspectiva de tiempo tropical del Centro Nacional de Huracanes (NHC), que no describe un suceso concreto. Indica únicamente que no se espera la forma')
+[Dominicanos en EE.UU.] USGS (.gov): texto leído 282 letras -> https://earthquake.usgs.gov/earthquakes/eventpage/pr2026331001
+No se pudo leer el artículo; no se publica para no salir corta: M 3.6 - 24 km SSW of Boca de Yuma, Dominican Republic
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] Mass.gov: texto leído 1862 letras -> https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country
 Fuente oficial encontrada: Mass.gov 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Transfer your driver's license from a foreign country
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste texto no es una noticia. Es una página de servicio del Registro de Vehículos de Motor de Massachusetts que explica cómo convertir una licencia de conducir extranjera. No describe u')
 [Dominicanos en EE.UU.] City of Norfolk (.gov): texto leído 2919 letras -> https://www.norfolk.gov/calendar.aspx?view=list&year=2026&month=11&day=19&CID=24,25,73,75,41,143,141,145,142,146,140,147,164
 Fuente oficial encontrada: City of Norfolk (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Norfolk, VA • CivicEngage
-Fuente no confiable, se salta: prensa-latina.cu
-[Dominicanos en EE.UU.] El Nuevo Diario: texto leído 2238 letras -> https://elnuevodiario.com.do/trabajan-para-restablecer-electricidad-en-ny-y-nj-tras-tormenta-que-afecto-a-familias-dominicanas-y-otras-etnias/
-[Dominicanos en EE.UU.] Hoy Digital: texto leído 2432 letras -> https://hoy.com.do/el-mundo/estados-unidos/trabajan-restablecer-electricidad-ny-nj-tormenta_1110177_amp.html
-Revisión: corregida (ajusté "reforzados" a "reforzaron" en fuentes no aplica; en el borrador: corregí "Pensilvania y Connecticut" 
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: elviajero.com.do
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: reddenoticias.online
-Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: wfmz.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/moda-dominicana-oportunidades-y-desafios-para-los-nuevos-talentos/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Moda dominicana: oportunidades y desafíos para los nuevos talentos
-Fuente no confiable, se salta: noticia.do
-[Dominicanos en EE.UU.] De Último Minuto: texto leído 3278 letras -> https://deultimominuto.com/estilo/darilyn-aquino-dona/
-[Dominicanos en EE.UU.] El Dia.com.do: texto leído 802 letras -> https://eldia.com.do/darilyn-aquino-dona-sus-libros-a-biblioteca-nacional/
-Revisión: corregida (quité frases de relleno y ajusté atribuciones; "Según la Biblioteca" se mantiene porque la fuente dice que la
 [Internacionales] The White House (.gov): texto leído 3550 letras -> https://www.whitehouse.gov/videos/president-trump-awards-rudy-giuliani-the-medal-of-freedom/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero el texto que me pasaste es la página de navegación de la Casa Blanca (menús, enlaces y listas de videos) y solo incluye el título "President Trump Awards Rudy Giuliani the Medal of Fre')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, el texto que me pasaste solo contiene la página de navegación de la Casa Blanca (menús, enlaces y títulos de videos), y lo único relacionado con la noticia es el titular "President Trump Aw')
 [Internacionales] The White House (.gov): texto leído 3516 letras -> https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-holiday-calls-to-service-members/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump and the First Lady Participate in Holiday Calls to Service Members
 [Internacionales] The White House (.gov): texto leído 4600 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la versión 1 que me pasaste no contiene una noticia. Es el índice de videos de la página web de la Casa Blanca (whitehouse.gov), con listas de menús, secciones y títulos de videos. No ')
-[Famosos] CDN: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Primera tormenta invernal azotará México con lluvias torrenciales, nevadas y frío
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que me enviaste es la página de videos de la Casa Blanca (whitehouse.gov) con su menú, enlaces y listados de contenido, y no contiene n')
 [Famosos] Diario Libre: texto leído 1603 letras -> https://www.diariolibre.com/revista/musica/2026/11/27/segunda-funcion-de-romeo-santos-y-prince-royce-en-republica-dominicana/3733560
+[Famosos] Acento: texto leído 1135 letras -> https://acento.com.do/espectaculos/romeo-santos-y-prince-royce-anuncian-segunda-funcion-en-santiago-9798125.html
 [Famosos] El Dia.com.do: texto leído 1385 letras -> https://eldia.com.do/romeo-santos-y-prince-royce-logran-sold-out-en-dos-horas-y-anuncian-segunda-funcion-en-santiago/
-[Famosos] CDN: texto leído 1685 letras -> https://cdn.com.do/entretenimiento/romeo-santos-y-prince-royce-anuncian-un-segundo-concierto-en-santiago/
-Rechazada por la revisión: Romeo Santos y Prince Royce anuncian segundo concierto en Santiago -> cifras que no aparecen en las fuentes: 15
-[Famosos] CDN: texto leído 2357 letras -> https://cdn.com.do/internacionales/el-med-emre-sera-remolcado-a-cartagena-con-7-000-t-de-gasoleo/
-[Famosos] El Español: texto leído 6506 letras -> https://www.elespanol.com/espana/20261127/murcia-rechaza-buque-naufrago-ibiza-trasladado-cartagena-exige-sanchez-emplazamiento/1003744475700_0.html
-Cambiada de sección: Famosos -> Internacionales: Buque que naufragó cerca de Ibiza lo remolcarán hasta el puerto de Cartagena
-Revisión: corregida (cambié "Clara Campoamor" a "tugboat Clara Campoamor" sin cambios; principales correcciones: "remolque" → "tow
-Fuente no confiable, se salta: remolacha.net
-[Famosos] CDN: texto leído 1570 letras -> https://cdn.com.do/nacionales/zorrilla-ozuna-respalda-apoyo-dominicano-a-el-salvador-en-haiti/
-Cambiada de sección: Famosos -> República Dominicana: Jorge Zorrilla Ozuna respalda cooperación dominicana con El Salvador en Haití
-Revisión: corregida (eliminé "en otro orden" y "consideró necesario" por sonar a relleno; cambié "Por eso considera importante" a 
-[Famosos] CDN: texto leído 1480 letras -> https://cdn.com.do/nacionales/arrestan-a-mampulo-por-presunto-robo-en-santiago/
-[Famosos] El Nuevo Diario: texto leído 1131 letras -> https://elnuevodiario.com.do/pn-arresta-a-joven-conocido-como-mampulo-por-presunto-robo-en-santiago/
-Cambiada de sección: Famosos -> República Dominicana: PN arresta a "Mampulo" por presuntos robos en Santiago
-Revisión: corregida (se cambió "persiana de cristal" a "forzar una persiana de cristal" sin cambio de sentido; se ajustó "a la ciu
-Es opinión o editorial, se salta: La galería de arte de Funglode y los artistas nacionales
+Revisión: corregida (se corrigió "La primera función...se agotó" sin cambios de fondo; se atribuyó a Gamal Haché y a Diario Libre/
+[Famosos] Noticias SIN: texto leído 5152 letras -> https://noticiassin.com/vida-y-estilo/farandula/2026/11/27/jochy-santos-recibe-estrella-de-bronce-por-50-anos-en-medios-dominicanos-2178207/
+[Famosos] Listín Diario: texto leído 2365 letras -> https://listindiario.com/entretenimiento/tv/20261127/jochy-santos-recibe-estrella-bulevar-estrellas_931750.html
+Revisión: corregida (eliminé "de la radio y la televisión" repetido en el gancho y en el texto donde no aplicaba, quité "Esto fue 
 [Deportes] Lidom: texto leído 1731 letras -> https://lidom.com/lidom/lidom-detiene-su-calendario-por-el-dia-de-accion-de-gracias-101640.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): LIDOM detiene su calendario por el Día de Acción de Gracias
-[Deportes] Lidom: texto leído 1981 letras -> https://lidom.com/tigres-del-licey/triston-casas-regresa-al-licey-tras-experiencia-en-grandes-ligas-101679.html
-[Deportes] N Digital: texto leído 2731 letras -> https://n.com.do/2026/11/27/triston-casas-regresa-tigres-licey-temporada-2026-2027/
-[Deportes] El Nuevo Diario: texto leído 2360 letras -> https://elnuevodiario.com.do/triston-casas-vuelve-a-vestirse-de-azul-como-refuerzo-del-licey/
-Revisión: corregida (corregí "9-2" a "2 de 9" en español y en inglés, porque el borrador invertía el orden de hits y turnos; quité
-[Deportes] Lidom: texto leído 1888 letras -> https://lidom.com/estrellas-orientales/jimmy-endersby-llega-para-reforzar-la-rotacion-de-las-estrellas-101676.html
-Revisión: corregida (corregí "Estrellas Orientales" no cambió; ajusté "Las Estrellas" → se mantiene; cambié "Asociación Americana"
-[Precios y combustibles] ProConsumidor.gob.do: texto leído 834 letras -> https://proconsumidor.gob.do/
-[Precios y combustibles] centralnoticias.gob.do: texto leído 3056 letras -> https://centralnoticias.gob.do/pro-consumidor-moviliza-mas-de-100-inspectores-por-viernes-negro/
-Fuente oficial encontrada: ProConsumidor.gob.do, centralnoticias.gob.do 
-Revisión: corregida (se ajustó "salario mínimo menor" a "salario mínimo" en el texto en inglés y en la frase de sanciones; se corr
+[Deportes] Lidom: texto leído 3099 letras -> https://lidom.com/lidom/esmil-rogers-sera-el-jugador-170-que-vestira-los-uniformes-de-licey-y-aguilas-101664.html
+Revisión: corregida (corregí que Rogers "se convertirá" y cifras según fuentes; quité atribución a Lidom de datos que no dijo; cor
+[Deportes] MLB.com: texto leído 302 letras -> https://www.mlb.com/es/video/11-27-26-det-cbj-game-replay-dsn-vod-251342
+No se pudo leer el artículo; no se publica para no salir corta: 11/27/26: DET@CBJ Game Replay | 27/11/2026
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/amp/news/el-equipo-todos-estrellas-sin-premios.html
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasaste es un artículo de MLB.com de tipo opinión/ranking, un "equipo imaginario" de jugadores que, según el propio medio, "merecían" premios que no ganaron. Es una colu')
+[Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/es/news/los-ultimos-rumores-y-noticias-del-receso-de-temporada-2026-27
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Los últimos rumores y noticias del receso de temporada 2026-27
+[Deportes] MLB.com: texto leído 1596 letras -> https://www.mlb.com/news/henry-davis-traded-to-d-backs-for-tim-tawa
+Revisión: corregida (corregido "Gabriel Moreno... ganó el título de bateo" ya estaba bien; ajusté "Aun así" a "Sin embargo"; quita
+Fuente no confiable, se salta: elatlantico.do
+[Precios y combustibles] Acento: texto leído 5022 letras -> https://acento.com.do/economia/teoria-del-gran-hombre-de-nvidia-tiene-fallas-9797725.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): «Teoría del gran hombre» de Nvidia tiene fallas
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/economia/alberto-de-la-fuente-llegara-a-rd-para-encabezar-reset-27-en-diciembre/
+No se pudo leer el artículo; no se publica para no salir corta: Alberto de la Fuente llegará a RD para encabezar RESET 27 en diciembre
+[Precios y combustibles] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/inflacion-tasa-de-interes-y-expectativas-2027/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Inflación, tasa de interés y expectativas 2027
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no contiene una noticia concreta. El texto que se pasó es principalmente navegación del sitio web de Nintendo (menús, enlaces de tienda y soporte) y no describe ningún hecho')
-[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
-Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta. El texto es la portada y el menú de navegación de la tienda de Nintendo (páginas de compra, soporte y categorías de productos) y no describe ning')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que se me envió es únicamente la navegación y el menú del sitio oficial de Nintendo, sin contenido de una noticia. Solo aparece el titular "REANIMAL: Red Flags for Nintendo Swi')
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 [Videojuegos] Nintendo: texto leído 1843 letras -> https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html
 Fuente oficial encontrada: Nintendo Support, Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): How to Update The Legend of Zelda: Ocarina of Time
-[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/features/pokemon-tcg-building-and-playing-iron-thorns-ex-with-mega-evolution-delta-reign
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokémon TCG: Building and Playing Iron Thorns ex with Mega Evolution—Delta Reign
+[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nLo que recibí es la portada de la tienda de Nintendo, con menús de navegación, categorías de productos y enlaces de soporte, pero sin ninguna noticia concreta. Ni hechos, ni fuentes, ni')
 [Videojuegos] Pokemon.com: texto leído 6314 letras -> https://www.pokemon.com/us/news/quick-attack-top-moments-from-the-2027-latin-america-international-championships
 Fuente oficial encontrada: Pokemon.com 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna\n\nEste texto no corresponde a una noticia concreta. Es una columna de momentos destacados (highlights) publicada en Pokemon.com sobre los campeonatos de Latinoamérica de ')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna\n\nMotivo: el texto proporcionado es una columna de resumen de momentos destacados del torneo publicada en Pokemon.com, sin una noticia concreta de interés periodístico. A')
 [Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/uk/play-pokemon/internationals/2027/latin-america/pokemon-go-results
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon GO Latin America International Championships Event Results
-[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/vgc-senior
+[Videojuegos] Pokemon.com: texto leído 2732 letras -> https://community.pokemon.com/en-us/
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon Latin America International Championships VGC Senior Division
-[Videojuegos] Pokemon.com: texto leído 804 letras -> https://community.pokemon.com/en-us/discussion/27064/pokemon-for-your-favorite-character
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon for your favorite character!
-[Videojuegos] Pokemon.com: texto leído 604 letras -> https://community.pokemon.com/en-us/discussion/27060/please-make-a-way-to-recall-pokemon-from-gyms
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Please make a way to recall pokemon from gyms.
-[Videojuegos] Pokemon.com: texto leído 929 letras -> https://community.pokemon.com/en-us/discussion/27059/when-talonflame-ex-is-put-into-play-while-risky-ruins-is-in-play-it-doesnt-receive-20-dmg
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): When Talonflame ex is put into play while Risky Ruins is in play, it doesn't receive 20 dmg
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokémon Community Forums — Pokémon Forums
 [Videojuegos] Nintendo: texto leído 2010 letras -> https://www.nintendo.com/es-cl/store/products/bowling-fever-essentials-edtion-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Bowling Fever Essentials Edtion
@@ -141,11 +109,20 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): REANIMAL: Red Flags para Nintendo Switch 2
 [Videojuegos] Nintendo: texto leído 3639 letras -> https://www.nintendo.com/es-co/store/products/royal-secret-love-a-crown-between-us-boys-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única versión que me pasaste es la ficha de un videojuego para adultos en Nintendo eShop, una descripción de producto y no un hecho periodístico. Además, ')
-Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 2.
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Royal Secret Love: A Crown Between Us Boys
+[Videojuegos] Nintendo: texto leído 2532 letras -> https://www.nintendo.com/es-cl/store/products/the-last-table-before-closing-switch/
+Fuente oficial encontrada: Nintendo 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): The Last Table Before Closing
+[Videojuegos] Nintendo: texto leído 1932 letras -> https://www.nintendo.com/es-mx/store/products/night-ops-modern-assault-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. El material que me pasaste es únicamente una ficha de producto de Nintendo (una descripción de un videojuego en la tienda de Nintendo Switch), no una no')
+[Videojuegos] Nintendo: texto leído 2861 letras -> https://www.nintendo.com/es-ar/store/products/arcade-archives-2-dirt-dash-switch-2/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia para Al Día RD porque el material que me enviaste es solo la ficha de tienda de un videojuego (la página de Nintendo eShop para "Arcade Archives 2 DIRT DASH")')
+Instagram: 32 usadas en 24 horas, quedan 10; esta corrida sube hasta 2.
 Marcadores: 28 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-13 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 45 · ya cubiertas: 14 · no confiables: 8 · opinión: 1 · con texto leído: 54 · sin texto: 2 · medios juntados: 10 · con fuente oficial: 26 · aprobadas por la revisión: 0 · corregidas por la revisión: 11 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 7 · descartadas por la IA: 19 · cambiadas de sección: 6 · largas: 11 · ocultas (cortas): 2
-Para Instagram (tendencia 3): Policía incorpora 210 agentes a la segunda etapa de la Ruta Azul
-Para Instagram (tendencia 3): Triston Casas regresa al béisbol dominicano para reforzar al Licey
+11 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 52 · ya cubiertas: 12 · no confiables: 7 · opinión: 0 · con texto leído: 42 · sin texto: 4 · medios juntados: 5 · con fuente oficial: 25 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 0 · con video: 0 · con foto oficial: 2 · error IA: 10 · descartadas por la IA: 18 · cambiadas de sección: 0 · largas: 7 · ocultas (cortas): 4
+Para Instagram (tendencia 3): Abinader inaugura en Santiago proyecto de mejoramiento de hábitat que beneficia a 2,000 familias
+Para Instagram (tendencia 3): Romeo Santos y Prince Royce añaden segunda fecha en Santiago tras agotar la primera
