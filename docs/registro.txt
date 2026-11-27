@@ -1,59 +1,82 @@
-Corrida: 2026-11-27 08:48 AM (hora RD)
-[República Dominicana] centralnoticias.gob.do: texto leído 3017 letras -> https://centralnoticias.gob.do/juan-salazar-presenta-su-libro-50-miradas-por-el-retrovisor-una-recopilacion-de-articulos-que-proyecta-su-trayectoria-periodistica/
-[República Dominicana] El Nuevo Diario: texto leído 2418 letras -> https://elnuevodiario.com.do/juan-salazar-pone-en-circulacion-su-libro-50-miradas-por-el-retrovisor/
-Fuente oficial encontrada: centralnoticias.gob.do | para completar: El Nuevo Diario
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Juan Salazar presenta su libro «50 miradas por el retrovisor», una recopilación de artículos que proyecta su trayectoria periodística
+Corrida: 2026-11-27 09:48 AM (hora RD)
+No se pudo hacer la noticia de nota_tasa: Rechazada('cifras que no aparecen en las fuentes: 6000')
+[República Dominicana] Presidencia de la República Dominicana: texto leído 4098 letras -> https://presidencia.gob.do/noticias/mirex-e-inesdyc-graduan-62-profesionales-en-diplomacia-y-servicio-consular-y-en-diplomacia
+[República Dominicana] El Nuevo Diario: texto leído 981 letras -> https://elnuevodiario.com.do/mirex-e-inesdic-graduan-a-62-profesionales-en-diplomacia-servicio-consular-y-diplomacia-comercial/
+Fuente oficial encontrada: Presidencia de la República Dominicana | para completar: El Nuevo Diario
+Revisión: corregida (corregí "Dominican Diplomatic Institute" por "Inesdyc" en el título en inglés para mantener la sigla oficial;
+[República Dominicana] Ministerio de Educación de la República Dominicana: texto leído 761 letras -> https://www.ministeriodeeducacion.gob.do/
+Fuente oficial encontrada: Ministerio de Educación de la República Dominicana 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ministerio de Educación de la República Dominicana
+[República Dominicana] DGII: texto leído 1235 letras -> https://ayuda.dgii.gov.do/conversations/registro-nacional-de-contribuyentes-rnc/ca3755-qu-es-el-beneficiario-final/6b089d813a9daeeaeacf557f
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): CA3755 ¿Qué es el Beneficiario Final?
+[República Dominicana] DGII: texto leído 983 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/saldo-a-favor-isr-ir3/6b08887b0626c86dce93d9ba
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): SALDO A FAVOR ISR - IR3
 [República Dominicana] DGII: texto leído 550 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/menu-de-oficina-virtual-no-me-permite-consultar/6b0846d1e31105f88964d466
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Menu de Oficina Virtual no me permite consultar
-[República Dominicana] DGII: texto leído 504 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/aplicacion-norma-022026-en-pagos-anticipados/6b083c783a9daeeaeac7f0c5
-Fuente oficial encontrada: DGII 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): APLICACION NORMA 02-2026 EN PAGOS ANTICIPADOS
-[República Dominicana] De Último Minuto: texto leído 2194 letras -> https://deultimominuto.com/nacionales/colombiana-pide-justicia/
-Revisión: corregida (se corrigió "ubicado en" y "pide justicia" se ajustó al tono de la fuente; se quitó "tras un altercado" del g
-[República Dominicana] De Último Minuto: texto leído 2535 letras -> https://deultimominuto.com/deportes/boxeo-dominicano-reconoce/
-[República Dominicana] El Nuevo Diario: texto leído 2277 letras -> https://elnuevodiario.com.do/boxeo-dominicano-reconoce-a-victor-pichardo-en-monte-plata-y-le-dedica-torneo/
-Cambiada de sección: República Dominicana -> Deportes: Boxeo dominicano reconoce a Víctor Pichardo en Monte Plata y le dedica torneo
-Revisión: corregida (el borrador atribuía a Pichardo y al torneo frases correctas; corregí el título y el gancho para que el recon
-[República Dominicana] De Último Minuto: texto leído 3886 letras -> https://deultimominuto.com/nacionales/feda-apuesta-al-agroturismo/
-Revisión: corregida (se corrigió "sureña del país" a "en el sur del país" y se ajustó la frase de "Clúster Turístico"; se eliminó 
-[República Dominicana] De Último Minuto: texto leído 6928 letras -> https://deultimominuto.com/entretenimiento/banreservas-santiago-aniversario/
-Revisión: corregida (eliminé "según la información disponible" y "Ciudad Corazón" entre comillas sin atribución; quité "acceso gra
+[República Dominicana] De Último Minuto: texto leído 2289 letras -> https://deultimominuto.com/nacionales/cabuya-muerte-operativo-los-mina/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Reportan muerte de alias «Cabuya» durante intervención policial en Los Mina
+[República Dominicana] De Último Minuto: texto leído 2071 letras -> https://deultimominuto.com/internacionales/mas-de-300-denuncias/
+[República Dominicana] www.abc.com.py: texto leído 1489 letras -> https://www.abc.com.py/internacionales/2026/11/27/mas-de-300-denuncias-de-fraude-en-selectividad-surcoreana-tras-recompensas-de-68500-euros/?outputType=amp
+Cambiada de sección: República Dominicana -> Internacionales: Más de 300 denuncias de fraude en la selectividad surcoreana tras recompensas de 68.500 euros
+Rechazada por la revisión: Más de 300 denuncias de fraude en la selectividad surcoreana tras recompensas de 68.500 euros -> cifras que no aparecen en las fuentes: 100
+[República Dominicana] De Último Minuto: texto leído 3452 letras -> https://deultimominuto.com/internacionales/taiwan-insta-a-espana/
+[República Dominicana] Infobae: texto leído 0 letras -> sin enlace
+Cambiada de sección: República Dominicana -> Internacionales: Taiwán insta a España a «corregir» su postura respecto a la isla para «normalizar» lazos
+Revisión: corregida (corregí "canciller" a "ministro de Asuntos Exteriores" en el título y gancho del borrador, quité "que no hay 
+[República Dominicana] De Último Minuto: texto leído 2263 letras -> https://deultimominuto.com/internacionales/zelenski-defiende-el-ataque/
+[República Dominicana] BioBioChile: texto leído 1934 letras -> https://www.biobiochile.cl/noticias/internacional/europa/2026/11/27/zelenski-defiende-ataque-a-buques-rusos-en-libia-pese-a-las-advertencias-de-berlin-y-roma.shtml
+Cambiada de sección: República Dominicana -> Internacionales: Zelenski defiende el ataque a buques rusos en Libia pese a las advertencias de Berlín y Roma
+Revisión: corregida (el titular cambió "con drones" por "con drones navales" no; se ajustó el titular para decir "ataque a buques 
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 2895 letras -> https://www.nhc.noaa.gov/gtwo.php
 Fuente oficial encontrada: NHC (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEste material no es una noticia concreta: es la página de pronóstico del Centro Nacional de Huracanes (NHC) de NOAA, con los boletines de perspectiva tropical del 27 de noviembre de 202')
-[Dominicanos en EE.UU.] U.S. Department of State (.gov): texto leído 2358 letras -> https://www.state.gov/releases/bureau-of-political-military-affairs/2026/11/ukraine-f-16-aircraft-sustainment
-Fuente oficial encontrada: U.S. Department of State (.gov) 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ukraine – F-16 Aircraft Sustainment
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Graphical Tropical Weather Outlook
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Dominicanos en EE.UU.] Mass.gov: texto leído 1862 letras -> https://www.mass.gov/how-to/transfer-your-drivers-license-from-a-foreign-country
 Fuente oficial encontrada: Mass.gov 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta: es una página de servicio informativo del Registro de Vehículos de Motor de Massachusetts que explica cómo convertir una licencia de conducir ext')
-No se pudo bajar la página: RemoteDisconnected('Remote end closed connection without response')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Transfer your driver's license from a foreign country
 [Dominicanos en EE.UU.] U.S. Department of Education (.gov): texto leído 1183 letras -> https://eric.ed.gov/?q=adhesion&ff1=eduMiddle+Schools
 Fuente oficial encontrada: U.S. Department of Education (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Showing all 2 results Save Export
+[Dominicanos en EE.UU.] City of Norfolk (.gov): texto leído 2919 letras -> https://www.norfolk.gov/calendar.aspx?view=list&year=2026&month=11&day=19&CID=24,25,73,75,41,143,141,145,142,146,140,147,164
+Fuente oficial encontrada: City of Norfolk (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Norfolk, VA • CivicEngage
 Fuente no confiable, se salta: prensa-latina.cu
-[Dominicanos en EE.UU.] Infobae: texto leído 5898 letras -> https://www.infobae.com/america/agencias/2026/11/27/agenda-informativa-multisoporte-america-para-el-viernes-27-de-noviembre-de-2026/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Agenda informativa multisoporte América para el viernes 27 de noviembre de 2026
 [Dominicanos en EE.UU.] Periódico elDinero: texto leído 1690 letras -> https://eldinero.com.do/390165/marianne-cruz-anuncia-que-dominicanos-a-simple-vista-se-transmitira-por-univision/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Marianne Cruz anuncia que “Dominicanos A Simple Vista” se transmitirá por Univisión
+Fuente no confiable, se salta: argentina.ladevi.info
+Fuente no confiable, se salta: robertocavada.com
+Fuente no confiable, se salta: cubadebate.cu
+Fuente no confiable, se salta: primicias.net
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: reddenoticias.online
+Fuente no confiable, se salta: remolacha.net
+Fuente no confiable, se salta: remolacha.net
+[Dominicanos en EE.UU.] De Último Minuto: texto leído 1901 letras -> https://deultimominuto.com/internacionales/nueva-york-y-nueva-jersey/un-cafe-con-abel-nueva-york/
+Cambiada de sección: Dominicanos en EE.UU. -> República Dominicana: Un Café con Abel llega a Nueva York
+Revisión: corregida (quité "Según el reporte de De Último Minuto" del párrafo para no atribuir a De Último Minuto cosas que ya est
 [Internacionales] The White House (.gov): texto leído 6409 letras -> https://www.whitehouse.gov/releases/2026/11/president-trump-unleashes-whole-of-government-effort-to-protect-americas-critical-infrastructure/
 Fuente oficial encontrada: The White House (.gov) 
 No encaja en ninguna sección, se salta: President Trump Unleashes Whole-of-Government Effort to Protect America’s Critical Infrastructure
-[Internacionales] The White House (.gov): texto leído 4600 letras -> https://www.whitehouse.gov/videos/page/2/
+[Internacionales] The White House (.gov): texto leído 4561 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: No puedo escribir esta noticia: la única versión que me pasaste es la página de videos de la Casa Blanca (whitehouse.gov) con su menú de navegación y una lista de títulos, sin un hecho concreto que cu')
+Error IA: ValueError('respuesta sin el formato esperado: Esta versión no contiene una noticia concreta: es una página de navegación del sitio whitehouse.gov (listado de videos, menús y categorías). El único contenido con sustancia es el título de un video d')
 [Internacionales] The White House (.gov): texto leído 3368 letras -> https://www.whitehouse.gov/videos/lo-fi-winning-beats-to-pass-the-gravy-to/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única fuente disponible es una página de video de The White House (.gov) cuyo contenido es un listado de menús de navegación y títulos de videos, sin')
-[Famosos] Diario Libre: texto leído 1566 letras -> https://www.diariolibre.com/revista/cine/2026/11/27/estrenos-de-cine-nueva-cartelera-con-peliculas-dominicanas/3732726
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Nuevas historias conquistan la gran pantalla
-[Famosos] El Nacional — La voz de todos: texto leído 2167 letras -> https://elnacional.com.do/fama-y-vida/villa-navidad-2026-abre-con-luces-y-juegos-para-la-familia_587319.html
-[Famosos] Diario Libre: texto leído 2787 letras -> https://www.diariolibre.com/actualidad/ciudad/2026/11/26/familias-disfrutan-de-juegos-y-luces-en-villa-navidad/3732962
-[Famosos] ABC: texto leído 665 letras -> https://www.abc.es/sociedad/villa-navidad-santo-domingo-inaugura-luces-conciertos-20261127032113-nt_amp.html
-Cambiada de sección: Famosos -> República Dominicana: Villa Navidad 2026 abre con luces y juegos para la familia
-Revisión: corregida (corregido "Santo Domingo's Mayor" → "Santo Domingo's Mayor" se mantiene; cambié "Villa Navidad 2026 ya está a
+Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia. El único texto que me pasas es la página de navegación de whitehouse.gov con el título de un video, "Lo-Fi Winning Beats to Pass the Gravy to", fechado el 26 de noviemb')
+Fuente no confiable, se salta: remolacha.net
+[Famosos] CDN: texto leído 3261 letras -> https://cdn.com.do/nacionales/merengue-dominicano-ritmo-e-identidad-cultural-del-pais/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Merengue: el ritmo que identifica a los dominicanos
+[Famosos] CDN: texto leído 3175 letras -> https://cdn.com.do/nacionales/viernes-negro-mil-policias-y-alerta-por-estafas-en-internet/
+Cambiada de sección: Famosos -> República Dominicana: Policía desplegará mil agentes por Viernes Negro y alerta sobre estafas en internet
+Rechazada por la revisión: Policía desplegará mil agentes por Viernes Negro y alerta sobre estafas en internet -> cifras que no aparecen en las fuentes: 1000
+[Famosos] CDN: texto leído 2206 letras -> https://cdn.com.do/nacionales/abinader-dara-el-primer-picazo-de-la-autopista-del-ambar/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Famosos] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/panorama/pais/abinader-encabezara-primer-picazo-de-la-autopista-del-ambar-el-proximo-lunes/
+Cambiada de sección: Famosos -> República Dominicana: Abinader dará el primer picazo de la Autopista del Ámbar el próximo lunes
+Revisión: corregida (se corrigió "Presidencia" a "Presidencia de la República"? No: se ajustó "Dirección de Operaciones de la Pres
 Es opinión o editorial, se salta: La galería de arte de Funglode y los artistas nacionales
 Fuente no confiable, se salta: masvip.com.do
 Fuente no confiable, se salta: savannahnow.com
@@ -65,47 +88,42 @@ Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: televicentro.com
+Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: telemetro.com
 Fuente no confiable, se salta: noticentro.com.do
 Fuente no confiable, se salta: masvip.com.do
+Fuente no confiable, se salta: noticentro.com.do
+Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: elperiodico.com.do
-Fuente no confiable, se salta: elperiodico.com.do
-[Famosos] Univision: texto leído 2442 letras -> https://www.univision.com/famosos/anulan-orden-de-aprehension-contra-vadhir-derbez-es-definitivo-video
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Anulan orden de aprehensión contra Vadhir Derbez: ¿es definitivo?
-[Famosos] Univision: texto leído 577 letras -> https://www.univision.com/famosos/hija-de-lili-estefan-narra-como-supo-que-tenia-esclerosis-multiple-su-cuerpo-estaba-paralizado-video
-[Famosos] El Universal: texto leído 3511 letras -> https://www.eluniversal.com.mx/espectaculos/lina-luaces-hija-de-lili-estefan-revela-su-diagnostico-de-esclerosis-multiple-asi-comenzaron-los-sintomas/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] La Prensa Gráfica: texto leído 0 letras -> https://www.laprensagrafica.com/farandula/desperte-una-manana-sin-poder-mover-la-mano-hija-de-lili-estefan-revela-que-padece-esclerosis-multiple-20261126-0019.html
-La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se quitó "Miss Universo Cuba" por "Miss Universe Cuba" consistente con las fuentes
-Revisión: corregida (se quitó "Miss Universo Cuba" por "Miss Universe Cuba" consistente con las fuentes, se corrigió "Miss Univers
-[Deportes] Lidom: texto leído 2442 letras -> https://lidom.com/noticias/tena-regresa-a-cleveland-uceta-con-cirugia-y-luciano-a-yanquis-101651.html
-Revisión: corregida (Se corrigió "vice presidente"/"executive vice president" a "presidente de operaciones de béisbol" en la atrib
+[Famosos] Telemundo: texto leído 281 letras -> https://www.telemundo.com/shows/en-casa-con-telemundo/temporada-2026/capitulo-236/tve/en-casa-con-telemundo-11-26-tmvo13248852
+No se pudo leer el artículo; no se publica para no salir corta: En Casa con Telemundo 11/26
 [Deportes] Lidom: texto leído 1731 letras -> https://lidom.com/lidom/lidom-detiene-su-calendario-por-el-dia-de-accion-de-gracias-101640.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): LIDOM detiene su calendario por el Día de Acción de Gracias
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "por la celebración" → mantuve; cambié "tiene sus raíces en" sin cambio; q
+Rechazada por la revisión: LIDOM detiene su calendario por el Día de Acción de Gracias -> cifras que no aparecen en las fuentes: 1970
+[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851521?sec=boxscore
+No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Estrellas Orientales
 [Deportes] MLB.com: texto leído 7000 letras -> https://www.mlb.com/news/things-to-be-thankful-for-from-2026-mlb-season
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)
-[Deportes] MLB.com: texto leído 2060 letras -> https://www.mlb.com/news/kevin-gausman-tigers-deal
-Rechazada por la revisión: Tigers agree to 1-year deal with veteran righty Gausman (sources) -> cifras que no aparecen en las fuentes: 2023
-[Deportes] MLB.com: texto leído 5097 letras -> https://www.mlb.com/news/brandon-valenzuela-outlook-for-blue-jays-2027
-Revisión: corregida (la fuente dice "cumple la misma cifra de 68 juegos" sí, pero el borrador afirma que Kirk fue el primero en "a
-Fuente no confiable, se salta: ipsnoticias.net
-[Precios y combustibles] CDN: texto leído 2000 letras -> https://cdn.com.do/economicas/el-fmi-propone-reformas-para-preservar-la-estabilidad-macroeconomica/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Estabilidad en un entorno incierto | Jaime Aristy Escuder
-[Precios y combustibles] Acento: texto leído 5022 letras -> https://acento.com.do/economia/teoria-del-gran-hombre-de-nvidia-tiene-fallas-9797725.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): «Teoría del gran hombre» de Nvidia tiene fallas
-Fuente no confiable, se salta: revistamercado.do
-[Precios y combustibles] El Nacional — La voz de todos: texto leído 7000 letras -> https://elnacional.com.do/economia/vivir-republica-dominicana-lujo-jovenes-permitirse_587324.html
-Cambiada de sección: Precios y combustibles -> República Dominicana: ¿Vivir solo en República Dominicana? Un lujo que muchos jóvenes no pueden permitirse
-Revisión: corregida (eliminé "Para muchos jóvenes dominicanos… es una de las principales metas" y "Yet that path…" no; cambié "Los
+[Deportes] MLB.com: texto leído 4418 letras -> https://www.mlb.com/news/blue-jays-offseason-priorities-after-kaima-taira-deal
+Revisión: corregida (eliminé la atribución de "Ernie Clement o Nathan Lukes" como si fuera parte del análisis de MLB.com sin estar
+[Deportes] MLB.com: texto leído 5943 letras -> https://www.mlb.com/news/starting-pitching-free-agent-market-update-before-thanksgiving-2026
+Revisión: corregida (se cambió "Los Mets firman" por "Mets firman" sin cambios de fondo; se corrigió "Dustin May... reached that m
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[Precios y combustibles] El Caribe: texto leído 0 letras -> https://www.elcaribe.com.do/sin-categoria/tras-victoria-ante-republica-dominicana-cuba-obtiene-boleto-a-mundial-sub-12/
+[Precios y combustibles] centralnoticias.gob.do: texto leído 3178 letras -> https://centralnoticias.gob.do/tras-victoria-ante-republica-dominicana-cuba-obtiene-boleto-a-mundial-sub-12/
+Fuente oficial encontrada: centralnoticias.gob.do 
+Cambiada de sección: Precios y combustibles -> Deportes: Tras victoria ante República Dominicana, Cuba obtiene boleto a Mundial Sub-12
+Revisión: corregida (corregí el orden de las carreras en la quinta y sexta entrada, el jonrón de Tyler Ruíz y la carrera de Delvys
+[Precios y combustibles] Infobae: texto leído 4741 letras -> https://www.infobae.com/noticias/2026/11/27/precio-del-euro-hoy-en-cuba-cotizacion-de-apertura-del-27-de-noviembre/?outputType=amp-type
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en Cuba: cotización de apertura del 27 de noviembre
+[Precios y combustibles] Acento: texto leído 7000 letras -> https://acento.com.do/actualidad/2026-el-ano-que-cientos-de-millones-dijeron-basta-9797582.html
+La IA la descartó (no es noticia, rumor, opinión o publicidad): 2026, el año que cientos de millones dijeron “basta”
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Ooe for Nintendo Switch
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nHay un único texto que es la portada de un sitio web (navegación, menús y enlaces de Nintendo), sin ninguna noticia concreta, hechos, cifras, fechas ni fuentes. No hay material para red')
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es la portada de la tienda de Nintendo (menús de navegación, enlaces y categorías de productos), no una noticia. La única referencia a un título ("REANIMAL: Red Flags for Ni')
-[Videojuegos] Nintendo: texto leído 3994 letras -> https://www.nintendo.com/us/whatsnew/customize-your-style-and-wow-the-competition-in-nintendo-switch-sports-resort/
-Fuente oficial encontrada: Nintendo 
-Revisión: corregida (corregí "Sportmate" a "Sportsmate" según la fuente; "Sportmate" aparecía en el español y el inglés decía "Spo
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me envías es la página de navegación de Nintendo (menús, enlaces y categorías de la tienda y del soporte), no una noticia. El único contenido informativo que aparece es el ')
 [Videojuegos] Nintendo Support: texto leído 2778 letras -> https://en-americas-support.nintendo.com/app/answers/detail/a_id/71859/~/how-to-update-the-legend-of-zelda%3A-ocarina-of-time
 [Videojuegos] Nintendo: texto leído 1843 letras -> https://www.nintendo.com/en-gb/Support/Purchases-Subscriptions/Games/How-to-Update-The-Legend-of-Zelda-Ocarina-of-Time-3235369.html
 Fuente oficial encontrada: Nintendo Support, Nintendo 
@@ -116,22 +134,16 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Quick Attack: 
 [Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/uk/play-pokemon/internationals/2027/latin-america/pokemon-go-results
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon GO Latin America International Championships Event Results
-[Videojuegos] Pokemon.com: texto leído 7000 letras -> https://www.pokemon.com/us/play-pokemon/internationals/2027/latin-america/vgc-senior
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): 2027 Pokémon Latin America International Championships VGC Senior Division
 [Videojuegos] Pokemon.com: texto leído 1223 letras -> https://community.pokemon.com/en-us/discussion/27051/if-your-favorite-video-game-characters-were-pokemon
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): If your favorite video game characters were Pokemon?
-[Videojuegos] Pokemon.com: texto leído 804 letras -> https://community.pokemon.com/en-us/discussion/27064/pokemon-for-your-favorite-character
+[Videojuegos] Pokemon.com: texto leído 2347 letras -> https://www.pokemon.com/us/news/compete-in-the-2027-global-challenge-ii-online-competition
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon for your favorite character!
-[Videojuegos] Pokemon.com: texto leído 604 letras -> https://community.pokemon.com/en-us/discussion/27060/please-make-a-way-to-recall-pokemon-from-gyms
-Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Please make a way to recall pokemon from gyms.
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Compete in the 2027 Global Challenge II Online Competition
 [Videojuegos] Nintendo: texto leído 1387 letras -> https://www.nintendo.com/es-cl/store/products/pinball-fx-williams-pinball-volume-11-70050000083632-switch/
 [Videojuegos] PlayStation Store: texto leído 1873 letras -> https://store.playstation.com/en-us/product/EP4042-PPSA38845_00-PINBALLFXVRWM02K
 Fuente oficial encontrada: Nintendo, PlayStation Store 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl material recibido corresponde a fichas de productos de tienda de videojuegos (Nintendo eShop y PlayStation Store), con descripciones comerciales y avisos técnicos de compra, y no a u')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl material recibido corresponde a fichas de productos de tienda digital (Nintendo y PlayStation Store) con descripciones de juegos de pinball y advertencias técnicas. No describe un he')
 [Videojuegos] Nintendo: texto leído 1055 letras -> https://www.nintendo.com/es-ar/store/products/idle-breaker-smash-boost-dlc-70050000085294-switch/
 [Videojuegos] XBOX: texto leído 687 letras -> https://www.xbox.com/en-AU/games/store/idle-breaker-smash-boost-dlc/9nwjqk2m154t
 Fuente oficial encontrada: Nintendo, XBOX 
@@ -144,10 +156,11 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): REANIMAL: Red Flags para Nintendo Switch 2
 [Videojuegos] Nintendo: texto leído 3639 letras -> https://www.nintendo.com/es-co/store/products/royal-secret-love-a-crown-between-us-boys-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. El texto que me pasaste es la ficha de un videojuego para adultos de Nintendo Switch, una novela visual de contenido sexual con personajes que son príncipes ')
-Instagram: 34 usadas en 24 horas, quedan 8; esta corrida sube hasta 1.
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo redactar esta noticia. La única versión que has pasado es la ficha de un videojuego de Nintendo Switch, una novela visual para adultos con contenido sexual, y no hay hechos noticio')
+Instagram: 36 usadas en 24 horas, quedan 6; esta corrida sube hasta 1.
+Consejo del día (divisas): Cuida tu dinero y tus remesas
 Marcadores: 28 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
 10 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 91 · ya cubiertas: 13 · no confiables: 16 · opinión: 1 · con texto leído: 52 · sin texto: 1 · medios juntados: 5 · con fuente oficial: 25 · aprobadas por la revisión: 0 · corregidas por la revisión: 10 · rechazadas por la revisión: 1 · con video: 0 · con foto oficial: 1 · error IA: 7 · descartadas por la IA: 26 · cambiadas de sección: 3 · largas: 10 · ocultas (cortas): 0
-Para Instagram (tendencia 3): Villa Navidad 2026 abre sus puertas con luces, juegos y entrada gratuita
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 8 · ya vistas: 96 · ya cubiertas: 13 · no confiables: 25 · opinión: 1 · con texto leído: 47 · sin texto: 5 · medios juntados: 4 · con fuente oficial: 25 · aprobadas por la revisión: 0 · corregidas por la revisión: 8 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 2 · error IA: 6 · descartadas por la IA: 24 · cambiadas de sección: 7 · largas: 8 · ocultas (cortas): 2
+Para Instagram (tendencia 3): Villa Navidad 2026 abre sus puertas con luces, música y personajes navideños

@@ -1,23 +1,5 @@
 [
  {
-  "fecha": "2026-11-02",
-  "tema": "kiloclaro",
-  "titulo": "Ahorra luz sin sacrificar comodidad",
-  "texto": "Apaga el aire acondicionado al salir y usa el ventilador cuando puedas, porque es mucho más barato. Desconecta cargadores y electrodomésticos en espera, que consumen energía aunque no los uses.",
-  "url": "https://kiloclarord.com",
-  "sitio": "kiloclarord.com",
-  "titulo_en": "Save power without sacrificing comfort",
-  "texto_en": "Turn off the air conditioner when you leave and use the fan whenever you can, since it costs much less. Unplug chargers and standby appliances, which draw power even when you're not using them.",
-  "boton": "Calcula tu factura",
-  "ig": "publicado",
-  "ig_img": "ig/consejo-2026-11-02.jpg",
-  "historia": "publicado",
-  "historia_img": "ig/consejo-2026-11-02-h.jpg",
-  "ig_id": "17940339183400239",
-  "ig_fecha": "2026-11-02T17:17:38.899561+00:00",
-  "historia_fecha": "2026-11-02T17:17:53.527992+00:00"
- },
- {
   "fecha": "2026-11-03",
   "tema": "divisas",
   "titulo": "Compara antes de cambiar tus dólares",
@@ -490,5 +472,20 @@
   "ig_img": "ig/consejo-2026-11-26-divisas.jpg",
   "historia": "pendiente",
   "historia_img": "ig/consejo-2026-11-26-divisas-h.jpg"
+ },
+ {
+  "fecha": "2026-11-27",
+  "tema": "divisas",
+  "titulo": "Cuida tu dinero y tus remesas",
+  "texto": "Compara siempre la tasa de cambio y las comisiones antes de enviar o cambiar dólares, porque la diferencia se nota en cada envío. Revisa también los precios de los combustibles y la tasa del dólar para decidir mejor cuándo convertir tu dinero.",
+  "url": "https://divisasrd.com",
+  "sitio": "divisasrd.com",
+  "titulo_en": "Protect Your Money and Remittances",
+  "texto_en": "Always compare the exchange rate and fees before sending or exchanging dollars, since the difference adds up with every transfer. Also check fuel prices and the dollar rate to decide better when to convert your money.",
+  "boton": "Mira la tasa en vivo",
+  "ig": "pendiente",
+  "ig_img": "ig/consejo-2026-11-27-divisas.jpg",
+  "historia": "pendiente",
+  "historia_img": "ig/consejo-2026-11-27-divisas-h.jpg"
  }
 ]
