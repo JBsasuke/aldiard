@@ -1,74 +1,82 @@
-Corrida: 2026-11-28 10:48 AM (hora RD)
+Corrida: 2026-11-28 11:48 AM (hora RD)
 [República Dominicana] Presidencia de la República Dominicana: texto leído 1759 letras -> https://www.presidencia.gob.do/noticias/gobierno-ha-nombrado-mas-de-10000-enfermeras-y-fortalece-sus-condiciones-laborales
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno ha nombrado más de 10,000 enfermeras y fortalece sus condiciones laborales -> cifras que no aparecen en las fuentes: 973
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/dictan-20-anos-de-prision-para-hombre-por-robo-agravado-en-monte-plata/
-[República Dominicana] Diario Libre: texto leído 2126 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/27/sentencia-de-20-anos-de-prision-por-robo-y-agresion-en-yamasa/3733760
-Rechazada por la revisión: Dictan 20 años de prisión para hombre por robo agravado en Monte Plata -> cifras que no aparecen en las fuentes: 500000
 [República Dominicana] DGII: texto leído 872 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/datos-del-software-a-utilizar/6b09bcec4175d10cff77b3da
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Datos del software a utilizar
 [República Dominicana] DGII: texto leído 1567 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/tratamiento-del-isr-por-venta-ocasional-de-un-equipo-de-uso-personal-realizada-por-una-persona-fsica-asalariada/6b09d5124175d10cff79b5a0
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tratamiento del ISR por venta ocasional de un equipo de uso personal realizada por una persona física asalariada
-[República Dominicana] DGII: texto leído 1447 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/retenciones-por-pago-a-consultor-en-canada/6b099d0de31105f88981906a?commentId=6b099dd3e31105f88981a155
+[República Dominicana] DGII: texto leído 577 letras -> https://ayuda.dgii.gov.do/conversations/facilidades-de-pago/ca4990-hasta-cundo-estuvo-vigente-la-circular-08-y-para-cules-periodos-aplicaba/6b09e1f33a9daeeaeaec573a
 Fuente oficial encontrada: DGII 
-Error IA: ValueError('respuesta sin el formato esperado: Este texto no es una noticia. Es una respuesta de la DGII a una consulta de un usuario en su comunidad de ayuda en línea: no informa un hecho, no tiene actores ni cifras, y en esencia remite a una con')
-[República Dominicana] De Último Minuto: texto leído 2473 letras -> https://deultimominuto.com/nacionales/dicrim-busca-a-el-men/
-Revisión: corregida (la fecha de la orden de arresto decía 27 de noviembre de 2026, pero las fuentes dicen 27 de noviembre de 2026
-[República Dominicana] De Último Minuto: texto leído 2206 letras -> https://deultimominuto.com/nacionales/muere-ahogado-oficial/
-Revisión: corregida (eliminé "conocido también como Yabacao" y "al conocerse"... no; cambios concretos abajo)
-[República Dominicana] De Último Minuto: texto leído 2816 letras -> https://deultimominuto.com/internacionales/ecuador-cierra-sus-fronteras/
-[República Dominicana] Infobae: texto leído 3499 letras -> https://www.infobae.com/america/america-latina/2026/11/28/ecuador-cerro-las-fronteras-para-impedir-ingresos-de-extranjeros-durante-las-elecciones-seccionales/
-Cambiada de sección: República Dominicana -> Internacionales: Ecuador cierra sus fronteras terrestres para impedir el ingreso de extranjeros durante las elecciones
-Revisión: corregida (eliminé "firmó" por "ordenó"/"dictó" según fuentes no lo especifican; corregí "El Niño" en claves y texto; "C
-[República Dominicana] De Último Minuto: texto leído 2961 letras -> https://deultimominuto.com/internacionales/pakistan-y-turquia/
-[República Dominicana] EFE - Agencia de noticias: texto leído 2533 letras -> https://efe.com/mundo/2026-11-28/pakistan-turquia-refuerzan-apoyo-arabia-saudio-ataques-huties/
-[República Dominicana] Prensa Libre: texto leído 985 letras -> https://www.prensalibre.com/ahora/internacional/pakistan-y-turquia-prometen-reforzar-su-apoyo-a-arabia-saudi-frente-a-los-ataques-huties/
-Cambiada de sección: República Dominicana -> Internacionales: Pakistán y Turquía prometen reforzar su apoyo a Arabia Saudí frente a los ataques hutíes
-Revisión: corregida (eliminé "según informó la agencia EFE" del texto en ambos idiomas por ser atribución innecesaria en el cuerpo
+La IA la descartó (no es noticia, rumor, opinión o publicidad): CA4990 ¿Hasta cuándo estuvo vigente la Circular 08 y para cuáles periodos aplicaba?
+[República Dominicana] De Último Minuto: texto leído 1777 letras -> https://deultimominuto.com/nacionales/joven-retenido-robo-cafe-ole/
+Revisión: corregida (se cambió "Olé de Nicolás de Ovando" por "Olé de la Nicolás de Ovando" según la fuente, se corrigió "Nicolás 
+[República Dominicana] De Último Minuto: texto leído 2900 letras -> https://deultimominuto.com/internacionales/submarino-nuclear-putin/
+[República Dominicana] Clarin.com: texto leído 4816 letras -> https://www.clarin.com/mundo/putin-puso-servicio-submarino-nuclear-equipado-misiles-hipersonicos-perm_0_tdOHsoqseT.html
+Cambiada de sección: República Dominicana -> Internacionales: Putin incorpora nuevo submarino nuclear con misiles hipersónicos a la Armada rusa
+Rechazada por la revisión: Putin incorpora nuevo submarino nuclear con misiles hipersónicos a la Armada rusa -> cifras que no aparecen en las fuentes: 200
+[República Dominicana] De Último Minuto: texto leído 3645 letras -> https://deultimominuto.com/tecnologia/tesla-apuesta-por-empresa/
+No encaja en ninguna sección, se salta: Tesla busca adquirir activos de empresa centenaria para acelerar la producción de sus robots Optimus
+[República Dominicana] De Último Minuto: texto leído 1518 letras -> https://deultimominuto.com/entretenimiento/la-casa-de-alofoke/monchy-cadenas/
+Cambiada de sección: República Dominicana -> Famosos: Monchy Cadenas le lanza una botella a Jey One en La Casa de Alofoke 3
+Revisión: corregida (se quitó "según el reporte" repetido y se atribuyó al reporte de De Último Minuto la afirmación de la broma y
+[República Dominicana] De Último Minuto: texto leído 3444 letras -> https://deultimominuto.com/internacionales/fujimori-advierte-de-la-fuerza/
+No se pudo bajar la página: <HTTPError 429: 'Too Many Requests'>
+[República Dominicana] EFE - Agencia de noticias: texto leído 2972 letras -> https://efe.com/mundo/2026-11-28/personas-rescatadas-zonas-inundadas-ciudad-piura-peru-fenomeno-nino/
+No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
+[República Dominicana] La Prensa Panamá: texto leído 0 letras -> https://www.prensa.com/mundo/unas-400-personas-rescatadas-en-zonas-inundadas-de-la-ciudad-peruana-de-piura-por-el-nino/
+Cambiada de sección: República Dominicana -> Internacionales: Unas 400 personas rescatadas en zonas inundadas de la ciudad peruana de Piura por El Niño
+Revisión: corregida (eliminé "Según la mandataria" redundante, ajusté "en un día" a "en 24 horas" para fidelidad, atribuí la cifra
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 3507 letras -> https://www.nhc.noaa.gov/gtwo.php
-[Dominicanos en EE.UU.] National Weather Service (.gov): texto leído 652 letras -> https://www.weather.gov/erh/ghwo?wfo=tbw
-Fuente oficial encontrada: NHC (.gov), National Weather Service (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+Fuente oficial encontrada: NHC (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Graphical Tropical Weather Outlook
 [Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZUS52.KKEY.html
 Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto que me pasas es un pronóstico marino automatizado del Servicio Meteorológico Nacional de EE.UU. (NOAA), con la previsión de vientos y oleaje para los Cayos de la Florida. No es')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto es un pronóstico marino automatizado del Servicio Nacional de Meteorología (NOAA) para las aguas costeras de los Cayos de Florida. Es un documento de pronóstico técnico, no una')
 [Dominicanos en EE.UU.] city of Laconia, NH (.gov): texto leído 1364 letras -> https://www.laconianh.gov/calendar.aspx?view=list&year=2026&month=11&day=10&CID=29
 Fuente oficial encontrada: city of Laconia, NH (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Laconia, NH • CivicEngage
-Fuente no confiable, se salta: primicias.net
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: wfmz.com
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: acb.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/moda-dominicana-oportunidades-y-desafios-para-los-nuevos-talentos/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, no puedo completar esta tarea tal como está planteada. El material que me pasas es un único artículo de un solo medio, El Nuevo Diario, y el encargo es producir una noticia "nueva" con las ')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Moda dominicana: oportunidades y desafíos para los nuevos talentos
+Fuente no confiable, se salta: acb.com
+Fuente no confiable, se salta: ultimasnoticias.com.do
 Fuente no confiable, se salta: noticia.do
-Fuente no confiable, se salta: elviajero.com.do
 Fuente no confiable, se salta: clarosports.com
 Fuente no confiable, se salta: momentodeportivord.com
+No se pudo bajar la página: TimeoutError('The read operation timed out')
+[Dominicanos en EE.UU.] El Nuevo Herald: texto leído 0 letras -> https://www.elnuevoherald.com/deportes/beisbol/miami-marlins/article318267167.html
+No se pudo leer el artículo; no se publica para no salir corta: Dominicano Gary Sánchez llega a los Marlins y cambia las reglas del juego en la receptoría
 Fuente no confiable, se salta: mensajero.com.ar
-[Dominicanos en EE.UU.] CDN: texto leído 4016 letras -> https://cdn.com.do/nacionales/clima/autoridades-de-florida-recalcan-riesgo-por-huracan-matthew/
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que me pasaste es de CDN (un periódico), y el texto se corta justo antes de terminar, sin un dato de cierre ni una fuente oficial que c')
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: diarioeco.com.do
+[Dominicanos en EE.UU.] N Digital: texto leído 7000 letras -> https://n.com.do/2026/11/28/china-califica-de-injerencia-exigencia-de-ee-uu-para-excluir-su-tecnologia-en-rd/
+Cambiada de sección: Dominicanos en EE.UU. -> Internacionales: China califica de «injerencia» exigencia de EE. UU. para excluir su tecnología en RD
+Revisión: corregida (quité la marca "Pekín" por "China" en algunos pasajes no necesarios, eliminé la frase de cierre genérica del 
 [Internacionales] The White House (.gov): texto leído 3516 letras -> https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-holiday-calls-to-service-members/
 Fuente oficial encontrada: The White House (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): President Trump and the First Lady Participate in Holiday Calls to Service Members
 [Internacionales] The White House (.gov): texto leído 4600 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia. La única versión que me enviaste es la página de videos de la Casa Blanca (whitehouse.gov) y su contenido es un índice de menús, enlaces y títulos de vi')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Videos – Page 2 of 204
 [Internacionales] The White House (.gov): texto leído 3514 letras -> https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-nov-26-2026/
 Fuente oficial encontrada: The White House (.gov) 
 Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no')
+[Famosos] El Nuevo Día: texto leído 1437 letras -> https://www.elnuevodia.com/entretenimiento/farandula/notas/melissa-nunez-sera-recibida-con-celebracion-y-caravana-en-republica-dominicana/
+[Famosos] Listín Diario: texto leído 1567 letras -> https://listindiario.com/entretenimiento/farandula/20261128/melissa-nunez-sera-recibida-domingo-celebracion-plaza-espana-caravana-malecon_931834/amp.html
+Revisión: corregida (se corrigió "a su llegada" por "tras su llegada"; se aclaró que el anuncio fue de Febles y no de la franquici
+[Famosos] CDN: texto leído 4118 letras -> https://cdn.com.do/nacionales/caso-melissa-medina-impulsa-reflexion-sobre-violencia-e-impunidad/
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Personalidades llaman a reflexionar sobre el caso Melissa
+[Famosos] CDN: texto leído 3027 letras -> https://cdn.com.do/nacionales/policia-ocupa-38-armas-de-fuego-en-operativos-de-inteligencia/
+[Famosos] Diario Libre: texto leído 2001 letras -> https://www.diariolibre.com/actualidad/nacional/2026/11/27/policia-nacional-ocupa-armas-de-fuego-en-operativos/3733886
+Cambiada de sección: Famosos -> República Dominicana: Policía ocupa 38 armas de fuego durante operativos de inteligencia en distintas provincias
+Revisión: corregida (se corrigió "15 provincias/demarcaciones" a lo que dicen las fuentes —15 demarcaciones listadas, no "15 provi
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 Es opinión o editorial, se salta: Stephany Ortega: una nominación que nos retrata
 Fuente no confiable, se salta: ciudadoriental.com
 Fuente no confiable, se salta: lanaciondominicana.com
 Fuente no confiable, se salta: ntelemicro.com
+Fuente no confiable, se salta: masvip.com.do
 [Famosos] Hoy Digital: texto leído 2425 letras -> https://hoy.com.do/vivir/familia-diddy-glow-tendra-techo-propio_1110173.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): La familia de Diddy Glow tendrá un techo propio
 Fuente no confiable, se salta: remolacha.net
@@ -76,16 +84,6 @@ Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: diariodelsur.com.co
 Fuente no confiable, se salta: elsoberano.mx
-Fuente no confiable, se salta: imdb.com
-Fuente no confiable, se salta: secretlosangeles.com
-Fuente no confiable, se salta: es-us.vida-estilo.yahoo.com
-Fuente no confiable, se salta: imdb.com
-Fuente no confiable, se salta: larazon.es
-Fuente no confiable, se salta: sensacine.com
-Fuente no confiable, se salta: imdb.com
-Fuente no confiable, se salta: imdb.com
-Fuente no confiable, se salta: imdb.com
-Fuente no confiable, se salta: diariolasamericas.com
 Fuente no confiable, se salta: revistafama.com
 Fuente no confiable, se salta: facebook.com
 Fuente no confiable, se salta: elinformadorchile.cl
@@ -94,69 +92,42 @@ No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 [Famosos] MILENIO: texto leído 0 letras -> https://www.milenio.com/consejos/mcdonalds-black-friday-2026-hamburguesas-29-pesos-como-conseguir
 [Famosos] MILENIO: texto leído 2293 letras -> https://amp.milenio.com/consejos/mcdonalds-black-friday-2026-hamburguesas-29-pesos-como-conseguir
 La IA la descartó (no es noticia, rumor, opinión o publicidad): McDonald's tendrá hamburguesas a 29 pesos HOY por Black Friday 2026; así puedes aprovechar la promoción
-[Famosos] El Comercio Perú: texto leído 661 letras -> https://elcomercio.pe/respuestas/farandula/sigue-magaly-tv-la-firme-en-vivo-a-que-hora-empieza-y-como-ver-via-atv-tdpe-noticia/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Sigue Magaly TV La Firme EN VIVO: a qué hora empieza y cómo ver vía ATV
-Fuente no confiable, se salta: eldiariodetandil.com
-Fuente no confiable, se salta: viapais.com.ar
-Fuente no confiable, se salta: cuballama.com
-Fuente no confiable, se salta: lasestrellas.tv
-Fuente no confiable, se salta: diariolasamericas.com
-Fuente no confiable, se salta: perfil.com
-Fuente no confiable, se salta: elperiodicomediterraneo.com
-Fuente no confiable, se salta: larazon.es
-Fuente no confiable, se salta: laregion.es
-Fuente no confiable, se salta: sensacine.com
-Fuente no confiable, se salta: reporteindigo.com
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[Famosos] Diario AS: texto leído 0 letras -> https://as.com/tikitakas/famosos/javier-camara-actor-sobre-los-inicios-de-su-carrera-sali-de-mi-pueblo-porque-me-ahogaba-f202611-n/
-No se pudo leer el artículo; no se publica para no salir corta: Javier Cámara, actor, sobre los inicios de su carrera: “Salí de mi pueblo porque me ahogaba”
-Fuente no confiable, se salta: los40.us
-[Famosos] La Vanguardia: texto leído 6872 letras -> https://www.lavanguardia.com/magazine/protagonistas/20261128/11692983/j-balvin-regueton-fronteras-latinos-venimos-musica-estilo-ideas.html
-La IA la descartó (no es noticia, rumor, opinión o publicidad): J Balvin, reguetón sin fronteras: “Los latinos venimos con música, con estilo y con ideas”
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851499?ins=previa&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Toros del Este vs Gigantes del Cibao
-[Deportes] Lidom: texto leído 97 letras -> https://lidom.com/estadisticas/juego/851531?ins=previa&sec=boxscore
-No se pudo leer el artículo; no se publica para no salir corta: Estadísticas del juego Visitante vs Local
-[Deportes] MLB.com: texto leído 3604 letras -> https://www.mlb.com/news/red-sox-options-for-right-handed-starters-on-free-agent-market
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Which righty starter could balance Red Sox's rotation?
-[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/gameday/obregon-vs-los-mochis/2026/11/27/850377/live
-No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Obregon at Los Mochis, Probable Pitchers, Lineups, and more
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_06_00PM.pdf
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/27/26 06:00 PM
-[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_02_00PM.pdf
-Error IA: ValueError('respuesta sin el formato esperado: Lo que recibiste es el contenido binario crudo de un archivo PDF (un reporte de lesiones de la NBA), no texto de una noticia. Aparecen metadatos, objetos y datos comprimidos, pero no hay ningún hecho ')
-[Precios y combustibles] Infobae: texto leído 4693 letras -> https://www.infobae.com/noticias/2026/11/27/precio-del-euro-hoy-en-cuba-cotizacion-de-cierre-del-27-de-noviembre/?outputType=amp-type
-[Precios y combustibles] El Comercio Perú: texto leído 2626 letras -> https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-viernes-27-de-noviembre-de-2026-tipo-de-cambio-usd-a-mxn-cuanto-vale-y-cotizacion-de-banxico-fix-nnda-nnrt-noticia/
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en Cuba: cotización de cierre del 27 de noviembre
-Fuente no confiable, se salta: iprofesional.com
-Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: somosjujuy.com.ar
-Fuente no confiable, se salta: americatv.com.pe
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: ambito.com
-Fuente no confiable, se salta: newsinamerica.com
-Fuente no confiable, se salta: lalupadelsur.com
-Fuente no confiable, se salta: ntelemicro.com
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/tigres-vs-toros/2026/12/02/851428/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Toros, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/872021/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: San Juan vs. Mayaguez, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/carolina-vs-ponce/2026/12/01/872029/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Carolina vs. Ponce, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/869949/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Tigres vs. Tiburones, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/851545/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Estrellas vs. Aguilas, lanzadores probables, alineaciones, y más
+[Deportes] MLB.com: texto leído 0 letras -> https://www.mlb.com/es/gameday/869948/preview
+No se pudo leer el artículo; no se publica para no salir corta: MLB Gameday: Caribes vs. Cardenales, lanzadores probables, alineaciones, y más
+[Precios y combustibles] Infobae: texto leído 3648 letras -> https://www.infobae.com/el-salvador/2026/11/28/el-costo-de-la-comida-basica-en-el-salvador-rompe-un-record-historico-y-golpea-el-presupuesto-de-los-hogares-urbanos/
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (eliminé "La canasta también incluye un 10% adicional..." no; cambié la atribución 
+Revisión: corregida (eliminé "La canasta también incluye un 10% adicional..." no; cambié la atribución de la causa "El Niño y petr
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado como Versión 1 corresponde a la página de navegación de Nintendo (menús, enlaces de tienda y soporte) y no contiene una noticia concreta: no describe ningún hecho')
-[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
-Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado como Versión 1 es únicamente la navegación y el menú de la página oficial de Nintendo (opciones como "Shop", "Support", "Nintendo Switch 2" o "Nintendo Store"), s')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado es únicamente la página de navegación de Nintendo (menús, enlaces de tienda y soporte) con un titular genérico, "Ooe for Nintendo Switch". No contiene una noticia')
 [Videojuegos] Nintendo: texto leído 1551 letras -> https://www.nintendo.com/us/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
 [Videojuegos] Nintendo: texto leído 3144 letras -> https://www.nintendo.com/us/store/products/nba-2k27-vice-city-edition-switch-2/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero no puedo redactar esta noticia a partir del texto que me pasaste. Es una descripción de producto publicada por Nintendo (una ficha de venta de un videojuego, con mensajes promocionales')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): NBA 2K27 Vice City Edition
+[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/legend-of-hand-switch/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es la portada de navegación del sitio de Nintendo, sin una noticia concreta: solo contiene menús, enlaces y categorías de la tienda y del soporte técnico. No hay hechos, fec')
 [Videojuegos] Pokemon.com: texto leído 804 letras -> https://community.pokemon.com/en-us/discussion/27064/pokemon-for-your-favorite-character
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon for your favorite character!
-[Videojuegos] Pokemon.com: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: Please make a way to recall pokemon from gyms.
 [Videojuegos] Pokemon.com: texto leído 718 letras -> https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/me-series/me06/90/
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Adventure Lantern | Delta Reign | TCG Card Database
+[Videojuegos] Pokemon.com: texto leído 857 letras -> https://community.pokemon.com/en-us/discussion/27071/mega-lopunny-ex-vs-crustle
+Fuente oficial encontrada: Pokemon.com 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Mega Lopunny EX vs Crustle
 [Videojuegos] Nintendo: texto leído 2157 letras -> https://www.nintendo.com/es-cl/store/products/100th-dawn-farm-and-defense-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 100th Dawn: Farm & Defense
@@ -173,12 +144,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Pinball FX - W
 [Videojuegos] Nintendo: texto leído 924 letras -> https://www.nintendo.com/es-co/store/products/gt-racing-pro-expansion-pack-4-70050000084267-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): GT Racing Pro Expansion Pack #4
-[Videojuegos] Nintendo: texto leído 1841 letras -> https://www.nintendo.com/es-co/store/products/character-pass-vol-1-70070000041971-switch-2/
-Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Pase de personajes Vol. 1
 Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 1.
 Marcadores: 28 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-9 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 113 · ya cubiertas: 30 · no confiables: 56 · opinión: 1 · con texto leído: 43 · sin texto: 7 · medios juntados: 3 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 4 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 0 · error IA: 11 · descartadas por la IA: 20 · cambiadas de sección: 2 · largas: 4 · ocultas (cortas): 5
-Para Instagram (tendencia 3): Pakistán y Turquía prometen reforzar apoyo a Arabia Saudí ante ataques hutíes
+14 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 0 · ya vistas: 67 · ya cubiertas: 13 · no confiables: 20 · opinión: 1 · con texto leído: 40 · sin texto: 9 · medios juntados: 4 · con fuente oficial: 22 · aprobadas por la revisión: 0 · corregidas por la revisión: 7 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 0 · error IA: 4 · descartadas por la IA: 22 · cambiadas de sección: 5 · largas: 7 · ocultas (cortas): 7
+Para Instagram (tendencia 3): Rescatan a unas 400 personas en Piura tras lluvias de El Niño
