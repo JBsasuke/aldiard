@@ -1,11 +1,8 @@
-Corrida: 2026-11-28 08:48 AM (hora RD)
+Corrida: 2026-11-28 09:48 AM (hora RD)
+Noticia con datos propios: Dólar en RD: dónde conviene comprar y vender hoy
 [República Dominicana] Presidencia de la República Dominicana: texto leído 1759 letras -> https://www.presidencia.gob.do/noticias/gobierno-ha-nombrado-mas-de-10000-enfermeras-y-fortalece-sus-condiciones-laborales
 Fuente oficial encontrada: Presidencia de la República Dominicana 
 Rechazada por la revisión: Gobierno ha nombrado más de 10,000 enfermeras y fortalece sus condiciones laborales -> cifras que no aparecen en las fuentes: 163, 973
-No se pudo bajar la página: <HTTPError 470: ''>
-[República Dominicana] Procuraduría General de la República Dominicana: texto leído 0 letras -> https://pgr.gob.do/dictan-20-anos-de-prision-para-hombre-por-robo-agravado-en-monte-plata/
-[República Dominicana] Diario Libre: texto leído 2126 letras -> https://www.diariolibre.com/actualidad/justicia/2026/11/27/sentencia-de-20-anos-de-prision-por-robo-y-agresion-en-yamasa/3733760
-Rechazada por la revisión: Dictan 20 años de prisión para hombre por robo agravado en Monte Plata -> cifras que no aparecen en las fuentes: 500000
 [República Dominicana] DGII: texto leído 1409 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/duda-respecto-a-reporte/6b0990b83a9daeeaeae364a7
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Duda respecto a reporte
@@ -15,30 +12,39 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Datos del soft
 [República Dominicana] DGII: texto leído 1567 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/tratamiento-del-isr-por-venta-ocasional-de-un-equipo-de-uso-personal-realizada-por-una-persona-fsica-asalariada/6b09d5124175d10cff79b5a0
 Fuente oficial encontrada: DGII 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Tratamiento del ISR por venta ocasional de un equipo de uso personal realizada por una persona física asalariada
-[República Dominicana] De Último Minuto: texto leído 3714 letras -> https://deultimominuto.com/el-tiempo/lluvias-aisladas-28-noviembre/
-[República Dominicana] El Nuevo Diario: texto leído 2421 letras -> https://elnuevodiario.com.do/sistema-de-alta-presion-limitara-las-lluvias-y-mantendra-temperaturas-calurosas/
-[República Dominicana] Diario Libre: texto leído 2249 letras -> https://www.diariolibre.com/planeta/clima/2026/11/28/clima-en-rd-pronostican-chubascos-para-este-sabado-y-domingo/3734072
-Revisión: corregida (se corrigió la atribución a Indomet en la oración "Para el domingo" y se añadió cómo se pronostican las tempe
+[República Dominicana] DGII: texto leído 671 letras -> https://ayuda.dgii.gov.do/conversations/discusiones/cliente-reclama-ncf-fuera-de-periodo-y-amenaza-con-denunciar-si-no-se-emite/6b09be62e31105f88985f34c
+Fuente oficial encontrada: DGII 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Cliente Reclama NCF fuera de periodo y amenaza con denunciar si no se emite
+[República Dominicana] De Último Minuto: texto leído 2055 letras -> https://deultimominuto.com/internacionales/explosion-cerca-de-una-escuela/
+[República Dominicana] RTVE.es: texto leído 1387 letras -> https://www.rtve.es/noticias/20261128/menos-siete-estudiantes-muertos-decenas-heridos-tras-explosion-cerca-escuela-afganistan/17335183.shtml
+[República Dominicana] LaSexta: texto leído 2764 letras -> https://amp.lasexta.com/noticias/internacional/menos-siete-muertos-mas-90-heridos-explosion-registrada-cerca-escuela-afganistan_202611286b0abf5e5cb1082f89b72fef.html
+Cambiada de sección: República Dominicana -> Internacionales: Al menos 7 muertos y casi 100 heridos por explosión cerca de una escuela en Afganistán
+Revisión: corregida (se corrigió el nombre del director según EFE "Samiulhaq Haq-Bayan" ya coincide; se eliminó la atribución a EF
+[República Dominicana] De Último Minuto: texto leído 6056 letras -> https://deultimominuto.com/nacionales/justicia/medico-wilbert-polanco-reapresado/
+[República Dominicana] Listín Diario: texto leído 1964 letras -> https://listindiario.com/la-republica/justicia/20261127/detienen-nuevamente-medico-wilbert-polanco-nueva-denuncia-presunta-agresion-sexual_931818.html
+La revisión no respondió bien; se sigue con la comprobación de cifras: ValueError('respuesta sin el formato esperado: REVISION: corregida (se corrigió "Villa Riva" consistente con fuentes sin cambio; se quitó la atribució
+Revisión: corregida (se corrigió "Villa Riva" consistente con fuentes sin cambio; se quitó la atribución a Listín Diario de la fra
+[República Dominicana] De Último Minuto: texto leído 7000 letras -> https://deultimominuto.com/nacionales/capacita-republica-dominicana/
+Rechazada por la revisión: ¿Capacita la República Dominicana a los profesionales que necesita su economía? -> cifras que no aparecen en las fuentes: 55000
 [República Dominicana] De Último Minuto: texto leído 4643 letras -> https://deultimominuto.com/estilo/efemerides/efemerides-del-28-de-noviembre/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Efemérides del 28 de noviembre: acontecimientos históricos y celebraciones
-[República Dominicana] De Último Minuto: texto leído 193 letras -> https://deultimominuto.com/author/santiagomatias/
-No se pudo leer el artículo; no se publica para no salir corta: Santiago Matias - De Último Minuto
-[República Dominicana] De Último Minuto: texto leído 6617 letras -> https://deultimominuto.com/internacionales/pizza-hut-dan-carney-8/
-No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
-[República Dominicana] The New York Times: texto leído 0 letras -> https://www.nytimes.com/es/2026/11/27/espanol/cultura/muere-fundador-pizza-hut.html
-No encaja en ninguna sección, se salta: Muere Dan Carney, cofundador de Pizza Hut, a los 95 años
+[Dominicanos en EE.UU.] Vicepresidencia de la Republica Dominicana: texto leído 2497 letras -> https://vicepresidencia.gob.do/raquel-pena-encabeza-en-santiago-lanzamiento-de-oferta-del-inespre-de-10-productos-de-la-canasta-basica-por-rd1000/
+Fuente oficial encontrada: Vicepresidencia de la Republica Dominicana 
+Cambiada de sección: Dominicanos en EE.UU. -> Precios y combustibles: Raquel Peña encabeza en Santiago lanzamiento de oferta del Inespre de 10 productos de la canasta básica por RD$1,000
+Revisión: corregida (quité "en un momento de precios altos" y "para las familias... busca reducir el gasto" ya que la fuente no lo
 [Dominicanos en EE.UU.] NHC (.gov): texto leído 3507 letras -> https://www.nhc.noaa.gov/gtwo.php
-[Dominicanos en EE.UU.] National Weather Service (.gov): texto leído 652 letras -> https://www.weather.gov/erh/ghwo?wfo=tbw
+[Dominicanos en EE.UU.] National Weather Service (.gov): texto leído 652 letras -> https://www.weather.gov/erh/ghwo?wfo=phi
 Fuente oficial encontrada: NHC (.gov), National Weather Service (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Graphical Tropical Weather Outlook
 [Dominicanos en EE.UU.] NOAA (.gov): texto leído 7000 letras -> https://www.ndbc.noaa.gov/data/Forecasts/FZUS52.KKEY.html
 Fuente oficial encontrada: NOAA (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNo es posible redactar una noticia a partir de este texto. Se trata de un pronóstico marítimo automatizado del Servicio Meteorológico Nacional de EE.UU. (NOAA), con datos de viento, ole')
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente no es una noticia concreta. Es un pronóstico marítimo rutinario del Servicio Nacional de Meteorología de EE.UU. (NOAA) para las aguas de los Cayos de la Florida. Describe vi')
 [Dominicanos en EE.UU.] city of Laconia, NH (.gov): texto leído 1364 letras -> https://www.laconianh.gov/calendar.aspx?view=list&year=2026&month=11&day=10&CID=29
 Fuente oficial encontrada: city of Laconia, NH (.gov) 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Laconia, NH • CivicEngage
-[Dominicanos en EE.UU.] De Último Minuto: texto leído 4179 letras -> https://deultimominuto.com/nacionales/dominicanos-extranjero-eeuu-8/
-Revisión: corregida (España: la fuente dice "2025" como año del registro censal, pero el borrador lo presenta como dato de "su cen
+[Dominicanos en EE.UU.] City of Norfolk (.gov): texto leído 2919 letras -> https://www.norfolk.gov/calendar.aspx?view=list&year=2026&month=11&day=19&CID=24,25,73,75,41,143,141,145,142,146,140,147,164
+Fuente oficial encontrada: City of Norfolk (.gov) 
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Calendar • Norfolk, VA • CivicEngage
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: primicias.net
 Fuente no confiable, se salta: remolacha.net
@@ -47,70 +53,69 @@ Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: wfmz.com
 [Dominicanos en EE.UU.] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/moda-dominicana-oportunidades-y-desafios-para-los-nuevos-talentos/
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Moda dominicana: oportunidades y desafíos para los nuevos talentos
-Fuente no confiable, se salta: acb.com
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: noticia.do
-Fuente no confiable, se salta: elviajero.com.do
-Fuente no confiable, se salta: ultimasnoticias.com.do
-Fuente no confiable, se salta: diarioeco.com.do
 [Internacionales] The White House (.gov): texto leído 3516 letras -> https://www.whitehouse.gov/videos/president-trump-and-the-first-lady-participate-in-holiday-calls-to-service-members/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Esta fuente es solo la página de videos del sitio de la Casa Blanca: muestra un título y fechas de videos, sin describir qué pasó en las llamadas, quién participó más allá del título, ni ningún otro h')
+Error IA: ValueError('respuesta sin el formato esperado: Lo que tengo es solo la página de la Casa Blanca, que es un índice de videos y menús. El único dato concreto es el titular: el presidente Trump y la primera dama participan en llamadas navideñas con m')
 [Internacionales] The White House (.gov): texto leído 4600 letras -> https://www.whitehouse.gov/videos/page/2/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la única versión que me pasaste es la página de videos de la Casa Blanca (whitehouse.gov). No contiene ninguna noticia concreta: es un índice de navegación con menús, títulos de videos')
+Error IA: ValueError('respuesta sin el formato esperado: Lo siento, pero la versión que me pasaste no contiene una noticia que yo pueda redactar. Es la página de videos de whitehouse.gov (listado de videos, menús de navegación y un título sobre la primera d')
 [Internacionales] The White House (.gov): texto leído 3514 letras -> https://www.whitehouse.gov/videos/president-trump-signs-executive-orders-nov-26-2026/
 Fuente oficial encontrada: The White House (.gov) 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nHay una sola versión y es la página de navegación de la Casa Blanca, no una noticia concreta. El texto solo contiene menús, enlaces y títulos de videos (por ejemplo, "President Trump Si')
-[Famosos] CDN: texto leído 3616 letras -> https://cdn.com.do/nacionales/castillo-pide-ponderar-advertencias-de-ee-uu-sobre-tecnologia/
-[Famosos] AlMomento.net: texto leído 1427 letras -> https://almomento.net/gonzalo-pide-atender-alertas-de-usa-sobre-seguridad-tecnologica/
-Cambiada de sección: Famosos -> República Dominicana: Gonzalo Castillo pide al Gobierno atender alertas de EE. UU. sobre tecnología
-Revisión: corregida (corregí la atribución de las declaraciones sobre el arroz/DR-CAFTA y de la cifra del 20 %, que las fuentes at
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEsta fuente es una página de navegación del sitio oficial de la Casa Blanca (menús, enlaces y un video con título y fecha). No contiene el contenido de la noticia, ni declaraciones, ni ')
 No se pudo bajar la página: <HTTPError 403: 'Forbidden'>
 Es opinión o editorial, se salta: Stephany Ortega: una nominación que nos retrata
 Fuente no confiable, se salta: ciudadoriental.com
-Fuente no confiable, se salta: instagram.com
-[Famosos] Acento: texto leído 2075 letras -> https://acento.com.do/cultura/antonio-pendones-explora-la-historia-compartida-de-republica-dominicana-y-haiti-en-exposicion-la-isla-de-dos-9798271.html
-[Famosos] N Digital: texto leído 0 letras -> sin enlace
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Antonio Pendones explora la historia compartida de República Dominicana y Haití en exposición 'La Isla de Dos'
+Fuente no confiable, se salta: lanaciondominicana.com
 Fuente no confiable, se salta: ntelemicro.com
 [Famosos] Hoy Digital: texto leído 2425 letras -> https://hoy.com.do/vivir/familia-diddy-glow-tendra-techo-propio_1110173.html
 La IA la descartó (no es noticia, rumor, opinión o publicidad): La familia de Diddy Glow tendrá un techo propio
 Fuente no confiable, se salta: remolacha.net
 Fuente no confiable, se salta: elpregonerord.com
 Fuente no confiable, se salta: elpregonerord.com
-[Famosos] Hoy Digital: texto leído 0 letras -> sin enlace
-No se pudo leer el artículo; no se publica para no salir corta: La chispa dominicana se cuela en las elecciones de España
 Fuente no confiable, se salta: revistamercado.do
-Fuente no confiable, se salta: noticentro.com.do
+[Famosos] Acento: texto leído 2684 letras -> https://acento.com.do/cultura/casa-del-cordon-celebra-su-segundo-aniversario-con-mas-de-120-mil-visitantes-desde-su-apertura-9798366.html
+[Famosos] El Nuevo Diario: texto leído 4205 letras -> https://elnuevodiario.com.do/centro-cultural-taino-casa-del-cordon-celebra-segundo-aniversario-con-un-fin-de-semana-de-puertas-abiertas/
+Cambiada de sección: Famosos -> República Dominicana: Casa del Cordón celebra su segundo aniversario con más de 120 mil visitantes desde su apertura
+Rechazada por la revisión: Casa del Cordón celebra su segundo aniversario con más de 120 mil visitantes desde su apertura -> cifras que no aparecen en las fuentes: 120000
 Fuente no confiable, se salta: serperuano.com
-Fuente no confiable, se salta: elpregonerord.com
+Fuente no confiable, se salta: diariodelsur.com.co
 Fuente no confiable, se salta: elsoberano.mx
-[Famosos] Univision: texto leído 3639 letras -> https://www.univision.com/famosos/rebeca-saenz-ex-ernesto-zedillo-jr-relacion-michel-kuri-expareja-lucero
-Revisión: corregida (se corrigió "tras rompa" a "tras romper"; se atribuyó a Univision la información de la entrevista; se cambió 
-[Deportes] Lidom: texto leído 3368 letras -> https://lidom.com/tigres-del-licey/casas-conecta-grand-slam-y-gutierrez-guia-al-licey-101727.html
-[Deportes] Diario Libre: texto leído 3435 letras -> https://www.diariolibre.com/deportes/beisbol/2026/11/27/triston-casas-regresa-a-la-lidom-con-grand-slam-y-el-licey-aplasto/3733954
-[Deportes] Acento: texto leído 2826 letras -> https://acento.com.do/deportes/licey-derrota-7-1-a-los-gigantes-con-grand-slam-de-triston-casas-y-recupera-terreno-en-la-clasificacion-9798319.html
-Revisión: corregida (cambié el texto de la victoria "su segunda de la temporada" sin cambios; corregí: "cinco entradas en blanco..
-[Deportes] MLB.com: texto leído 2824 letras -> https://www.mlb.com/news/teruaki-sato-prior-cubs-connections-before-contract
-Revisión: corregida (corregí la fecha del juego de exhibición a "14 de marzo" según la fuente; quité la afirmación de que Hoyer es
-Fuente no confiable, se salta: revistaeyn.com
-Fuente no confiable, se salta: lalupadelsur.com
-Fuente no confiable, se salta: surtidoreslatam.com
-Fuente no confiable, se salta: ambito.com
+[Famosos] Telemundo: texto leído 2440 letras -> https://www.telemundo.com/noticias/noticias-telemundo/estados-unidos/black-friday-saca-a-los-compradores-de-casa-las-tiendas-se-llenan-en-b-rcna611595
+Cambiada de sección: Famosos -> Precios y combustibles: ‘Black Friday’ saca a los compradores de casa: las tiendas se llenan en busca de descuentos
+Revisión: corregida (cambié la sección a "Economía y consumo" por ser más acorde al tema; ajusté "Dolphin Mall" sin cambios de fon
+[Famosos] Telemundo: texto leído 282 letras -> https://www.telemundo.com/shows/la-mesa-caliente/temporada-2026/capitulo-237/tve/la-mesa-caliente-11-27-tmvo13249200
+No se pudo leer el artículo; no se publica para no salir corta: La Mesa Caliente 11/27
+[Famosos] Telemundo: texto leído 281 letras -> https://www.telemundo.com/shows/en-casa-con-telemundo/temporada-2026/capitulo-237/tve/en-casa-con-telemundo-11-27-tmvo13249168
+No se pudo leer el artículo; no se publica para no salir corta: En Casa con Telemundo 11/27
+[Deportes] Lidom: texto leído 0 letras -> sin enlace
+No se pudo leer el artículo; no se publica para no salir corta: Ronnie Simon destaca la unidad del equipo y confía en revertir la mala racha
+[Deportes] MLB.com: texto leído 4158 letras -> https://www.mlb.com/news/braves-free-agent-starting-pitcher-options-ahead-of-2027
+Revisión: corregida (cambié "Según el medio" por "Según MLB.com" para atribuir correctamente; corregí "nueve aperturas de temporad
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_06_00PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/27/26 06:00 PM
+[Deportes] NBA.com: texto leído 7000 letras -> https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-27_02_00PM.pdf
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Injury Report: 11/27/26 02:00 PM
+[Deportes] NBA.com: texto leído 5769 letras -> https://www.nba.com/news/biggest-changes-usage-possession-time-2026-27
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Whose usage and time of possession have changed drastically this season?
+[Deportes] NBA.com: texto leído 7000 letras -> https://www.nba.com/news/starting-5-november-27-2026
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Starting 5: Emirates NBA Cup Group Play wraps up tonight
 Fuente no confiable, se salta: ntelemicro.com
-[Precios y combustibles] Infobae: texto leído 4741 letras -> https://www.infobae.com/noticias/2026/11/27/precio-del-euro-hoy-en-cuba-cotizacion-de-apertura-del-27-de-noviembre/?outputType=amp-type
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Precio del euro hoy en Cuba: cotización de apertura del 27 de noviembre
 Fuente no confiable, se salta: iprofesional.com
-[Precios y combustibles] El Nuevo Diario: texto leído 7000 letras -> https://elnuevodiario.com.do/inflacion-tasa-de-interes-y-expectativas-2027/
-Error IA: ValueError('respuesta sin el formato esperado: No puedo redactar esta noticia tal como está planteada, porque el texto que me pasas no contiene una noticia concreta ni hechos verificables. Es un artículo de análisis general sobre inflación, tasas ')
 Fuente no confiable, se salta: revistamercado.do
 Fuente no confiable, se salta: somosjujuy.com.ar
 Fuente no confiable, se salta: cachicha.com
 Fuente no confiable, se salta: americatv.com.pe
+Fuente no confiable, se salta: noticias.cubitanow.com
+Fuente no confiable, se salta: surtidoreslatam.com
+Fuente no confiable, se salta: ambito.com
+Fuente no confiable, se salta: newsinamerica.com
+Fuente no confiable, se salta: lalupadelsur.com
 [Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/ooe-switch/
 Fuente oficial encontrada: Nintendo 
-Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nEl texto proporcionado corresponde únicamente a la página de navegación de Nintendo (menús, enlaces y categorías de su sitio web) y no contiene una noticia concreta sobre ningún hecho, ')
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Ooe for Nintendo Switch
+[Videojuegos] Nintendo: texto leído 575 letras -> https://www.nintendo.com/us/store/products/reanimal-red-flags-70050000066774-switch-2/
+Fuente oficial encontrada: Nintendo 
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\n\nNota: el texto proporcionado como "Versión 1 — Nintendo (FUENTE OFICIAL)" es únicamente la navegación y el menú de la página oficial de Nintendo. No contiene ninguna noticia concreta so')
 [Videojuegos] Nintendo: texto leído 1551 letras -> https://www.nintendo.com/us/store/products/18-in-1-cozy-games-mega-collection-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 18 in 1 Cozy Games Mega Collection
@@ -120,9 +125,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Pokemon for yo
 [Videojuegos] Pokemon.com: texto leído 604 letras -> https://community.pokemon.com/en-us/discussion/27060/please-make-a-way-to-recall-pokemon-from-gyms
 Fuente oficial encontrada: Pokemon.com 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Please make a way to recall pokemon from gyms.
-[Videojuegos] Pokemon.com: texto leído 929 letras -> https://community.pokemon.com/en-us/discussion/27059/when-talonflame-ex-is-put-into-play-while-risky-ruins-is-in-play-it-doesnt-receive-20-dmg
+[Videojuegos] Pokemon.com: texto leído 718 letras -> https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/me-series/me06/90/
 Fuente oficial encontrada: Pokemon.com 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): When Talonflame ex is put into play while Risky Ruins is in play, it doesn't receive 20 dmg
+La IA la descartó (no es noticia, rumor, opinión o publicidad): Adventure Lantern | Delta Reign | TCG Card Database
 [Videojuegos] Nintendo: texto leído 2157 letras -> https://www.nintendo.com/es-cl/store/products/100th-dawn-farm-and-defense-switch/
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): 100th Dawn: Farm & Defense
@@ -131,7 +136,7 @@ Fuente oficial encontrada: Nintendo
 La IA la descartó (no es noticia, rumor, opinión o publicidad): Spellwire para Nintendo Switch - Sitio Oficial de Nintendo para Chile
 [Videojuegos] Nintendo: texto leído 973 letras -> https://www.nintendo.com/es-co/store/products/additional-skin-white-slime-bodysuit-zeta-70050000084712-switch-2/
 Fuente oficial encontrada: Nintendo 
-La IA la descartó (no es noticia, rumor, opinión o publicidad): Aspecto adicional "Traje de slime (Blanco) (Zeta)"
+Error IA: ValueError('respuesta sin el formato esperado: CONFIABLE: no\nSECCION: Ninguna\n\nEl contenido proporcionado no corresponde a una noticia. Es la ficha de un producto de la tienda de Nintendo (un aspecto adicional descargable para el juego The Eminenc')
 [Videojuegos] Nintendo: texto leído 1387 letras -> https://www.nintendo.com/es-co/store/products/pinball-fx-williams-pinball-volume-11-70050000083632-switch/
 [Videojuegos] PlayStation Store: texto leído 1917 letras -> https://store.playstation.com/en-us/product/EP4042-PPSA38845_00-PINBALLFXVRWM02K
 Fuente oficial encontrada: Nintendo, PlayStation Store 
@@ -140,8 +145,9 @@ La IA la descartó (no es noticia, rumor, opinión o publicidad): Pinball FX - W
 Fuente oficial encontrada: Nintendo 
 La IA la descartó (no es noticia, rumor, opinión o publicidad): GT Racing Pro Expansion Pack #4
 Instagram: 31 usadas en 24 horas, quedan 11; esta corrida sube hasta 1.
+Consejo del día (divisas): Cuida tu dinero y tus remesas
 Marcadores: 28 juegos de LIDOM entre hace 3 días y dentro de 5
 Fotos para subir a mano: 60 en aldiard.com/fotosjb88/
-8 noticias nuevas, 400 en total
-RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 112 · ya cubiertas: 30 · no confiables: 33 · opinión: 1 · con texto leído: 41 · sin texto: 5 · medios juntados: 5 · con fuente oficial: 20 · aprobadas por la revisión: 0 · corregidas por la revisión: 6 · rechazadas por la revisión: 2 · con video: 0 · con foto oficial: 0 · error IA: 6 · descartadas por la IA: 20 · cambiadas de sección: 1 · largas: 6 · ocultas (cortas): 2
-Para Instagram (tendencia 3): Alta presión dejará pocas lluvias y calor este fin de semana en RD
+9 noticias nuevas, 400 en total
+RESUMEN DE LA CORRIDA: tasa/combustibles (usamos datos propios): 7 · ya vistas: 104 · ya cubiertas: 29 · no confiables: 27 · opinión: 1 · con texto leído: 43 · sin texto: 3 · medios juntados: 3 · con fuente oficial: 24 · aprobadas por la revisión: 0 · corregidas por la revisión: 5 · rechazadas por la revisión: 3 · con video: 0 · con foto oficial: 1 · error IA: 6 · descartadas por la IA: 23 · cambiadas de sección: 4 · largas: 5 · ocultas (cortas): 3
+Para Instagram (tendencia 5): Black Friday llena las tiendas de compradores en busca de descuentos en todo el país
